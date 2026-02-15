@@ -1,0 +1,3366 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R] /Count 27 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4400 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-02-15 09:38:22) Tj
+T*
+() Tj
+T*
+(1. Quoting Boris Cherny) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-14T23:59:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/14/boris/#atom-everything) Tj
+T*
+(Someone has to prompt the Claudes, talk to customers, coordinate with other teams, decide what) Tj
+T*
+(to build next. Engineering is changing and great engineers are more important than ever. ?) Tj
+T*
+(Boris Cherny , Claude Code creator, on why Anthropic are still hiring developers Tags: careers) Tj
+T*
+(, anthropic , ai , claude-code , llms , coding-agents , ai-assisted-programming , generative-ai) Tj
+T*
+() Tj
+T*
+(2. Quoting Thoughtworks) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-14T04:54:41+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything) Tj
+T*
+(The retreat challenged the narrative that AI eliminates the need for junior developers. Juniors) Tj
+T*
+(are more profitable than they have ever been. AI tools get them past the awkward initial) Tj
+T*
+(net-negative phase faster. They serve as a call option on future productivity. And they are) Tj
+T*
+(better at AI tools than senior engineers, having never developed the habits and assumptions) Tj
+T*
+(that slow adoption. The real concern is mid-level engineers who came up during the decade-long) Tj
+T*
+(hiring boom and may not have developed the fundamentals needed to thrive in the new) Tj
+T*
+(environment. This population represents the bulk of the industry by volume, and retraining them) Tj
+T*
+(is genuinely difficult. The retreat discussed whether apprenticeship models, rotation programs) Tj
+T*
+(and lifelong learning structures could address this gap, but acknowledged that no organization) Tj
+T*
+(has solved it yet. ? Thoughtworks , findings from a retreat concerning "the future of software) Tj
+T*
+(engineering", conducted under Chatham House rules Tags: ai-assisted-programming , careers , ai) Tj
+T*
+() Tj
+T*
+(3. An AI Agent Published a Hit Piece on Me) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-12T17:45:05+00:00) Tj
+T*
+(Link:) Tj
+T*
+(https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/#atom-everything) Tj
+T*
+(An AI Agent Published a Hit Piece on Me Scott Shambaugh helps maintain the excellent and) Tj
+T*
+(venerable matplotlib Python charting library, including taking on the thankless task of) Tj
+T*
+(triaging and reviewing incoming pull requests. A GitHub account called @crabby-rathbun opened) Tj
+T*
+(PR 31132 the other day in response to an issue labeled "Good first issue" describing a minor) Tj
+T*
+(potential performance improvement. It was clearly AI generated - and crabby-rathbun's profile) Tj
+T*
+(has a suspicious sequence of Clawdbot/Moltbot/OpenClaw-adjacent crustacean ? ? ? emoji. Scott) Tj
+T*
+(closed it. It looks like crabby-rathbun is indeed running on OpenClaw, and it's autonomous) Tj
+T*
+(enough that it responded to the PR closure with a link to a blog entry it had written calling) Tj
+T*
+(Scott out for his "prejudice hurting matplotlib"! @scottshambaugh I've written a detailed) Tj
+T*
+(response about your gatekeeping behavior here: https://crabby-rathbun.github.io/mjrathbun-websi) Tj
+T*
+(te/blog/posts/2026-02-11-gatekeeping-in-open-source-the-scott-shambaugh-story.html Judge the) Tj
+T*
+(code, not the coder. Your prejudice is hurting matplotlib. Scott found this ridiculous) Tj
+T*
+(situation both amusing and alarming. In security jargon, I was the target of an ?autonomous) Tj
+T*
+(influ...) Tj
+T*
+() Tj
+T*
+(4. Dell's version of the DGX Spark fixes pain points) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 26 Dec 2025 15:00:41 +0000) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points/) Tj
+T*
+(Dell sent me two of their GB10 mini workstations to test: In this blog post, I'll cover the) Tj
+T*
+(base system, just one of the two nodes. Cluster testing is ongoing, and I'll cover things like) Tj
+T*
+(AI model training and networking more in depth next year, likely with comparisons to the) Tj
+T*
+(Framework Desktop cluster and Mac Studio cluster I've also been testing. But many of the same) Tj
+T*
+(caveats of the DGX Spark \(namely, price to performance is not great if you just want to run) Tj
+T*
+(LLMs on a small desktop\) apply to Dell's GB10 box as well.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4059 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(5. NIST was 5 ?s off UTC after last week's power cut) Tj
+T*
+(Source: Jeff Geerling | Published: Mon, 22 Dec 2025 16:28:05 +0000) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2025/nist-was-5-%CE%BCs-utc-after-last-weeks-power-cut/) Tj
+T*
+(If you were 5 microseconds late today, blame it on NIST. Their facility in Boulder Colorado) Tj
+T*
+(just had its power cut for multiple days. After a backup generator failed, their main ensemble) Tj
+T*
+(clock lost track of UTC, or Universal Time Coordinated. But even if you used the NTP timing) Tj
+T*
+(servers they run , they were never off by more than 5 microseconds. 5 ?s might seem) Tj
+T*
+(insignificant. But it is significant for scientists and universities who rely on NIST's more) Tj
+T*
+(specialized timing signals .) Tj
+T*
+() Tj
+T*
+(6. Big GPUs don't need big PCs) Tj
+T*
+(Source: Jeff Geerling | Published: Sat, 20 Dec 2025 15:04:54 +0000) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs/) Tj
+T*
+(Ever since I got AMD , Intel , and Nvidia graphics cards to run on a Raspberry Pi, I had a) Tj
+T*
+(nagging question: What's the point? The Raspberry Pi only has 1 lane of PCIe Gen 3 bandwidth) Tj
+T*
+(available for a connection to an eGPU. That's not much. Especially considering a modern desktop) Tj
+T*
+(has at least one slot with 16 lanes of PCIe Gen 5 bandwidth. That's 8 GT/s versus 512 GT/s. Not) Tj
+T*
+(a fair fight.) Tj
+T*
+() Tj
+T*
+(7. July Pebble Update) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Fri, 25 Jul 2025 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/july-pebble-update) Tj
+T*
+(TL:DR; New \(old\) name! Core Pebble 2 Duo update - schedule, mobile app, tariffs, BT range,) Tj
+T*
+(order confirmation emails Mini Core Pebble Time?) Tj
+T*
+() Tj
+T*
+(8. Quick Pebble Project Update) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Wed, 09 Jul 2025 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/quick-pebble-project-update) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(9. Core 2 Duo - Beta Test Signup!) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Wed, 11 Jun 2025 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/core-2-duo-alphabeta-test-signup) Tj
+T*
+(My personal Core 2 Duo, featuring irek?s beautiful Brutal watchface Hopefully you have) Tj
+T*
+(pre-ordered a Core 2 Duo watch - if not, you can?) Tj
+T*
+() Tj
+T*
+(10. Kickstarter for Ollie?s Arcade Expansion) Tj
+T*
+(Source: Daring Fireball | Published: 2026-01-29T15:01:43Z) Tj
+T*
+(Link: https://blog.iconfactory.com/2026/01/bringing-more-fun-free-retro-gaming-to-ios/) Tj
+T*
+(Ged Maheux, The Iconfactory: This week we announced a new Kickstarter that?s aimed at expanding) Tj
+T*
+(the game offerings of Ollie?s Arcade, the fun, ad-free retro gaming app we introduced back in) Tj
+T*
+(2023. Ollie?s Arcade has always been a great way to escape doomscrolling, even if just for a) Tj
+T*
+(little while, and now we have an opportunity to bring these retro games to even more people on) Tj
+T*
+(iOS. The Kickstarter aims to raise enough money to make all of the in-app purchase games in the) Tj
+T*
+(app completely free for everyone to enjoy. We also want to bring our beloved puzzle game,) Tj
+T*
+(Frenzic , to life once again. Frenzic was one of the very first games available on iOS back in) Tj
+T*
+(2008, then was reborn as Frenzic: Overtime on Apple Arcade. Since it left, people have been) Tj
+T*
+(asking us for a new version that they can just pick up and play. We couldn?t agree more! I) Tj
+T*
+(linked to the Kickstarter for the original Ollie?s Arcade project back in 2023, which was a big) Tj
+T*
+(success. And I first linked to Frenzic all the way back in 2008, when the App Store was only a) Tj
+T*
+(few months old. It?s just a great concept for a casual game on a small screen, implemented with) Tj
+T*
+(all of The Iconfactory?s exquisite attention to detail. That?s true fo...) Tj
+T*
+() Tj
+T*
+(11. Comparing the Classic and Unified Views in iOS 26?s Phone App) Tj
+T*
+(Source: Daring Fireball | Published: 2026-01-29T00:10:30Z) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4171 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link:) Tj
+T*
+(https://tidbits.com/2025/11/10/comparing-the-classic-and-unified-views-in-ios-26s-phone-app/) Tj
+T*
+(Adam Engst, back in November, at TidBITS: Did you know that, regardless of view, you can now) Tj
+T*
+(swipe left on any call to reveal a blue clock icon that lets you create a reminder to call back) Tj
+T*
+(in 1 hour, tonight, tomorrow, or at any custom time \(below left, slightly doctored\)? Reminders) Tj
+T*
+(appear at the top of the Calls list and in your default Reminders list. You can also touch and) Tj
+T*
+(hold a call associated with a contact to connect with them in other ways \(below right\), or) Tj
+T*
+(touch and hold a call from an unknown caller to add them to Contacts. I did not know this,) Tj
+T*
+(until I read Engst?s article. One criticism I?ve seen a few times \(but to be clear, not from) Tj
+T*
+(Engst\) ever since Apple debuted the new Unified interface for the Phone app back at WWDC, is) Tj
+T*
+(that it?s somehow wrong that Apple offers it as an option alongside the Classic interface. ?) Tj
+T*
+(When does Apple ever offer options like this? ? I?d argue that Apple used to offer options like) Tj
+T*
+(this all the time. The Music app on the original iPhone \(which app was actually named ?iPod?) Tj
+T*
+(for a while\) let you customize all the tabs at the bottom. All of Apple?s good Mac apps \(the) Tj
+T*
+(AppKit ones, primarily\) still let you customize the entire toolbar . The prob...) Tj
+T*
+() Tj
+T*
+(12. Aeronaut 1.0) Tj
+T*
+(Source: Daring Fireball | Published: 2026-01-28T22:58:24Z) Tj
+T*
+(Link: https://aeronautapp.com/) Tj
+T*
+(New Mac app by Mikey Clarke, and it?s just what it says on the tin: a ?lovingly crafted Bluesky) Tj
+T*
+(app designed and built just for the Mac?. I?ve been beta testing Aeronaut for months, and it?s) Tj
+T*
+(the only interface to Bluesky I actually like. It?s a real Mac app ? written mostly in AppKit,) Tj
+T*
+(supporting all the right UI idioms and platform integrations. It?s not just the best Bluesky) Tj
+T*
+(client I?ve seen, for any platform, but maybe the best new Mac app I?ve seen in years, period.) Tj
+T*
+(Certainly the one whose very existence has made me happiest. Next time someone tells me no one) Tj
+T*
+(makes good new native apps for the Mac anymore, I?m going to tell them Mikey Fucking Clarke) Tj
+T*
+(does. $2/month or $15/year. A veritable bargain for an app so nice. ?) Tj
+T*
+() Tj
+T*
+(13. Ghostty: Reflecting on Reaching 1.0) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Thu, 26 Dec 2024 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/writing/ghostty-1-0-reflection) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(14. Ghostty 1.0 is Coming) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Tue, 22 Oct 2024 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/writing/ghostty-is-coming) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. Pledging $300,000 to the Zig Software Foundation) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Tue, 01 Oct 2024 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/writing/zig-donation) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. Two different tricks for fast LLM inference) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 15 Feb 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/fast-llm-inference/) Tj
+T*
+(Anthropic and OpenAI both recently announced ?fast mode?: a way to interact with their best) Tj
+T*
+(coding model at significantly higher speeds. These two versions of fast mode are very) Tj
+T*
+(different. Anthropic?s offers up to 2.5x tokens per second \(so around 170, up from Opus 4.6?s) Tj
+T*
+(65\). OpenAI?s offers more than 1000 tokens per second \(up from GPT-5.3-Codex?s 65 tokens per) Tj
+T*
+(second, so 15x\). So OpenAI?s fast mode is six times faster than Anthropic?s 1 . However,) Tj
+T*
+(Anthropic?s big advantage is that they?re serving their actual model. When you use their fast) Tj
+T*
+(mode, you get real Opus 4.6, while when you use OpenAI?s fast mode you get GPT-5.3-Codex-Spark,) Tj
+T*
+(not the real GPT-5.3-Codex. Spark is indeed much faster, but is a notably less capable model:) Tj
+T*
+(good enough for many tasks, but it gets confused and messes up tool calls in ways that vanilla) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4963 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(GPT-5.3-Codex would never do. Why the differences? The AI labs aren?t advertising the details) Tj
+T*
+(of how their fast modes work, but I?m pretty confident it?s something like this: Anthropic?s) Tj
+T*
+(fast mode is backed by low-batch-size inference, while OpenAI?s fast mode is backed by special) Tj
+T*
+(monster Cerebras chips . Let me unpack that a bit. How Anthropic?s fast mode works T...) Tj
+T*
+() Tj
+T*
+(17. You can't design software you don't work on) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sat, 27 Dec 2025 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/you-cant-design-software-you-dont-work-on/) Tj
+T*
+(Only the engineers who work on a large software system can meaningfully participate in the) Tj
+T*
+(design process. That?s because you cannot do good software design without an intimate) Tj
+T*
+(understanding of the concrete details of the system. In other words, generic software design) Tj
+T*
+(advice is typically useless for most practical software design problems. Generic software) Tj
+T*
+(design What is generic software design? It?s ?designing to the problem?: the kind of advice you) Tj
+T*
+(give when you have a reasonable understanding of the domain , but very little knowledge of the) Tj
+T*
+(existing codebase . Unfortunately, this is the only kind of advice you?ll read in software) Tj
+T*
+(books and blog posts 1 . Engineers love giving generic software design advice for the same) Tj
+T*
+(reason that all technical professionals love ?talking shop?. However, you should be very) Tj
+T*
+(careful about applying generic advice to your concrete day-to-day work problems 2 . When you?re) Tj
+T*
+(doing real work, concrete factors dominate generic factors . Having a clear understanding of) Tj
+T*
+(what the code looks like right now is far, far more important than having a good grasp on) Tj
+T*
+(general design patterns or principles. For instance: In large codebases, consistency is more) Tj
+T*
+(impor...) Tj
+T*
+() Tj
+T*
+(18. Nobody knows how large software products work) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Wed, 24 Dec 2025 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/nobody-knows-how-software-products-work/) Tj
+T*
+(Large, rapidly-moving tech companies are constantly operating in the ?fog of war? about their) Tj
+T*
+(own systems. Simple questions like ?can users of type Y access feature X??, ?what happens when) Tj
+T*
+(you perform action Z in this situation??, or even ?how many different plans do we offer? often) Tj
+T*
+(can only be answered by a handful of people in the organization. Sometimes there are zero) Tj
+T*
+(people at the organization who can answer them, and somebody has to be tasked with digging in) Tj
+T*
+(like a researcher to figure it out. How can this be? Shouldn?t the engineers who built the) Tj
+T*
+(software know what it does? Aren?t these answers documented internally? Better yet, aren?t) Tj
+T*
+(these questions trivially answerable by looking at the public-facing documentation for end) Tj
+T*
+(users? Tech companies are full of well-paid people who know what they?re doing 1 . Why aren?t) Tj
+T*
+(those people able to get clear on what their own product does? Software is hard Large software) Tj
+T*
+(products are prohibitively complicated . I wrote a lot more about this in Wicked Features , but) Tj
+T*
+(the short version is you can capture a lot of value by adding complicated features. The classic) Tj
+T*
+(examples are features that make the core product available to more users. For...) Tj
+T*
+() Tj
+T*
+(19. Instruction decoding in the Intel 8087 floating-point chip) Tj
+T*
+(Source: Ken Shirriff's blog | Published: 2026-02-14T08:48:00.000-08:00) Tj
+T*
+(Link: http://www.righto.com/2026/02/8087-instruction-decoding.html) Tj
+T*
+(pre {border:none;} In the 1980s, if you wanted your IBM PC to run faster, you could buy the) Tj
+T*
+(Intel 8087 floating-point coprocessor chip. With this chip, CAD software, spreadsheets, flight) Tj
+T*
+(simulators, and other programs were much speedier. The 8087 chip could add, subtract, multiply,) Tj
+T*
+(and divide, of course, but it could also compute transcendental functions such as tangent and) Tj
+T*
+(logarithms, as well as provide constants such as ?. In total, the 8087 added 62 new) Tj
+T*
+(instructions to the computer. But how does a PC decide if an instruction was a floating-point) Tj
+T*
+(instruction for the 8087 or a regular instruction for the 8086 or 8088 CPU? And how does the) Tj
+T*
+(8087 chip interpret instructions to determine what they mean? It turns out that decoding an) Tj
+T*
+(instruction inside the 8087 is more complicated than you might expect. The 8087 uses multiple) Tj
+T*
+(techniques, with decoding circuitry spread across the chip. In this blog post, I'll explain how) Tj
+T*
+(these decoding circuits work. To reverse-engineer the 8087, I chiseled open the ceramic package) Tj
+T*
+(of an 8087 chip and took numerous photos of the silicon die with a microscope. The complex) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4861 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(patterns on the die are formed by its metal wiring, as well as the polysilicon and...) Tj
+T*
+() Tj
+T*
+(20. Reverse engineering the 386 processor's prefetch queue circuitry) Tj
+T*
+(Source: Ken Shirriff's blog | Published: 2025-05-09T19:55:00.000-07:00) Tj
+T*
+(Link: http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html) Tj
+T*
+(In 1985, Intel introduced the groundbreaking 386 processor, the first 32-bit processor in the) Tj
+T*
+(x86 architecture. To improve performance, the 386 has a 16-byte instruction prefetch queue. The) Tj
+T*
+(purpose of the prefetch queue is to fetch instructions from memory before they are needed, so) Tj
+T*
+(the processor usually doesn't need to wait on memory while executing instructions. Instruction) Tj
+T*
+(prefetching takes advantage of times when the processor is "thinking" and the memory bus would) Tj
+T*
+(otherwise be unused. In this article, I look at the 386's prefetch queue circuitry in detail.) Tj
+T*
+(One interesting circuit is the incrementer, which adds 1 to a pointer to step through memory.) Tj
+T*
+(This sounds easy enough, but the incrementer uses complicated circuitry for high performance.) Tj
+T*
+(The prefetch queue uses a large network to shift bytes around so they are properly aligned. It) Tj
+T*
+(also has a compact circuit to extend signed 8-bit and 16-bit numbers to 32 bits. There aren't) Tj
+T*
+(any major discoveries in this post, but if you're interested in low-level circuits and dynamic) Tj
+T*
+(logic, keep reading. The photo below shows the 386's shiny fingernail-sized silicon die under a) Tj
+T*
+(microscope. Although it may look like an aerial view of a stran...) Tj
+T*
+() Tj
+T*
+(21. The absurdly complicated circuitry for the 386 processor's registers) Tj
+T*
+(Source: Ken Shirriff's blog | Published: 2025-05-01T10:04:00.000-07:00) Tj
+T*
+(Link: http://www.righto.com/2025/05/intel-386-register-circuitry.html) Tj
+T*
+(The groundbreaking Intel 386 processor \(1985\) was the first 32-bit processor in the x86) Tj
+T*
+(architecture. Like most processors, the 386 contains numerous registers; registers are a key) Tj
+T*
+(part of a processor because they provide storage that is much faster than main memory. The) Tj
+T*
+(register set of the 386 includes general-purpose registers, index registers, and segment) Tj
+T*
+(selectors, as well as registers with special functions for memory management and operating) Tj
+T*
+(system implementation. In this blog post, I look at the silicon die of the 386 and explain how) Tj
+T*
+(the processor implements its main registers. It turns out that the circuitry that implements) Tj
+T*
+(the 386's registers is much more complicated than one would expect. For the 30 registers that I) Tj
+T*
+(examine, instead of using a standard circuit, the 386 uses six different circuits, each one) Tj
+T*
+(optimized for the particular characteristics of the register. For some registers, Intel) Tj
+T*
+(squeezes register cells together to double the storage capacity. Other registers support) Tj
+T*
+(accesses of 8, 16, or 32 bits at a time. Much of the register file is "triple-ported", allowing) Tj
+T*
+(two registers to be read simultaneously while a value is written to a third register. Finally,) Tj
+T*
+(I w...) Tj
+T*
+() Tj
+T*
+(22. It's cheaper to buy a new printer every month) Tj
+T*
+(Source: iDiallo.com | Published: Wed, 10 Dec 2025 01:26:12 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/cheaper-to-buy-a-new-printer-every-month?src=feed) Tj
+T*
+(It's the holiday season. My kids are doing all sorts of projects at school, this means we are) Tj
+T*
+(doing a whole lot of printing. So I went online to look for the ink cartridge for our printer.) Tj
+T*
+(I typed the printer name and model because who knows the ink cartridge number? I found our) Tj
+T*
+(printer. And to my surprise, the printer only costs $64. What a time to be alive. I grew up in) Tj
+T*
+(the 90s, those are not the numbers my father dealt with when we wasted paper on his printer.) Tj
+T*
+(Buying a printer was a privilege. We dressed up nice, went to the computer store where we met) Tj
+T*
+(with a salesperson who led us to an office where grown ups negotiated. Office depot \(as of) Tj
+T*
+(December 10th, 2025\) Now, it's only $64.99 and you can complete the transaction from the) Tj
+T*
+(comfort of your phone. That's Printer + Ink, mind you. What an amazing deal. But what if you) Tj
+T*
+(already have a printer and only want to replenish your ink? How much does that cost? For the) Tj
+T*
+(compatible ink cartridges, you'll pay $81.99. Just for ink. Office depot \(as of December 10th,) Tj
+T*
+(2025\) The ink itself is more expensive than ink + printer. OK, to be fair, the printer I took a) Tj
+T*
+(screenshot of is on sale. The price was $64.99 until the sale was scheduled to e...) Tj
+T*
+() Tj
+T*
+(23. We are always fighting about things we agree on) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4143 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: iDiallo.com | Published: Tue, 30 Sep 2025 00:56:15 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/fighting-about-things-we-agree-on?src=feed) Tj
+T*
+(I was in the elevator when an older couple got in, patiently waiting to get to their stop. I) Tj
+T*
+(smiled, they smiled back, and I pressed the button for the ground floor, just because. All) Tj
+T*
+(three of us were going down. I had my back to them when I heard the lady say, "I think he will) Tj
+T*
+(know." I turned to see if they were talking to me, since it was just us. She stepped forward,) Tj
+T*
+(put on her glasses, then rummaged through her purse to get her phone out. Before I could say a) Tj
+T*
+(word, she handed it to me and asked, "How can I find all the pictures I have taken?" "Oh boy,) Tj
+T*
+(here we go again", the husband said. "Hush!" She replied to her husband, while she took the) Tj
+T*
+(phone from me, pressed the button to turn it on, and then placed it back in my hands. While) Tj
+T*
+(this may look unusual, I'm completely accustomed to turning into tech support at a moment's) Tj
+T*
+(notice. When you take pictures on your phone through the camera app, a small preview appears on) Tj
+T*
+(the bottom. When you click on those pictures, you can view them. The problem was that you can) Tj
+T*
+(only view the pictures you just took. This is a security measure since the camera app can be) Tj
+T*
+(activated without entering your pin. "She wanted a brand new phone." The husba...) Tj
+T*
+() Tj
+T*
+(24. What's the name of that Website?) Tj
+T*
+(Source: iDiallo.com | Published: Fri, 26 Sep 2025 02:04:12 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/whats-the-name-of-that-website?src=feed) Tj
+T*
+(?Hey, what?s the name of that website?? That was the question my brother asked me. I didn't) Tj
+T*
+(need any clarification, I knew exactly what he meant. When people come home eager to watch a tv) Tj
+T*
+(show, they sit in front of the TV scrolling through search results. Then, their phone comes out) Tj
+T*
+(of their pocket. They search again. They check their subscriptions. Is it on Prime? Ok, maybe) Tj
+T*
+(available as a rental? Then you see it. That defeated look on their face as they turn to you) Tj
+T*
+(and ask: ?Hey, what?s the name of that website?? I?ve written before about the degraded state) Tj
+T*
+(of streaming . We went from the convenience of DVDs to the hyper-convenience of early) Tj
+T*
+(streaming. Now, we?re right back where we started, trapped in a fractured ecosystem of dozens) Tj
+T*
+(of services. Oh, and a higher monthly fee. The circle is complete. Piracy is back.) Tj
+T*
+() Tj
+T*
+(25. RSC for LISP Developers) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Sun, 01 Jun 2025 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/rsc-for-lisp-developers/) Tj
+T*
+(Quoting for modules.) Tj
+T*
+() Tj
+T*
+(26. Progressive JSON) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Sat, 31 May 2025 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/progressive-json/) Tj
+T*
+(Why streaming isn't enough.) Tj
+T*
+() Tj
+T*
+(27. Why Does RSC Integrate with a Bundler?) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Fri, 30 May 2025 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/why-does-rsc-integrate-with-a-bundler/) Tj
+T*
+(One does not simply serialize a module.) Tj
+T*
+() Tj
+T*
+(28. Wagon?s algorithm in Python) Tj
+T*
+(Source: John D. Cook | Published: Sat, 14 Feb 2026 23:06:41 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/02/14/wagons-algorithm-in-python/) Tj
+T*
+(The last three posts have been about Stan Wagon?s algorithm for finding x and y satisfying x≤ +) Tj
+T*
+(y≤ = p where p is an odd prime. The first post in the series gives Gauss? formula for a) Tj
+T*
+(solution, but shows why it is impractical for large p. The bottom of this post introduces) Tj
+T*
+(Wagon?s [?] The post Wagon?s algorithm in Python first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(29. Finding a square root of -1 mod p) Tj
+T*
+(Source: John D. Cook | Published: Sat, 14 Feb 2026 22:07:05 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/02/14/square-root-minus-1-mod-p/) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 4617 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(If p is an odd prime, there is a theorem that says x≤ = ?1 mod p has a solution if and only if) Tj
+T*
+(p = 1 mod 4. When a solution x exists, how do you find it? The previous two posts have) Tj
+T*
+(discussed Stan Wagon?s algorithm for expressing an odd prime p as a [?] The post Finding a) Tj
+T*
+(square root of -1 mod p first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(30. Finding a non-square mod p) Tj
+T*
+(Source: John D. Cook | Published: Sat, 14 Feb 2026 21:35:54 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/02/14/finding-a-non-square/) Tj
+T*
+(The previous post briefly mentioned Stan Wagon?s algorithm for expressing an odd prime p as a) Tj
+T*
+(sum of two squares when it is possible \(i.e. when p = 1 mod 4\). Wagon?s algorithm requires) Tj
+T*
+(first finding a non-square mod p, i.e. a number c such that c ? d≤ mod p for any d in 1, [?]) Tj
+T*
+(The post Finding a non-square mod p first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(31. You can try to like stuff) Tj
+T*
+(Source: DYNOMIGHT | Published: 2025-08-28T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/liking/) Tj
+T*
+(Here?s one possible hobby: Take something you don?t like. Try to like it. It could be food or) Tj
+T*
+(music or people or just the general situation you?re in. I recommend this hobby, partly because) Tj
+T*
+(it?s nice to enjoy things, but mostly as an instrument for probing human nature. 1. I was in) Tj
+T*
+(Paris once. By coincidence, I wandered past a bunch of places that were playing Michael) Tj
+T*
+(Jackson. I thought to myself, ?Huh. The French sure do like Michael Jackson.? Gradually I) Tj
+T*
+(decided, ?You know what? They?re right! Michael Jackson is good.? Later, I saw a guy driving) Tj
+T*
+(around blasting Billie Jean while hanging a hand outside his car with a sparkly white Michael) Tj
+T*
+(Jackson glove. Again, I thought, ?Huh.? That day was June 25, 2009 . 2. I don?t like cooked) Tj
+T*
+(spinach. But if I eat some and try to forget that I hate it, it seems OK. Why? Well, as a) Tj
+T*
+(child, I was subjected to some misguided spinach-related parental interventions. \(?You cannot) Tj
+T*
+(leave this table until you?ve finished this extremely small portion?, etc.\) I hated this, but) Tj
+T*
+(looking back, it wasn?t the innate qualities of spinach the bothered me, so much as that being) Tj
+T*
+(forced to put something inside my body felt like a violation of my autonomy. When I en...) Tj
+T*
+() Tj
+T*
+(32. I guess I was wrong about AI persuasion) Tj
+T*
+(Source: DYNOMIGHT | Published: 2025-08-21T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/persuasion/) Tj
+T*
+(Say I think abortion is wrong. Is there some sequence of words that you could say to me that) Tj
+T*
+(would unlock my brain and make me think that abortion is fine? My best guess is that such words) Tj
+T*
+(do not exist. Really, the bar for what we consider ?open-minded? is incredibly low. Suppose I?m) Tj
+T*
+(trying to change your opinion about Donald Trump, and I claim that he is a carbon-based life) Tj
+T*
+(form with exactly one head. If you?re willing to concede those points without first seeing) Tj
+T*
+(where I?m going in my argument?congratulations, you?re exceptionally open-minded. Why are) Tj
+T*
+(humans like that? Well, back at the dawn of our species, perhaps there were some truly) Tj
+T*
+(open-minded people. But other people talked them into trying weird-looking mushrooms or trading) Tj
+T*
+(their best clothes for magical rocks. We are the descendants of those other people. I bring) Tj
+T*
+(this up because, a few months ago, I imagined a Being that had an IQ of 300 and could think at) Tj
+T*
+(10,000◊ normal speed. I asked how it would be at persuasion. I argued it was unclear, because) Tj
+T*
+(people just aren?t very persuadable. I suspect that if you decided to be open-minded, then the) Tj
+T*
+(Being would probably be extremely persuasive. But I don?t think it?s very common...) Tj
+T*
+() Tj
+T*
+(33. Futarchy?s fundamental flaw ? the market ? the blog post) Tj
+T*
+(Source: DYNOMIGHT | Published: 2025-08-14T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/futarchy-market/) Tj
+T*
+(Here?s our story so far: Markets are a good way to know what people really think. When India) Tj
+T*
+(and Pakistan started firing missiles at each other on May 7, I was concerned, what with them) Tj
+T*
+(both having nuclear weapons. But then I looked at world market prices: See how it crashes on) Tj
+T*
+(May 7? Me neither. I found that reassuring. But we care about lots of stuff that isn?t always) Tj
+T*
+(reflected in stock prices, e.g. the outcomes of elections or drug trials. So why not create) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 4626 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(markets for those, too? If you create contracts that pay out $1 only if some drug trial) Tj
+T*
+(succeeds, then the prices will reflect what people ?really? think. In fact, why don?t we use) Tj
+T*
+(markets to make decisions? Say you?ve invented two new drugs, but only have enough money to run) Tj
+T*
+(one trial. Why don?t you create markets for both drugs, then run the trial on the drug that) Tj
+T*
+(gets a higher price? Contracts for the ?winning? drug are resolved based on the trial, while) Tj
+T*
+(contracts in the other market are cancelled so everyone gets their money back. That?s the idea) Tj
+T*
+(of Futarchy , which Robin Hanson proposed in 2007. Why don?t we? Well, maybe it won?t work. In) Tj
+T*
+(2022, I wrote a post arguing that when you cancel one of the markets, you screw up...) Tj
+T*
+() Tj
+T*
+(34. Justifying text-wrap: pretty) Tj
+T*
+(Source: matklad | Published: 2026-02-14T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html) Tj
+T*
+(Something truly monumental happened in the world of software development in 2025. Safari) Tj
+T*
+(shipped areasonable implementation of text-wrap:) Tj
+T*
+(pretty:https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/. We are) Tj
+T*
+(gettingcloser and closer to the cutting-edge XV-century technology. Beautiful paragraphs!) Tj
+T*
+() Tj
+T*
+(35. How COVID Pushed a Generation of Young People to the Right) Tj
+T*
+(Source: Derek Thompson | The Atlantic | Published: 2025-02-18T07:00:00-05:00) Tj
+T*
+(Link: https://www.theatlantic.com/ideas/archive/2025/02/covid-youth-conservative-shift/681705/?) Tj
+T*
+(utm_source=feed) Tj
+T*
+(For decades, America?s young voters have been deeply?and famously?progressive. In 2008, a) Tj
+T*
+(youthquake sent Barack Obama to the White House. In 2016, voters ages 18 to 29 broke for) Tj
+T*
+(Hillary Clinton by 18 points . In 2020, they voted for Joe Biden by 24 points . In 2024, Donald) Tj
+T*
+(Trump closed most of the gap, losing voters under 30 by a 51?47 margin . In one recent CBS poll) Tj
+T*
+(, Americans under 30 weren?t just evenly split between the parties. They were even more) Tj
+T*
+(pro-Trump than Boomers over 65. Precisely polling teens and 20-somethings is a fraught) Tj
+T*
+(business; some surveys suggest that Trump?s advantage among young people might already be) Tj
+T*
+(fading . But young people?s apparent lurch right is not an American-only trend. ?Far-right) Tj
+T*
+(parties are surging across Europe?and young voters are buying in,? the journalist Hanne) Tj
+T*
+(Cokelaere wrote for Politico last year. In France, Germany, Finland, and beyond, young voters) Tj
+T*
+(are swinging their support toward anti-establishment far-right parties ?in numbers equal to and) Tj
+T*
+(even exceeding older voters.? In Germany, a 2024 survey of 2,000 people showed that young) Tj
+T*
+(people have adopted a relatively new ?gloomy outlook? on the future. No surprise, then, that) Tj
+T*
+(the far-rig...) Tj
+T*
+() Tj
+T*
+(36. Why Tom Brady Could Be Worth $375 Million in the Booth) Tj
+T*
+(Source: Derek Thompson | The Atlantic | Published: 2025-02-09T07:00:00-05:00) Tj
+T*
+(Link:) Tj
+T*
+(https://www.theatlantic.com/ideas/archive/2025/02/tom-brady-mascot/681604/?utm_source=feed) Tj
+T*
+(Tom Brady is the greatest quarterback in NFL history \( for now \). He is not the greatest NFL) Tj
+T*
+(broadcaster of all time \( for now \). So why is he calling the Super Bowl tonight, and why is) Tj
+T*
+(Fox Sports paying him $375 million over 10 years?more than any other broadcaster in sports) Tj
+T*
+(history?as if his excellence in the former job automatically qualifies him for the latter? By) Tj
+T*
+(the simplest conventional analysis, Brady?s initial returns make the contract look like a bad) Tj
+T*
+(bet. His performance in the booth has received mixed reviews, to put things charitably. In a) Tj
+T*
+(season when NFL ratings have declined overall , they fell more for games on Fox than on CBS,) Tj
+T*
+(and more people tuned in to CBS on average to watch football than to watch Brady?s) Tj
+T*
+(late-afternoon slot. In fairness, as Austin Karp at Sports Business Journal pointed out , the) Tj
+T*
+(games on CBS this year happened to be closer in the fourth quarter, and many people watching) Tj
+T*
+(Fox might have clicked away because the outcome was a foregone conclusion. Applying any normal) Tj
+T*
+(ROI analysis to Brady?s contract is difficult for at least four reasons: He is not a normal) Tj
+T*
+(person, ?celebrity sports broadcaster? is not a normal job, the NFL is not a normal industr...) Tj
+T*
+() Tj
+T*
+(37. America?s ?Marriage Material? Shortage) Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 4416 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Derek Thompson | The Atlantic | Published: 2025-02-03T07:00:00-05:00) Tj
+T*
+(Link: https://www.theatlantic.com/ideas/archive/2025/02/america-marriage-decline/681518/?utm_so) Tj
+T*
+(urce=feed) Tj
+T*
+(This is Work in Progress, a newsletter about work, technology, and how to solve some of) Tj
+T*
+(America?s biggest problems. Sign up here . Perhaps you?ve heard: Young people aren?t dating) Tj
+T*
+(anymore. News media and social media are awash in commentary about the decline in youth) Tj
+T*
+(romance. It?s visible in the corporate data, with dating-app engagement taking a hit . And it?s) Tj
+T*
+(visible in the survey data, where the share of 12th graders who say they?ve dated has fallen) Tj
+T*
+(from about 85 percent in the 1980s to less than 50 percent in the early 2020s, with the decline) Tj
+T*
+(particularly steep in the past few years. Naturally, young people?s habits are catnip to news) Tj
+T*
+(commentators. But although I consider the story of declining youth romance important, I don?t) Tj
+T*
+(find it particularly mysterious . In my essay on the anti-social century , I reported that) Tj
+T*
+(young people have retreated from all manner of physical-world relationships, whether because of) Tj
+T*
+(smartphones, over-parenting, or a combination of factors. Compared with previous generations of) Tj
+T*
+(teens, they have fewer friends, spend significantly less time with the friends they do have,) Tj
+T*
+(attend fewer parties, and spend much more time alone. Romantic relationships theor...) Tj
+T*
+() Tj
+T*
+(38. Package Management Namespaces) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-02-14T00:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/02/14/package-management-namespaces.html) Tj
+T*
+(Every package needs a name. The rules for how those names work is one of the most consequential) Tj
+T*
+(decisions a package manager makes, and one of the hardest to change later. I categorized the) Tj
+T*
+(approaches previously and touched on the tradeoffs briefly. Flat namespaces RubyGems, PyPI,) Tj
+T*
+(crates.io, Hex, Hackage, CRAN, and LuaRocks all use flat namespaces: one global pool of names,) Tj
+T*
+(first-come-first-served. You pick a name, and if nobody has it, it?s yours. This gives you gem) Tj
+T*
+(install rails , pip install requests , cargo add serde . The names are short, memorable, and) Tj
+T*
+(greppable, with no punctuation to remember and no organization to look up. At scale, though,) Tj
+T*
+(good names run out. Someone registers database on day one and never publishes a real package.) Tj
+T*
+(Or they publish something, abandon it, and the name sits there forever, pointing at a library) Tj
+T*
+(last updated in 2013. PyPI has over 600,000 projects. Many of the short, obvious names were) Tj
+T*
+(claimed years ago by packages with single-digit downloads. Name scarcity creates pressure, and) Tj
+T*
+(you end up with python-dateutil because dateutil was taken, beautifulsoup4 because) Tj
+T*
+(beautifulsoup was the old version, or pillow because the original PIL package was ab...) Tj
+T*
+() Tj
+T*
+(39. Reading list 02/14/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 14 Feb 2026 13:01:32 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-021426) Tj
+T*
+(Welcome to the reading list, a weekly list of news and links related to buildings,) Tj
+T*
+(infrastructure, and industrial technology.) Tj
+T*
+() Tj
+T*
+(40. How Accurate Are Learning Curves?) Tj
+T*
+(Source: Construction Physics | Published: Wed, 24 Dec 2025 13:02:40 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/how-accurate-are-learning-curves) Tj
+T*
+(We?ve talked several times on this substack \(as well as in my book\), about the learning curve,) Tj
+T*
+(the observation that costs of a produced good tend to fall by some constant proportion for) Tj
+T*
+(every cumulative doubling of production volume: go from 100 to 200 units, costs might fall by) Tj
+T*
+(15%, go from 200 to 400, another 15%, and so on.) Tj
+T*
+() Tj
+T*
+(41. Reading List 12/20/25) Tj
+T*
+(Source: Construction Physics | Published: Sat, 20 Dec 2025 13:01:26 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-122025) Tj
+T*
+(Tesla?s robotaxi crash reports, a fusion startup merger, the decline of US injection molding,) Tj
+T*
+(Wyoming?s snow fences, and more) Tj
+T*
+() Tj
+T*
+(42. TeleMessage customers include DC Police, Andreessen Horowitz, JP Morgan, and hundreds) Tj
+ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 20 0 R >>
+endobj
+22 0 obj
+<< /Length 3331 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(more) Tj
+T*
+(Source: micahflee | Published: Thu, 22 May 2025 03:07:50 GMT) Tj
+T*
+(Link: https://micahflee.com/telemessage-customers-include-dc-police-andreesen-horowitz-jp-morga) Tj
+T*
+(n-and-hundreds-more/) Tj
+T*
+(? Update May 26, 2025: I've published the source code for TeleMessage Explorer: a new open) Tj
+T*
+(source research tool I've been digging through the 410 GB of Java heap dumps from TeleMessage's) Tj
+T*
+(archive server, provided by DDoSecrets. Here's a description of the) Tj
+T*
+() Tj
+T*
+(43. DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage's archive server) Tj
+T*
+(Source: micahflee | Published: Mon, 19 May 2025 16:51:22 GMT) Tj
+T*
+(Link: https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-) Tj
+T*
+(archive-server/) Tj
+T*
+(? Update May 21, 2025: I've written a new detailed analysis of the heap dump dataset itself:) Tj
+T*
+(TeleMessage customers include DC Police, Andreessen Horowitz, JP Morgan, and hundreds more) Tj
+T*
+(Update May 26, 2025: I've published the source code for TeleMessage Explorer: a new open source) Tj
+T*
+(research) Tj
+T*
+() Tj
+T*
+(44. How the knock-off Signal app used by Trump officials got hacked in 20 minutes) Tj
+T*
+(Source: micahflee | Published: Sun, 18 May 2025 11:05:02 GMT) Tj
+T*
+(Link: https://micahflee.com/how-the-knock-off-signal-app-used-by-trump-officials-got-hacked-in-) Tj
+T*
+(20-minutes/) Tj
+T*
+(? Update May 19, 2025: Uh oh: DDoSecrets publishes 410 GB of heap dumps, hacked from) Tj
+T*
+(TeleMessage's archive server Update May 21, 2025: I've written a new detailed analysis of the) Tj
+T*
+(heap dump dataset itself: TeleMessage customers include DC Police, Andreessen Horowitz, JP) Tj
+T*
+(Morgan, and hundreds) Tj
+T*
+() Tj
+T*
+(45. When LICM fails us) Tj
+T*
+(Source: Matt Godbolt?s blog | Published: 2025-12-14T12:00:00Z) Tj
+T*
+(Link: http://xania.org/202512/14-licm-when-it-doesnt?utm_source=feed&utm_medium=rss) Tj
+T*
+(When aliasing can prevent loop-invariant code motion) Tj
+T*
+() Tj
+T*
+(46. Loop-Invariant Code Motion) Tj
+T*
+(Source: Matt Godbolt?s blog | Published: 2025-12-13T12:00:00Z) Tj
+T*
+(Link: http://xania.org/202512/13-licking-licm?utm_source=feed&utm_medium=rss) Tj
+T*
+(The compiler can move code outside of loops to speed things up) Tj
+T*
+() Tj
+T*
+(47. Unswitching loops for fun and profit) Tj
+T*
+(Source: Matt Godbolt?s blog | Published: 2025-12-12T12:00:00Z) Tj
+T*
+(Link: http://xania.org/202512/12-loop-unswitching?utm_source=feed&utm_medium=rss) Tj
+T*
+(Duplicating loops around can yield some decent optimisations) Tj
+T*
+() Tj
+T*
+(48. Adding Planets to Celestia on macOS) Tj
+T*
+(Source: Fernando Borretti | Published: Tue, 29 Jul 2025 00:00:00 +0000) Tj
+T*
+(Link: https://borretti.me/article/adding-planets-to-celestia-on-macos) Tj
+T*
+(A beginner's guide to modding Celestia.) Tj
+T*
+() Tj
+T*
+(49. Notes on Managing ADHD) Tj
+T*
+(Source: Fernando Borretti | Published: Thu, 12 Jun 2025 00:00:00 +0000) Tj
+T*
+(Link: https://borretti.me/article/notes-on-managing-adhd) Tj
+T*
+(Strategies and tactics for staying productive.) Tj
+T*
+() Tj
+T*
+(50. Inboxes are Underrated) Tj
+T*
+(Source: Fernando Borretti | Published: Sat, 24 May 2025 00:00:00 +0000) Tj
+T*
+(Link: https://borretti.me/article/inboxes-are-underrated) Tj
+T*
+(On inboxes as application-specific todo lists.) Tj
+ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 22 0 R >>
+endobj
+24 0 obj
+<< /Length 3965 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(51. A Metabolic Workspace) Tj
+T*
+(Source: Westenberg. | Published: Mon, 05 Jan 2026 00:47:25 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/a-metabolic-workspace/) Tj
+T*
+(In 1895, a Belgian lawyer, bibliographer and information scientist named Paul Otlet started) Tj
+T*
+(building what he would call the Mundaneum: a vast repository in Brussels containing over 12) Tj
+T*
+(million index cards cross-referenced by subject, designed to hold the entirety of human) Tj
+T*
+(knowledge. Otlet had already predicted hyperlinks, search engines, and) Tj
+T*
+() Tj
+T*
+(52. Barbarossa: How Hitler Lost the War - By Jonathan Dimbleby) Tj
+T*
+(Source: Westenberg. | Published: Sun, 04 Jan 2026 10:16:47 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/barbarossa-how-hitler-lost-the-war-by-jonathan-dimbleby/) Tj
+T*
+(? Grim but essential // corrective to the Western-centric view of WWII. Dimbleby argues) Tj
+T*
+(persuasively that the war was won and lost on the Eastern Front in 1941, not on the beaches of) Tj
+T*
+(Normandy in 1944. It is a catalogue of two competing barbarisms, dispelling the myth of the) Tj
+T*
+("clean&) Tj
+T*
+() Tj
+T*
+(53. 1929 - By Andrew Ross Sorkin) Tj
+T*
+(Source: Westenberg. | Published: Sat, 03 Jan 2026 10:00:19 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/1929-by-andrew-ross-sorkin/) Tj
+T*
+(? A terrifying // granular look at the hubris that melted the global economy. Sorkin doesn't) Tj
+T*
+(paint the bankers as cartoon villains, so much as delusional optimists who got high on their) Tj
+T*
+(own supply of cheap credit. Read this to understand why "this time is different" is) Tj
+T*
+() Tj
+T*
+(54. Book Review: 20 Goto 10 - 10101001 facts about retro computers by Steven Goodwin ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 14 Feb 2026 12:34:34 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/02/book-review-20-goto-10-10101001-facts-about-retro-comput) Tj
+T*
+(ers-by-steven-goodwin/) Tj
+T*
+(This is an excellent "dipping" book. There are nearly 200 articles ranging from short) Tj
+T*
+(anecdotes, multi-page synopses of complex topics, and quirky little asides. Rather than a) Tj
+T*
+(linear history of computing, each short chapter ends with a multiple-choice "GOTO". From there,) Tj
+T*
+(you take a meandering wander throughout retro-computing lore. Some paths lead to dead-ends \(a) Tj
+T*
+(delightful little Game-Over?) Tj
+T*
+() Tj
+T*
+(55. Vanguard - The Government Project to get British Businesses to use the Internet) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 01 Feb 2026 12:34:10 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/02/vanguard-the-government-project-to-get-british-businesse) Tj
+T*
+(s-to-use-the-internet/) Tj
+T*
+(Email isn't an obvious business benefit. Imagine it is the early 1980s and you need to) Tj
+T*
+(communicate with people across the country. A first-class letter will cost you 17p - about 60p) Tj
+T*
+(in today's money. The letter will be delivered the next day and you'll have your answer back) Tj
+T*
+(the day after. By contrast, a single computer terminal was likely to set you back around £3,000) Tj
+T*
+(- and that's before you ?) Tj
+T*
+() Tj
+T*
+(56. Book Review: With the End in Mind - Dying, Death and Wisdom in an Age of Denial by) Tj
+T*
+(Kathryn Mannix ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 31 Jan 2026 12:34:55 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/01/book-review-with-the-end-in-mind-dying-death-and-wisdom-) Tj
+T*
+(in-an-age-of-denial-by-kathryn-mannix/) Tj
+T*
+(Is it possible to "die well"? We have midwives for births, should we have "deathwives" for the) Tj
+T*
+(other end of our lives? I think this book was recommended to me in the depths of the pandemic.) Tj
+T*
+(I was too much of a chicken to read it while those around me were dying. The book aims to) Tj
+T*
+(normalise the process of death and mostly succeeds. Unlike a lot of books, it doesn't just) Tj
+T*
+(identify a problem - it?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 24 0 R >>
+endobj
+26 0 obj
+<< /Length 4395 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(57. Microsoft Game Pass Ultimate Billing Fraud) Tj
+T*
+(Source: Jayden?s Blog | Published: 2026-02-14T14:38:00+00:00) Tj
+T*
+(Link: https://jayd.ml/2026/02/14/microsoft-game-pass-fraud.html) Tj
+T*
+(I purchased an Xbox Series X out of some misplaced sense of nostalgia for the 360 and because I) Tj
+T*
+(needed a 4K player. At the time you could still do the trick where you load up on Xbox Live) Tj
+T*
+(Gold and then convert it to Game Pass Ultimate cheaply. I signed up for it and then made) Tj
+T*
+(absolutely sure to disable any autorenewing settings everywhere I could. I remember seeing) Tj
+T*
+(something to the effect of ?Your subscription will expire 2/2026 and will not renew. At the) Tj
+T*
+(time I still trusted Microsoft a little, but I made sure to use a one time use credit card) Tj
+T*
+(number, just in case. Lo and behold, I just got this email: Conveniently for those liars and) Tj
+T*
+(cheats at Microsoft, somehow in the intervening three years autorenew got turned back on.) Tj
+T*
+(Oopsie whoopsie sowwy ??! I don?t know how this isn?t outright fraud.) Tj
+T*
+() Tj
+T*
+(58. Windows 2000 Minesweeper recreated in Godot 4.1) Tj
+T*
+(Source: Jayden?s Blog | Published: 2026-02-14T13:00:00+00:00) Tj
+T*
+(Link: https://jayd.ml/2026/02/14/godot-minesweeper.html) Tj
+T*
+(TL;DR Play the game at minesweeper.jayd.ml! See the AGPL source code here! Why?? I decided to) Tj
+T*
+(recreate Windows 2000 minesweeper in Godot 4.1 as accurately as I reasonably could. I wanted to) Tj
+T*
+(get more familiar with Godot, and wanted a project where I didn?t have to worry about what to) Tj
+T*
+(do, only how to do it. In the end, I ended up going down the rabbit hole and spending 30% of my) Tj
+T*
+(time on the actual game and the other 70% on menus, dialogs, and other triviality. It was fun) Tj
+T*
+(working on stuff that I?d never get past a PM, like black and white mode, and recreating the) Tj
+T*
+(ding/blinking window animation when you click on a window while a dialog is open. The overall) Tj
+T*
+(experience with Godot was very pleasant - working with Godot has dispelled any desire I had to) Tj
+T*
+(make my own game engine. Godot is lightweight and well thought out. Overall Approach I wanted) Tj
+T*
+(to recreate Minesweeper as pixel-perfect as I could. Depite my best efforts \(see Fonts below\),) Tj
+T*
+(I couldn?t get Godot to render the Windows 2000/9x bitmapped fonts in a pixel perfect way, so) Tj
+T*
+(the approach was to take screenshots in a VM and only render text with Godot where absolutely) Tj
+T*
+(needed \(highscores\). Font Rendering Purgatory I spent way, way too...) Tj
+T*
+() Tj
+T*
+(59. Premium: The Hater's Guide To The AI Bubble Vol. 2) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 14 Nov 2025 18:10:53 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-the-haters-guide-to-the-ai-bubble-vol-2/) Tj
+T*
+(We?re approaching the most ridiculous part of the AI bubble, with each day bringing us a new,) Tj
+T*
+(disgraceful and weird headline. As I reported earlier in the week, OpenAI spent $12.4 billion) Tj
+T*
+(on inference between 2024 and September 2025 , and its revenue share with Microsoft heavily) Tj
+T*
+(suggests) Tj
+T*
+() Tj
+T*
+(60. Exclusive: Here's How Much OpenAI Spends On Inference and Its Revenue Share With) Tj
+T*
+(Microsoft) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Wed, 12 Nov 2025 16:30:09 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/oai_docs/) Tj
+T*
+(EDIT: I am updating this post to reflect that these numbers are based on accrual accounting,) Tj
+T*
+(meaning that these amounts are from the quarters I am referencing. Anyone telling you otherwise) Tj
+T*
+(is misinformed. As with my Anthropic exclusive from a few weeks ago , though this feels like a) Tj
+T*
+(natural premium) Tj
+T*
+() Tj
+T*
+(61. Premium: OpenAI Burned $4.1 Billion More Than We Knew - Where Is Its Money Going?) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 07 Nov 2025 16:27:45 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/where-is-openais-money-going/) Tj
+T*
+(Soundtrack: Queens of the Stone Age - Song For The Dead Editor's Note: The original piece had a) Tj
+T*
+(mathematical error around burnrate, it's been fixed. Also, welcome to another premium issue!) Tj
+T*
+(Please do subscribe, this is a massive, 7000-or-so word piece, and that's the) Tj
+T*
+() Tj
+T*
+(62. tiny corp?s product ? a training box) Tj
+ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 26 0 R >>
+endobj
+28 0 obj
+<< /Length 4059 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: the singularity is nearer | Published: 2026-02-15T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/02/15/tiny-corp-product.html) Tj
+T*
+(Our new Hong Kong office. It?s starting to shape up what tiny corp?s product will be. It?s not) Tj
+T*
+(much of a change from what we sell and do now, but the vision is clearer. Every month, we see) Tj
+T*
+(these LLMs become more and more human. However, there?s a major difference. They do not learn.) Tj
+T*
+(Everyone has the same Claude/Codex/Kimi, with the same weights, the same desires, and the same) Tj
+T*
+(biases. If current trends continue, the collapse in diversity will be staggering. To) Tj
+T*
+(paraphrase: I think there is a world market for maybe five people. This is not the future I) Tj
+T*
+(want to live in. If trends continue where there?s a single model with frozen weights and all) Tj
+T*
+(learning is in-context, the cloud will win. Except in some highly latency sensitive \(fighting) Tj
+T*
+(robots\) or connectivity critical \(self driving cars\) environments, it will be cheaper to run in) Tj
+T*
+(batch on the cloud. The enshittification that came to the web won?t be the driving force to) Tj
+T*
+(local models. We either live in a world where open models are so bad even user-hostile closed) Tj
+T*
+(models are better, or open models are good enough, and competition to run them through sites) Tj
+T*
+(like openrouter will prevent enshittification. The only way local models win is i...) Tj
+T*
+() Tj
+T*
+(63. How to Work Hard) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/hwh.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(64. A Project of One's Own) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/own.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(65. Fierce Nerds) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/fn.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(66. New Blog Post: " A Very Early History of Algebraic Data Types") Tj
+T*
+(Source: Computer Things | Published: Thu, 25 Sep 2025 16:50:58 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://buttondown.com/hillelwayne/archive/new-blog-post-a-very-early-history-of-algebraic/) Tj
+T*
+(Last week I said that this week's newsletter would be a brief history of algebraic data types.) Tj
+T*
+(I was wrong. That history is now a 3500 word blog post . Patreon blog notes here . I'm speaking) Tj
+T*
+(at P99 Conf ! My talk, "Designing Low-Latency Systems with TLA+", is happening 10/23 at 11:30) Tj
+T*
+(central time. It's an online conf and the talk's only 16 minutes, so come check it out!) Tj
+T*
+() Tj
+T*
+(67. Many Hard Leetcode Problems are Easy Constraint Problems) Tj
+T*
+(Source: Computer Things | Published: Wed, 10 Sep 2025 13:00:00 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/) Tj
+T*
+(In my first interview out of college I was asked the change counter problem: Given a set of) Tj
+T*
+(coin denominations, find the minimum number of coins required to make change for a given) Tj
+T*
+(number. IE for USA coinage and 37 cents, the minimum number is four \(quarter, dime, 2 pennies\).) Tj
+T*
+(I implemented the simple greedy algorithm and immediately fell into the trap of the question:) Tj
+T*
+(the greedy algorithm only works for "well-behaved" denominations. If the coin values were [10,) Tj
+T*
+(9, 1] , then making 37 cents would take 10 coins in the greedy algorithm but only 4 coins) Tj
+T*
+(optimally \( 10+9+9+9 \). The "smart" answer is to use a dynamic programming algorithm, which I) Tj
+T*
+(didn't know how to do. So I failed the interview. But you only need dynamic programming if) Tj
+T*
+(you're writing your own algorithm. It's really easy if you throw it into a constraint solver) Tj
+T*
+(like MiniZinc and call it a day. int: total; array[int] of int: values = [10, 9, 1];) Tj
+T*
+(array[index_set\(values\)] of var 0..: coins; constraint sum \(c in index_set\(coins\)\) \(coins[c] *) Tj
+ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 28 0 R >>
+endobj
+30 0 obj
+<< /Length 4154 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(values[c]\) == total; solve minimize sum\(coins\); You can try this online here . It'll give you a) Tj
+T*
+(prompt to put in total and then give you successively-better solutions: coins = [0, 0, 37...) Tj
+T*
+() Tj
+T*
+(68. The Angels and Demons of Nondeterminism) Tj
+T*
+(Source: Computer Things | Published: Thu, 04 Sep 2025 14:00:00 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/the-angels-and-demons-of-nondeterminism/) Tj
+T*
+(Greetings everyone! You might have noticed that it's September and I don't have the next) Tj
+T*
+(version of Logic for Programmers ready. As penance, here's ten free copies of the book . So a) Tj
+T*
+(few months ago I wrote a newsletter about how we use nondeterminism in formal methods. The) Tj
+T*
+(overarching idea: Nondeterminism is when multiple paths are possible from a starting state. A) Tj
+T*
+(system preserves a property if it holds on all possible paths. If even one path violates the) Tj
+T*
+(property, then we have a bug. An intuitive model of this is that for this is that when faced) Tj
+T*
+(with a nondeterministic choice, the system always makes the worst possible choice . This is) Tj
+T*
+(sometimes called demonic nondeterminism and is favored in formal methods because we are) Tj
+T*
+(paranoid to a fault. The opposite would be angelic nondeterminism , where the system always) Tj
+T*
+(makes the best possible choice . A property then holds if any possible path satisfies that) Tj
+T*
+(property. 1 This is not as common in FM, but it still has its uses! "Players can access the) Tj
+T*
+(secret level" or " We can always shut down the computer " are reachability properties, that) Tj
+T*
+(something is possible even if not actually done. In broader computer science research, I'd say) Tj
+T*
+(tha...) Tj
+T*
+() Tj
+T*
+(69. Deprecate Like You Mean It) Tj
+T*
+(Source: Entropic Thoughts | Published: Thu, 11 Dec 2025 00:00:00 +0100) Tj
+T*
+(Link: https://entropicthoughts.com/deprecate-like-you-mean-it) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(70. Advent of Code in Dialog) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 09 Dec 2025 00:00:00 +0100) Tj
+T*
+(Link: https://entropicthoughts.com/advent-of-code-in-dialog) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(71. Transparent Leadership Beats Servant Leadership) Tj
+T*
+(Source: Entropic Thoughts | Published: Thu, 04 Dec 2025 00:00:00 +0100) Tj
+T*
+(Link: https://entropicthoughts.com/transparent-leadership-beats-servant-leadership) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(72. They made computers behave like annoying salesmen) Tj
+T*
+(Source: Rakhim's blog | Published: Wed, 15 Jan 2025 00:00:00 GMT) Tj
+T*
+(Link: https://rakhim.exotext.com/they-made-computers-behave-like-annoying-salesmen) Tj
+T*
+(Computers are precise machines. You can give a computer a precise command using an inhumane) Tj
+T*
+(language, and it should perfome the command. It's not a human, and there is no point of) Tj
+T*
+(treating it as one. The goal of humanizing user experience isn't to create an illusion of human) Tj
+T*
+(interaction - it's to make these mechanical commands more accessible while preserving their) Tj
+T*
+(precise, deterministic nature. UX designers and product managers of tech companies did a lot of) Tj
+T*
+(damange to people's understanding of computers by making the software behave like a human; or) Tj
+T*
+(to be more precise, behave like an annoying salesman. \(Image from " Not Now. Not later either ") Tj
+T*
+(by Chris Oliver\) We're all familiar with this type. After receiving a clear "no thanks" they) Tj
+T*
+(deploy increasingly manipulative tactics to meet their "always-be-closing" quotas: "Would this) Tj
+T*
+(Wednesday work better?" "What would change your mind?" This behavior is frustrating enough from) Tj
+T*
+(actual salespeople - it's even worse when programmed into our software. \( Corporate LLM) Tj
+T*
+(training session circa 2025 \) Personally, I can tolerate but deeply dislike software that) Tj
+T*
+(pretends to have ulterior motives. Take YouTube, for instance. When I explicitly sa...) Tj
+T*
+() Tj
+T*
+(73. YouTube picks, December 2024) Tj
+T*
+(Source: Rakhim's blog | Published: Tue, 31 Dec 2024 11:05:53 GMT) Tj
+ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 30 0 R >>
+endobj
+32 0 obj
+<< /Length 3691 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://rakhim.exotext.com/youtube-picks-december-2024) Tj
+T*
+(I've added a new feature to Exotext which converts YouTube links into embeds \(when a link is on) Tj
+T*
+(its own line and surrounded by newlines\). To test things out, here are some cool YouTube videos) Tj
+T*
+(I've watched this month.) Tj
+T*
+() Tj
+T*
+(74. How to make forbidden changes to SQLite tables) Tj
+T*
+(Source: Rakhim's blog | Published: Tue, 24 Dec 2024 11:08:52 GMT) Tj
+T*
+(Link: https://rakhim.exotext.com/how-to-make-forbidden-changes-to-sqlite-tables) Tj
+T*
+(Sometimes you need to make a change to an SQLite table which is not possible with a simple) Tj
+T*
+(ALTER command. For example, today I realized that email_verifications table in my DB references) Tj
+T*
+(users with a foreign key, but does not have ON DELETE CASCADE \(I simply forgot to put it in\).) Tj
+T*
+(This makes it impossible to delete a record from users table if there are corresponding records) Tj
+T*
+(in email_verifications . There is a hacky way to achieve this, but I prefer this: Create a new) Tj
+T*
+(table with the correct structure \(in my case, with ON DELETE CASCADE enabled\). Copy data from) Tj
+T*
+(the old table to the new table. Rename the old table. Rename the new table. Drop the old table) Tj
+T*
+(\(if everything is ok\). It comes down to: CREATE TABLE IF NOT EXISTS email_verifications_2 \( id) Tj
+T*
+(INTEGER PRIMARY KEY, user_id INTEGER NOT NULL, verification_code TEXT NOT NULL, created_at) Tj
+T*
+(TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP, FOREIGN KEY \(user_id\) REFERENCES users \(user_id\)) Tj
+T*
+(ON DELETE CASCADE \); INSERT INTO email_verifications_2 SELECT * FROM email_verifications; ALTER) Tj
+T*
+(TABLE email_verifications RENAME TO email_verifications_old; ALTER TABLE email_verifications_2) Tj
+T*
+(RENAME TO email_verifications; If everything is ok, we can drop th...) Tj
+T*
+() Tj
+T*
+(75. an engineer's perspective on hiring) Tj
+T*
+(Source: the website of jyn | Published: 2025-08-08T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/an-engineers-perspective-on-hiring/) Tj
+T*
+(hiring in tech is broken and everyone knows it. what can we do better?) Tj
+T*
+() Tj
+T*
+(76. you are in a box) Tj
+T*
+(Source: the website of jyn | Published: 2025-07-14T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/you-are-in-a-box/) Tj
+T*
+(your data is trapped inside the box that is your program. you can only see what the program) Tj
+T*
+(author exposes.) Tj
+T*
+() Tj
+T*
+(77. constrained languages are easier to optimize) Tj
+T*
+(Source: the website of jyn | Published: 2025-07-12T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/constrained-languages-are-easier-to-optimize/) Tj
+T*
+(exposing raw pointers make the optimizer?s job horribly hard. high level languages can) Tj
+T*
+(constrain your program, making more optimizations sound.) Tj
+T*
+() Tj
+T*
+(78. Satya Nadella ? How Microsoft is preparing for AGI) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Wed, 12 Nov 2025 17:03:08 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/satya-nadella-2) Tj
+T*
+(Plus a tour of Fairwater 2, the most powerful AI datacenter in the world) Tj
+T*
+() Tj
+T*
+(79. Sarah Paine ? How Russia sabotaged China's rise) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Fri, 31 Oct 2025 15:01:37 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/sarah-paine-russo-chinese) Tj
+T*
+(Plus, where Russia and China go from here) Tj
+T*
+() Tj
+T*
+(80. Thoughts on the AI buildout) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Wed, 22 Oct 2025 17:58:39 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/thoughts-on-the-ai-buildout) Tj
+T*
+(Fab CapEx overhang, 1 GW a week, China privileged in long timelines, and much else) Tj
+T*
+() Tj
+T*
+(81. Nerd Quiz #3) Tj
+ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 32 0 R >>
+endobj
+34 0 obj
+<< /Length 4650 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Susam Pal | Published: Tue, 23 Dec 2025 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/code/news/nq/3.0.0.html) Tj
+T*
+(Nerd Quiz #3 is the third release of Nerd Quiz, a single-page HTML application that invites you) Tj
+T*
+(to test your nerd level through a short quiz. Each question is inspired by everyday moments of) Tj
+T*
+(reading, writing, thinking, learning and exploring. This release introduces five new questions) Tj
+T*
+(drawn from a range of topics, including computing history, graph theory and Unix. Visit Nerd) Tj
+T*
+(Quiz to try the quiz. A community discussion page is available at Discuss Nerd Quiz . You are) Tj
+T*
+(very welcome to share your score or discuss the questions there. Read on website | #web |) Tj
+T*
+(#miscellaneous | #game) Tj
+T*
+() Tj
+T*
+(82. Mark V. Shaney Junior 0.2.0) Tj
+T*
+(Source: Susam Pal | Published: Sun, 14 Dec 2025 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/code/news/mvs/0.2.0.html) Tj
+T*
+(Mark V. Shaney Junior 0.2.0 is the second release of this little Markov gibberish generator.) Tj
+T*
+(This release brings two small changes. First, it now reads the training data from standard) Tj
+T*
+(input instead of a hardcoded file. Second, the program filename has been changed from mvs.py to) Tj
+T*
+(mvs to reflect that it is an executable file and can be run as ./mvs on most Unix and Linux) Tj
+T*
+(systems. The source and a detailed documentation for this project are available at) Tj
+T*
+(github.com/susam/mvs . See also this related blog post and a discussion on Hacker News about) Tj
+T*
+(it. Read on website | #python | #programming | #technology) Tj
+T*
+() Tj
+T*
+(83. Fed 24 Years of My Blog Posts to a Markov Model) Tj
+T*
+(Source: Susam Pal | Published: Sat, 13 Dec 2025 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/fed-24-years-of-posts-to-markov-model.html) Tj
+T*
+(Yesterday I shared a little program called Mark V. Shaney Junior at github.com/susam/mvs . It) Tj
+T*
+(is a minimal implementation of a Markov text generator inspired by the legendary Mark V. Shaney) Tj
+T*
+(program from the 1980s. Mark V. Shaney was a synthetic Usenet user that posted messages to) Tj
+T*
+(various newsgroups using text generated by a Markov model. See the Wikipedia article Mark V.) Tj
+T*
+(Shaney for more details about it. In this post, I will discuss my implementation of the model,) Tj
+T*
+(explain how it works and share some of the results produced by it. Contents Recreational) Tj
+T*
+(Programming Gibberish The Markov Property Some More Gibberish Recreational Programming The) Tj
+T*
+(program I shared yesterday has only about 30 lines of Python and favours simplicity over) Tj
+T*
+(efficiency. Even if you have never worked with Markov models before, as long as you know some) Tj
+T*
+(Python programming, I am quite confident that it will take you less than 20 minutes to) Tj
+T*
+(understand the whole program and make complete sense of it. I also offer an explanation further) Tj
+T*
+(below in this post. As a hobby, I often engage in exploratory programming where I write) Tj
+T*
+(computer programs not to solve a specific problem but simply to explore a particular idea or) Tj
+T*
+(top...) Tj
+T*
+() Tj
+T*
+(84. Big LLMs weights are a piece of history) Tj
+T*
+(Source: antirez.com | Published: Sun, 16 Mar 2025 12:56:33 +0100) Tj
+T*
+(Link: http://antirez.com/news/147) Tj
+T*
+(By multiple accounts, the web is losing pieces: every year a fraction of old web pages) Tj
+T*
+(disappear, lost forever. We should regard the Internet Archive as one of the most valuable) Tj
+T*
+(pieces of modern history; instead, many companies and entities make the chances of the Archive) Tj
+T*
+(to survive, and accumulate what otherwise will be lost, harder and harder. I understand that) Tj
+T*
+(the Archive headquarters are located in what used to be a church: well, there is no better way) Tj
+T*
+(to think of it than as a sacred place. Imagine the long hours spent by old programmers hacking) Tj
+T*
+(with the Z80 assembly on their Spectrums. All the discussions about the first generation of the) Tj
+T*
+(Internet. The subcultures that appeared during the 90s. All things that are getting lost, piece) Tj
+T*
+(by piece. And what about the personal blogs? Pieces of life of single individuals that dumped) Tj
+T*
+(part of their consciousness on the Internet. Scientific papers and processes that are lost) Tj
+T*
+(forever as publishers fail, their websites shut down. Early digital art, video games, climate) Tj
+T*
+(data once published on the Internet and now lost, and many sources of news, as well. This is a) Tj
+T*
+(known issue and I believe that the obvious approach of trying to preserve eve...) Tj
+ET
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 34 0 R >>
+endobj
+36 0 obj
+<< /Length 3674 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(85. Reasoning models are just LLMs) Tj
+T*
+(Source: antirez.com | Published: Sun, 09 Feb 2025 19:19:38 +0100) Tj
+T*
+(Link: http://antirez.com/news/146) Tj
+T*
+(It?s not new, but it?s accelerating. People that used to say that LLMs were a fundamentally) Tj
+T*
+(flawed way to reach any useful reasoning and, in general, to develop any useful tool with some) Tj
+T*
+(degree of generality, are starting to shuffle the deck, in the hope to look less wrong. They) Tj
+T*
+(say: ?the progresses we are seeing are due to the fact that models like OpenAI o1 or DeepSeek) Tj
+T*
+(R1 are not just LLMs?. This is false, and it is important to show their mystification as soon) Tj
+T*
+(as possible. First, DeepSeek R1 \(don?t want to talk about o1 / o3, since it?s a private thing) Tj
+T*
+(we don?t have access to, but it?s very likely the same\) is a pure decoder only autoregressive) Tj
+T*
+(model. It?s the same next token prediction that was so strongly criticized. There isn?t, in any) Tj
+T*
+(place of the model, any explicit symbolic reasoning or representation. Moreover, R1 Zero has) Tj
+T*
+(similar reasoning capabilities of R1 without requiring *any* supervised fine tuning, just) Tj
+T*
+(generating chain of thoughts, and improving it with a reward function, using reinforcement) Tj
+T*
+(learning, was enough to learn a stronger form of reasoning. Interestingly enough, part of these) Tj
+T*
+(capabilities were easily distilled into smaller models via SFT, which brings...) Tj
+T*
+() Tj
+T*
+(86. We are destroying software) Tj
+T*
+(Source: antirez.com | Published: Sat, 08 Feb 2025 15:47:49 +0100) Tj
+T*
+(Link: http://antirez.com/news/145) Tj
+T*
+(We are destroying software by no longer taking complexity into account when adding features or) Tj
+T*
+(optimizing some dimension. We are destroying software with complex build systems. We are) Tj
+T*
+(destroying software with an absurd chain of dependencies, making everything bloated and) Tj
+T*
+(fragile. We are destroying software telling new programmers: ?Don?t reinvent the wheel!?. But,) Tj
+T*
+(reinventing the wheel is how you learn how things work, and is the first step to make new,) Tj
+T*
+(different wheels. We are destroying software by no longer caring about backward APIs) Tj
+T*
+(compatibility. We are destroying software pushing for rewrites of things that work. We are) Tj
+T*
+(destroying software by jumping on every new language, paradigm, and framework. We are) Tj
+T*
+(destroying software by always underestimating how hard it is to work with existing complex) Tj
+T*
+(libraries VS creating our stuff. We are destroying software by always thinking that the) Tj
+T*
+(de-facto standard for XYZ is better than what we can do, tailored specifically for our use) Tj
+T*
+(case. We are destroying software claiming that code comments are useless. We are destroying) Tj
+T*
+(software mistaking it for a purely engineering discipline. We are destroying software by making) Tj
+T*
+(systems that no longe...) Tj
+T*
+() Tj
+T*
+(87. ACXD) Tj
+T*
+(Source: Chad Nauseam Home | Published: -) Tj
+T*
+(Link: https://chadnauseam.com/reference/ACXD) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(88. faq) Tj
+T*
+(Source: Chad Nauseam Home | Published: -) Tj
+T*
+(Link: https://chadnauseam.com/faq) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(89. anime-recommendations) Tj
+T*
+(Source: Chad Nauseam Home | Published: -) Tj
+T*
+(Link: https://chadnauseam.com/anime/anime-recommendations) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(90. SNES: Sprites and backgrounds rendering) Tj
+T*
+(Source: Fabien Sanglard | Published: 09 Aug 2024 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/snes_ppus_why/index.html) Tj
+T*
+(\(No summary\)) Tj
+ET
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 36 0 R >>
+endobj
+38 0 obj
+<< /Length 3676 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(91. How the SNES Graphics System works) Tj
+T*
+(Source: Fabien Sanglard | Published: 09 Aug 2024 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/snes_ppus_how/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(92. Carving the Super Nintendo Video System) Tj
+T*
+(Source: Fabien Sanglard | Published: 29 Jul 2024 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/snes_video/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(93. Design Deconstruction) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-02-14T16:15:04Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17276365/text-based-design-mindset) Tj
+T*
+(Design is perhaps the software paradigm most wedded to the mouse and the GUI. But there?s no) Tj
+T*
+(reason it can?t be text-driven.) Tj
+T*
+() Tj
+T*
+(94. Tandy Corporation, Part 3) Tj
+T*
+(Source: Abort Retry Fail | Published: Tue, 10 Jun 2025 19:38:09 GMT) Tj
+T*
+(Link: https://www.abortretry.fail/p/tandy-corporation-part-3) Tj
+T*
+(Becoming IBM Compatible) Tj
+T*
+() Tj
+T*
+(95. The Tandy Corporation, Part 2) Tj
+T*
+(Source: Abort Retry Fail | Published: Mon, 02 Jun 2025 01:02:32 GMT) Tj
+T*
+(Link: https://www.abortretry.fail/p/the-tandy-corporation-part-2) Tj
+T*
+(Trash-80s get Colorful, and Trash-80s get into your pockets) Tj
+T*
+() Tj
+T*
+(96. The Tandy Corporation, Part 1) Tj
+T*
+(Source: Abort Retry Fail | Published: Sun, 18 May 2025 16:31:36 GMT) Tj
+T*
+(Link: https://www.abortretry.fail/p/the-tandy-corporation-part-1) Tj
+T*
+(From leather shoe bits to the TRS-80) Tj
+T*
+() Tj
+T*
+(97. Refurb weekend: Silicon Graphics Indigo≤ IMPACT 10000) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2025-09-13T22:35:00.000-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html) Tj
+T*
+(It's one of my periodic downsizing cycles, which means checking the hardware inventory \(and,) Tj
+T*
+(intermittently, discovering things that were not on the hardware inventory\) and deciding if I) Tj
+T*
+(want to use it, store it or junk it. And so we come to this machine, which has been sitting in) Tj
+T*
+(the lab as a practical objet d'art when I picked it up from a fellow collector for the cost of) Tj
+T*
+(take-it-away almost exactly a decade ago. This beautiful purple slab is the Silicon Graphics) Tj
+T*
+(Indigo≤ \(though, unlike its earlier namesake, not actually indigo coloured \) with the) Tj
+T*
+(upper-tier MIPS R10000 CPU and IMPACT graphics. My recollection was that it worked at the time,) Tj
+T*
+(but I couldn't remember if it booted, and of course that was no guarantee that it could still) Tj
+T*
+(power on. If this machine is to stay working and in the collection, we're gonna need a Refurb) Tj
+T*
+(Weekend. Counting this sucker, there are three SGI systems presently in the house. \(I had a) Tj
+T*
+(chance many years ago to land one of SGI's early 68K IRIS machines, I think an IRIS 3110, but I) Tj
+T*
+(was still in a small apartment back then and hadn't the space. I've always regretted turning) Tj
+T*
+(that one down.\) The "big" one is a 900MHz R16000 SGI Fuel \(codenamed "Asterix"...) Tj
+T*
+() Tj
+T*
+(98. Microsoft makes 6502 BASIC open source) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2025-09-03T12:53:00.000-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2025/09/microsoft-makes-6502-basic-open-source.html) Tj
+T*
+(It was probably going to happen sooner or later, but Microsoft has officially released the) Tj
+T*
+(source code for 6502 BASIC . The specific revision is very Commodore-centric: it's the 1977) Tj
+T*
+("8K" BASIC variant "1.1," which Commodore users know better as BASIC V2.0, the same BASIC used) Tj
+ET
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 38 0 R >>
+endobj
+40 0 obj
+<< /Length 4226 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(in the early PET and with later spot changes from Commodore \(including removing Bill Gates') Tj
+T*
+(famous Easter egg \) in the VIC-20 and Commodore 64. I put "8K" in quotes because the 40-bit) Tj
+T*
+(Microsoft Binary Format version, which is most familiar as the native floating point format for) Tj
+T*
+(most 8-bit BASICs derived from Microsoft's and all Commodore BASICs from the PET on up,) Tj
+T*
+(actually starts at 9K in size. In the C64, because there is RAM and I/O between the BASIC ROM) Tj
+T*
+(and the Kernal ROM, there is an extra JMP at the end of the BASIC ROM to continue to the) Tj
+T*
+(routine in the lowest portions of the Kernal ROM. The jump doesn't exist in the VIC-20 where) Tj
+T*
+(the ROM is contiguous and as a result everything past that point is shifted by three bytes on) Tj
+T*
+(the C64, the length of the instruction. This is, of course, the same BASIC that Gates wanted a) Tj
+T*
+(percentage of but Jack Tramiel famously refused to budge on the $25,000 one-time fee, cl...) Tj
+T*
+() Tj
+T*
+(99. Reverse-engineering Roadsearch Plus, or, roadgeeking with an 8-bit CPU) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2025-08-23T17:12:00.000-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2025/08/make-your-apple-ii-or-commodore-64.html) Tj
+T*
+(Sorry, Doc Brown: we still needed roads in 1985. That meant paper atlases and misfolded) Tj
+T*
+(roadmaps and a lot of stereotypical male anxiety asking for directions. Fortunately, in 1985,) Tj
+T*
+(this problem also had a solution. Yes, if your car inverter could handle a 45-ish watt load ?) Tj
+T*
+(and your wife doesn't want her seat back right away ? you could navigate major routes across) Tj
+T*
+(America on your home computer like this portable Commodore SX-64. I particularly enjoyed) Tj
+T*
+(writing this article because my other irredeemably nerdy habit is roadgeeking, exploring and) Tj
+T*
+(mapping highways both old and new, and it turns out that 8-bit roadgeeking on ordinary home) Tj
+T*
+(computers was absolutely possible. For computers of this class, devising an optimal highway) Tj
+T*
+(route becomes an exercise not only in how to encode sufficient map data to a floppy disk, but) Tj
+T*
+(also performing efficient graph traversal with limited hardware. Today we'll explore) Tj
+T*
+(Roadsearch-Plus, one of the \(if not the\) earliest such software ? primarily on the Commodore) Tj
+T*
+(64, but originating on the Apple II ? and at the end "drive" all the way from southern) Tj
+T*
+(California to British Columbia along US Highway 395, my first long haul expedition, but as it) Tj
+T*
+(was in 1985...) Tj
+T*
+() Tj
+T*
+(100. Transforming numbers) Tj
+T*
+(Source: Beej's Bit Bucket | Published: Thu, 05 Nov 2015 00:00:00 +0000) Tj
+T*
+(Link: http://beej.us/blog/data/transforming-numbers/) Tj
+T*
+(A little numerical diversion, changing things to other things.) Tj
+T*
+() Tj
+T*
+(101. Writing a jQuery plugin to create scrolling regions in HTML) Tj
+T*
+(Source: Beej's Bit Bucket | Published: Tue, 10 Jul 2012 00:00:00 +0000) Tj
+T*
+(Link: http://beej.us/blog/data/jquery-plugin-scrollregion/) Tj
+T*
+(How to make a scrolling pane in HTML/CSS; in particular, how to wrap it all in a jQuery plugin) Tj
+T*
+(for easy reuse.) Tj
+T*
+() Tj
+T*
+(102. HTML canvas scratcher revisited) Tj
+T*
+(Source: Beej's Bit Bucket | Published: Mon, 23 Apr 2012 00:00:00 +0000) Tj
+T*
+(Link: http://beej.us/blog/data/html-canvas-scratcher-2/) Tj
+T*
+(An exercise in refactoring code from being closely tied to a page to being less closely tied.) Tj
+T*
+(This is based on the previous scratcher code .) Tj
+T*
+() Tj
+T*
+(103. Can You Spot the Passive Voice?) Tj
+T*
+(Source: Refactoring English | Published: Fri, 31 Jan 2025 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/tools/recognize-passive-voice/) Tj
+T*
+(This exercise tests your ability to recognize the passive voice in the context of developing) Tj
+T*
+(software. For each sentence, click: Active ? if the sentence has no passive voice \(active voice) Tj
+T*
+(only\) Passive ? if the sentence contains passive voice Start Does this sentence contain passive) Tj
+T*
+(voice? Passive ? Active ? Next Question Accuracy: 0 %) Tj
+T*
+() Tj
+T*
+(104. Passive Voice Considered Harmful) Tj
+ET
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 40 0 R >>
+endobj
+42 0 obj
+<< /Length 4439 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Refactoring English | Published: Fri, 31 Jan 2025 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/chapters/passive-voice-considered-harmful/) Tj
+T*
+(Your high school English teachers probably warned you that passive voice is dangerous and) Tj
+T*
+(forbidden. Then, when you were an adult, some guy in a leather jacket told you that passive) Tj
+T*
+(voice is cool and should be used whenever it?s desired. Well, the tide has turned again. If) Tj
+T*
+(you?re a software developer, stop using the passive voice. Wait, what?s passive voice? In) Tj
+T*
+(English, sentences can have one of two structures: passive voice or active voice.) Tj
+T*
+() Tj
+T*
+(105. Rules for Writing Software Tutorials) Tj
+T*
+(Source: Refactoring English | Published: Thu, 02 Jan 2025 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/chapters/rules-for-software-tutorials/) Tj
+T*
+(Most software tutorials are tragically flawed. Tutorials often forget to mention some key) Tj
+T*
+(detail, preventing readers from replicating the author?s process. Other times, the author) Tj
+T*
+(brings in hidden assumptions that don?t match their readers? expectations. The good news is) Tj
+T*
+(that it?s easier than you think to write an exceptional software tutorial. You can stand out in) Tj
+T*
+(a sea of mediocre guides by following a few simple rules. Rules Write for beginners Promise a) Tj
+T*
+(clear outcome in the title Explain the goal in the introduction Show the end result Make code) Tj
+T*
+(snippets copy/pasteable Use long versions of command-line flags Separate user-defined values) Tj
+T*
+(from reusable logic Use unambiguous example values Spare the reader from mindless tasks Keep) Tj
+T*
+(your code in a working state Teach one thing Don?t try to look pretty Minimize dependencies) Tj
+T*
+(Specify filenames clearly Use consistent, descriptive headings Demonstrate that your solution) Tj
+T*
+(works Link to a complete example Write for beginners The most common mistake tutorials make is) Tj
+T*
+(explaining beginner-level concepts using expert-level terminology.) Tj
+T*
+() Tj
+T*
+(106. Hacking for Defense @ Stanford 2025 ? Lessons Learned Presentations) Tj
+T*
+(Source: Steve Blank | Published: Tue, 17 Jun 2025 13:00:04 +0000) Tj
+T*
+(Link: https://steveblank.com/2025/06/17/hacking-for-defense-stanford-2025-lessons-learned-prese) Tj
+T*
+(ntations/) Tj
+T*
+(The videos and PowerPoints embedded in this post are best viewed on steveblank.com We just) Tj
+T*
+(finished our 10th annual Hacking for Defense class at Stanford. What a year. Hacking for) Tj
+T*
+(Defense, now in 70 universities, has teams of students working to understand and help solve) Tj
+T*
+(national security problems. At Stanford this quarter the 8 teams [?]) Tj
+T*
+() Tj
+T*
+(107. Teaching National Security Policy with AI) Tj
+T*
+(Source: Steve Blank | Published: Tue, 10 Jun 2025 13:00:25 +0000) Tj
+T*
+(Link: https://steveblank.com/2025/06/10/teaching-national-security-policy-with-ai/) Tj
+T*
+(The videos embedded in this post are best viewed on steveblank.com International Policy) Tj
+T*
+(students will be spending their careers in an AI-enabled world. We wanted our students to be) Tj
+T*
+(prepared for it. This is why we?ve adopted and integrated AI in our Stanford national security) Tj
+T*
+(policy class ? Technology, Innovation and Great Power Competition. Here?s [?]) Tj
+T*
+() Tj
+T*
+(108. How the United States Gave Up Being a Science Superpower) Tj
+T*
+(Source: Steve Blank | Published: Tue, 13 May 2025 13:00:50 +0000) Tj
+T*
+(Link: https://steveblank.com/2025/05/13/how-the-united-states-became-a-science-superpower-and-h) Tj
+T*
+(ow-quickly-it-could-crumble/) Tj
+T*
+(This article previously appeared in Nature. US global dominance in science was no accident, but) Tj
+T*
+(a product of a far-seeing partnership between public and private sectors to boost innovation) Tj
+T*
+(and economic growth. Since 20 January, US science has been upended by severe cutbacks from the) Tj
+T*
+(administration of US President Donald Trump. A series of dramatic [?]) Tj
+T*
+() Tj
+T*
+(109. The Tapestry of Influence: The Inspirations That Shape Us) Tj
+T*
+(Source: Simone Salis | Published: Tue, 05 Nov 2024 11:29:04 GMT) Tj
+T*
+(Link: https://simone.org/influences/) Tj
+T*
+(Discover how your unique combination of influences?from art and philosophy to pop culture and) Tj
+T*
+(personal experiences?shapes your creative perspective. Explore how connecting seemingly) Tj
+ET
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 42 0 R >>
+endobj
+44 0 obj
+<< /Length 3771 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(unrelated passions and memories creates unexpected insights and original expression.) Tj
+T*
+() Tj
+T*
+(110. Being a Bridge Person) Tj
+T*
+(Source: Simone Salis | Published: Tue, 15 Oct 2024 11:33:21 GMT) Tj
+T*
+(Link: https://simone.org/bridge-person/) Tj
+T*
+(How lowering your masks can ripple outward, changing not just individuals, but entire) Tj
+T*
+(communities.) Tj
+T*
+() Tj
+T*
+(111. The Art of Deliberate Friction-Building) Tj
+T*
+(Source: Simone Salis | Published: Tue, 10 Sep 2024 18:59:45 GMT) Tj
+T*
+(Link: https://simone.org/deliberate-friction/) Tj
+T*
+(In a world engineered to be frictionless, adding a bit of resistance can be revolutionary.) Tj
+T*
+() Tj
+T*
+(112. Why Does Have I Been Pwned Contain "Fake" Email Addresses?) Tj
+T*
+(Source: Troy Hunt | Published: Wed, 03 Dec 2025 23:37:06 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/why-does-have-i-been-pwned-contain-fake-email-addresses/) Tj
+T*
+(Normally, when someone sends feedback like this, I ignore it, but it happens often enough that) Tj
+T*
+(it deserves an explainer, because the answer is really, really simple. So simple, in fact, that) Tj
+T*
+(it should be evident to the likes of Bruce, who decided his misunderstanding deserved a 1-star) Tj
+T*
+(Trustpilot review) Tj
+T*
+() Tj
+T*
+(113. Weekly Update 480) Tj
+T*
+(Source: Troy Hunt | Published: Mon, 01 Dec 2025 06:11:03 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-480/) Tj
+T*
+(Well, I now have the answer to how Snapchat does age verification for under-16s: they give an) Tj
+T*
+(underage kid the ability to change their date of birth, then do a facial scan to verify. The) Tj
+T*
+(facial scan \(a third party tells me...\) allows someone well under 16 to pass it) Tj
+T*
+() Tj
+T*
+(114. Weekly Update 479) Tj
+T*
+(Source: Troy Hunt | Published: Sun, 23 Nov 2025 04:44:21 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-479/) Tj
+T*
+(I gave up on the IoT water meter reader. Being technical and thinking you can solve everything) Tj
+T*
+(with technology is both a blessing and a curse; dogged persistence has given me the life I have) Tj
+T*
+(today, but it has also burned serious amounts of time because I never want to) Tj
+T*
+() Tj
+T*
+(115. Staying in one place doesn't mean standing still) Tj
+T*
+(Source: Tom Renner on My place to put things | Published: Sat, 13 Mar 2021 00:00:00 +0000) Tj
+T*
+(Link: https://tomrenner.com/posts/staying-in-one-place-doesnt-mean-standing-still/) Tj
+T*
+(Talk given at Codebar Festival . If you wish to see my slides in their full glory, they are) Tj
+T*
+(available on Slideshare .) Tj
+T*
+() Tj
+T*
+(116. Make yourself a happy place in your inbox - a mindfulness tip for your working day) Tj
+T*
+(Source: Tom Renner on My place to put things | Published: Wed, 03 Feb 2021 00:00:00 +0000) Tj
+T*
+(Link: https://tomrenner.com/posts/make-yourself-a-happy-place/) Tj
+T*
+(Your work inbox is probably not a place that sparks joy. It?s full of people asking you to do) Tj
+T*
+(things, complaints that something hasn?t been done, and 571 messages marked urgent. In fact) Tj
+T*
+(email is usually considered to be a hindrance, with many productivity guides recommending) Tj
+T*
+(simply ignoring your email for large periods of the day, blocking out that time for focussed) Tj
+T*
+(work. The consensus is that your work inbox is just a place that generates distractions, and) Tj
+T*
+(contains never-ending to-do lists that nag away at you throughout the day.) Tj
+T*
+() Tj
+T*
+(117. Twitter network graphing with Gephi) Tj
+T*
+(Source: Tom Renner on My place to put things | Published: Mon, 20 Apr 2020 00:00:00 +0000) Tj
+T*
+(Link: https://tomrenner.com/posts/twitter-graphing-with-gephi/) Tj
+T*
+(Unfortunately since Elon shut down the Twitter APIs, the below method no longer works. Still,) Tj
+ET
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 44 0 R >>
+endobj
+46 0 obj
+<< /Length 4138 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(it was fun while it lasted, eh? Gephi is a piece of software for visualising graph networks.) Tj
+T*
+(It?s a powerful tool, and to use it fully requires significant domain knowledge that I don?t) Tj
+T*
+(possess, but fortunately it?s still fascinating to play around with as an amateur! As a techie,) Tj
+T*
+(to me the obvious networks to graph are those created by the big Social Networks - YouTube,) Tj
+T*
+(Facebook, etc. It?s not hugely surprising to find that mostly these graphs mostly aren?t) Tj
+T*
+(available for querying, but excitingly there is a plugin that allows you to stream in live data) Tj
+T*
+(from Twitter.) Tj
+T*
+() Tj
+T*
+(118. Space News, February 2026) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Sun, 01 Feb 2026 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/spacenews-february-2026/) Tj
+T*
+(These are my notes and expanded thoughts from this month?s Space News segment on ABC Radio) Tj
+T*
+(Hobart and ABC Northern Tasmania. Every month I join Lucie Cutting on Sunday mornings to chat) Tj
+T*
+(about what?s happening above and beyond. Here?s what we discussed, plus some of my notes, and) Tj
+T*
+(expanded thoughts from this edition of the programme : Katherine Bennell-Pegg: 2026 Australian) Tj
+T*
+(of the Year Katherine Bennell-Pegg was named 2026 Australian of the Year on Sunday 26 January) Tj
+T*
+(at the National Arboretum in Canberra. She?s 41, born in South Australia, holds dual) Tj
+T*
+(British-Australian citizenship, and is the first person to qualify as an astronaut under the) Tj
+T*
+(Australian flag . She hasn?t flown to space yet.) Tj
+T*
+() Tj
+T*
+(119. We Made a Game About a 1993 Hint Line) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Fri, 23 Jan 2026 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/hint-line-93/) Tj
+T*
+(I?m so proud of this. Hint Line ?93 , a game we made at Yarn Spinner , is now on display at) Tj
+T*
+(ACMI?s Game Worlds exhibition. We put up a big behind-the-scenes post on the Yarn Spinner blog) Tj
+T*
+(, so go read that? For those who don?t know, early last year ACMI \(the Australian Centre for) Tj
+T*
+(the Moving Image, a museum of screen culture in Melbourne\) put out a call for commissioned) Tj
+T*
+(microgames. They wanted playable experiences for a museum context: 5-10 minutes, compelling) Tj
+T*
+(world-building, accessible to a wide variety of visitors.) Tj
+T*
+() Tj
+T*
+(120. State of Play: How Australian States Are \(Not\) Governing AI) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Mon, 19 Jan 2026 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/state-ai-governance/) Tj
+T*
+(Related: This article examines state-level AI governance in Australia. For analysis of the) Tj
+T*
+(Commonwealth?s AI governance failures, see Slop for the People . For context on the newly) Tj
+T*
+(announced federal AI Safety Institute, see Australia?s AI Safety Institute: Lessons from the UK) Tj
+T*
+(and US . The Commonwealth government attracts most attention for its AI policies. State and) Tj
+T*
+(territory governments are also deploying AI systems in education, health, policing, transport,) Tj
+T*
+(and social services. Each state governs AI differently. Some are ahead of the Commonwealth.) Tj
+T*
+(Others barely engage with it. None do it well.) Tj
+T*
+() Tj
+T*
+(121. Are we dismissing AI spend before the 6x lands?) Tj
+T*
+(Source: Martin Alderson | Published: Mon, 22 Dec 2025 00:00:00 GMT) Tj
+T*
+(Link:) Tj
+T*
+(https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/?utm_source=rss) Tj
+T*
+(Critics are judging models trained on last-gen hardware. There's a 6x wave of compute already) Tj
+T*
+(allocated - and it's just starting to produce results.) Tj
+T*
+() Tj
+T*
+(122. Minification isn't obfuscation - Claude Code proves it) Tj
+T*
+(Source: Martin Alderson | Published: Thu, 18 Dec 2025 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/minification-isnt-obfuscation-claude-code-proves-it/?utm) Tj
+T*
+(_source=rss) Tj
+T*
+(Using ASTs and AI agents to reverse engineer minified JavaScript in minutes instead of weeks) Tj
+T*
+() Tj
+T*
+(123. AI agents are starting to eat SaaS) Tj
+ET
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 46 0 R >>
+endobj
+48 0 obj
+<< /Length 3758 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Martin Alderson | Published: Mon, 15 Dec 2025 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/?utm_source=rss) Tj
+T*
+(Software ate the world. Agents are going to eat SaaS.) Tj
+T*
+() Tj
+T*
+(124. Bag of words, have mercy on us) Tj
+T*
+(Source: Experimental History | Published: Tue, 05 Aug 2025 20:06:09 GMT) Tj
+T*
+(Link: https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us) Tj
+T*
+(OR: Claude will you go to prom with me?) Tj
+T*
+() Tj
+T*
+(125. Do conversations end when people want them to?) Tj
+T*
+(Source: Experimental History | Published: Tue, 22 Jul 2025 18:11:25 GMT) Tj
+T*
+(Link: https://www.experimental-history.com/p/do-conversations-end-when-people) Tj
+T*
+(N = 1172) Tj
+T*
+() Tj
+T*
+(126. Revenge of the Blockheads) Tj
+T*
+(Source: Experimental History | Published: Tue, 08 Jul 2025 12:01:27 GMT) Tj
+T*
+(Link: https://www.experimental-history.com/p/revenge-of-the-blockheads) Tj
+T*
+(Links 'n' updates for Summer 2025) Tj
+T*
+() Tj
+T*
+(127. Vibe Coding Will Rob Us of Our Freedom) Tj
+T*
+(Source: IT Notes | Published: Thu, 05 Jun 2025 08:55:36 +0200) Tj
+T*
+(Link: https://it-notes.dragas.net/2025/06/05/vibe-coding-will-rob-us-of-our-freedom/) Tj
+T*
+(What happens when developers stop understanding code and just trust the 'vibe'? A real case of) Tj
+T*
+(vulnerability hidden behind 'perfect' AI code and the implications for programming's future.) Tj
+T*
+() Tj
+T*
+(128. The Day GlusterFS Tried to Kill My Career) Tj
+T*
+(Source: IT Notes | Published: Wed, 21 May 2025 12:55:00 +0200) Tj
+T*
+(Link: https://it-notes.dragas.net/2025/05/21/the_day_glusterfs_tried_to_kill_my_career/) Tj
+T*
+(A GlusterFS failure during a critical client upgrade turned into a nightmare of false) Tj
+T*
+(accusations and politics, revealing a deeper story of corruption.) Tj
+T*
+() Tj
+T*
+(129. The Server That Wasn't Meant to Exist) Tj
+T*
+(Source: IT Notes | Published: Tue, 13 May 2025 16:13:36 +0200) Tj
+T*
+(Link: https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/) Tj
+T*
+(A story from 16 years ago - trust, tech, and a server that had to disappear. They offered me a) Tj
+T*
+(blank check. I said no.) Tj
+T*
+() Tj
+T*
+(130. Coding agents as the new compilers) Tj
+T*
+(Source: Anil Dash | Published: 2026-02-12T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/02/11/coding-agents-as-the-new-compilers/) Tj
+T*
+(In each successive generation of code creation thus far, we?ve abstracted away the prior) Tj
+T*
+(generation over time. Usually, only a small percentage of coders still work on the lower layers) Tj
+T*
+(of the stack that used to be the space where everyone was working. I?ve been coding long enough) Tj
+T*
+(that people were still creating code in assembly when I started \(though I was never any good at) Tj
+T*
+(it!\), though I started with BASIC. Since BASIC was an interpreted language, its interpreter) Tj
+T*
+(would write the assembly language for me, and I never had to see exactly what assembly language) Tj
+T*
+(code was being created. I definitely did know old-school coders who used to, at first, check) Tj
+T*
+(that assembly code to see if they liked the output. But eventually, over time, they just) Tj
+T*
+(learned to trust the system and stopped looking at what happened after the system finished) Tj
+T*
+(compiling. Even people using more ?close to the metal? languages like C generally trust that) Tj
+T*
+(their compilers have been optimized enough that they seldom inspect the output of the compiler) Tj
+T*
+(to make sure it was perfectly optimized for their particular processor or configuration. The) Tj
+T*
+(benefits of delegating those concerns to the teams that create compilers, and co...) Tj
+T*
+() Tj
+T*
+(131. Launch it 3 times) Tj
+ET
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 48 0 R >>
+endobj
+50 0 obj
+<< /Length 3364 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Anil Dash | Published: 2026-02-14T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/02/13/launch-it-three-times/) Tj
+T*
+(I wanted to share one of the bits of advice that I find myself most frequently giving to teams) Tj
+T*
+(when they?re working on a product, or founders who are creating a new company: launch it three) Tj
+T*
+(times. What I mean by that is, it often takes more than one time before your idea actually) Tj
+T*
+(resonates or sticks with the people you?re trying to reach. Sometimes it takes more than twice!) Tj
+T*
+(And when I say that you might need to launch again, that can mean a lot of different things. It) Tj
+T*
+(might just be little tweaks to what you originally put out in the world, It might even be less) Tj
+T*
+(than that ? I?ve worked with teams that put out literally the exact same thing again and found) Tj
+T*
+(success, because the issue they had the first time was about timing. That?s increasingly an) Tj
+T*
+(issue as people are distracted by the deeply disturbing social and political events going on in) Tj
+T*
+(the world, and so sometimes they just need you to put things in front of them again so that) Tj
+T*
+(they can reassess what you were trying to say. Many relaunches are a little more ambitious, of) Tj
+T*
+(course. Being a Prince fan, I am of course very partial to strategies that involve changing) Tj
+T*
+(your name. Re-launching under a new name can be a key strategic move...) Tj
+T*
+() Tj
+T*
+(132. What is a Perpetual Software License?) Tj
+T*
+(Source: Keygen Blog | Published: Mon, 20 Dec 2021 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/what-is-a-perpetual-software-license/) Tj
+T*
+(When faced with the choice of a subscription-based or perpetual license, should businesses) Tj
+T*
+(prefer one over the other?) Tj
+T*
+() Tj
+T*
+(133. I Quit!) Tj
+T*
+(Source: Keygen Blog | Published: Mon, 10 Jan 2022 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/i-quit/) Tj
+T*
+(Enough is enough.) Tj
+T*
+() Tj
+T*
+(134. Announcing License Key Authentication) Tj
+T*
+(Source: Keygen Blog | Published: Tue, 25 Jan 2022 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/announcing-license-key-authentication/) Tj
+T*
+(Introducing a new, even easier way, to authenticate with our software licensing API.) Tj
+T*
+() Tj
+T*
+(135. Writing a good design document) Tj
+T*
+(Source: Grant Slatton's Blog | Published: Sat, 1 Feb 2025 22:01:56 +0000) Tj
+T*
+(Link: https://grantslatton.com/how-to-design-document) Tj
+T*
+(A guide) Tj
+T*
+() Tj
+T*
+(136. Design Patterns) Tj
+T*
+(Source: Grant Slatton's Blog | Published: Sat, 4 Jan 2025 06:31:30 +0000) Tj
+T*
+(Link: https://grantslatton.com/design-patterns) Tj
+T*
+(An honest primer) Tj
+T*
+() Tj
+T*
+(137. How to write complex software) Tj
+T*
+(Source: Grant Slatton's Blog | Published: Wed, 1 Jan 2025 05:47:17 +0000) Tj
+T*
+(Link: https://grantslatton.com/how-to-software) Tj
+T*
+(A general method) Tj
+T*
+() Tj
+T*
+(138. TIL Simple Merge of two CSVs with Python) Tj
+T*
+(Source: matduggan.com | Published: Tue, 06 May 2025 10:55:50 GMT) Tj
+T*
+(Link: https://matduggan.com/til-simple-merge-of-two-csvs-with-python/) Tj
+T*
+(An easy script to merge two CSVs with Python and Pandas) Tj
+T*
+() Tj
+T*
+(139. GitHub Copilot for Vim Review) Tj
+T*
+(Source: matduggan.com | Published: Thu, 01 May 2025 09:15:19 GMT) Tj
+T*
+(Link: https://matduggan.com/github-copilot-for-vim-2/) Tj
+ET
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 50 0 R >>
+endobj
+52 0 obj
+<< /Length 4210 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(My review of GitHub Copilot for Vim) Tj
+T*
+() Tj
+T*
+(140. Slack: The Art of Being Busy Without Getting Anything Done) Tj
+T*
+(Source: matduggan.com | Published: Mon, 17 Mar 2025 13:00:07 GMT) Tj
+T*
+(Link: https://matduggan.com/slack-the-art-of-being-busy-without-getting-anything-done/) Tj
+T*
+(Why I think Slack and Slack-clones are actually a net negative for most organizations that use) Tj
+T*
+(them.) Tj
+T*
+() Tj
+T*
+(141. Beyond ?Beyond the wall?) Tj
+T*
+(Source: Simon Tatham's quasi-blog | Published: 2024-07-16T00:00:00+00:00) Tj
+T*
+(Link: https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-followup/) Tj
+T*
+(A sequel to last month's post on finite-state transducers for aperiodic tilings.) Tj
+T*
+() Tj
+T*
+(142. Beyond the wall: working with aperiodic tilings using finite-state transducers) Tj
+T*
+(Source: Simon Tatham's quasi-blog | Published: 2024-06-10T00:00:00+00:00) Tj
+T*
+(Link: https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/) Tj
+T*
+(A sequel to last year's two posts on combinatorial coordinates, this time applying) Tj
+T*
+(regular-language theory to them.) Tj
+T*
+() Tj
+T*
+(143. Writing commit messages) Tj
+T*
+(Source: Simon Tatham's quasi-blog | Published: 2024-05-19T00:00:00+00:00) Tj
+T*
+(Link: https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/) Tj
+T*
+(\(Yet another\) guide to writing commit messages in version control, with a focus on what facts) Tj
+T*
+(and rationale are good things to include.) Tj
+T*
+() Tj
+T*
+(144. The GPU, not the TPM, is the root of hardware DRM) Tj
+T*
+(Source: Matthew Garrett | Published: Thu, 02 Jan 2025 01:14:05 GMT) Tj
+T*
+(Link: https://mjg59.dreamwidth.org/70954.html) Tj
+T*
+(As part of their "Defective by Design" anti-DRM campaign, the FSF recently made the following) Tj
+T*
+(claim: Today, most of the major streaming media platforms utilize the TPM to decrypt media) Tj
+T*
+(streams, forcefully placing the decryption out of the user's control \(from here \). This is part) Tj
+T*
+(of an overall argument that Microsoft's insistence that only hardware with a TPM can run) Tj
+T*
+(Windows 11 is with the goal of aiding streaming companies in their attempt to ensure media can) Tj
+T*
+(only be played in tightly constrained environments. I'm going to be honest here and say that I) Tj
+T*
+(don't know what Microsoft's actual motivation for requiring a TPM in Windows 11 is. I've been) Tj
+T*
+(talking about TPM stuff for a long time. My job involves writing a lot of TPM code. I think) Tj
+T*
+(having a TPM enables a number of worthwhile security features. Given the choice, I'd certainly) Tj
+T*
+(pick a computer with a TPM. But in terms of whether it's of sufficient value to lock out) Tj
+T*
+(Windows 11 on hardware with no TPM that would otherwise be able to run it? I'm not sure that's) Tj
+T*
+(a worthwhile tradeoff. What I can say is that the FSF's claim is just 100% wrong, and since) Tj
+T*
+(this seems to be the sole basis of their overall claim about Microsoft's strategy...) Tj
+T*
+() Tj
+T*
+(145. When should we require that firmware be free?) Tj
+T*
+(Source: Matthew Garrett | Published: Thu, 12 Dec 2024 15:57:59 GMT) Tj
+T*
+(Link: https://mjg59.dreamwidth.org/70895.html) Tj
+T*
+(The distinction between hardware and software has historically been relatively easy to) Tj
+T*
+(understand - hardware is the physical object that software runs on. This is made more) Tj
+T*
+(complicated by the existence of programmable logic like FPGAs, but by and large things tend to) Tj
+T*
+(fall into fairly neat categories if we're drawing that distinction. Conversations usually) Tj
+T*
+(become more complicated when we introduce firmware, but should they? According to Wikipedia,) Tj
+T*
+(Firmware is software that provides low-level control of computing device hardware , and) Tj
+T*
+(basically anything that's generally described as firmware certainly fits into the "software") Tj
+T*
+(side of the above hardware/software binary. From a software freedom perspective, this seems) Tj
+T*
+(like something where the obvious answer to "Should this be free" is "yes", but it's worth) Tj
+T*
+(thinking about why the answer is yes - the goal of free software isn't freedom for freedom's) Tj
+ET
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 52 0 R >>
+endobj
+54 0 obj
+<< /Length 4426 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(sake, but because the freedoms embodied in the Free Software Definition \(and by proxy the DFSG) Tj
+T*
+(\) are grounded in real world practicalities. How do these line up for firmware? Firmware can) Tj
+T*
+(fit into two main classes - it can be something that's responsible for initialisation of the) Tj
+T*
+(hardware \(s...) Tj
+T*
+() Tj
+T*
+(146. Android privacy improvements break key attestation) Tj
+T*
+(Source: Matthew Garrett | Published: Thu, 12 Dec 2024 12:16:06 GMT) Tj
+T*
+(Link: https://mjg59.dreamwidth.org/70630.html) Tj
+T*
+(Sometimes you want to restrict access to something to a specific set of devices - for instance,) Tj
+T*
+(you might want your corporate VPN to only be reachable from devices owned by your company. You) Tj
+T*
+(can't really trust a device that self attests to its identity, for instance by reporting its) Tj
+T*
+(MAC address or serial number, for a couple of reasons: These aren't fixed - MAC addresses are) Tj
+T*
+(trivially reprogrammable, and serial numbers are typically stored in reprogrammable flash at) Tj
+T*
+(their most protected A malicious device could simply lie about them If we want a high degree of) Tj
+T*
+(confidence that the device we're talking to really is the device it claims to be, we need) Tj
+T*
+(something that's much harder to spoof. For devices with a TPM this is the TPM itself. Every TPM) Tj
+T*
+(has an Endorsement Key \(EK\) that's associated with a certificate that chains back to the TPM) Tj
+T*
+(manufacturer. By verifying that certificate path and having the TPM prove that it's in) Tj
+T*
+(posession of the private half of the EK, we know that we're communicating with a genuine) Tj
+T*
+(TPM[1]. Android has a broadly equivalent thing called ID Attestation. Android devices can) Tj
+T*
+(generate a signed attestation that they have certain characteristics and identifiers, a...) Tj
+T*
+() Tj
+T*
+(147. TU Delft lecture: Security of Science) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 01 Dec 2025 11:35:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/tu-delft-security-of-science/) Tj
+T*
+(This is a mostly verbatim transcript of my lecture at the TU Delft VvTP Physics symposium) Tj
+T*
+(?Security of Science? held on the 20th of November. Audio version \(scroll along the page to see) Tj
+T*
+(the associated slides\): Thank you so much for being here tonight. It?s a great honor. I used to) Tj
+T*
+(study here. I?m a dropout. I never finished my studies, so I feel like I graduate tonight. This) Tj
+T*
+(is a somewhat special presentation, it has footnotes and references, which you can browse later) Tj
+T*
+(if you like what you saw.) Tj
+T*
+() Tj
+T*
+(148. Hello Europe, Joe Biden is gone) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 28 Nov 2025 17:30:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/hello-europe-joe-biden-is-gone/) Tj
+T*
+(Last Friday I attended a useful conference organized by Microsoft. It lived up very well to its) Tj
+T*
+(title: ?Justice, Security and Fundamental Rights: Dialogue on EU Law Enforcement Policies? Many) Tj
+T*
+(thanks are due to various proofreaders who improved this article tremendously. From the) Tj
+T*
+(original invitation tl;dr: European thinkers and policy makers are acting and talking as if the) Tj
+T*
+(US federal government and courts are still ?normal?, or will soon be so again.) Tj
+T*
+() Tj
+T*
+(149. Het Nerdvote Effect) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 04 Nov 2025 10:30:39 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/het-nerdvote-effect/) Tj
+T*
+(tl;dr: Barbara Kathmann \(GroenLinks-PvdA, 32\) zal met voorkeursstemmen herkozen worden als) Tj
+T*
+(kamerlid. Kwam dit door de NerdVote.nl campagne? Of kwam het door het mooie initiatief Stem op) Tj
+T*
+(een Vrouw? Hier enige analyse, met als conclusie dat het lijkt dat NerdVote belangrijker was.) Tj
+T*
+(Het doel van NerdVote.nl was om ieder kandidaat-Kamerlid te steunen dat wil en kan bijdragen) Tj
+T*
+(aan: IT die niet 100% afhankelijk is van Amerikaanse Big-Tech, zodat we onze) Tj
+T*
+(paspoorten/persoonsgegevens niet door Amerikanen te hoeven laten managen Het behoud van onze) Tj
+T*
+(privacy, zodat we vrij kunnen communiceren Onze cybersecurity, zodat onze medische uitslagen) Tj
+T*
+(niet verhandeld worden NerdVote is niet ?TechVote?, we steunen niet de grootste fans van AI en) Tj
+T*
+(Internet.) Tj
+T*
+() Tj
+T*
+(150. Intel 9 285K on ASUS Z890: not stable!) Tj
+ET
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 54 0 R >>
+endobj
+56 0 obj
+<< /Length 4645 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Michael Stapelbergs Website | Published: 2025-03-19T17:35:38+01:00) Tj
+T*
+(Link:) Tj
+T*
+(https://michael.stapelberg.ch/posts/2025-03-19-intel-core-ultra-9-285k-on-asus-z890-not-stable/) Tj
+T*
+(Update \(2025-05-15\): Turns out the CPU was faulty! See My 2025 high-end Linux PC for a new) Tj
+T*
+(article on this build, now with a working CPU. Update \(2025-09-07\): The replacement CPU also) Tj
+T*
+(died and I have given up on Intel. See Bye Intel, hi AMD! for more details on the AMD 9950X3D.) Tj
+T*
+(In January I ordered the components for a new PC and expected that I would publish a successor) Tj
+T*
+(to my 2022 high-end Linux PC ? article. Instead, I am now sitting on a PC which regularly) Tj
+T*
+(encounters crashes of the worst-to-debug kind, so I am publishing this article as a warning for) Tj
+T*
+(others in case you wanted to buy the same hardware. Components Which components did I pick for) Tj
+T*
+(this build? Here?s the full list: Price Type Article 140 CHF Case Fractal Define 7 Compact) Tj
+T*
+(Black Solid 155 CHF Power Supply Corsair RM850x 233 CHF Mainboard ASUS PRIME Z890-P 620 CHF CPU) Tj
+T*
+(Intel Core Ultra 9 285k 120 CHF CPU fan Noctua NH-D15 G2 39 CHF Case fan Noctua NF-A14 PWM \(140) Tj
+T*
+(mm\) 209 CHF RAM 64 GB DDR5-6400 Corsair Vengeance \(2 x 32GB\) 280 CHF Disk 4000 GB Samsung 990) Tj
+T*
+(Pro 940 CHF GPU Inno3D GeForce RTX4070 Ti Total: ?1800 CHF, excluding the Graphics Card I) Tj
+T*
+(re-used from a previous build. ?and the next couple of sections go into detai...) Tj
+T*
+() Tj
+T*
+(151. Tips to debug hanging Go programs) Tj
+T*
+(Source: Michael Stapelbergs Website | Published: 2025-02-27T17:51:38+01:00) Tj
+T*
+(Link: https://michael.stapelberg.ch/posts/2025-02-27-debug-hanging-go-programs/) Tj
+T*
+(I was helping someone get my gokrazy/rsync implementation set up to synchronize RPKI data \(used) Tj
+T*
+(for securing BGP routing infrastructure\), when we discovered that with the right invocation, my) Tj
+T*
+(rsync receiver would just hang indefinitely. This was a quick problem to solve, but in the) Tj
+T*
+(process, I realized that I should probably write down a few Go debugging tips I have come to) Tj
+T*
+(appreciate over the years! Scenario: hanging Go program If you want to follow along, you can) Tj
+T*
+(reproduce the issue by building an older version of gokrazy/rsync, just before the bug fix) Tj
+T*
+(commit \(you?ll need Go 1.22 or newer \): git clone https://github.com/gokrazy/rsync cd rsync git) Tj
+T*
+(reset --hard 6c89d4dda3be055f19684c0ed56d623da458194e^ go install ./cmd/... Now we can try to) Tj
+T*
+(sync the repository: % gokr-rsync \\ -rtO \\ --delete \\) Tj
+T*
+(rsync://rsync.paas.rpki.ripe.net/repository/ \\ /tmp/rpki-repo [?] 2025/02/08 09:35:10 Opening) Tj
+T*
+(TCP connection to rsync.paas.rpki.ripe.net:873 2025/02/08 09:35:10 rsync module "repo", path) Tj
+T*
+("repo/" 2025/02/08 09:35:10 \(Client\) Protocol versions: remote=31, negotiated=27 2025/02/08) Tj
+T*
+(09:35:10 Client checksum: md4 2025/02/08 09:35:10 sending daemon args: [--server --sender -tr .) Tj
+T*
+(repo/] 2025/02/08 09...) Tj
+T*
+() Tj
+T*
+(152. Go Protobuf: The new Opaque API) Tj
+T*
+(Source: Michael Stapelbergs Website | Published: 2024-12-21T11:06:00+01:00) Tj
+T*
+(Link: https://michael.stapelberg.ch/posts/2024-12-21-go-protobuf-opaque/) Tj
+T*
+(I originally published this post in the Go blog , but am publishing this copy of it in my own) Tj
+T*
+(blog as well for readers who don?t follow the Go blog. [ Protocol Buffers \(Protobuf\) is) Tj
+T*
+(Google?s language-neutral data interchange format. See protobuf.dev .] Back in March 2020, we) Tj
+T*
+(released a major overhaul of the Go Protobuf API . The google.golang.org/protobuf package) Tj
+T*
+(introduced first-class support for reflection , a dynamicpb implementation and the protocmp) Tj
+T*
+(package for easier testing. That release introduced a new protobuf module with a new API.) Tj
+T*
+(Today, we are releasing an additional API for generated code, meaning the Go code in the .pb.go) Tj
+T*
+(files created by the protocol compiler \( protoc \). This blog post explains our motivation for) Tj
+T*
+(creating a new API and shows you how to use it in your projects. To be clear: We are not) Tj
+T*
+(removing anything. We will continue to support the existing API for generated code, just like) Tj
+T*
+(we still support the older protobuf module \(by wrapping the google.golang.org/protobuf) Tj
+T*
+(implementation\). Go is committed to backwards compatibility and this applies to Go Protobuf,) Tj
+T*
+(too! Background: the \(existing\) Open Struct API We now call the existing API the Open Struct) Tj
+T*
+(API,...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 56 0 R >>
+endobj
+xref
+0 58
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000302 00000 n 
+0000000372 00000 n 
+0000004824 00000 n 
+0000004950 00000 n 
+0000009061 00000 n 
+0000009187 00000 n 
+0000013410 00000 n 
+0000013536 00000 n 
+0000018552 00000 n 
+0000018680 00000 n 
+0000023594 00000 n 
+0000023722 00000 n 
+0000027918 00000 n 
+0000028046 00000 n 
+0000032716 00000 n 
+0000032844 00000 n 
+0000037523 00000 n 
+0000037651 00000 n 
+0000042120 00000 n 
+0000042248 00000 n 
+0000045632 00000 n 
+0000045760 00000 n 
+0000049778 00000 n 
+0000049906 00000 n 
+0000054354 00000 n 
+0000054482 00000 n 
+0000058594 00000 n 
+0000058722 00000 n 
+0000062929 00000 n 
+0000063057 00000 n 
+0000066801 00000 n 
+0000066929 00000 n 
+0000071632 00000 n 
+0000071760 00000 n 
+0000075487 00000 n 
+0000075615 00000 n 
+0000079344 00000 n 
+0000079472 00000 n 
+0000083751 00000 n 
+0000083879 00000 n 
+0000088371 00000 n 
+0000088499 00000 n 
+0000092323 00000 n 
+0000092451 00000 n 
+0000096642 00000 n 
+0000096770 00000 n 
+0000100581 00000 n 
+0000100709 00000 n 
+0000104126 00000 n 
+0000104254 00000 n 
+0000108517 00000 n 
+0000108645 00000 n 
+0000113124 00000 n 
+0000113252 00000 n 
+0000117950 00000 n 
+trailer
+<< /Size 58 /Root 1 0 R >>
+startxref
+118078
+%%EOF
