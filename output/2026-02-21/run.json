@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-02-21T09:37:04",
+  "entry_count": 60,
+  "error_count": 9,
+  "errors": [
+    "[network] https://lcamtuf.substack.com/feed -> HTTP Error 403: Forbidden",
+    "[network] https://garymarcus.substack.com/feed -> HTTP Error 403: Forbidden",
+    "[network] https://shkspr.mobi/blog/feed/ -> HTTP Error 415: Unsupported Media Type",
+    "[xml] https://dfarq.homeip.net/feed/ -> not well-formed (invalid token): line 1, column 0",
+    "[network] https://gwern.substack.com/feed -> HTTP Error 403: Forbidden",
+    "[network] https://worksonmymachine.substack.com/feed -> HTTP Error 403: Forbidden",
+    "[network] https://rachelbythebay.com/w/atom.xml -> <urlopen error [Errno 101] Network is unreachable>",
+    "[network] https://www.tedunangst.com/flak/rss -> <urlopen error timed out>",
+    "[network] https://mjg59.dreamwidth.org/data/rss -> The read operation timed out"
+  ]
+}
