@@ -1,0 +1,1064 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R] /Count 9 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4180 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-02-22 09:37:46) Tj
+T*
+() Tj
+T*
+(1. Clawdbot Is Now Moltbot) Tj
+T*
+(Source: Daring Fireball | Published: 2026-01-27T20:34:36Z) Tj
+T*
+(Link: https://www.molt.bot/) Tj
+T*
+(From the footer on the project?s website: Moltbot was formerly known as Clawdbot. Independent) Tj
+T*
+(project, not affiliated with Anthropic. Makes sense, to be honest, that Anthropic would object) Tj
+T*
+(to naming it a homonym for Claude. One additional followup to my post the other day . In his) Tj
+T*
+(terrific introduction to Clawd Moltbot, Federico Viticci wrote : I?ve been playing around with) Tj
+T*
+(Clawdbot so much, I?ve burned through 180 million tokens on the Anthropic API \( yikes \), and) Tj
+T*
+(I?ve had fewer and fewer conversations with the ?regular? Claude and ChatGPT apps in the) Tj
+T*
+(process. Those tokens aren?t free. I asked Viticci just how much ?yikes? cost, and he said) Tj
+T*
+(around US$560 ? using way more input than output tokens. ?) Tj
+T*
+() Tj
+T*
+(2. ? The Names They Call Themselves) Tj
+T*
+(Source: Daring Fireball | Published: 2026-01-27T18:12:56Z) Tj
+T*
+(Link: https://daringfireball.net/2026/01/the_names_they_call_themselves) Tj
+T*
+(*Fascist* and *Nazi* weren?t slurs that were applied to the Italians and Germans by their) Tj
+T*
+(political or military opponents. That?s what they called themselves. The job won?t be done,) Tj
+T*
+(this era of madness will not end, until we make *the names Trump?s regime calls themselves*) Tj
+T*
+(universally acknowledged slurs.) Tj
+T*
+() Tj
+T*
+(3. What It?s Like to Get Undressed by Grok) Tj
+T*
+(Source: Daring Fireball | Published: 2026-01-27T15:07:07Z) Tj
+T*
+(Link: https://www.rollingstone.com/culture/culture-features/grok-sexualized-image-xai-elon-musk) Tj
+T*
+(-women-1235501436/) Tj
+T*
+(Ella Chakarian, writing for Rolling Stone \( News+ \): On a recent Saturday afternoon, Kendall) Tj
+T*
+(Mayes was mindlessly scrolling on X when she noticed an unsettling trend surface on her feed.) Tj
+T*
+(Users were prompting Grok, the platform?s built-in AI feature, to ?nudify? women?s images.) Tj
+T*
+(Mayes, a 25-year-old media professional from Texas who uses X to post photos with her friends) Tj
+T*
+(and keep up with news, didn?t think it would happen to her ? until it did. ?Put her in a tight) Tj
+T*
+(clear transparent bikini,? an X user ordered the bot under a photo that Mayes posted from when) Tj
+T*
+(she was 20. Grok complied, replacing her white shirt with a clear bikini top. The waistband of) Tj
+T*
+(her jeans and black belt dissolved into thin, translucent strings. The see-through top made the) Tj
+T*
+(upper half of her body look realistically naked. Hiding behind an anonymous profile, the user?s) Tj
+T*
+(page was filled with similar images of women, digitally and nonconsensually altered and) Tj
+T*
+(sexualized. Mayes wanted to cuss the faceless user out, but decided to simply block the) Tj
+T*
+(account. She hoped that would be the end of it. Soon, however, her comments became littered) Tj
+T*
+(with more images of herself in clear bikinis and skin-tight latex bodysuits. Mayes...) Tj
+T*
+() Tj
+T*
+(4. Drones to Diplomas: How Russia?s Largest Private University is Linked to a $25M Essay) Tj
+T*
+(Mill) Tj
+T*
+(Source: Krebs on Security | Published: Sat, 06 Dec 2025 14:45:03 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-univer) Tj
+T*
+(sity-is-linked-to-a-25m-essay-mill/) Tj
+T*
+(A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25) Tj
+T*
+(million in revenue has curious connections to a Kremlin-connected oligarch whose Russian) Tj
+T*
+(university builds drones for Russia's war against Ukraine.) Tj
+T*
+() Tj
+T*
+(5. SMS Phishers Pivot to Points, Taxes, Fake Retailers) Tj
+T*
+(Source: Krebs on Security | Published: Thu, 04 Dec 2025 23:02:34 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/) Tj
+T*
+(China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward) Tj
+T*
+(package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4185 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert) Tj
+T*
+(customer payment card data into mobile wallets from Apple and Google. Experts say these same) Tj
+T*
+(phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile) Tj
+T*
+(rewards points.) Tj
+T*
+() Tj
+T*
+(6. Taalas serves Llama 3.1 8B at 17,000 tokens/second) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-20T22:10:04+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/20/taalas/#atom-everything) Tj
+T*
+(Taalas serves Llama 3.1 8B at 17,000 tokens/second This new Canadian hardware startup just) Tj
+T*
+(announced their first product - a custom hardware implementation of the Llama 3.1 8B model) Tj
+T*
+(\(from July 2024 \) that can run at a staggering 17,000 tokens/second. I was going to include a) Tj
+T*
+(video of their demo but it's so fast it would look more like a screenshot. You can try it out) Tj
+T*
+(at chatjimmy.ai . They describe their Silicon Llama as ?aggressively quantized, combining 3-bit) Tj
+T*
+(and 6-bit parameters.? Their next generation will use 4-bit - presumably they have quite a long) Tj
+T*
+(lead time for baking out new models! Via Hacker News Tags: ai , generative-ai , llama , llms ,) Tj
+T*
+(llm-performance) Tj
+T*
+() Tj
+T*
+(7. ggml.ai joins Hugging Face to ensure the long-term progress of Local AI) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-20T17:12:55+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/20/ggmlai-joins-hugging-face/#atom-everything) Tj
+T*
+(ggml.ai joins Hugging Face to ensure the long-term progress of Local AI I don't normally cover) Tj
+T*
+(acquisition news like this, but I have some thoughts. It's hard to overstate the impact Georgi) Tj
+T*
+(Gerganov has had on the local model space. Back in March 2023 his release of llama.cpp made it) Tj
+T*
+(possible to run a local LLM on consumer hardware. The original README said: The main goal is to) Tj
+T*
+(run the model using 4-bit quantization on a MacBook. [...] This was hacked in an evening - I) Tj
+T*
+(have no idea if it works correctly. I wrote about trying llama.cpp out at the time in Large) Tj
+T*
+(language models are having their Stable Diffusion moment : I used it to run the 7B LLaMA model) Tj
+T*
+(on my laptop last night, and then this morning upgraded to the 13B model?the one that Facebook) Tj
+T*
+(claim is competitive with GPT-3. Meta's original LLaMA release depended on PyTorch and their) Tj
+T*
+(FairScale PyTorch extension for running on multiple GPUs, and required CUDA and NVIDIA) Tj
+T*
+(hardware. Georgi's work opened that up to a much wider range of hardware and kicked off the) Tj
+T*
+(local model movement that has continued to grow since then. Hugging Face are already) Tj
+T*
+(responsible for the incredibly influential Transformers library used by the majority o...) Tj
+T*
+() Tj
+T*
+(8. Quoting Thariq Shihipar) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-20T07:13:19+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything) Tj
+T*
+(Long running agentic products like Claude Code are made feasible by prompt caching which allows) Tj
+T*
+(us to reuse computation from previous roundtrips and significantly decrease latency and cost.) Tj
+T*
+([...] At Claude Code, we build our entire harness around prompt caching. A high prompt cache) Tj
+T*
+(hit rate decreases costs and helps us create more generous rate limits for our subscription) Tj
+T*
+(plans, so we run alerts on our prompt cache hit rate and declare SEVs if they're too low. ?) Tj
+T*
+(Thariq Shihipar Tags: prompt-engineering , anthropic , claude-code , ai-agents , generative-ai) Tj
+T*
+(, ai , llms) Tj
+T*
+() Tj
+T*
+(9. My Startup Banking Story) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Tue, 14 Mar 2023 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/writing/my-startup-banking-story) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(10. Contributing to Complex Projects) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Sun, 13 Mar 2022 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/writing/contributing-to-complex-projects) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3989 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(11. Zig Build System Internals) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Thu, 24 Feb 2022 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/zig/build-internals) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(12. We?re building the best chat app on Earth) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Thu, 23 Feb 2023 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/were-building-the-best-chat-app-on-earth) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(13. I want an iPhone Mini-sized Android phone) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Tue, 17 May 2022 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/i-want-an-iphone-mini-sized-android-phone) Tj
+T*
+(My name is Eric Migicovsky and I love small phones. It?s weird because I am 6'6" but I never) Tj
+T*
+(enjoyed using a large phone. I?) Tj
+T*
+() Tj
+T*
+(14. Success and Failure at Pebble) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Mon, 11 Apr 2022 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/success-and-failure-at-pebble) Tj
+T*
+(I?ve been giving a talk on the importance of learning from failure to every YC batch for last) Tj
+T*
+(few years. I wrote this post in 2017?) Tj
+T*
+() Tj
+T*
+(15. 10,000,000th Fibonacci number) Tj
+T*
+(Source: John D. Cook | Published: Sun, 22 Feb 2026 01:00:31 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/02/21/f10000000/) Tj
+T*
+(I?ve written a couple times about Fibonacci numbers and certificates. Here the certificate is) Tj
+T*
+(auxiliary data that makes it faster to confirm that the original calculation was correct. This) Tj
+T*
+(post puts some timing numbers to this. I calculated the 10 millionth Fibonacci number using) Tj
+T*
+(code from this post. n = 10_000_000 F = fib_mpmath\(n\) This [?] The post 10,000,000th Fibonacci) Tj
+T*
+(number first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(16. Computing big, certified Fibonacci numbers) Tj
+T*
+(Source: John D. Cook | Published: Sat, 21 Feb 2026 18:13:13 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/02/21/big-certified-fibonacci/) Tj
+T*
+(I?ve written before about computing big Fibonacci numbers, and about creating a certificate to) Tj
+T*
+(verify a Fibonacci number has been calculated correctly. This post will revisit both, giving a) Tj
+T*
+(different approach to computing big Fibonacci numbers that produces a certificate along the) Tj
+T*
+(way. As I?ve said before, I?m not aware of any practical reason to [?] The post Computing big,) Tj
+T*
+(certified Fibonacci numbers first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(17. Nvidia was only invited to invest) Tj
+T*
+(Source: iDiallo.com | Published: Sat, 21 Feb 2026 23:35:48 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/nvidia-was-only-invited-to-invest?src=feed) Tj
+T*
+(Nvidia was only invited to invest. That is one reversal of commitment. Remember that graph that) Tj
+T*
+(has been circling around for some time now? The one that shows the circular investment from AI) Tj
+T*
+(companies: Basically Nvidia will invest $100 billion in OpenAI. OpenAI will then invest $300) Tj
+T*
+(billion in Oracle, then Oracle invests back into Nvidia. Now, Jensen Huang, the Nvidia CEO, is) Tj
+T*
+(back tracking and saying he never made that commitment . ?It was never a commitment. They) Tj
+T*
+(invited us to invest up to $100 billion and of course, we were, we were very happy and honored) Tj
+T*
+(that they invited us, but we will invest one step at a time.? So he never committed? Did we) Tj
+T*
+(make up all these graphs in our head? Was it a misquote from a journalist somewhere that) Tj
+T*
+(sparkled all this frenzy? Well, you can take a look in OpenAI press release in September of) Tj
+T*
+(2025 . They wrote: NVIDIA intends to invest up to $100 billion in OpenAI as the new NVIDIA) Tj
+T*
+(systems are deployed. In fact, Jensen Huang went on to say: ?NVIDIA and OpenAI have pushed each) Tj
+T*
+(other for a decade, from the first DGX supercomputer to the breakthrough of ChatGPT. This) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3652 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(investment and infrastructure partnership mark the next leap forward?deploying 10 gig...) Tj
+T*
+() Tj
+T*
+(18. How Does the Development Mode Work?) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Sun, 04 Aug 2019 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/how-does-the-development-mode-work/) Tj
+T*
+(Dead code elimination by convention.) Tj
+T*
+() Tj
+T*
+(19. Algebraic Effects for the Rest of Us) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Sun, 21 Jul 2019 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/algebraic-effects-for-the-rest-of-us/) Tj
+T*
+(They?re not burritos.) Tj
+T*
+() Tj
+T*
+(20. Preparing for a Tech Talk, Part 3: Content) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Wed, 10 Jul 2019 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/preparing-for-tech-talk-part-3-content/) Tj
+T*
+(Turning an idea into a talk.) Tj
+T*
+() Tj
+T*
+(21. Wrapping Code Comments) Tj
+T*
+(Source: matklad | Published: 2026-02-21T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/02/21/wrapping-code-comments.html) Tj
+T*
+(I was today years old when I realized that:) Tj
+T*
+() Tj
+T*
+(22. Track Zelda release anniversaries in your calendar) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Sat, 21 Feb 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/zelda-anniversary-calendar/) Tj
+T*
+(The original Legend of Zelda came out 40 years ago today. With other birthdays on the horizon,) Tj
+T*
+(like Twilight Princess ?s 20th in November, I wanted a calendar that showed the anniversary of) Tj
+T*
+(every Zelda game. So I made one. Subscribe to this URL in your calendar app:) Tj
+T*
+(https://evanhahn.com/tape/zelda_anniversaries.ics Once you do, you?ll get calendar events on) Tj
+T*
+(the anniversary of each game?s release. For example, you?ll be able to see that the Oracle) Tj
+T*
+(games turn 25 in less than a week?I feel old. If you want to build this file yourself, I wrote) Tj
+T*
+(a little Python script that generates an ICS file from a CSV of release dates .) Tj
+T*
+() Tj
+T*
+(23. Reading List 02/21/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 21 Feb 2026 13:37:44 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-022126) Tj
+T*
+(Welcome to the reading list, a weekly roundup of news and links related to buildings,) Tj
+T*
+(infrastructure, and industrial technology.) Tj
+T*
+() Tj
+T*
+(24. OpenBenches at FOSDEM) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 21 Feb 2026 12:34:03 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/) Tj
+T*
+(At the recent FOSDEM, I did a very quick lightning talk about our OpenBenches project. Sadly,) Tj
+T*
+(despite the best efforts of the AV team, the video had a missing section. I took my own audio) Tj
+T*
+(recording and zipkid took some photos, so I was able to recreate it using the Flowblade video) Tj
+T*
+(editor. Enjoy! Many thanks to Edward Betts for running the dev room and providing the display) Tj
+T*
+(laptop. ?) Tj
+T*
+() Tj
+T*
+(25. Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 20 Feb 2026 12:34:57 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/02/book-review-families-and-how-to-survive-them-by-john-cle) Tj
+T*
+(ese-and-robin-skynner/) Tj
+T*
+(This is a curious and mostly charming book about therapy. It is presented as a \(somewhat) Tj
+T*
+(contrived\) Socratic dialogue between Skynner the teacher and Cleese the pupil. Skynner lectures) Tj
+T*
+(on while Cleese interjects with "that's too clever to be convincing" and other witty remarks.) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3147 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(It is fun to have a somewhat sceptical interlocutor but it does get a little wearisome after a) Tj
+T*
+(while. The basic of?) Tj
+T*
+() Tj
+T*
+(26. Whale Fall) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-02-21T00:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/02/21/whale-fall.html) Tj
+T*
+(When a whale dies in the open ocean, its carcass sinks to the abyssal floor and becomes an) Tj
+T*
+(ecosystem. Marine biologists call this a whale fall , and the body sustains life in three) Tj
+T*
+(overlapping stages: mobile scavengers strip the soft tissue over months, enrichment) Tj
+T*
+(opportunists colonise the bones and surrounding sediment for years, and chemosynthetic bacteria) Tj
+T*
+(feed on the skeleton itself for decades, converting the lipids stored in bone into energy that) Tj
+T*
+(supports entire communities of specialised organisms. A single whale fall can sustain life on) Tj
+T*
+(an otherwise barren ocean floor for fifty years. Michael Winser mentioned whale fall offhand) Tj
+T*
+(while we were talking about what happens to the dependency graphs of abandoned projects, and it) Tj
+T*
+(won?t leave my head. A large open source project goes unmaintained. Maybe the maintainer burns) Tj
+T*
+(out, maybe the company behind it pivots. The project stops getting updates but doesn?t) Tj
+T*
+(disappear. It sits on GitHub accumulating issues, its last commit receding further into the) Tj
+T*
+(past, and somebody forks it to start merging the most urgent patches. If the project was) Tj
+T*
+(popular enough, multiple forks appear, competing for users the way hagfish compete for blubber,) Tj
+T*
+(t...) Tj
+T*
+() Tj
+T*
+(27. Haters) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/fh.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(28. The Two Kinds of Moderate) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/mod.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(29. Fashionable Problems) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/fp.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(30. async\(\) => { await }) Tj
+T*
+(Source: the website of jyn | Published: 2022-02-09T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/talks/async-await/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(31. I'll Rust With You: the song) Tj
+T*
+(Source: the website of jyn | Published: 2021-09-10T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/i-ll-rust-with-you-the-song/) Tj
+T*
+(I'll Rust With You: the song Niko Matsakis, co-lead for the Rust language team, recently) Tj
+T*
+(published a song titled "Edition: the song" . I decided I was not to be outdone and sang a) Tj
+T*
+(cover of "I'll Rust With You", by Steam Powered Giraffe . The song has absolutely no relation) Tj
+T*
+(to the Rust language other than the title, I just think it's fun. Video) Tj
+T*
+() Tj
+T*
+(32. borrow-checker FAQs) Tj
+T*
+(Source: the website of jyn | Published: 2021-03-20T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/borrow-checker-faqs/) Tj
+T*
+(tips and tricks for dealing with the borrow-checker) Tj
+T*
+() Tj
+T*
+(33. my-obvious-syncing-strategy) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3419 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Chad Nauseam Home | Published: -) Tj
+T*
+(Link: https://chadnauseam.com/coding/tips/my-obvious-syncing-strategy) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(34. keep-rust-simple) Tj
+T*
+(Source: Chad Nauseam Home | Published: -) Tj
+T*
+(Link: https://chadnauseam.com/coding/pltd/keep-rust-simple) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(35. react-is-good-javascript-is-the-problem) Tj
+T*
+(Source: Chad Nauseam Home | Published: -) Tj
+T*
+(Link: https://chadnauseam.com/coding/pltd/react-is-good-javascript-is-the-problem) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(36. Pointers in C Part I: Basics) Tj
+T*
+(Source: Beej's Bit Bucket | Published: Mon, 18 Jan 2010 00:00:00 +0000) Tj
+T*
+(Link: http://beej.us/blog/data/c-pointers/) Tj
+T*
+(It's really not that bad.) Tj
+T*
+() Tj
+T*
+(37. Recursion) Tj
+T*
+(Source: Beej's Bit Bucket | Published: Wed, 13 Jan 2010 00:00:00 +0000) Tj
+T*
+(Link: http://beej.us/blog/data/recursion/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(38. The Observer Pattern) Tj
+T*
+(Source: Beej's Bit Bucket | Published: Thu, 07 Jan 2010 00:00:00 +0000) Tj
+T*
+(Link: http://beej.us/blog/data/observer-pattern/) Tj
+T*
+(Things happen. Your code observes them. What could be more exciting?) Tj
+T*
+() Tj
+T*
+(39. An update about Redis developments in 2019) Tj
+T*
+(Source: antirez.com | Published: Wed, 20 Feb 2019 13:14:11 +0100) Tj
+T*
+(Link: http://antirez.com/news/126) Tj
+T*
+(Yesterday a concerned Redis user wrote the following on Hacker News: ?) Tj
+T*
+(https://news.ycombinator.com/item?id=19204436 ? I love Redis, but I'm a bit skeptical of some) Tj
+T*
+(of the changes that are currently in development. The respv3 protocol has some features that,) Tj
+T*
+(while they sound neat, also could significantly complicate client library code. There's also a) Tj
+T*
+(lot of work going into a granular acl. I can't imagine why this would be necessary, or a higher) Tj
+T*
+(priority than other changes like multi-thread support, better persistence model, data-types,) Tj
+T*
+(etc. ? end of user comment ? I?ve the feeling she/he \(not sure\) is not the only one that looks) Tj
+T*
+(at ACLs as some sort of feature imposed by the Redis Labs goals, because ?enterprise users? or) Tj
+T*
+(something like that. Also the other points in the comment are interesting, and I believe) Tj
+T*
+(everything is very well worth addressing in order to communicate clearly with the Redis) Tj
+T*
+(community what?s the road ahead. For simplicity I?ll split this blog post into sections) Tj
+T*
+(addressing every single feature mentioned in the original comment. ## RESP3 The goal of RESP3,) Tj
+T*
+(as I already blogged in these pages, is to actually simplify the clients landscape. Hopefully) Tj
+T*
+(every client...) Tj
+T*
+() Tj
+T*
+(40. Why RESP3 will be the only protocol supported by Redis 6) Tj
+T*
+(Source: antirez.com | Published: Fri, 09 Nov 2018 16:31:10 +0100) Tj
+T*
+(Link: http://antirez.com/news/125) Tj
+T*
+([EDIT! I'm reconsidering all this because Marc Gravell from Stack Overflow suggested that we) Tj
+T*
+(could just switch protocol for backward compatibility per-connection, sending a command to) Tj
+T*
+(enable RESP3. That means no longer need for a global configuration that switches the behavior) Tj
+T*
+(of the server. Put in that way it is a lot more acceptable for me, and I'm reconsidering the) Tj
+T*
+(essence of the blog post] A few weeks after the release of Redis 5, I?m here starting to) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 3951 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(implement RESP3, and after a few days of work it feels very well to see this finally happening.) Tj
+T*
+(RESP3 is the new client-server protocol that Redis will use starting from Redis 6. The) Tj
+T*
+(specification at https://github.com/antirez/resp3 should explain in clear terms how this) Tj
+T*
+(evolution of our old protocol, RESP2, should improve the Redis ecosystem. But let?s say that) Tj
+T*
+(the most important thing is that RESP3 is more ?semantic? than RESP2. For instance it has the) Tj
+T*
+(concept of maps, sets \(unordered lists of elements\), attributes of the returned data, that may) Tj
+T*
+(augment the reply with auxiliary information, and so forth. The final goal is to make new Redis) Tj
+T*
+(clients have less work to do for us, that is, just deciding a set of fixed rules in order...) Tj
+T*
+() Tj
+T*
+(41. Writing system software: code comments.) Tj
+T*
+(Source: antirez.com | Published: Sat, 06 Oct 2018 22:08:58 +0200) Tj
+T*
+(Link: http://antirez.com/news/124) Tj
+T*
+(For quite some time I?ve wanted to record a new video talking about code comments for my) Tj
+T*
+("writing system software" series on YouTube. However, after giving it some thought, I realized) Tj
+T*
+(that the topic was better suited for a blog post, so here we are. In this post I analyze Redis) Tj
+T*
+(comments, trying to categorize them. Along the way I try to show why, in my opinion, writing) Tj
+T*
+(comments is of paramount importance in order to produce good code, that is maintainable in the) Tj
+T*
+(long run and understandable by others and by the authors during modifications and debugging) Tj
+T*
+(activities. Not everybody thinks likewise. Many believe that comments are useless if the code) Tj
+T*
+(is solid enough. The idea is that when everything is well designed, the code itself documents) Tj
+T*
+(what the code is doing, hence code comments are superfluous. I disagree with that vision for) Tj
+T*
+(two main reasons: 1. Many comments don't explain what the code is doing. They explain what you) Tj
+T*
+(can't understand just from what the code does. Often this missing information is *why* the code) Tj
+T*
+(is doing a certain action, or why it?s doing something that is clear instead of something else) Tj
+T*
+(that would feel more natural. 2. While it is not generally useful to docu...) Tj
+T*
+() Tj
+T*
+(42. All you may need is HTML) Tj
+T*
+(Source: Fabien Sanglard | Published: 02 Mar 2023 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/html/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(43. Mjolnir) Tj
+T*
+(Source: Fabien Sanglard | Published: 23 Jan 2023 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/mjolnir/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(44. A Linux evening...) Tj
+T*
+(Source: Fabien Sanglard | Published: 16 Dec 2022 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/a_linux_evening/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(45. Don't use Wise) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Wed, 14 May 2025 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/wise/) Tj
+T*
+(Wise has stolen more than $60,000 AUD from us, and refuses to let us access it. We?ve had a) Tj
+T*
+(Wise account for around 5 years \(since they were called TransferWise\). It?s been a really) Tj
+T*
+(useful way to transact in foreign currencies, and pay for things when we?re travelling for) Tj
+T*
+(work. In early-April 2025, Wise asked us to provide some additional information on our Ultimate) Tj
+T*
+(Beneficial Owners \(UBOs\) by uploading a statement of shareholders, and the ID of the owners.) Tj
+T*
+(Perfectly reasonable stuff for an entity that pretends to be a bank to ask for.) Tj
+T*
+() Tj
+T*
+(46. Mass Effect 2 for Yarn Spinner) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Tue, 01 Apr 2025 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/mesaves/) Tj
+T*
+(You?ve been begging for it, and here it is! Announcing an exciting new product from Yarn) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 3351 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Spinner? ? Mass Effect 2 Save Importer for Yarn Spinner ? Access everything about everything) Tj
+T*
+(that players have done in the most important game of all time, straight from Yarn.) Tj
+T*
+() Tj
+T*
+(47. The Final Session) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Mon, 31 Mar 2025 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/fiction/finalsession/) Tj
+T*
+(Eleanor arranged her storybooks on the small wooden table, her arthritic fingers tracing the) Tj
+T*
+(worn covers she?d carried to the local library every Wednesday for twenty-three years. The) Tj
+T*
+(familiar room felt much colder today. ?We?re starting with ?The Cloud Sailor? since it?s Amy?s) Tj
+T*
+(birthday,? she announced to the gathered children. Some weren?t listening, which was normal,) Tj
+T*
+(but many were also staring at the gleaming white booth being installed in her corner.) Tj
+T*
+() Tj
+T*
+(48. Road Width Extremism) Tj
+T*
+(Source: Grant Slatton's Blog | Published: Tue, 9 Jul 2024 05:41:20 +0000) Tj
+T*
+(Link: https://grantslatton.com/road-widths) Tj
+T*
+(In favor of narrow roads) Tj
+T*
+() Tj
+T*
+(49. Twitter) Tj
+T*
+(Source: Grant Slatton's Blog | Published: Mon, 1 Jul 2024 23:26:49 +0000) Tj
+T*
+(Link: https://grantslatton.com/twitter) Tj
+T*
+(Essay about how getting on Twitter unexpectedly added a lot of value to my life) Tj
+T*
+() Tj
+T*
+(50. Shuttle) Tj
+T*
+(Source: Grant Slatton's Blog | Published: Mon, 1 Jul 2024 23:06:44 +0000) Tj
+T*
+(Link: https://grantslatton.com/shuttle) Tj
+T*
+(A useful concurrency checker library we used to verify our filesystem at AWS) Tj
+T*
+() Tj
+T*
+(51. Source-available is meaningless) Tj
+T*
+(Source: Keygen Blog | Published: Wed, 02 Oct 2024 05:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/source-available-is-meaningless/) Tj
+T*
+(On the multifaceted dishonesty in commercial open source.) Tj
+T*
+() Tj
+T*
+(52. Longevity, or abandonware?) Tj
+T*
+(Source: Keygen Blog | Published: Wed, 30 Oct 2024 05:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/longevity-or-abandonware/) Tj
+T*
+(As a customer of an open core product, is the promise of longevity for you, or somebody else?) Tj
+T*
+() Tj
+T*
+(53. Don't die) Tj
+T*
+(Source: Keygen Blog | Published: Sun, 12 Jan 2025 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/dont-die/) Tj
+T*
+(On the most important rule in SaaS: don't die.) Tj
+T*
+() Tj
+T*
+(54. Konversacia kontrolo 2025 \(mallonge\)) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 21 Aug 2025 23:00:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/konversacia-kontrolo-2025-mallonge/) Tj
+T*
+(Mallonge dirite: Gvidante per la registraro de Danio, multaj EU membraj landoj volas ke) Tj
+T*
+(WhatsApp, Signal \(ktp.\) devas traser?i ?iujn sendatajn fotojn kaj ligilojn per AI. Se la AI) Tj
+T*
+(havas suspekteton ke la enhavo eble temas pri infanmistraktado, via bildo, via aktualsituo, via) Tj
+T*
+(telefonnumero, kaj pliaj detaloj estas raportata a?tomate al E?ropol kaj loka policejo. ?e) Tj
+T*
+(Grekio. La artikolo estas anka? legebla alialingve en la bulgara, la dana, la franca, la) Tj
+T*
+(germana, la itala, la kataluna, la nederlanda, kaj la rumana.) Tj
+T*
+() Tj
+T*
+(55. ???????? ?? Chatcontrol 2025) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 20 Aug 2025 22:22:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/chatcontrol-in-brief-bulgarian/) Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 1508 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(????????, ????? ???????-?????? ?? ??????????? ????, ?????? ?? ?????, ????????? ??????????? ??) Tj
+T*
+(???????????? ??????????? ?? ?????? ? ??????? ????????? ? ??? ?????????? ???? WhatsApp, Signal ?) Tj
+T*
+(?????. ???? ???????? ?? ?????? ?? ???? ?????????????? ???? ???????????? ?? ????????? ????????) Tj
+T*
+(\(??\). ??? ?? ??? ??????????, ?? ??????????? ???????? ??? ???????????? ?????????? ? ????, ??????) Tj
+T*
+(??????, ???????????????, ????????? ????? ? ????? ?????????? ?? ????? ?????????? ??????????? ??) Tj
+T*
+(??????? ? ???????? ?????????? ?????????????.) Tj
+T*
+() Tj
+T*
+(56. Chatcontrol: Of de Amerikanen onze WhatsApp foto's willen melden bij Europol) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 19 Aug 2025 10:30:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/chatcontrol-weer-terug/) Tj
+T*
+(In het kort: onder leiding van Denemarken pleiten veel EU-lidstaten er \(weer\) voor om) Tj
+T*
+(WhatsApp/Signal/etc te dwingen al onze foto?s en links te inspecteren met behulp van AI. Als de) Tj
+T*
+(AI ook maar enige ?twijfel? heeft of iets kinderpornografie zou kunnen zijn, worden je foto,) Tj
+T*
+(locatie, telefoonnummer en andere gegevens doorgestuurd naar een nieuw ?EU Centrum?, en daarna) Tj
+T*
+(naar Europol en de lokale politie. Wat er daarna gebeurt staat niet precies in het voorstel,) Tj
+T*
+(maar je vakantie op Cyprus zou zomaar kunnen eindigen met een gesprek op het lokale) Tj
+T*
+(politiebureau om je foto?s uit te leggen.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 20 0 R >>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000175 00000 n 
+0000000245 00000 n 
+0000004477 00000 n 
+0000004603 00000 n 
+0000008840 00000 n 
+0000008966 00000 n 
+0000013007 00000 n 
+0000013133 00000 n 
+0000016838 00000 n 
+0000016966 00000 n 
+0000020166 00000 n 
+0000020294 00000 n 
+0000023766 00000 n 
+0000023894 00000 n 
+0000027898 00000 n 
+0000028026 00000 n 
+0000031430 00000 n 
+0000031558 00000 n 
+0000033119 00000 n 
+trailer
+<< /Size 22 /Root 1 0 R >>
+startxref
+33247
+%%EOF
