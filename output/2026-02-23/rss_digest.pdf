@@ -1,0 +1,996 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R] /Count 8 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4715 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-02-23 09:38:42) Tj
+T*
+() Tj
+T*
+(1. The Claude C Compiler: What It Reveals About the Future of Software) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-22T23:58:43+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/22/ccc/#atom-everything) Tj
+T*
+(The Claude C Compiler: What It Reveals About the Future of Software On February 5th Anthropic's) Tj
+T*
+(Nicholas Carlini wrote about a project to use parallel Claudes to build a C compiler on top of) Tj
+T*
+(the brand new Opus 4.6 Chris Lattner \(Swift, LLVM, Clang, Mojo\) knows more about C compilers) Tj
+T*
+(than most. He just published this review of the code. Some points that stood out to me: Good) Tj
+T*
+(software depends on judgment, communication, and clear abstraction. AI has amplified this. AI) Tj
+T*
+(coding is automation of implementation, so design and stewardship become more important. Manual) Tj
+T*
+(rewrites and translation work are becoming AI-native tasks, automating a large category of) Tj
+T*
+(engineering effort. Chris is generally impressed with CCC \(the Claude C Compiler\): Taken) Tj
+T*
+(together, CCC looks less like an experimental research compiler and more like a competent) Tj
+T*
+(textbook implementation, the sort of system a strong undergraduate team might build early in a) Tj
+T*
+(project before years of refinement. That alone is remarkable. It's a long way from being a) Tj
+T*
+(production-ready compiler though: Several design choices suggest optimization toward passing) Tj
+T*
+(tests rather than building general abstractions like a human would. [...] These fla...) Tj
+T*
+() Tj
+T*
+(2. London Stock Exchange: Raspberry Pi Holdings plc) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-22T23:54:39+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/22/raspberry-pi-openclaw/#atom-everything) Tj
+T*
+(London Stock Exchange: Raspberry Pi Holdings plc Striking graph illustrating stock in the UK) Tj
+T*
+(Raspberry Pi holding company spiking on Tuesday: The Telegraph credited excitement around) Tj
+T*
+(OpenClaw : Raspberry Pi's stock price has surged 30pc in two days, amid chatter on social media) Tj
+T*
+(that the company's tiny computers can be used to power a popular AI chatbot. Users have turned) Tj
+T*
+(to Raspberry Pi's small computers to run a technology known as OpenClaw, a viral AI personal) Tj
+T*
+(assistant . A flood of posts about the practice have been viewed millions of times since the) Tj
+T*
+(weekend. Reuters also credit a stock purchase by CEO Eben Upton : Shares in Raspberry Pi rose) Tj
+T*
+(as much as 42% on Tuesday in ?a record two?day rally after CEO Eben Upton bought ?stock in the) Tj
+T*
+(beaten?down UK computer hardware firm, halting a months?long slide, ?as chatter grew that its) Tj
+T*
+(products could benefit from low?cost artificial?intelligence projects. Two London traders said) Tj
+T*
+(the driver behind the surge was not clear, though the move followed a filing showing Upton) Tj
+T*
+(bought ?about 13,224 pounds ?worth of shares at around 282 pence each on Monday. Tags: ai ,) Tj
+T*
+(generative-ai , raspberry-pi , llms , ai-agents , openclaw) Tj
+T*
+() Tj
+T*
+(3. How I think about Codex) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-22T15:53:43+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything) Tj
+T*
+(How I think about Codex Gabriel Chua \(Developer Experience Engineer for APAC at OpenAI\)) Tj
+T*
+(provides his take on the confusing terminology behind the term "Codex", which can refer to a) Tj
+T*
+(bunch of of different things within the OpenAI ecosystem: In plain terms, Codex is OpenAI?s) Tj
+T*
+(software engineering agent, available through multiple interfaces, and an agent is a model plus) Tj
+T*
+(instructions and tools, wrapped in a runtime that can execute tasks on your behalf. [...] At a) Tj
+T*
+(high level, I see Codex as three parts working together: Codex = Model + Harness + Surfaces) Tj
+T*
+([...] Model + Harness = the Agent Surfaces = how you interact with the Agent He defines the) Tj
+T*
+(harness as "the collection of instructions and tools", which is notably open source and lives) Tj
+T*
+(in the openai/codex repository. Gabriel also provides the first acknowledgment I've seen from) Tj
+T*
+(an OpenAI insider that the Codex model family are directly trained for the Codex harness: Codex) Tj
+T*
+(models are trained in the presence of the harness. Tool use, execution loops, compaction, and) Tj
+T*
+(iterative verification aren?t bolted on behaviors ? they?re part of how the model learns to) Tj
+T*
+(operate. The harness, in turn, is shaped around how the model plans, invokes tool...) Tj
+T*
+() Tj
+T*
+(4. Sentry) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4142 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-02-22T20:58:55Z) Tj
+T*
+(Link: https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&utm_medium=p) Tj
+T*
+(aid-display&utm_campaign=general-fy27q1-evergreen&utm_content=static-ad-mobilerss-trysentry) Tj
+T*
+(My thanks to Sentry for sponsoring last week at DF. Sentry is running a hands-on workshop: ?) Tj
+T*
+(Crash Reporting, Tracing, and Logs for iOS in Sentry ?. You can watch it on demand. You?ll) Tj
+T*
+(learn how to connect the dots between slowdowns, crashes, and the user experience in your iOS) Tj
+T*
+(app. It?ll show you how to: Set up Sentry to surface high-priority mobile issues without alert) Tj
+T*
+(fatigue. Use Logs and Breadcrumbs to reconstruct what happened with a crash. Find what?s behind) Tj
+T*
+(a performance bottleneck using Tracing. Monitor and reduce the size of your iOS app using Size) Tj
+T*
+(Analysis. ?) Tj
+T*
+() Tj
+T*
+(5. The Talk Show: ?A Mitigated Disaster?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-01-27T01:32:03Z) Tj
+T*
+(Link: https://daringfireball.net/thetalkshow/2026/01/26/ep-439) Tj
+T*
+(Daniel Jalkut returns to the show so we can both vent about MacOS 26 Tahoe. Sponsored by:) Tj
+T*
+(Notion : The AI workspace where teams and AI agents get more done together. Squarespace : Save) Tj
+T*
+(10% off your first purchase of a website or domain using code talkshow . Sentry : A real-time) Tj
+T*
+(error monitoring and tracing platform. Use code TALKSHOW for $80 in free credits. Factor :) Tj
+T*
+(Healthy eating, made easy. Get 50% off your first box, plus free breakfast for 1 year, with) Tj
+T*
+(code talkshow50off . ?) Tj
+T*
+() Tj
+T*
+(6. There?s a Hidden Preference to Auto-Resize Columns in the Finder on MacOS 14 and 15) Tj
+T*
+(Source: Daring Fireball | Published: 2026-01-26T23:18:37Z) Tj
+T*
+(Link: https://forums.realmacsoftware.com/t/auto-resizing-columns-in-finder/52435) Tj
+T*
+(Good tip from ?DifferentDan? on the Realmac customer forum, posted back in November: I saw on) Tj
+T*
+(macOS Tahoe 26.1, Apple finally added an option in the Column View settings to automatically) Tj
+T*
+(right size all columns individually and that setting would persist, but I don?t really like) Tj
+T*
+(Liquid Glass \(yet\) so I haven?t updated to Tahoe. Looks like someone found a workaround however) Tj
+T*
+(for those that are still on Sequoia. Just open up Terminal on your Mac, copy in the below, and) Tj
+T*
+(press return. The one-line command: defaults write com.apple.finder _FXEnableColumnAutoSizing) Tj
+T*
+(-bool YES; killall Finder \(Change YES to NO if you want to go back.\) Marcel Bresink?s) Tj
+T*
+(TinkerTool is a great free app for adjusting hidden preferences using a proper GUI, and it) Tj
+T*
+(turns out TinkerTool has exposed this hidden Finder preference for a few years now. You learn) Tj
+T*
+(something every day. I enabled this a few days ago on MacOS 15 Sequoia, and it seems exactly) Tj
+T*
+(like the implementation Apple has exposed in the Finder?s View Options window in Tahoe, which I) Tj
+T*
+(wrote about Friday . No better, no worse. ?) Tj
+T*
+() Tj
+T*
+(7. Show HN: Beeper ? All Your Chats in One App) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Wed, 20 Jan 2021 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/show-hn-beeper-all-your-chats-in-one-app) Tj
+T*
+(While working on Pebble, we ran into a lot of issues as we tried to enable messaging from the) Tj
+T*
+(watch. For example, we never figured out how?) Tj
+T*
+() Tj
+T*
+(8. The Universal Communication Bus) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Thu, 09 Jul 2020 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/the-universal-communication-bus) Tj
+T*
+(From the desk of Eric Migicovsky Edit: Interested in what you read below? Check out Beeper, an) Tj
+T*
+(app that we built to solve this problem. Chat?) Tj
+T*
+() Tj
+T*
+(9. Announcing Startup School Winter 2020) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Tue, 10 Dec 2019 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/announcing-startup-school-winter-2020) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(10. Zig Sema: ZIR => AIR) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3307 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Mitchell Hashimoto | Published: Sun, 13 Feb 2022 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/zig/sema) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(11. Zig AstGen: AST => ZIR) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Sat, 12 Feb 2022 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/zig/astgen) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(12. Zig Parser) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Fri, 11 Feb 2022 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/zig/parser) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(13. Name It, and They Will Come) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Mon, 25 Mar 2019 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/name-it-and-they-will-come/) Tj
+T*
+(A change starts with a story.) Tj
+T*
+() Tj
+T*
+(14. Writing Resilient Components) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Sat, 16 Mar 2019 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/writing-resilient-components/) Tj
+T*
+(Four principles to set you on the right path.) Tj
+T*
+() Tj
+T*
+(15. A Complete Guide to useEffect) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Sat, 09 Mar 2019 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/a-complete-guide-to-useeffect/) Tj
+T*
+(Effects are a part of your data flow.) Tj
+T*
+() Tj
+T*
+(16. How close are we to a vision for 2010?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 22 Feb 2026 12:34:58 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/) Tj
+T*
+(Twenty five years ago today, the EU's IST advisory group published a paper about the future of) Tj
+T*
+("Ambient Intelligence". Way before the world got distracted with cryptoscams and AI slop, we) Tj
+T*
+(genuinely thought that computers would be so pervasive and well-integrated that the dream of) Tj
+T*
+("Ubiquitous Computing" would become a reality. The ISTAG published an optimistic paper called) Tj
+T*
+("Scenarios for ambient?) Tj
+T*
+() Tj
+T*
+(17. Bitcoin mining difficulty) Tj
+T*
+(Source: John D. Cook | Published: Sun, 22 Feb 2026 19:17:58 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/02/22/bitcoin-mining-difficulty/) Tj
+T*
+(The previous post looked at the Bitcoin network hash rate, currently around one zettahash per) Tj
+T*
+(second, i.e. 1021 hashes per second. The difficulty of mining a Bitcoin block adjusts over time) Tj
+T*
+(to keep the rate of block production relatively constant, around one block every 10 minutes.) Tj
+T*
+(The plot below shows this in action. Notice the [?] The post Bitcoin mining difficulty first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(18. Exahash, Zettahash, Yottahash) Tj
+T*
+(Source: John D. Cook | Published: Sun, 22 Feb 2026 18:30:40 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/02/22/zettahash/) Tj
+T*
+(When I first heard of cryptographic hash functions, they were called ?one-way functions? and) Tj
+T*
+(seemed like a mild curiosity. I had no idea that one day the world would compute a) Tj
+T*
+(mind-boggling number of hashes every second. Because Bitcoin mining requires computing hash) Tj
+T*
+(functions to solve proof-of-work problems, the world currently computes around) Tj
+T*
+(1,000,000,000,000,000,000,000 hashes, [?] The post Exahash, Zettahash, Yottahash first appeared) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4643 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(on John D. Cook .) Tj
+T*
+() Tj
+T*
+(19. The Orality Theory of Everything) Tj
+T*
+(Source: Derek Thompson | The Atlantic | Published: 2026-02-22T07:00:00-05:00) Tj
+T*
+(Link:) Tj
+T*
+(https://www.theatlantic.com/ideas/2026/02/social-media-literacy-crisis/686076/?utm_source=feed) Tj
+T*
+(The world is full of theories of everything. The smartphone theory of everything argues that) Tj
+T*
+(our personal devices are responsible for the rise of political polarization, anxiety,) Tj
+T*
+(depression, and conspiracy theories?not to mention the decline of attention spans,) Tj
+T*
+(intelligence, happiness, and general comity. The housing theory of everything pins inequality,) Tj
+T*
+(climate change, obesity, and declining fertility on the West?s inability to build enough homes.) Tj
+T*
+(If you treat theories of everything as literal theories of everything , you will be) Tj
+T*
+(disappointed to find that they all have holes. I prefer to think of them as exercises in) Tj
+T*
+(thinking through the ways that single phenomena can have large and unpredictable second-order) Tj
+T*
+(effects. My new favorite theory of everything is the orality theory of everything. This theory) Tj
+T*
+(emerges from the work of mid-20th-century media theorists, especially Walter Ong and Marshall) Tj
+T*
+(McLuhan. They argued that the invention of the alphabet and the rise of literacy were among the) Tj
+T*
+(most important events in human history. These developments shifted communications from an age) Tj
+T*
+(of orality?in which all information was spoken and all learning was social?to an age of) Tj
+T*
+(literacy, in...) Tj
+T*
+() Tj
+T*
+(20. Forge-Specific Repository Folders) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-02-22T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/02/22/forge-specific-repository-folders.html) Tj
+T*
+(Git doesn?t know about CI, code review, or issue templates, but every forge that hosts git) Tj
+T*
+(repositories has added these features through the same trick: a dot-folder in your repo root) Tj
+T*
+(that the forge reads on push. The folder names differ, the contents overlap in some places and) Tj
+T*
+(diverge in others, and the portability story between them is worse than you?d expect. A) Tj
+T*
+(companion to my earlier post on git?s magic files . .github/ GitHub?s folder holds: workflows/) Tj
+T*
+(? GitHub Actions CI/CD configuration \( .github/workflows/*.yml \) ISSUE_TEMPLATE/ and) Tj
+T*
+(PULL_REQUEST_TEMPLATE/ ? issue and PR templates dependabot.yml ? automated dependency updates) Tj
+T*
+(CODEOWNERS ? required reviewers for paths FUNDING.yml ? sponsor button configuration GitHub) Tj
+T*
+(also reads some files from the repo root or from .github/ : SECURITY.md , CONTRIBUTING.md ,) Tj
+T*
+(CODE_OF_CONDUCT.md . LICENSE must be in the repo root for GitHub?s license detection to pick it) Tj
+T*
+(up. The .github/workflows/ directory contains YAML files defining Actions workflows. Each file) Tj
+T*
+(is a separate workflow that runs on events like push, pull request, or schedule. CODEOWNERS) Tj
+T*
+(uses gitignore-style glob patterns to map paths to GitHub users or teams who must review ch...) Tj
+T*
+() Tj
+T*
+(21. LOLWUT: a piece of art inside a database command) Tj
+T*
+(Source: antirez.com | Published: Wed, 12 Sep 2018 17:20:28 +0200) Tj
+T*
+(Link: http://antirez.com/news/123) Tj
+T*
+(The last few days have been quite intense. One of the arguments, about the dispute related to) Tj
+T*
+(replacing or not the words used in Redis replication with different ones, was the following: is) Tj
+T*
+(it worthwhile to do work that does not produce any technological result? As I was changing the) Tj
+T*
+(Redis source code to get rid of a specific word where possible, I started to think that) Tj
+T*
+(whatever my idea was about the work I was doing, I?m the kind of person that enjoys writing) Tj
+T*
+(code that has no measurable technological effects. Replacing words is just annoying, even if,) Tj
+T*
+(even there, there were a few worthwhile technological challenges. But there is some other kind) Tj
+T*
+(of code that I believe has a quality called ?hack value?. It may not solve any technological) Tj
+T*
+(problem, yet it?s worth to write. Sometimes because the process of writing the code is, itself,) Tj
+T*
+(rewarding. Other times because very technically advanced ideas are used to solve a not useful) Tj
+T*
+(problem. Sometimes code is just written for artistic reasons. In some way the Twitter) Tj
+T*
+(discussion of the last days, mostly uninformed, chaotic, heated, made me think that, at this) Tj
+T*
+(point, we are very far from the first hackers in the 60s. As I get older I find tha...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3829 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(22. On Redis master-slave terminology) Tj
+T*
+(Source: antirez.com | Published: Thu, 06 Sep 2018 23:04:56 +0200) Tj
+T*
+(Link: http://antirez.com/news/122) Tj
+T*
+(Today it happened again. A developer, that we?ll call Mark to avoid exposing his real name,) Tj
+T*
+(read the Redis 5.0 RC5 change log, and was disappointed to see that Redis still uses the) Tj
+T*
+(?master? and ?slave? terminology in order to identify different roles in Redis replication. I) Tj
+T*
+(said that I was sorry he was disappointed about that, but at the same time, I don?t believe) Tj
+T*
+(that terminology out of context is offensive, so if I use master-slave in the context of) Tj
+T*
+(databases, and I?m not referring in any way to slavery. I originally copied the terms from) Tj
+T*
+(MySQL, and now they are the way we call things in Redis, and since I do not believe in this) Tj
+T*
+(battle \(I?ll tell you later why\), to change the documentation, deprecate the API and add a new) Tj
+T*
+(one, change the INFO fields, just to make a subset of people that care about those things more) Tj
+T*
+(happy, do not make sense to me. After it was clear that I was not interested in his argument,) Tj
+T*
+(Mark accused me of being fascist. Now I?m Italian, and incidentally my grand grand father was) Tj
+T*
+(put in jail for years by fascists because he was communist and was against the regime. He was) Tj
+T*
+(released to die in a couple of months at home. The father of my mother instead went in t...) Tj
+T*
+() Tj
+T*
+(23. Redis is not "open core") Tj
+T*
+(Source: antirez.com | Published: Sat, 25 Aug 2018 00:38:52 +0200) Tj
+T*
+(Link: http://antirez.com/news/121) Tj
+T*
+(Human beings have a strong tendency to put new facts into pre-existing categories. This is) Tj
+T*
+(useful to mentally and culturally classify similar events under the same logical umbrella, so) Tj
+T*
+(when two days ago I clarified that the Redis core was still released under the vanilla BSD) Tj
+T*
+(license, and only certain Redis modules developed by Redis Labs were going to change license,) Tj
+T*
+(from AGPL to a different non open source license, people said ?Ah! Ok you are going open core?.) Tj
+T*
+(The simplification this time does not work if it is in your interest to capture the truth of) Tj
+T*
+(what is happening here. An open core technology requires two things. One is that the system is) Tj
+T*
+(modular, and the other is that parts of such system are made proprietary in order to create a) Tj
+T*
+(product around an otherwise free software. For example providing a single node of a database) Tj
+T*
+(into the open source, and then having the clustering logic and mechanism implemented in a) Tj
+T*
+(different non-free layer, is an open core technology. Similarly is open core if I write a) Tj
+T*
+(relational database with a modular storage system, but the only storage that is able to provide) Tj
+T*
+(strong guarantees is non free. In an open core business model around an open sourc...) Tj
+T*
+() Tj
+T*
+(24. Having Kids) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/kids.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(25. The Lesson to Unlearn) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/lesson.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(26. Novelty and Heresy) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/nov.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(27. &'borrow mut dyn FnMut\(BrokenLink \) -> CowStr and other valid rust programs) Tj
+T*
+(Source: the website of jyn | Published: 2020-12-08T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/borrow-mut-dyn-fnmut-brokenlink-cowstring-and-other-valid-rust-programs/) Tj
+T*
+(Why HRTB are my least-favorite part of Rust) Tj
+T*
+() Tj
+T*
+(28. The intra-doc links saga) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2769 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: the website of jyn | Published: 2020-10-23T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/the-intra-doc-links-saga/) Tj
+T*
+(How I helped stabilize intra-doc links) Tj
+T*
+() Tj
+T*
+(29. Rust in 2021) Tj
+T*
+(Source: the website of jyn | Published: 2020-09-05T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/rust-in-2021/) Tj
+T*
+(Rust in 2021 should focus on discoverability) Tj
+T*
+() Tj
+T*
+(30. Nerd Quiz #4) Tj
+T*
+(Source: Susam Pal | Published: Sun, 22 Feb 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/code/news/nq/4.0.0.html) Tj
+T*
+(Nerd Quiz #4 is the fourth instalment of Nerd Quiz, a single page HTML application that) Tj
+T*
+(challenges you to measure your inner geek with a brief quiz. Each question in the quiz comes) Tj
+T*
+(from everyday moments of reading, writing, thinking, learning and exploring. This release) Tj
+T*
+(introduces five new questions drawn from a range of topics, including computing history, graph) Tj
+T*
+(theory and Unix. Visit Nerd Quiz to try the quiz. A community discussion page is available here) Tj
+T*
+(. You are very welcome to share your score or discuss the questions there. Read on website |) Tj
+T*
+(#web | #miscellaneous | #game) Tj
+T*
+() Tj
+T*
+(31. Books update) Tj
+T*
+(Source: Fabien Sanglard | Published: 15 Dec 2022 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/three_books_update/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(32. The Book Of CP-System, paper version) Tj
+T*
+(Source: Fabien Sanglard | Published: 22 Nov 2022 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/cpsb_paper/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(33. CCPS: A CPS-1 SDK) Tj
+T*
+(Source: Fabien Sanglard | Published: 25 Sep 2022 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/ccps/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(34. The Monte Carlo Method for Game AI) Tj
+T*
+(Source: Beej's Bit Bucket | Published: Mon, 04 Jan 2010 00:00:00 +0000) Tj
+T*
+(Link: http://beej.us/blog/data/monte-carlo-method-game-ai/) Tj
+T*
+(Beat your computer at Connect-4.) Tj
+T*
+() Tj
+T*
+(35. Getting Started with Flash Development) Tj
+T*
+(Source: Beej's Bit Bucket | Published: Thu, 31 Dec 2009 00:00:00 +0000) Tj
+T*
+(Link: http://beej.us/blog/data/getting-started-flash/) Tj
+T*
+(You can do it with free tools on the command line.) Tj
+T*
+() Tj
+T*
+(36. Arch vs. Slackware, a friendly comparison) Tj
+T*
+(Source: Beej's Bit Bucket | Published: Wed, 30 Dec 2009 00:00:00 +0000) Tj
+T*
+(Link: http://beej.us/blog/data/arch-vs-slackware/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(37. are-dependent-types-actually-erased) Tj
+T*
+(Source: Chad Nauseam Home | Published: -) Tj
+T*
+(Link: https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 4027 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(38. what-I-learned-building-a-language-learning-app) Tj
+T*
+(Source: Chad Nauseam Home | Published: -) Tj
+T*
+(Link: https://chadnauseam.com/language/what-I-learned-building-a-language-learning-app) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(39. i-built-an-app-to-talk-to-my-dad) Tj
+T*
+(Source: Chad Nauseam Home | Published: -) Tj
+T*
+(Link: https://chadnauseam.com/coding/random/i-built-an-app-to-talk-to-my-dad) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(40. Constraints are the Point) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Fri, 21 Mar 2025 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/constraints-are-the-point/) Tj
+T*
+(I get it. I disagree with it, but I get it. The tech industry is throwing obscene amounts of) Tj
+T*
+(money at LLMs. VCs are salivating over AI startups. The big important executives are regularly) Tj
+T*
+(bleating about how ? we should integrate ChatGPT into our game ? because they read some Medium) Tj
+T*
+(article about the future of interactive entertainment. But as narrative designers, we need to) Tj
+T*
+(call this what it is: a massive distraction from what makes game characters work .) Tj
+T*
+() Tj
+T*
+(41. Beyond Bad Output) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Tue, 11 Mar 2025 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/beyond-bad-output/) Tj
+T*
+(The Deeper Problems with AI in Creative Work ?But AI will get better at writing stories, won?t) Tj
+T*
+(it?? This response to my rant about AI-generated content misses the point entirely. Even if AI) Tj
+T*
+(writing improved dramatically tomorrow, fundamental problems would remain that no algorithm) Tj
+T*
+(refinement can fix. The environmental cost alone should give us pause. Training even a small) Tj
+T*
+(LLM produces carbon emissions equivalent to the output of several cars, over their entire) Tj
+T*
+(lifetimes , and each query consumes significant energy. Game development already has a) Tj
+T*
+(substantial carbon footprint ?why increase it when human writers remain perfectly capable?) Tj
+T*
+() Tj
+T*
+(42. The Empty Promise of AI-Generated Creativity) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Mon, 03 Mar 2025 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/genai/) Tj
+T*
+(?Are you going to add AI writing to Yarn Spinner ?? It?s a question I hear almost weekly these) Tj
+T*
+(days. Whether at game development conferences, online, or during meetings, there?s an) Tj
+T*
+(assumption that every tool is racing to implement some form of generative AI. I understand the) Tj
+T*
+(curiosity?we?re living through an unprecedented wave of AI hype, and there?s genuine confusion) Tj
+T*
+(about where these technologies might fit into creative processes. So I thought I?d share some) Tj
+T*
+(thoughts on why we?re taking a different path.) Tj
+T*
+() Tj
+T*
+(43. Which web frameworks are most token-efficient for AI agents?) Tj
+T*
+(Source: Martin Alderson | Published: Mon, 23 Feb 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/which-web-frameworks-are-most-token-efficient-for-ai-age) Tj
+T*
+(nts/?utm_source=rss) Tj
+T*
+(I benchmarked 19 web frameworks on how efficiently an AI coding agent can build and extend the) Tj
+T*
+(same app. Minimal frameworks cost up to 2.9x fewer tokens than full-featured ones.) Tj
+T*
+() Tj
+T*
+(44. Chatcontrol edi?ia 2025 pe scurt \(român?\)) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 18 Aug 2025 15:30:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/chatcontrol-pe-scurt/) Tj
+T*
+(La ini?iativa Danemarcei, multe state membre ale UE cer ca WhatsApp/Signal/etc. s? fie for?ate) Tj
+T*
+(s? inspecteze toate pozele ?i linkurile noastre folosind inteligen?a artificial? \(IA\). Daca IA) Tj
+T*
+(are orice ?îndoial?? c? acestea ar putea fi pornografie infantil?, atunci poza ta, loca?ia ta,) Tj
+T*
+(num?rul t?u de telefon ?i alte detalii vor fi raportate c?tre Europol ?i c?tre poli?ia local?.) Tj
+T*
+(Ce se întâmpl? mai departe nu e specificat, dar vacan?a ta în Cipru s-ar putea termina cu tine) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 2811 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(la sec?ia local? de poli?ie, nevoit s? î?i explici pozele.) Tj
+T*
+() Tj
+T*
+(45. Chatcontrol 2025 edizione in Breve \(it\)) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 17 Aug 2025 19:30:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/chatcontrol-in-brief-it/) Tj
+T*
+(In breve, guidati dalla Danimarca, molti stati membri dell?UE sostengono la necessità di) Tj
+T*
+(obbligare WhatsApp/Signal/ecc. a ispezionare tutte le nostre foto e i nostri link, utilizzando) Tj
+T*
+(l?intelligenza artificiale \(IA\). Se l?IA ha qualche ?dubbio? che si tratti di pedopornografia,) Tj
+T*
+(la tua foto, posizione, numero di telefono e altri dettagli vengono segnalati a Europol e a una) Tj
+T*
+(forza di polizia locale. Non è specificato cosa accadrà in seguito, ma durante la tua vacanza a) Tj
+T*
+(Cipro potresti dover spiegare le tue foto alla stazione di polizia locale.) Tj
+T*
+() Tj
+T*
+(46. Chatcontrol 2025: Resumen) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 17 Aug 2025 18:30:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/chatcontrol-in-brief-es/) Tj
+T*
+(En resumen: bajo el liderazgo de Dinamarca, muchos países de la Unión Europea quieren obligar a) Tj
+T*
+(las compañías de mensajería como WhatsApp o Signal a inspeccionar todas nuestras fotos y) Tj
+T*
+(enlaces con ayuda de inteligencia artificial \(IA\). Si la IA tiene la mínima duda de que pueda) Tj
+T*
+(tratarse de material relacionado con abuso infantil, se enviarán a Europol y a la policía local) Tj
+T*
+(tu foto, la ubicación, tu número de teléfono y otros datos personales.) Tj
+T*
+() Tj
+T*
+(47. Quasirandom sequences) Tj
+T*
+(Source: Grant Slatton's Blog | Published: Mon, 1 Jul 2024 23:01:40 +0000) Tj
+T*
+(Link: https://grantslatton.com/quasirandom) Tj
+T*
+(Cool method to generate non-clumping random points) Tj
+T*
+() Tj
+T*
+(48. Book Review: 'The Perfectionists: How Precision Engineers Created the Modern World') Tj
+T*
+(Source: Grant Slatton's Blog | Published: Mon, 1 Jul 2024 22:53:22 +0000) Tj
+T*
+(Link: https://grantslatton.com/book-review-the-perfectionists) Tj
+T*
+(Excellent book about the history of precision machining) Tj
+T*
+() Tj
+T*
+(49. No calls) Tj
+T*
+(Source: Keygen Blog | Published: Thu, 16 Jan 2025 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/no-calls/) Tj
+T*
+(Enterprise sales don't have to be crazy.) Tj
+T*
+() Tj
+T*
+(50. Trailblazing) Tj
+T*
+(Source: Keygen Blog | Published: Fri, 31 Jan 2025 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/trailblazing/) Tj
+T*
+(On the impacts of technology and culture in startups and small business.) Tj
+T*
+() Tj
+T*
+(51. Locked-in) Tj
+T*
+(Source: Keygen Blog | Published: Fri, 31 Jan 2025 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/locked-in/) Tj
+T*
+(On the risks of vendor lock-in and how to escape it.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 18 0 R >>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000168 00000 n 
+0000000238 00000 n 
+0000005005 00000 n 
+0000005131 00000 n 
+0000009325 00000 n 
+0000009451 00000 n 
+0000012810 00000 n 
+0000012936 00000 n 
+0000017632 00000 n 
+0000017760 00000 n 
+0000021642 00000 n 
+0000021770 00000 n 
+0000024592 00000 n 
+0000024720 00000 n 
+0000028800 00000 n 
+0000028928 00000 n 
+0000031792 00000 n 
+trailer
+<< /Size 20 /Root 1 0 R >>
+startxref
+31920
+%%EOF
