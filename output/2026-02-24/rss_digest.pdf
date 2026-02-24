@@ -1,0 +1,1372 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R] /Count 11 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4253 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-02-24 09:38:32) Tj
+T*
+() Tj
+T*
+(1. Insider amnesia) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Mon, 23 Feb 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/insider-amnesia/) Tj
+T*
+(Speculation about what?s really going on inside a tech company is almost always wrong. When) Tj
+T*
+(some problem with your company is posted on the internet, and you read people?s thoughts on it,) Tj
+T*
+(their thoughts are almost always ridiculous. For instance, they might blame product managers) Tj
+T*
+(for a particular decision, when in fact the decision in question was engineering-driven and the) Tj
+T*
+(product org was pushing back on it. Or they might attribute an incident to overuse of AI, when) Tj
+T*
+(the system in question was largely written pre-AI-coding and unedited since. You just don?t) Tj
+T*
+(know what the problem is unless you?re on the inside. But when some other company has a problem) Tj
+T*
+(on the internet, it?s very tempting to jump in with your own explanations. After all, you?ve) Tj
+T*
+(seen similar things in your own career. How different can it really be? Very different, as it) Tj
+T*
+(turns out. This is especially true for companies that are unusually big or small. The recent) Tj
+T*
+(kerfuffle over some bad GitHub Actions code is a good example of this - many people just seemed) Tj
+T*
+(to have no mental model about how a large tech company can produce bad code, because their) Tj
+T*
+(mental model of writing code is something like ?individual engineer main...) Tj
+T*
+() Tj
+T*
+(2. What's so hard about continuous learning?) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Mon, 23 Feb 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/continuous-learning/) Tj
+T*
+(Why can?t models continue to get smarter after they?re deployed? If you hire a human employee,) Tj
+T*
+(they will grow more familiar with your systems over time, and \(if they stick around long) Tj
+T*
+(enough\) eventually become a genuine domain expert. AI models are not like this. They are always) Tj
+T*
+(exactly as capable as the first moment you use them. This is because model weights are frozen) Tj
+T*
+(once the model is released. The model can only ?learn? as much as can be stuffed into its) Tj
+T*
+(context window: in effect, it can take new information into its short-term working memory, but) Tj
+T*
+(not its long-term memory. ?Continuous learning? - the ability for a model to update its own) Tj
+T*
+(weights over time - is thus often described as the bottleneck for AGI 1 . Continuous learning) Tj
+T*
+(is an easy technical problem However, the mechanics of continuous learning are not hard . The) Tj
+T*
+(technical problem of ?how do you change the weights of a model at runtime? is straightforward.) Tj
+T*
+(It?s the exact same process as post-training: you simply keep running new user input through) Tj
+T*
+(the training pipeline you already have. In a sense, every LLM since GPT-3 is already capable of) Tj
+T*
+(continuous learning \(via RL, RLHF, or whatever\). It?s just that the continuo...) Tj
+T*
+() Tj
+T*
+(3. Startup School - How to talk to users) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Thu, 25 Jul 2019 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/startup-school-how-to-talk-to-users) Tj
+T*
+(2025 Note - I based this off the Mom Test, written by a fellow YC founder. Interestingly enough) Tj
+T*
+(- if you look at the products I build?) Tj
+T*
+() Tj
+T*
+(4. Startup School - A Conversation on Hard Tech) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Fri, 12 Oct 2018 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/startup-school-a-conversation-on-hard-tech) Tj
+T*
+(2025 Note - good convo with Adora for Startup School) Tj
+T*
+() Tj
+T*
+(5. Hardware Founders: \(When\) Should You Try To Raise VC Money?) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Mon, 09 Jul 2018 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/hardware-founders-when-should-you-try-to-raise-vc-money) Tj
+T*
+(If you choose to raise any amount of venture capital investment you are making an implicit) Tj
+T*
+(agreement with your investor that your aim is to?) Tj
+T*
+() Tj
+T*
+(6. Ladybird adopts Rust, with help from AI) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4960 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Simon Willison's Weblog | Published: 2026-02-23T18:52:53+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/23/ladybird-adopts-rust/#atom-everything) Tj
+T*
+(Ladybird adopts Rust, with help from AI Really interesting case-study from Andreas Kling on) Tj
+T*
+(advanced, sophisticated use of coding agents for ambitious coding projects with critical code.) Tj
+T*
+(After a few years hoping Swift's platform support outside of the Apple ecosystem would mature) Tj
+T*
+(they switched tracks to Rust their memory-safe language of choice, starting with an AI-assisted) Tj
+T*
+(port of a critical library: Our first target was LibJS , Ladybird's JavaScript engine. The) Tj
+T*
+(lexer, parser, AST, and bytecode generator are relatively self-contained and have extensive) Tj
+T*
+(test coverage through test262 , which made them a natural starting point. I used Claude Code) Tj
+T*
+(and Codex for the translation. This was human-directed, not autonomous code generation. I) Tj
+T*
+(decided what to port, in what order, and what the Rust code should look like. It was hundreds) Tj
+T*
+(of small prompts, steering the agents where things needed to go. [...] The requirement from the) Tj
+T*
+(start was byte-for-byte identical output from both pipelines. The result was about 25,000 lines) Tj
+T*
+(of Rust, and the entire port took about two weeks. The same work would have taken me multiple) Tj
+T*
+(months to do by hand. We?ve verified that every AST produced by the Rust par...) Tj
+T*
+() Tj
+T*
+(7. Writing about Agentic Engineering Patterns) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-23T17:43:02+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything) Tj
+T*
+(I've started a new project to collect and document Agentic Engineering Patterns - coding) Tj
+T*
+(practices and patterns to help get the best results out of this new era of coding agent) Tj
+T*
+(development we find ourselves entering. I'm using Agentic Engineering to refer to building) Tj
+T*
+(software using coding agents - tools like Claude Code and OpenAI Codex, where the defining) Tj
+T*
+(feature is that they can both generate and execute code - allowing them to test that code and) Tj
+T*
+(iterate on it independently of turn-by-turn guidance from their human supervisor. I think of) Tj
+T*
+(vibe coding using its original definition of coding where you pay no attention to the code at) Tj
+T*
+(all, which today is often associated with non-programmers using LLMs to write code. Agentic) Tj
+T*
+(Engineering represents the other end of the scale: professional software engineers using coding) Tj
+T*
+(agents to improve and accelerate their work by amplifying their existing expertise. There is so) Tj
+T*
+(much to learn and explore about this new discipline! I've already published a lot under my) Tj
+T*
+(ai-assisted-programming tag \(345 posts and counting\) but that's been relatively unstructured.) Tj
+T*
+(My new goal is to produce something that helps answer the question "how do I get good resu...) Tj
+T*
+() Tj
+T*
+(8. Writing code is cheap now) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-23T16:20:42+00:00) Tj
+T*
+(Link:) Tj
+T*
+(https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything) Tj
+T*
+(Agentic Engineering Patterns > The biggest challenge in adopting agentic engineering practices) Tj
+T*
+(is getting comfortable with the consequences of the fact that writing code is cheap now . Code) Tj
+T*
+(has always been expensive. Producing a few hundred lines of clean, tested code takes most) Tj
+T*
+(software developers a full day or more. Many of our engineering habits, at both the macro and) Tj
+T*
+(micro level, are built around this core constraint. At the macro level we spend a great deal of) Tj
+T*
+(time designing, estimating and planning out projects, to ensure that our expensive coding time) Tj
+T*
+(is spent as efficiently as possible. Product feature ideas are evaluated in terms of how much) Tj
+T*
+(value they can provide in exchange for that time - a feature needs to earn its development) Tj
+T*
+(costs many times over to be worthwhile! At the micro level we make hundreds of decisions a day) Tj
+T*
+(predicated on available time and anticipated tradeoffs. Should I refactor that function to be) Tj
+T*
+(slightly more elegant if it adds an extra hour of coding time? How about writing documentation?) Tj
+T*
+(Is it worth adding a test for this edge case? Can I justify building a debug interface for) Tj
+T*
+(this? Coding agents dramatically drop the cost of typing code into the co...) Tj
+T*
+() Tj
+T*
+(9. The Pants-Shitting Saga of Resizing Windows on MacOS 26 Tahoe Continues) Tj
+T*
+(Source: Daring Fireball | Published: 2026-02-24T00:31:00Z) Tj
+T*
+(Link: https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/) Tj
+T*
+(Norbert Heger: In the release notes for macOS 26.3 RC, Apple stated that the window-resizing) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4378 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(issue I demonstrated in my recent blog post had been resolved. You?ll never guess what happened) Tj
+T*
+(between the RC \(release candidate\) version and the actual shipping version of 26.3. Just) Tj
+T*
+(kidding, you?ll guess. ?) Tj
+T*
+() Tj
+T*
+(10. NetNewsWire 7 for Mac) Tj
+T*
+(Source: Daring Fireball | Published: 2026-02-23T21:41:00Z) Tj
+T*
+(Link: https://netnewswire.blog/2026/01/27/netnewswire-for-mac.html) Tj
+T*
+(Brent Simmons, last month: The big change from 6.2.1 is that it adopts the Liquid Glass UI and) Tj
+T*
+(it requires macOS 26. \(Note to people who aren?t on macOS 26: we fixed a lot of bugs in 6.2 and) Tj
+T*
+(6.2.1 knowing that many people might skip, or at least delay, installing macOS 26. Also note) Tj
+T*
+(that there?s a page where you can get old versions of NetNewsWire .\) It feels a little weird) Tj
+T*
+(for me not to be running the latest version of NetNewsWire, but since I?m skipping MacOS 26) Tj
+T*
+(Tahoe, I can?t run NetNewsWire 7. I am running NetNewsWire 7 betas on my iPhone and iPad, and) Tj
+T*
+(I?ve tried it out the secondary Mac where I do have Tahoe installed. It?s so good. And syncing) Tj
+T*
+(works just fine with NetNewsWire 6.x, for anyone else in the fellowship sticking with MacOS 15) Tj
+T*
+(Sequoia. You can run NetNewsWire 7 on some devices and NetNewsWire 6 on your Sequoia Mac, and) Tj
+T*
+(it just works. ?) Tj
+T*
+() Tj
+T*
+(11. Trader Joe?s Dark Chocolate Peanut Butter Cups) Tj
+T*
+(Source: Daring Fireball | Published: 2026-02-23T21:40:48Z) Tj
+T*
+(Link: https://www.traderjoes.com/home/products/pdp/dark-chocolate-peanut-butter-cups-094064) Tj
+T*
+(Trader Joe?s: Like their milk chocolate brethren on our shelves, our Dark Chocolate Peanut) Tj
+T*
+(Butter Cups are made with real peanut butter that?s made with slowly roasted and ground) Tj
+T*
+(Virginia peanuts. The luscious, smooth, rich, dark chocolate enveloping that peanut butter is) Tj
+T*
+(crafted from high quality cacao beans. Other purveyors of peanut butter cups fill theirs with) Tj
+T*
+(all kinds of ?extraneous? ingredients. Ours are free of such things. We eschew artificial) Tj
+T*
+(flavors and preservatives, as well as colors other than those derived from natural sources.) Tj
+T*
+(We?re quite certain they taste better our way. Trader Joe?s speaketh the truth and throweth) Tj
+T*
+(some shade. ?) Tj
+T*
+() Tj
+T*
+(12. Customizing the ways the dialog manager dismisses itself: Detecting the ESC key,) Tj
+T*
+(second \(failed\) attempt) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 23 Feb 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260223-00/?p=112080) Tj
+T*
+(Sniffing the synchronous keyboard state is still not precise enough. The post Customizing the) Tj
+T*
+(ways the dialog manager dismisses itself: Detecting the ESC key, second \(failed\) attempt) Tj
+T*
+(appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(13. The Little Red Dot) Tj
+T*
+(Source: iDiallo.com | Published: Mon, 23 Feb 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/little-red-dot?src=feed) Tj
+T*
+(Sometimes, I have 50 tabs open. Looking for a single piece of information ends up being a rapid) Tj
+T*
+(click on each tab until I find what I'm looking for. Somehow, every time I get to that LinkedIn) Tj
+T*
+(tab, I pause for a second. I just have to click on the little red dot in the top right corner,) Tj
+T*
+(see that there is nothing new, then resume my clicking. Why is that? Why can't I ignore the red) Tj
+T*
+(notification badge? When you sign up for LinkedIn for the first time, it's right there. A) Tj
+T*
+(little red dot in the top right corner with a number in it. It stands out against the muted) Tj
+T*
+(grays and blues of the interface. Click on it, and you'll discover you have a notification.) Tj
+T*
+(It's not from someone you know; this is a fresh new account, after all. But the dot was there) Tj
+T*
+(anyway. Add a few connections, give it some time, and come back. Refresh the page, and you'll) Tj
+T*
+(have new notifications waiting. If your LinkedIn account is like mine, a ghost town, you still) Tj
+T*
+(get the little red dot. My connections and I usually keep a few recruiters in our networks, an) Tj
+T*
+(insurance policy in case we need to find work quickly. But we rarely, if ever, post anything.) Tj
+T*
+(Yet whenever I log in, there's a new notification. Sometimes it's even...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3637 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(14. Zig Tokenizer) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Thu, 10 Feb 2022 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/zig/tokenizer) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. Comparing Filesystem Performance in Virtual Machines) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Fri, 10 Jan 2014 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/writing/comparing-filesystem-performance-in-virtual-machines) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. Packer) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Fri, 28 Jun 2013 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/writing/packer) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(17. Giant Steps) Tj
+T*
+(Source: John D. Cook | Published: Mon, 23 Feb 2026 19:20:23 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/02/23/giant-steps/) Tj
+T*
+(John Coltrane?s song Giant Steps is known for its unusual and difficult chord changes. Although) Tj
+T*
+(the chord progressions are complicated, there aren?t that many unique chords, only nine. And) Tj
+T*
+(there is a simple pattern to the chords; the difficulty comes from the giant steps between the) Tj
+T*
+(chords. If you wrap the chromatic scale around a [?] The post Giant Steps first appeared on) Tj
+T*
+(John D. Cook .) Tj
+T*
+() Tj
+T*
+(18. Tritone substitution) Tj
+T*
+(Source: John D. Cook | Published: Mon, 23 Feb 2026 12:50:12 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/02/23/tritone-sub/) Tj
+T*
+(Big moves in roots can correspond to small moves in chords. Imagine the 12 notes of a chromatic) Tj
+T*
+(scale arranged around the hours of a clock: C at 12:00, C? at 1:00, D at 2:00, etc. The) Tj
+T*
+(furthest apart two notes can be is 6 half steps, just as the furthest apart two times can [?]) Tj
+T*
+(The post Tritone substitution first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(19. Portable monitors are good) Tj
+T*
+(Source: Xe Iaso's blog | Published: Tue, 24 Feb 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/blog/2026/portable-monitors-are-good/) Tj
+T*
+(A review of portable monitors for travel) Tj
+T*
+() Tj
+T*
+(20. Pluralistic: Deplatform yourself \(23 Feb 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 23 Feb 2026 10:52:48) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/02/23/goodharts-lawbreaker/) Tj
+T*
+(Today's links Deplatform yourself: Copyright infringement is your least entertainment dollar.) Tj
+T*
+(Hey look at this: Delights to delectate. Object permanence: "Lawer" threatens suit; Landmark) Tj
+T*
+(metaphotos; 3DP v \(c\); Forced arbitration; Imperial Scott Walker; Keysigning ritual;) Tj
+T*
+(Polyfingered robot dictaphone; DNS bug; Register of copyright damns term extension; How) Tj
+T*
+(Anonymous decides; Christchurch quake people-finder; Minor HP disenshittification; US v) Tj
+T*
+(developing world at WIPO; TfL v anagram tube-map; Disneyland waiting; Internet of Garbage.) Tj
+T*
+(Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You) Tj
+T*
+(keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Deplatform yourself \(permalink\) The first time I met William Gibson ?) Tj
+T*
+(to interview him for the Globe and Mail on the release of 1999's All Tomorrow's Parties ? there) Tj
+T*
+(was one question I knew I wanted to ask him: "What happens to the counterculture in the era of) Tj
+T*
+(instantaneous commodification?" https://craphound.com/nonfic/transcript.html Gibson's answer) Tj
+T*
+(stuck with me for decades: What we're doing pop culturally is like burning the rain forest.) Tj
+T*
+(The...) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4209 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(21. How Are Function Components Different from Classes?) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Sun, 03 Mar 2019 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/how-are-function-components-different-from-classes/) Tj
+T*
+(They?re a whole different Pokémon.) Tj
+T*
+() Tj
+T*
+(22. Coping with Feedback) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Sat, 02 Mar 2019 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/coping-with-feedback/) Tj
+T*
+(Sometimes I can?t fall asleep.) Tj
+T*
+() Tj
+T*
+(23. Fix Like No One?s Watching) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Fri, 15 Feb 2019 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/fix-like-no-ones-watching/) Tj
+T*
+(The other kind of technical debt.) Tj
+T*
+() Tj
+T*
+(24. Book Review: A Geography of Time by Robert V. Levine ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 23 Feb 2026 12:34:07 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/02/book-review-a-geography-of-time-by-robert-v-levine/) Tj
+T*
+(This book doesn't know what it wants to be. Is it a sociology textbook, travel guide, history) Tj
+T*
+(book, or guide to the mysteries of the world? Subtitled "the temporal misadventures of a social) Tj
+T*
+(psychologist" it veers between hard data and well-worn anecdotes until it becomes a sort of) Tj
+T*
+(self-help book for the time-poor 1990s American executive. Despite being well-caveated against) Tj
+T*
+(the "dangers in?) Tj
+T*
+() Tj
+T*
+(25. Where Do Specifications Fit in the Dependency Tree?) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-02-23T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/02/23/where-do-specifications-fit-in-the-dependency-tree.html) Tj
+T*
+(Your Ruby gem declares required_ruby_version >= 3.0 . That constraint references the Ruby 3.0) Tj
+T*
+(language specification, expressed through the implementation version, checked against whichever) Tj
+T*
+(runtime happens to be running, with no distinction between MRI and JRuby, and no connection to) Tj
+T*
+(the specification document that defines what Ruby 3.0 even is. Runtimes at least show up) Tj
+T*
+(somewhere in the tooling. Your HTTP library also depends on RFC 9110, your JSON parser on) Tj
+T*
+(ECMA-404, your TLS implementation on RFC 8446, and none of those appear in any manifest,) Tj
+T*
+(lockfile, or SBOM. Library dependencies get the full treatment: manifests declare them,) Tj
+T*
+(lockfiles pin them, SBOMs track them, scanners check them for vulnerabilities. Runtime versions) Tj
+T*
+(sit one layer down, handled differently by every ecosystem. Python has Requires-Python in) Tj
+T*
+(package metadata, enforced by pip but ignored by trove classifiers that may disagree with it.) Tj
+T*
+(Ruby has required_ruby_version in the gemspec, enforced by both RubyGems and Bundler. Node.js) Tj
+T*
+(has the engines field in package.json, advisory by default in npm unless you flip a config) Tj
+T*
+(flag. Go?s go directive in go.mod was advisory until Go 1.21, when it flipped to a hard) Tj
+T*
+(minim...) Tj
+T*
+() Tj
+T*
+(26. New Blog Post: Some Silly Z3 Scripts I Wrote) Tj
+T*
+(Source: Computer Things | Published: Mon, 23 Feb 2026 16:49:10 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/new-blog-post-some-silly-z3-scripts-i-wrote/) Tj
+T*
+(Now that I'm not spending all my time on Logic for Programmers, I have time to update my) Tj
+T*
+(website again! So here's the first blog post in five months: Some Silly Z3 Scripts I Wrote .) Tj
+T*
+(Normally I'd also put a link to the Patreon notes but I've decided I don't like publishing) Tj
+T*
+(gated content and am going to wind that whole thing down. So some quick notes about this post:) Tj
+T*
+(Part of the point is admittedly to hype up the eventual release of LfP. I want to start) Tj
+T*
+(marketing the book, but don't want the marketing material to be devoid of interest, so) Tj
+T*
+(tangentially-related-but-independent blog posts are a good place to start. The post discusses) Tj
+T*
+(the concept of "chaff", the enormous quantity of material \(both code samples and prose\) that) Tj
+T*
+(didn't make it into the book. The book is about 50,000 words? and considerably shorter than the) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4614 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(total volume of chaff! I don't think most of it can be turned into useful public posts, but I'm) Tj
+T*
+(not entirely opposed to the idea. Maybe some of the old chapters could be made into something?) Tj
+T*
+(Coming up with a conditioned mathematical property to prove was a struggle. I had two) Tj
+T*
+(candidates: a == b * c => a / b == c , which would have required a long tangent on how) Tj
+T*
+(division...) Tj
+T*
+() Tj
+T*
+(27. letterboxd2jellyfin sync script) Tj
+T*
+(Source: Jayden?s Blog | Published: 2026-02-14T14:38:00+00:00) Tj
+T*
+(Link: https://jayd.ml/2026/02/14/letterboxd2jellyfin.html) Tj
+T*
+(I have an incredibly niche use case where I Have a physical media collection that I haven?t) Tj
+T*
+(ripped Would like to browse that collection in Jellyfin like its my own personal Netflix Have a) Tj
+T*
+(public list in Letterboxd of all the movies I own So I wrote a quick script and published it to) Tj
+T*
+(pypi . Shout out to letterboxdpy that made this incredibly simple. This script reads the) Tj
+T*
+(playlist from letterboxd and writes stub .mp4 files in the appropriate Jellyfin file structure) Tj
+T*
+(so you can browse it, eg $ letterboxd2jellyfin -o '/path/to/jellyfin/library/Movies' -url) Tj
+T*
+(https://letterboxd.com/matchup/list/scream-ranked/ parsing URL Loading playlist ` scream-ranked) Tj
+T*
+(` from username ` matchup ` ... done ! This playlist has 6 entries creating stub file) Tj
+T*
+(deleteme/Scream \( 1996 \) /Scream \( 1996 \) .mp4 creating stub file deleteme/Scream 4 \( 2011 \)) Tj
+T*
+(/Scream 4 \( 2011 \) .mp4 creating stub file deleteme/Scream 2 \( 1997 \) /Scream 2 \( 1997 \) .mp4) Tj
+T*
+(creating stub file deleteme/Scream VI \( 2023 \) /Scream VI \( 2023 \) .mp4 creating stub file) Tj
+T*
+(deleteme/Scream \( 2022 \) /Scream \( 2022 \) .mp4 creating stub file deleteme/Scream 3 \( 2000 \)) Tj
+T*
+(/Scream 3 \( 2000 \) .mp4 all done ! Now obviously you can?t play this, it just plays a ch...) Tj
+T*
+() Tj
+T*
+(28. Making Icon Sets Easy With Web Origami) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Mon, 23 Feb 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/origami-icons/) Tj
+T*
+(Over the years, I?ve used different icon sets on my blog. Right now I use Heroicons . The) Tj
+T*
+(recommended way to use them is to copy/paste the source from the website directly into your) Tj
+T*
+(HTML. It?s a pretty straightforward process: Go to the website Search for the icon you want) Tj
+T*
+(Hover it Click to ?Copy SVG? Go back to your IDE and paste it If you?re using React or Vue,) Tj
+T*
+(there are also npm packages you can install so you can import the icons as components. But I?m) Tj
+T*
+(not using either of those frameworks, so I need the raw SVGs and there?s no npm i for those so) Tj
+T*
+(I have to manually grab the ones I want. In the past, my approach has been to copy the SVGs) Tj
+T*
+(into individual files in my project, like: src/ icons/ home.svg about.svg search.svg Then I) Tj
+T*
+(have a ?component? for reading those icons from disk which I use in my template files to inline) Tj
+T*
+(the SVGs in my HTML. For example: // Some page template file import { Icon } from './Icon.js') Tj
+T*
+(const template = ` ${Icon\( 'search.svg' \)} Search ` // Icon.js import fs from 'fs' import path) Tj
+T*
+(from 'path' const __dirname = /* Do the stuff to properly resolve the file path */ ; export) Tj
+T*
+(const Icon = \( name \) => fs. readFileSync \( path. join \(__dirname, 'icons' , name\)...) Tj
+T*
+() Tj
+T*
+(29. How AI Labs Proliferate) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 22 Feb 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/how-ai-labs-proliferate/) Tj
+T*
+(SITUATION: there are 14 competing AI labs. ?We can?t trust any of these people with) Tj
+T*
+(super-intelligence. We need to build it ourselves to ensure it?s done right!" ?YEAH!? SOON:) Tj
+T*
+(there are 15 competing AI labs. \(See: xkcd on standards .\) The irony: ?we?re the responsible) Tj
+T*
+(ones? is each lab?s founding mythology as they spin out of each other. Reply via: Email ·) Tj
+T*
+(Mastodon · Bluesky) Tj
+T*
+() Tj
+T*
+(30. Agentic swarms are an org-chart delusion) Tj
+T*
+(Source: Westenberg. | Published: Tue, 24 Feb 2026 01:07:08 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/agentic-swarms-are-an-org-chart-delusion/) Tj
+T*
+(The "agentic swarm" vision of productivity is comfortingly familiar. Which should be an) Tj
+T*
+(immediate red flag... You take the existing corporate hierarchy, you replace the bottom layers) Tj
+T*
+(with a swarm of AI agents, and you keep humans around as supervisors. It's an org chart with) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 3330 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(robots) Tj
+T*
+() Tj
+T*
+(31. Thoughts on Farcaster) Tj
+T*
+(Source: Westenberg. | Published: Mon, 23 Feb 2026 22:07:22 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/thoughts-on-farcaster/) Tj
+T*
+(For the past few weeks I've been asking myself why I'm still on Farcaster, whether I'll stay,) Tj
+T*
+(whether I even want to. I've landed on some answers. Farcaster, for the uninitiated, was the) Tj
+T*
+(most credible attempt anyone has made at building a) Tj
+T*
+() Tj
+T*
+(32. Everyone in AI is building the wrong thing for the same reason) Tj
+T*
+(Source: Westenberg. | Published: Mon, 23 Feb 2026 11:09:55 GMT) Tj
+T*
+(Link:) Tj
+T*
+(https://www.joanwestenberg.com/everyone-in-ai-is-building-the-wrong-thing-for-the-same-reason/) Tj
+T*
+(Every AI founder I talk to is on an accelerating treadmill, burdened by a nagging suspicion) Tj
+T*
+(that the entire industry is moving too fast in a direction that doesn't quite make sense, with) Tj
+T*
+(no idea about how to get off. There is an overwhelming feeling that if everyone) Tj
+T*
+() Tj
+T*
+(33. The Bus Ticket Theory of Genius) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/genius.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(34. General and Surprising) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/sun.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(35. Charisma / Power) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/pow.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(36. Jan '26 Notes) Tj
+T*
+(Source: Susam Pal | Published: Thu, 29 Jan 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/notes-2026-01.html) Tj
+T*
+(In these monthly notes, I jot down ideas and references I encountered during the month that I) Tj
+T*
+(did not have time to expand into their own posts. A few of these may later develop into) Tj
+T*
+(independent posts but most of them will likely not. In any case, this format ensures that I) Tj
+T*
+(record them here. I spent a significant part of this month studying the book Algebraic Graph) Tj
+T*
+(Theory by Godsil and Royle, so many of the notes here are about it. There are a few) Tj
+T*
+(non-mathematical, technical notes towards the end. Contents Cayley Graphs Vertex Transitive) Tj
+T*
+(Graphs Arc-Transitive Graphs Bipartite Graphs and Cycle Parity Tutte's Theorem Tutte's 8-Cage) Tj
+T*
+(Linear Congruential Generator Numbering Lines Cayley Graphs Let \\\( G \\\) be a group and let \\\( C) Tj
+T*
+(\\subseteq G \\\) such that \\\( C \\\) is closed under taking inverses and does not contain the) Tj
+T*
+(identity, i.e., \\[ \\forall x \\in C, \\; x^{-1} \\in C, \\qquad e \\notin C. \\] Then the Cayley) Tj
+T*
+(graph \\\( X\(G, C\) \\\) is the graph with the vertex set \\\( V\(X\(G, C\) \\\) and edge set \\\( E\(X\(G, C\)) Tj
+T*
+(\\\) defined by \\begin{align*} V\(X\(G, C\)\) &= G, \\\\ E\(X\(G, C\)\) &= \\{ gh : hg^{-1} \\in C \\}.) Tj
+T*
+(\\end{align*} The set \\\( C \\\) is known as the connection set. Vertex Transitive Graphs A graph) Tj
+T*
+(\\\( X \\\)...) Tj
+T*
+() Tj
+T*
+(37. Building Docs.rs) Tj
+T*
+(Source: the website of jyn | Published: 2019-11-26T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/building-docs-rs/) Tj
+T*
+(How I because the 2nd-most prolific contributor to docs.rs) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 4237 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(38. Intro to Reverse Engineering) Tj
+T*
+(Source: the website of jyn | Published: 2019-11-11T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/talks/assembly/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(39. Intro to C) Tj
+T*
+(Source: the website of jyn | Published: 2019-11-05T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/talks/c/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(40. Redis will remain BSD licensed) Tj
+T*
+(Source: antirez.com | Published: Wed, 22 Aug 2018 15:45:52 +0200) Tj
+T*
+(Link: http://antirez.com/news/120) Tj
+T*
+(Today a page about the new Common Clause license in the Redis Labs web site was interpreted as) Tj
+T*
+(if Redis itself switched license. This is not the case, Redis is, and will remain, BSD) Tj
+T*
+(licensed. However in the era of [edit] uncontrollable spreading of information, my attempts to) Tj
+T*
+(provide the correct information failed, and I?m still seeing everywhere ?Redis is no longer) Tj
+T*
+(open source?. The reality is that Redis remains BSD, and actually Redis Labs did the right) Tj
+T*
+(thing supporting my effort to keep the Redis core open as usually. What is happening instead is) Tj
+T*
+(that certain Redis modules, developed inside Redis Labs, are now released under the Common) Tj
+T*
+(Clause \(using Apache license as a base license\). This means that basically certain enterprise) Tj
+T*
+(add-ons, instead of being completely closed source as they could be, will be available with a) Tj
+T*
+(more permissive license. I think that Redis Labs Common Clause page did not provide a clear and) Tj
+T*
+(complete information, but software companies often make communication errors, it happens. To me) Tj
+T*
+(however, it looks more important that while running a system software business in the ?cloud) Tj
+T*
+(era? \(LOL\) is very challenging using an open source license, yet Redis Labs tot...) Tj
+T*
+() Tj
+T*
+(41. Redis Lua scripting: several security vulnerabilities fixed) Tj
+T*
+(Source: antirez.com | Published: Wed, 13 Jun 2018 19:15:05 +0200) Tj
+T*
+(Link: http://antirez.com/news/119) Tj
+T*
+(A bit more than one month ago I received an email from the Apple Information Security team.) Tj
+T*
+(During an auditing the Apple team found a security issue in the Redis Lua subsystem,) Tj
+T*
+(specifically in the cmsgpack library. The library is not part of Lua itself, it is an) Tj
+T*
+(implementation of MessagePack I wrote myself. In the course of merging a pull request improving) Tj
+T*
+(the feature set, a security issue was added. Later the same team found a new issue in the Lua) Tj
+T*
+(struct library, again such library was not part of Lua itself, at least in the release of Lua) Tj
+T*
+(we use: we just embedded the source code inside our Lua implementation in order to provide some) Tj
+T*
+(functionality to the Lua interpreter that is available to Redis users. Then I found another) Tj
+T*
+(issue in the same struct package, and later the Alibaba team found many other issues in) Tj
+T*
+(cmsgpack and other code paths using the Lua API. In a short amount of time I was sitting on a) Tj
+T*
+(pile of Lua related vulnerabilities. Those vulnerabilities are mostly relevant in the specific) Tj
+T*
+(case of providing managed Redis severs on the cloud, because it is very unlikely that the) Tj
+T*
+(vulnerabilities discovered can be used without direct access to the Redis server: many Redis) Tj
+T*
+(user...) Tj
+T*
+() Tj
+T*
+(42. Clarifications on the Incapsula Redis security report) Tj
+T*
+(Source: antirez.com | Published: Sat, 02 Jun 2018 19:52:39 +0200) Tj
+T*
+(Link: http://antirez.com/news/118) Tj
+T*
+(A few days ago I started my day with my Twitter feed full of articles saying something like:) Tj
+T*
+(?75% of Redis servers infected by malware?. The obvious misquote referred to a research by) Tj
+T*
+(Incapsula where they found that 75% of the Redis instances left open on the internet, without) Tj
+T*
+(any protection, on a public IP address, are infected [1]. [1]) Tj
+T*
+(https://www.incapsula.com/blog/report-75-of-open-redis-servers-are-infected.html Many folks) Tj
+T*
+(don?t need any clarification about all this, because if you have some grip on computer security) Tj
+T*
+(and how Redis works, you can contextualize all this without much efforts. However I?m writing) Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 3388 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(this blog post for two reasons. The obvious one is that it can help the press and other users) Tj
+T*
+(that are not much into security and/or Redis to understand what?s going on. The second is that) Tj
+T*
+(the exposed Redis instances are a case study about safe defaults that should be interesting for) Tj
+T*
+(the security circles. The Incapsula report === Let?s start with the Incapsula report. What they) Tj
+T*
+(did was to analyze exposed Redis instances on the internet. Instances that everybody from any) Tj
+T*
+(place of the internet can access, because they are listening for connections in a public IP) Tj
+T*
+(address, w...) Tj
+T*
+() Tj
+T*
+(43. The Book Of CP-System) Tj
+T*
+(Source: Fabien Sanglard | Published: 25 Sep 2022 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/cpsb/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(44. The Beautiful Diablo 2 Resurrected machine) Tj
+T*
+(Source: Fabien Sanglard | Published: 08 May 2022 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/d2r/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(45. USB Cheat Sheet) Tj
+T*
+(Source: Fabien Sanglard | Published: 05 May 2022 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/usbcheat/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(46. 'Weekly' Links for February 26, 2025) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Wed, 26 Feb 2025 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/weekly-links/02262025/) Tj
+T*
+(Some new links! Huzzah! ?The closer to the train station, the worse the kebab? - A ?Study?) Tj
+T*
+(Blogging in the age of ?AI? SQL Injection Court \(also worth reading this vaguely similar story) Tj
+T*
+(about 32 million emails \) More soon!) Tj
+T*
+() Tj
+T*
+(47. 'Weekly' Links for February 14, 2025) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Fri, 14 Feb 2025 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/weekly-links/02132025/) Tj
+T*
+(So it didn?t end up being weekly. Here?s some links! Duh: Fewer students are enrolling in) Tj
+T*
+(doctoral degrees Torment nexus is going well: ? A significant negative correlation between) Tj
+T*
+(frequent AI tool usage and critical thinking abilities ? Who would have guessed? AI code) Tj
+T*
+(generation leads to more code, more duplicated code, less cohesive systems, more defects) Tj
+T*
+(Residential networking over telephone More next ?week?!) Tj
+T*
+() Tj
+T*
+(48. Yarn Spinner at GDC 2025) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Wed, 12 Feb 2025 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/gdc2025/) Tj
+T*
+(We?re thrilled to announce that Jon, from the Secret Lab and Yarn Spinner team will be) Tj
+T*
+(presenting a talk at the GDC this year in San Francisco: ?DREDGE? and Yarn Spinner: Building) Tj
+T*
+(Narrative with Open Source . The talk will explore how the indie hit, DREDGE , uses our Yarn) Tj
+T*
+(Spinner technology for narrative, and how you can do the same. Join us at GDC! Email me via) Tj
+T*
+(paris AT yarnspinner.dev if you?d like to organise a meeting, too.) Tj
+T*
+() Tj
+T*
+(49. Object Oriented Thinking, Part I) Tj
+T*
+(Source: Beej's Bit Bucket | Published: Tue, 29 Dec 2009 00:00:00 +0000) Tj
+T*
+(Link: http://beej.us/blog/data/object-oriented-programming/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(50. Dijkstra's Shortest Path) Tj
+T*
+(Source: Beej's Bit Bucket | Published: Fri, 25 Dec 2009 00:00:00 +0000) Tj
+ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 20 0 R >>
+endobj
+22 0 obj
+<< /Length 3347 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: http://beej.us/blog/data/dijkstras-shortest-path/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(51. Parsing XML Streams with SAX) Tj
+T*
+(Source: Beej's Bit Bucket | Published: Wed, 23 Dec 2009 00:00:00 +0000) Tj
+T*
+(Link: http://beej.us/blog/data/xml-sax/) Tj
+T*
+(No need to parse that whole DOM?just handle tags as they show up.) Tj
+T*
+() Tj
+T*
+(52. Weekly Update 492) Tj
+T*
+(Source: Troy Hunt | Published: Tue, 24 Feb 2026 00:38:59 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-492/) Tj
+T*
+(The recurring theme this week seems to be around the gap between breaches happening and) Tj
+T*
+(individual victims finding out about them. It's tempting to blame this on the corporate victim) Tj
+T*
+(of the breach \(the hacked company\), but they're simultaneously dealing with a criminal) Tj
+T*
+(intrusion, a ransom) Tj
+T*
+() Tj
+T*
+(53. start-vibe-coding-fast) Tj
+T*
+(Source: Chad Nauseam Home | Published: -) Tj
+T*
+(Link: https://chadnauseam.com/coding/tips/start-vibe-coding-fast) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(54. Taking action against AI harms) Tj
+T*
+(Source: Anil Dash | Published: 2026-02-24T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/02/23/taking-action-ai-harms/) Tj
+T*
+(Taking action on AI harms against kids In my last piece, I talked about the harms that AI is) Tj
+T*
+(visiting on children through the irresponsible choices made by the platforms creating those) Tj
+T*
+(products. While we dove a bit into the incentives and institutional pressures that cause those) Tj
+T*
+(companies to make such wildly irresponsible decisions, what we haven?t yet reckoned with is how) Tj
+T*
+(we hold these companies accountable. Often, people tell me they feel overwhelmed at the idea of) Tj
+T*
+(trying to engage with getting laws passed, or fighting a big political campaign to rein in the) Tj
+T*
+(giant tech companies that are causing so much harm. And grassroots, local organizing can be) Tj
+T*
+(extraordinarily effective in standing up for the values of your community against the agenda of) Tj
+T*
+(the Big AI companies. But while I think it?s vital that we pursue systemic justice \(and it?s) Tj
+T*
+(the only way to stop many kinds of harm\), I do understand the desire for something more) Tj
+T*
+(immediate and human-scale. So, I wanted to share some direct, personal actions that you can) Tj
+T*
+(take to respond to the threats that Big AI has made against kids. Each of these tactics have) Tj
+T*
+(been proven effective by others who have used the same strategies, so you can...) Tj
+T*
+() Tj
+T*
+(55. Self-promotion) Tj
+T*
+(Source: Keygen Blog | Published: Mon, 03 Feb 2025 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/self-promotion/) Tj
+T*
+(On the mistakes new founders make when it comes to self-promotion online.) Tj
+T*
+() Tj
+T*
+(56. Time away) Tj
+T*
+(Source: Keygen Blog | Published: Tue, 04 Feb 2025 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/time-away/) Tj
+T*
+(On what matters ? and taking time away as a founder.) Tj
+T*
+() Tj
+T*
+(57. The space elevator) Tj
+T*
+(Source: Keygen Blog | Published: Wed, 05 Feb 2025 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/the-space-elevator/) Tj
+T*
+(A short story on bootstrapping and startups.) Tj
+T*
+() Tj
+T*
+(58. Chatcontrol édition 2025 en bref) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 17 Aug 2025 17:15:00 +0200) Tj
+ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 22 0 R >>
+endobj
+24 0 obj
+<< /Length 3909 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://berthub.eu/articles/posts/chatcontrol-francais/) Tj
+T*
+(En bref, sous l?impulsion du Danemark, de nombreux États membres de l?UE demandent que les) Tj
+T*
+(messageries comme WhatsApp/Signal/etc. soient contraintes d?inspecter toutes nos photos et tous) Tj
+T*
+(nos liens en utilisant de l?IA. Si l?IA a le moindre ?doute? quant à la possibilité qu?il) Tj
+T*
+(s?agisse de pédopornographie, votre photo, votre localisation, votre numéro de téléphone ainsi) Tj
+T*
+(que d?autres détails sont signalés à Europol et aux forces de police locales. La suite n?est) Tj
+T*
+(pas précisée, mais vos vacances à Chypre pourraient se vite se terminer par l?obligation) Tj
+T*
+(d?expliquer vos photos au poste de police local.) Tj
+T*
+() Tj
+T*
+(59. Chatcontrol 2025 edition in Brief) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 17 Aug 2025 14:30:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/chatcontrol-in-brief/) Tj
+T*
+(In short, led by Denmark, many EU member states are arguing for forcing WhatsApp/Signal/etc to) Tj
+T*
+(inspect all our photos and links, using AI. If the AI is in any ?doubt? if this might be child) Tj
+T*
+(pornography, your photo, location, phone number & other details get reported to a new ?EU) Tj
+T*
+(Centre? and thence to Europol and a local police force. What happens next is not specified, but) Tj
+T*
+(your holiday in Cyprus might end up with you having to explain your photos over at the local) Tj
+T*
+(police station.) Tj
+T*
+() Tj
+T*
+(60. Chatcontrol 2025 \(kurz\)) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 17 Aug 2025 14:07:15 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/chatcontrol-kurz/) Tj
+T*
+(Kurz zusammengefasst: Unter der Führung Dänemarks fordern viele EU-Mitgliedsstaaten, WhatsApp,) Tj
+T*
+(Signal und co dazu zu zwingen, dass alle darüber versendeten Fotos und Links mit KI durchsucht) Tj
+T*
+(werden. Wenn die KI auch nur den geringsten Verdacht hat, dass es sich um Kinderpornografie) Tj
+T*
+(handeln könnte, werden dein Bild, dein Standort, deine Telefonnummer und weitere Details) Tj
+T*
+(automatisch an Europol und eine örtliche Polizeibehörde gemeldet. Jetzt gegen Chat Control) Tj
+T*
+(aktiv werden! Auch wenn nicht festgelegt ist was danach passiert, kann dein Urlaub auf Zypern) Tj
+T*
+(schnell damit enden, dass du deine privaten Fotos einem unbekannten Polizisten erklären musst.) Tj
+T*
+() Tj
+T*
+(61. Pockets of Humanity) Tj
+T*
+(Source: Herman's blog | Published: 2026-02-23T13:24:23.228866+00:00) Tj
+T*
+(Link: https://herman.bearblog.dev/pockets-of-humanity/) Tj
+T*
+(There's a conspiracy theory that suggests that since around 2016 most web activity is) Tj
+T*
+(automated. This is called Dead Internet Theory , and while I think they may have jumped the gun) Tj
+T*
+(by a few years, it's heading that way now that LLMs can simulate online interactions) Tj
+T*
+(near-flawlessly. Without a doubt there are tens \(hundreds?\) of thousands of interactions) Tj
+T*
+(happening online right now between bots trying to sell each other something . This sounds) Tj
+T*
+(silly, and maybe a little sad, since the internet is the commons that has historically belonged) Tj
+T*
+(to, and been populated by all of us. This is changing. Something interesting happened a few) Tj
+T*
+(weeks ago where an OpenClaw instance , named MJ Rathbun, submitted a pull request to the) Tj
+T*
+(matplotlib repository, and after having its code rejected on the basis that humans needed to be) Tj
+T*
+(in the loop for PRs, it proceeded to do some research on the open-source maintainer who denied) Tj
+T*
+(it, and wrote a "hit piece" on him, to publicly shame him for feeling threatened by AI...or) Tj
+T*
+(something. The full story is here and I highly recommend giving it a read. A lot of the) Tj
+T*
+(discourse around this has taken the form of "haha, stupid bot", but I posit that it is the) Tj
+T*
+(beginning of s...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 24 0 R >>
+endobj
+xref
+0 26
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000190 00000 n 
+0000000260 00000 n 
+0000004565 00000 n 
+0000004691 00000 n 
+0000009703 00000 n 
+0000009829 00000 n 
+0000014259 00000 n 
+0000014385 00000 n 
+0000018075 00000 n 
+0000018203 00000 n 
+0000022465 00000 n 
+0000022593 00000 n 
+0000027260 00000 n 
+0000027388 00000 n 
+0000030771 00000 n 
+0000030899 00000 n 
+0000035189 00000 n 
+0000035317 00000 n 
+0000038758 00000 n 
+0000038886 00000 n 
+0000042286 00000 n 
+0000042414 00000 n 
+0000046376 00000 n 
+trailer
+<< /Size 26 /Root 1 0 R >>
+startxref
+46504
+%%EOF
