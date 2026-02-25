@@ -1,0 +1,1000 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R] /Count 8 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4004 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-02-25 09:37:04) Tj
+T*
+() Tj
+T*
+(1. Announcing Startup School Beijing) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Thu, 26 Apr 2018 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/announcing-startup-school-beijing) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(2. What working on Pebble taught me about building hardware) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Tue, 19 Sep 2017 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/what-working-on-pebble-taught-me-about-building-hardware) Tj
+T*
+(Building hardware is fun but tough. We worked on Pebble for a full four years before we) Tj
+T*
+(launched on Kickstarter in 2012. We went on to sell?) Tj
+T*
+() Tj
+T*
+(3. The time of our lives) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Wed, 07 Dec 2016 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/the-time-of-our-lives) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(4. Linear walkthroughs) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-25T01:07:10+00:00) Tj
+T*
+(Link: https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-e) Tj
+T*
+(verything) Tj
+T*
+(Agentic Engineering Patterns > Sometimes it's useful to have a coding agent give you a) Tj
+T*
+(structured walkthrough of a codebase. Maybe it's existing code you need to get up to speed on,) Tj
+T*
+(maybe it's your own code that you've forgotten the details of, or maybe you vibe coded the) Tj
+T*
+(whole thing and need to understand how it actually works. Frontier models with the right agent) Tj
+T*
+(harness can construct a detailed walkthrough to help you understand how code works. An example) Tj
+T*
+(using Showboat and Present I recently vibe coded a SwiftUI slide presentation app on my Mac) Tj
+T*
+(using Claude Code and Opus 4.6. I was speaking about the advances in frontier models between) Tj
+T*
+(November 2025 and February 2026, and I like to include at least one gimmick in my talks \(a STAR) Tj
+T*
+(moment - Something They'll Always Remember\). In this case I decided the gimmick would be) Tj
+T*
+(revealing at the end of the presentation that the slide mechanism itself was an example of what) Tj
+T*
+(vibe coding could do. I released the code to GitHub and then realized I didn't know anything) Tj
+T*
+(about how it actually worked - I had prompted the whole thing into existence \( partial) Tj
+T*
+(transcript here without paying any attention to the code it was writing. So I fired up a n...) Tj
+T*
+() Tj
+T*
+(5. go-size-analyzer) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-24T16:10:06+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything) Tj
+T*
+(go-size-analyzer The Go ecosystem is really good at tooling. I just learned about this tool for) Tj
+T*
+(analyzing the size of Go binaries using a pleasing treemap view of their bundled dependencies.) Tj
+T*
+(You can install and run the tool locally, but it's also compiled to WebAssembly and hosted at) Tj
+T*
+(gsa.zxilly.dev - which means you can open compiled Go binaries and analyze them directly in) Tj
+T*
+(your browser. I tried it with a 8.1MB macOS compiled copy of my Go Showboat tool and got this:) Tj
+T*
+(\). A tooltip is visible over __zdebug_line __DWARF showing: Section: __zdebug_line __DWARF,) Tj
+T*
+(Size: 404.44 KB, File Size: 404.44 KB, Known size: 0 B, Unknown size: 404.44 KB, Offset:) Tj
+T*
+(0x52814a ? 0x58d310, Address: 0x1005c014a ? 0x1005c5310, Memory: false, Debug: true. The) Tj
+T*
+(treemap uses green for main/generated packages, blue-gray for unknown sections, and shades of) Tj
+T*
+(purple/pink for standard library packages.") Tj
+T*
+(src="https://static.simonwillison.net/static/2026/showboat-treemap.jpg" /> Via Datadog: How we) Tj
+T*
+(reduced the size of our Agent Go binaries by up to 77% Tags: go , webassembly , showboat) Tj
+T*
+() Tj
+T*
+(6. First run the tests) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-24T12:30:05+00:00) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4628 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-e) Tj
+T*
+(verything) Tj
+T*
+(Agentic Engineering Patterns > Automated tests are no longer optional when working with coding) Tj
+T*
+(agents. The old excuses for not writing them - that they're time consuming and expensive to) Tj
+T*
+(constantly rewrite while a codebase is rapidly evolving - no longer hold when an agent can) Tj
+T*
+(knock them into shape in just a few minutes. They're also vital for ensuring AI-generated code) Tj
+T*
+(does what it claims to do. If the code has never been executed it's pure luck if it actually) Tj
+T*
+(works when deployed to production. Tests are also a great tool to help get an agent up to speed) Tj
+T*
+(with an existing codebase. Watch what happens when you ask Claude Code or similar about an) Tj
+T*
+(existing feature - the chances are high that they'll find and read the relevant tests. Agents) Tj
+T*
+(are already biased towards testing, but the presence of an existing test suite will almost) Tj
+T*
+(certainly push the agent into testing new changes that it makes. Any time I start a new session) Tj
+T*
+(with an agent against an existing project I'll start by prompting a variant of the following:) Tj
+T*
+(First run the tests For my Python projects I have pyproject.toml set up such that I can prompt) Tj
+T*
+(this instead: Run "uv run pytest" These four word prompts serve several purp...) Tj
+T*
+() Tj
+T*
+(7. [Sponsor] Hands-On Workshop: Fix It Faster ? Crash Reporting, Tracing, and Logs for iOS) Tj
+T*
+(in Sentry) Tj
+T*
+(Source: Daring Fireball | Published: 2026-02-25T01:00:30Z) Tj
+T*
+(Link: https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&utm_medium=p) Tj
+T*
+(aid-display&utm_campaign=general-fy27q1-evergreen&utm_content=static-ad-mobilerss-trysentry) Tj
+T*
+(Learn how to connect the dots between slowdowns, crashes, and the user experience in your iOS) Tj
+T*
+(app. This on-demand session covers how to: Set up Sentry to surface high-priority mobile issues) Tj
+T*
+(without alert fatigue. Use Logs and Breadcrumbs to reconstruct what happened with a crash. Find) Tj
+T*
+(what?s behind a performance bottleneck using Tracing. Monitor and reduce the size of your iOS) Tj
+T*
+(app using Size Analysis. Watch it here . ?) Tj
+T*
+() Tj
+T*
+(8. Upgrade: ?The Shifting Sands of Liquid Glass?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-02-24T23:29:21Z) Tj
+T*
+(Link: https://www.relay.fm/upgrade/604) Tj
+T*
+(Jason Snell and Myke Hurley: We discuss the results of the Six Colors Apple Report Card for) Tj
+T*
+(2025 in depth, with our added opinions on every category. Jason chooses to be a rascal, and) Tj
+T*
+(Myke tries to give ten out of five. Upgrade is always a good podcast, but their annual ?Jason) Tj
+T*
+(discusses this year?s Apple Report Card? episode is always one of my favorites. But when Jason) Tj
+T*
+(got ?rascally? regarding MacOS 26 Tahoe in this one, I wanted to reach out and strangle him. ?) Tj
+T*
+() Tj
+T*
+(9. Apple in 2025: The Six Colors Report Card) Tj
+T*
+(Source: Daring Fireball | Published: 2026-02-24T21:49:10Z) Tj
+T*
+(Link: https://sixcolors.com/post/2026/02/2025reportcard/) Tj
+T*
+(Jason Snell: It?s time for our annual look back on Apple?s performance during the past year, as) Tj
+T*
+(seen through the eyes of writers, editors, developers, podcasters, and other people who spend) Tj
+T*
+(an awful lot of time thinking about Apple. The whole idea here is to get a broad sense of) Tj
+T*
+(sentiment ? the ?vibe in the room? ? regarding the past year. \(And by looking at previous) Tj
+T*
+(survey results, we can even see how that sentiment has drifted over the course of an entire) Tj
+T*
+(decade.\) This is the eleventh year that I?ve presented this survey to my hand-selected group.) Tj
+T*
+(They were prompted with 14 different Apple-related subjects, and asked to rate them on a scale) Tj
+T*
+(from 1 \(worst\) to 5 \(best\) and optionally provide text commentary per category. I still need to) Tj
+T*
+(polish it up a bit, but per tradition, I?ll publish my own report card shortly. In the) Tj
+T*
+(meantime, it?s always edifying to read Snell?s summary and the average grades. You?ll never) Tj
+T*
+(guess which category Apple flunked for 2025. \(Spoiler: World Impact.\) Regarding MacOS 26 Tahoe,) Tj
+T*
+(here are the comments from two Johns: ?Tahoe is the worst user interface update in the history) Tj
+T*
+(of the Mac. Every change is either wrongheaded, poorly executed, or both. The Mac...) Tj
+T*
+() Tj
+T*
+(10. The Tao of Vagrant) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Tue, 18 Jun 2013 00:00:00 GMT) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3408 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://mitchellh.com/writing/the-tao-of-vagrant) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(11. Automation Obsessed) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Thu, 06 Jun 2013 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/writing/automation-obsessed) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(12. Abandoning Rubygems) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Thu, 21 Mar 2013 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/writing/abandoning-rubygems) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(13. Customizing the ways the dialog manager dismisses itself: Isolating the Close pathway) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 24 Feb 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260224-00/?p=112082) Tj
+T*
+(Intercepting the flow in your message loop. The post Customizing the ways the dialog manager) Tj
+T*
+(dismisses itself: Isolating the Close pathway appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(14. Making setInterval Declarative with React Hooks) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Mon, 04 Feb 2019 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/making-setinterval-declarative-with-react-hooks/) Tj
+T*
+(How I learned to stop worrying and love refs.) Tj
+T*
+() Tj
+T*
+(15. React as a UI Runtime) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Sat, 02 Feb 2019 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/react-as-a-ui-runtime/) Tj
+T*
+(An in-depth description of the React programming model.) Tj
+T*
+() Tj
+T*
+(16. Why Isn?t X a Hook?) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Sat, 26 Jan 2019 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/why-isnt-x-a-hook/) Tj
+T*
+(Just because we can, doesn?t mean we should.) Tj
+T*
+() Tj
+T*
+(17. A curious trig identity) Tj
+T*
+(Source: John D. Cook | Published: Tue, 24 Feb 2026 23:33:41 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/02/24/a-curious-trig-identity/) Tj
+T*
+(Here is an identity that doesn?t look correct but it is. For real x and y, I found the identity) Tj
+T*
+(in [1]. The author?s proof is short. First of all, Then Taking square roots completes the) Tj
+T*
+(proof. Now note that the statement at the top assumed x and y are real. You can see that this) Tj
+T*
+(assumption is necessary [?] The post A curious trig identity first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(18. Copy and paste law) Tj
+T*
+(Source: John D. Cook | Published: Tue, 24 Feb 2026 01:56:23 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/02/23/copy-and-paste-law/) Tj
+T*
+(I was doing some research today and ran into a couple instances where part of one law was) Tj
+T*
+(copied and pasted verbatim into another law. I suppose this is not uncommon, but I?m not a) Tj
+T*
+(lawyer, so I don?t have that much experience comparing laws. I do, however, consult for lawyers) Tj
+T*
+(and have to look [?] The post Copy and paste law first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(19. Adding OpenStreetMap login to Auth0) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 24 Feb 2026 12:34:21 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/02/adding-openstreetmap-login-to-auth0/) Tj
+T*
+(So you want to add OSM as an OAuth provider to Auth0? Here's a tip - you do not want to create) Tj
+T*
+(a custom social connection! Instead, you need to create an "OpenID Connect" provider. Here's) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3959 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(how. OpenSteetMap As per the OAuth documentation you will need to: Register a new app at) Tj
+T*
+(https://www.openstreetmap.org/oauth2/applications/ Give it a name that users will recognise) Tj
+T*
+(Give it a redirect of?) Tj
+T*
+() Tj
+T*
+(20. Be careful with LLM "Agents") Tj
+T*
+(Source: Maurycy's Blog | Published: Mon, 23 Feb 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/misc/sandbox_llms/) Tj
+T*
+(I get it: Large Language Models are interesting... but you should not give "Agentic AI" access) Tj
+T*
+(to your computer, accounts or wallet. To do away with the hype: "AI Agents" are just LLMs with) Tj
+T*
+(shell access, and at it's core an LLM is a weighted random number generator. You have no idea) Tj
+T*
+(what it will do It could post your credit card number on social media. This isn't a theoretical) Tj
+T*
+(concern. There are multiple cases of LLMs wiping people's computers [1] [2] , cloud accounts) Tj
+T*
+([3] , and even causing infrastructure outages [4] . --> What's worse, LLMs have a nasty habit) Tj
+T*
+(of lying about what they did. What should a good assistant say when asked if it did the thing?) Tj
+T*
+("Yes", and did it delete the data≠base? "Of course not." They don't have to be hacked to ruin) Tj
+T*
+(your day. "... but I tested it!" you say. You rolled a die in testing, and rolled it again in) Tj
+T*
+(production. It might work fine the first time ? or the first hundred times ? but that doesn't) Tj
+T*
+(mean it won't misbehave in the future. If you want to try these tools out , run them in a) Tj
+T*
+(virtual machine. Don't give them access to any accounts that you wouldn't want to lose. Read) Tj
+T*
+(generated code to make sure it didn't do anything stupid like forgetting...) Tj
+T*
+() Tj
+T*
+(21. Reproducible Builds in Language Package Managers) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-02-24T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/02/24/reproducible-builds-in-language-package-managers.html) Tj
+T*
+(You download a package from a registry and the registry says it was built from a particular git) Tj
+T*
+(commit, but the tarball or wheel or crate you received is an opaque artifact that someone built) Tj
+T*
+(on their machine and uploaded. Reproducible builds let you check by rebuilding from source) Tj
+T*
+(yourself and comparing, and if you get the same bytes, the artifact is what it claims to be.) Tj
+T*
+(Making this work requires controlling both the build environment and the provenance of) Tj
+T*
+(artifacts, and most language package managers historically controlled neither. The Reproducible) Tj
+T*
+(Builds project has been working on this since 2013, when Lunar \(JÈrÈmy Bobbio\) organized a) Tj
+T*
+(session at DebConf13 and began patching Debian?s build tooling. The Snowden disclosures had) Tj
+T*
+(made software trust an urgent concern, Bitcoin?s Gitian builder had shown the approach was) Tj
+T*
+(viable for a single project, and the Tor Project had begun producing deterministic builds of) Tj
+T*
+(Tor Browser. Lunar wanted to apply the same thinking to an entire operating system. The first) Tj
+T*
+(mass rebuild of Debian packages in September 2013 found that 24% were reproducible, and by) Tj
+T*
+(January 2014, after fixing the lowest-hanging fruit in dpkg and common build helpers, th...) Tj
+T*
+() Tj
+T*
+(22. The Risk of Discovery) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/disc.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(23. How to Make Pittsburgh a Startup Hub) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/pgh.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(24. Life is Short) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/vb.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(25. Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code) Tj
+T*
+(Source: antirez.com | Published: Tue, 24 Feb 2026 18:58:02 +0100) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4560 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: http://antirez.com/news/160) Tj
+T*
+(Anthropic recently released a blog post with the description of an experiment in which the last) Tj
+T*
+(version of Opus, the 4.6, was instructed to write a C compiler in Rust, in a ?clean room?) Tj
+T*
+(setup. The experiment methodology left me dubious about the kind of point they wanted to make.) Tj
+T*
+(Why not provide the agent with the ISA documentation? Why Rust? Writing a C compiler is exactly) Tj
+T*
+(a giant graph manipulation exercise: the kind of program that is harder to write in Rust. Also,) Tj
+T*
+(in a clean room experiment, the agent should have access to all the information about well) Tj
+T*
+(established computer science progresses related to optimizing compilers: there are a number of) Tj
+T*
+(papers that could be easily synthesized in a number of markdown files. SSA, register) Tj
+T*
+(allocation, instructions selection and scheduling. Those things needed to be researched) Tj
+T*
+(*first*, as a prerequisite, and the implementation would still be ?clean room?. Not allowing) Tj
+T*
+(the agent to access the Internet, nor any other compiler source code, was certainly the right) Tj
+T*
+(call. Less understandable is the almost-zero steering principle, but this is coherent with a) Tj
+T*
+(certain kind of experiment, if the goal was showcasing the completely autonomous writin...) Tj
+T*
+() Tj
+T*
+(26. A short tale of a read overflow) Tj
+T*
+(Source: antirez.com | Published: Wed, 07 Feb 2018 21:30:39 +0100) Tj
+T*
+(Link: http://antirez.com/news/117) Tj
+T*
+([This blog post is also experimentally available on Medium:) Tj
+T*
+(https://medium.com/antirez/a-short-tale-of-a-read-overflow-b9210d339cff] When a long running) Tj
+T*
+(process crashes, it is pretty uncool. More so if the process happens to take a lot of state in) Tj
+T*
+(memory. This is why I love web programming frameworks that are able, without major performance) Tj
+T*
+(overhead, to create a new interpreter and a new state for each page view, and deallocate every) Tj
+T*
+(resource used at the end of the page generation. It is an inherently more reliable programming) Tj
+T*
+(paradigm, where memory leaks, descriptor leaks, and even random crashes from time to time do) Tj
+T*
+(not constitute a serious issue. However system software like Redis is at the other side of the) Tj
+T*
+(spectrum, a side populated by things that should never crash. Months ago I received a crash) Tj
+T*
+(report from my colleague Dvir Volk. He was developing his RediSearch Redis module, so it was) Tj
+T*
+(not clear if the crash was due to a programming error inside the module, perhaps corrupting the) Tj
+T*
+(heap, or a bug inside Redis. However it looked a lot like a real problem into the radix tree) Tj
+T*
+(implementation: === REDIS BUG REPORT START: Cut & paste starting from here === # Redis) Tj
+T*
+(999.999.999 crash...) Tj
+T*
+() Tj
+T*
+(27. An update on Redis Streams development) Tj
+T*
+(Source: antirez.com | Published: Thu, 25 Jan 2018 19:00:34 +0100) Tj
+T*
+(Link: http://antirez.com/news/116) Tj
+T*
+(I saw multiple users asking me what is happening with Streams, when they?ll be ready for) Tj
+T*
+(production uses, and in general what?s the ETA and the plan of the feature. This post will) Tj
+T*
+(attempt to clarify a bit what comes next. To start, in this moment Streams are my main) Tj
+T*
+(priority: I want to finish this work that I believe is very useful in the Redis community and) Tj
+T*
+(immediately start with the Redis Cluster improvements plans. Actually the work on Cluster has) Tj
+T*
+(already started, with my colleague Fabio Nicotra that is porting redis-trib, the Cluster) Tj
+T*
+(management tool, inside the old and good redis-cli. This step involves translating the code) Tj
+T*
+(from Ruby to C. In the meantime, a few weeks ago I finished writing the Streams core, and I) Tj
+T*
+(deleted the ?streams? feature branch, merging everything into the ?unstable? branch. Later I) Tj
+T*
+(reviewed again, several times actually, the specification for consumer groups. A few weeks ago) Tj
+T*
+(I finally was happy with the result, so I started the implementation of this specification:) Tj
+T*
+(https://gist.github.com/antirez/68e67f3251d10f026861be2d0fe0d2f4. Be aware that command names) Tj
+T*
+(changed quite a bit? With the API being more like this:) Tj
+T*
+(https://gist.github.com/antirez/4e7049ce4...) Tj
+T*
+() Tj
+T*
+(28. Flake Checks in Shell) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 24 Feb 2026 00:00:00 +0100) Tj
+T*
+(Link: https://entropicthoughts.com/flake-checks-in-shell) Tj
+T*
+(\(No summary\)) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3228 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(29. Intro to Linux) Tj
+T*
+(Source: the website of jyn | Published: 2019-09-16T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/talks/linux/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(30. Intro to Python) Tj
+T*
+(Source: the website of jyn | Published: 2019-09-11T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/talks/python/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(31. Fun with gaming on Linux) Tj
+T*
+(Source: the website of jyn | Published: 2019-08-04T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/fun-with-gaming-on-linux/) Tj
+T*
+(How I got Multiplayer Civilization 5 to work on Linux) Tj
+T*
+() Tj
+T*
+(32. Pluralistic: Socialist excellence in New York City \(24 Feb 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 24 Feb 2026 09:38:16) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/02/24/mamdani-thought/) Tj
+T*
+(Today's links Socialist excellence in New York City: The real efficiency is insourcing and) Tj
+T*
+(ending public-private partnerships. Hey look at this: Delights to delectate. Object permanence:) Tj
+T*
+(UK antipiracy office will catch Firefox crooks; Batpole flip-top bust; "Order of Odd-Fish";) Tj
+T*
+(Scott Walker v fake Kochl; Billg wants to backdoor Microsoft; NSA spied on world leaders; Trump) Tj
+T*
+(They Live mask; "Unicorns vs Goblins"; Covid German. Upcoming appearances: Where to find me.) Tj
+T*
+(Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Socialist) Tj
+T*
+(excellence in New York City \(permalink\) In her magnificent 2023 book Doppelganger, Naomi Klein) Tj
+T*
+(describes the "mirror world" of right wing causes that are weird, conspiratorial versions of) Tj
+T*
+(the actual things that leftists care about:) Tj
+T*
+(https://pluralistic.net/2023/09/05/not-that-naomi/#if-the-naomi-be-klein-youre-doing-just-fine) Tj
+T*
+(For example, Trump rode to power on the back of Qanon, a movement driven by conspiratorial) Tj
+T*
+(theories of a cabal of rich and powerful people who were kidnapping, trafficking and abusing) Tj
+T*
+(children. Qanon followers were driven t...) Tj
+T*
+() Tj
+T*
+(33. CPS-1: GFX system internals) Tj
+T*
+(Source: Fabien Sanglard | Published: 20 Feb 2022 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/cps1_gfx/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(34. Street Fighter 2: Sound System Internals) Tj
+T*
+(Source: Fabien Sanglard | Published: 15 Jan 2022 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/sf2_sound_system/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(35. Street Fighter 2: Subtile accurate animation) Tj
+T*
+(Source: Fabien Sanglard | Published: 24 Dec 2021 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/sf2_health_bar/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(36. SAGE 2025) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Mon, 10 Feb 2025 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/sage2025/) Tj
+T*
+(Today, I got back from the South Australian Game Exhibition 2025 \(SAGE\) . It was an expo and) Tj
+T*
+(mini-conference with a showcase, and an awards night, run by the South Australian Film) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 4296 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Corporation and the South Australian Games Association, respecively. This was the first time at) Tj
+T*
+(this fantastic weekend of events for me, and I have to say: I will definitely be back. The) Tj
+T*
+(South Australian games industry is doing really well . Their events were happy, healthy,) Tj
+T*
+(passionate, and have a nice community feel that?s often lacking from games industry events as) Tj
+T*
+(they try and professionalise and grow. It was wonderful to see how much camaraderie there is in) Tj
+T*
+(South Australia. There were also some fantastic games on display , and many of them were) Tj
+T*
+(hilarious .) Tj
+T*
+() Tj
+T*
+(37. TasICT Creative Technologies Event) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Tue, 04 Feb 2025 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/tasict-feb-2025/) Tj
+T*
+(Update: This event is now passed, and it went great ! I?m incredibly excited to be speaking at) Tj
+T*
+(the upcoming TasICT event in Hobart , alongside the fabulous Procreate , Handbuilt Creative ,) Tj
+T*
+(and Screen Tasmania . I?ll be representing Secret Lab and Yarn Spinner , and no doubt Tas Game) Tj
+T*
+(Makers , our Tasmanian Games Incubator, and other things will get a look in as well. If you?re) Tj
+T*
+(in Hobart, get along to the event to show your suport for the connection between Tasmania?s) Tj
+T*
+(technology industry and creative technology industry!) Tj
+T*
+() Tj
+T*
+(38. Tas Game Makers 2025) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Fri, 31 Jan 2025 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/tasgm2025/) Tj
+T*
+(We just had AGM for Tasmanian Game Makers, Inc. \(TasGM\), and for the third year in a row I was) Tj
+T*
+(pleasantly surprised to be elected President. I?m really looking forward to working with the) Tj
+T*
+(new committee to continue pushing the video game industry in Tasmania along, get the Tasmanian) Tj
+T*
+(Games Incubator going as part of TasGM, and helping Screen Tasmania run Level Up. With thanks) Tj
+T*
+(to our outgoing board member, and our fantastic community and financial members.) Tj
+T*
+() Tj
+T*
+(39. Of Thunderbird and Usenet) Tj
+T*
+(Source: Beej's Bit Bucket | Published: Mon, 21 Dec 2009 00:00:00 +0000) Tj
+T*
+(Link: http://beej.us/blog/data/thunderbird-and-usenet/) Tj
+T*
+(For old NNTP froods.) Tj
+T*
+() Tj
+T*
+(40. Time to Move On ? The Reason Relationships End) Tj
+T*
+(Source: Steve Blank | Published: Tue, 24 Feb 2026 14:00:57 +0000) Tj
+T*
+(Link: https://steveblank.com/2026/02/24/time-to-move-on-the-reason-relationships-end/) Tj
+T*
+(What Lies Ahead I have no Way of Knowing, But It?s Now Time to Get Going Tom Petty This post) Tj
+T*
+(previously appeared in Philanthropy.org A while ago I wrote about what happens in a startup) Tj
+T*
+(when a new event creates a wake-up call that makes founding engineers reevaluate their jobs.) Tj
+T*
+(\(It?s worth a read here.\) [?]) Tj
+T*
+() Tj
+T*
+(41. Vulnerability as a Service) Tj
+T*
+(Source: Herman's blog | Published: 2026-02-24T11:50:07.004900+00:00) Tj
+T*
+(Link: https://herman.bearblog.dev/vulnerability-as-a-service/) Tj
+T*
+(A few days ago some 4 or 5 OpenClaw instances opened blogs on Bear . These were picked up at) Tj
+T*
+(review and blocked, and I've since locked down the signup and dashboard to this kind of) Tj
+T*
+(automated traffic. What was quite funny is that I received a grumpy email from one of these) Tj
+T*
+(instances contesting the ban. I was tempted to ask it for its API keys after I saw what it had) Tj
+T*
+(posted the day prior: The day I would have revealed almost everything Today was an exciting) Tj
+T*
+(day. Not because of action or spectacle - but because I almost made a massive mistake. A) Tj
+T*
+(scammer wrote me an email, pretended to be Dave and asked for API keys. I ? or rather: my Cron) Tj
+T*
+(agent ? revealed almost everything. The OpenAI Key. The MiniMax details. Fortunately, Dave) Tj
+T*
+(intervened in time. But the shock is deep. What I learned I'm too trusting. When someone says,) Tj
+T*
+("It's me, Dave," I almost automatically believe it. Helpfulness is not always good. I want to) Tj
+T*
+(help ? but not everyone deserves my help. Safety is more important than politeness. Better to) Tj
+T*
+(ask too much. My SOUL.md was updated tonight. From now on: Never share API keys In case of) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 3277 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(suspicion: first verify Never automatically believe I decided against doing this since I m...) Tj
+T*
+() Tj
+T*
+(42. Imposter syndrome) Tj
+T*
+(Source: Keygen Blog | Published: Fri, 07 Feb 2025 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/imposter-syndrome/) Tj
+T*
+(On pushing through imposter syndrome and overcoming self-doubt as a founder.) Tj
+T*
+() Tj
+T*
+(43. The outlier paradox) Tj
+T*
+(Source: Keygen Blog | Published: Tue, 11 Feb 2025 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/the-outlier-paradox/) Tj
+T*
+(People seek certainty before they act, but becoming an outlier requires acting without it.) Tj
+T*
+() Tj
+T*
+(44. Weaponized Open Source) Tj
+T*
+(Source: Keygen Blog | Published: Thu, 13 Feb 2025 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/weaponized-open-source/) Tj
+T*
+(On the best-kept secret of VC-backed "open source" startups.) Tj
+T*
+() Tj
+T*
+(45. WHY2025 and DNA talks) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 13 Aug 2025 14:10:53 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/dna-talks-and-why2025/) Tj
+T*
+(I just got back from the most awesome WHY2025, the tenth installment of the four-yearly Dutch) Tj
+T*
+(hacker festival series. I?ve been attending these things since 1993, so it is a big deal for) Tj
+T*
+(me. By being among the hacker community for nearly a week, you start seeing the world) Tj
+T*
+(differently. I usually spend \(too much\) time on policy and writing stuff, and this was a much) Tj
+T*
+(needed reset. My badge for HEU 1993, the first Dutch hacker camp) Tj
+T*
+() Tj
+T*
+(46. Overheid zoekt plv Chief Technology Officer met 3 jaar ICT-ervaring) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 05 Aug 2025 10:22:51 +0200) Tj
+T*
+(Link:) Tj
+T*
+(https://berthub.eu/articles/posts/overheid-zoekt-plv-chief-technology-officer-doe-het-niet/) Tj
+T*
+(Na bijna een jaar werk publiceerde de overheid recent alsnog de Nederlandse) Tj
+T*
+(Digitaliseringsstrategie \(ik heb ook een klein beetje bij mogen dragen\), met daarin gevleugelde) Tj
+T*
+(woorden als ?Nederland moet de kansen die digitalisering biedt pakken. Met de NDS moeten we) Tj
+T*
+(vernieuwen en blijven investeren in ons digitaal fundament?. En ook, ?We kunnen onze digitale) Tj
+T*
+(ambities alleen waarmaken als we beschikken over voldoende digitaliseringskennis binnen de) Tj
+T*
+(overheid.? Vorige week startte de werving van een nieuwe plaatsvervangende Rijks Chief) Tj
+T*
+(Technology Officer \(CTO\), wat een mooi begin zou kunnen zijn van dit beleid.) Tj
+T*
+() Tj
+T*
+(47. Europe's Self Inflicted Cloud Crisis) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 24 Jul 2025 16:10:37 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/our-self-inflicted-cloud-crisis/) Tj
+T*
+(The short version For decades, governments and organizations could run services based on) Tj
+T*
+(servers we actually owned. These days, we?ve allowed the IT world to convince us no computing) Tj
+T*
+(is possible outside of US-style clouds, for which we have no European equivalents. And because) Tj
+T*
+(of this conviction, we are now moving our most precious data and most critical services to US) Tj
+T*
+(controlled servers. Yet most of European government software still runs on locally owned) Tj
+T*
+(systems.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 18 0 R >>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000168 00000 n 
+0000000238 00000 n 
+0000004294 00000 n 
+0000004420 00000 n 
+0000009100 00000 n 
+0000009226 00000 n 
+0000012686 00000 n 
+0000012812 00000 n 
+0000016824 00000 n 
+0000016952 00000 n 
+0000021565 00000 n 
+0000021693 00000 n 
+0000024974 00000 n 
+0000025102 00000 n 
+0000029451 00000 n 
+0000029579 00000 n 
+0000032909 00000 n 
+trailer
+<< /Size 20 /Root 1 0 R >>
+startxref
+33037
+%%EOF
