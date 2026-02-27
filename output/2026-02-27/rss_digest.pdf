@@ -1,0 +1,956 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R] /Count 8 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4443 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-02-27 09:38:11) Tj
+T*
+() Tj
+T*
+(1. Hoard things you know how to do) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-26T20:33:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-t) Tj
+T*
+(o-do/#atom-everything) Tj
+T*
+(Agentic Engineering Patterns > Many of my tips for working productively with coding agents are) Tj
+T*
+(extensions of advice I've found useful in my career without them. Here's a great example of) Tj
+T*
+(that: hoard things you know how to do . A big part of the skill in building software is) Tj
+T*
+(understanding what's possible and what isn't, and having at least a rough idea of how those) Tj
+T*
+(things can be accomplished. These questions can be broad or quite obscure. Can a web page run) Tj
+T*
+(OCR operations in JavaScript alone? Can an iPhone app pair with a Bluetooth device even when) Tj
+T*
+(the app isn't running? Can we process a 100GB JSON file in Python without loading the entire) Tj
+T*
+(thing into memory first? The more answers to questions like this you have under your belt, the) Tj
+T*
+(more likely you'll be able to spot opportunities to deploy technology to solve problems in ways) Tj
+T*
+(other people may not have thought of yet. Knowing that something is theoretically possible is) Tj
+T*
+(not the same as having seen it done for yourself. A key asset to develop as a software) Tj
+T*
+(professional is a deep collection of answers to questions like this, ideally illustrated by) Tj
+T*
+(running code. I hoard solutions like this in a number of different ways. My blog and TIL...) Tj
+T*
+() Tj
+T*
+(2. Quoting Andrej Karpathy) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-26T19:03:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything) Tj
+T*
+(It is hard to communicate how much programming has changed due to AI in the last 2 months: not) Tj
+T*
+(gradually and over time in the "progress as usual" way, but specifically this last December.) Tj
+T*
+(There are a number of asterisks but imo coding agents basically didn?t work before December and) Tj
+T*
+(basically work since - the models have significantly higher quality, long-term coherence and) Tj
+T*
+(tenacity and they can power through large and long tasks, well past enough that it is extremely) Tj
+T*
+(disruptive to the default programming workflow. [...] ? Andrej Karpathy Tags: andrej-karpathy ,) Tj
+T*
+(coding-agents , ai-assisted-programming , generative-ai , agentic-engineering , ai , llms) Tj
+T*
+() Tj
+T*
+(3. Google API Keys Weren't Secrets. But then Gemini Changed the Rules.) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-26T04:28:55+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything) Tj
+T*
+(Google API Keys Weren't Secrets. But then Gemini Changed the Rules. Yikes! It turns out Gemini) Tj
+T*
+(and Google Maps \(and other services\) share the same API keys... but Google Maps API keys are) Tj
+T*
+(designed to be public, since they are embedded directly in web pages. Gemini API keys can be) Tj
+T*
+(used to access private files and make billable API requests, so they absolutely should not be) Tj
+T*
+(shared. If you don't understand this it's very easy to accidentally enable Gemini billing on a) Tj
+T*
+(previously public API key that exists in the wild already. What makes this a privilege) Tj
+T*
+(escalation rather than a misconfiguration is the sequence of events. A developer creates an API) Tj
+T*
+(key and embeds it in a website for Maps. \(At that point, the key is harmless.\) The Gemini API) Tj
+T*
+(gets enabled on the same project. \(Now that same key can access sensitive Gemini endpoints.\)) Tj
+T*
+(The developer is never warned that the keys' privileges changed underneath it. \(The key went) Tj
+T*
+(from public identifier to secret credential\). Truffle Security found 2,863 API keys in the) Tj
+T*
+(November 2025 Common Crawl that could access Gemini, verified by hitting the /models listing) Tj
+T*
+(endpoint. This included several keys belonging to Google themselves, one of which...) Tj
+T*
+() Tj
+T*
+(4. Kickstarter 1 Campaign Updates) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Wed, 20 Jun 2012 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/kickstarter-1-campaign-updates) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(5. Pebble Kickstarter Campaign Success!) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4242 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Fri, 18 May 2012 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/pebble-kickstarter-campaign-success) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(6. Introducing Pebble - Hackable E-Paper Watch for iPhone and Android) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Wed, 11 Apr 2012 00:00:00 GMT) Tj
+T*
+(Link:) Tj
+T*
+(https://ericmigi.com/blog/introducing-pebble-hackable-e-paper-watch-for-iphone-and-android) Tj
+T*
+(Our first Kickstarter launch! https://www.kickstarter.com/projects/getpebble/pebble-e-paper-wat) Tj
+T*
+(ch-for-iphone-and-android/posts Check out?) Tj
+T*
+() Tj
+T*
+(7. How to Securely Erase an old Hard Drive on macOS Tahoe) Tj
+T*
+(Source: Jeff Geerling | Published: Thu, 26 Feb 2026 14:30:00 -0600) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/) Tj
+T*
+(Apparently Apple thinks nobody with a modern Mac uses spinning rust \(hard drives with platters\)) Tj
+T*
+(anymore. I plugged in a hard drive from an old iMac into my Mac Studio using my Sabrent USB to) Tj
+T*
+(SATA Hard Drive enclosure, and opened up Disk Utility, clicked on the top-level disk in the) Tj
+T*
+(sidebar, and clicked 'Erase'. Lo and behold, there's no 'Security Options' button on there, as) Tj
+T*
+(there had been since?I believe?the very first version of Disk Utility in Mac OS X!) Tj
+T*
+() Tj
+T*
+(8. Apple Announces F1 Broadcast Details, and a Surprising Netflix Partnership) Tj
+T*
+(Source: Daring Fireball | Published: 2026-02-27T01:30:25Z) Tj
+T*
+(Link: https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-pa) Tj
+T*
+(rtnership/) Tj
+T*
+(Jason Snell, writing at Six Colors: Perhaps the most surprising announcement on Thursday was) Tj
+T*
+(that Apple and Netflix, which have had a rather stand-offish relationship when it comes to) Tj
+T*
+(video programming, have struck a deal to swap some Formula One-related content . Formula One?s) Tj
+T*
+(growing popularity in the United States is due, perhaps in large part, to the high-profile) Tj
+T*
+(success of the Netflix docuseries ?Drive to Survive.? The latest season of that series,) Tj
+T*
+(debuting Friday, will premiere simultaneously on both Netflix and Apple TV. Presumably, in) Tj
+T*
+(exchange for that non-exclusive, Apple will also non-exclusively allow Netflix to broadcast the) Tj
+T*
+(Canadian Grand Prix in May. \(Insert obligatory wish that Apple and Netflix would bury the) Tj
+T*
+(hatchet and enable Watch Now support in the TV app for Netflix content.\) What a crazy cool) Tj
+T*
+(partnership. ?) Tj
+T*
+() Tj
+T*
+(9. Energym) Tj
+T*
+(Source: Daring Fireball | Published: 2026-02-27T00:37:25Z) Tj
+T*
+(Link: https://www.aicandy.be/giorgio-1) Tj
+T*
+(?An interview from 2036 with Elon Musk, Jeff Bezos, and Sam Altman.? This is what AI video) Tj
+T*
+(generation was meant for. ?) Tj
+T*
+() Tj
+T*
+(10. Netflix Backs Out of Bid for Warner Bros., Paving Way for Paramount Takeover) Tj
+T*
+(Source: Daring Fireball | Published: 2026-02-27T00:17:31Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.) Tj
+T*
+(html?unlocked_article_code=1.PVA.3639.2yWKES49z8Os) Tj
+T*
+(The New York Times: Netflix said on Thursday that it had backed away from its deal to acquire) Tj
+T*
+(Warner Bros. Discovery, a stunning development that paves the way for the storied Hollywood) Tj
+T*
+(media giant to end up under the control of a rival bidder, the technology heir David Ellison.) Tj
+T*
+(Netflix said that it would not raise its offer to counter a higher bid made earlier this week) Tj
+T*
+(by Mr. Ellison?s company, Paramount Skydance, adding in a statement that ?the deal is no longer) Tj
+T*
+(financially attractive.? ?This transaction was always a ?nice to have? at the right price, not) Tj
+T*
+(a ?must have? at any price,? the Netflix co-chief executives, Ted Sarandos and Greg Peters,) Tj
+T*
+(said in a statement. Netflix?s stock is up 9 percent in after-hours trading. This is like when) Tj
+T*
+(you have a friend \(Netflix\) dating a good-looking-but-crazy person \(Warner Bros.\), and the) Tj
+T*
+(good-looking-but-crazy person does something to give your friend second thoughts. You tell your) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3949 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(friend to run away. ?) Tj
+T*
+() Tj
+T*
+(11. Intercepting messages inside Is≠Dialog≠Message, installing the message filter) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 26 Feb 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260226-00/?p=112090) Tj
+T*
+(Using an Is≠Dialog≠Message extension point. The post Intercepting messages inside) Tj
+T*
+(Is≠Dialog≠Message , installing the message filter appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(12. Things I Don?t Know as of 2018) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Fri, 28 Dec 2018 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/things-i-dont-know-as-of-2018/) Tj
+T*
+(We can admit our knowledge gaps without devaluing our expertise.) Tj
+T*
+() Tj
+T*
+(13. Preparing for a Tech Talk, Part 1: Motivation) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Wed, 26 Dec 2018 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/preparing-for-tech-talk-part-1-motivation/) Tj
+T*
+(Here?s my recipe for a good talk idea.) Tj
+T*
+() Tj
+T*
+(14. Why Do React Hooks Rely on Call Order?) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Thu, 13 Dec 2018 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/why-do-hooks-rely-on-call-order/) Tj
+T*
+(Lessons learned from mixins, render props, HOCs, and classes.) Tj
+T*
+() Tj
+T*
+(15. This time is different) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 26 Feb 2026 12:34:39 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/02/this-time-is-different/) Tj
+T*
+(3D TV, AMP, Augmented Reality, Beanie Babies, Blockchain, Cartoon Avatars, Curved TVs, Frogans,) Tj
+T*
+(Hoverboards, iBeacons, Jetpacks, Metaverse, NFTs, Physical Web, Quantum Computing, Quibi, Small) Tj
+T*
+(and Safe Nuclear Reactors, Smart Glasses, Stadia, WiMAX. The problem is, the same dudes \(and it) Tj
+T*
+(was nearly always dudes\) who were pumped for all of that bollocks now won't stop wanging on) Tj
+T*
+(about Artificial?) Tj
+T*
+() Tj
+T*
+(16. Git in Postgres) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-02-26T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/02/26/git-in-postgres.html) Tj
+T*
+(In December I wrote about package managers using git as a database , and how Cargo?s index,) Tj
+T*
+(Homebrew?s taps, Go?s module proxy, and CocoaPods? Specs repo all hit the same wall once their) Tj
+T*
+(access patterns outgrew what a git repo is designed for. homebrew-core has one Ruby file per) Tj
+T*
+(package formula, and every brew update used to clone or fetch the whole repository until it got) Tj
+T*
+(large enough that GitHub explicitly asked them to stop . Homebrew 4.0 switched to downloading a) Tj
+T*
+(JSON file over HTTP, because users wanted the current state of a package rather than its commit) Tj
+T*
+(history. But updating a formula still means opening a pull request against homebrew-core,) Tj
+T*
+(because git is where the collaboration tooling lives. Instead of using git as a database, what) Tj
+T*
+(if you used a database as a git? A git repository is a content-addressable object store where) Tj
+T*
+(objects go in indexed by the SHA1 of their content, plus a set of named references pointing at) Tj
+T*
+(specific objects by hash. The on-disk format \(loose objects as individual files, packfiles as) Tj
+T*
+(delta-compressed archives with a separate index, a ref store split between a directory of files) Tj
+T*
+(and a packed-refs flat file with a locking protocol that breaks on...) Tj
+T*
+() Tj
+T*
+(17. On NVIDIA and Analyslop) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Thu, 26 Feb 2026 16:22:58 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/on-nvidia-and-analyslop/) Tj
+T*
+(Editor's note: a previous version of this newsletter went out with Matt Hughes' name on it,) Tj
+T*
+(that's my editor who went over it for spelling errors and loaded it into the CMS. Sorry! Hey) Tj
+T*
+(all! I?m going to start hammering out free pieces) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3923 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(18. Pluralistic: If you build it \(and it works\), Trump will come \(and take it\) \(26 Feb) Tj
+T*
+(2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 26 Feb 2026 10:51:25) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/02/26/hanged-for-a-sheep/) Tj
+T*
+(Today's links If you build it \(and it works\), Trump will come \(and take it\): Trump wants Big) Tj
+T*
+(Tech to win, not to play fair. Hey look at this: Delights to delectate. Object permanence:) Tj
+T*
+(Harpercollins v libraries; Rothfuss x Firefly; Bookseller seethings; If magazine; HBR v) Tj
+T*
+(executive pay; Apple caves on encryption. Upcoming appearances: Where to find me. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. If you build it) Tj
+T*
+(\(and it works\), Trump will come \(and take it\) \(permalink\) Crises precipitate change: Trump's) Tj
+T*
+(incontinent belligerence spurred the world to long-overdue action on "digital sovereignty," as) Tj
+T*
+(people woke up to the stark realization that a handful of Trump-aligned giant tech firms could) Tj
+T*
+(shut down their governments, companies and households at the click of a mouse. This has been a) Tj
+T*
+(long, long time coming. Long before Trump, the Snowden revelations made it clear that the US) Tj
+T*
+(government had weaponized its position as the world's IT export powerhouse and the interchange) Tj
+T*
+(hub for the world's transoceanic fiber links, and was actively spying on everyone ? allies a...) Tj
+T*
+() Tj
+T*
+(19. Members Only: Your anonymity set has collapsed and you don't know it yet) Tj
+T*
+(Source: Westenberg. | Published: Thu, 26 Feb 2026 01:41:29 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/members-only-your-anonymity-set-has-collapsed-and-you-dont) Tj
+T*
+(-know-it-yet/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. The Last Gasps of the Rent Seeking Class) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-02-26T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seekin) Tj
+T*
+(g-class.html) Tj
+T*
+(Over the past fifty years, the U.S. economy built a giant rent-extraction layer on top of human) Tj
+T*
+(limitations: things take time, patience runs out, brand familiarity substitutes for diligence,) Tj
+T*
+(and most people are willing to accept a bad price to avoid more clicks. Trillions of dollars of) Tj
+T*
+(enterprise value depended on those constraints persisting. ? Citrini Research I?m glad I?m not) Tj
+T*
+(the only one saying it. 7 years ago, I saw a Google Duplex demo where an AI called a restaurant) Tj
+T*
+(to make a reservation for you. At first Google thought it was great, but then they realized) Tj
+T*
+(what the implications were. No restaurant would be able to take phone reservations any more.) Tj
+T*
+(?Make me a reservation at 10 restaurants and give me a list.? Google pulled down the video.) Tj
+T*
+(What happened since is what had to happen. Third party marketplaces sprung up for reservations,) Tj
+T*
+(and idk it?s been a while since I went to fancy dinner, but I imagine the restaurants have just) Tj
+T*
+(started charging. Or at least the first party reservation sites do. The best anyone can hope) Tj
+T*
+(for is a free market, with everything properly priced. But for decades, the American market has) Tj
+T*
+(not been free. It?s used purposefully added friction to exploit...) Tj
+T*
+() Tj
+T*
+(21. A Way to Detect Bias) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/bias.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(22. Write Like You Talk) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/talk.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(23. Default Alive or Default Dead?) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4621 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/aord.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(24. The mythical 10x programmer) Tj
+T*
+(Source: antirez.com | Published: Tue, 28 Feb 2017 12:08:42 +0100) Tj
+T*
+(Link: http://antirez.com/news/112) Tj
+T*
+(A 10x programmer is, in the mythology of programming, a programmer that can do ten times the) Tj
+T*
+(work of another normal programmer, where for normal programmer we can imagine one good at doing) Tj
+T*
+(its work, but without the magical abilities of the 10x programmer. Actually to better) Tj
+T*
+(characterize the ?normal programmer? it is better to say that it represents the one having the) Tj
+T*
+(average programming output, among the programmers that are professionals in this discipline.) Tj
+T*
+(The programming community is extremely polarized about the existence or not of such a beast:) Tj
+T*
+(who says there is no such a thing as the 10x programmer, who says it actually does not just) Tj
+T*
+(exist, but there are even 100x programmers if you know where to look for. If you see) Tj
+T*
+(programming as a ?linear? discipline, it is clear that the 10x programmer looks like an) Tj
+T*
+(irrational possibility. How can a runner run 10x faster than another one? Or a construction) Tj
+T*
+(worker build 10x the things another worker can build in the same time? However programming is a) Tj
+T*
+(design discipline, in a very special way. Even when a programmer does not participate in the) Tj
+T*
+(actual architectural design of a program, the act of implementing it still requires a) Tj
+T*
+(sub-design...) Tj
+T*
+() Tj
+T*
+(25. Redis on the Raspberry Pi: adventures in unaligned lands) Tj
+T*
+(Source: antirez.com | Published: Fri, 24 Feb 2017 10:52:30 +0100) Tj
+T*
+(Link: http://antirez.com/news/111) Tj
+T*
+(After 10 million of units sold, and practically an endless set of different applications and) Tj
+T*
+(auxiliary devices, like sensors and displays, I think it?s deserved to say that the Raspberry) Tj
+T*
+(Pi is not just a success, it also became one of the preferred platforms for programmers to) Tj
+T*
+(experiment in the embedded space. Probably with things like the Pi zero, it is also becoming) Tj
+T*
+(the platform in order to create hardware products, without incurring all the risks and costs of) Tj
+T*
+(designing, building, and writing software for vertical devices. Well, I love to think that also) Tj
+T*
+(Redis is a platform that programmers like to use when to hack, experiment, build new things.) Tj
+T*
+(Moreover devices that can be used for embedded / IoT applications, often have the problem of) Tj
+T*
+(temporarily or permanently storing data, for example received by sensors, on the device, to) Tj
+T*
+(perform on-device computations or to send them to remote servers. Redis is adding a ?Stream?) Tj
+T*
+(data type that is specifically suited for streams of data and time series storage, at this) Tj
+T*
+(point the specification is near complete and work to implement it will start in the next weeks.) Tj
+T*
+(Redis existing data structures, and the new streams, together with the small m...) Tj
+T*
+() Tj
+T*
+(26. The first release candidate of Redis 4.0 is out) Tj
+T*
+(Source: antirez.com | Published: Fri, 02 Dec 2016 18:25:58 +0100) Tj
+T*
+(Link: http://antirez.com/news/110) Tj
+T*
+(It?s not yet stable but it?s soon to become, and comes with a long list of things that will) Tj
+T*
+(make Redis more useful for we users: finally Redis 4.0 Release Candidate 1 is here, and is bold) Tj
+T*
+(enough to call itself 4.0 instead of 3.4. For me semantic versioning is not a thing, what I) Tj
+T*
+(like instead is try to communicate, using version numbers and jumps, what?s up with the new) Tj
+T*
+(version, and in this specific case 4.0 means ?this is the shit?. It?s just that Redis 4.0 has a) Tj
+T*
+(lot of things that Redis should have had since ages, in a different world where one developer) Tj
+T*
+(can, like Ken The Warrior, duplicate itself in ten copies and start to code. But it does not) Tj
+T*
+(matter how hard I try to learn about new vim shortcuts, still the duplicate-me thing is not in) Tj
+T*
+(my chords. But well, finally with 4.0 we got a lot of these stuff done? and here is the list of) Tj
+T*
+(the big ones, with a few details and pointers to learn more. 1. Modules As you probably already) Tj
+T*
+(know Redis 4.0 got a modules system, and one that allows to do pretty fancy stuff like) Tj
+T*
+(implementing new data types that are RDB/AOF persisted, create non blocking commands and so) Tj
+T*
+(forth. The deal here is that all this is done with an higher level abstract AP...) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3146 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(27. Rewriting Jython) Tj
+T*
+(Source: the website of jyn | Published: 2018-06-09T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/rewriting-jython/) Tj
+T*
+(I got bored one day and started rewriting Jython) Tj
+T*
+() Tj
+T*
+(28. Copying Generic Arrays in Java) Tj
+T*
+(Source: the website of jyn | Published: 2018-03-29T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/copying-generic-arrays-in-java/) Tj
+T*
+(The problem that's been bothering me for a week) Tj
+T*
+() Tj
+T*
+(29. Object Oriented Python) Tj
+T*
+(Source: the website of jyn | Published: 2018-03-03T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/object-oriented-python/) Tj
+T*
+(creating classes and objects in Python) Tj
+T*
+() Tj
+T*
+(30. Observing my cellphone switch towers) Tj
+T*
+(Source: Fabien Sanglard | Published: 15 May 2021 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/lte/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(31. Game Engine Black Book: DOOM, Korean Edition) Tj
+T*
+(Source: Fabien Sanglard | Published: 05 Apr 2021 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/gebbdk/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(32. The confusing world of USB) Tj
+T*
+(Source: Fabien Sanglard | Published: 10 Jan 2021 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/nousb/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(33. Notes on Linear Algebra for Polynomials) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-02-25T18:34:00-08:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/) Tj
+T*
+(We?ll be working with the set P_n\(\\mathbb{R}\) , real polynomials of degree \\leq n . Such) Tj
+T*
+(polynomials can be expressed using n+1 scalar coefficients a_i as follows: \\[p\(x\)=a_0+a_1 x +) Tj
+T*
+(a_2 x^2 + \\cdots + a_n x^n\\] Vector space The set P_n\(\\mathbb{R}\) , along with ?) Tj
+T*
+() Tj
+T*
+(34. West Coast Space Show Wrap-up) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Thu, 05 Sep 2024 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/wcss-wrapup/) Tj
+T*
+(The West Coast Space Show was a fantastic success! We had a great time presenting our) Tj
+T*
+(space-themed show and activities for kids and adults alike, all around Tasmania?s West and) Tj
+T*
+(Central Coast. We?re so grateful for the support we received from the Australian Government via) Tj
+T*
+(National Science Week . We ran the show all over the West Coast and Central Coast of Tasmania,) Tj
+T*
+(including amazing places like Strahan, Zeehan, Queenstown, and Ulverstone. In total, we spoke) Tj
+T*
+(to more than 255 people.) Tj
+T*
+() Tj
+T*
+(35. Weekly Links for August 29, 2024) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Thu, 29 Aug 2024 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/weekly-links/08292024/) Tj
+T*
+(Here are this week?s interesting links: Dishwashers are critical: At the heart of every) Tj
+T*
+(restaurant Hahahah, oh ho ho ho, hahahaha: Microsoft?s Copilot falsely accuses court reporter) Tj
+T*
+(of crimes he covered Astronomers back call for review of bonkers rule that means satellite) Tj
+T*
+(swarms fly without environment checks Enjoy!) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 3931 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(36. Weekly Links for August 15 and August 22, 2024) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Sat, 24 Aug 2024 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/weekly-links/08152024/) Tj
+T*
+(Here?s the latest links. I was travelling the last two weeks, so I missed a week, and this one) Tj
+T*
+(is late, but here we are: The staggering death toll of scientific lies Finally, yes please:) Tj
+T*
+(Artificial intelligence is losing hype From the ?absolute crap? department: Peloton announces) Tj
+T*
+($95 ?used equipment activation fee? Magic moment: Sydney aquarium filled with song after sea) Tj
+T*
+(birds mourn death of gay penguin Sphen You don?t know how bad most things are nor precisely how) Tj
+T*
+(they?re bad. Did you lose your AirPods? Person having ordinary skill in the art 200 meteorites) Tj
+T*
+(on Earth traced to 5 craters on Mars See you soon!) Tj
+T*
+() Tj
+T*
+(37. Using OpenCode in CI/CD for AI pull request reviews) Tj
+T*
+(Source: Martin Alderson | Published: Thu, 26 Feb 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/using-opencode-in-cicd-for-ai-pull-request-reviews/?utm_) Tj
+T*
+(source=rss) Tj
+T*
+(Why I replaced SaaS code review tools with OpenCode running in CI/CD pipelines - cheaper, more) Tj
+T*
+(secure, and works with any Git provider) Tj
+T*
+() Tj
+T*
+(38. Amerika runt binnenkort onze BTW) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 26 Feb 2026 14:44:09 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/btw-as-an-american-service/) Tj
+T*
+(Soms denk je, kan het nog gekker? We gaan het beheer van het platform waarop DigiD draait) Tj
+T*
+(overlaten aan een Amerikaans bedrijf. Dit was niet de bedoeling, maar het gebeurt nu toch. Maar) Tj
+T*
+(het blijkt dat het nog erger kan. DigiD is nog wel van ons, maar het beheer van de computers) Tj
+T*
+(wordt Amerikaans. Maar wat nou als je die stap overslaat, en alles door Amerikanen laat doen?) Tj
+T*
+(Dat is wat de belastingdienst nu van plan is met de BTW.) Tj
+T*
+() Tj
+T*
+(39. Nevenfuncties / secondary positions) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 26 Feb 2026 12:22:53 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/nevenfuncties/) Tj
+T*
+(\(English below\) Ik heb een aantal kleine formele nevenfuncties: Technisch adviseur bij de) Tj
+T*
+(Kiesraad Raad van Advies bij de Autoriteit online Terroristisch en Kinderpornografisch) Tj
+T*
+(Materiaal \(ATKM\) Adviseur bij Beta in Bestuur en Beleid Redactieraad Delta van de TU Delft) Tj
+T*
+(\(staat nog niet op de site\) English I hold a number of small formal secondary positions:) Tj
+T*
+(Technical advisor at the Dutch Electoral Board Member of the Board of Advice over at the Dutch) Tj
+T*
+(Authority Online Terrorist and CSAM material \(ATKM\) Advisor at Beta in Bestuur en Beleid Member) Tj
+T*
+(of the Advisory Board of Delta, the newspaper of Delft University of Technology) Tj
+T*
+() Tj
+T*
+(40. Possible End to End to End Encryption: Come Help) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 05 Jul 2025 13:30:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/possible-end-to-end-to-end-come-help/) Tj
+T*
+(tl;dr: The European Commission is honestly asking for experts to advise them on ways to) Tj
+T*
+(institute ?effective and lawful access to data for law enforcement?. If you are an expert, I) Tj
+T*
+(urge you to apply to join this group. You have until September 1st. Do read on for more) Tj
+T*
+(details! The never-ending battle where police and intelligence services demand more/total) Tj
+T*
+(access to communications shows no sign of stopping, even in the face of mathematical and) Tj
+T*
+(practical impossibilities.) Tj
+T*
+() Tj
+T*
+(41. Unicorn dreams) Tj
+T*
+(Source: Keygen Blog | Published: Wed, 07 May 2025 05:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/unicorn-dreams/) Tj
+T*
+(On daydreaming of unicorns and rocket ships.) Tj
+T*
+() Tj
+T*
+(42. In defense of linear) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 1962 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Keygen Blog | Published: Tue, 13 May 2025 05:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/in-defense-of-linear/) Tj
+T*
+(On nearly exiting the elevator and losing sight of everything.) Tj
+T*
+() Tj
+T*
+(43. Steering the ship) Tj
+T*
+(Source: Keygen Blog | Published: Fri, 16 May 2025 05:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/steering-the-ship/) Tj
+T*
+(On building for users, not obeying them.) Tj
+T*
+() Tj
+T*
+(44. Talking through the tech reckoning) Tj
+T*
+(Source: Anil Dash | Published: 2026-02-26T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/02/25/talking-through-the-tech-reckoning/) Tj
+T*
+(Many of the topics that we?ve all been discussing about technology these days seem to matter so) Tj
+T*
+(much more, and the stakes have never been higher. So, I?ve been trying to engage with more) Tj
+T*
+(conversations out in the world, in hopes of communicating some of the ideas that might not get) Tj
+T*
+(shared from more traditional voices in technology. These recent conversations have been pretty) Tj
+T*
+(well received, and I hope you?ll take a minute to give them a listen when you have a moment.) Tj
+T*
+(Galaxy Brain First, it was nice to sit down with Charlie Warzel, as he invited me to speak with) Tj
+T*
+(him on Galaxy Brain \(full transcript at that link\), his excellent podcast for The Atlantic. The) Tj
+T*
+(initial topic was some of the alarmist hype being raised around AI within the tech industry) Tj
+T*
+(right now, but we had a much more far-ranging conversation, and I was particularly glad that I) Tj
+T*
+(got to articulate my \(somewhat nuanced\) take on the rhetoric that many of the Big AI companies) Tj
+T*
+(push about their LLM products being ?inevitable?. In short, while I think it?s important to) Tj
+T*
+(fight their narrative that treats big commercial AI products as inevitable, I don?t think it) Tj
+T*
+(will be effective or successful to do so by trying to stop regular peo...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 18 0 R >>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000168 00000 n 
+0000000238 00000 n 
+0000004733 00000 n 
+0000004859 00000 n 
+0000009153 00000 n 
+0000009279 00000 n 
+0000013280 00000 n 
+0000013406 00000 n 
+0000017382 00000 n 
+0000017510 00000 n 
+0000022184 00000 n 
+0000022312 00000 n 
+0000025511 00000 n 
+0000025639 00000 n 
+0000029623 00000 n 
+0000029751 00000 n 
+0000031766 00000 n 
+trailer
+<< /Size 20 /Root 1 0 R >>
+startxref
+31894
+%%EOF
