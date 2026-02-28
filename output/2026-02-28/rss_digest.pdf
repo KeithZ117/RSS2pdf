@@ -1,0 +1,1044 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R] /Count 9 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4328 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-02-28 09:36:42) Tj
+T*
+() Tj
+T*
+(1. Upgrading my Open Source Pi Surveillance Server with Frigate) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 27 Feb 2026 09:00:00 -0600) Tj
+T*
+(Link:) Tj
+T*
+(https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/) Tj
+T*
+(In 2024 I built a Pi Frigate NVR with Axzez's Interceptor 1U Case , and installed it in my 19") Tj
+T*
+(rack. Using a Coral TPU for object detection, it's been dutifully surveilling my property?on my) Tj
+T*
+(terms \(100% local, no cloud integration or account required\). I've wanted to downsize the setup) Tj
+T*
+(while keeping cheap large hard drives 1 , and an AI accelerator.) Tj
+T*
+() Tj
+T*
+(2. Please, please, please stop using passkeys for encrypting user data) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-27T22:49:32+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/27/passkeys/#atom-everything) Tj
+T*
+(Please, please, please stop using passkeys for encrypting user data Because users lose their) Tj
+T*
+(passkeys all the time , and may not understand that their data has been irreversibly encrypted) Tj
+T*
+(using them and can no longer be recovered. Tim Cappalli: To the wider identity industry: please) Tj
+T*
+(stop promoting and using passkeys to encrypt user data. I?m begging you. Let them be great,) Tj
+T*
+(phishing-resistant authentication credentials . Via lobste.rs Tags: security , usability ,) Tj
+T*
+(passkeys) Tj
+T*
+() Tj
+T*
+(3. An AI agent coding skeptic tries AI agent coding, in excessive detail) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-27T20:43:41+00:00) Tj
+T*
+(Link:) Tj
+T*
+(https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything) Tj
+T*
+(An AI agent coding skeptic tries AI agent coding, in excessive detail Another in the genre of) Tj
+T*
+("OK, coding agents got good in November" posts, this one is by Max Woolf and is very much worth) Tj
+T*
+(your time. He describes a sequence of coding agent projects, each more ambitious than the last) Tj
+T*
+(- starting with simple YouTube metadata scrapers and eventually evolving to this: It would be) Tj
+T*
+(arrogant to port Python's scikit-learn ? the gold standard of data science and machine learning) Tj
+T*
+(libraries ? to Rust with all the features that implies. But that's unironically a good idea so) Tj
+T*
+(I decided to try and do it anyways. With the use of agents, I am now developing rustlearn) Tj
+T*
+(\(extreme placeholder name\), a Rust crate that implements not only the fast implementations of) Tj
+T*
+(the standard machine learning algorithms such as logistic regression and k-means clustering ,) Tj
+T*
+(but also includes the fast implementations of the algorithms above: the same three step) Tj
+T*
+(pipeline I describe above still works even with the more simple algorithms to beat) Tj
+T*
+(scikit-learn's implementations. Max also captures the frustration of trying to explain how good) Tj
+T*
+(the models have got to an existing skeptical audience: The real annoying thing about...) Tj
+T*
+() Tj
+T*
+(4. Free Claude Max for \(large project\) open source maintainers) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-27T18:08:22+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/27/claude-max-oss-six-months/#atom-everything) Tj
+T*
+(Free Claude Max for \(large project\) open source maintainers Anthropic are now offering their) Tj
+T*
+($200/month Claude Max 20x plan for free to open source maintainers... for six months... and you) Tj
+T*
+(have to meet the following criteria: Maintainers: You're a primary maintainer or core team) Tj
+T*
+(member of a public repo with 5,000+ GitHub stars or 1M+ monthly NPM downloads. You've made) Tj
+T*
+(commits, releases, or PR reviews within the last 3 months. Don't quite fit the criteria If you) Tj
+T*
+(maintain something the ecosystem quietly depends on, apply anyway and tell us about it. Also in) Tj
+T*
+(the small print: "Applications are reviewed on a rolling basis. We accept up to 10,000) Tj
+T*
+(contributors". Via Hacker News Tags: open-source , ai , generative-ai , llms , anthropic ,) Tj
+T*
+(claude) Tj
+T*
+() Tj
+T*
+(5. Final post on the inPulse blog) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Thu, 02 Feb 2012 00:00:00 GMT) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 3992 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://ericmigi.com/blog/final-post-on-the-inpulse-blog) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(6. Show HN: Version 1.1 of our $99 hackable Bluetooth smartwatch) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Tue, 29 Nov 2011 00:00:00 GMT) Tj
+T*
+(Link:) Tj
+T*
+(https://ericmigi.com/blog/show-hn-version-11-of-our-dollar99-hackable-bluetooth-smartwatch) Tj
+T*
+(Comment \(65 already\) on Hacker News) Tj
+T*
+() Tj
+T*
+(7. Candid experiences starting a hardware startup) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Tue, 04 Oct 2011 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/candid-experiences-starting-a-hardware-startup) Tj
+T*
+(2025 Note - I gave this talk at the Hacker Dojo in Mountain View about 6 months before we) Tj
+T*
+(launched Pebble on Kickstarter. I was 4 years?) Tj
+T*
+() Tj
+T*
+(8. West Virginia?s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free) Tj
+T*
+(Source: Daring Fireball | Published: 2026-02-27T19:28:44Z) Tj
+T*
+(Link: https://www.techdirt.com/2026/02/25/west-virginias-anti-apple-csam-lawsuit-would-help-chi) Tj
+T*
+(ld-predators-walk-free/) Tj
+T*
+(Mike Masnick, writing for Techdirt: Read that again. If West Virginia wins ? if an actual court) Tj
+T*
+(orders Apple to start scanning iCloud for CSAM ? then every image flagged by those mandated) Tj
+T*
+(scans becomes evidence obtained through a warrantless government search conducted without) Tj
+T*
+(probable cause . The Fourth Amendment?s exclusionary rule means defense attorneys get to walk) Tj
+T*
+(into court and demand that evidence be thrown out. And they?ll win that motion. It?s not even a) Tj
+T*
+(particularly hard case to make. ?) Tj
+T*
+() Tj
+T*
+(9. How to Block the ?Upgrade to Tahoe? Alerts and System Settings Indicator) Tj
+T*
+(Source: Daring Fireball | Published: 2026-02-27T18:45:16Z) Tj
+T*
+(Link: https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/) Tj
+T*
+(Rob Griffiths, writing at The Robservatory : So I have macOS Tahoe on my laptop, but I?m) Tj
+T*
+(keeping my desktop Mac on macOS Sequoia for now. Which means I have the joy of seeing things) Tj
+T*
+(like this wonderful notification on a regular basis. Or I did, until I found a way to block) Tj
+T*
+(them, at least in 90 day chunks. [...] The secret? Using device management profiles , which let) Tj
+T*
+(you enforce policies on Macs in your organization, even if that ?organization? is one Mac on) Tj
+T*
+(your desk. One of the available policies is the ability to block activities related to major) Tj
+T*
+(macOS updates for up to 90 days at a time \(the max the policy allows\), which seems like exactly) Tj
+T*
+(what I needed. I followed Griffiths?s instructions about a week or so ago, and I?ve been) Tj
+T*
+(enjoying a no-red-badge System Settings icon ever since. And the Tahoe upgrade doesn?t even) Tj
+T*
+(show up in General ? Software Update. With this profile installed, the confusing interface) Tj
+T*
+(presented after clicking the ??? button next to any available update cannot result in your) Tj
+T*
+(upgrading to 26 Tahoe accidentally. I waited to link to Griffiths?s post until I saw the) Tj
+T*
+(pending update from Sequoia 15.7.3 to 15.7.4, just to make sure that was still working. And) Tj
+T*
+(her...) Tj
+T*
+() Tj
+T*
+(10. ? A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26) Tj
+T*
+(Phone App) Tj
+T*
+(Source: Daring Fireball | Published: 2026-02-27T18:12:53Z) Tj
+T*
+(Link: https://daringfireball.net/2026/02/sometimes_hidden_setting_phone_app) Tj
+T*
+(Apple?s solution to this dilemma ? to show the ?Tap Recents to Call? in Settings if, and only) Tj
+T*
+(if, Unified is the current view option in the Phone app ? is lazy. And as a result, it?s quite) Tj
+T*
+(confusing.) Tj
+T*
+() Tj
+T*
+(11. We Need Process, But Process Gets in the Way) Tj
+T*
+(Source: iDiallo.com | Published: Fri, 27 Feb 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/when-process-get-in-the-way?src=feed) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4180 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(How do you manage a company with 50,000 employees? You need processes that give you visibility) Tj
+T*
+(and control across every function such as technology, logistics, operations, and more. But the) Tj
+T*
+(moment you try to create a single process to govern everyone, it stops working for anyone. One) Tj
+T*
+(system can't cater to every team, every workflow, every context. When implemented you start) Tj
+T*
+(seeing in-fighting, projects missing deadlines, people quitting. Compromises get made, and in) Tj
+T*
+(my experience, it almost always becomes overwhelming. The first time I was part of a merger, I) Tj
+T*
+(was naÔve about how it would go. The narrative we were sold was reassuring. The larger company) Tj
+T*
+(was acquiring us because we were successful. The last thing they'd want to do was get in the) Tj
+T*
+(way of that success. But that's not how it went. It doesn't matter what made you successful) Tj
+T*
+(before you join a larger organization. The principles and processes of the acquiring company) Tj
+T*
+(are what will dominate. Your past success is acknowledged, maybe even celebrated, but it) Tj
+T*
+(doesn't protect you from assimilation. One of the first things we had to adopt was Scrum. It) Tj
+T*
+(may be standard practice now, but at the time it was still making its way thro...) Tj
+T*
+() Tj
+T*
+(12. Intercepting messages inside Is≠Dialog≠Message, fine-tuning the message filter) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 27 Feb 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094) Tj
+T*
+(Making sure it triggers when you need it, and not when you don't. The post Intercepting) Tj
+T*
+(messages inside Is≠Dialog≠Message , fine-tuning the message filter appeared first on The Old) Tj
+T*
+(New Thing .) Tj
+T*
+() Tj
+T*
+(13. Optimized for Change) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Wed, 12 Dec 2018 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/optimized-for-change/) Tj
+T*
+(What makes a great API?) Tj
+T*
+() Tj
+T*
+(14. How Does setState Know What to Do?) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Sun, 09 Dec 2018 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/how-does-setstate-know-what-to-do/) Tj
+T*
+(Dependency injection is nice if you don?t have to think about it.) Tj
+T*
+() Tj
+T*
+(15. My Wishlist for Hot Reloading) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Sat, 08 Dec 2018 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/my-wishlist-for-hot-reloading/) Tj
+T*
+(I don't want a lot for Christmas. There is just one thing I need.) Tj
+T*
+() Tj
+T*
+(16. Introducing gzpeek, a tool to parse gzip metadata) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Thu, 26 Feb 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/introducing-gzpeek/) Tj
+T*
+(In short: gzip streams contain metadata, like the operating system that did the compression. I) Tj
+T*
+(built a tool to read this metadata. I love reading specifications for file formats. They always) Tj
+T*
+(have little surprises. I had assumed that the gzip format was strictly used for compression. My) Tj
+T*
+(guess was: a few bytes of bookkeeping, the compressed data, and maybe a checksum. But then I) Tj
+T*
+(read the spec . The gzip header holds more than I expected! What?s in gzip metadata? In) Tj
+T*
+(addition to two bytes identifying the data as gzip, there?s also: The operating system that did) Tj
+T*
+(the compression. This was super surprising to me! There?s a single byte that identifies the) Tj
+T*
+(compressor?s OS: 0 for Windows, 1 for the Amiga, 3 for Unix, and many others I?d never heard) Tj
+T*
+(of. Compressors can also set 255 for an ?unknown? OS. Different tools set this value) Tj
+T*
+(differently. zlib, the most popular gzip library, changes the flag based on the operating) Tj
+T*
+(system . \(It even defines some OSes that aren?t in the spec, like 18 for BeOS.\) Many other) Tj
+T*
+(libraries build atop zlib and inherit this behavior, such as .NET?s GZipStream , Ruby?s) Tj
+T*
+(GzipWriter , and PHP?s gzencode . Java?s GZIPOutputStream , JavaScript?s CompressionStream ,) Tj
+T*
+(and...) Tj
+T*
+() Tj
+T*
+(17. xkcd 2347) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4571 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Andrew Nesbitt | Published: 2026-02-27T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/02/27/xkcd-2347.html) Tj
+T*
+(I made an interactive version of xkcd 2347 , the dependency comic, where you can drag blocks) Tj
+T*
+(out of the tower and watch everything above them collapse. Matter.js handles the physics and) Tj
+T*
+(Rough.js gives it the hand-drawn xkcd look. Each reload generates a different tower from a) Tj
+T*
+(seeded PRNG that picks a taper profile, varies the block sizes and row widths, and drifts the) Tj
+T*
+(whole thing slightly off-center as it goes up. The project names are randomly assembled from) Tj
+T*
+(parts that sound like real packages ? things like node-flux.js or libcrypt-fast or) Tj
+T*
+(hyper-mux@3.12.7 ? though about one in five times you?ll get an actual name like left-pad or) Tj
+T*
+(log4j instead. Reload enough times and you might run into some unusual tower shapes, and the) Tj
+T*
+(Konami code does what you?d hope. The info button shows the tower?s seed, which you can share) Tj
+T*
+(as a ?seed= URL parameter, basically a way to say ?look at this disaster? and have someone else) Tj
+T*
+(see the exact same precarious arrangement. Some ways this could go further: Upload an SBOM and) Tj
+T*
+(build the tower from your actual dependency tree, with block sizes based on how many other) Tj
+T*
+(packages depend on each one Pull real dependency data from ecosyste.ms so you can see what...) Tj
+T*
+() Tj
+T*
+(18. Book Review: Weird Things Customers Say in Bookshops by Jen Campbell ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 27 Feb 2026 12:34:11 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/02/book-review-weird-things-customers-say-in-bookshops-by-j) Tj
+T*
+(en-campbell/) Tj
+T*
+(Remember back in the early 2010s when any moderately popular Twitter account could become a) Tj
+T*
+(book \(or even a TV series\)? This is a collection of Tweet-sized "overheard in" stories. All set) Tj
+T*
+(in book shops. Isn't it funny that some people don't know how books work! ROFL! Aren't the) Tj
+T*
+(general public strange? LOLOL! That's a bit harsh of me. It only rarely becomes mean-spirited.) Tj
+T*
+(But in a book this?) Tj
+T*
+() Tj
+T*
+(19. Premium: The Hater's Guide to Private Equity) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 27 Feb 2026 17:07:32 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/hatersguide-pe/) Tj
+T*
+(We have a global intelligence crisis, in that a lot of people are being really fucking stupid.) Tj
+T*
+(As I discussed in this week?s free piece , alleged financial analyst Citrini Research put out a) Tj
+T*
+(truly awful screed called the ?2028 Global Intelligence Crisis? ? a slop-filled scare-fiction) Tj
+T*
+() Tj
+T*
+(20. The Insane Stupidity of UBI) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-02-27T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/02/27/the-insane-stupidity-of-ubi.html) Tj
+T*
+(Thinking that UBI will solve anything comes from a misunderstanding about money. Money is a) Tj
+T*
+(map, not a territory . All UBI experiments have been small scale, and of course UBI works at a) Tj
+T*
+(small scale. No shit you can give a few people money and it?s all good and they are happy.) Tj
+T*
+(Because the people they are buying from aren?t also on UBI. But once you add in the U part?) Tj
+T*
+(What do you plan to buy with your free government dollars? Want to buy eggs? Sorry, the egg) Tj
+T*
+(people stopped making eggs, they are living free on UBI. Want to buy a house? Who built it?) Tj
+T*
+(Nobody, because they all were getting UBI and didn?t want to build houses anymore. They write) Tj
+T*
+(poems now. There?s still old houses available, but the price for them has 20xed, well outside) Tj
+T*
+(of what you can afford. Belief in UBI comes from a fallacy that the economy is some natural) Tj
+T*
+(thing. I see supermarket. Supermarket has eggs for $5. I get $10,000 UBI. I can buy 2,000 eggs.) Tj
+T*
+(Of course this isn?t what happens. Like most things politicians invent, nobody considered the) Tj
+T*
+(second order effects , and you will not be getting 2,000 eggs with your UBI. Cause everyone got) Tj
+T*
+(the UBI and bought the eggs. Either no more eggs or price of eggs goes up. And...) Tj
+T*
+() Tj
+T*
+(21. An AI agent coding skeptic tries AI agent coding, in excessive detail) Tj
+T*
+(Source: Max Woolf's Blog | Published: Fri, 27 Feb 2026 10:00:00 -0800) Tj
+T*
+(Link: https://minimaxir.com/2026/02/ai-agent-coding/) Tj
+T*
+(No vagueposting here, just look at the Estimated Read Time.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3086 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(22. Why It's Safe for Founders to Be Nice) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/safe.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(23. Change Your Name) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/name.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(24. What Microsoft Is this the Altair Basic of?) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/altair.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(25. Computers and the Internet: A Two-Edged Sword) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Fri, 27 Feb 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/two-edged-sword-of-computers-and-internet/) Tj
+T*
+(Dave Rupert articulated something in ?Priority of idle hands? that?s been growing in my) Tj
+T*
+(subconscious for years: I had a small, intrusive realization the other day that computers and) Tj
+T*
+(the internet are probably bad for me [?] This is hard to accept because a lot of my work,) Tj
+T*
+(hobbies, education, entertainment, news, communities, and curiosities are all on the internet.) Tj
+T*
+(I love the internet, it?s a big part of who I am today Hard same. I love computers and the) Tj
+T*
+(internet. Always have. I feel lucky to have grown up in the late 90?s / early 00?s where I was) Tj
+T*
+(exposed to the fascination, excitement, and imagination of PCs, the internet, and then) Tj
+T*
+(?mobile?. What a time to make websites! Simultaneously, I?ve seen how computers and the) Tj
+T*
+(internet are a two-edged sword for me: I?ve cut out many great opportunities with them, but) Tj
+T*
+(I?ve also cut myself a lot \(and continue to\). Per Dave?s comments, I have this feeling) Tj
+T*
+(somewhere inside of me that the internet and computers don?t necessarily align in support my) Tj
+T*
+(own, personal perspective of what a life well lived is for me . My excitement and draw to them) Tj
+T*
+(also often leave me with a feeling of ?I took that too far.? I still haven?t figured out a) Tj
+T*
+(completely he...) Tj
+T*
+() Tj
+T*
+(26. Password Safety) Tj
+T*
+(Source: the website of jyn | Published: 2018-02-24T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/password-safety/) Tj
+T*
+(What a password manager is and how to use one) Tj
+T*
+() Tj
+T*
+(27. Speed Up!) Tj
+T*
+(Source: the website of jyn | Published: 2018-02-14T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/speed-up/) Tj
+T*
+(This site is now a lot faster.) Tj
+T*
+() Tj
+T*
+(28. Using PGP Keys) Tj
+T*
+(Source: the website of jyn | Published: 2018-02-11T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/using-pgp-keys/) Tj
+T*
+(Why and How to use encryption) Tj
+T*
+() Tj
+T*
+(29. This Week on The Analog Antiquarian) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 27 Feb 2026 16:22:23 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/02/this-week-on-the-analog-antiquarian/) Tj
+T*
+(Chapter 14: The Dialogue) Tj
+T*
+() Tj
+T*
+(30. The beautiful silent thunderbolt-3 PC) Tj
+T*
+(Source: Fabien Sanglard | Published: 22 Dec 2020 00:00:00 +0000) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4152 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://fabiensanglard.net/tb3/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(31. These are called opportunities) Tj
+T*
+(Source: Fabien Sanglard | Published: 12 Nov 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/silicone/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(32. Game Engine Black Book: Wolfenstein 3D, Korean Edition) Tj
+T*
+(Source: Fabien Sanglard | Published: 30 Oct 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/gebbk/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(33. Random notes on improving the Redis LRU algorithm) Tj
+T*
+(Source: antirez.com | Published: Fri, 29 Jul 2016 10:04:12 +0200) Tj
+T*
+(Link: http://antirez.com/news/109) Tj
+T*
+(Redis is often used for caching, in a setup where a fixed maximum memory to use is specified.) Tj
+T*
+(When new data arrives, we need to make space by removing old data. The efficiency of Redis as a) Tj
+T*
+(cache is related to how good decisions it makes about what data to evict: deleting data that is) Tj
+T*
+(going to be needed soon is a poor strategy, while deleting data that is unlikely to be) Tj
+T*
+(requested again is a good one. In other terms every cache has an hits/misses ratio, which is,) Tj
+T*
+(in qualitative terms, just the percentage of read queries that the cache is able to serve.) Tj
+T*
+(Accesses to the keys of a cache are not distributed evenly among the data set in most) Tj
+T*
+(workloads. Often a small percentage of keys get a very large percentage of all the accesses.) Tj
+T*
+(Moreover the access pattern often changes over time, which means that as time passes certain) Tj
+T*
+(keys that were very requested may no longer be accessed often, and conversely, keys that once) Tj
+T*
+(were not popular may turn into the most accessed keys. So in general what a cache should try to) Tj
+T*
+(do is to retain the keys that have the highest probability of being accessed in the future.) Tj
+T*
+(From the point of view of an eviction policy \(the policy used to make space to allow ne...) Tj
+T*
+() Tj
+T*
+(34. Writing an editor in less than 1000 lines of code, just for fun) Tj
+T*
+(Source: antirez.com | Published: Sun, 10 Jul 2016 12:51:11 +0200) Tj
+T*
+(Link: http://antirez.com/news/108) Tj
+T*
+(WARNING: Long pretty useless blog post. TLDR is that I wrote, just for fun, a text editor in) Tj
+T*
+(less than 1000 lines of code that does not depend on ncurses and has support for syntax) Tj
+T*
+(highlight and search feature. The code is here: http://github.com/antirez/kilo. Screencast) Tj
+T*
+(here: https://asciinema.org/a/90r2i9bq8po03nazhqtsifksb For the sentimentalists, keep reading?) Tj
+T*
+(A couple weeks ago there was this news about the Nano editor no longer being part of the GNU) Tj
+T*
+(project. My first reaction was, wow people still really care about an old editor which is a) Tj
+T*
+(clone of an editor originally part of a terminal based EMAIL CLIENT. Let?s say this again,) Tj
+T*
+(?email client?. The notion of email client itself is gone at this point, everything changed.) Tj
+T*
+(And yet I read, on Hacker News, a number of people writing how they were often saved by the) Tj
+T*
+(availability of nano on random systems, doing system administrator tasks, for example. Nano is) Tj
+T*
+(also how my son wrote his first program in C. It?s an acceptable experience that does not) Tj
+T*
+(require past experience editing files. This is how I started to think about writing a text) Tj
+T*
+(editor ways smaller than Nano itself. Just for fun, basically, because I like and admire) Tj
+T*
+(small...) Tj
+T*
+() Tj
+T*
+(35. Programmers are not different, they need simple UIs.) Tj
+T*
+(Source: antirez.com | Published: Tue, 24 May 2016 17:06:17 +0200) Tj
+T*
+(Link: http://antirez.com/news/107) Tj
+T*
+(I?m spending days trying to get a couple of APIs right. New APIs about modules, and a new Redis) Tj
+T*
+(data type. I really mean it when I say *days*, just for the API. Writing drafts, starting the) Tj
+T*
+(implementation shaping data structures and calls, and then restarting from scratch to iterate) Tj
+T*
+(again in a better way, to improve the design and the user facing part. Why I do that, delaying) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 4633 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(features for weeks? Is it really so important? Programmers are engineers, maybe they should) Tj
+T*
+(just adapt to whatever API is better to export for the system exporting it. Should I really) Tj
+T*
+(reply to my rhetorical questions? No, it is no longer needed today, and that?s a big win. I) Tj
+T*
+(want to assume that at this point is tacit, given for granted, that programmers also have user) Tj
+T*
+(interfaces, and that such user interfaces are so crucial to completely change the perception of) Tj
+T*
+(a system. Database query languages, libraries calls, programming languages, Unix command line) Tj
+T*
+(tools, they all have an User Interface part. If you use them daily, for you they are more UIs) Tj
+T*
+(than anything else. So if this is all well known why I?m here writing this blog post? Because I) Tj
+T*
+(want to stress how important is the concept of simplicity, not just i...) Tj
+T*
+() Tj
+T*
+(36. Weekly Links for August 8, 2024) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Thu, 08 Aug 2024 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/weekly-links/08082024/) Tj
+T*
+(And so it continues! Here?s my interesting links for this week: Airlines Are Running Out Of) Tj
+T*
+(Flight Numbers, And They Don?t Know What To Do About It New Euripides just dropped: Uncovered) Tj
+T*
+(Euripides fragments are ?kind of a big deal? Should?ve just used that Brother printer everyone) Tj
+T*
+(has: Reverse engineering the 59-pound printer onboard the Space Shuttle From the ?they quoted) Tj
+T*
+(my clever wife ? department: Space is becoming an ?unsustainable environment in the long term,?) Tj
+T*
+(ESA says A public draft of the second edition of the brilliant Artificial Intelligence and) Tj
+T*
+(Games book is available Computer Archeology: Exploring the Anatomy of an MS-DOS Virus \(if you) Tj
+T*
+(found this interesting you may also find this interesting \) Last days of the lonely) Tj
+T*
+(interstellar spacecraft \(original here \) See you next week!) Tj
+T*
+() Tj
+T*
+(37. Yarn Spinner will be at GCAP 2024) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Fri, 02 Aug 2024 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/gcap2024/ys-ss-talk/) Tj
+T*
+(We?re so excited to announce that we?ll be presenting at the amazing GCAP conference in) Tj
+T*
+(Melbourne, Australia, this year! We?ll be showing off what we?ve been working on, and talking) Tj
+T*
+(about how you can use Yarn Spinner to make your own games. We?ll also be around for the whole) Tj
+T*
+(conference, so if you?re there, come and say hi!) Tj
+T*
+() Tj
+T*
+(38. Weekly Links for August 1, 2024) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Thu, 01 Aug 2024 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/weekly-links/08012024/) Tj
+T*
+(With the death of Twitter, and the fracturing of social media, I?m going to try an experiment!) Tj
+T*
+(To that end, I?m going post some of the more interesting things I?ve read online each Thursday.) Tj
+T*
+(I hope you find them interesting too. Or not, I don?t mind. I?m just going to keep doing it) Tj
+T*
+(anyway. I?ll post links in no particular order, and they might not be recent. Just things I?ve) Tj
+T*
+(found interesting in the previous week or so.) Tj
+T*
+() Tj
+T*
+(39. A Cookie for Dario? ? Anthropic and selling death) Tj
+T*
+(Source: Anil Dash | Published: 2026-02-28T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/02/27/a-cookie-for-dario/) Tj
+T*
+(A big tech headline this week is Anthropic \(makers of Claude, widely regarded as one of the) Tj
+T*
+(best LLM platforms\) resisting Secretary of Defense Pete Hegseth?s calls to modify their) Tj
+T*
+(platform in order to enable it to support his commission of war crimes . As has become clear) Tj
+T*
+(this week, Anthropic CEO Dario Amodei has declined to do so . The administration couches the) Tj
+T*
+(request as an attempt to use the technology for ?lawful purposes?, but given that they?ve also) Tj
+T*
+(described their recent crimes as legal, this is obviously not a description that can be) Tj
+T*
+(trusted. Many people have, understandably, rushed to praise Dario and Anthropic?s leadership) Tj
+T*
+(for this decision. I?m not so sure we should be handing out a cookie just because someone is) Tj
+T*
+(saying they?re not going to let their tech be used to cause extrajudicial deaths. To be clear:) Tj
+T*
+(I am glad that Dario, and presumably the entire Anthropic board of directors, have made this) Tj
+T*
+(choice. However, I don?t think we need to be overly effusive in our praise. The bar cannot be) Tj
+T*
+(set so impossibly low that we celebrate merely refusing to directly, intentionally enable war) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 3888 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(crimes like the repeated bombing of unknown targets in international waters, in direct v...) Tj
+T*
+() Tj
+T*
+(40. Mail in de VS en je bestanden hier? Het werkt niet) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 21 Jun 2025 15:00:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/mail-in-de-vs-en-je-bestanden-hier-het-werkt-niet/) Tj
+T*
+(Zoals ik gisteren schreef, onze maatschappij en overheden draaien in steeds grotere mate op) Tj
+T*
+(Amerikaanse clouds, en we maken ons hier nu terecht zorgen over. Want het is toch niet leuk dat) Tj
+T*
+(de Amerikanen mee kunnen lezen in onze \(overheids\)gegevens, of zonder pardon de steker eruit) Tj
+T*
+(kunnen trekken. We zouden dit graag snel op willen lossen, maar er zijn geen makkelijke en) Tj
+T*
+(goedkope keuzes. Inmiddels heeft \(volgens geruchten\) bijna de hele centrale rijksoverheid) Tj
+T*
+(besloten om de email toch nog op eigen servers te houden, wat echt heel goed nieuws is.) Tj
+T*
+() Tj
+T*
+(41. Is dit een soevereine cloud?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 20 Jun 2025 09:40:56 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/en-is-dit-dan-de-oplossing/) Tj
+T*
+(Onze maatschappij en overheden draaien in steeds grotere mate op Amerikaanse clouds, en we) Tj
+T*
+(maken ons hier nu terecht zorgen over. Als we dit op willen lossen zullen er meer en betere) Tj
+T*
+(Europese producten moeten gaan komen. En vervolgens moeten we die ook nog gaan kopen, en niet) Tj
+T*
+(makkelijk weer voor dezelfde VS big tech spullen kiezen. Wordt hard werken allemaal. En niemand) Tj
+T*
+(houdt van hard werken, en dus springt iedereen vol enthousiasme op ieder bericht dat er een) Tj
+T*
+(makkelijkere oplossing gevonden is.) Tj
+T*
+() Tj
+T*
+(42. Demissionair de cloud in denderen: doe het niet) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 07 Jun 2025 20:42:36 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/demissionair-de-cloud-in-denderen/) Tj
+T*
+(De hele korte versie: De kern van de Nederlandse overheid draait nu op eigen emailservers, in) Tj
+T*
+(eigen beheer. Op 14 oktober 2025 verloopt de ondersteuning op de gebruikte software. Microsoft) Tj
+T*
+(stimuleert sterk om dan alle email over te dragen aan de Amerikaanse cloud, met alle gevolgen) Tj
+T*
+(van dien. Maar het is ook mogelijk \(met wat moeite\) om een nieuwe versie van de email software) Tj
+T*
+(aan te schaffen, zoals 9 ministeries van plan zijn.) Tj
+T*
+() Tj
+T*
+(43. Give it time) Tj
+T*
+(Source: Keygen Blog | Published: Mon, 19 May 2025 05:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/give-it-time/) Tj
+T*
+(On borrowed time vs earned time.) Tj
+T*
+() Tj
+T*
+(44. It's okay to be selfish) Tj
+T*
+(Source: Keygen Blog | Published: Tue, 20 May 2025 05:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/its-okay-to-be-selfish/) Tj
+T*
+(On selfishly building a business around you.) Tj
+T*
+() Tj
+T*
+(45. The arrival fallacy) Tj
+T*
+(Source: Keygen Blog | Published: Thu, 05 Jun 2025 05:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/the-arrival-fallacy/) Tj
+T*
+(On the illusion that making it will be enough.) Tj
+T*
+() Tj
+T*
+(46. cash issuing terminals) Tj
+T*
+(Source: computers are bad | Published: 27 Feb 2026 00:00:00 UT) Tj
+T*
+(Link: https://computer.rip/2026-02-27-ibm-atm.html) Tj
+T*
+(In the United States, we are losing our fondness for cash. As in many other countries, cards) Tj
+T*
+(and other types of electronic payments now dominate everyday commerce. To some, this is a loss.) Tj
+T*
+(Cash represented a certain freedom from intermediation, a comforting simplicity, that you just) Tj
+T*
+(don't get from Visa. It's funny to consider, then, how cash is in fact quite amenable to) Tj
+T*
+(automation. Even Benjamin Franklin's face on a piece of paper can feel like a mere proxy for a) Tj
+T*
+(database transaction. How different from "e-cash" is cash itself, when it starts and ends its) Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 734 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(lifecycle through automation? Increasing automation of cash reflects the changing nature of) Tj
+T*
+(banking: decades ago, a consumer might have interacted with banking primarily through a) Tj
+T*
+("passbook" savings account, where transactions were so infrequent that the bank recorded them) Tj
+T*
+(directly in the patron's copy of the passbook. Over the years, nationwide travel and nationwide) Tj
+T*
+(communications led to the ubiquitous use of inter-bank money transfers, mostly in the form of) Tj
+T*
+(the check. The accounts that checks typically drew on?checking accounts?were made for) Tj
+T*
+(convenience and ease of access. You might deposit your entire paycheck into an account,...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 20 0 R >>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000175 00000 n 
+0000000245 00000 n 
+0000004625 00000 n 
+0000004751 00000 n 
+0000008795 00000 n 
+0000008921 00000 n 
+0000013153 00000 n 
+0000013279 00000 n 
+0000017903 00000 n 
+0000018031 00000 n 
+0000021170 00000 n 
+0000021298 00000 n 
+0000025503 00000 n 
+0000025631 00000 n 
+0000030317 00000 n 
+0000030445 00000 n 
+0000034386 00000 n 
+0000034514 00000 n 
+0000035300 00000 n 
+trailer
+<< /Size 22 /Root 1 0 R >>
+startxref
+35428
+%%EOF
