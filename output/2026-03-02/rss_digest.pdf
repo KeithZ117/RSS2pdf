@@ -1,0 +1,922 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R] /Count 8 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4331 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-02 09:38:35) Tj
+T*
+() Tj
+T*
+(1. Expert Beginners and Lone Wolves will dominate this early LLM era) Tj
+T*
+(Source: Jeff Geerling | Published: Sun, 01 Mar 2026 16:00:00 -0600) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/) Tj
+T*
+(After migrating this blog from a static site generator into Drupal in 2009 , I noted: As a sad) Tj
+T*
+(side-effect, all the blog comments are gone. Forever. Wiped out. But have no fear, we can start) Tj
+T*
+(new discussions on many new posts! I archived all the comments from the old 'Thingamablog') Tj
+T*
+(version of the blog, but can't repost them here \(at least, not with my time constraints... it) Tj
+T*
+(would just take a nice import script, but I don't have the time for that now\).) Tj
+T*
+() Tj
+T*
+(2. Quoting claude.com/import-memory) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-01T11:21:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything) Tj
+T*
+(I'm moving to another service and need to export my data. List every memory you have stored) Tj
+T*
+(about me, as well as any context you've learned about me from past conversations. Output) Tj
+T*
+(everything in a single code block so I can easily copy it. Format each entry as: [date saved,) Tj
+T*
+(if available] - memory content. Make sure to cover all of the following ? preserve my words) Tj
+T*
+(verbatim where possible: Instructions I've given you about how to respond \(tone, format, style,) Tj
+T*
+('always do X', 'never do Y'\). Personal details: name, location, job, family, interests.) Tj
+T*
+(Projects, goals, and recurring topics. Tools, languages, and frameworks I use. Preferences and) Tj
+T*
+(corrections I've made to your behavior. Any other stored context not covered above. Do not) Tj
+T*
+(summarize, group, or omit any entries. After the code block, confirm whether that is the) Tj
+T*
+(complete set or if any remain. ? claude.com/import-memory , Anthropic's "import your memories) Tj
+T*
+(to Claude" feature is a prompt Tags: prompt-engineering , llm-memory , anthropic , claude ,) Tj
+T*
+(generative-ai , ai , llms) Tj
+T*
+() Tj
+T*
+(3. Quoting Kellan Elliott-McCrea) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-25T03:30:32+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything) Tj
+T*
+(It?s also reasonable for people who entered technology in the last couple of decades because it) Tj
+T*
+(was good job, or because they enjoyed coding to look at this moment with a real feeling of) Tj
+T*
+(loss. That feeling of loss though can be hard to understand emotionally for people my age who) Tj
+T*
+(entered tech because we were addicted to feeling of agency it gave us. The web was objectively) Tj
+T*
+(awful as a technology, and genuinely amazing, and nobody got into it because programming in) Tj
+T*
+(Perl was somehow aesthetically delightful. ? Kellan Elliott-McCrea , Code has always been the) Tj
+T*
+(easy part Tags: perl , generative-ai , kellan-elliott-mccrea , agentic-engineering , ai , llms) Tj
+T*
+(, deep-blue) Tj
+T*
+() Tj
+T*
+(4. Quoting Paul Ford) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-23T16:00:32+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything) Tj
+T*
+(The paper asked me to explain vibe coding, and I did so, because I think something big is) Tj
+T*
+(coming there, and I'm deep in, and I worry that normal people are not able to see it and I want) Tj
+T*
+(them to be prepared. But people can't just read something and hate you quietly; they can't see) Tj
+T*
+(that you have provided them with a utility or a warning; they need their screech. You are) Tj
+T*
+(distributed to millions of people, and become the local proxy for the emotions of maybe dozens) Tj
+T*
+(of people, who disagree and demand your attention, and because you are the one in the paper you) Tj
+T*
+(need to welcome them with a pastor's smile and deep empathy, and if you speak a word in your) Tj
+T*
+(own defense they'll screech even louder. ? Paul Ford , on writing about vibe coding for the New) Tj
+T*
+(York Times Tags: vibe-coding , new-york-times , paul-ford) Tj
+T*
+() Tj
+T*
+(5. Sentry) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-01T15:44:23Z) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4053 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&utm_medium=p) Tj
+T*
+(aid-display&utm_campaign=general-fy27q1-evergreen&utm_content=static-ad-mobilerss-trysentry) Tj
+T*
+(My thanks to Sentry for sponsoring last week at DF. Sentry is running a hands-on workshop: ?) Tj
+T*
+(Crash Reporting, Tracing, and Logs for iOS in Sentry ?. You can watch it on demand. You?ll) Tj
+T*
+(learn how to connect the dots between slowdowns, crashes, and the user experience in your iOS) Tj
+T*
+(app. It?ll show you how to: Set up Sentry to surface high-priority mobile issues without alert) Tj
+T*
+(fatigue. Use Logs and Breadcrumbs to reconstruct what happened with a crash. Find what?s behind) Tj
+T*
+(a performance bottleneck using Tracing. Monitor and reduce the size of your iOS app using Size) Tj
+T*
+(Analysis. I know so many developers using Sentry. It?s a terrific product. If you?re a) Tj
+T*
+(developer and haven?t checked them out, you should. ?) Tj
+T*
+() Tj
+T*
+(6. The Talk Show: ?Bad Dates?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-01T15:43:02Z) Tj
+T*
+(Link: https://daringfireball.net/thetalkshow/2026/02/28/ep-442) Tj
+T*
+(Jason Snell returns to the show to discuss the 2025 Six Colors Apple Report Card, MacOS 26) Tj
+T*
+(Tahoe, Apple Creator Studio, along with what we expect/hope for in next week?s Apple product) Tj
+T*
+(announcements. Sponsored by: Notion : The AI workspace where teams and AI agents get more done) Tj
+T*
+(together. Squarespace : Save 10% off your first purchase of a website or domain using code) Tj
+T*
+(talkshow . Sentry : A real-time error monitoring and tracing platform. Use code TALKSHOW for) Tj
+T*
+($80 in free credits. ?) Tj
+T*
+() Tj
+T*
+(7. iPhone and iPad Approved to Handle Classified NATO Information) Tj
+T*
+(Source: Daring Fireball | Published: 2026-02-26T21:42:15Z) Tj
+T*
+(Link: https://nr.apple.com/Do0I6B8WX0) Tj
+T*
+(Apple Newsroom: Today, Apple announced iPhone and iPad are the first and only consumer devices) Tj
+T*
+(in compliance with the information assurance requirements of NATO nations. This enables iPhone) Tj
+T*
+(and iPad to be used with classified information up to the NATO restricted level without) Tj
+T*
+(requiring special software or settings ? a level of government certification no other consumer) Tj
+T*
+(mobile device has met. That?s nice, but the iPhone is only the second phone to be approved for) Tj
+T*
+(handling classified information for the Board of Peace . The first, of course, was the T1 . ?) Tj
+T*
+() Tj
+T*
+(8. Evolution of inPulse - Part 2) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Mon, 26 Oct 2009 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/evolution-of-inpulse-part-2) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(9. Evolution of inPulse - Part 1) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Sun, 25 Oct 2009 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/evolution-of-inpulse-part-1) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(10. Watchduino - first video) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Sun, 08 Jun 2008 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/watchduino-first-video) Tj
+T*
+(2025 Note - I created the first prototype of Pebble by myself in 2008. It was powered by an) Tj
+T*
+(ATmega \(Arduino\) and used a display from a?) Tj
+T*
+() Tj
+T*
+(11. ?How old are you?? Asked the OS) Tj
+T*
+(Source: iDiallo.com | Published: Sun, 01 Mar 2026 01:43:17 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed) Tj
+T*
+(A new law passed in California to require every operating system to collect the user's age at) Tj
+T*
+(account creation time. The law is AB-1043 . And it was passed in October of 2025. How does it) Tj
+T*
+(work? Does it apply to offline systems? When I set up my Raspberry Pi at home, is this) Tj
+T*
+(enforced? What if I give an incorrect age, am I breaking the law now? What if I set my account) Tj
+T*
+(correctly, but then my kids use the device? What happens? There is no way to enforce this law,) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4609 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(but I suspect that's not the point. It's similar to statements you find in IRS documents. The) Tj
+T*
+(IRS requires you to report all income from illegal activities, such as bribes and scams.) Tj
+T*
+(Obviously, if you are getting a bribe, you wouldn't report it, but by not reporting it you are) Tj
+T*
+(breaking additional laws that can be used to get you prosecuted. When you don't report your age) Tj
+T*
+(to your OS whether it's a windows device or a Tamagotchi, you are breaking the law. It's not) Tj
+T*
+(enforced of course, but when you are suspected of any other crime, you can be arrested for the) Tj
+T*
+(age violation first, then prosecuted for something else. What a world we live in.) Tj
+T*
+() Tj
+T*
+(12. Shell variable ~-) Tj
+T*
+(Source: John D. Cook | Published: Sun, 01 Mar 2026 18:15:16 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/01/tilde-dash/) Tj
+T*
+(After writing the previous post, I poked around in the bash shell documentation and found a) Tj
+T*
+(handy feature I?d never seen before, the shortcut ~-. I frequently use the command cd - to) Tj
+T*
+(return to the previous working directory, but didn?t know about ~- as a shotrcut for the shell) Tj
+T*
+(variable $OLDPWD which contains the [?] The post Shell variable ~- first appeared on John D.) Tj
+T*
+(Cook .) Tj
+T*
+() Tj
+T*
+(13. Killing my inner Necron) Tj
+T*
+(Source: Xe Iaso's blog | Published: Sun, 01 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/blog/2026/killing-my-inner-necron/) Tj
+T*
+(On surviving surgery, confronting mortality, and finding peace on the other side.) Tj
+T*
+() Tj
+T*
+(14. Why does C have the best file API?) Tj
+T*
+(Source: Maurycy's Blog | Published: Sat, 28 Feb 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/misc/c_files/) Tj
+T*
+(Ok, the title is a bit tongue-in-cheek, but there's very little thought put into files in most) Tj
+T*
+(languages. What you get is usually the same, or often worse, than C: just read\(\), write\(\) and) Tj
+T*
+(some kind of serialization library. What you don't usually get is accessing files the same as) Tj
+T*
+(memory: /* HTML tags, keywords, commands */ h-n {color: #F27;} /* Values */ h-v {color: #B8F;}) Tj
+T*
+(/* CSS selectors, attribute/varable names, file names */ h-s {color: #AEE;} /* Comments */ h-c) Tj
+T*
+({color: #777;} h-e {color: #F6F;} #include #include #include #include #include void main \(\) {) Tj
+T*
+(// Create/open a file containing 1000 unsigned integers // Initialized to all zeros. int len =) Tj
+T*
+(1000 * sizeof \( uint32_t \); int file = open \( "numbers.u32" , O_RDWR | O_CREAT , 0600 \);) Tj
+T*
+(ftruncate \( file , len \); // Map it into memory. uint32_t * numbers = mmap \( NULL , len ,) Tj
+T*
+(PROT_READ | PROT_WRITE , MAP_SHARED , file , 0 \); // Do something: printf \( "%d\\n" , numbers [) Tj
+T*
+(42 ]\); numbers [ 42 ] = numbers [ 42 ] + 1 ; // Clean up munmap \( numbers , len \); close \( file) Tj
+T*
+(\); } Memory mapping isn't the same as loading a file into memory: It still works if the file) Tj
+T*
+(doesn't fit in RAM. Data is loaded as needed, so it won't take all day to...) Tj
+T*
+() Tj
+T*
+(15. The two kinds of error) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Sun, 01 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/the-two-kinds-of-error/) Tj
+T*
+(In short: in my mind, errors are divided into two categories. Expected errors \(think ?user) Tj
+T*
+(entered invalid data?\), which are part of normal operation, aren?t the developer?s fault, and) Tj
+T*
+(should be handled. Unexpected errors \(think ?null pointer exception?\) are the developer?s) Tj
+T*
+(fault, likely indicate a bug, and are allowed to crash. Error handling is an important, but) Tj
+T*
+(often neglected, part of programming and user experience. Over the years, I?ve developed an) Tj
+T*
+(opinion about the two types of error in software. This is primarily informed by a career in web) Tj
+T*
+(and application development, but I hope these learnings are widely applicable. In my mind,) Tj
+T*
+(errors are divided into two categories: expected and unexpected . Expected errors Expected) Tj
+T*
+(errors happen during normal operation. Examples: Validation errors when the user enters invalid) Tj
+T*
+(data. You can?t control what the user types! Network errors when the user?s network fails. It?s) Tj
+T*
+(not your fault if the user turns their Internet off or has a slow connection! Permission errors) Tj
+T*
+(when your program isn?t allowed to do something. You can?t magically read forbidden files, fix) Tj
+T*
+(a user?s password, or steal webcam privileges! The developer hasn?t made a mist...) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3581 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(16. "Why hack the DHS? I can think of a couple Pretti Good reasons!") Tj
+T*
+(Source: micahflee | Published: Sun, 01 Mar 2026 21:21:35 GMT) Tj
+T*
+(Link: https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/) Tj
+T*
+(Today, DDoSecrets published data about ICE contracts hacked from DHS's Office of Industry) Tj
+T*
+(Partnership. The hacker group, Department of Peace, published a statement that included: Why) Tj
+T*
+(hack the DHS? I can think of a couple Pretti Good reasons! I'm releasing this because the DHS) Tj
+T*
+(is killing) Tj
+T*
+() Tj
+T*
+(17. Downstream Testing) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-01T00:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/01/downstream-testing.html) Tj
+T*
+(The information about how a library is actually used lives in the dependents? code, not in the) Tj
+T*
+(library?s own tests or docs. Someone downstream is parsing your error messages with a regex, or) Tj
+T*
+(relying on the iteration order of a result set you never documented, or depending on a method) Tj
+T*
+(you consider internal because it wasn?t marked private in a language that doesn?t enforce) Tj
+T*
+(visibility. Hyrum?s Law says all of these implicit contracts exist once you have enough users,) Tj
+T*
+(and semver can?t help because a version number declares what the maintainer intended, not what) Tj
+T*
+(downstream code actually depends on. A 2023 study of Maven found that 11.58% of dependency) Tj
+T*
+(updates contain breaking changes that impact clients, and nearly half arrived in non-major) Tj
+T*
+(version bumps. Most library maintainers have no way to validate their version number before) Tj
+T*
+(publishing, so the feedback loop is reactive: release, wait for bug reports, and hope the) Tj
+T*
+(breakage wasn?t too widespread before you can cut a patch. Distributions Debian packages) Tj
+T*
+(declare test suites following the DEP-8 specification, and when a package is a candidate for) Tj
+T*
+(migration from unstable to testing, the migration tool Britney triggers autopkgtest for...) Tj
+T*
+() Tj
+T*
+(18. Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 01 Mar 2026 12:34:27 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-steph) Tj
+T*
+(en-bourne/) Tj
+T*
+(Everyone knows that Black people didn't exist in the UK until recently, right? Despite) Tj
+T*
+(mountains of evidence of everything from Black Tudors and Victorian actors, some myths) Tj
+T*
+(perniciously persist. What was the experience for Black Britons during the second world war? I) Tj
+T*
+(find it fascinating how the US cultural hegemony rewrites history. I've heard people in the UK) Tj
+T*
+(talk about "Jim Crow laws" as?) Tj
+T*
+() Tj
+T*
+(19. Let the Other 95% of Great Programmers In) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/95.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. How to Be an Expert in a Changing World) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/ecw.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(21. How You Know) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/know.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(22. Hosting an SSH Server) Tj
+T*
+(Source: the website of jyn | Published: 2017-12-27T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/hosting-an-ssh-server/) Tj
+T*
+(I decided one day that I really wanted a remote server.) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4136 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(23. Hello, World!) Tj
+T*
+(Source: the website of jyn | Published: 2017-12-23T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/first-post/) Tj
+T*
+(Hello, World!) Tj
+T*
+() Tj
+T*
+(24. Redis patterns for coding) Tj
+T*
+(Source: antirez.com | Published: Sun, 01 Mar 2026 10:55:09 +0100) Tj
+T*
+(Link: http://antirez.com/news/161) Tj
+T*
+(Here LLM and coding agents can find: 1. Exhaustive documentation about Redis commands and data) Tj
+T*
+(types. 2. Patterns commonly used. 3. Configuration hints. 4. Algorithms that can be mounted) Tj
+T*
+(using Redis commands. https://redis.antirez.com/ Some humans claim this documentation is) Tj
+T*
+(actually useful for actual people, as well :\) I'm posting this to make sure search engines will) Tj
+T*
+(index it. Comments) Tj
+T*
+() Tj
+T*
+(25. 100 more of those BITFIELDs) Tj
+T*
+(Source: antirez.com | Published: Fri, 26 Feb 2016 16:02:54 +0100) Tj
+T*
+(Link: http://antirez.com/news/103) Tj
+T*
+(Today Redis is 7 years old, so to commemorate the event a bit I passed the latest couple of) Tj
+T*
+(days doing a fun coding marathon to implement a new crazy command called BITFIELD. The essence) Tj
+T*
+(of this command is not new, it was proposed in the past by me and others, but never in a) Tj
+T*
+(serious way, the idea always looked a bit strange. We already have bit operations in Redis:) Tj
+T*
+(certain users love it, it?s a good way to represent a lot of data in a compact way. However so) Tj
+T*
+(far we handle each bit separately, setting, testing, getting bits, counting all the bits that) Tj
+T*
+(are set in a range, and so forth. What about implementing bitfields? Short or large, arbitrary) Tj
+T*
+(sized integers, at arbitrary offsets, so that I can use a Redis string as an array of 5 bits) Tj
+T*
+(signed integers, without losing a single bit of juice. A few days ago, Yoav Steinberg from) Tj
+T*
+(Redis Labs, proposed a set of commands on arbitrary sized integers stored at bit offsets in a) Tj
+T*
+(more serious way. I smiled when I read the email, since this was kinda of a secret dream.) Tj
+T*
+(Starting from Yoav proposal and with other feedbacks from Redis Labs engineers, I wrote an) Tj
+T*
+(initial specification of a single command with sub-commands, using short names for types...) Tj
+T*
+() Tj
+T*
+(26. The binary search of distributed programming) Tj
+T*
+(Source: antirez.com | Published: Sat, 13 Feb 2016 17:49:13 +0100) Tj
+T*
+(Link: http://antirez.com/news/102) Tj
+T*
+(Yesterday night I was re-reading Redlock analysis Martin Kleppmann wrote) Tj
+T*
+(\(http://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html\). At some point) Tj
+T*
+(Martin wonders if there is some good way to generate monotonically increasing IDs with Redis.) Tj
+T*
+(This apparently simple problem can be more complex than it looks at a first glance, considering) Tj
+T*
+(that it must ensure that, in all the conditions, there is a safety property which is always) Tj
+T*
+(guaranteed: the ID generated is always greater than all the past IDs generated, and the same ID) Tj
+T*
+(cannot be generated multiple times. This must hold during network partitions and other) Tj
+T*
+(failures. The system may just become unavailable if there are less than the majority of nodes) Tj
+T*
+(that can be reached, but never provide the wrong answer \(note: as we'll see this algorithm has) Tj
+T*
+(another liveness issue that happens during high load of requests\). So for the sake of playing a) Tj
+T*
+(bit more with distributed systems algorithms, and learn a bit more in the process, I tried to) Tj
+T*
+(find a solution. Actually I was aware of an algorithm that could solve the problem. It?s an) Tj
+T*
+(inefficient one, not suitable to generate tons of IDs per second. Many complex distributed) Tj
+T*
+(algorith...) Tj
+T*
+() Tj
+T*
+(27. HN Skins 0.2.0) Tj
+T*
+(Source: Susam Pal | Published: Sat, 28 Feb 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/code/news/hnskins/0.2.0.html) Tj
+T*
+(HN Skins 0.2.0 is a minor update of HN Skins. It comes a day after its initial release in order) Tj
+T*
+(to fine tune a few minor issues with the styles in the initial release. HN Skins is a web) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4011 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(browser userscript that adds custom themes to Hacker News and allows you to browse HN with) Tj
+T*
+(different visual styles. This update removes excessive vertical space below the 'reply' links,) Tj
+T*
+(sorts the skin options alphabetically in the selection dialog and fixes the background colour) Tj
+T*
+(of the navigation bar in the Terminal skin by changing it from a dark grey to a dark green.) Tj
+T*
+(Soon after making this release, I discovered a few other minor issues, such as the Cafe and) Tj
+T*
+(Terminal themes using Courier when I intended them to use the system monospace font. This has) Tj
+T*
+(already been fixed in the development version currently available on GitHub. However, I will) Tj
+T*
+(make a formal release later. See the changelog for more details. To see some screenshots of HN) Tj
+T*
+(Skins or to install it, visit github.com/susam/hnlinks and follow the instructions there. Read) Tj
+T*
+(on website | #web | #programming | #technology) Tj
+T*
+() Tj
+T*
+(28. Notes on Lagrange Interpolating Polynomials) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-02-28T18:58:00-08:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/) Tj
+T*
+(Polynomial interpolation is a method of finding a polynomial function that fits a given set of) Tj
+T*
+(data perfectly. More concretely, suppose we have a set of n+1 distinct points [1] :) Tj
+T*
+(\\[\(x_0,y_0\), \(x_1, y_1\), \(x_2, y_2\)\\cdots\(x_n, y_n\)\\] And we want to find the polynomial) Tj
+T*
+(coefficients {a_0\\cdots ?) Tj
+T*
+() Tj
+T*
+(29. You can now \(also\) buy Yarn Spinner) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Sat, 30 Mar 2024 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/yspl/) Tj
+T*
+(Yarn Spinner is now available for purchase! We?ve been working hard to make it easier for you) Tj
+T*
+(to get started with Yarn Spinner, and we?re excited to announce that you can now buy Yarn) Tj
+T*
+(Spinner on the Unity Asset Store , and the Itch Store . Yarn Spinner will always be free and) Tj
+T*
+(open source, but we?re excited to offer a way for you to support the project and get some extra) Tj
+T*
+(features and support in return.) Tj
+T*
+() Tj
+T*
+(30. I Feel Fine) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Mon, 15 Jan 2024 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/iff/) Tj
+T*
+(We?re thrilled to announce that our next game, I Feel Fine , is coming out this year! I Feel) Tj
+T*
+(Fine is developed by studio, Secret Lab , written by Eisner Award-winning writer Ryan North ,) Tj
+T*
+(powered by Yarn Spinner , and funded by Screen Tasmania : Great news! You?ll be dead in three) Tj
+T*
+(days. Here?s the situation. You?re a tourism information robot aboard a space station orbiting) Tj
+T*
+(Jupiter. An asteroid will hit the station in three days, destroying it and everything on it.) Tj
+T*
+(And you?re bolted to the floor.) Tj
+T*
+() Tj
+T*
+(31. Practical Simulations for Machine Learning is out now) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Thu, 30 Jun 2022 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/psml/) Tj
+T*
+(Another new book! Our latest book , written together with my wife Mars, plus friends Tim and) Tj
+T*
+(Jon, is out! It covers everything you need to know to do simulations using Unity ML-Agents, and) Tj
+T*
+(how to use them to train machine learning models. You can buy it from all sorts of book shops ,) Tj
+T*
+(as well as read it on O?Reilly?s Online Learning platform . You can learn about all the other) Tj
+T*
+(books I?ve written over the \(many\) years here .) Tj
+T*
+() Tj
+T*
+(32. A tale of Ghosts'n Goblins'n Crocos) Tj
+T*
+(Source: Fabien Sanglard | Published: 30 May 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/cpc/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(33. Revisiting the postcard pathtracer) Tj
+T*
+(Source: Fabien Sanglard | Published: 18 May 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/revisiting_the_pathtracer/index.html) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 3663 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(34. 0x10 rules) Tj
+T*
+(Source: Fabien Sanglard | Published: 7 May 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/ilike/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(35. Why on-device agentic AI can't keep up) Tj
+T*
+(Source: Martin Alderson | Published: Sun, 01 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/why-on-device-agentic-ai-cant-keep-up/?utm_source=rss) Tj
+T*
+(On-device AI agents sound great in theory. The maths on KV cache scaling, RAM budgets, and) Tj
+T*
+(inference speed says otherwise.) Tj
+T*
+() Tj
+T*
+(36. Price so it's interesting) Tj
+T*
+(Source: Keygen Blog | Published: Fri, 05 Sep 2025 05:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/price-so-its-interesting/) Tj
+T*
+(On aligning price with value, and product with market.) Tj
+T*
+() Tj
+T*
+(37. Expressions) Tj
+T*
+(Source: Keygen Blog | Published: Wed, 10 Sep 2025 05:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/expressions/) Tj
+T*
+(On changing tools, and why human expression will endure.) Tj
+T*
+() Tj
+T*
+(38. Announcing ECDSA P-256 support) Tj
+T*
+(Source: Keygen Blog | Published: Wed, 24 Sep 2025 05:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/announcing-ecdsa-p256/) Tj
+T*
+(Introducing support for ECDSA P-256, a NIST-approved algorithm offering smaller signatures,) Tj
+T*
+(faster verification, and FIPS 140-3 compliance.) Tj
+T*
+() Tj
+T*
+(39. Praatjes) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 01 Mar 2026 12:22:53 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/praatjes/) Tj
+T*
+(Publieke of in ieder geval breed aangekondigde praatjes. Tenzij anders vermeld was het) Tj
+T*
+(onderwerp minstens deels digitale autonomie, soevereiniteit, of cloudafhankelijkheid. De lijst) Tj
+T*
+(is nog niet compleet. Eerdere jaren zijn op mijn oude praatjespagina te vinden. Ook zijn er) Tj
+T*
+(praatjes die niet publiekelijk aangekondigd zijn. 2024 27 augstus, AFM \(AI\) 25 november,) Tj
+T*
+(Kiesraad 18 december, CBS 2025 29 januari, AMSEC/ABN Amro 11 feb, Incose 17 feb, Autoriteit) Tj
+T*
+(Persoonsgevens, personeelspraatje 27 februari, Cyssec, Schiphol 13 maart, Alliander 21 maart,) Tj
+T*
+(Webdev conferentie/php, Microstacks or megadependencies over at Webdevcon 2025 25 maart, Raad) Tj
+T*
+(voor de Rechtspraak 3 april, GROSC \(meldkamers\) 9 april, Belastingdienst expertdag 22 april,) Tj
+T*
+(Universiteit Utrecht, Descartes College 24 april, Tweede Kamer \(datamaand\), Data, experts en) Tj
+T*
+(politiek: een ongemakkelijke combinatie 8 mei, landmeetkundig genootschap 15 mei, Waag, staat) Tj
+T*
+(van het internet 5 juni, dcypher/NCC-NL ?Cyber Innovation Day? 13 juni, Publicspaces 17 juni) Tj
+T*
+(ECFR \(denktank\) 27 juni Joy of Code \(energiezuinig coden\) 3 juli, Auditdienst Rijk 7 juli,) Tj
+T*
+(internationale overheden en diensten 9 augustus, WHY 2025, DNA/moleculaire biologie Intro 10...) Tj
+T*
+() Tj
+T*
+(40. What we in the open world are messing up in trying to compete with big tech) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 18 May 2025 13:00:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/what-the-open-world-must-do-better/) Tj
+T*
+(Our societies and governments now largely run on American proprietary big-tech platforms. Many) Tj
+T*
+(of us want to decrease this dependency, or even end it altogether. This article is part of a) Tj
+T*
+(series of posts on \(European\) cloud challenges. Everyone in the open tech scene is full of good) Tj
+T*
+(intentions and we all want to improve things, but mostly we are not succeeding. By our nature,) Tj
+T*
+(we would like to build fun, open, federated, and standards-based things.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 729 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(41. A coherent European/non-US cloud strategy: building railroads for the cloud economy) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 07 May 2025 09:25:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/) Tj
+T*
+(In the earlier post ?But how to get to that European cloud?? I alluded to a coherent strategy) Tj
+T*
+(that might get us to such a non-US cloud. In the present article I hope to clarify what this) Tj
+T*
+(could mean, and why I think it could work. Here I focus especially on what should happen) Tj
+T*
+(concretely, and who should do it. Note that this page is compatible/congruent with the latest) Tj
+T*
+(EuroStack document.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 18 0 R >>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000168 00000 n 
+0000000238 00000 n 
+0000004621 00000 n 
+0000004747 00000 n 
+0000008852 00000 n 
+0000008978 00000 n 
+0000013639 00000 n 
+0000013765 00000 n 
+0000017399 00000 n 
+0000017527 00000 n 
+0000021716 00000 n 
+0000021844 00000 n 
+0000025908 00000 n 
+0000026036 00000 n 
+0000029752 00000 n 
+0000029880 00000 n 
+0000030661 00000 n 
+trailer
+<< /Size 20 /Root 1 0 R >>
+startxref
+30789
+%%EOF
