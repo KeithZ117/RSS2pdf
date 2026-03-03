@@ -1,0 +1,816 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 7 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4273 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-03 09:38:43) Tj
+T*
+() Tj
+T*
+(1. GIF optimization tool using WebAssembly and Gifsicle) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-02T16:35:10+00:00) Tj
+T*
+(Link:) Tj
+T*
+(https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything) Tj
+T*
+(Agentic Engineering Patterns > I like to include animated GIF demos in my online writing, often) Tj
+T*
+(recorded using LICEcap . There's an example in the Interactive explanations chapter. These GIFs) Tj
+T*
+(can be pretty big. I've tried a few tools for optimizing GIF file size and my favorite is) Tj
+T*
+(Gifsicle by Eddie Kohler. It compresses GIFs by identifying regions of frames that have not) Tj
+T*
+(changed and storing only the differences, and can optionally reduce the GIF color palette or) Tj
+T*
+(apply visible lossy compression for greater size reductions. Gifsicle is written in C and the) Tj
+T*
+(default interface is a command line tool. I wanted a web interface so I could access it in my) Tj
+T*
+(browser and visually preview and compare the different settings. I prompted Claude Code for web) Tj
+T*
+(\(from my iPhone using the Claude iPhone app\) against my simonw/tools repo with the following:) Tj
+T*
+(gif-optimizer.html Compile gifsicle to WASM, then build a web page that lets you open or) Tj
+T*
+(drag-drop an animated GIF onto it and it then shows you that GIF compressed using gifsicle with) Tj
+T*
+(a number of different settings, each preview with the size and a download button Also include) Tj
+T*
+(controls for the gifsicle options for manual use - each preview has a ?twea...) Tj
+T*
+() Tj
+T*
+(2. February sponsors-only newsletter) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-02T14:53:15+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/2/february-newsletter/#atom-everything) Tj
+T*
+(I just sent the February edition of my sponsors-only monthly newsletter . If you are a sponsor) Tj
+T*
+(\(or if you start a sponsorship now\) you can access it here . In this month's newsletter: More) Tj
+T*
+(OpenClaw, and Claws in general I started a not-quite-a-book about Agentic Engineering StrongDM,) Tj
+T*
+(Showboat and Rodney K?k?p? breeding season Model releases What I'm using, February 2026 edition) Tj
+T*
+(Here's a copy of the January newsletter as a preview of what you'll get. Pay $10/month to stay) Tj
+T*
+(a month ahead of the free copy! I use Claude as a proofreader for spelling and grammar via this) Tj
+T*
+(prompt which also asks it to "Spot any logical errors or factual mistakes". I'm delighted to) Tj
+T*
+(report that Claude Opus 4.6 called me out on this one: Tags: newsletter , kakapo , claude) Tj
+T*
+() Tj
+T*
+(3. Reply guy) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-23T13:11:57+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything) Tj
+T*
+(The latest scourge of Twitter is AI bots that reply to your tweets with generic, banal) Tj
+T*
+(commentary slop, often accompanied by a question to "drive engagement" and waste as much of) Tj
+T*
+(your time as possible. I just found out that the category name for this genre of software is) Tj
+T*
+(reply guy tools. Amazing. Tags: ai-ethics , twitter , slop , generative-ai , definitions , ai ,) Tj
+T*
+(llms) Tj
+T*
+() Tj
+T*
+(4. I built a pint-sized Macintosh) Tj
+T*
+(Source: Jeff Geerling | Published: Mon, 02 Mar 2026 15:15:00 -0600) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/) Tj
+T*
+(To kick off MARCHintosh , I built this tiny pint-sized Macintosh with a Raspberry Pi Pico: This) Tj
+T*
+(is not my own doing?I just assembled the parts to run Matt Evans' Pico Micro Mac firmware on a) Tj
+T*
+(Raspberry Pi Pico \(with an RP2040\). The version I built outputs to a 640x480 VGA display at 60) Tj
+T*
+(Hz, and allows you to plug in a USB keyboard and mouse. Since the original Pico's RAM is fairly) Tj
+T*
+(constrained, you get a maximum of 208 KB of RAM with this setup?which is 63% more RAM than you) Tj
+T*
+(got on the original '128K' Macintosh!) Tj
+T*
+() Tj
+T*
+(5. My first tweet) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Tue, 15 Jan 2008 00:00:00 GMT) Tj
+T*
+(Link: https://ericmigi.com/blog/my-first-tweet) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4351 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(6. [Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-03T00:20:21Z) Tj
+T*
+(Link: https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&utm_medium=newsletter&ut) Tj
+T*
+(m_campaign=q12026) Tj
+T*
+(npx workos launches an AI agent , powered by Claude, that reads your project, detects your) Tj
+T*
+(framework, and writes a complete auth integration directly into your existing codebase. It?s) Tj
+T*
+(not a template generator. It reads your code, understands your stack, and writes an integration) Tj
+T*
+(that fits. The WorkOS agent then typechecks and builds, feeding any errors back to itself to) Tj
+T*
+(fix. See how it works ? ?) Tj
+T*
+() Tj
+T*
+(7. ? HazeOver ? Mac Utility for Highlighting the Frontmost Window) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-02T23:41:11Z) Tj
+T*
+(Link: https://daringfireball.net/2026/03/hazeover) Tj
+T*
+(What HazeOver does is highlight the active window by dimming all background windows. That?s it.) Tj
+T*
+(But it does this simple task with aplomb, and it makes a significant difference in the) Tj
+T*
+(day-to-day usability of MacOS.) Tj
+T*
+() Tj
+T*
+(8. Unsung Heroes: Flickr?s URLs Scheme) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-02T22:59:41Z) Tj
+T*
+(Link: https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/) Tj
+T*
+(Marcin Wichary, writing at Unsung \(which is just an incredibly good and fun weblog\): Half of my) Tj
+T*
+(education in URLs as user interface came from Flickr in the late 2000s. Its URLs looked like) Tj
+T*
+(this: flickr.com/photos/mwichary/favorites flickr.com/photos/mwichary/sets) Tj
+T*
+(flickr.com/photos/mwichary/sets/72177720330077904 flickr.com/photos/mwichary/54896695834) Tj
+T*
+(flickr.com/photos/mwichary/54896695834/in/set-72177720330077904 This was incredible and a) Tj
+T*
+(breath of fresh air. No redundant www. in front or awkward .php at the end. No parameters with) Tj
+T*
+(their unpleasant ?&= syntax. No % signs partying with hex codes. When you shared these URLs) Tj
+T*
+(with others, you didn?t have to retouch or delete anything. When Chrome?s address bar started) Tj
+T*
+(autocompleting them, you knew exactly where you were going. This might seem silly. The user) Tj
+T*
+(interface of URLs ? Who types in or edits URLs by hand? But keyboards are still the most) Tj
+T*
+(efficient entry device. If a place you?re going is where you?ve already been, typing a few) Tj
+T*
+(letters might get you there much faster than waiting for pages to load, clicking, and so on. In) Tj
+T*
+(general, URLs at Daring Fireball try to work like this. This post:) Tj
+T*
+(/linked/2026/03/02/wichary-flickr-urls I...) Tj
+T*
+() Tj
+T*
+(9. Mo Samuels wrote this post) Tj
+T*
+(Source: iDiallo.com | Published: Mon, 02 Mar 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/why-we-hate-llm-articles?src=feed) Tj
+T*
+(Last year, I pushed myself to write and publish every other day for the whole year. I had) Tj
+T*
+(accumulated a large number of subjects over the years, and I was ready to start blogging again.) Tj
+T*
+(After writing a dozen or so articles, I couldn't keep up. What was I thinking? 180 articles in) Tj
+T*
+(a year is too much. I barely wrote 4 articles in 2024. But there was this new emerging) Tj
+T*
+(technology that people wouldn't stop talking about. What if I used it to help me achieve my) Tj
+T*
+(goal? Have you ever heard of Mo Samuels? You probably haven't. But you must have heard of Seth) Tj
+T*
+(Godin , right? Seth Godin is the author of several bestsellers. He is an icon in the world of) Tj
+T*
+(marketing, and at one point he nudged me just enough to quit an old job. This is someone I) Tj
+T*
+(deeply respected, and I bought his book All Marketers are Liars with great anticipation. I was) Tj
+T*
+(several chapters in when he dropped this statement: I didn't write this book. What does he mean) Tj
+T*
+(by that? His name is on the cover. These are the familiar words I often heard in his seminars.) Tj
+T*
+(What is he trying to say? What I mean is that Seth Godin didn't write this book. It was written) Tj
+T*
+(by a freelancer for hire named Mo Samuels. Godin hired me to write it based o...) Tj
+T*
+() Tj
+T*
+(10. What sort of horrible things happen if my dialog has a non-button with the control ID) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4099 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(of IDCANCEL?) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 02 Mar 2026 20:55:53 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098) Tj
+T*
+(You get notifications that might not make sense. The post What sort of horrible things happen) Tj
+T*
+(if my dialog has a non-button with the control ID of IDCANCEL ? appeared first on The Old New) Tj
+T*
+(Thing .) Tj
+T*
+() Tj
+T*
+(11. Differential equation with a small delay) Tj
+T*
+(Source: John D. Cook | Published: Mon, 02 Mar 2026 16:08:49 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/02/small-delay/) Tj
+T*
+(In grad school I specialized in differential equations, but never worked with) Tj
+T*
+(delay-differential equations, equations specifying that a solution depends not only on its) Tj
+T*
+(derivatives but also on the state of the function at a previous time. The first time I worked) Tj
+T*
+(with a delay-differential equation would come a couple decades later when I did [?] The post) Tj
+T*
+(Differential equation with a small delay first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. The Unbound Scepter) Tj
+T*
+(Source: Xe Iaso's blog | Published: Mon, 02 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/blog/2026/seroquel-xanax-trip-report/) Tj
+T*
+(My post-surgery medication stack gave me the most on-the-nose dream of my life.) Tj
+T*
+() Tj
+T*
+(13. Transitive Trust) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-02T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/02/transitive-trust.html) Tj
+T*
+(Ken Thompson?s 1984 Turing Award lecture, Reflections on Trusting Trust , described a C) Tj
+T*
+(compiler modified to insert a backdoor into the login program, then modified again so the) Tj
+T*
+(compiler would replicate the backdoor in future versions of itself without any trace in the) Tj
+T*
+(source. The source was clean, the binary was compromised, and the only way to discover the) Tj
+T*
+(backdoor was to rebuild the entire compiler toolchain from scratch and compare the output,) Tj
+T*
+(which nobody was going to do. The explosion of open source was built on this kind of transitive) Tj
+T*
+(trust between maintainers. A package with 800 transitive dependencies works because each) Tj
+T*
+(maintainer along the way did a reasonable job of choosing and maintaining their own) Tj
+T*
+(dependencies, and the maintainers they depended on did the same. Nobody designed this trust) Tj
+T*
+(network or audited it as a whole. It just grew as people built on each other?s work, and it has) Tj
+T*
+(held up well enough that we?ve come to take it for granted, even as bad actors have started to) Tj
+T*
+(map its weak points. We have decent tools now for scanning our own dependency trees. You can) Tj
+T*
+(run npm audit or Dependabot or Snyk against your lockfile and get a report on known) Tj
+T*
+(vulnerabilities. B...) Tj
+T*
+() Tj
+T*
+(14. Adding "Log In With Mastodon" to Auth0) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 02 Mar 2026 12:34:48 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/adding-log-in-with-mastodon-to-auth0/) Tj
+T*
+(I use Auth0 to provide social logins for the OpenBenches website. I don't want to deal with) Tj
+T*
+(creating user accounts, managing passwords, or anything like that, so Auth0 is perfect for my) Tj
+T*
+(needs. There are a wide range of social media logins provided by Auth0 - including the usual) Tj
+T*
+(suspects like Facebook, Twitter, WordPress, Discord, etc. Sadly, there's no support for) Tj
+T*
+(Mastodon. All is not lost?) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: No one wants to read your AI slop \(02 Mar 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 02 Mar 2026 09:22:11) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/03/02/nonconsensual-slopping/) Tj
+T*
+(Today's links No one wants to read your AI slop: If you must do this, for god's sake, do it) Tj
+T*
+(privately. Hey look at this: Delights to delectate. Object permanence: AOL email tax; Ebook) Tj
+T*
+(readers' bill of rights; Sanders media blackout. Upcoming appearances: Where to find me. Recent) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4084 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. No one wants to) Tj
+T*
+(read your AI slop \(permalink\) Everyone knows \(or should know\) that as fascinating as your) Tj
+T*
+(dreams are to you, they are eye-glazingly dull to everyone else. Perhaps you have a friend or) Tj
+T*
+(two who will tolerate you recounting your dreams at them \(treasure those friends\), but you) Tj
+T*
+(should never, ever presume that other people want to hear about your dreams. The same is true) Tj
+T*
+(of your conversations with chatbots. Even if you find these conversations interesting, you) Tj
+T*
+(should never assume that anyone else will be entertained by them. In the absence of an explicit) Tj
+T*
+(reassurance to the contrary, you should presume that recounting your AI chatbot sessions to) Tj
+T*
+(your friends is an imposition on the friendship, and forwarding the transcripts of those se...) Tj
+T*
+() Tj
+T*
+(16. Book Notes: ?Blood In The Machine? by Brian Merchant) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 01 Mar 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/book-notes-blood-in-the-machine/) Tj
+T*
+(For my future self, these are a few of my notes from this book . A take from one historian on) Tj
+T*
+(the Luddite movement: If workmen disliked certain machines, it was because of the use that they) Tj
+T*
+(were being put, not because they were machines or because they were new Can?t help but think of) Tj
+T*
+(AI. I don?t worry about AI becoming AGI and subjugating humanity. I worry that it?s put to use) Tj
+T*
+(consolidating power and wealth into the hands of a few at the expense of many. The Luddites) Tj
+T*
+(smashed things: to destroy, specifically, ?machinery hurtful to commonality? ? machinery that) Tj
+T*
+(tore at the social fabric, unduly benefitting a singly party at the expense of the rest of the) Tj
+T*
+(community. Those who deploy automation can use it to erode the leverage and earning power of) Tj
+T*
+(others, to capture for themselves the former earnings of a worker. It?s no wonder CEOs are all) Tj
+T*
+(about their employees using AI: it gives them the leverage. Respect for the natural rights of) Tj
+T*
+(humans has been displaced in favor of the unnatural rights of property. Richard Arkwright was) Tj
+T*
+(an entrepreneur in England. His ?innovation? wasn?t the technology for spinning yarn he) Tj
+T*
+(invented \(?pieced together from the inventions of others? would be a bett...) Tj
+T*
+() Tj
+T*
+(17. The Fatal Pinch) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/pinch.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(18. Mean People Fail) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/mean.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(19. Before the Startup) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/before.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. Is Redlock safe?) Tj
+T*
+(Source: antirez.com | Published: Tue, 09 Feb 2016 16:33:51 +0100) Tj
+T*
+(Link: http://antirez.com/news/101) Tj
+T*
+(Martin Kleppmann, a distributed systems researcher, yesterday published an analysis of Redlock) Tj
+T*
+(\(http://redis.io/topics/distlock\), that you can find here:) Tj
+T*
+(http://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html Redlock is a client) Tj
+T*
+(side distributed locking algorithm I designed to be used with Redis, but the algorithm) Tj
+T*
+(orchestrates, client side, a set of nodes that implement a data store with certain) Tj
+T*
+(capabilities, in order to create a multi-master fault tolerant, and hopefully safe, distributed) Tj
+T*
+(lock with auto release capabilities. You can implement Redlock using MySQL instead of Redis,) Tj
+T*
+(for example. The algorithm's goal was to move away people that were using a single Redis) Tj
+T*
+(instance, or a master-slave setup with failover, in order to implement distributed locks, to) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4159 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(something much more reliable and safe, but having a very low complexity and good performance.) Tj
+T*
+(Since I published Redlock people implemented it in multiple languages and used it for different) Tj
+T*
+(purposes. Martin's analysis of the algorithm concludes that Redlock is not safe. It is great) Tj
+T*
+(that Martin published an analysis, I asked for an analysis in the original Redlock) Tj
+T*
+(specification here: http://redis.io/topics/d...) Tj
+T*
+() Tj
+T*
+(21. Disque 1.0 RC1 is out!) Tj
+T*
+(Source: antirez.com | Published: Sat, 02 Jan 2016 16:26:07 +0100) Tj
+T*
+(Link: http://antirez.com/news/100) Tj
+T*
+(Today I?m happy to announce that the first release candidate for Disque 1.0 is available. If) Tj
+T*
+(you don't know what Disque is, the best starting point is to read the README in the Github) Tj
+T*
+(project page at http://github.com/antirez/disque. Disque is a just piece of software, so it has) Tj
+T*
+(a material value which can be zero or more, depending on its ability to make useful things for) Tj
+T*
+(people using it. But for me there is an huge value that goes over what Disque, materially, is.) Tj
+T*
+(It is the value of designing and doing something you care about. It?s the magic of programming:) Tj
+T*
+(where there was nothing, now there is something that works, that other people may potentially) Tj
+T*
+(analyze, run, use. Distributed systems are a beautiful field. Thanks to Redis, and to the) Tj
+T*
+(people that tried to mentor me in a way or the other, I got exposed to distributed systems. I) Tj
+T*
+(wanted to translate this love to something tangible. A new, small system, designed from) Tj
+T*
+(scratch, without prejudices and without looking too closely to what other similar systems were) Tj
+T*
+(doing. The experience with Redis shown me that message brokers were a very interesting topic,) Tj
+T*
+(and that in some way, they are the perfect topic to apply DS concepts. I even...) Tj
+T*
+() Tj
+T*
+(22. Generating unique IDs: an easy and reliable way) Tj
+T*
+(Source: antirez.com | Published: Sat, 21 Nov 2015 15:47:01 +0100) Tj
+T*
+(Link: http://antirez.com/news/99) Tj
+T*
+(Two days ago Mike Malone published an interesting post on Medium about the V8 implementation of) Tj
+T*
+(Math.random\(\), and how weak is the quality of the PRNG used: http://bit.ly/1SPDraN. The post) Tj
+T*
+(was one of the top news on Hacker News today. It?s pretty clear and informative from the point) Tj
+T*
+(of view of how Math.random\(\) is broken and how should be fixed, so I?ve nothing to add to the) Tj
+T*
+(matter itself. But since the author discovered the weakness of the PRNG in the context of) Tj
+T*
+(generating large probably-non-colliding IDs, I want to share with you an alternative that I) Tj
+T*
+(used multiple times in the past, which is fast and extremely reliable. The problem of unique) Tj
+T*
+(IDs - - - So, in theory, if you want to generate unique IDs you need to store some state that) Tj
+T*
+(makes sure an ID is never repeated. In the trivial case you may use just a simple counter.) Tj
+T*
+(However the previous ID generated must be stored in a consistent way. In case of restart of the) Tj
+T*
+(system, it should never happen that the same ID is generated again because our stored counter) Tj
+T*
+(was not correctly persisted on disk. If we want to generate unique IDs using multiple) Tj
+T*
+(processes, each process needs to make sure to prepend its IDs with some process-speci...) Tj
+T*
+() Tj
+T*
+(23. An history of NVidia Stream Multiprocessor) Tj
+T*
+(Source: Fabien Sanglard | Published: 2 May 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/cuda/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(24. Revisiting the Businesscard Raytracer) Tj
+T*
+(Source: Fabien Sanglard | Published: 1 May 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/revisiting_the_businesscard_raytracer/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(25. The Making Of Stunt Island) Tj
+T*
+(Source: Fabien Sanglard | Published: 21 Apr 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/stunt_island/index.html) Tj
+T*
+(How Stunt Island from IBM PC was programmed back in 1992!) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3534 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(26. Weekly Update 493) Tj
+T*
+(Source: Troy Hunt | Published: Mon, 02 Mar 2026 07:51:14 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-493/) Tj
+T*
+(The Odido breach leaks were towards the beginning during this week's update. I recorded it the) Tj
+T*
+(day after the second dump of data had hit, with a third dump coming a few hours later, and a) Tj
+T*
+(final dump of everything the day after that. From what I hear,) Tj
+T*
+() Tj
+T*
+(27. Head First Swift) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Fri, 31 Dec 2021 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/hfs/) Tj
+T*
+(It?s finally done! My latest book , written together with my Jon, is out! It?s a fantastic,) Tj
+T*
+(visual beginners guide to Swift programming, with an emphasis on using Swift Playgrounds. I?m) Tj
+T*
+(really proud of it. You can buy it from all sorts of book shops , as well as read it on) Tj
+T*
+(O?Reilly?s Online Learning platform .) Tj
+T*
+() Tj
+T*
+(28. Night in the Woods for iOS) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Thu, 09 Sep 2021 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/nitwios/) Tj
+T*
+(We?re thrilled to announce that Night in the Woods, a game we?ve been working on for some time,) Tj
+T*
+(is now also out for iOS. You can grab it today on the iOS App Store. Go do crimes.) Tj
+T*
+() Tj
+T*
+(29. Practical Artificial Intelligence with Swift is out now) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Sun, 03 Nov 2019 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/pais/) Tj
+T*
+(Our latest book , written together with my partner Mars, plus friends Tim and Jon, is out! It) Tj
+T*
+(covers everything you need to know to do practical AI with Swift \(hence its title: Practical) Tj
+T*
+(Artificial Intelligence with Swift, clever right?\). You can buy it from all sorts of book shops) Tj
+T*
+(, as well as read it on O?Reilly?s Online Learning platform .) Tj
+T*
+() Tj
+T*
+(30. Announcing support for memory and disk consumption) Tj
+T*
+(Source: Keygen Blog | Published: Thu, 25 Sep 2025 05:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/announcing-memory-and-disk-consumption/) Tj
+T*
+(Introducing support for machine memory and disk consumption and enforcement.) Tj
+T*
+() Tj
+T*
+(31. Luck is a harsh mistress) Tj
+T*
+(Source: Keygen Blog | Published: Fri, 07 Nov 2025 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/luck-is-a-harsh-mistress/) Tj
+T*
+(On Games of Luck, Games of Skill, and the Game of Life.) Tj
+T*
+() Tj
+T*
+(32. Why fair source matters) Tj
+T*
+(Source: Keygen Blog | Published: Wed, 10 Dec 2025 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/why-fair-source-matters/) Tj
+T*
+(On the meaning of "open source" and a path forward.) Tj
+T*
+() Tj
+T*
+(33. But first, connect with your audience) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 02 May 2025 19:21:27 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/but-first-connect-with-your-audience/) Tj
+T*
+(I do a lot of talks and because of this I also attend quite a lot of them. I?ve previously) Tj
+T*
+(shared some hopefully useful advice on how to give a decent presentation. But there?s something) Tj
+T*
+(I?d like to add. I?m still somewhat on hiatus, but things appear to be going better! To give) Tj
+T*
+(the most effective presentation, you must always think about the audience. You are not there) Tj
+T*
+(for your personal enjoyment.) Tj
+T*
+() Tj
+T*
+(34. 'The cloud' is not just servers. 'Going to the cloud' could also mean locking into a) Tj
+T*
+(forever sub-contractor) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 1469 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Bert Hubert's writings | Published: Sun, 27 Apr 2025 09:05:22 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/beware-cloud-is-part-of-the-software/) Tj
+T*
+(The very brief version: ?going to the cloud? can mean renting services/servers that you could) Tj
+T*
+(get from anywhere. There?s little lock-in. The same four words ?going to the cloud? might also) Tj
+T*
+(mean locking your operations to a specific cloud provider, whose proprietary services will now) Tj
+T*
+(be part of your business processes ?forever?. Be specific which variant of cloud you are) Tj
+T*
+(signing off on! I?m mostly out of the office but this post was already in the pipeline and I) Tj
+T*
+(thought it might be useful to get it out.) Tj
+T*
+() Tj
+T*
+(35. Out of the Office: Into each life some rain must fall) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 20 Apr 2025 18:39:17 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/out-of-office-in-every-life-some-rain-must-fall/) Tj
+T*
+(It is written that into each life some rain must fall, and currently a lot is falling on my) Tj
+T*
+(family. We?re getting very good care and lots of support, so please don?t worry about us. I?m) Tj
+T*
+(told we?ll get out of this. Consider this my ?out of office reply? on many of my projects and) Tj
+T*
+(activities. I?m out of it for a bit. I know lots of people have seen me drop out of meetings) Tj
+T*
+(and presentations, now you know why.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000161 00000 n 
+0000000231 00000 n 
+0000004556 00000 n 
+0000004682 00000 n 
+0000009085 00000 n 
+0000009211 00000 n 
+0000013362 00000 n 
+0000013488 00000 n 
+0000017625 00000 n 
+0000017753 00000 n 
+0000021965 00000 n 
+0000022093 00000 n 
+0000025680 00000 n 
+0000025808 00000 n 
+0000027330 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+27458
+%%EOF
