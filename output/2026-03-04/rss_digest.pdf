@@ -1,0 +1,946 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R] /Count 8 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4336 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-04 09:37:44) Tj
+T*
+() Tj
+T*
+(1. Giving LLMs a personality is just good engineering) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Tue, 03 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/giving-llms-a-personality/) Tj
+T*
+(AI skeptics often argue that current AI systems shouldn?t be so human-like. The idea - most) Tj
+T*
+(recently expressed in this opinion piece by Nathan Beacom - is that language models should) Tj
+T*
+(explicitly be tools, like calculators or search engines. Although they can pretend to be) Tj
+T*
+(people, they shouldn?t, because it encourages users to overestimate AI capabilities and \(at) Tj
+T*
+(worst\) slip into AI psychosis . Here?s a representative paragraph from the piece: In sum, so) Tj
+T*
+(much of the confusion around making AI moral comes from fuzzy thinking about the tools at hand.) Tj
+T*
+(There is something that Anthropic could do to make its AI moral, something far more simple,) Tj
+T*
+(elegant, and easy than what Askell is doing. Stop calling it by a human name, stop dressing it) Tj
+T*
+(up like a person, and don?t give it the functionality to simulate personal relationships,) Tj
+T*
+(choices, thoughts, beliefs, opinions, and feelings that only persons really possess. Present) Tj
+T*
+(and use it only for what it is: an extremely impressive statistical tool, and an imperfect one.) Tj
+T*
+(If we all used the tool accordingly, a great deal of this moral trouble would be resolved. So) Tj
+T*
+(why do Claude and ChatGPT act like people? According to Beacom, AI labs have built hum...) Tj
+T*
+() Tj
+T*
+(2. Quoting Donald Knuth) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-03T23:59:04+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything) Tj
+T*
+(Shock! Shock! I learned yesterday that an open problem I'd been working on for several weeks) Tj
+T*
+(had just been solved by Claude Opus 4.6 - Anthropic's hybrid reasoning model that had been) Tj
+T*
+(released three weeks earlier! It seems that I'll have to revise my opinions about "generative) Tj
+T*
+(AI" one of these days. What a joy it is to learn not only that my conjecture has a nice) Tj
+T*
+(solution but also to celebrate this dramatic advance in automatic deduction and creative) Tj
+T*
+(problem solving. ? Donald Knuth , Claude's Cycles Tags: november-2025-inflection , claude ,) Tj
+T*
+(generative-ai , ai , llms , donald-knuth , llm-reasoning , anthropic) Tj
+T*
+() Tj
+T*
+(3. Gemini 3.1 Flash-Lite) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-03T21:53:54+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything) Tj
+T*
+(Gemini 3.1 Flash-Lite Google's latest model is an update to their inexpensive Flash-Lite) Tj
+T*
+(family. At $0.25/million tokens of input and $1.5/million output this is 1/8th the price of) Tj
+T*
+(Gemini 3.1 Pro. It supports four different thinking levels, so I had it output four different) Tj
+T*
+(pelicans : minimal low medium high Tags: google , ai , generative-ai , llms , llm , gemini ,) Tj
+T*
+(llm-pricing , pelican-riding-a-bicycle , llm-release) Tj
+T*
+() Tj
+T*
+(4. Quoting Summer Yue) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-23T13:01:13+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Feb/23/summer-yue/#atom-everything) Tj
+T*
+(Nothing humbles you like telling your OpenClaw ?confirm before acting? and watching it speedrun) Tj
+T*
+(deleting your inbox. I couldn?t stop it from my phone. I had to RUN to my Mac mini like I was) Tj
+T*
+(defusing a bomb. I said ?Check this inbox too and suggest what you would archive or delete,) Tj
+T*
+(don?t action until I tell you to.? This has been working well for my toy inbox, but my real) Tj
+T*
+(inbox was too huge and triggered compaction. During the compaction, it lost my original) Tj
+T*
+(instruction ???? ? Summer Yue Tags: ai-ethics , generative-ai , ai-agents , openclaw , ai ,) Tj
+T*
+(llms) Tj
+T*
+() Tj
+T*
+(5. Just for fun: A survey of write protect notches on floppy disks and other media) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 03 Mar 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260303-00/?p=112104) Tj
+T*
+(Just some useless trivia. The post Just for fun: A survey of write protect notches on floppy) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4620 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(disks and other media appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(6. Apple Announces Updated Studio Display and All-New Studio Display XDR) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-03T21:25:07Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studi) Tj
+T*
+(o-display-xdr/) Tj
+T*
+(Apple Newsroom: Apple today announced a new family of displays engineered to pair beautifully) Tj
+T*
+(with Mac and meet the needs of everyone, from everyday users to the world?s top pros. The new) Tj
+T*
+(Studio Display features a 12MP Center Stage camera, now with improved image quality and support) Tj
+T*
+(for Desk View; a studio-quality three-microphone array; and an immersive six-speaker sound) Tj
+T*
+(system with Spatial Audio. It also now includes powerful Thunderbolt 5 connectivity, providing) Tj
+T*
+(more downstream connectivity for high-speed accessories or daisy-chaining displays. The all-new) Tj
+T*
+(Studio Display XDR takes the pro display experience to the next level. Its 27-inch 5K Retina) Tj
+T*
+(XDR display features an advanced mini-LED backlight with over 2,000 local dimming zones, up to) Tj
+T*
+(1000 nits of SDR brightness, and 2000 nits of peak HDR brightness, in addition to a wider color) Tj
+T*
+(gamut, so content jumps off the screen with breathtaking contrast, vibrancy, and accuracy. With) Tj
+T*
+(its 120Hz refresh rate, Studio Display XDR is even more responsive to content in motion, and) Tj
+T*
+(Adaptive Sync dynamically adjusts frame rates for content like video playback or graphically) Tj
+T*
+(intense games. Studio Display XDR offers the same advanced camera a...) Tj
+T*
+() Tj
+T*
+(7. New MacBook Air With M5) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-03T21:08:42Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/) Tj
+T*
+(Apple Newsroom: MacBook Air now comes standard with double the starting storage at 512GB with) Tj
+T*
+(faster SSD technology, and is configurable up to 4TB, so customers can keep their most) Tj
+T*
+(important work on hand. Apple?s N1 wireless chip delivers Wi-Fi 7 and Bluetooth 6 for seamless) Tj
+T*
+(connectivity on the go. MacBook Air features a beautifully thin, light, and durable aluminum) Tj
+T*
+(design, stunning Liquid Retina display, 12MP Center Stage camera, up to 18 hours of battery) Tj
+T*
+(life, an immersive sound system with Spatial Audio, and two Thunderbolt 4 ports with support) Tj
+T*
+(for up to two external displays. Base storage went from 256 to 512 GB, but the base price went) Tj
+T*
+(from the magic $999 to $1,100 \($1,099, technically, which doesn?t make the 99 seem magic\).) Tj
+T*
+(Presumably, those in the market for a $999 MacBook will buy the new) Tj
+T*
+(about-to-be-announced-tomorrow lower-priced MacBook ? Neo ?, which I?m guessing will start at) Tj
+T*
+($800 \($799\), maybe as low as $700 \($699\), but will surely have higher-priced configurations for) Tj
+T*
+(additional storage. Today?s new M5 MacBook Airs have storage upgrades of: 1 TB \(+ $200\) 2 TB \(+) Tj
+T*
+($600\) 4 TB \(+ $1,200\) Colors remain unchanged \(and in my opinion, boring\): midnight, starlight,) Tj
+T*
+(silver, s...) Tj
+T*
+() Tj
+T*
+(8. Apple Might Have Prematurely Leaked the Name ?MacBook Neo?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-03T20:59:43Z) Tj
+T*
+(Link: https://www.macrumors.com/2026/03/03/apple-accidentally-leaks-macbook-neo/) Tj
+T*
+(Joe Rossignol, MacRumors: A regulatory document for a ?MacBook Neo? \(Model A3404\) has appeared) Tj
+T*
+(on Apple?s website. Unfortunately, there are no further details or images available yet. While) Tj
+T*
+(the PDF file does not contain the ?MacBook Neo? name, it briefly appeared in a link on Apple?s) Tj
+T*
+(regulatory website for EU compliance purposes. My money was on just plain ?MacBook?, but I like) Tj
+T*
+(?MacBook Neo?. ?) Tj
+T*
+() Tj
+T*
+(9. An AI Odyssey, Part 1: Correctness Conundrum) Tj
+T*
+(Source: John D. Cook | Published: Tue, 03 Mar 2026 02:40:22 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/) Tj
+T*
+(I recently talked with a contact who repeated what he?d heard regarding agentic AI) Tj
+T*
+(systems?namely, that they can greatly increase productivity in professional financial) Tj
+T*
+(management tasks. However, I pointed out that though this is true, these tools do not guarantee) Tj
+T*
+(correctness, so one has to be very careful letting them manage critical assets such as [?] The) Tj
+T*
+(post An AI Odyssey, Part 1: Correctness Conundrum first appeared on John D. Cook .) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4314 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(10. Game Review: Unravel Two ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 03 Mar 2026 12:34:43 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/game-review-unravel-two/) Tj
+T*
+(My new year's resolution is to play more video games. Specifically co-operative games. I hate) Tj
+T*
+(playing competitively; it's rubbish to achieve victory at the expense of someone else. So I) Tj
+T*
+(asked for recommendations and picked the cheapest thing that looked reasonable. Unravel Two is) Tj
+T*
+(a little gem! It's a 2D platform puzzler dressed up in a 3D engine. You and your friend play) Tj
+T*
+(little string?) Tj
+T*
+() Tj
+T*
+(11. Package Management is Naming All the Way Down) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-03T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html) Tj
+T*
+(Package managers are usually described by what they do: resolve dependencies, download code,) Tj
+T*
+(build artifacts. But if you look at the structure of the system instead of the process, nearly) Tj
+T*
+(every part of it is a naming problem, and the whole thing works because we?ve agreed on how to) Tj
+T*
+(interpret strings at each layer and because a registry sits in the middle translating between) Tj
+T*
+(them. Registries When you run gem install rails , the client needs to know where to look.) Tj
+T*
+(RubyGems defaults to rubygems.org, pip to pypi.org, npm to registry.npmjs.org, and that default) Tj
+T*
+(is just a URL baked into the client configuration. You can change it, which is exactly what) Tj
+T*
+(makes dependency confusion possible: if your client checks a public registry before a private) Tj
+T*
+(one and the names overlap, an attacker who registers the right name on the public registry) Tj
+T*
+(wins. Companies run private registries with different names for the same packages, or the same) Tj
+T*
+(names for different packages. Nix, Guix, and Spack layer multiple package repositories with) Tj
+T*
+(their own namespaces on top of each other. Go uses URL-based module paths where the registry) Tj
+T*
+(name is literally embedded in the package identity. Which registry you?re talki...) Tj
+T*
+() Tj
+T*
+(12. Nobody Gets Promoted for Simplicity) Tj
+T*
+(Source: Terrible Software | Published: Tue, 03 Mar 2026 12:22:26 +0000) Tj
+T*
+(Link: https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) Tj
+T*
+(We reward complexity and ignore simplicity. In interviews, design reviews, and promotions.) Tj
+T*
+(Here's how to fix it.) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: Supreme Court saves artists from AI \(03 Mar 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 03 Mar 2026 18:26:13) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/03/03/its-a-trap-2/) Tj
+T*
+(Today's links Supreme Court saves artists from AI: Just because you're on their side, it) Tj
+T*
+(doesn't mean they're on your side. Hey look at this: Delights to delectate. Object permanence:) Tj
+T*
+(KKK x D&D; Martian creativity; Scott Walker's capital ringers; UK v adblocking; Shitty jihadi) Tj
+T*
+(opsec. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest) Tj
+T*
+(books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep) Tj
+T*
+(writin' 'em. Colophon: All the rest. Supreme Court saves artists from AI \(permalink\) The) Tj
+T*
+(Supreme Court has just turned down a petition to hear an appeal in a case that held that AI) Tj
+T*
+(works can't be copyrighted. By turning down the appeal, the Supreme Court took a massively) Tj
+T*
+(consequential step to protect creative workers' interests:) Tj
+T*
+(https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright At the core of the) Tj
+T*
+(dispute is a bedrock of copyright law: that copyright is for humans, and humans alone. In) Tj
+T*
+(legal/technical terms, "copyright inheres at the moment of fixation of a work of human) Tj
+T*
+(creativity." Most people ? even people who work with copyright every day ? have not heard it) Tj
+T*
+(put in those terms. Nevertheless, it is the founda...) Tj
+T*
+() Tj
+T*
+(14. Free Books) Tj
+T*
+(Source: Computer Things | Published: Tue, 03 Mar 2026 16:34:33 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/free-books/) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3560 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Spinning a lot of plates this week so skipping the newsletter. As an apology, have ten free) Tj
+T*
+(copies of Logic for Programmers . These five are available now. These five should be available) Tj
+T*
+(at 10:30 AM CEST tomorrow, so people in Europe have a better chance of nabbing one.) Tj
+T*
+() Tj
+T*
+(15. A soft-landing manual for the second gilded age) Tj
+T*
+(Source: Westenberg. | Published: Tue, 03 Mar 2026 21:06:34 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/a-soft-landing-manual-for-the-second-gilded-age/) Tj
+T*
+(By the summer of 1945, West Berlin had been reduced to rubble. Allied bombing, the Soviet) Tj
+T*
+(ground assault and Hitler's insistence on Gˆtterd‰mmerung had destroyed roughly a third of the) Tj
+T*
+(city's buildings and left most of the rest damaged. There was no) Tj
+T*
+() Tj
+T*
+(16. The AI Bubble Is An Information War) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 03 Mar 2026 17:18:22 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/) Tj
+T*
+(Editor's Note: Apologies if you received this email twice - we had an issue with our mail) Tj
+T*
+(server that meant it was hitting spam in many cases! Hi! If you like this piece and want to) Tj
+T*
+(support my work, please subscribe to my premium newsletter. It?s) Tj
+T*
+() Tj
+T*
+(17. w0rdz aRe 1mpoRtAnt) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Tue, 03 Mar 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/w0rdz-aRe-1mpoRtAnt/) Tj
+T*
+(The other day I was looking at the team billing section of an AI product. They had a widget) Tj
+T*
+(labeled ?Usage leaderboard?. For whatever reason, that phrase at that moment made me pause and) Tj
+T*
+(reflect ? and led me here to this post. It?s an interesting label. You could argue the widget) Tj
+T*
+(doesn?t even need a label. You can look at it and understood at a glance: ?This is a list of) Tj
+T*
+(people sorted by their AI usage, greatest to least.? But it has that label. It could have a) Tj
+T*
+(different label. Imagine, for a moment, different names for this widget ? each one conjuring) Tj
+T*
+(different meanings for its purpose and use: ?Usage leaderboard? ?Usage dashboard? ?Usage wall) Tj
+T*
+(of shame? Usage leaderboard implies more usage is better. Who doesn?t want to be at or near the) Tj
+T*
+(top of a leaderboard at work? If you?re not on the leaderboard, what?s that mean for your) Tj
+T*
+(standing in the company? You better get to work! Calling it a leaderboard imbues the idea of) Tj
+T*
+(usage with meaning ? more is better! All of that accomplished solely via a name. Usage) Tj
+T*
+(dashboard seems more neutral. It?s not implying that usage is good or bad. It just is , and) Tj
+T*
+(this is where you can track it. Usage wall of shame sounds terrible! Who wants to be on...) Tj
+T*
+() Tj
+T*
+(18. How to Raise Money) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/fr.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(19. Investor Herd Dynamics) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/herd.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. How to Convince Investors) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/convince.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(21. Teaching Children to Bicycle) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 03 Mar 2026 00:00:00 +0100) Tj
+T*
+(Link: https://entropicthoughts.com/teaching-children-to-bicycle) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3964 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(22. Betting Against Substack) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-03-03T04:56:00Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17288375/betting-against-substack) Tj
+T*
+(I once turned down Substack because of their design limitations. As they emerge yet again in) Tj
+T*
+(the news cycle, I thought I?d make my point with some of that design stuff they don?t do.) Tj
+T*
+() Tj
+T*
+(23. Feb '26 Notes) Tj
+T*
+(Source: Susam Pal | Published: Fri, 27 Feb 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/notes-2026-02.html) Tj
+T*
+(Since last month, I have been collecting brief notes on ideas and references that caught my) Tj
+T*
+(attention during each month but did not make it into full articles. Some of these fragments may) Tj
+T*
+(eventually grow into standalone posts, though most will probably remain as they are. At the) Tj
+T*
+(very least, this approach allows me to keep a record of them. Most of last month's notes grew) Tj
+T*
+(out of my reading of Algebraic Graph Theory by Godsil and Royle. I am still exploring and) Tj
+T*
+(learning this subject. This month, however, I dove into another book with the same title but) Tj
+T*
+(this book is written by Norman Biggs. As a result, many of the notes that follow are drawn from) Tj
+T*
+(Biggs's treatment of the topic. Since I already had a good understanding of the subject from) Tj
+T*
+(the earlier book, I decided to skip the first fourteen chapters of the new book. I began with) Tj
+T*
+(Chapter 15, which discusses automorphisms of graphs and then moved on to the following chapters) Tj
+T*
+(on graph symmetries. My main reason for picking up Biggs's book was to understand Tutte's well) Tj
+T*
+(known result that any \\\( s \\\)-arc-transitive finite cubic graph must satisfy \\\( s \\le 5. \\\)) Tj
+T*
+(While I did not reach that chapter this month, I made substantial progress w...) Tj
+T*
+() Tj
+T*
+(24. The Polygons of DOOM: PSX) Tj
+T*
+(Source: Fabien Sanglard | Published: 26 Mar 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/doom_psx/index.html) Tj
+T*
+(How DOOM was implemented on PlayStation 1!) Tj
+T*
+() Tj
+T*
+(25. The Polygons of Another World: Jaguar) Tj
+T*
+(Source: Fabien Sanglard | Published: 13 Mar 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/another_world_polygons_Jaguar/index.html) Tj
+T*
+(How Another World was implemented as a passion project on Jaguar!) Tj
+T*
+() Tj
+T*
+(26. The beautiful machine) Tj
+T*
+(Source: Fabien Sanglard | Published: 6 Mar 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/the_beautiful_machine/index.html) Tj
+T*
+(20 years later, I have built an other PC!) Tj
+T*
+() Tj
+T*
+(27. Bio) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Mon, 01 Jan 0001 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/bio/) Tj
+T*
+(Dr Paris Buttfield-Addison is a game designer, writer, artist, technical product leader, and) Tj
+T*
+(computer scientist based in Hobart, Tasmania. His work sits at the intersection of technology,) Tj
+T*
+(policy, and human behaviour, drawing on a background in computer science, law, and medieval) Tj
+T*
+(history. He?s completing a law degree because he wanted to understand how regulation actually) Tj
+T*
+(works, particularly for AI. Paris is the co-founder of Secret Lab Pty. Ltd. , an award-winning) Tj
+T*
+(game development studio best known for the BAFTA- and IGF-winning Night in the Woods , as well) Tj
+T*
+(as developing iPad games for ABC Play School and the ?Joey Playbox? for Qantas.) Tj
+T*
+() Tj
+T*
+(28. Privacy) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Mon, 01 Jan 0001 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/privacy/) Tj
+T*
+(Hey! This is a personal website run by me, Paris Buttfield-Addison, from Hobart, Tasmania,) Tj
+T*
+(Australia. Here?s the deal on privacy. Cookies. This site sets zero cookies. None. You can) Tj
+T*
+(check your browser?s developer tools right now ? there won?t be any from this domain.) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4467 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Analytics. This site uses Umami , a privacy-focused, cookie-free analytics tool. It collects) Tj
+T*
+(anonymous, aggregated data ? things like which pages get visited, what country visitors are in,) Tj
+T*
+(which outbound links are clicked, and how far down a page people scroll. No cookies, no) Tj
+T*
+(fingerprinting, no tracking across sites, no personally identifiable information. The analytics) Tj
+T*
+(data is hosted by Umami Cloud in the EU. You can?t be identified from it and neither can I.) Tj
+T*
+() Tj
+T*
+(29. Resume) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Mon, 01 Jan 0001 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/resume/) Tj
+T*
+(Resume Dr Paris Buttfield-Addison Building products at the intersection of technology,) Tj
+T*
+(creativity, and human experience. paris@paris.id.au hey.paris LinkedIn Hobart, Tasmania 01) Tj
+T*
+(Experience 2023 ? Now Head of Product, Research & Analytics Yarn Spinner Pty. Ltd. Leading) Tj
+T*
+(product, research, and analytics for Yarn Spinner?the narrative game tool powering DREDGE,) Tj
+T*
+(Venba, A Short Hike, Night in the Woods, and thousands more. Spearheaded spinoff as new company) Tj
+T*
+(in 2023. Top 10 Yarn Spinner games on Steam have sold over 6M units. 2020 ? Now Head of Product) Tj
+T*
+(and Creative Secret Lab Pty. Ltd.) Tj
+T*
+() Tj
+T*
+(30. 6 years of commit visualized) Tj
+T*
+(Source: antirez.com | Published: Fri, 20 Nov 2015 11:58:34 +0100) Tj
+T*
+(Link: http://antirez.com/news/98) Tj
+T*
+(Today I was curious about plotting all the Redis commits we have on Git, which are 90% of all) Tj
+T*
+(the Redis commits. There was just an initial period where I used SVN but switched very soon.) Tj
+T*
+(Full size image here: http://antirez.com/misc/commitsvis.png !~! Each commit is a rectangle.) Tj
+T*
+(The height is the number of affected lines \(a logarithmic scale is used\). The gray labels show) Tj
+T*
+(release tags. There are little surprises since the amount of commit remained pretty much the) Tj
+T*
+(same over the time, however now that we no longer backport features back into 3.0 and future) Tj
+T*
+(releases, the rate at which new patchlevel versions are released diminished. Major releases) Tj
+T*
+(look more or less evenly spaced between 2.6, 2.8 and 3.0, but were more frequent initially,) Tj
+T*
+(something that should change soon as we are trying to switch to time-driven releases with 3 new) Tj
+T*
+(major release each year \(that obviously will contain less new things compared to the amount of) Tj
+T*
+(stuff was present in major releases that took one whole year\). For example 3.2 RC is due for) Tj
+T*
+(December 2015. Patch releases of a given major release tend to have a logarithmic curve shape.) Tj
+T*
+(As a release mature, in general it gets less critical bugs. Also attention...) Tj
+T*
+() Tj
+T*
+(31. Recent improvements to Redis Lua scripting) Tj
+T*
+(Source: antirez.com | Published: Thu, 19 Nov 2015 12:23:27 +0100) Tj
+T*
+(Link: http://antirez.com/news/97) Tj
+T*
+(Lua scripting is probably the most successful Redis feature, among the ones introduced when) Tj
+T*
+(Redis was already pretty popular: no surprise that a few of the things users really want are) Tj
+T*
+(about scripting. The following two features were suggested multiple times over the last two) Tj
+T*
+(years, and many people tried to focus my attention into one or the other during the Redis) Tj
+T*
+(developers meeting, a few weeks ago. 1. A proper debugger for Redis Lua scripts. 2.) Tj
+T*
+(Replication, and storage on the AOF, of Lua scripts as a set of write commands materializing) Tj
+T*
+(the *effects* of the script, instead of replicating the script itself as we normally do. The) Tj
+T*
+(second feature is not just a matter of how scripts are replicated, but also touches what you) Tj
+T*
+(can do with Lua scripting as we will see later. Back from London, I implemented both the) Tj
+T*
+(features. This blog post describes both, giving a few hints about the design and implementation) Tj
+T*
+(aspects that may be interesting for the readers. A proper Lua debugger --- Lua scripting was) Tj
+T*
+(initially conceived in order to write really trivial scripts. Things like: if the key exists do) Tj
+T*
+(this. A couple of lines in order to avoid bloating Redis with all the possible variations of) Tj
+T*
+(co...) Tj
+T*
+() Tj
+T*
+(32. A few things about Redis security) Tj
+T*
+(Source: antirez.com | Published: Tue, 03 Nov 2015 09:53:04 +0100) Tj
+T*
+(Link: http://antirez.com/news/96) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 3936 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(IMPORTANT EDIT: Redis 3.2 security improved by implementing protected mode. You can find the) Tj
+T*
+(details about it here:) Tj
+T*
+(https://www.reddit.com/r/redis/comments/3zv85m/new_security_feature_redis_protected_mode/ From) Tj
+T*
+(time to time I get security reports about Redis. It?s good to get reports, but it?s odd that) Tj
+T*
+(what I get is usually about things like Lua sandbox escaping, insecure temporary file creation,) Tj
+T*
+(and similar issues, in a software which is designed \(as we explain in our security page here) Tj
+T*
+(http://redis.io/topics/security\) to be totally insecure if exposed to the outside world. Yet) Tj
+T*
+(these bug reports are often useful since there are different levels of security concerning any) Tj
+T*
+(software in general and Redis specifically. What you can do if you have access to the database,) Tj
+T*
+(just modify the content of the database itself or compromise the local system where Redis is) Tj
+T*
+(running? How important is a given security layer in a system depends on its security model. Is) Tj
+T*
+(a system designed to have untrusted users accessing it, like a web server for example? There) Tj
+T*
+(are different levels of authorization for different kinds of users? The Redis security model) Tj
+T*
+(is: ?it?s totally insecure to let untrusted clie...) Tj
+T*
+() Tj
+T*
+(33. Why Improve Your Writing?) Tj
+T*
+(Source: Refactoring English | Published: Tue, 03 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/chapters/why-improve-your-writing/) Tj
+T*
+(I?ve worked as a developer for 20 years, and I?ve always cared about clear writing. When I join) Tj
+T*
+(a new dev team, the first thing I do is ask to update their onboarding docs. I capture what I) Tj
+T*
+(learn in writing and encourage my teammates to do the same. Sometimes, other developers ask me) Tj
+T*
+(why I put so much emphasis on writing. Programming is a technical pursuit, so why should we) Tj
+T*
+(spend time on a ?soft skill? like writing? Isn?t that why we have technical writers and product) Tj
+T*
+(managers?) Tj
+T*
+() Tj
+T*
+(34. The one science reform we can all agree on, but we're too cowardly to do) Tj
+T*
+(Source: Experimental History | Published: Tue, 03 Mar 2026 17:47:57 GMT) Tj
+T*
+(Link: https://www.experimental-history.com/p/the-one-science-reform-we-can-all) Tj
+T*
+(OR: the long overdue forest fire) Tj
+T*
+() Tj
+T*
+(35. Reconsider) Tj
+T*
+(Source: Keygen Blog | Published: Thu, 11 Dec 2025 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/reconsider/) Tj
+T*
+(On the discipline of thinking, debating, and reconsidering before committing.) Tj
+T*
+() Tj
+T*
+(36. Escapism) Tj
+T*
+(Source: Keygen Blog | Published: Tue, 16 Dec 2025 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/escapism/) Tj
+T*
+(On escapism and the endless burnout-crash loop.) Tj
+T*
+() Tj
+T*
+(37. Keygen continues the Open Source Pledge) Tj
+T*
+(Source: Keygen Blog | Published: Tue, 30 Dec 2025 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/keygen-continues-osspledge/) Tj
+T*
+(Keygen continues their commitment to the Open Source Pledge, committing to donate at least) Tj
+T*
+($2,000 per-developer annually to support Open Source.) Tj
+T*
+() Tj
+T*
+(38. Cloud Kootwijk: moties zijn aangenomen!) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 24 Mar 2025 21:00:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/cloud-kootwijk-moties-aangenomen/) Tj
+T*
+(Ik moet ook nog even wennen aan het idee, maar ?motie Cloud Kootwijk? is aangenomen \(al heet) Tj
+T*
+(?ie anders\): "Motie van het lid Kathmann over een aanbesteding voor een rijkscloud in volledig) Tj
+T*
+(Nederlands beheer" Deze motie kreeg van de regering de appreciatie Oordeel kamer \(???\), en) Tj
+T*
+(vervolgens stemden alle partijen behalve PVV er ook nog voor. Overigens legde het kabinet uit) Tj
+T*
+(dat ze in plaats van ?aanbesteden? het oppakken als ?het initiatief nemen tot?, wat ook prima) Tj
+T*
+(is.) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 1537 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(39. Dear hosters, you are selling wood, not furniture) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 18 Mar 2025 13:20:00 +0100) Tj
+T*
+(Link:) Tj
+T*
+(https://berthub.eu/articles/posts/dear-hosting-providers-you-sell-lumber-and-not-furniture/) Tj
+T*
+(Earlier, I wrote that there isn?t just one type of cloud; it ranges from renting out servers to) Tj
+T*
+(fully managed office software as a service. One relevant type of cloud use is what?s informally) Tj
+T*
+(called ?cloud-native.? I wrote in that earlier page that a ?cloud-native developer? does not) Tj
+T*
+(work based on servers. If you rent out virtual servers and call yourself a cloud company, a) Tj
+T*
+(cloud-native developer won?t understand you at all.) Tj
+T*
+() Tj
+T*
+(40. Hosters verkopen hout, klanten willen meubels) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 17 Mar 2025 14:45:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/beste-hosters-hout-meubelen/) Tj
+T*
+(Eerder schreef ik dat er niet ÈÈn soort cloud is, het loopt van servers verhuren tot kant en) Tj
+T*
+(klare kantoorsoftware as a service. Een relevant soort cloud is wat informeel wel ?cloud) Tj
+T*
+(native? wordt genoemd. Ik schreef daarover dat een ?cloud native programmeur? niet werkt op) Tj
+T*
+(basis van servers. Als je virtuele servers verhuurt en je noemt jezelf een cloudbedrijf, dan) Tj
+T*
+(snapt die cloud native programmeur daar niets van. Die kan niet uit de voeten met computers,) Tj
+T*
+(die heeft diensten nodig.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 18 0 R >>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000168 00000 n 
+0000000238 00000 n 
+0000004626 00000 n 
+0000004752 00000 n 
+0000009424 00000 n 
+0000009550 00000 n 
+0000013916 00000 n 
+0000014042 00000 n 
+0000017655 00000 n 
+0000017783 00000 n 
+0000021800 00000 n 
+0000021928 00000 n 
+0000026448 00000 n 
+0000026576 00000 n 
+0000030565 00000 n 
+0000030693 00000 n 
+0000032283 00000 n 
+trailer
+<< /Size 20 /Root 1 0 R >>
+startxref
+32411
+%%EOF
