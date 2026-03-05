@@ -1,0 +1,724 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4697 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-05 09:38:13) Tj
+T*
+() Tj
+T*
+(1. Anti-patterns: things to avoid) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-04T17:34:42+00:00) Tj
+T*
+(Link:) Tj
+T*
+(https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/#atom-everything) Tj
+T*
+(Agentic Engineering Patterns > There are some behaviors that are anti-patterns in our weird new) Tj
+T*
+(world of agentic engineering. Inflicting unreviewed code on collaborators This anti-pattern is) Tj
+T*
+(common and deeply frustrating. Don't file pull requests with code you haven't reviewed yourself) Tj
+T*
+(. If you open a PR with hundreds \(or thousands\) of lines of code that an agent produced for) Tj
+T*
+(you, and you haven't done the work to ensure that code is functional yourself, you are) Tj
+T*
+(delegating the actual work to other people. They could have prompted an agent themselves. What) Tj
+T*
+(value are you even providing? If you put code up for review you need to be confident that it's) Tj
+T*
+(ready for other people to spend their time on it. The initial review pass is your) Tj
+T*
+(responsibility, not something you should farm out to others. A good agentic engineering pull) Tj
+T*
+(request has the following characteristics: The code works, and you are confident that it works.) Tj
+T*
+(Your job is to deliver code that works . The change is small enough to be reviewed efficiently) Tj
+T*
+(without inflicting too much additional cognitive load on the reviewer. Several small PRs beats) Tj
+T*
+(one big one, and splitting code into separate commits is easy with a coding agent...) Tj
+T*
+() Tj
+T*
+(2. Something is afoot in the land of Qwen) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-04T15:50:03+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/4/qwen/#atom-everything) Tj
+T*
+(I'm behind on writing about Qwen 3.5, a truly remarkable family of open weight models released) Tj
+T*
+(by Alibaba's Qwen team over the past few weeks. I'm hoping that the 3.5 family doesn't turn out) Tj
+T*
+(to be Qwen's swan song, seeing as that team has had some very high profile departures in the) Tj
+T*
+(past 24 hours. It all started with this tweet from Junyang Lin \( @JustinLin610 \): me stepping) Tj
+T*
+(down. bye my beloved qwen. Junyang Lin was the lead researcher building Qwen, and was key to) Tj
+T*
+(releasing their open weight models from 2024 onwards. As far as I can tell a trigger for this) Tj
+T*
+(resignation was a re-org within Alibaba where a new researcher hired from Google's Gemini team) Tj
+T*
+(was put in charge of Qwen, but I've not confirmed that detail. More information is available in) Tj
+T*
+(this article from 36kr.com . Here's Wikipedia on 36Kr confirming that it's a credible media) Tj
+T*
+(source established in 2010 with a good track record reporting on the Chinese technology) Tj
+T*
+(industry. The article is in Chinese - here are some quotes translated via Google Translate: At) Tj
+T*
+(approximately 1:00 PM Beijing time on March 4th, Tongyi Lab held an emergency All Hands) Tj
+T*
+(meeting, where Alibaba Group CEO Wu Yongming frankly told Qianwen employees. Twe...) Tj
+T*
+() Tj
+T*
+(3. Red/green TDD) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-02-23T07:12:28+00:00) Tj
+T*
+(Link:) Tj
+T*
+(https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything) Tj
+T*
+(Agentic Engineering Patterns > " Use red/green TDD " is a pleasingly succinct way to get better) Tj
+T*
+(results out of a coding agent. TDD stands for Test Driven Development. It's a programming style) Tj
+T*
+(where you ensure every piece of code you write is accompanied by automated tests that) Tj
+T*
+(demonstrate the code works. The most disciplined form of TDD is test-first development. You) Tj
+T*
+(write the automated tests first, confirm that they fail, then iterate on the implementation) Tj
+T*
+(until the tests pass. This turns out to be a fantastic fit for coding agents. A significant) Tj
+T*
+(risk with coding agents is that they might write code that doesn't work, or build code that is) Tj
+T*
+(unnecessary and never gets used, or both. Test-first development helps protect against both of) Tj
+T*
+(these common mistakes, and also ensures a robust automated test suite that protects against) Tj
+T*
+(future regressions. As projects grow the chance that a new change might break an existing) Tj
+T*
+(feature grows with them. A comprehensive test suite is by far the most effective way to keep) Tj
+T*
+(those features working. It's important to confirm that the tests fail before implementing the) Tj
+T*
+(code to make them pass. If you skip that step you risk building a test that passes alr...) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4013 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(4. ? Thoughts and Observations on the MacBook Neo) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-04T20:40:11Z) Tj
+T*
+(Link: https://daringfireball.net/2026/03/599_not_a_piece_of_junk_macbook_neo) Tj
+T*
+(The MacBook Neo is the first major new Mac aimed at the consumer market in the Apple Silicon) Tj
+T*
+(era. It?s meant to make a dent ? perhaps a minuscule dent in the universe, but a big dent in) Tj
+T*
+(the Mac?s share of the overall PC market.) Tj
+T*
+() Tj
+T*
+(5. Studio Display vs. Studio Display XDR) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-04T18:04:43Z) Tj
+T*
+(Link: https://www.apple.com/displays/) Tj
+T*
+(Not sure if this page was there yesterday, but the main ?Displays? page at Apple?s website is a) Tj
+T*
+(spec-by-spec comparison between the regular and XDR models. Nice. ?) Tj
+T*
+() Tj
+T*
+(6. Compatibility Notes on the New Studio Displays) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-04T16:10:32Z) Tj
+T*
+(Link: https://www.macrumors.com/2026/03/03/apple-studio-display-no-intel-mac-support/) Tj
+T*
+(Juli Clover, at MacRumors, notes that neither the new Studio Display nor the Studio Display XDR) Tj
+T*
+(are compatible with Intel-based Macs . \(I?m curious why.\) Also, in a separate report , she) Tj
+T*
+(notes that Macs with any M1 chip, or the base M2 or M3, are only able to drive the Studio) Tj
+T*
+(Display XDR at 60 Hz. You need a Pro or better M2/M3, or any M4 or M5 chip, to drive it at 120) Tj
+T*
+(Hz. ?) Tj
+T*
+() Tj
+T*
+(7. Aha, I found a counterexample to the documentation that says that) Tj
+T*
+(Query≠Performance≠Counter never fails) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 04 Mar 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260304-00/?p=112110) Tj
+T*
+(Of course, anything can happen if you break the rules. The post Aha, I found a counterexample) Tj
+T*
+(to the documentation that says that Query≠Performance≠Counter never fails appeared first on The) Tj
+T*
+(Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Maybe there?s a pattern here?) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-03-04T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/pattern/) Tj
+T*
+(1. It occurred to me that if I could invent a machine?a gun?which could by its rapidity of) Tj
+T*
+(fire, enable one man to do as much battle duty as a hundred, that it would, to a large extent) Tj
+T*
+(supersede the necessity of large armies, and consequently, exposure to battle and disease) Tj
+T*
+([would] be greatly diminished. Richard Gatling \(1861\) 2. In 1923, Hermann Oberth published The) Tj
+T*
+(Rocket to Planetary Spaces , later expanded as Ways to Space Travel . This showed that it was) Tj
+T*
+(possible to build machines that could leave Earth?s atmosphere and reach orbit. He described) Tj
+T*
+(the general principles of multiple-stage liquid-fueled rockets, solar sails, and even ion) Tj
+T*
+(drives. He proposed sending humans into space, building space stations and satellites, and) Tj
+T*
+(travelling to other planets. The idea of space travel became popular in Germany. Swept up by) Tj
+T*
+(these ideas, in 1927, Johannes Winkler, Max Valier, and Willy Ley formed the Verein f¸r) Tj
+T*
+(Raumschiffahrt \(VfR\) \(Society for Space Travel\) in Breslau \(now Wroc?aw, Poland\). This group) Tj
+T*
+(rapidly grew to several hundred members. Several participated as advisors of Fritz Lang?s The) Tj
+T*
+(Woman in the Moon , and the VfR even began publishing their own journal. In 1930, the VfR) Tj
+T*
+(was...) Tj
+T*
+() Tj
+T*
+(9. Interruption-Driven Development) Tj
+T*
+(Source: iDiallo.com | Published: Wed, 04 Mar 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/interruption-driven-development?src=feed) Tj
+T*
+(I have a hard time listening to music while working. I know a lot of people do it, but whenever) Tj
+T*
+(I need to focus on a problem, I have to hunt down the tab playing music and pause it. And yet I) Tj
+T*
+(still wear my headphones. Not to listen to anything, but to signal to whoever is approaching my) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4697 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(desk that I am working. It doesn't deter everyone, but it buys me the time I need to stay) Tj
+T*
+(focused a little longer. I don't mind having a conversation with coworkers. What I mind is the) Tj
+T*
+(interruption itself, especially when I'm in the middle of a task. Sometimes I'm debugging an) Tj
+T*
+(issue in a legacy application, building a mental model of the workflow, reading a comment that) Tj
+T*
+(describes an exception, following a function declaration, right when I'm on the verge of the) Tj
+T*
+(next clue, I hear a voice: "Hey! What's going on? I haven't seen you in a while. What have you) Tj
+T*
+(been up to?" The conversation is never long. But when it's over, my thoughts are gone. Where) Tj
+T*
+(was I? Right, the function declaration. But where was it being called? What was that exception) Tj
+T*
+(the comment described? Where did I even see that comment? I have to retrace every step just to) Tj
+T*
+(rebuild the mental state I was in before I can move forward again....) Tj
+T*
+() Tj
+T*
+(10. From logistic regression to AI) Tj
+T*
+(Source: John D. Cook | Published: Wed, 04 Mar 2026 14:15:02 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/04/from-logistic-regression-to-ai/) Tj
+T*
+(It is sometimes said that neural networks are ?just? logistic regression. \(Remember neural) Tj
+T*
+(networks? LLMs are neural networks, but nobody talks about neural networks anymore.\) In some) Tj
+T*
+(sense a neural network is logistic regression with more parameters, a lot more parameters, but) Tj
+T*
+(more is different. New phenomena emerge at scale that could not have been anticipated at [?]) Tj
+T*
+(The post From logistic regression to AI first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. An AI Odyssey, Part 2: Prompting Peril) Tj
+T*
+(Source: John D. Cook | Published: Wed, 04 Mar 2026 14:04:30 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/04/an-ai-odyssey-part-2-prompting-peril/) Tj
+T*
+(I was working with a colleague recently on a project involving the use of the OpenAI API. I) Tj
+T*
+(brought up the idea that, perhaps it is possible to improve the accuracy of API response by) Tj
+T*
+(modifying the API call to increase the amount of reasoning performed. My colleague quickly) Tj
+T*
+(asked ChatGPT if this was possible, [?] The post An AI Odyssey, Part 2: Prompting Peril first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Remove annoying banners) Tj
+T*
+(Source: Maurycy's Blog | Published: Tue, 03 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/projects/fixsite/) Tj
+T*
+(This is a small javascript snippet that removes most annoying website elements: /* HTML tags,) Tj
+T*
+(keywords, commands */ h-n {color: #F27;} /* Values */ h-v {color: #B8F;} /* CSS selectors,) Tj
+T*
+(attribute/varable names, file names */ h-s {color: #AEE;} /* Comments */ h-c {color: #777;}) Tj
+T*
+(function cleanup \(node\) { var style = getComputedStyle \( node \); // Bad styles var bad = \( a \)) Tj
+T*
+(=> \([ "fixed" , "sticky" , "hidden" , "clip" ]. includes \( a \)\); // Removes "dick bars" and the) Tj
+T*
+(such if \( bad \( style . position \)\) node . parentNode . removeChild \( node \); // Shows hidden) Tj
+T*
+(content if \( bad \( style . overflow \)\) node . style . overflow = "visible" ; if \( bad \( style .) Tj
+T*
+(overflowX \)\) node . style . overflowX = "visible" ; if \( bad \( style . overflowY \)\) node .) Tj
+T*
+(style . overflowY = "visible" ; } // Run for everything on the page document . querySelectorAll) Tj
+T*
+(\( '*' \). forEach \( cleanup \) It's really simple: removing anything that doesn't scroll with the) Tj
+T*
+(page, and enabling scrolling if it's been disabled. This gets rid of cookie popups/banners,) Tj
+T*
+(recommend≠ation sidebars, those annoying headers that follow you down the page, etc, etc. If) Tj
+T*
+(you don't want to mess around with the JS console , you can drag this lin...) Tj
+T*
+() Tj
+T*
+(13. Package Managers Need to Cool Down) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-04T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html) Tj
+T*
+(This post was requested by Seth Larson , who asked if I could do a breakdown of dependency) Tj
+T*
+(cooldowns across package managers. His framing: all tools should support a) Tj
+T*
+(globally-configurable exclude-newer-than= like 7d , to bring the response times for autonomous) Tj
+T*
+(exploitation back into the realm of human intervention. When an attacker compromises a) Tj
+T*
+(maintainer?s credentials or takes over a dormant package, they publish a malicious version and) Tj
+T*
+(wait for automated tooling to pull it into thousands of projects before anyone notices. William) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3398 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Woodruff made the case for dependency cooldowns in November 2025, then followed up with a redux) Tj
+T*
+(a month later: don?t install a package version until it?s been on the registry for some minimum) Tj
+T*
+(period, giving the community and security vendors time to flag problems before your build pulls) Tj
+T*
+(them in. Of the ten supply chain attacks he examined, eight had windows of opportunity under a) Tj
+T*
+(week, so even a modest cooldown of seven days would have blocked most of them from reaching end) Tj
+T*
+(users. The concept goes by different names depending on the tool \( cooldown , minimumReleaseAge) Tj
+T*
+(, stabilityDays , exclude-newer \) and implementations vary in whether they use rollin...) Tj
+T*
+() Tj
+T*
+(14. How many hours do you need to work to afford a pint of beer?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 04 Mar 2026 12:34:22 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/) Tj
+T*
+(I dropped into a pub in central London and ordered two pints of draught beer. Obviously the) Tj
+T*
+(price of everything is nuts these days - and doubly so in London - so I only winced a little) Tj
+T*
+(bit when the cost came to about twelve quid. Shocking, obviously. But as we supped on our pints) Tj
+T*
+(and discussed the state of the world, I tried to remember how expensive it was to have a pint) Tj
+T*
+(when I was a lad young?) Tj
+T*
+() Tj
+T*
+(15. Do Things that Don't Scale) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/ds.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. Startup Investing Trends) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/invtrend.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(17. How to Get Startup Ideas) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/startupideas.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(18. The Polygons of Another World: GBA) Tj
+T*
+(Source: Fabien Sanglard | Published: 26 Jan 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/another_world_polygons_GBA/index.html) Tj
+T*
+(How Another World was implemented on Game Boy Advance!) Tj
+T*
+() Tj
+T*
+(19. The Polygons of Another World: SNES) Tj
+T*
+(Source: Fabien Sanglard | Published: 19 Jan 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/another_world_polygons_SNES/index.html) Tj
+T*
+(How Another World was implemented on Super Nintendo!) Tj
+T*
+() Tj
+T*
+(20. The Polygons of Another World: Genesis) Tj
+T*
+(Source: Fabien Sanglard | Published: 05 Jan 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/another_world_polygons_Genesis/index.html) Tj
+T*
+(How Another World was implemented on Sega Genesis/Megadrive!) Tj
+T*
+() Tj
+T*
+(21. Moving the Redis community on Reddit) Tj
+T*
+(Source: antirez.com | Published: Thu, 22 Oct 2015 10:14:38 +0200) Tj
+T*
+(Link: http://antirez.com/news/95) Tj
+T*
+(I?m just back from the Redis Dev meeting 2015. We spent two incredible days talking about Redis) Tj
+T*
+(internals in many different ways. However while I?m waiting to receive private notes from other) Tj
+T*
+(attenders, in order to summarize in a blog post what happened and what were the most important) Tj
+T*
+(ideas exposed during the meetings, I?m going to touch a different topic here. I took the non) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4376 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(trivial decision to move the Redis mailing list, consisting of 6700 members, to Reddit. This) Tj
+T*
+(looks like a crazy ideas probably in some way, and ?to move? is probably not the right verb,) Tj
+T*
+(since the ML will still exist. However it will only be used in order to receive announcements) Tj
+T*
+(of new releases, critical informations like security related ones, and from time to time, links) Tj
+T*
+(to very important discussions that are happening on Reddit. Why to move? We have a huge mailing) Tj
+T*
+(list that served us for years at this point, and there is a decent amount of traffic going on.) Tj
+T*
+(People go there to get some help, to provide new ideas, and so forth. However while we have) Tj
+T*
+(some traffic the Redis mailing list is IMHO far from the ?vital? thing it should be,) Tj
+T*
+(considering the number of users using Redis currently. For most parts we se...) Tj
+T*
+() Tj
+T*
+(22. Clarifications about Redis and Memcached) Tj
+T*
+(Source: antirez.com | Published: Sat, 26 Sep 2015 18:16:14 +0200) Tj
+T*
+(Link: http://antirez.com/news/94) Tj
+T*
+(If you know me, you know I?m not the kind of guy that considers competing products a bad thing.) Tj
+T*
+(I actually love the users to have choices, so I rarely do anything like comparing Redis with) Tj
+T*
+(other technologies. However it is also true that in order to pick the right solution users must) Tj
+T*
+(be correctly informed. This post was triggered by reading a blog post published by Mike Perham,) Tj
+T*
+(that you may know as the author of a popular library called Sidekiq, that happens to use Redis) Tj
+T*
+(as backend. So I would not consider Mike a person which is ?against? Redis at all. Yet in his) Tj
+T*
+(blog post that you can find at the URL) Tj
+T*
+(http://www.mikeperham.com/2015/09/24/storing-data-with-redis/ he states that, for caching, ?you) Tj
+T*
+(should probably use Memcached instead [of Redis]?. So Mike simply really believes Redis is not) Tj
+T*
+(good for caching, and he arguments his thesis in this way: 1\) Memcached is designed for) Tj
+T*
+(caching. 2\) It performs no disk I/O at all. 3\) It is multi threaded and can handle 100,000s of) Tj
+T*
+(requests by scaling multi core. I?ll address the above statements, and later will provide) Tj
+T*
+(further informations which are not captured by the above sentences and which are in my opinion) Tj
+T*
+(more relevant to most caching u...) Tj
+T*
+() Tj
+T*
+(23. Lazy Redis is better Redis) Tj
+T*
+(Source: antirez.com | Published: Sat, 26 Sep 2015 09:56:32 +0200) Tj
+T*
+(Link: http://antirez.com/news/93) Tj
+T*
+(Everybody knows Redis is single threaded. The best informed ones will tell you that, actually,) Tj
+T*
+(Redis is *kinda* single threaded, since there are threads in order to perform certain slow) Tj
+T*
+(operations on disk. So far threaded operations were so focused on I/O that our small library to) Tj
+T*
+(perform asynchronous tasks on a different thread was called bio.c: Background I/O, basically.) Tj
+T*
+(However some time ago I opened an issue where I promised a new Redis feature that many wanted,) Tj
+T*
+(me included, called ?lazy free?. The original issue is here:) Tj
+T*
+(https://github.com/antirez/redis/issues/1748. The gist of the issue is that Redis DEL) Tj
+T*
+(operations are normally blocking, so if you send Redis ?DEL mykey? and your key happens to have) Tj
+T*
+(50 million objects, the server will block for seconds without serving anything in the meantime.) Tj
+T*
+(Historically this was accepted mostly as a side effect of the Redis design, but is a limit in) Tj
+T*
+(certain use cases. DEL is not the only blocking command, but is a special one, since usually we) Tj
+T*
+(say: Redis is very fast as long as you use O\(1\) and O\(log_N\) commands. You are free to use O\(N\)) Tj
+T*
+(commands but be aware that it?s not the case we optimized for, be prepared for latency spikes.) Tj
+T*
+(This sou...) Tj
+T*
+() Tj
+T*
+(24. Catapults don't build castles) Tj
+T*
+(Source: Keygen Blog | Published: Thu, 01 Jan 2026 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/catapults-dont-build-castles/) Tj
+T*
+(On the allure of luck and the myth of virality.) Tj
+T*
+() Tj
+T*
+(25. Is success just luck?) Tj
+T*
+(Source: Keygen Blog | Published: Fri, 02 Jan 2026 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/is-success-just-luck/) Tj
+T*
+(On success, agency, and how we misattribute luck.) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2422 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(26. SaaS is not dead) Tj
+T*
+(Source: Keygen Blog | Published: Tue, 13 Jan 2026 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/saas-is-not-dead/) Tj
+T*
+(On the fundamentals of build vs buy.) Tj
+T*
+() Tj
+T*
+(27. But how to get to that European cloud?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 17 Mar 2025 12:00:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/) Tj
+T*
+(The very short version: It has now become clear that European governments can no longer rely on) Tj
+T*
+(American clouds, and that we lack good and comprehensive alternatives. Market forces have) Tj
+T*
+(failed to deliver a truly European cloud, and businesses won?t naturally buy as yet unproven) Tj
+T*
+(cloud services, even when adorned with a beautiful European ?? flag, so for now nothing will) Tj
+T*
+(happen. This article is part of a series of posts on \(European\) cloud challenges.) Tj
+T*
+() Tj
+T*
+(28. Maar hoe bouw je die cloud?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 17 Mar 2025 08:45:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/maar-hoe-bouw-je-die-cloud/) Tj
+T*
+(De hele korte versie: inmiddels is duidelijk dat Europa/Europese overheden niet meer kunnen) Tj
+T*
+(bouwen op Amerikaanse clouds, en dat we hier geen goede en dekkende alternatieven hebben.) Tj
+T*
+(Marktwerking heeft ons geen echte Europese cloud opgeleverd, en het bedrijfsleven gaat niet) Tj
+T*
+(vanzelf spullen inkopen die nog in aanbouw zijn, hoe mooi die Europese vlag ?? erop ook is. Dus) Tj
+T*
+(is het tijd voor industriepolitiek, en daarvoor moet je goed zijn met ?industrie?.) Tj
+T*
+() Tj
+T*
+(29. The \(European\) cloud ladder: from virtual server to MS 365) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 14 Mar 2025 12:00:13 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/the-european-cloud-ladder/) Tj
+T*
+(We have extensive discussions about our enormous dependence on American clouds, but what) Tj
+T*
+(exactly are we talking about? And is Europe equally dependent on all types of cloud? This) Tj
+T*
+(article is aimed at policy makers, but it may also provide some clarity about the broader) Tj
+T*
+(landscape to actual cloud users. There is also a Dutch version of this page. Cloud in Shapes) Tj
+T*
+(and Sizes Public cloud, private cloud, IaaS, PaaS, SaaS, IaC, CaaS ? what do all these terms) Tj
+T*
+(mean?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004973 00000 n 
+0000005099 00000 n 
+0000009164 00000 n 
+0000009290 00000 n 
+0000014039 00000 n 
+0000014165 00000 n 
+0000017616 00000 n 
+0000017744 00000 n 
+0000022173 00000 n 
+0000022301 00000 n 
+0000024776 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+24904
+%%EOF
