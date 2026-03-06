@@ -1,0 +1,710 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4741 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-06 09:37:42) Tj
+T*
+() Tj
+T*
+(1. Introducing GPT?5.4) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-05T23:56:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything) Tj
+T*
+(Introducing GPT?5.4 Two new API models: gpt-5.4 and gpt-5.4-pro , also available in ChatGPT and) Tj
+T*
+(Codex CLI. August 31st 2025 knowledge cutoff, 1 million token context window. Priced slightly) Tj
+T*
+(higher than the GPT-5.2 family with a bump in price for both models if you go above 272,000) Tj
+T*
+(tokens. 5.4 beats coding specialist GPT-5.3-Codex on all of the relevant benchmarks. I wonder) Tj
+T*
+(if we'll get a 5.4 Codex or if that model line has now been merged into main? Given Claude's) Tj
+T*
+(recent focus on business applications it's interesting to see OpenAI highlight this in their) Tj
+T*
+(announcement of GPT-5.4: We put a particular focus on improving GPT?5.4?s ability to create and) Tj
+T*
+(edit spreadsheets, presentations, and documents. On an internal benchmark of spreadsheet) Tj
+T*
+(modeling tasks that a junior investment banking analyst might do, GPT?5.4 achieves a mean score) Tj
+T*
+(of 87.3% , compared to 68.4% for GPT?5.2. Here's a pelican on a bicycle drawn by GPT-5.4 : And) Tj
+T*
+(here's one by GPT-5.4 Pro, which took 4m45s and cost me $1.55 : Tags: ai , openai ,) Tj
+T*
+(generative-ai , llms , pelican-riding-a-bicycle , llm-release) Tj
+T*
+() Tj
+T*
+(2. Can coding agents relicense open source through a ?clean room? implementation of code?) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-05T16:49:33+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/5/chardet/#atom-everything) Tj
+T*
+(Over the past few months it's become clear that coding agents are extraordinarily good at) Tj
+T*
+(building a weird version of a "clean room" implementation of code. The most famous version of) Tj
+T*
+(this pattern is when Compaq created a clean-room clone of the IBM BIOS back in 1982 . They had) Tj
+T*
+(one team of engineers reverse engineer the BIOS to create a specification, then handed that) Tj
+T*
+(specification to another team to build a new ground-up version. This process used to take) Tj
+T*
+(multiple teams of engineers weeks or months to complete. Coding agents can do a version of this) Tj
+T*
+(in hours - I experimented with a variant of this pattern against JustHTML back in December.) Tj
+T*
+(There are a lot of open questions about this, both ethically and legally. These appear to be) Tj
+T*
+(coming to a head in the venerable chardet Python library. chardet was created by Mark Pilgrim) Tj
+T*
+(back in 2006 and released under the LGPL. Mark retired from public internet life in 2011 and) Tj
+T*
+(chardet's maintenance was taken over by others, most notably Dan Blanchard who has been) Tj
+T*
+(responsible for every release since 1.1 in July 2012 . Two days ago Dan released chardet 7.0.0) Tj
+T*
+(with the following note in the release notes: Ground-up, MIT-licensed rewrite of charde...) Tj
+T*
+() Tj
+T*
+(3. Steve Jobs in 2007, on Apple?s Pursuit of PC Market Share: ?We Just Can?t Ship Junk?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-05T19:43:16Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=U37Ds3RvyoM) Tj
+T*
+(In August 2007, Apple held a Mac event in the Infinite Loop Town Hall auditorium. New iMacs ,) Tj
+T*
+(iLife ?08 \(major updates to iPhoto and iMovie\), and iWork ?08 \(including the debut of Numbers) Tj
+T*
+(1.0\). Back then, believe it or not, at the end of these Town Hall events, Apple executives) Tj
+T*
+(would sit on stools and take questions from the media. For this one, Steve Jobs was flanked by) Tj
+T*
+(Tim Cook and Phil Schiller. Molly Wood, then at CNet, asked, ?And so, I guess once and for all,) Tj
+T*
+(is it your goal to overtake the PC in market share?? The audience ? along with Cook, Jobs, and) Tj
+T*
+(Schiller ? chuckled. And then Jobs answered. You should watch the video ? it?s just two minutes) Tj
+T*
+(? but here?s what he said: I can tell you what our goal is. Our goal is to make the best) Tj
+T*
+(personal computers in the world and to make products we are proud to sell and would recommend) Tj
+T*
+(to our family and friends. And we want to do that at the lowest prices we can. But I have to) Tj
+T*
+(tell you, there?s some stuff in our industry that we wouldn?t be proud to ship, that we) Tj
+T*
+(wouldn?t be proud to recommend to our family and friends. And we can?t do it. We just can?t) Tj
+T*
+(ship junk. So there are thresholds that we can?t cross because of who we are. But...) Tj
+T*
+() Tj
+T*
+(4. ?In Other Words, Batman Has Become Superman and Robin Has Become Batman?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-04T13:42:46Z) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4529 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link:) Tj
+T*
+(https://sixcolors.com/post/2026/03/apple-gives-in-to-temptation-and-renames-its-cpu-cores/) Tj
+T*
+(Jason Snell, Six Colors: Here?s the backstory: With every new generation of Apple?s Mac-series) Tj
+T*
+(processors, I?ve gotten the impression from Apple execs that they?ve been a little frustrated) Tj
+T*
+(with the perception that their ?lesser? efficiency cores were weak sauce. I?ve lost count of) Tj
+T*
+(the number of briefings and conversations I?ve had where they?ve had to go out of their way to) Tj
+T*
+(point out that, actually, the lesser cores on an M-series chip are quite fast on their own, in) Tj
+T*
+(addition to being very good at saving power! Clearly they?ve had enough of that, so they?re) Tj
+T*
+(changing how those cores are marketed to emphasize their performance, rather than their) Tj
+T*
+(efficiency. ?) Tj
+T*
+() Tj
+T*
+(5. Apple Introduces MacBook Pro Models With M5 Pro and M5 Max Chips) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-03T20:01:28Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-a) Tj
+T*
+(nd-m5-max/) Tj
+T*
+(Apple Newsroom: Apple today announced the latest 14- and 16-inch MacBook Pro with the all-new) Tj
+T*
+(M5 Pro and M5 Max, bringing game-changing performance and AI capabilities to the world?s best) Tj
+T*
+(pro laptop. With M5 Pro and M5 Max, MacBook Pro features a new CPU with the world?s fastest CPU) Tj
+T*
+(core, a next-generation GPU with a Neural Accelerator in each core, and higher unified memory) Tj
+T*
+(bandwidth, altogether delivering up to 4◊ AI performance compared to the previous generation,) Tj
+T*
+(and up to 8◊ AI performance compared to M1 models. This allows developers, researchers,) Tj
+T*
+(business professionals, and creatives to unlock new AI-enabled workflows right on MacBook Pro.) Tj
+T*
+(It now comes with up to 2◊ faster SSD performance and starts at 1TB of storage for M5 Pro and) Tj
+T*
+(2TB for M5 Max. The new MacBook Pro includes N1, an Apple-designed wireless networking chip) Tj
+T*
+(that enables Wi-Fi 7 and Bluetooth 6, bringing improved performance and reliability to wireless) Tj
+T*
+(connections. It also offers up to 24 hours of battery life; a gorgeous Liquid Retina XDR) Tj
+T*
+(display with a nano-texture option; a wide array of connectivity, including Thunderbolt 5; a) Tj
+T*
+(12MP Center Stage camera; studio-quality mics; an immersive six-speaker sound sy...) Tj
+T*
+() Tj
+T*
+(6. The mystery of the posted message that was dispatched before reaching the main message) Tj
+T*
+(loop) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 05 Mar 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260305-00/?p=112114) Tj
+T*
+(Perhaps it's because you dispatched it. The post The mystery of the posted message that was) Tj
+T*
+(dispatched before reaching the main message loop appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(7. AI And The Ship of Theseus) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-03-05T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/3/5/theseus/) Tj
+T*
+(Because code gets cheaper and cheaper to write, this includes re-implementations. I mentioned) Tj
+T*
+(recently that I had an AI port one of my libraries to another language and it ended up choosing) Tj
+T*
+(a different design for that implementation. In many ways, the functionality was the same, but) Tj
+T*
+(the path it took to get there was different. The way that port worked was by going via the test) Tj
+T*
+(suite. Something related, but different, happened with chardet . The current maintainer) Tj
+T*
+(reimplemented it from scratch by only pointing it to the API and the test suite. The) Tj
+T*
+(motivation: enabling relicensing from LGPL to MIT. I personally have a horse in the race here) Tj
+T*
+(because I too wanted chardet to be under a non-GPL license for many years. So consider me a) Tj
+T*
+(very biased person in that regard. Unsurprisingly, that new implementation caused a stir. In) Tj
+T*
+(particular, Mark Pilgrim, the original author of the library, objects to the new implementation) Tj
+T*
+(and considers it a derived work. The new maintainer, who has maintained it for the last 12) Tj
+T*
+(years, considers it a new work and instructs his coding agent to do precisely that. According) Tj
+T*
+(to author, validating with JPlag, the new implementation is distinct. If you actually...) Tj
+T*
+() Tj
+T*
+(8. JJ LSP Follow Up) Tj
+T*
+(Source: matklad | Published: 2026-03-05T00:00:00+00:00) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4397 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://matklad.github.io/2026/03/05/jj-lsp-followup.html) Tj
+T*
+(In Majjit LSP, I described an idea of implementing Magit style UX for jj once and for all,) Tj
+T*
+(leveraging LSP protocol. I've learned today that the upcoming 3.18 version of LSP has a feature) Tj
+T*
+(to make this massively less hacky: Text Document Content Request) Tj
+T*
+() Tj
+T*
+(9. Nobody Gets Promoted for Simplicity) Tj
+T*
+(Source: Terrible Software | Published: Tue, 03 Mar 2026 12:22:26 +0000) Tj
+T*
+(Link: https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) Tj
+T*
+(We reward complexity and ignore simplicity. In interviews, design reviews, and promotions.) Tj
+T*
+(Here's how to fix it.) Tj
+T*
+() Tj
+T*
+(10. Why Am I Doing the Thinking for You?) Tj
+T*
+(Source: Terrible Software | Published: Mon, 02 Feb 2026 13:49:00 +0000) Tj
+T*
+(Link: https://terriblesoftware.org/2026/02/02/why-am-i-doing-the-thinking-for-you/) Tj
+T*
+('What do you think?' without a position isn't a question ? it's a task assignment. State your) Tj
+T*
+(opinion first. Let people react to something concrete.) Tj
+T*
+() Tj
+T*
+(11. Why I Still Write Code as an Engineering Manager) Tj
+T*
+(Source: Terrible Software | Published: Thu, 22 Jan 2026 14:16:02 +0000) Tj
+T*
+(Link: https://terriblesoftware.org/2026/01/22/why-i-still-write-code-as-an-engineering-manager/) Tj
+T*
+(I still code as an engineering manager. Not to stay busy, but to show my team what good looks) Tj
+T*
+(like.) Tj
+T*
+() Tj
+T*
+(12. Package Manager Magic Files) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-05T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/05/package-manager-magic-files.html) Tj
+T*
+(A follow-up to my post on git?s magic files . Most package managers have a manifest and a) Tj
+T*
+(lockfile, and most developers stop there. But across the ecosystems I track on ecosyste.ms ,) Tj
+T*
+(package managers check for dozens of other files beyond the manifest and lockfile, controlling) Tj
+T*
+(where packages come from, what gets published, how versions resolve, and what code runs during) Tj
+T*
+(installation. These files tend to be poorly documented, inconsistently named, and useful once) Tj
+T*
+(you know they exist. Configuration Registry URLs, auth tokens, proxy settings, cache behavior.) Tj
+T*
+(Every package manager has a way to configure these, and they almost always live outside the) Tj
+T*
+(manifest. .npmrc is an INI-format file that can live at the project root, in your home) Tj
+T*
+(directory, or globally. npm and pnpm both read it. It controls the registry URL, auth tokens) Tj
+T*
+(for private registries, proxy settings, and dozens of install behaviors like legacy-peer-deps) Tj
+T*
+(and engine-strict . There?s a footgun here: if an .npmrc ends up inside a published package) Tj
+T*
+(tarball, npm will silently apply those settings when someone installs your package in their) Tj
+T*
+(project. Less well known are the shell , script-shell , and git settings, which point a...) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: Blowtorching the frog \(05 Mar 2026\) executive-dysfunction) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 05 Mar 2026 19:31:30) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/03/05/executive-dysfunction/) Tj
+T*
+(Today's links Blowtorching the frog: If I must have enemies, let them be impatient ones. Hey) Tj
+T*
+(look at this: Delights to delectate. Object permanence: Bill Cosby v Waxy; Rodney King, 20) Tj
+T*
+(years on; Peter Watts v flesh-eating bacteria; American authoritarianism; Algebra II v) Tj
+T*
+(Statistics for Citizenship; Ideas lying around; Banksy x Russian graffists; TSA v hand luggage;) Tj
+T*
+(Hack your Sodastream; There were always enshittifiers. Upcoming appearances: Where to find me.) Tj
+T*
+(Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Blowtorching the) Tj
+T*
+(frog \(permalink\) Back in 2018, the Singletrack blog published a widely read article explaining) Tj
+T*
+(the lethal trigonometry of a UK intersection where drivers kept hitting cyclists: https://singl) Tj
+T*
+(etrackworld.com/2018/01/collision-course-why-this-type-of-road-junction-will-keep-killing-cycli) Tj
+T*
+(sts/ There are lots of intersections that are dangerous for cyclists, of course, but what made) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3306 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Ipsley Cross so lethal was a kind of eldritch geometry that let the cyclist and the driver see) Tj
+T*
+(each other a long time before the collision, while also providing the illu...) Tj
+T*
+() Tj
+T*
+(14. Book Review: Katabasis by R. F. Kuang ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 05 Mar 2026 12:34:44 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/book-review-katabasis-by-r-f-kuang/) Tj
+T*
+(I'm a fan of R.F. Kuang's books - but this is the first which I've found laugh-out-loud funny.) Tj
+T*
+(What if your University advisor died and the only way to graduate was to descend into hell and) Tj
+T*
+(bring him back? In a terrible sort of way, I'm glad that Kuang had such a miserable time at) Tj
+T*
+(University. Being able to mine that psychotrauma has led to the brilliant Babel and now the) Tj
+T*
+(excellent Katabasis.?) Tj
+T*
+() Tj
+T*
+(15. The Hardware Renaissance) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/hw.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. Startup = Growth) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/growth.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(17. Black Swan Farming) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/swan.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(18. The Polygons of Another World: PC DOC) Tj
+T*
+(Source: Fabien Sanglard | Published: 04 Jan 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/another_world_polygons_PC_DOS/index.html) Tj
+T*
+(How Another World was implemented on PC DOS!) Tj
+T*
+() Tj
+T*
+(19. The Polygons of Another World: Atari ST) Tj
+T*
+(Source: Fabien Sanglard | Published: 03 Jan 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/another_world_polygons_atariST/index.html) Tj
+T*
+(How Another World was implemented on Atari ST!) Tj
+T*
+() Tj
+T*
+(20. The Polygons of Another World: Amiga) Tj
+T*
+(Source: Fabien Sanglard | Published: 02 Jan 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/another_world_polygons_amiga500/index.html) Tj
+T*
+(How Another World was implemented on Amiga!) Tj
+T*
+() Tj
+T*
+(21. About Redis Sets memory efficiency) Tj
+T*
+(Source: antirez.com | Published: Fri, 28 Aug 2015 11:40:32 +0200) Tj
+T*
+(Link: http://antirez.com/news/92) Tj
+T*
+(Yesterday Amplitude published an article about scaling analytics, in the context of using the) Tj
+T*
+(Set data type. The blog post is here:) Tj
+T*
+(https://amplitude.com/blog/2015/08/25/scaling-analytics-at-amplitude/ On Hacker News people) Tj
+T*
+(asked why not using Redis instead: https://news.ycombinator.com/item?id=10118413 Amplitude) Tj
+T*
+(developers have their set of reasons for not using Redis, and in general if you have a very) Tj
+T*
+(specific problem and want to scale it in the best possible way, it makes sense to implement) Tj
+T*
+(your vertical solution. I?m not adverse to reinventing the wheel, you want your very specific) Tj
+T*
+(wheel sometimes, that a general purpose system may not be able to provide. Moreover creating) Tj
+T*
+(your solution gives you control on what you did, boosts your creativity and your confidence in) Tj
+T*
+(what you, as a developer can do, makes you able to debug whatever bug may arise in the future) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4156 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(without external help. On the other hand of course creating system software from scratch is a) Tj
+T*
+(very complex matter, requires constant developments if there is a wish to actively develop) Tj
+T*
+(something, or means to have a stalled, non evolving piece of code if there is no team dedicated) Tj
+T*
+(to it. If it is very vertical and specializ...) Tj
+T*
+() Tj
+T*
+(22. Thanks Pivotal, Hello Redis Labs) Tj
+T*
+(Source: antirez.com | Published: Wed, 15 Jul 2015 13:46:47 +0200) Tj
+T*
+(Link: http://antirez.com/news/91) Tj
+T*
+(I consider myself very lucky for contributing to the open source. For me OSS software is not) Tj
+T*
+(just a license: it means transparency in the development process, choices that are only taken) Tj
+T*
+(in order to improve software from the point of view of the users, documentation that attempts) Tj
+T*
+(to cover everything, and simple, understandable systems. The Redis community had the privilege) Tj
+T*
+(of finding in Pivotal, and VMware before, a company that thinks at open source in the same way) Tj
+T*
+(as we, the community of developers, think of it. Thanks to the Pivotal sponsorship Redis was) Tj
+T*
+(able to grow, to reach in the latest years a diffusion which I never expected it to reach.) Tj
+T*
+(However for the final user it always was just a "pure"ù OSS project: go to the community web) Tj
+T*
+(site, grab a tar ball, read the free documentation, send a pull request, and watch the stream) Tj
+T*
+(of commits as they happen live. In order to not stop this magic from happening, and in order to) Tj
+T*
+(have enough free time to spend with my family, during these years I made the decision of not) Tj
+T*
+(starting a Redis company. However I encouraged the creation of an economic ecosystem around) Tj
+T*
+(Redis. There are multiple companies about Redis doing well at this point. Th...) Tj
+T*
+() Tj
+T*
+(23. Commit messages are not titles) Tj
+T*
+(Source: antirez.com | Published: Tue, 23 Jun 2015 10:55:22 +0200) Tj
+T*
+(Link: http://antirez.com/news/90) Tj
+T*
+(Nor subjects, for what matters. Everybody will tell you to don't add a dot at the end of the) Tj
+T*
+(first line of a commit message. I followed the advice for some time, but I'll stop today,) Tj
+T*
+(because I don't believe commit messages are titles or subjects. They are synopsis of the) Tj
+T*
+(meaning of the change operated by the commit, so they are small sentences. The sentence can be) Tj
+T*
+(later augmented with more details in the next lines of the commit message, however many times) Tj
+T*
+(there is *no* body, there is just the first line. How many emails or articles you see with just) Tj
+T*
+(the subject or the title? Very little, I guess. So for me it is like: This is a smart synopsis,) Tj
+T*
+(as information dense as possible. And when needed, this is the long version since: 1. I did) Tj
+T*
+(this. 2. And resulted into this. 3. And you could reproduce this way. So every time I'll be) Tj
+T*
+(told again to don't put a dot at the end, I'll link to this article. But no, it's not just a) Tj
+T*
+(matter of a dot. If the first line of a commit message is a title, it changes *the way* you) Tj
+T*
+(write it. It becomes just some text to introduce some more text, without any stress on the) Tj
+T*
+(information density. Coders gotta code, so if something can be told in a very short wa...) Tj
+T*
+() Tj
+T*
+(24. Golden tickets) Tj
+T*
+(Source: Keygen Blog | Published: Fri, 16 Jan 2026 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/golden-tickets/) Tj
+T*
+(On golden tickets, shortcuts, and sustainable business growth.) Tj
+T*
+() Tj
+T*
+(25. AI helped me through burnout \(but not how you think\)) Tj
+T*
+(Source: Keygen Blog | Published: Mon, 19 Jan 2026 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/ai-helped-me-through-burnout/) Tj
+T*
+(On escaping burnout in The New Age.) Tj
+T*
+() Tj
+T*
+(26. Keygen is now SOC 2 Type II compliant) Tj
+T*
+(Source: Keygen Blog | Published: Mon, 26 Jan 2026 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/keygen-is-now-soc2-compliant/) Tj
+T*
+(Announcing SOC 2 Type II compliance for Keygen Cloud.) Tj
+T*
+() Tj
+T*
+(27. Manifest Big Tech Alternatieven: Wat moet er beter) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2153 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Bert Hubert's writings | Published: Sat, 08 Mar 2025 10:00:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/manifest-big-tech-alternatieven/) Tj
+T*
+(Onze samenleving en overheid draaien inmiddels grotendeels op Amerikaanse big-tech platformen.) Tj
+T*
+(Velen van ons willen dat dit minder wordt, of zelfs ophoudt. Iedereen in de tech scene hier in) Tj
+T*
+(Europa is vol van goede wil er wat aan te doen, maar het gaat toch vaak mis. Van nature willen) Tj
+T*
+(we leuke open en federated en standaardgebaseerde dingen bouwen. Maar dat is niet genoeg, dat) Tj
+T*
+(is niet waar de wereld \(direct\) op zit te wachten.) Tj
+T*
+() Tj
+T*
+(28. De cloud in soorten en maten) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 04 Mar 2025 10:12:13 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/cloud-in-soorten-en-maten/) Tj
+T*
+(We hebben hele discussies over onze enorme afhankelijkheid van Amerikaanse clouds, maar waar) Tj
+T*
+(hebben we het precies over? En zijn we voor alle soorten clouds even afhankelijk? De cloud in) Tj
+T*
+(soorten en maten Public cloud, private cloud, IaaS, PaaS, SaaS, IaC, CaaS, waar hebben we het) Tj
+T*
+(allemaal over. Om te beginnen, de verwarring ligt niet aan jou. Al deze zaken lopen inderdaad) Tj
+T*
+(door elkaar heen, en veel belangrijke spelers gebruiken deze termen echt op verwarrende) Tj
+T*
+(manieren.) Tj
+T*
+() Tj
+T*
+(29. Waarom we de barricades opgaan om WhatsApp te blijven gebruiken) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 01 Mar 2025 19:40:33 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/whatsapp-signal-verandering-valt-niet-mee/) Tj
+T*
+(Op veel plekken woedt nu de discussie: gaan we naar Signal, want WhatsApp is van Facebook/Meta,) Tj
+T*
+(en dat zijn Amerikanen die ons overal volgen & met wat ze daarmee leren onze verkiezingen en) Tj
+T*
+(maatschappijen manipuleren. Echt een nare tent. Foto van Dima Solomin op Unsplash Andere) Tj
+T*
+(varianten zijn, moeten we weg bij Twitter? Moeten we andere email gaan gebruiken, want we) Tj
+T*
+(willen niet dat we 100% afhankelijk zijn van Amerika, Donald Trump en Elon Musk?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000005017 00000 n 
+0000005143 00000 n 
+0000009724 00000 n 
+0000009850 00000 n 
+0000014299 00000 n 
+0000014425 00000 n 
+0000017784 00000 n 
+0000017912 00000 n 
+0000022121 00000 n 
+0000022249 00000 n 
+0000024455 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+24583
+%%EOF
