@@ -1,0 +1,972 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R] /Count 8 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4595 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-07 09:37:27) Tj
+T*
+() Tj
+T*
+(1. A PTP Wall Clock is impractical and a little too precise) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 06 Mar 2026 09:00:00 -0600) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/) Tj
+T*
+(After seeing Oliver Ettlin's 39C3 presentation Excuse me, what precise time is It? , I wanted) Tj
+T*
+(to replicate the PTP \( Precision Time Protocol \) clock he used live to demonstrate PTP clock) Tj
+T*
+(sync: I pinged him on LinkedIn inquiring about the build \(I wasn't the only one!\), and shortly) Tj
+T*
+(thereafter, he published Gemini2350/ptp-wallclock , a repository with rough instructions for) Tj
+T*
+(the build, and his C++ application to display PTP time \(if available on the network\) on a set) Tj
+T*
+(of two LED matrix displays, using a Raspberry Pi.) Tj
+T*
+() Tj
+T*
+(2. Daring Fireball Weekly Sponsorship Openings) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-06T21:59:49Z) Tj
+T*
+(Link: https://daringfireball.net/feeds/sponsors/) Tj
+T*
+(Weekly sponsorships have been the top source of revenue for Daring Fireball ever since I) Tj
+T*
+(started selling them back in 2007 . They?ve succeeded, I think, because they make everyone) Tj
+T*
+(happy. They generate good money. There?s only one sponsor per week and the sponsors are always) Tj
+T*
+(relevant to at least some sizable portion of the DF audience, so you, the reader, are never) Tj
+T*
+(annoyed and hopefully often intrigued by them. And, from the sponsors? perspective, they work.) Tj
+T*
+(My favorite thing about them is how many sponsors return for subsequent weeks after seeing the) Tj
+T*
+(results. Sponsorships have been selling briskly, of late. There are only three weeks open) Tj
+T*
+(between now and the end of June. But one of those open weeks is next week, starting this coming) Tj
+T*
+(Monday: March 9?15 \(next week\) April 20?26 May 25?31 I?m also booking sponsorships for Q3 2026,) Tj
+T*
+(and roughly half of those weeks are already sold. If you?ve got a product or service you think) Tj
+T*
+(would be of interest to DF?s audience of people obsessed with high quality and good design, get) Tj
+T*
+(in touch ? especially if you can act quick for next week?s opening. ?) Tj
+T*
+() Tj
+T*
+(3. Google?s Threat Intelligence Group on Coruna a Powerful iOS Exploit Kit of Mysterious) Tj
+T*
+(Origin) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-06T20:32:47Z) Tj
+T*
+(Link: https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit) Tj
+T*
+(Google Threat Intelligence Group, earlier this week: Google Threat Intelligence Group \(GTIG\)) Tj
+T*
+(has identified a new and powerful exploit kit targeting Apple iPhone models running iOS version) Tj
+T*
+(13.0 \(released in September 2019\) up to version 17.2.1 \(released in December 2023\). The exploit) Tj
+T*
+(kit, named ?Coruna? by its developers, contained five full iOS exploit chains and a total of 23) Tj
+T*
+(exploits. The core technical value of this exploit kit lies in its comprehensive collection of) Tj
+T*
+(iOS exploits, with the most advanced ones using non-public exploitation techniques and) Tj
+T*
+(mitigation bypasses. The Coruna exploit kit provides another example of how sophisticated) Tj
+T*
+(capabilities proliferate . Over the course of 2025, GTIG tracked its use in highly targeted) Tj
+T*
+(operations initially conducted by a customer of a surveillance vendor , then observed its) Tj
+T*
+(deployment in watering hole attacks targeting Ukrainian users by UNC6353, a suspected Russian) Tj
+T*
+(espionage group. We then retrieved the complete exploit kit when it was later used in) Tj
+T*
+(broad-scale campaigns by UNC6691, a financially motivated threat actor operating from China.) Tj
+T*
+(How this proliferation occurred is unclear, but suggests an active market for ?second hand?...) Tj
+T*
+() Tj
+T*
+(4. ?The Window Chrome of Our Discontent?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-06T20:21:12Z) Tj
+T*
+(Link: https://pxlnv.com/blog/window-chrome-of-our-discontent/) Tj
+T*
+(Nick Heer, writing at Pixel Envy, uses Pages \(from 2009 through today\) to illustrate Apple?s) Tj
+T*
+(march toward putting ?greater focus on your content? by making window chrome, and toolbar) Tj
+T*
+(icons, more and more invisible: Perhaps Apple has some user studies that suggest otherwise, but) Tj
+T*
+(I cannot see how dialling back the lines between interface and document is supposed to be) Tj
+T*
+(beneficial for the user. It does not, in my use, result in less distraction while I am working) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4648 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(in these apps. In fact, it often does the opposite. I do not think the prescription is rolling) Tj
+T*
+(back to a decade-old design language. However, I think Apple should consider exploring the) Tj
+T*
+(wealth of variables it can change to differentiate tools within toolbars, and to more clearly) Tj
+T*
+(delineate window chrome from document. This entire idea that application window chrome should) Tj
+T*
+(disappear is madness. Some people ? at Apple, quite obviously ? think it looks better, in the) Tj
+T*
+(abstract, but I can?t see how it makes actually using these apps more productive. Artists don?t) Tj
+T*
+(want to use invisible tools. Clean lines between content and application chrome are clarifying,) Tj
+T*
+(not distracting. It?s also useful to be able to tell, at a glance, which ap...) Tj
+T*
+() Tj
+T*
+(5. Quoting Ally Piechowski) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-06T21:58:33+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/6/ally-piechowski/#atom-everything) Tj
+T*
+(Questions for developers: ?What?s the one area you?re afraid to touch?? ?When?s the last time) Tj
+T*
+(you deployed on a Friday?? ?What broke in production in the last 90 days that wasn?t caught by) Tj
+T*
+(tests?? Questions for the CTO/EM: ?What feature has been blocked for over a year?? ?Do you have) Tj
+T*
+(real-time error visibility right now?? ?What was the last feature that took significantly) Tj
+T*
+(longer than estimated?? Questions for business stakeholders: ?Are there features that got) Tj
+T*
+(quietly turned off and never came back?? ?Are there things you?ve stopped promising customers??) Tj
+T*
+(? Ally Piechowski , How to Audit a Rails Codebase Tags: technical-debt , software-engineering ,) Tj
+T*
+(rails) Tj
+T*
+() Tj
+T*
+(6. Anthropic and the Pentagon) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-06T17:26:50+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/6/anthropic-and-the-pentagon/#atom-everything) Tj
+T*
+(Anthropic and the Pentagon This piece by Bruce Schneier and Nathan E. Sanders is the most) Tj
+T*
+(thoughtful and grounded coverage I've seen of the recent and ongoing Pentagon/OpenAI/Anthropic) Tj
+T*
+(contract situation. AI models are increasingly commodified. The top-tier offerings have about) Tj
+T*
+(the same performance, and there is little to differentiate one from the other. The latest) Tj
+T*
+(models from Anthropic, OpenAI and Google, in particular, tend to leapfrog each other with minor) Tj
+T*
+(hops forward in quality every few months. [...] In this sort of market, branding matters a lot.) Tj
+T*
+(Anthropic and its CEO, Dario Amodei, are positioning themselves as the moral and trustworthy AI) Tj
+T*
+(provider. That has market value for both consumers and enterprise clients. Tags: bruce-schneier) Tj
+T*
+(, ai , openai , generative-ai , llms , anthropic , ai-ethics) Tj
+T*
+() Tj
+T*
+(7. Agentic manual testing) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-06T05:43:54+00:00) Tj
+T*
+(Link: https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#ato) Tj
+T*
+(m-everything) Tj
+T*
+(Agentic Engineering Patterns > The defining characteristic of a coding agent is that it can) Tj
+T*
+(execute the code that it writes. This is what makes coding agents so much more useful than LLMs) Tj
+T*
+(that simply spit out code without any way to verify it. Never assume that code generated by an) Tj
+T*
+(LLM works until that code has been executed. Coding agents have the ability to confirm that the) Tj
+T*
+(code they have produced works as intended, or iterate further on that code until it does.) Tj
+T*
+(Getting agents to write unit tests , especially using test-first TDD, is a powerful way to) Tj
+T*
+(ensure they have exercised the code they are writing. That's not the only worthwhile approach,) Tj
+T*
+(though. Just because code passes tests doesn't mean it works as intended. Anyone who's worked) Tj
+T*
+(with automated tests will have seen cases where the tests all pass but the code itself fails in) Tj
+T*
+(some obvious way - it might crash the server on startup, fail to display a crucial UI element,) Tj
+T*
+(or miss some detail that the tests failed to cover. Automated tests are no replacement for) Tj
+T*
+(manual testing . I like to see a feature working with my own eye before I land it in a release.) Tj
+T*
+(I've found that getting agents to manually test code is valuable as well...) Tj
+T*
+() Tj
+T*
+(8. I don't know if my job will still exist in ten years) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Fri, 06 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/will-my-job-still-exist/) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4539 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(In 2021, being a good software engineer felt great . The world was full of software, with more) Tj
+T*
+(companies arriving every year who needed to employ engineers to write their code and run their) Tj
+T*
+(systems. I knew I was good at it, and I knew I could keep doing it for as long as I wanted to.) Tj
+T*
+(The work I loved would not run out. In 2026, I?m not sure the software engineering industry) Tj
+T*
+(will survive another decade. If it does, I?m certain it?s going to change far more than it did) Tj
+T*
+(in the last two decades. Maybe I?ll figure out a way to carve out a lucrative niche supervising) Tj
+T*
+(AI agents, or maybe I?ll have to leave the industry entirely. Either way, the work I loved is) Tj
+T*
+(going away. Tasting our own medicine It?s unseemly to grieve too much over it, for two reasons.) Tj
+T*
+(First, the whole point of being a good software engineer in the 2010s was that code provided) Tj
+T*
+(enough leverage to automate away other jobs. That?s why programming was \(and still is\) such a) Tj
+T*
+(lucrative profession. The fact that we?re automating away our own industry is probably some) Tj
+T*
+(kind of cosmic justice. But I think any working software engineer today is worrying about this) Tj
+T*
+(question: what will be left for me to do, once AI agents have fully...) Tj
+T*
+() Tj
+T*
+(9. It Depends) Tj
+T*
+(Source: iDiallo.com | Published: Fri, 06 Mar 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/it-depends-experts-never-give-straight-answers?src=feed) Tj
+T*
+(That's the answer I would always get from the lead developer on my team, many years ago. I) Tj
+T*
+(wanted clear, concise answers from someone with experience, yet he never said "Yes" or "No." It) Tj
+T*
+(was always "It depends." Isn't it better to upgrade MySQL to the latest version? "It depends.") Tj
+T*
+(Isn't it better to upgrade our Ubuntu version to the one that was just released? "It depends.") Tj
+T*
+(Our PHP instance is reaching end-of-life, isn't it better to upgrade it right away? "It) Tj
+T*
+(depends." At the time, that felt like the wrong answer. The correct answer was obviously "Yes.") Tj
+T*
+(Of course it's better to do all those things. But there was so much that I couldn't see yet.) Tj
+T*
+(Have you considered that the main application using this instance can't be easily updated? It) Tj
+T*
+(doesn't support newer MySQL drivers, which means we'd have to go through the process of) Tj
+T*
+(upgrading the application first before touching the database. So yes, upgrading is better in) Tj
+T*
+(theory. But it depends on whether we can allocate the time to do it in the right order. It's) Tj
+T*
+(great to move to the latest version of Ubuntu, but our policy was to stay on LTS releases for) Tj
+T*
+(stability. Yes, a newer version means new features, but it also means risking break...) Tj
+T*
+() Tj
+T*
+(10. When Read≠Directory≠ChangesW reports that a deletion occurred, how can I learn more) Tj
+T*
+(about the deleted thing?) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 06 Mar 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116) Tj
+T*
+(It's already gone. If you need more information, you should have been remembering it. The post) Tj
+T*
+(When Read≠Directory≠ChangesW reports that a deletion occurred, how can I learn more about the) Tj
+T*
+(deleted thing? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(11. Advice for staying in the hospital for a week) Tj
+T*
+(Source: Xe Iaso's blog | Published: Fri, 06 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/blog/2026/hospital-advice/) Tj
+T*
+(Hard-won wisdom from a week of fluorescent lights and beeping machines.) Tj
+T*
+() Tj
+T*
+(12. Firmware Update for the Treedix TRX5-0816 Cable Tester) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 06 Mar 2026 12:34:43 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/firmware-update-for-the-treedix-trx5-0816-cable-tester/) Tj
+T*
+(Last year I reviewed the Treedix USB Cable Tester - a handy device for testing the capabilities) Tj
+T*
+(of all your USB cables. I noted that it had a few minor bugs and contacted the manufacturer to) Tj
+T*
+(see if there was an update. For some reason, lots of Chinese manufacturers don't like) Tj
+T*
+(publishing updates on their websites. Instead they supplied me with a link to a Google Drive) Tj
+T*
+(containing an instruction?) Tj
+T*
+() Tj
+T*
+(13. How I think systemd IP address restrictions on socket units works) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-06T04:44:53Z) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4878 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdSocketIPRestrictions) Tj
+T*
+(Among the systemd resource controls are IPAddressAllow= and IPAddressDeny= , which allow you to) Tj
+T*
+(limit what IP addresses your systemd thing can interact with. This is implemented with eBPF . A) Tj
+T*
+(limitation of these as applied to systemd .service units is that they restrict all traffic,) Tj
+T*
+(both inbound connections and things your service initiates \(like, say, DNS lookups\), while you) Tj
+T*
+(may want only a simple inbound connection filter . However, you can also set these on) Tj
+T*
+(systemd.socket units. If you do, your IP address restrictions apply only to the socket \(or) Tj
+T*
+(sockets\), not to the service unit that it starts. To quote the documentation: Note that for) Tj
+T*
+(socket-activated services, the IP access list configured on the socket unit applies to all) Tj
+T*
+(sockets associated with it directly, but not to any sockets created by the ultimately activated) Tj
+T*
+(services for it. So if you have a systemd socket activated service, you can control who can) Tj
+T*
+(access the socket without restricting who the service itself can talk to. In general, systemd) Tj
+T*
+(IP access controls are done through eBPF programs set up on cgroups. If you set up IP access) Tj
+T*
+(controls on a socket, such as ssh.socket in Ubuntu 24.04, you do get such eBPF progra...) Tj
+T*
+() Tj
+T*
+(14. Sometimes, non-general solutions are the right answer) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-05T03:34:03Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/python/HardcodingCanBeTheRightAnswer) Tj
+T*
+(I have a Python program that calculates and prints various pieces of Linux memory information) Tj
+T*
+(on a per-cgroup basis. In the beginning, its life was simple; cgroups had a total memory use) Tj
+T*
+(that was split between 'user' and '\(filesystem\) cache', so the program only needed to display) Tj
+T*
+(either one field or a primary field plus a secondary field. Then I discovered that there was) Tj
+T*
+(additional important \(ie, large\) kernel memory use in cgroups and added the ability to report) Tj
+T*
+(it as an additional option for the secondary field. However, this wasn't really ideal, because) Tj
+T*
+(now I had a three-way split and I might want to see all three things at once. A while back I) Tj
+T*
+(wrote up my realization about flexible string formatting with named arguments . This sparked) Tj
+T*
+(all sorts of thoughts about writing a general solution for my program that could show any) Tj
+T*
+(number of fields. Recently I took a stab at implementing this and rapidly ran into problems) Tj
+T*
+(figuring out how I wanted to do it. I had multiple things that could be calculated and) Tj
+T*
+(presented, I had to print not just the values but also a header with the right field names, I'd) Tj
+T*
+(need to think about how I structured argparse argument groups in light of argparse no...) Tj
+T*
+() Tj
+T*
+(15. A taxonomy of text output \(from tools that want to be too clever\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-04T01:42:14Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy) Tj
+T*
+(One of my long standing gripes with Debian and Ubuntu is, well, I'll quote myself on the) Tj
+T*
+(Fediverse : I understand that Debian wants me to use 'apt' instead of apt-get, but the big) Tj
+T*
+(reason I don't want to is because you can't turn off that progress bar at the bottom of your) Tj
+T*
+(screen \(or at least if you can it's not documented\). That curses progress bar is something that) Tj
+T*
+(I absolutely don't want \(and it would make some of our tooling explode, yes we have tooling) Tj
+T*
+(around apt-get\). Over time, I've developed opinions on what I want to see tools do for progress) Tj
+T*
+(reports and other text output, and what I feel is increasingly too clever in tools that makes) Tj
+T*
+(them more and more inconvenient for me. Today I'm going to try to run down that taxonomy, from) Tj
+T*
+(best to worst. Line by line output in plain text with no colours. Represent progress by) Tj
+T*
+(printing successive dots \(or other characters\) on the line until finally you print a newline.) Tj
+T*
+(This is easy to capture and process later, since the end result is a newline terminated line) Tj
+T*
+(with no control characters. Reporting progress by printing dots \(or other characters\) and then) Tj
+T*
+(backspacing over them to erase them later. Pagers like less have some ability to ha...) Tj
+T*
+() Tj
+T*
+(16. Life Happens at 1x Speed) Tj
+T*
+(Source: Terrible Software | Published: Thu, 08 Jan 2026 12:58:46 +0000) Tj
+T*
+(Link: https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/) Tj
+T*
+(Why I stopped consuming content at 2x speed, and the simple rule that changed how I listen to) Tj
+T*
+(everything.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4455 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(17. Creating Your Own Opportunities) Tj
+T*
+(Source: Terrible Software | Published: Mon, 05 Jan 2026 12:50:41 +0000) Tj
+T*
+(Link: https://terriblesoftware.org/2026/01/05/creating-your-own-opportunities/) Tj
+T*
+(The best career opportunities don't necessarily come from your manager. They come from seeing) Tj
+T*
+(potential in the boring work already on your plate.) Tj
+T*
+() Tj
+T*
+(18. A Year of Writing for Myself \(That 230,000+ People Read\)) Tj
+T*
+(Source: Terrible Software | Published: Mon, 29 Dec 2025 14:32:32 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://terriblesoftware.org/2025/12/29/a-year-of-writing-for-myself-that-230000-people-read/) Tj
+T*
+(I started this blog about a year ago with pretty modest expectations. It started as a place to) Tj
+T*
+(organize my thoughts on management, engineering, and everything else in between. I figured) Tj
+T*
+(maybe a few colleagues would read it. Maybe some friends? I really did not expect that I?d have) Tj
+T*
+(more than 230,000 unique visitors in [?]) Tj
+T*
+() Tj
+T*
+(19. .gitlocal) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-06T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/06/gitlocal.html) Tj
+T*
+(I was building a CLI tool that records sensitive info in a dot folder, and went looking for) Tj
+T*
+(best practices to avoid those folders being accidentally committed to git. To my surprise, git) Tj
+T*
+(doesn?t really provide a way for tool builders to declare that their files shouldn?t be) Tj
+T*
+(committed. That got me thinking: what if there was a file you could drop in your dot folder, or) Tj
+T*
+(a comment you could add to the top of a file, or a naming convention you could use, that git) Tj
+T*
+(would ignore by default? Today, the best a tool author can do is append a line to .gitignore ,) Tj
+T*
+(which means modifying someone else?s repository, or hope the user adds the right pattern) Tj
+T*
+(themselves. GitHub has revoked millions of leaked tokens found by scanning public repositories,) Tj
+T*
+(and tools like git-secrets and detect-secrets try to catch credentials before each commit.) Tj
+T*
+(These all work after the fact. The person best positioned to prevent the leak is the tool) Tj
+T*
+(author, and they have no mechanism to do it. Git?s existing ignore mechanisms all require) Tj
+T*
+(someone other than the tool to act. .gitignore requires the repository maintainer to anticipate) Tj
+T*
+(every tool that might drop files in the project directory. --assume-unchanged and --skip...) Tj
+T*
+() Tj
+T*
+(20. A History of Operation Breakthrough) Tj
+T*
+(Source: Construction Physics | Published: Fri, 06 Mar 2026 13:03:16 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/a-history-of-operation-breakthrough) Tj
+T*
+(Many who look at the high and rising cost of housing see the problem as fundamentally one of) Tj
+T*
+(production methods; more specifically, that homes could be built more cheaply if they were made) Tj
+T*
+(using factories and industrialized processes, instead of assembling them on site using manual) Tj
+T*
+(labor and hand-held tools.) Tj
+T*
+() Tj
+T*
+(21. Plans for Redis 3.2) Tj
+T*
+(Source: antirez.com | Published: Fri, 12 Jun 2015 15:53:53 +0200) Tj
+T*
+(Link: http://antirez.com/news/89) Tj
+T*
+(I?m back from Paris, DotScale 2015 was a very interesting conference. Before leaving I was) Tj
+T*
+(working on Sentinel in the context of the unstable branch: the work was mainly about connection) Tj
+T*
+(sharing. In short, it is the ability of a few Sentinels to scale, monitoring many masters.) Tj
+T*
+(Before to leave, and now that I?m back, I tried to ?secure? a set of features that will be the) Tj
+T*
+(basis for Redis 3.2. In the next weeks I?ll be focusing developing these features, so I thought) Tj
+T*
+(it?s worth to share the list with you ASAP. Geo hashing API: This work originated from Ardb,) Tj
+T*
+(that was originally a fork of Redis \(https://github.com/yinqiwen/ardb\), and was later extracted) Tj
+T*
+(and improved by Matt Stancliff \(https://matt.sh/redis-geo\) that ported it to Redis. Open source) Tj
+T*
+(is cool eh? The code needs a refactoring effort since currently duplicates parts of the sorted) Tj
+T*
+(set implementation. It is not impossible that I may also change a few things about the API, I?m) Tj
+T*
+(currently not sure, if there is something to fix, I?ll fix it. But the bottom line is: this is) Tj
+T*
+(a great feature, now that Matt is no longer contributing to Redis, there is a huge risk to lose) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3768 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(this work, so I?m going to do the effort of refactoring, review...) Tj
+T*
+() Tj
+T*
+(22. Adventures in message queues) Tj
+T*
+(Source: antirez.com | Published: Sun, 15 Mar 2015 23:32:15 +0100) Tj
+T*
+(Link: http://antirez.com/news/88) Tj
+T*
+(EDIT: In case you missed it, Disque source code is now available at) Tj
+T*
+(http://github.com/antirez/disque It is a few months that I spend ~ 15-20% of my time, mostly) Tj
+T*
+(hours stolen to nights and weekends, working to a new system. It?s a message broker and it?s) Tj
+T*
+(called Disque. I?ve an implementation of 80% of what was in the original specification, but) Tj
+T*
+(still I don?t feel like it?s ready to be released. Since I can?t ship, I?ll at least blog? so) Tj
+T*
+(that?s the story of how it started and a few details about what it is. ~ First steps ~ Many) Tj
+T*
+(developers use Redis as a message queue, often wrappered via some library abstracting away) Tj
+T*
+(Redis low level primitives, other times directly building a simple, ad-hoc queue, using the) Tj
+T*
+(Redis raw API. This use case is covered mainly using blocking list operations, and list push) Tj
+T*
+(operations. Redis apparently is at the same time the best and the worst system to use like) Tj
+T*
+(that. It?s good because it is fast, easy to inspect, deploy and use, and in many environments) Tj
+T*
+(it was already one piece of the infrastructure. However it has disadvantages because Redis) Tj
+T*
+(mutable data structures are very different than immutable messages. Redis HA / Cluster) Tj
+T*
+(tradeoffs are totally biased...) Tj
+T*
+() Tj
+T*
+(23. Redis Conference 2015) Tj
+T*
+(Source: antirez.com | Published: Tue, 10 Mar 2015 10:22:20 +0100) Tj
+T*
+(Link: http://antirez.com/news/87) Tj
+T*
+(I?m back home, after a non easy trip, since to travel from San Francisco to Sicily is kinda NP) Tj
+T*
+(complete: there are no solutions involving less than three flights. However it was definitely) Tj
+T*
+(worth it, because the Redis Conference 2015 was very good, SF was wonderful as usually and I) Tj
+T*
+(was able to meet with many interesting people. Here I?ll limit myself to writing a short) Tj
+T*
+(account of the conference, but the trip was also an incredible experience because I discovered) Tj
+T*
+(old and new friends, that are not just smart programmers, but also people I could imagine being) Tj
+T*
+(my friends here in Sicily. I never felt alone while I was 10k kilometers away from my home. The) Tj
+T*
+(conference was organized by RackSpace in a magistral way, with RedisLabs, Heroku, and Hulu,) Tj
+T*
+(sponsoring it as well. I can?t say thank you enough times to everybody. Many people traveled) Tj
+T*
+(from different parts of US and outside US to SF just for a couple of days, the venue was) Tj
+T*
+(incredibly cool, and everything organized in the finest details. There was even an incredible) Tj
+T*
+(cake for the Redis 6th birthday :-\) However the killer features of the conference were, the) Tj
+T*
+(number and the quality of the attenders \(mostly actual Redis users\), around 250 p...) Tj
+T*
+() Tj
+T*
+(24. The Top of My Todo List) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/todo.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(25. Writing and Speaking) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/speak.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(26. How Y Combinator Started) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/ycstart.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(27. How cosplaying Ancient Rome led to the scientific revolution) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Fri, 06 Mar 2026 17:14:20 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/ada-palmer) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 3457 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Ambassador visiting Renaissance Florence: ?Where am I? None of this has existed for a thousand) Tj
+T*
+(years.") Tj
+T*
+() Tj
+T*
+(28. The Mystery of Rennes-le-Ch‚teau, Part 1: The Priest?s Treasure) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 06 Mar 2026 16:50:42 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-1-the-priests-treasure/) Tj
+T*
+(This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3:) Tj
+T*
+(Blood of the Sacred, Blood of the Damned. Believe that there is a secret and you will feel an) Tj
+T*
+(initiate. It doesn?t cost a thing. Create an enormous hope that can never be eradicated because) Tj
+T*
+(there is no root. Ancestors [?]) Tj
+T*
+() Tj
+T*
+(29. The Polygons of Another World) Tj
+T*
+(Source: Fabien Sanglard | Published: 01 Jan 2020 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/another_world_polygons/index.html) Tj
+T*
+(Let's kick off the year with a series about Another World!) Tj
+T*
+() Tj
+T*
+(30. Strike Commander: Interview with Frank Savage) Tj
+T*
+(Source: Fabien Sanglard | Published: 03 Dec 2019 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/sc_podcast/index.html) Tj
+T*
+(There is a playful way to study the architecture of computers of the past. Find a piece of) Tj
+T*
+(software you know well and try to find out how it was ported to these machine you don't...) Tj
+T*
+() Tj
+T*
+(31. A trip down NBA Jam graphics pipeline) Tj
+T*
+(Source: Fabien Sanglard | Published: 28 Oct 2019 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/nbajamte/index.html) Tj
+T*
+(I took some time to study how NBA Jam arcade cabinet worked. Here is what I learned.) Tj
+T*
+() Tj
+T*
+(32. System tests) Tj
+T*
+(Source: Keygen Blog | Published: Mon, 09 Feb 2026 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/system-tests/) Tj
+T*
+(On the irreplaceability of system tests.) Tj
+T*
+() Tj
+T*
+(33. Value extraction) Tj
+T*
+(Source: Keygen Blog | Published: Wed, 18 Feb 2026 06:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/value-extraction/) Tj
+T*
+(On doom-peddlers and the Gold Rush of the New Age.) Tj
+T*
+() Tj
+T*
+(34. Boy I was wrong about the Fediverse) Tj
+T*
+(Source: matduggan.com | Published: Fri, 06 Mar 2026 12:21:23 GMT) Tj
+T*
+(Link: https://matduggan.com/boy-i-was-wrong-about-the-fediverse/) Tj
+T*
+(I have never been an "online community first" person. The internet is how I stay in touch with) Tj
+T*
+(people I met in real life. I'm not a "tweet comments at celebrities" guy. I was never funny) Tj
+T*
+(enough to be the funniest person on Twitter.) Tj
+T*
+() Tj
+T*
+(35. Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 06 Mar 2026 14:08:09 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/lijstduwer-fra-award-bnr-nrc-btw-meer/) Tj
+T*
+(Hallo allemaal, Er is weer een boel te melden! Ik ga een beetje de politiek in, ik heb een) Tj
+T*
+(prijs gekregen, twee zinvolle podcasts/radio-uitzendingen. En dat onze btw op het punt staat) Tj
+T*
+(naar Amerika te gaan. Afsluitend links naar diverse interessante artikelen. Dit is de) Tj
+T*
+(blogversie van mijn recentste nieuwsbrief. In mijn nieuwsbrief schrijf ik regelmatig over waar) Tj
+T*
+(ik mee bezig ben, of wat ik belangrijk vind. Schrijf je vooral in \(geheel zonder tracking of) Tj
+T*
+(reclame\) als je op de hoogte gehouden wilt worden van nieuwe artikelen!) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 2808 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(36. Naar de cloud nu je er nog mee wegkomt: is dat het?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 01 Mar 2025 17:00:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/naar-de-cloud-nu-het-nog-kan-is-dat-het/) Tj
+T*
+(De stukjes overheid die hun bestanden en mail nog niet op Amerikaanse servers hebben gezet,) Tj
+T*
+(maken grotendeels enorme haast om dat nu alsnog te doen. Men lijkt een druk te ervaren, ?want) Tj
+T*
+(er is geen alternatief? en \(ietwat bevreemdend\) ?we zijn met 150.000 werkplekken \(!\) te klein) Tj
+T*
+(om nog iets zelf te kunnen beheren?. Het is nogal een besluit om je gehaast over te leveren aan) Tj
+T*
+(Amerika nu. Het is voor veel buitenstaanders \(?burgers?\) overigens al lang een onbegrijpelijk) Tj
+T*
+(idee om dit nu nog te doen.) Tj
+T*
+() Tj
+T*
+(37. It is no longer safe to move our governments and societies to US clouds) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 23 Feb 2025 12:15:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-u) Tj
+T*
+(s-clouds/) Tj
+T*
+(The very short version: it is madness to continue transferring the running of European) Tj
+T*
+(societies and governments to American clouds. Not only is it a terrible idea given the kind of) Tj
+T*
+(things the ?King of America? keeps saying, the legal sophistry used to justify such transfers,) Tj
+T*
+(like the nonsense letter the Dutch cabinet sent last week, has now been invalidated by Trump) Tj
+T*
+(himself. And why are we doing this? Convenience.) Tj
+T*
+() Tj
+T*
+(38. How to Host your Own Email Server) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Fri, 06 Mar 2026 16:10:41 GMT) Tj
+T*
+(Link: https://blog.miguelgrinberg.com/post/how-to-host-your-own-email-server) Tj
+T*
+(I recently started a new platform where I sell my books and courses, and in this website I) Tj
+T*
+(needed to send account related emails to my users for things such as email address verification) Tj
+T*
+(and password reset requests. The reasonable option that is often suggested is to use a paid) Tj
+T*
+(email service such as Mailgun or SendGrid. Sending emails on your own is, according to the) Tj
+T*
+(Internet, too difficult. Because the prospect of adding yet another dependency on Big Tech is) Tj
+T*
+(depressing, I decided to go against the general advice and roll my own email server. And sure,) Tj
+T*
+(it wasn't trivial, but it wasn't all that hard either! Are you interested in hosting your own) Tj
+T*
+(email server, like me? In this article I'll tell you how to go from nothing to being able to) Tj
+T*
+(send emails that are accepted by all the big email players. My main concern is sending, but I) Tj
+T*
+(will also cover the simple solution that I'm using to receive emails and replies.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 18 0 R >>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000168 00000 n 
+0000000238 00000 n 
+0000004885 00000 n 
+0000005011 00000 n 
+0000009711 00000 n 
+0000009837 00000 n 
+0000014428 00000 n 
+0000014554 00000 n 
+0000019485 00000 n 
+0000019613 00000 n 
+0000024121 00000 n 
+0000024249 00000 n 
+0000028070 00000 n 
+0000028198 00000 n 
+0000031708 00000 n 
+0000031836 00000 n 
+0000034697 00000 n 
+trailer
+<< /Size 20 /Root 1 0 R >>
+startxref
+34825
+%%EOF
