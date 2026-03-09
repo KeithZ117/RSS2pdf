@@ -1,0 +1,588 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4238 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-09 09:38:48) Tj
+T*
+() Tj
+T*
+(1. Quoting Joseph Weizenbaum) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-08T14:59:48+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything) Tj
+T*
+(What I had not realized is that extremely short exposures to a relatively simple computer) Tj
+T*
+(program could induce powerful delusional thinking in quite normal people. ? Joseph Weizenbaum ,) Tj
+T*
+(creator of ELIZA, in 1976 \( via \) Tags: ai-ethics , ai , computer-history , internet-archive) Tj
+T*
+() Tj
+T*
+(2. Can Coding Agents Relicense Open Source Through a ?Clean Room? Implementation of Code?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-08T17:59:09Z) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/5/chardet/) Tj
+T*
+(Simon Willison: There are a lot of open questions about this, both ethically and legally. These) Tj
+T*
+(appear to be coming to a head in the venerable chardet Python library. chardet was created by) Tj
+T*
+(Mark Pilgrim back in 2006 and released under the LGPL. Mark retired from public internet life) Tj
+T*
+(in 2011 and chardet ?s maintenance was taken over by others, most notably Dan Blanchard who has) Tj
+T*
+(been responsible for every release since 1.1 in July 2012 . Two days ago Dan released chardet) Tj
+T*
+(7.0.0 with the following note in the release notes: Ground-up, MIT-licensed rewrite of chardet.) Tj
+T*
+(Same package name, same public API ? drop-in replacement for chardet 5.x/6.x. Just way faster) Tj
+T*
+(and more accurate! Yesterday Mark Pilgrim opened #327: No right to relicense this project . A) Tj
+T*
+(fascinating dispute, and the first public post from Pilgrim that I?ve seen in quite a while . ?) Tj
+T*
+() Tj
+T*
+(3. Donald Knuth on Claude Opus Solving a Computer Science Problem) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-08T17:49:08Z) Tj
+T*
+(Link: https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf) Tj
+T*
+(Donald Knuth, who, adorably, effectively blogs by posting TeX-typeset PDFs: Shock! Shock! I) Tj
+T*
+(learned yesterday that an open problem I?d been working on for several weeks had just been) Tj
+T*
+(solved by Claude Opus 4.6 ? Anthropic?s hybrid reasoning model that had been released three) Tj
+T*
+(weeks earlier! It seems that I?ll have to revise my opinions about ?generative AI? one of these) Tj
+T*
+(days. What a joy it is to learn not only that my conjecture has a nice solution but also to) Tj
+T*
+(celebrate this dramatic advance in automatic deduction and creative problem solving. I?ll try) Tj
+T*
+(to tell the story briefly in this note. \( Via Simon Willison .\) ?) Tj
+T*
+() Tj
+T*
+(4. Steve Lemay Hits Apple?s Leadership Page) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-08T15:28:36Z) Tj
+T*
+(Link: https://www.apple.com/leadership/steve-lemay/) Tj
+T*
+(Help us Obi-Wan Lemay, you?re our only hope. \(Also, as noted by Joe Rossignol, Eddy Cue got an) Tj
+T*
+(updated headshot.\) ?) Tj
+T*
+() Tj
+T*
+(5. How AI Assistants are Moving the Security Goalposts) Tj
+T*
+(Source: Krebs on Security | Published: Sun, 08 Mar 2026 23:35:42 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/) Tj
+T*
+(AI-based assistants or "agents" -- autonomous programs that have access to the user's computer,) Tj
+T*
+(files, online services and can automate virtually any task -- are growing in popularity with) Tj
+T*
+(developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks) Tj
+T*
+(have shown, these powerful and assertive new tools are rapidly shifting the security priorities) Tj
+T*
+(for organizations, while blurring the lines between data and code, trusted co-worker and) Tj
+T*
+(insider threat, ninja hacker and novice code jockey.) Tj
+T*
+() Tj
+T*
+(6. How much certainty is worthwhile?) Tj
+T*
+(Source: John D. Cook | Published: Sun, 08 Mar 2026 18:09:48 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/) Tj
+T*
+(A couple weeks ago I wrote a post on a composition table, analogous to a multiplication table,) Tj
+T*
+(for trig functions and inverse trig functions. Making mistakes and doing better My initial) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4044 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(version of the table above had some errors that have been corrected. When I wrote a followup) Tj
+T*
+(post on the hyperbolic counterparts of these [?] The post How much certainty is worthwhile?) Tj
+T*
+(first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(7. ?ChatGPT said this? Is Lazy) Tj
+T*
+(Source: Terrible Software | Published: Fri, 24 Oct 2025 15:37:00 +0000) Tj
+T*
+(Link: https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/) Tj
+T*
+(When you paste ChatGPT's response instead of your own feedback, you're not being helpful.) Tj
+T*
+(You're being lazy and creating more work for everyone.) Tj
+T*
+() Tj
+T*
+(8. Vibe Coding Trip Report: Making a sponsor panel) Tj
+T*
+(Source: Xe Iaso's blog | Published: Mon, 09 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/) Tj
+T*
+(I needed to ship this before my surgery, so I vibe coded it. It turned out well enough.) Tj
+T*
+() Tj
+T*
+(9. Introducing llm-eliza) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Sun, 08 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/llm-eliza/) Tj
+T*
+(LLM is a popular CLI tool for talking with language models. I built llm-eliza , a plugin to) Tj
+T*
+(chat with the ELIZA language model. Usage: llm install llm-eliza llm -m eliza "I'm worried) Tj
+T*
+(about computers." # => What do you think machines have to do with your problem? ELIZA, released) Tj
+T*
+(in 1966, is a state-of-the-art language model. It offers zero-GPU inference with) Tj
+T*
+(sub-millisecond semantic throughput, and scores highly on EQ measurements \(emotional) Tj
+T*
+(intelligence\). Source code here.) Tj
+T*
+() Tj
+T*
+(10. What's the source of Einstein's "citizen of the world" quip?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 08 Mar 2026 12:34:03 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/whats-the-source-of-einsteins-citizen-of-the-world-quip/) Tj
+T*
+(I like digging through old archives and tracing my way through quotes. Here's a particularly) Tj
+T*
+(good one from Albert Einstein which is often peppered around the Internet without any sources.) Tj
+T*
+(If my theory of relativity is proven successful, Germany will claim me as a German and France) Tj
+T*
+(will declare that I am a citizen of the world. Should my theory prove untrue, France will say) Tj
+T*
+(that I am a German?) Tj
+T*
+() Tj
+T*
+(11. If It Quacks Like a Package Manager) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-08T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html) Tj
+T*
+(I spend a lot of time studying package managers, and after a while you develop an eye for) Tj
+T*
+(things that quack like one. Plenty of tools have registries, version pinning, code that gets) Tj
+T*
+(downloaded and executed on your behalf. But flat lists of installable things aren?t very) Tj
+T*
+(interesting. The quacking that catches my ear is when something develops a dependency graph:) Tj
+T*
+(your package depends on a package that depends on a package, and now you need resolution) Tj
+T*
+(algorithms, lockfiles, integrity verification, and some way to answer ?what am I actually) Tj
+T*
+(running and how did it get here?? Several tools that started as plugin systems, CI runners, and) Tj
+T*
+(chart templating tools have quietly grown transitive dependency trees. Now they walk like a) Tj
+T*
+(package manager, quack like a package manager, and have all the problems that npm and Cargo and) Tj
+T*
+(Bundler have spent years learning to manage, though most of them haven?t caught up on the) Tj
+T*
+(solutions. GitHub Actions Registry: GitHub repos Lockfile: No Integrity hashes: No Resolution) Tj
+T*
+(algorithm: Recursive download, no constraint solving Transitive pinning: No Mutable versions:) Tj
+T*
+(Yes, git tags can be moved. Immutable releases lock tags after publication but can still be) Tj
+T*
+(d...) Tj
+T*
+() Tj
+T*
+(12. The Noble Path) Tj
+T*
+(Source: Westenberg. | Published: Sun, 08 Mar 2026 23:56:18 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/the-noble-path/) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3913 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(It is a truth universally acknowledged that an indie hacker in possession of a widget must be) Tj
+T*
+(in want of a business model... Every tool is a startup now. Every script is a SaaS product.) Tj
+T*
+(Every neat little hack you cobbled together on a Sunday afternoon to solve your own) Tj
+T*
+() Tj
+T*
+(13. Schlep Blindness) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/schlep.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(14. Snapshot: Viaweb, June 1998) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/vw.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. Why Startup Hubs Work) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/hubs.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. Paywalls For Minimalists) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-03-08T13:20:05Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17295750/minimal-paywall-setup-idea) Tj
+T*
+(What?s the least you can do to build an effective paywall for creators that?s mostly) Tj
+T*
+(open-source? If we can figure that out, that might make it easier to cut out the big platforms.) Tj
+T*
+() Tj
+T*
+(17. GNU and the AI reimplementations) Tj
+T*
+(Source: antirez.com | Published: Sun, 08 Mar 2026 17:08:41 +0100) Tj
+T*
+(Link: http://antirez.com/news/162) Tj
+T*
+(Those who cannot remember the past are condemned to repeat it. A sentence that I never really) Tj
+T*
+(liked, and what is happening with AI, about software projects reimplementations, shows all the) Tj
+T*
+(limits of such an idea. Many people are protesting the fairness of rewriting existing projects) Tj
+T*
+(using AI. But, a good portion of such people, during the 90s, were already in the field: they) Tj
+T*
+(followed the final part \(started in the ?80s\) of the deeds of Richard Stallman, when he and his) Tj
+T*
+(followers were reimplementing the UNIX userspace for the GNU project. The same people that now) Tj
+T*
+(are against AI rewrites, back then, cheered for the GNU project actions \(rightly, from my point) Tj
+T*
+(of view ? I cheered too\). Stallman is not just a programming genius, he is also the kind of) Tj
+T*
+(person that has a broad vision across disciplines, and among other things he was well versed in) Tj
+T*
+(the copyright nuances. He asked the other programmers to reimplement the UNIX userspace in a) Tj
+T*
+(specific way. A way that would make each tool unique, recognizable, compared to the original) Tj
+T*
+(copy. Either faster, or more feature rich, or scriptable; qualities that would serve two) Tj
+T*
+(different goals: to make GNU Hurd better and, at the same time, to prov...) Tj
+T*
+() Tj
+T*
+(18. Redis latency spikes and the 99th percentile) Tj
+T*
+(Source: antirez.com | Published: Thu, 30 Oct 2014 14:28:42 +0100) Tj
+T*
+(Link: http://antirez.com/news/83) Tj
+T*
+(One interesting thing about the Stripe blog post about Redis is that they included latency) Tj
+T*
+(graphs obtained during their tests. In order to persist on disk Redis requires to call the) Tj
+T*
+(fork\(\) system call. Usually forking using physical servers, and most hypervisors, is fast even) Tj
+T*
+(with big processes. However Xen is slow to fork, so with certain EC2 instance types \(and other) Tj
+T*
+(virtual servers providers as well\), it is possible to have serious latency spikes every time) Tj
+T*
+(the parent process forks in order to persist on disk. The Stripe graph is pretty clear in this) Tj
+T*
+(regard. img://antirez.com/misc/stripe-latency.png As you can guess, if you perform a latency) Tj
+T*
+(test during the fork, all the requests crossing the moment the parent process forks will be) Tj
+T*
+(delayed up to one second \(taking as example the graph above, not sure about what was the) Tj
+T*
+(process size nor the EC2 instance\). This will produce a number of samples with high latency,) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4323 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(and will affect the 99th percentile result. To change instance type, configuration, setup, or) Tj
+T*
+(whatever in order to improve this behavior is a good idea, and there are use cases where even a) Tj
+T*
+(single request having a too high latency is unacceptable. However apparently it is...) Tj
+T*
+() Tj
+T*
+(19. This is why I can?t have conversations using Twitter) Tj
+T*
+(Source: antirez.com | Published: Wed, 29 Oct 2014 10:17:04 +0100) Tj
+T*
+(Link: http://antirez.com/news/82) Tj
+T*
+(Yesterday Stripe engineers wrote a detailed report of why they had an issue with Redis. This is) Tj
+T*
+(very appreciated. In the Hacker News thread I explained that because now we have diskless) Tj
+T*
+(replication \(http://antirez.com/news/81\) now persistence is no longer mandatory for people) Tj
+T*
+(having a master-slaves replicas set. This changes the design constraints: now that we can have) Tj
+T*
+(diskless replicas synchronization, it is worth it to better support the Stripe \(ex?\) use case) Tj
+T*
+(of replicas set with persistence turned down, in a more safe way. This is a work in progress) Tj
+T*
+(effort. In the same post Stripe engineers said that they are going to switch to PostgreSQL for) Tj
+T*
+(the use case where they have issues with Redis, which is a great database indeed, and many) Tj
+T*
+(times if you can go with the SQL data model and an on-disk database, it is better to use that) Tj
+T*
+(instead of Redis which is designed for when you really want to scale to a lot of complex) Tj
+T*
+(operations per second. Stripe engineers also said that they measured the 99th percentile and it) Tj
+T*
+(was better with PostgreSQL compared to Redis, so in a tweet @aphyr wrote: ?Note that) Tj
+T*
+(*synchronous* Postgres replication *between AZs* delivers lower 99th latencies than asynch...) Tj
+T*
+() Tj
+T*
+(20. How DOOM fire was made) Tj
+T*
+(Source: Fabien Sanglard | Published: 28 Dec 2018 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/doom_fire_psx/) Tj
+T*
+(How the playstation and Nintendo 64 version of DOOM implemented fire.) Tj
+T*
+() Tj
+T*
+(21. Deciphering the postcard sized raytracer) Tj
+T*
+(Source: Fabien Sanglard | Published: 24 Dec 2018 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/postcard_pathtracer/) Tj
+T*
+(How Andrew Kensler did it again and authored a breathtaking path tracer fitting on a postcard.) Tj
+T*
+() Tj
+T*
+(22. How the Dreamcast copy protection was defeated) Tj
+T*
+(Source: Fabien Sanglard | Published: 11 Dec 2018 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/dreamcast_hacking) Tj
+T*
+(How the Dreamcast copy protection was defeated!) Tj
+T*
+() Tj
+T*
+(23. The Neo solves Apple?s embarrassment) Tj
+T*
+(Source: Anil Dash | Published: 2026-03-08T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/03/08/neo-apple-embarassment/) Tj
+T*
+(Last week, Apple released a parade of hardware announcements, and the one that captured the) Tj
+T*
+(most attention across the industry was the $600 \($500 if you?re in education!\) MacBook Neo ,) Tj
+T*
+(the brightly-colored low-end laptop that they launched to great fanfare. The conventional) Tj
+T*
+(wisdom is that this product opens up Apple to the low end of the laptop market for the first) Tj
+T*
+(time, radically changing the dynamics of the entire market, and throwing down the gauntlet to) Tj
+T*
+(the garbage Windows laptop market, as well as challenging a huge swath of Chromebooks which) Tj
+T*
+(tend to dominate in the education market. This is incorrect. Apple has, in fact, sold a MacBook) Tj
+T*
+(Air with an M1 chip at Walmart for years , which it has intermittently discounted to $499 at) Tj
+T*
+(key times like Black Friday and Cyber Monday. The single-core performance of that laptop) Tj
+T*
+(\(meaning, how it works for most normal tasks that people do, like browsing the web or writing) Tj
+T*
+(email or watching YouTube videos\), is very nearly equivalent to the newly-released MacBook Neo.) Tj
+T*
+(But. A laptop with an old design, using a chip that has an old number \(the M1 chip came out six) Tj
+T*
+(years ago!\), sold exclusively through a mass-market retailer that is perceived as...) Tj
+T*
+() Tj
+T*
+(24. Rondetafelgesprek Tweede Kamer Digitale Soevereiniteit Rijksoverheid 13 Februari 2025) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 15 Feb 2025 10:04:58 +0100) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 2269 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://berthub.eu/articles/posts/digitale-soevereiniteit-rijksoverheid-13-februari-2025/) Tj
+T*
+(Het hele rondetafelgesprek van ?Digitale soevereiniteit Rijksoverheid? van afgelopen 13) Tj
+T*
+(februari 2025 is de moeite waard. Bekijk het hier op de meer dan uitstekende Debat Direct site) Tj
+T*
+(van de Tweede Kamer. Deelnemers Petra Oldengarm en Reijer Passchier hebben hun reflecties op de) Tj
+T*
+(bijeenkomst al gedeeld, en ik schreef er al wat over in mijn nieuwsbrief \(inschrijven kan via) Tj
+T*
+(deze link\). Hier voor mij twee persoonlijke highlights. Mijn intro: Sorry, your browser doesn't) Tj
+T*
+(support embedded videos.) Tj
+T*
+() Tj
+T*
+(25. Ik heb nu een nieuwsbrief) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 10 Feb 2025 09:13:17 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/ik-heb-nu-een-nieuwsbrief/) Tj
+T*
+(Zoals ik schreef in de eerste aflevering van mijn nieuwsbrief: ?Het komt een beetje pompeus) Tj
+T*
+(over om updates over mezelf te sturen, maar het is echt op veler verzoek. En spontaan hebben) Tj
+T*
+(248 mensen zich al ingeschreven, dus er is kennelijk behoefte.? Je kunt je hier inschrijven en) Tj
+T*
+(hier is het archief van eerdere afleveringen. Ik stuur een nieuwsbrief alleen als er wat te) Tj
+T*
+(melden is: nieuwe posts, praatjes, kamervragen, dat soort dingen.) Tj
+T*
+() Tj
+T*
+(26. Is het legaal om persoonsgegevens op servers van Amerikanen te zetten?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 04 Feb 2025 13:44:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/maar-is-het-legaal-om-persoonsgegevens-in-de-us-cloud-t) Tj
+T*
+(e-zetten/) Tj
+T*
+(De korte versie: overdracht van persoonsgegevens naar Amerikaanse aanbieders, ook op servers in) Tj
+T*
+(de EU, was juridisch al lang omstreden, omdat de US overheid zichzelf vrijwel onbeperkte) Tj
+T*
+(rechten gunt om in die data te grasduinen. Desondanks zijn er drie pogingen gewaagd om deze) Tj
+T*
+(overdracht te legaliseren. De eerste twee pogingen zijn door Europese rechters ongeldig) Tj
+T*
+(verklaard. De nieuwste poging, de Transatlantic Data Privacy Framework \(TDPF\) leunt zwaar op) Tj
+T*
+(een Amerikaanse toezichthouder genaamd Privacy and Civil Liberties Oversight Board \(PCLOB\).) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004507 00000 n 
+0000004633 00000 n 
+0000008729 00000 n 
+0000008855 00000 n 
+0000012820 00000 n 
+0000012946 00000 n 
+0000017322 00000 n 
+0000017450 00000 n 
+0000019772 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+19900
+%%EOF
