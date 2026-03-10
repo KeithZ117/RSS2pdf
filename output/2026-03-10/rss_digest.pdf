@@ -1,0 +1,688 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4135 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-10 09:37:58) Tj
+T*
+() Tj
+T*
+(1. [Sponsor] Finalist) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-09T22:44:03Z) Tj
+T*
+(Link: https://www.finalist.works/finalist-36/) Tj
+T*
+(Your whole day on one screen. Finalist is an iOS/macOS day planner that pulls in your) Tj
+T*
+(calendars, reminders, and health data so nothing falls through the cracks. The latest version) Tj
+T*
+(launches now and adds subtasks, calendar bookmarks, HealthKit in your journal, and a spoken) Tj
+T*
+(daily briefing you can trigger from your Lock Screen. Run it alongside what you already use. It) Tj
+T*
+(quietly picks up what your current setup doesn?t. Free trial on the App Store, Lifetime license) Tj
+T*
+(available. ?) Tj
+T*
+() Tj
+T*
+(2. ? The iPhone 17e) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-09T21:57:35Z) Tj
+T*
+(Link: https://daringfireball.net/2026/03/the_iphone_17e) Tj
+T*
+(Apple could have stopped with the addition of MagSafe alone, and the 17e would?ve been a) Tj
+T*
+(successful year-over-year update over the 16e. But there?s even more.) Tj
+T*
+() Tj
+T*
+(3. MacBook Neo Wallpapers Now Available for All Macs in MacOS Tahoe) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-09T19:37:58Z) Tj
+T*
+(Link: https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/) Tj
+T*
+(Juli Clover, MacRumors: Featuring bubble-style lines with colorful gradients, the wallpapers) Tj
+T*
+(come in Mac Purple, Mac Blue, Mac Pink, and Mac Yellow. The design and the colors spell out the) Tj
+T*
+(word ?Mac.? They got me. I?m upgrading to Tahoe now. ?) Tj
+T*
+() Tj
+T*
+(4. Production query plans without production data) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-09T15:05:15+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom) Tj
+T*
+(-everything) Tj
+T*
+(Production query plans without production data Radim Marek describes the new) Tj
+T*
+(pg_restore_relation_stats\(\) and pg_restore_attribute_stats\(\) functions that were introduced in) Tj
+T*
+(PostgreSQL 18 in September 2025. The PostgreSQL query planner makes use of internal statistics) Tj
+T*
+(to help it decide how to best execute a query. These statistics often differ between production) Tj
+T*
+(data and development environments, which means the query plans used in production may not be) Tj
+T*
+(replicable in development. PostgreSQL's new features now let you copy those statistics down to) Tj
+T*
+(your development environment, allowing you to simulate the plans for production workloads) Tj
+T*
+(without needing to copy in all of that data first. I found this illustrative example useful:) Tj
+T*
+(SELECT pg_restore_attribute_stats\( 'schemaname', 'public', 'relname', 'test_orders', 'attname',) Tj
+T*
+('status', 'inherited', false::boolean, 'null_frac', 0.0::real, 'avg_width', 9::integer,) Tj
+T*
+('n_distinct', 5::real, 'most_common_vals',) Tj
+T*
+('{delivered,shipped,cancelled,pending,returned}'::text, 'most_common_freqs',) Tj
+T*
+('{0.95,0.015,0.015,0.015,0.005}'::real[] \); This simulates statistics for a status column that) Tj
+T*
+(is 95% delivered . Based on these statistics PostgreSQL can decide...) Tj
+T*
+() Tj
+T*
+(5. Perhaps not Boring Technology after all) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-09T13:37:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything) Tj
+T*
+(A recurring concern I've seen regarding LLMs for programming is that they will push our) Tj
+T*
+(technology choices towards the tools that are best represented in their training data, making) Tj
+T*
+(it harder for new, better tools to break through the noise. This was certainly the case a) Tj
+T*
+(couple of years ago, when asking models for help with Python or JavaScript appeared to give) Tj
+T*
+(much better results than questions about less widely used languages. With the latest models) Tj
+T*
+(running in good coding agent harnesses I'm not sure this continues to hold up. I'm seeing) Tj
+T*
+(excellent results with my brand new tools where I start by prompting "use uvx showboat --help /) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4291 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(rodney --help / chartroom --help to learn about these tools" - the context length of these new) Tj
+T*
+(models is long enough that they can consume quite a lot of documentation before they start) Tj
+T*
+(working on a problem. Drop a coding agent into any existing codebase that uses libraries and) Tj
+T*
+(tools that are too private or too new to feature in the training data and my experience is that) Tj
+T*
+(it works just fine - the agent will consult enough of the existing examples to understand) Tj
+T*
+(patterns, then iterate and test its own output to fill in the gaps. This is a surprising res...) Tj
+T*
+() Tj
+T*
+(6. The fine print giveth and the bold print taketh away: The countdown timer) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 09 Mar 2026 14:00:01 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260309-01/?p=112120) Tj
+T*
+(Think fast, no pressure. The post The fine print giveth and the bold print taketh away: The) Tj
+T*
+(countdown timer appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(7. Learning to read C++ compiler errors: Ambiguous overloaded operator) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 09 Mar 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260309-00/?p=112118) Tj
+T*
+(Look for the conflicting definitions to see where they are coming from. The post Learning to) Tj
+T*
+(read C++ compiler errors: Ambiguous overloaded operator appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Why Am I Paranoid, You Say?) Tj
+T*
+(Source: iDiallo.com | Published: Mon, 09 Mar 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/why-am-i-paranoid?src=feed) Tj
+T*
+(Technology has advanced to a point I could only have dreamed of as a child. Have you seen the) Tj
+T*
+(graphics in video games lately? Zero to 60 miles per hour in under two seconds? Communicating) Tj
+T*
+(with anyone around the world at the touch of a button? It's incredible, to say the least. But) Tj
+T*
+(every time I grab the TV remote and decline the terms of service, my family watches in) Tj
+T*
+(confusion. I don't usually have the words to explain my paranoia to them, but let me try. I) Tj
+T*
+(would love to have all the features enabled on all my devices. I would love to have Siri on my) Tj
+T*
+(phone. I would love to have Alexa control the lighting in my house and play music on command. I) Tj
+T*
+(would love to own an electric car with over-the-air updates. I would love to log in with my) Tj
+T*
+(Google account everywhere. I would love to sign up for your newsletter. I would love to try the) Tj
+T*
+(free trial. I would love to load all my credit cards onto my phone. I would love all of that.) Tj
+T*
+(But I can't. I don't get to do these things because I have control over none of them. When I) Tj
+T*
+(was a kid, I imagined that behind the wild technologies of the future there would be software) Tj
+T*
+(and hardware, pure and simple. Now that we have the tech, I can say that what...) Tj
+T*
+() Tj
+T*
+(9. Some Thorns Have Roses) Tj
+T*
+(Source: Xe Iaso's blog | Published: Sun, 08 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/blog/2026/some-thorns-have-roses/) Tj
+T*
+(Recovery gave me things I didn't ask for and I'm not ready to give them back.) Tj
+T*
+() Tj
+T*
+(10. Trig composition table) Tj
+T*
+(Source: John D. Cook | Published: Mon, 09 Mar 2026 22:16:09 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/09/trig-composition-table/) Tj
+T*
+(I?ve written a couple posts that reference the table below. You could make a larger table, 6 ×) Tj
+T*
+(6, by including sec, csc, cot, and their inverses, as Baker did in his article [1]. Note that) Tj
+T*
+(rows 4, 5, and 6 are the reciprocals of rows 1, 2, and 3. Returning to the theme of [?] The) Tj
+T*
+(post Trig composition table first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. 100 Posts) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-09T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/09/100-posts.html) Tj
+T*
+(I didn?t expect to make it here. Back in November 2025 I was on a call talking about how we) Tj
+T*
+(should document more of how package managers work so people can more easily build tools to) Tj
+T*
+(consume the data within them, and one attendee suggested we didn?t need to do that because) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4092 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(their open source software provided everything you would need. This was pretty frustrating, so) Tj
+T*
+(started rage documenting package managers and it unlocked years of material wrapped up inside) Tj
+T*
+(my head. Around this time paid work began to slow down, I had more free time to keep blogging) Tj
+T*
+(and had lots of kind words from readers, so I just kept going. Christmas 2025 was an especially) Tj
+T*
+(weird one, sick family members killed a lot of plans and my post on UV?s performance) Tj
+T*
+(improvements ended up sat on the front page of Hacker News all day, which was a surreal) Tj
+T*
+(experience. I?ve also made a couple overview pages that collect posts on specific topics:) Tj
+T*
+(Package Management and Git . If you want to see everything I?ve written about either of those,) Tj
+T*
+(those are good places to start. Some of my favorites and popular posts for anyone who hasn?t) Tj
+T*
+(gone back through the archives: Whale Fall What happens when a large open source project) Tj
+T*
+(dies,...) Tj
+T*
+() Tj
+T*
+(12. Pluralistic: Billionaires are a danger to themselves and \(especially\) us \(09 Mar 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 09 Mar 2026 16:46:33) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/03/09/autocrats-of-trade-2/) Tj
+T*
+(Today's links Billionaires are a danger to themselves and \(especially\) us: A billionaire is a) Tj
+T*
+(machine for producing policy failures at scale. Hey look at this: Delights to delectate. Object) Tj
+T*
+(permanence: Librarians Against DRM; Copyright maximalist MP is a pirate; "The Monster"; The) Tj
+T*
+(perversity of self-destructing ebooks; Space opera cliches; Social software politics; Game in a) Tj
+T*
+(browser's location bar; Map of sf/f; Group chat sucks; Jeep hack; Gandersauce. Upcoming) Tj
+T*
+(appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Billionaires are a danger to themselves and \(especially\) us \(permalink\)) Tj
+T*
+(Even if rich people were no more likely to believe stupid shit than you or me, it would still) Tj
+T*
+(be a problem. After all, I believe in my share of stupid shit \(and if you think that none of) Tj
+T*
+(the shit you believe in is stupid, then I'm afraid we've just identified at least one kind of) Tj
+T*
+(stupid shit you believe in\). The problem isn't whether rich people believe stupid shit; it's) Tj
+T*
+(the fact that when a rich person believes something stupid, that belief can turn into...) Tj
+T*
+() Tj
+T*
+(13. The Patent Pledge) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/patentpledge.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(14. Subject: Airbnb) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/airbnb.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. Founder Control) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/control.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. Two of My Favorite Things Together at Last: Pies and Subdomains) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 08 Mar 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/pies-and-subdomains/) Tj
+T*
+(I like pie. And I?ve learned that if I want a pie done right, I gotta do it myself. Somewhere) Tj
+T*
+(along my pilgrimage to pie perfection, I began taking a photo of each bake ? pic or it didn?t) Tj
+T*
+(happen. Despite all my rhetoric for ?owning your own content?, I?ve hypocritically used) Tj
+T*
+(Instagram to do the deed. Which has inexorably lead me to this moment: I want an archive of all) Tj
+T*
+(the pie pics I?ve snapped. So I took the time to build and publish my best subdomain yet:) Tj
+T*
+(pies.jim-nielsen.com How It Works Programmatically, pulling pictures from Instagram used to be) Tj
+T*
+(easy because they had APIs \(access tokens expiring like every 60 days was annoying though\).) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4816 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(However, those APIs have been deprecated . Now if I want to pull data out of Instagram, I have) Tj
+T*
+(to use their GUI export tools . Once the archive is ready, they send me a link. I download the) Tj
+T*
+(archive and open the .zip file which results in a collection of disparate JSON files) Tj
+T*
+(representing data like comments, likes, messages, pictures, etc. I don?t care about most of) Tj
+T*
+(those files. I just want pictures and captions. So I crafted an Origami script that pulls all) Tj
+T*
+(that data out of the archive and puts it into a single directory: pictures, named by date...) Tj
+T*
+() Tj
+T*
+(17. Diskless replication: a few design notes.) Tj
+T*
+(Source: antirez.com | Published: Mon, 27 Oct 2014 17:34:15 +0100) Tj
+T*
+(Link: http://antirez.com/news/81) Tj
+T*
+(Almost a month ago a number of people interested in Redis development met in London for the) Tj
+T*
+(first Redis developers meeting. We identified together a number of features that are urgent) Tj
+T*
+(\(and are now listed in a Github issue here: https://github.com/antirez/redis/issues/2045\), and) Tj
+T*
+(among the identified issues, there was one that was mentioned multiple times in the course of) Tj
+T*
+(the day: diskless replication. The feature is not exactly a new idea, it was proposed several) Tj
+T*
+(times, especially by EC2 users that know that sometimes it is not trivial for a master to) Tj
+T*
+(provide good performances during slaves synchronization. However there are a number of use) Tj
+T*
+(cases where you don?t want to touch disks, even running on physical servers, and especially) Tj
+T*
+(when Redis is used as a cache. Redis replication was, in short, forcing users to use disk even) Tj
+T*
+(when they don?t need or want disk durability. When I returned back home I wanted to provide a) Tj
+T*
+(quick feedback to the developers that attended the meeting, so the first thing I did was to) Tj
+T*
+(focus on implementing the feature that seemed the most important and non-trivial among the list) Tj
+T*
+(of identified issues. In the next weeks the attention will be moved to the Redis d...) Tj
+T*
+() Tj
+T*
+(18. A few arguments about Redis Sentinel properties and fail scenarios.) Tj
+T*
+(Source: antirez.com | Published: Tue, 21 Oct 2014 17:18:10 +0200) Tj
+T*
+(Link: http://antirez.com/news/80) Tj
+T*
+(Yesterday distributed systems expert Aphyr, posted a tweet about a Redis Sentinel issue) Tj
+T*
+(experienced by an unknown company \(that wishes to remain anonymous\): ?OH on Redis Sentinel) Tj
+T*
+("They kill -9'd the master, which caused a split brain..." ?then the old master popped up with) Tj
+T*
+(no data and replicated the lack of data to all the other nodes. Literally had to restore from) Tj
+T*
+(backups." OMG we have some nasty bug I thought. However I tried to get more information from) Tj
+T*
+(Kyle, and he replied that the users actually disabled disk persistence at all from the master) Tj
+T*
+(process. Yep: the master was configured on purpose to restart with a wiped data set. Guess) Tj
+T*
+(what? A Twitter drama immediately started. People were deeply worried for Redis users. Poor) Tj
+T*
+(Redis users! Always in danger. However while to be very worried is a trait of sure wisdom, I) Tj
+T*
+(want to take the other path: providing some more information. Moreover this blog post is) Tj
+T*
+(interesting to write since actually Kyle, while reporting the problem with little context, a) Tj
+T*
+(few tweets later was able to, IMHO, isolate what is the true aspect that I believe could be) Tj
+T*
+(improved in Redis Sentinel, which is not related to the described incident, and is in my) Tj
+T*
+(TODO...) Tj
+T*
+() Tj
+T*
+(19. Redis cluster, no longer vaporware.) Tj
+T*
+(Source: antirez.com | Published: Thu, 09 Oct 2014 16:35:23 +0200) Tj
+T*
+(Link: http://antirez.com/news/79) Tj
+T*
+(The first commit I can find in my git history about Redis Cluster is dated March 29 2011, but) Tj
+T*
+(it is a ?copy and commit? merge: the history of the cluster branch was destroyed since it was a) Tj
+T*
+(total mess of work-in-progress commits, just to shape the initial idea of API and interactions) Tj
+T*
+(with the rest of the system. Basically it is a roughly 4 years old project. This is about two) Tj
+T*
+(thirds the whole history of the Redis project. Yet, it is only today, that I?m releasing a) Tj
+T*
+(Release Candidate, the first one, of Redis 3.0.0, which is the first version with Cluster) Tj
+T*
+(support. An erratic run ? To understand why it took so long is straightforward: I started the) Tj
+T*
+(cluster project with a lot of rush, in a moment where it looked like Redis was going to be) Tj
+T*
+(totally useless without an automatic way to scale. It was not the right moment to start the) Tj
+T*
+(Cluster project, simply because Redis itself was too immature, so we didn't yet have a solid) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3453 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(?single instance? story to tell. While I did the error of starting a project with the wrong) Tj
+T*
+(timing, at least I didn?t fell in the trap of ignoring the requests arriving from the) Tj
+T*
+(community, so the project was stopped and stopped an infinite number of times in order to p...) Tj
+T*
+() Tj
+T*
+(20. Game Engine Black Book: DOOM) Tj
+T*
+(Source: Fabien Sanglard | Published: 10 Dec 2018 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/gebbdoom) Tj
+T*
+(The Game Engine Black Book: DOOM is out!) Tj
+T*
+() Tj
+T*
+(21. Game Engine Black Book: Wolfenstein 3D, 2nd Edition) Tj
+T*
+(Source: Fabien Sanglard | Published: 6 Dec 2018 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/gebbwolf3d) Tj
+T*
+(The second edition of the Game Engine Black Book: Wolfenstein 3D is out.) Tj
+T*
+() Tj
+T*
+(22. Bloated) Tj
+T*
+(Source: Fabien Sanglard | Published: 23 Sep 2018 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/bloated) Tj
+T*
+(It used to happen sporadicly but now it is a daily experience.) Tj
+T*
+() Tj
+T*
+(23. Weekly Update 494) Tj
+T*
+(Source: Troy Hunt | Published: Tue, 10 Mar 2026 01:29:35 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-494/) Tj
+T*
+(Since starting HIBP a dozen and a bit years ago, I've loaded an average of one breach every 4.7) Tj
+T*
+(days. That's 959 of them to date, but last week it was five in only two days. That's a few) Tj
+T*
+(weeks' worth of) Tj
+T*
+() Tj
+T*
+(24. No, it doesn't cost Anthropic $5k per Claude Code user) Tj
+T*
+(Source: Martin Alderson | Published: Mon, 09 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/?utm) Tj
+T*
+(_source=rss&utm_medium=rss&utm_campaign=feed) Tj
+T*
+(The viral claim that Anthropic loses $5,000 per Claude Code subscriber doesn't survive basic) Tj
+T*
+(scrutiny. Let's do the actual maths.) Tj
+T*
+() Tj
+T*
+(25. I don?t know what is Apple?s endgame for the Fn/Globe key, and I?m not sure Apple) Tj
+T*
+(knows either) Tj
+T*
+(Source: Aresluna | Published: 2026-03-09T16:22:40+0000) Tj
+T*
+(Link: https://aresluna.org/fn) Tj
+T*
+(The origin and the evolution of the most confusing modifier key) Tj
+T*
+() Tj
+T*
+(26. Communications without Musk and Trump: Cloud Kootwijk) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 02 Feb 2025 15:07:10 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/communicating-without-musk-and-trump-cloud-kootwijk/) Tj
+T*
+(In the beautiful Dutch booklet Over en Uit: Driekwart Eeuw Radiocommunicatie 1900 - 1975 \(?Over) Tj
+T*
+(and out: 75 years of radio communications?\), we read: 1916: As a result of British cable) Tj
+T*
+(censorship, free communication between the Dutch government and the Governor-General of the) Tj
+T*
+(Dutch East Indies was no longer feasible. \(Dutch version of this post is here\) The Netherlands) Tj
+T*
+(was dependent on foreign countries for communication, which had already caused problems) Tj
+T*
+(earlier:) Tj
+T*
+() Tj
+T*
+(27. Mailen en communiceren zonder Musk en Trump: Cloud Kootwijk) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 02 Feb 2025 13:57:10 +0100) Tj
+T*
+(Link:) Tj
+T*
+(https://berthub.eu/articles/posts/mailen-en-communiceren-zonder-musk-en-trump-cloud-kootwijk/) Tj
+T*
+(In het mooie boekje Over en Uit: driekwart eeuw radiocommunicatie 1900 - 1975 lezen we: 1916:) Tj
+T*
+(Als gevolg van de Engelse kabelcensuur is een vrije berichtenwisseling tussen de Nederlandse) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 1267 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(regering en de Gouverneur-Generaal van N.O.-Indië niet goed meer mogelijk. Nederland was) Tj
+T*
+(afhankelijk van het buitenland voor communicatie, wat ook al eerder voor problemen had gezorgd:) Tj
+T*
+(1899: Tijdens de Tweede Boerenoorlog van 1899-1902 tussen Engeland en de Zuid-Afrikaanse) Tj
+T*
+(republieken Oranje Vrijstaat en Transvaal worden telegrammen uit Nederland \(?\) door Engelse) Tj
+T*
+(ambtenaren gecensureerd.) Tj
+T*
+() Tj
+T*
+(28. Shifting Cyber Norms: Microsoft security POST-ing to you) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 23 Jan 2025 12:42:25 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/) Tj
+T*
+(tl;dr: Microsoft and other email security scanners will visit the links in email you transmit,) Tj
+T*
+(and run the JavaScript in those links, including calls that lead to POSTs going out. This used) Tj
+T*
+(to be unacceptable, since POSTs have side effects. Yet here we are. This breaks even somewhat) Tj
+T*
+(sophisticated single-use sign-on / email confirmation messages. Read on for how to deal with) Tj
+T*
+(this, and some thoughts on how we should treat gatekeepers like Microsoft that can randomly) Tj
+T*
+(break things & get away with it.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004411 00000 n 
+0000004537 00000 n 
+0000008880 00000 n 
+0000009006 00000 n 
+0000013150 00000 n 
+0000013276 00000 n 
+0000018145 00000 n 
+0000018273 00000 n 
+0000021779 00000 n 
+0000021907 00000 n 
+0000023227 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+23355
+%%EOF
