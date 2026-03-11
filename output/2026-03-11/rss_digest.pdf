@@ -1,0 +1,842 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 7 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4272 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-11 09:37:40) Tj
+T*
+() Tj
+T*
+(1. AI should help us produce better code) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-10T22:25:09+00:00) Tj
+T*
+(Link:) Tj
+T*
+(https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything) Tj
+T*
+(Agentic Engineering Patterns > Many developers worry that outsourcing their code to AI tools) Tj
+T*
+(will result in a drop in quality, producing bad code that's churned out fast enough that) Tj
+T*
+(decision makers are willing to overlook its flaws. If adopting coding agents demonstrably) Tj
+T*
+(reduces the quality of the code and features you are producing, you should address that problem) Tj
+T*
+(directly: figure out which aspects of your process are hurting the quality of your output and) Tj
+T*
+(fix them. Shipping worse code with agents is a choice . We can choose to ship code that is) Tj
+T*
+(better instead. Avoiding taking on technical debt I like to think about shipping better code in) Tj
+T*
+(terms of technical debt. We take on technical debt as the result of trade-offs: doing things) Tj
+T*
+("the right way" would take too long, so we work within the time constraints we are under and) Tj
+T*
+(cross our fingers that our project will survive long enough to pay down the debt later on. The) Tj
+T*
+(best mitigation for technical debt is to avoid taking it on in the first place. In my) Tj
+T*
+(experience, a common category of technical debt fixes is changes that are simple but) Tj
+T*
+(time-consuming. Our original API design doesn't cover an important case that emerged later on.) Tj
+T*
+(Fix...) Tj
+T*
+() Tj
+T*
+(2. ? The MacBook Neo) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-10T22:48:40Z) Tj
+T*
+(Link: https://daringfireball.net/2026/03/the_macbook_neo) Tj
+T*
+(May the MacBook Neo live so long that its name becomes inapt.) Tj
+T*
+() Tj
+T*
+(3. Low-Wage Contractors in Kenya See What Users See While Using Meta?s AI Smart Glasses) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-09T14:16:19Z) Tj
+T*
+(Link: https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-) Tj
+T*
+(we-see-everything) Tj
+T*
+(Naipanoi Lepapa, Ahmed Abdigadir, and Julia Lindblom, reporting for the Swedish publications) Tj
+T*
+(Svenska Dagbladet and Gˆteborgs-Posten: It is stuffy at the top of the hotel in Nairobi, Kenya.) Tj
+T*
+(The grey sky presses the heat against the windows. The man in front of us is nervous. If his) Tj
+T*
+(employer finds out that he is here, he could lose everything. He is one of the people few even) Tj
+T*
+(realise exist ? a flesh-and-blood worker in the engine room of the data industry. What he has) Tj
+T*
+(to say is explosive. ?In some videos you can see someone going to the toilet, or getting) Tj
+T*
+(undressed. I don?t think they know, because if they knew they wouldn?t be recording.? [...] The) Tj
+T*
+(workers describe videos where people?s bank cards are visible by mistake, and people watching) Tj
+T*
+(porn while wearing the glasses. Clips that could trigger ?enormous scandals? if they were) Tj
+T*
+(leaked. ?There are also sex scenes filmed with the smart glasses ? someone is wearing them) Tj
+T*
+(having sex. That is why this is so extremely sensitive. There are cameras everywhere in our) Tj
+T*
+(office, and you are not allowed to bring your own phones or any device that can record?, an) Tj
+T*
+(employee says. Delightful. And what a brand move for Ray-Ban and Oakley. ?) Tj
+T*
+() Tj
+T*
+(4. The MacBook Neo?s Price, Looking to the Past and Future) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-06T14:50:39Z) Tj
+T*
+(Link: https://x.com/ethan_is_online/status/2029331836137291941?s=42) Tj
+T*
+(Ethan W. Anderson, on Twitter/X: I?ve plotted the most expensive McDonald?s burger and the) Tj
+T*
+(least expensive MacBook over time. This analysis projects that the most expensive burger will) Tj
+T*
+(be more expensive than the cheapest laptop as soon as 2081. Looking to the past, if you plug) Tj
+T*
+($599 in today?s money into an inflation calculator , that?s just ~$190 in 1984, the year the) Tj
+T*
+(original Macintosh launched with a price of $2,495 \(which works out to ~$7,800 today.\) ?) Tj
+T*
+() Tj
+T*
+(5. Microsoft Patch Tuesday, March 2026 Edition) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4299 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Krebs on Security | Published: Wed, 11 Mar 2026 00:32:51 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/) Tj
+T*
+(Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows) Tj
+T*
+(operating systems and other software. There are no pressing "zero-day" flaws this month) Tj
+T*
+(\(compared to February's five zero-day treat\), but as usual some patches may deserve more rapid) Tj
+T*
+(attention from organizations using Windows. Here are a few highlights from this month's Patch) Tj
+T*
+(Tuesday.) Tj
+T*
+() Tj
+T*
+(6. I'm Not Lying, I'm Hallucinating) Tj
+T*
+(Source: iDiallo.com | Published: Tue, 10 Mar 2026 20:43:30 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed) Tj
+T*
+(Andrej Karpathy has a gift for coining terms that quickly go mainstream. When I heard "vibe) Tj
+T*
+(coding," it just made sense. It perfectly captured the experience of programming without really) Tj
+T*
+(engaging with the code. You just vibe until the application does what you want. Then there's) Tj
+T*
+("hallucination." He didn't exactly invent it. The term has existed since the 1970s. In one) Tj
+T*
+(early instance, it was used to describe a text summarization program's failure to accurately) Tj
+T*
+(summarize its source material. But Karpathy's revival of the term brought it back into the) Tj
+T*
+(mainstream, and subtly shifted its meaning, from "prediction error" to something closer to a) Tj
+T*
+(dream or a vision. Now, large language models don't throw errors. They hallucinate. When they) Tj
+T*
+(invent facts or bend the truth, they're not lying. They're hallucinating. And with every new) Tj
+T*
+(model that comes out and promises to stay clean off drugs, it still hallucinates. An LLM can do) Tj
+T*
+(no wrong when all its failures are framed as neurological disorder. For my part, I hope there's) Tj
+T*
+(a real effort to teach these models to simply say "I don't know." But in the meantime, I'll) Tj
+T*
+(adopt the term for myself. If you ever suspect I'm lying, or catch me red-hande...) Tj
+T*
+() Tj
+T*
+(7. Simplifying expressions in SymPy) Tj
+T*
+(Source: John D. Cook | Published: Tue, 10 Mar 2026 16:08:15 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/) Tj
+T*
+(The previous post looked at why Mathematica does not simplify the expression Sinh[ArcCosh[x]]) Tj
+T*
+(the way you might think it should. This post will be a sort of Python analog of the previous) Tj
+T*
+(post. SymPy is a Python library that among other things will simplify mathematical expressions.) Tj
+T*
+(As before, we seek to verify the entries in [?] The post Simplifying expressions in SymPy first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(8. sinh\( arccosh\(x\) \)) Tj
+T*
+(Source: John D. Cook | Published: Tue, 10 Mar 2026 15:12:03 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/) Tj
+T*
+(I?ve written several posts about applying trig functions to inverse trig functions. I intended) Tj
+T*
+(to write two posts, one about the three basic trig functions and one about their hyperbolic) Tj
+T*
+(counterparts. But there?s more to explore here than I thought at first. For example, the) Tj
+T*
+(mistakes that I made in the first post lead to [?] The post sinh\( arccosh\(x\) \) first appeared) Tj
+T*
+(on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. A snappy answer when asked about dressing casually at IBM) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 10 Mar 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260310-00/?p=112131) Tj
+T*
+(Oh, this old thing? The post A snappy answer when asked about dressing casually at IBM appeared) Tj
+T*
+(first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(10. Unstructured Data and the Joy of having Something Else think for you) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 10 Mar 2026 12:34:59 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/unstructured-data-and-the-joy-of-having-something-else-t) Tj
+T*
+(hink-for-you/) Tj
+T*
+(I'm sure we have all met a person like this: People who have an AI habit use it by default. I) Tj
+T*
+(have watched someone ask ChatGPT the weather for tomorrow rather than simply open the weather) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4499 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(app. Another time, they asked AI the question even after I had shown them the website with the) Tj
+T*
+(same information. It's a crutch.? Ibster \(@ibster.bsky.social\) 9 March 2026 at 09:46 At a) Tj
+T*
+(recent tech event, I b?) Tj
+T*
+() Tj
+T*
+(11. Book Review: There Is No Antimemetics Division by qntm ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 09 Mar 2026 12:34:47 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/) Tj
+T*
+(Apparently I reviewed the previous version of this book four years ago but have no real memory) Tj
+T*
+(of it. Did you ever have a dream which was vividly realistic yet somehow slightly askew from) Tj
+T*
+(reality? Obviously there is no antimemetics division, nor could anyone write a book about it.) Tj
+T*
+(If they did, their mind would instantly be liquefied and their mere existence would be purged.) Tj
+T*
+(So, why is there a ?) Tj
+T*
+() Tj
+T*
+(12. Just Use Postgres) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-10T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/10/just-use-postgres.html) Tj
+T*
+(A couple of weeks ago I wrote about storing git repositories in Postgres and built gitgres to) Tj
+T*
+(prove it worked. Two tables, some PL/pgSQL, a libgit2 backend, and you could push to and clone) Tj
+T*
+(from a database. The post ended with a missing piece: the server-side pack protocol, the part) Tj
+T*
+(that lets a Postgres instance serve git push and git clone over HTTP without a separate) Tj
+T*
+(application in front of it. I built that missing piece as omni_git , a Postgres extension that) Tj
+T*
+(implements the git smart HTTP protocol inside the database and, when paired with omnigres ,) Tj
+T*
+(turns git push into a deployment mechanism where your SQL files go from git objects in a table) Tj
+T*
+(to running code in the same Postgres instance. The end result is something like Heroku, except) Tj
+T*
+(the entire platform is a single Postgres process. You git push a Flask app \(or raw SQL, or) Tj
+T*
+(both\) to a Postgres remote, a trigger deploys it, and omnigres starts serving HTTP traffic from) Tj
+T*
+(it ? no reverse proxy, no container runtime, no separate application server. The database is) Tj
+T*
+(the git host, the build system, and the production runtime. The protocol in SQL The git smart) Tj
+T*
+(HTTP protocol is simpler than it looks from the outside. A client hits /repo/...) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: Ad-tech is fascist tech \(10 Mar 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 10 Mar 2026 15:23:43) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/03/10/ice-tech/) Tj
+T*
+(Today's links Ad-tech is fascist tech: Surveillance advertising is just surveillance. Hey look) Tj
+T*
+(at this: Delights to delectate. Object permanence: Washpo v Bernie; Activists v Saif Gadaffi's) Tj
+T*
+(London mansion; Spacefaring v contract language; Tuna-can tiffin pail; France v encryption.) Tj
+T*
+(Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You) Tj
+T*
+(keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Ad-tech is fascist tech \(permalink\) A core tenet of the) Tj
+T*
+(enshittification hypothesis is that all the terrible stuff we're subjected to in our digital) Tj
+T*
+(lives today is the result of foreseeable \(and foreseen\) policy choices, which created the) Tj
+T*
+(enshittogenic policy environment in which the worst people's worst ideas make the most money:) Tj
+T*
+(https://pluralistic.net/2025/09/10/say-their-names/#object-permanence Take commercial) Tj
+T*
+(surveillance. Google didn't have to switch from content-based ads \(which chose ads based on) Tj
+T*
+(your search terms and the contents of webpages\) to surveillance-based ads \(which used dossiers) Tj
+T*
+(on your searches, emails, purchases and physical movements to target ads to you, personally\).) Tj
+T*
+(The co...) Tj
+T*
+() Tj
+T*
+(14. The Beginning Of History) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 10 Mar 2026 18:34:49 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/the-beginning-of-history/) Tj
+T*
+(Hi! If you like this piece and want to support my work, please subscribe to my premium) Tj
+T*
+(newsletter. It?s $70 a year, or $7 a month, and in return you get a weekly newsletter that?s) Tj
+T*
+(usually anywhere from 5000 to 185,000 words, including vast, extremely) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3874 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(15. Rebasing in Magit) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 10 Mar 2026 00:00:00 +0100) Tj
+T*
+(Link: https://entropicthoughts.com/rebasing-in-magit) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. Tablets) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/tablets.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(17. What We Look for in Founders) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/founders.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(18. The New Funding Landscape) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/superangels.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(19. LLMs are bad at vibing specifications) Tj
+T*
+(Source: Computer Things | Published: Tue, 10 Mar 2026 17:12:30 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/) Tj
+T*
+(No newsletter next week I'll be speaking at InfoQ London . But see below for a book giveaway!) Tj
+T*
+(LLMs are bad at vibing specifications About a year ago I wrote AI is a gamechanger for TLA+) Tj
+T*
+(users , which argued that AI are a "specification force multiplier". That was written from the) Tj
+T*
+(perspective an TLA+ expert using these tools. A full 4% of Github TLA+ specs now have the word) Tj
+T*
+("Claude" somewhere in them. This is interesting to me, because it suggests there was always an) Tj
+T*
+(interest in formal methods, people just lacked the skills to do it. It's also interesting) Tj
+T*
+(because it gives me a sense of what happens when beginners use AI to write formal specs. It's) Tj
+T*
+(not good. As a case study, we'll use this project , which is kind of enough to have vibed out) Tj
+T*
+(TLA+ and Alloy specs. Looking at a project Starting with the Alloy spec . Here it is in its) Tj
+T*
+(entirety: module ThreatIntelMesh sig Node {} one sig LocalNode extends Node {} sig Snapshot {) Tj
+T*
+(owner: one Node, signed: one Bool, signatures: set Signature } sig Signature {} sig Policy {) Tj
+T*
+(allowUnsignedImport: one Bool } pred canImport[p: Policy, s: Snapshot] { \(p.allowUnsignedImport) Tj
+T*
+(= True\) or \(s.signed = True\) } assert UnsignedImportMustBeDenied { all p: P...) Tj
+T*
+() Tj
+T*
+(20. Writing an LLM from scratch, part 32e -- Interventions: the learning rate) Tj
+T*
+(Source: Giles' blog | Published: Tue, 10 Mar 2026 23:55:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate) Tj
+T*
+(I'm still working on improving the test loss for a from-scratch GPT-2 small base model, trained) Tj
+T*
+(on code based on Sebastian Raschka 's book " Build a Large Language Model \(from Scratch\) ". In) Tj
+T*
+(my training code, I have this code to create the optimiser: optimizer = torch . optim . AdamW \() Tj
+T*
+(model . parameters \(\), lr = 0.0004 , weight_decay = 0.1 \) The values in there -- 0.0004 for the) Tj
+T*
+(learning rate, and 0.1 for the weight decay -- were just copied from the tiny training run that) Tj
+T*
+(we do in section 5.2 of the book. What do those values actually mean, and are those really the) Tj
+T*
+(right values for them? I felt I had a good handle on the learning rate, at least -- it's one of) Tj
+T*
+(the first things you learn when you start looking at machine learning of any kind -- but how) Tj
+T*
+(would you go about working out what the correct value for it was? On top of that, when I was) Tj
+T*
+(reading the Chinchilla paper a while back, I noticed they repeatedly referred to a "cosine) Tj
+T*
+(cycle" for the learning rate, which didn't fit into anything I'd learned about before. The) Tj
+T*
+(weight decay was pretty much an unknown for me -- I know it is a parameter controlling the) Tj
+T*
+(behaviour of the optimiser, but I don't know how it does that. In this...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4636 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(21. HN Skins 0.4.0 - Black Bar Updates) Tj
+T*
+(Source: Susam Pal | Published: Tue, 10 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/code/news/hnskins/0.4.0.html) Tj
+T*
+(HN Skins 0.4.0 is a minor update to HN Skins, a web browser userscript that adds custom themes) Tj
+T*
+(to Hacker News and lets you browse HN with a variety of visual styles. This release introduces) Tj
+T*
+(a small fix to preserve the commemorative black bar that occasionally appears at the top of the) Tj
+T*
+(page. When a notable figure in technology or science passes away, Hacker News places a thin) Tj
+T*
+(black bar at the top of the page in tribute. Previously some skins could obscure this element.) Tj
+T*
+(This update ensures that the bar remains visible and clearly noticeable. In dark themed skins,) Tj
+T*
+(the black bar is rendered as a lighter shade of grey so that it maintains sufficient contrast) Tj
+T*
+(and remains conspicuous. Today Hacker News has a story about Tony Hoare passing away , which) Tj
+T*
+(made me notice that the commemorative black bar was not rendered properly with some skins. This) Tj
+T*
+(prompted me to investigate the issue and implement the fix included in this release.) Tj
+T*
+(Screenshots showing how the bar appears with different skins are available at) Tj
+T*
+(susam.github.io/blob/img/hnskins/0.4.0/ . To install HN Skins, visit github.com/susam/hnskins) Tj
+T*
+(and follow the instructions there. Read on website | #web | #programming | #technology) Tj
+T*
+() Tj
+T*
+(22. Queues and databases) Tj
+T*
+(Source: antirez.com | Published: Mon, 14 Jul 2014 11:53:34 +0200) Tj
+T*
+(Link: http://antirez.com/news/78) Tj
+T*
+(Queues are an incredibly useful tool in modern computing, they are often used in order to) Tj
+T*
+(perform some possibly slow computation at a latter time in web applications. Basically queues) Tj
+T*
+(allow to split a computation in two times, the time the computation is scheduled, and the time) Tj
+T*
+(the computation is executed. A ?producer?, will put a task to be executed into a queue, and a) Tj
+T*
+(?consumer? or ?worker? will get tasks from the queue to execute them. For example once a new) Tj
+T*
+(user completes the registration process in a web application, the web application will add a) Tj
+T*
+(new task to the queue in order to send an email with the activation link. The actual process of) Tj
+T*
+(sending an email, that may require retrying if there are transient network failures or other) Tj
+T*
+(errors, is up to the worker. Technically speaking we can think at queues as a form of) Tj
+T*
+(inter-process messaging primitive, where the receiving process needs to acknowledge the) Tj
+T*
+(reception of the message. Messages can not be fire-and-forget, since the queue needs to) Tj
+T*
+(understand if the message can be removed from the queue, so some form of acknowledgement is) Tj
+T*
+(strictly required. When receiving a message triggers the execution of a task, like it happens) Tj
+T*
+(in...) Tj
+T*
+() Tj
+T*
+(23. A proposal for more reliable locks using Redis) Tj
+T*
+(Source: antirez.com | Published: Fri, 16 May 2014 13:15:32 +0200) Tj
+T*
+(Link: http://antirez.com/news/77) Tj
+T*
+(----------------- UPDATE: The algorithm is now described in the Redis documentation here =>) Tj
+T*
+(http://redis.io/topics/distlock. The article is left here in its older version, the updates) Tj
+T*
+(will go into the Redis documentation instead. ----------------- Many people use Redis to) Tj
+T*
+(implement distributed locks. Many believe that this is a great use case, and that Redis worked) Tj
+T*
+(great to solve an otherwise hard to solve problem. Others believe that this is totally broken,) Tj
+T*
+(unsafe, and wrong use case for Redis. Both are right, basically. Distributed locks are not) Tj
+T*
+(trivial if we want them to be safe, and at the same time we demand high availability, so that) Tj
+T*
+(Redis nodes can go down and still clients are able to acquire and release locks. At the same) Tj
+T*
+(time a fast lock manager can solve tons of problems which are otherwise hard to solve in) Tj
+T*
+(practice, and sometimes even a far from perfect solution is better than a very slow solution.) Tj
+T*
+(Can we have a fast and reliable system at the same time based on Redis? This blog post is an) Tj
+T*
+(exploration in this area. I?ll try to describe a proposal for a simple algorithm to use N Redis) Tj
+T*
+(instances for distributed and reliable locks, in the hope that the community may help...) Tj
+T*
+() Tj
+T*
+(24. Using Heartbleed as a starting point) Tj
+T*
+(Source: antirez.com | Published: Thu, 10 Apr 2014 11:06:18 +0200) Tj
+T*
+(Link: http://antirez.com/news/76) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4703 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(The strong reactions about the recent OpenSSL bug are understandable: it is not fun when) Tj
+T*
+(suddenly all the internet needs to be patched. Moreover for me personally how trivial the bug) Tj
+T*
+(is, is disturbing. I don?t want to point the finger to the OpenSSL developers, but you just) Tj
+T*
+(usually think at those class of issues as a bit more subtle, in the case of a software like) Tj
+T*
+(OpenSSL. Usually you fail to do sanity checks *correctly*, as opposed to this bug where there) Tj
+T*
+(is a total *lack* of bound checks in the memcpy\(\) call. However sometimes in the morning I read) Tj
+T*
+(the code I wrote the night before and I?m deeply embarrassed. Programmers sometimes fail, I for) Tj
+T*
+(sure do often, so my guess is that what is needed is a different process, and not a different) Tj
+T*
+(OpenSSL team. There is who proposes a different language safer than C, and who proposes that) Tj
+T*
+(the specification is broken because it is too complex. Probably there is some truth in both) Tj
+T*
+(arguments, however it is unlikely that we move to a different specification or system language) Tj
+T*
+(soon, so the real question is, what we can do now to improve system software security? 1\) Throw) Tj
+T*
+(money at it. Making system code safer is simple if there are investments. If...) Tj
+T*
+() Tj
+T*
+(25. Game Engine Black Book Postmortem) Tj
+T*
+(Source: Fabien Sanglard | Published: 07 Sep 2017 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/Game_Engine_Black_Book_Release/index.php) Tj
+T*
+(I am pleased to announce that the Game Engine Black Book about Wolfenstein 3D has shipped. It) Tj
+T*
+(is 316 pages, full color and made of three parts describing the hardware of the 1991, id) Tj
+T*
+(Software tools, and the game engine internals. You can read a preview on Google Books and buy) Tj
+T*
+(it here: Amazon.com \(.fr, .de, .co.uk, .ca,...\). Google Play Books for web browsers, Android) Tj
+T*
+(devices, and iOS devices. It took me three years to complete this project. It had its fair) Tj
+T*
+(share of heavy winds and bumpy roads. I thought it could benefit some writers in the making to) Tj
+T*
+(give a postmortem and share what I learned in the process. More...) Tj
+T*
+() Tj
+T*
+(26. FizzleFade) Tj
+T*
+(Source: Fabien Sanglard | Published: 28 Aug 2017 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/fizzlefade/index.php) Tj
+T*
+(I enjoy reading a lot of source code and after 15 years in the field I feel like I have seen my) Tj
+T*
+(fair share. Even with a full-time job, I still try to spare evenings here and there to read. I) Tj
+T*
+(don't see myself every stopping. It is always an opportunity to learn new things to follow) Tj
+T*
+(somebody's mind process. Every once in a while I come across a solution to a problem that is so) Tj
+T*
+(elegant, and so creative that there is no other word but "beautiful" to describe it. Q_rsqrt,) Tj
+T*
+(better knows as "Inverse Square Root" and popularized by Quake 3, definitely belong to the) Tj
+T*
+(family of breathtaking wizardry. While I was working on the Game Engine Black Book: Wolfenstein) Tj
+T*
+(3D I came across an other one: Fizzlefade. Fizzlefade is the name of the function in charge of) Tj
+T*
+(fading from a scene to an other in Wolfenstein 3D. What it does is turn the pixels of the) Tj
+T*
+(screen to a solid color, only one at a time, seemingly at random. More...) Tj
+T*
+() Tj
+T*
+(27. Game Engine Black Book ReleaseDate) Tj
+T*
+(Source: Fabien Sanglard | Published: 7 Aug 2017 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/Game_Engine_Black_Book_Release_Date/index.php) Tj
+T*
+(How was Wolfenstein 3D made and what were the secrets of its speed? How did id Software manage) Tj
+T*
+(to turn a machine designed to display static images for word processing and spreadsheet) Tj
+T*
+(applications into the best gaming platform in the world, capable of running games at seventy) Tj
+T*
+(frames per seconds? If you have ever asked yourself these questions, Game Engine Black Book is) Tj
+T*
+(for you. This is an engineering book. You will not find much prose in it \(the author?s English) Tj
+T*
+(is broken anyway.\) Instead, this book has only bit of text and plenty of drawings attempting to) Tj
+T*
+(describe in great detail the Wolfenstein 3D game engine and its hardware, the IBM PC with an) Tj
+T*
+(Intel 386 CPU and a VGA graphic card. More...) Tj
+T*
+() Tj
+T*
+(28. Update to the Ghost theme that powers this site) Tj
+T*
+(Source: matduggan.com | Published: Tue, 10 Mar 2026 09:26:47 GMT) Tj
+T*
+(Link: https://matduggan.com/update-to-the-ghost-theme-that-powers-this-site/) Tj
+T*
+(I added a few modifications to the OSS Ghost theme that powers this site. You can get it here:) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 2460 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(https://gitlab.com/matdevdug/minimal-ghost-theme Added better image caption support. Added the) Tj
+T*
+(cool Mastodon feature outlined here to attribute posts from your site back to your Mastodon) Tj
+T*
+(username by following the) Tj
+T*
+() Tj
+T*
+(29. The surprising struggle to get a UNIX Epoch time from a UTC string in C or C++) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 19 Jan 2025 16:02:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/) Tj
+T*
+(So how hard could it be. As input we have something like Fri, 17 Jan 2025 06:07:07 in UTC, and) Tj
+T*
+(we?d like to turn this into 1737094027, the notional \(but not actual\) number of seconds that) Tj
+T*
+(have passed since 1970-01-01 00:00:00 UTC. Trying to figure this out led me to discover many) Tj
+T*
+(?surprise features? and otherwise unexpected behaviour of POSIX time handling functions as) Tj
+T*
+(implemented in various C libraries & the languages that build on them.) Tj
+T*
+() Tj
+T*
+(30. NLNOG Presentation trilogy on technical jobs and careers) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 02 Jan 2025 08:00:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/technical-job-presentations/) Tj
+T*
+(Over the past eight years I?ve held a trilogy \(in four parts\) of presentations over at NLNOG) Tj
+T*
+(covering the working life and career of technical people. This is around two hours of video and) Tj
+T*
+(slides \(with notes\), but I?ve heard from people who binge-watched all of it in one go. The) Tj
+T*
+(presentations have been online for ages, but you had to know where to look for them. On this) Tj
+T*
+(page I bring them all together, with some context.) Tj
+T*
+() Tj
+T*
+(31. On Long Term Software Development) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 22 Dec 2024 18:00:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/on-long-term-software-development/) Tj
+T*
+(Recently the Dutch Electoral Board \(where I am also a very part time advisor\) invited me to do) Tj
+T*
+(a talk reflecting on their open source Abacus vote tabulation software. Much software is now) Tj
+T*
+(provided as a service, and is typically deployed continuously \(CD, continuous deployment\),) Tj
+T*
+(surrounded by enough automated testing \(CI, continuous integration\) that we can be reasonably) Tj
+T*
+(sure that a new revision is likely to at least work to some extent.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000161 00000 n 
+0000000231 00000 n 
+0000004555 00000 n 
+0000004681 00000 n 
+0000009032 00000 n 
+0000009158 00000 n 
+0000013709 00000 n 
+0000013835 00000 n 
+0000017762 00000 n 
+0000017890 00000 n 
+0000022579 00000 n 
+0000022707 00000 n 
+0000027463 00000 n 
+0000027591 00000 n 
+0000030104 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+30232
+%%EOF
