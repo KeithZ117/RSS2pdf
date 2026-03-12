@@ -1,0 +1,716 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4144 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-12 09:38:28) Tj
+T*
+() Tj
+T*
+(1. Sorting algorithms) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-11T22:58:06+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything) Tj
+T*
+(Sorting algorithms Today in animated explanations built using Claude: I've always been a fan of) Tj
+T*
+(animated demonstrations of sorting algorithms so I decided to spin some up on my phone using) Tj
+T*
+(Claude Artifacts, then added Python's timsort algorithm, then a feature to run them all at) Tj
+T*
+(once. Here's the full sequence of prompts : Interactive animated demos of the most common) Tj
+T*
+(sorting algorithms This gave me bubble sort, selection sort, insertion sort, merge sort, quick) Tj
+T*
+(sort, and heap sort. Add timsort, look up details in a clone of python/cpython from GitHub) Tj
+T*
+(Let's add Python's Timsort ! Regular Claude chat can clone repos from GitHub these days. In the) Tj
+T*
+(transcript you can see it clone the repo and then consult Objects/listsort.txt and) Tj
+T*
+(Objects/listobject.c . \(I should note that when I asked GPT-5.4 Thinking to review Claude's) Tj
+T*
+(implementation it picked holes in it and said the code "is a simplified, Timsort-inspired) Tj
+T*
+(adaptive mergesort".\) I don't like the dark color scheme on the buttons, do better Also add a) Tj
+T*
+("run all" button which shows smaller animated charts for every algorithm at once in a grid and) Tj
+T*
+(runs them all at the same time It came up with a color scheme I liked better, "do better" is...) Tj
+T*
+() Tj
+T*
+(2. Quoting John Carmack) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-11T14:47:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/11/john-carmack/#atom-everything) Tj
+T*
+(It is hard for less experienced developers to appreciate how rarely architecting for future) Tj
+T*
+(requirements / applications turns out net-positive. ? John Carmack , a tweet in June 2021 Tags:) Tj
+T*
+(john-carmack , software-engineering , yagni) Tj
+T*
+() Tj
+T*
+(3. Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker) Tj
+T*
+(Source: Krebs on Security | Published: Wed, 11 Mar 2026 16:20:13 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-fir) Tj
+T*
+(m-stryker/) Tj
+T*
+(A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a) Tj
+T*
+(data-wiping attack against Stryker, a global medical technology company based in Michigan. News) Tj
+T*
+(reports out of Ireland, Stryker's largest hub outside of the United States, said the company) Tj
+T*
+(sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main) Tj
+T*
+(U.S. headquarters says the company is currently experiencing a building emergency.) Tj
+T*
+() Tj
+T*
+(4. Jason Snell Is on Jeopardy Next Week) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-12T00:46:59Z) Tj
+T*
+(Link: https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/) Tj
+T*
+(Jason Snell: So here we are: Six Colors now has three Jeopardy! players as contributors. Come) Tj
+T*
+(on, Moltz, get your shit together. ?) Tj
+T*
+() Tj
+T*
+(5. Another One From the Archive: ?Web Kit? vs. ?WebKit?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-12T00:26:22Z) Tj
+T*
+(Link: https://daringfireball.net/2006/05/web_kit_vs_webkit) Tj
+T*
+(When I re-read my 2006 piece ? And Oranges ? today before linking to it , I paused when I read) Tj
+T*
+(this: And while it is easy to find ways to complain that Apple is not open enough ?) Tj
+T*
+(under-documented and undocumented security updates and system revisions, under-documented and) Tj
+T*
+(undocumented file formats ? it would be hard to argue with the premise that Apple today is more) Tj
+T*
+(open than it has ever been before. \(Exhibit A: the Web Kit project .\) It?s not often I get to) Tj
+T*
+(fix 20-year-old typos, and to my 2026 self, ?Web Kit? looks like an obvious typo. But after a) Tj
+T*
+(moment, I remembered: in 2006, that wasn?t a typo . ?) Tj
+T*
+() Tj
+T*
+(6. ? Modifier Key Order for Keyboard Shortcuts) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4502 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-03-12T00:15:20Z) Tj
+T*
+(Link: https://daringfireball.net/2026/03/modifier_key_order_for_keyboard_shortcuts) Tj
+T*
+(The correct order is Fn, Control, Option, Shift, Command ? regardless if you?re using the words) Tj
+T*
+(or the glyphs.) Tj
+T*
+() Tj
+T*
+(7. Where did you think the training data was coming from?) Tj
+T*
+(Source: iDiallo.com | Published: Wed, 11 Mar 2026 12:00:00 GMT) Tj
+T*
+(Link:) Tj
+T*
+(https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed) Tj
+T*
+(When the news broke that Meta's smart glasses were feeding data directly into their Facebook) Tj
+T*
+(servers , I wondered what all the fuss was about. Who thought AI glasses used to secretly) Tj
+T*
+(record people would be private? Then again, I've grown cynical over the years . The camera on) Tj
+T*
+(your laptop is pointed at you right now. When activated, it can record everything you do. When) Tj
+T*
+(Zuckerberg posted a selfie with his laptop visible in the background, people were quick to) Tj
+T*
+(notice that both the webcam and the microphone had black tape over them. If the CEO of one of) Tj
+T*
+(the largest tech companies in the world doesn't trust his own device, what are the rest of us) Tj
+T*
+(supposed to do? On my Windows 7 machine, I could at least assume the default behavior wasn't to) Tj
+T*
+(secretly spy on me. With good security hygiene, my computer would stay safe. For Windows 10 and) Tj
+T*
+(beyond, that assumption may no longer hold. Microsoft's incentives have shifted. They now) Tj
+T*
+(require users to create an online account, which comes with pages of terms to agree to, and) Tj
+T*
+(they are in the business of collecting data . As part of our efforts to improve and develop our) Tj
+T*
+(products, we may use your data to develop and train our AI models. That's your...) Tj
+T*
+() Tj
+T*
+(8. The Server Older than my Kids!) Tj
+T*
+(Source: iDiallo.com | Published: Wed, 11 Mar 2026 01:38:25 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed) Tj
+T*
+(This blog runs on two servers. One is the main PHP blog engine that handles the logic and the) Tj
+T*
+(database, while the other serves all static files. Many years ago, an article I wrote reached) Tj
+T*
+(the top position on both Hacker News and Reddit. My server couldn't handle the traffic . I) Tj
+T*
+(literally had a terminal window open, monitoring the CPU and restarting the server every couple) Tj
+T*
+(of minutes. But I learned a lot from it. The page receiving all the traffic had a total of 17) Tj
+T*
+(assets. So in addition to the database getting hammered, my server was spending most of its) Tj
+T*
+(time serving images, CSS and JavaScript files. So I decided to set up additional servers to act) Tj
+T*
+(as a sort of CDN to spread the load. I added multiple servers around the world and used) Tj
+T*
+(MaxMindDB to determine a user's location to serve files from the closest server . But it was) Tj
+T*
+(overkill for a small blog like mine. I quickly downgraded back to just one server for the) Tj
+T*
+(application and one for static files. Ever since I set up this configuration, my server never) Tj
+T*
+(failed due to a traffic spike. In fact, in 2018, right after I upgraded the servers to Ubuntu) Tj
+T*
+(18.04, one of my articles went viral like nothing I had seen before . Millions of r...) Tj
+T*
+() Tj
+T*
+(9. How do compilers ensure that large stack allocations do not skip over the guard page?) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 11 Mar 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260311-00/?p=112134) Tj
+T*
+(Don't take steps that are too large. The post How do compilers ensure that large stack) Tj
+T*
+(allocations do not skip over the guard page? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(10. Game Review: It Takes Two ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 11 Mar 2026 12:34:02 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/game-review-it-takes-two/) Tj
+T*
+(A couple is facing the devastating prospect of divorce. Their young daughter is understandably) Tj
+T*
+(distraught. In her fear, she doses both parents with a powerful hallucinogenic drug in the hope) Tj
+T*
+(that tripping through therapy will save their marriage. Well, OK, that's not exactly what the) Tj
+T*
+(game's about - but it might as well be! My aim this year is to play more co-operative games) Tj
+T*
+(with my wife. So she ?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4450 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(11. I don't know if I like working at higher levels of abstraction) Tj
+T*
+(Source: Xe Iaso's blog | Published: Wed, 11 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/blog/2026/ai-abstraction/) Tj
+T*
+(AI tools push us to higher abstraction. I'm not sure I like what that costs us.) Tj
+T*
+() Tj
+T*
+(12. Pluralistic: AI "journalists" prove that media bosses don't give a shit \(11 Mar 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 11 Mar 2026 19:11:59) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/) Tj
+T*
+(Today's links AI "journalists" prove that media bosses don't give a shit: In case there was) Tj
+T*
+(ever any doubt. Hey look at this: Delights to delectate. Object permanence: Eggflation x) Tj
+T*
+(excuseflation; Haunted Mansion stretch portraits; "Lost Souls"; Time Magazine x the first) Tj
+T*
+(Worldcon; Obama v Freedom of Information Act; Ragequitting jihadi doxxes ISIS; OSI v DRM in) Tj
+T*
+(standards. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest) Tj
+T*
+(books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep) Tj
+T*
+(writin' 'em. Colophon: All the rest. AI "journalists" prove that media bosses don't give a shit) Tj
+T*
+(\(permalink\) Ed Zitron's a fantastic journalist, capable of turning a close read of AI) Tj
+T*
+(companies' balance-sheets into an incandescent, exquisitely informed, eye-wateringly profane) Tj
+T*
+(rant: https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/ That's "Ed, the) Tj
+T*
+(financial sleuth." But Ed has another persona, one we don't get nearly enough of, which I) Tj
+T*
+(delight in: "Ed the stunt journalist." For example, in 2024, Ed bought Amazon's bestselling) Tj
+T*
+(laptop, "a $238 Acer Aspire 1 with a four-year-old Celeron N4500 Processor, 4GB of DDR4 RAM,) Tj
+T*
+(and 128GB of s...) Tj
+T*
+() Tj
+T*
+(13. git-pkgs/actions) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-11T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/11/git-pkgs-actions.html) Tj
+T*
+(Until now git-pkgs has been a local tool, you run it in your terminal to query dependency) Tj
+T*
+(history, scan for vulnerabilities, check licenses. Getting it into CI meant downloading the) Tj
+T*
+(binary yourself, initializing the database, and wiring up whatever checks you wanted by hand.) Tj
+T*
+(git-pkgs/actions is a set of reusable GitHub Actions that handle all of that. A setup action) Tj
+T*
+(downloads the binary and initializes the database, and the rest build on top of it. A) Tj
+T*
+(dependency diff on pull requests is three lines of YAML: steps : - uses : actions/checkout@v4) Tj
+T*
+(with : fetch-depth : 0 - uses : git-pkgs/actions/setup@v1 - uses : git-pkgs/actions/diff@v1) Tj
+T*
+(That posts a comment on the PR listing every dependency that was added, removed, or changed,) Tj
+T*
+(and updates the same comment on subsequent pushes rather than creating a new one.) Tj
+T*
+(Vulnerabilities The vulns action syncs against the OSV database and can fail the build above a) Tj
+T*
+(severity threshold: - uses : git-pkgs/actions/vulns@v1 with : severity : " high" Without) Tj
+T*
+(severity it reports findings but doesn?t block, which is a reasonable way to start before) Tj
+T*
+(making it a hard gate. Setting sarif: "true" uploads results to GitHub Advanced Security so) Tj
+T*
+(vulnerability ale...) Tj
+T*
+() Tj
+T*
+(14. Members Only: We desperately need a Reality Literacy) Tj
+T*
+(Source: Westenberg. | Published: Wed, 11 Mar 2026 22:47:17 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/we-desperately-need-a-reality-literacy/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. Every minute you aren?t running 69 agents, you are falling behind) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-03-11T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html) Tj
+T*
+(Just kidding. Today we should ramp down rhetoric. I thought nobody would take three minutes to) Tj
+T*
+(escape the perpetual underclass or you are worth $0.003/hr seriously. But it looks like some) Tj
+T*
+(people do, and you shouldn?t. Social media has been extremely toxic for the last couple months.) Tj
+T*
+(It?s targeting you with fear and anxiety. If you don?t use this new stupid AI thing you will) Tj
+T*
+(fall behind. If you haven?t totally updated your workflow you are worth 0. There?s people who) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4067 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(built billion dollars companies by orchestrating 37 agents this morning AND YOU JUST SAT THERE) Tj
+T*
+(AND ATE BREAKFAST LIKE A PLEB! This is all complete nonsense. AI is not a magical game changer,) Tj
+T*
+(it?s simply the continuation of the exponential of progress we have been on for a long time.) Tj
+T*
+(It?s a win in some areas, a loss in others, but overall a win and a cool tool to use. And it) Tj
+T*
+(will continue to improve, but it won?t ?go recursive? or whatever the claim is. It?s always) Tj
+T*
+(been recursive. You see things like autoresearch and it?s cool. But it?s not magic, it?s) Tj
+T*
+(search. People see ?AI? and they attribute some sci-fi thing to it when it?s just search and) Tj
+T*
+(optimization . Always has been, and if you paid attention in CS class, you kn...) Tj
+T*
+() Tj
+T*
+(16. Where to See Silicon Valley) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/seesv.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(17. High Resolution Fundraising) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/hiresfund.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(18. What Happened to Yahoo) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/yahoo.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(19. Redis new data structure: the HyperLogLog) Tj
+T*
+(Source: antirez.com | Published: Tue, 01 Apr 2014 10:16:35 +0200) Tj
+T*
+(Link: http://antirez.com/news/75) Tj
+T*
+(Generally speaking, I love randomized algorithms, but there is one I love particularly since) Tj
+T*
+(even after you understand how it works, it still remains magical from a programmer point of) Tj
+T*
+(view. It accomplishes something that is almost illogical given how little it asks for in terms) Tj
+T*
+(of time or space. This algorithm is called HyperLogLog, and today it is introduced as a new) Tj
+T*
+(data structure for Redis. Counting unique things === Usually counting unique things, for) Tj
+T*
+(example the number of unique IPs that connected today to your web site, or the number of unique) Tj
+T*
+(searches that your users performed, requires to remember all the unique elements encountered so) Tj
+T*
+(far, in order to match the next element with the set of already seen elements, and increment a) Tj
+T*
+(counter only if the new element was never seen before. This requires an amount of memory) Tj
+T*
+(proportional to the cardinality \(number of items\) in the set we are counting, which is, often) Tj
+T*
+(absolutely prohibitive. There is a class of algorithms that use randomization in order to) Tj
+T*
+(provide an approximation of the number of unique elements in a set using just a constant, and) Tj
+T*
+(small, amount of memory. The best of such algorithms currently known is called Hyper...) Tj
+T*
+() Tj
+T*
+(20. Fascinating little programs) Tj
+T*
+(Source: antirez.com | Published: Thu, 13 Mar 2014 23:32:59 +0100) Tj
+T*
+(Link: http://antirez.com/news/74) Tj
+T*
+(Yesterday and today I managed to spend some time with linenoise) Tj
+T*
+(\(http://github.com/antirez/linenoise\), a minimal line-editing library designed to be a simple) Tj
+T*
+(and small replacement for readline. I was trying to merge a few pull requests, to fix issues,) Tj
+T*
+(and doing some refactoring at the same time. It was some kind of nirvana I was feeling: a) Tj
+T*
+(complete control of small, self-contained, and useful code. There is something special in) Tj
+T*
+(simple code. Here I?m not referring to simplicity to fight complexity or over engineering, but) Tj
+T*
+(to simplicity per se, auto referential, without goals if not beauty, understandability and) Tj
+T*
+(elegance. After all the programming world has always been fascinated with small programs. For) Tj
+T*
+(decades programmers challenged in 1k or 4k contexts, from the 6502 assembler to today?s) Tj
+T*
+(javascript contests. Even the obfuscated C contest, after all, has a big component in the) Tj
+T*
+(minimalism. Why is it so great to hack a small piece of code? Yes is small and simple, those) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4198 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(are two good points. It can be totally understood, dominated. You can use smartness since) Tj
+T*
+(little code is the only place of the world where coding smartness will pay off, since in large) Tj
+T*
+(projects obviousness is far bet...) Tj
+T*
+() Tj
+T*
+(21. What is performance?) Tj
+T*
+(Source: antirez.com | Published: Fri, 28 Feb 2014 14:30:42 +0100) Tj
+T*
+(Link: http://antirez.com/news/73) Tj
+T*
+(The title of this blog post is an apparently trivial to answer question, however it is worth to) Tj
+T*
+(consider a bit better what performance really means: it is easy to get confused between) Tj
+T*
+(scalability and performance, and to decompose performance, in the specific case of database) Tj
+T*
+(systems, in its different main components, may not be trivial. In this short blog post I?ll try) Tj
+T*
+(to write down my current idea of what performance is in the context of database systems. A good) Tj
+T*
+(starting point is probably the first slide I use lately in my talks about Redis. This first) Tj
+T*
+(slide is indeed about performance, and says that performance is mainly three different things.) Tj
+T*
+(1\) Latency: the amount of time I need to get the reply for a query. 2\) Operations per unit of) Tj
+T*
+(time per core: how many queries \(operations\) the system is able to reply per second, in a given) Tj
+T*
+(reference computational unit? 3\) Quality of operations: how much work those operations are able) Tj
+T*
+(to accomplish? Latency ? This is probably the simplest component of performance. In many) Tj
+T*
+(applications it is desirable that the time needed to get a reply from the system is small.) Tj
+T*
+(However while the average time is important, another concern is the predictabi...) Tj
+T*
+() Tj
+T*
+(22. I?m glad the Anthropic fight is happening now) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Wed, 11 Mar 2026 18:55:20 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/dow-anthropic) Tj
+T*
+(?Preface to the highest stakes negotiations in history.?) Tj
+T*
+() Tj
+T*
+(23. Let's compile like it's 1992) Tj
+T*
+(Source: Fabien Sanglard | Published: 10 Aug 2014 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/Compile_Like_Its_1992/index.php) Tj
+T*
+(I have been tinkering with the vanilla source code of Wolfenstein 3D from 1992. Even though it) Tj
+T*
+(is more than 20 years old: It still compile and here is how to do it \(with plenty of) Tj
+T*
+(screenshots\).) Tj
+T*
+() Tj
+T*
+(24. Game Engine Black Books) Tj
+T*
+(Source: Fabien Sanglard | Published: 07 Aug 2014 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/Game_Engine_Black_Book/index.php) Tj
+T*
+(I am almost done with the first volume of what I hope will become a serie called "Game Engine) Tj
+T*
+(Black Book". Each book would take further what I tried to do with my articles: Explain simply,) Tj
+T*
+(yet in great details, a legendary game engine. For the first one I decided to go with) Tj
+T*
+(Wolfenstein 3D.) Tj
+T*
+() Tj
+T*
+(25. Trespasser: Jurassic Park CG Source Code Review) Tj
+T*
+(Source: Fabien Sanglard | Published: 10 Jun 2014 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/trespasser/index.php) Tj
+T*
+(Jurassic Park: Trespasser is an unique piece of software: It is a game that has managed to) Tj
+T*
+(reach both infamous and cult status. Released in October 1998 after a three years development) Tj
+T*
+(cycle, it was unanimously destroyed by critics. But it did not fail by much and managed to grow) Tj
+T*
+(an impressive mass of fans that wrote editors, released patches, reverse-engineered the assets,) Tj
+T*
+(added features, produced new dinosaurs, levels and even started a remake. 20 years later,) Tj
+T*
+(bloggers still write about it and the post-mortem by Richard Wyckoff is one of the most) Tj
+T*
+(fascinating behind-the-scene tale I have ever read. From a technology standing point,) Tj
+T*
+(Trespasser engine is a milestone in the history of realtime CG: It demonstrated that physics) Tj
+T*
+(and outdoor environments were indeed possible. During my exploration, I found a special flavor) Tj
+T*
+(of C++ that was representative of the game final result: Genius and Talent ultimately impaired) Tj
+T*
+(by ambition and it's resulting complexity. More...) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2240 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(26. Welkom bij OpenTK \(deel 2\): de monitors) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 13 Dec 2024 14:13:41 +0000) Tj
+T*
+(Link: https://berthub.eu/articles/posts/welkom-bij-opentk-deel-2/) Tj
+T*
+(Welkom! Goed inzicht in ons parlement is belangrijk, soms omdat er dingen in het nieuws zijn.) Tj
+T*
+(En soms juist omdat dingen \(nog\) niet in het nieuws zijn, maar er binnenkort wel besluiten over) Tj
+T*
+(genomen gaan worden. De Tweede Kamer publiceert alles wat ze doen via een technische API, en) Tj
+T*
+(dat is echt geweldig. Hierdoor kunnen we op Internet eigen viewers maken om deze data zo goed) Tj
+T*
+(mogelijk zichtbaar te maken.) Tj
+T*
+() Tj
+T*
+(27. Servers in de EU, eigen \(dubbele\) sleutels: helpt het?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 11 Dec 2024 16:44:09 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/servers-in-de-eu-eigen-sleutels-helpt-het/) Tj
+T*
+(Naar aanleiding van veel misverstanden hier een kort stukje over: Helpt het als) Tj
+T*
+(Microsoft/Google/Amazon beloven dat mijn gegevens op servers in de EU worden opgeslagen? Kan ik) Tj
+T*
+(met ?eigen sleutels? / bring your own key / double key encryption / aparte opslag, mijn data in) Tj
+T*
+(praktische zin beschermen tegen Amerikaanse spionage? Kan ik me zo beschermen tegen Amerikaanse) Tj
+T*
+(sancties / dreigementen / Trumpiaanse woedeuitbarstingen? Het antwoord op alledrie de vragen is) Tj
+T*
+(helaas ?nee?.) Tj
+T*
+() Tj
+T*
+(28. De toestand van de cloud en de overheid) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 02 Dec 2024 14:30:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/de-toestand-van-de-cloud-en-de-overheid/) Tj
+T*
+(Afgelopen 25 november hield ik \(op persoonlijke titel\) een praatje bij de Kiesraad over de) Tj
+T*
+(toestand van de cloud, met specifieke aandacht voor de Nederlandse overheid. Iedere organisatie) Tj
+T*
+(ziet zich nu geconfronteerd met de vrijwel verplichte gang naar de cloud. Voor een) Tj
+T*
+(schoenenwinkel of broodjeszaak is het niet zo?n halszaak om over te gaan naar Microsoft 365) Tj
+T*
+(\(MS365\), of om afhankelijk te zijn van leveranciers die diensten leveren op basis van Amazon) Tj
+T*
+(Web Services.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004420 00000 n 
+0000004546 00000 n 
+0000009100 00000 n 
+0000009226 00000 n 
+0000013728 00000 n 
+0000013854 00000 n 
+0000017974 00000 n 
+0000018102 00000 n 
+0000022353 00000 n 
+0000022481 00000 n 
+0000024774 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+24902
+%%EOF
