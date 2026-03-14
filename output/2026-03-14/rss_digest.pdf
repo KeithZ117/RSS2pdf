@@ -1,0 +1,906 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R] /Count 8 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4400 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-14 09:37:40) Tj
+T*
+() Tj
+T*
+(1. Restoring an Xserve G5: When Apple built real servers) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 13 Mar 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/) Tj
+T*
+(Recently I came into posession of a few Apple Xserves. The one in question today is an Xserve) Tj
+T*
+(G5, RackMac3,1 , which was built when Apple at the top?and bottom?of it's PowerPC era. This) Tj
+T*
+(isn't the first Xserve?that honor belongs to the G4 1 . And it wasn't the last?there were a few) Tj
+T*
+(generations of Intel Xeon-powered RackMacs that followed. But in my opinion, it was the most) Tj
+T*
+(interesting. Unfortunately, being manufactured in 2004, this Mac's Delta power supply suffers) Tj
+T*
+(from the Capacitor Plague . The PSU tends to run hot, and some of the capacitors weren't even) Tj
+T*
+(105°C-rated, so they tend to wear out, especially if the Xserve was running high-end workloads.) Tj
+T*
+() Tj
+T*
+(2. Tim Cook: ?50 Years of Thinking Different?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-13T23:49:17Z) Tj
+T*
+(Link: https://www.apple.com/50-years-of-thinking-different/) Tj
+T*
+(Tim Cook: If you?ve taught us anything, it?s that the people crazy enough to think they can) Tj
+T*
+(change the world are the ones who do. ?) Tj
+T*
+() Tj
+T*
+(3. NYT: ?Meta Delays Rollout of New AI Model After Performance Concerns?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-13T17:04:44Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html?unlocked) Tj
+T*
+(_article_code=1.S1A.vI_6.4j717gwtFem0) Tj
+T*
+(Eli Tan, reporting for The New York Times: Meta?s new foundational A.I. model, which the) Tj
+T*
+(company has been working on for months, has fallen short of the performance of leading A.I.) Tj
+T*
+(models from rivals like Google, OpenAI and Anthropic on internal tests for reasoning, coding) Tj
+T*
+(and writing, said the people, who were not authorized to speak publicly about confidential) Tj
+T*
+(matters. The model, code-named Avocado, outperformed Meta?s previous A.I. model and did better) Tj
+T*
+(than Google?s Gemini 2.5 model from [last] March, two of the people said. But it has not) Tj
+T*
+(performed as strongly as Gemini 3.0 from November, they said. As a result, Meta has delayed) Tj
+T*
+(Avocado?s release to at least May from this month, the people said. They added that the leaders) Tj
+T*
+(of Meta?s A.I. division had instead discussed temporarily licensing Gemini to power the) Tj
+T*
+(company?s A.I. products, though no decisions have been reached. The two facts in the last) Tj
+T*
+(paragraph don?t square with me. May is only two months away. If they might ship then, why) Tj
+T*
+(license Gemini? To me, the ? we may need to pay Google to license Gemini ? scenario is a sign) Tj
+T*
+(that Avocado might be a bust and they might be a year or longer away from their own competitive) Tj
+T*
+(mode...) Tj
+T*
+() Tj
+T*
+(4. Sports Programming Accounts for Almost 30 Percent of All Ad-Supported TV Viewing) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-13T16:55:46Z) Tj
+T*
+(Link: https://deadline.com/2026/03/sports-tv-viewing-advertising-nielsen-1236750721/) Tj
+T*
+(Dade Hayes, reporting for Deadline: While the rise of sports programming in recent years has) Tj
+T*
+(been well-documented, new figures from Nielsen illustrate the extent of its dominance. The) Tj
+T*
+(measurement firm said sports accounted for 29.2% of all advertising-supported TV viewing by) Tj
+T*
+(people 25 to 54 years old during the fourth quarter. The stat, spanning broadcast, cable and) Tj
+T*
+(streaming, was part of a report on viewership trends in the fourth quarter of 2025, released) Tj
+T*
+(Thursday in the runup to upfronts. Looking at the rest of the pie without sports, broadcast) Tj
+T*
+(accounted for just 9.8%, with cable coming in at 18%. Streaming drew by far the largest) Tj
+T*
+(tune-in, with 43% of all non-sports viewing, a reflection of the overall growth of advertising) Tj
+T*
+(on streaming services like Netflix, Prime Video, Disney+, HBO Max and others. ?) Tj
+T*
+() Tj
+T*
+(5. 1M context is now generally available for Opus 4.6 and Sonnet 4.6) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-13T18:29:13+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4982 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(1M context is now generally available for Opus 4.6 and Sonnet 4.6 Here's what surprised me:) Tj
+T*
+(Standard pricing now applies across the full 1M window for both models, with no long-context) Tj
+T*
+(premium. OpenAI and Gemini both charge more for prompts where the token count goes above a) Tj
+T*
+(certain point - 200,000 for Gemini 3.1 Pro and 272,000 for GPT-5.4. Tags: ai , generative-ai ,) Tj
+T*
+(llms , anthropic , claude , llm-pricing , long-context) Tj
+T*
+() Tj
+T*
+(6. Quoting Craig Mod) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-13T17:14:29+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything) Tj
+T*
+(Simply put: It?s a big mess, and no off-the-shelf accounting software does what I need. So) Tj
+T*
+(after years of pain, I finally sat down last week and started to build my own. It took me about) Tj
+T*
+(five days. I am now using the best piece of accounting software I?ve ever used. It?s blazing) Tj
+T*
+(fast. Entirely local. Handles multiple currencies and pulls daily \(historical\) conversion) Tj
+T*
+(rates. It?s able to ingest any CSV I throw at it and represent it in my dashboard as needed. It) Tj
+T*
+(knows US and Japan tax requirements, and formats my expenses and medical bills appropriately) Tj
+T*
+(for my accountants. I feed it past returns to learn from. I dump 1099s and K1s and PDFs from) Tj
+T*
+(hospitals into it, and it categorizes and organizes and packages them all as needed. It) Tj
+T*
+(reconciles international wire transfers, taking into account small variations in FX rates and) Tj
+T*
+(time for the transfers to complete. It learns as I categorize expenses and categorizes) Tj
+T*
+(automatically going forward. It?s easy to do spot checks on data. If I find an anomaly, I can) Tj
+T*
+(talk directly to Claude and have us brainstorm a batched solution, often saving me from having) Tj
+T*
+(to manually modify hundreds of entries. And often resulting in a new, small, feature twea...) Tj
+T*
+() Tj
+T*
+(7. Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-13T03:44:34+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/13/liquid/#atom-everything) Tj
+T*
+(Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations PR from Shopify CEO) Tj
+T*
+(Tobias Lütke against Liquid, Shopify's open source Ruby template engine that was somewhat) Tj
+T*
+(inspired by Django when Tobi first created it back in 2005 . Tobi found dozens of new) Tj
+T*
+(performance micro-optimizations using a variant of autoresearch , Andrej Karpathy's new system) Tj
+T*
+(for having a coding agent run hundreds of semi-autonomous experiments to find new effective) Tj
+T*
+(techniques for training nanochat . Tobi's implementation started two days ago with this) Tj
+T*
+(autoresearch.md prompt file and an autoresearch.sh script for the agent to run to execute the) Tj
+T*
+(test suite and report on benchmark scores. The PR now lists 93 commits from around 120) Tj
+T*
+(automated experiments. The PR description lists what worked in detail - some examples: Replaced) Tj
+T*
+(StringScanner tokenizer with String#byteindex . Single-byte byteindex searching is ~40% faster) Tj
+T*
+(than regex-based skip_until . This alone reduced parse time by ~12%. Pure-byte parse_tag_token) Tj
+T*
+(. Eliminated the costly StringScanner#string= reset that was called for every {% %} token \(878) Tj
+T*
+(times\). Manual byte scanning for tag name + markup extraction is faster than resetting and...) Tj
+T*
+() Tj
+T*
+(8. Big tech engineers need big egos) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sat, 14 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/big-tech-needs-big-egos/) Tj
+T*
+(It?s a common position among software engineers that big egos have no place in tech 1 . This is) Tj
+T*
+(understandable - we?ve all worked with some insufferably overconfident engineers who needed) Tj
+T*
+(their egos checked - but I don?t think it?s correct. In fact, I don?t know if it?s possible to) Tj
+T*
+(survive as a software engineer in a large tech company without some kind of big ego. However,) Tj
+T*
+(it?s more complicated than ?big egos make good engineers?. The most effective engineers I?ve) Tj
+T*
+(worked with are simultaneously high-ego in some situations and surprisingly low-ego in others.) Tj
+T*
+(What?s going on there? Engineers need ego to work in large codebases Software engineering is) Tj
+T*
+(shockingly humbling, even for experienced engineers. There?s a reason this joke is so popular:) Tj
+T*
+(The minute-to-minute experience of working as a software engineer is dominated by not knowing) Tj
+T*
+(things and getting things wrong . Every time you sit down and write a piece of code, it will) Tj
+T*
+(have several things wrong with it: some silly things, like missing semicolons, and often some) Tj
+T*
+(major things, like bugs in the core logic. We spend most of our time fixing our own stupid) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4450 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(mistakes. On top of that, even when we?ve been working on a system for yea...) Tj
+T*
+() Tj
+T*
+(9. It's Work that taught me how to think) Tj
+T*
+(Source: iDiallo.com | Published: Fri, 13 Mar 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/work-taught-me-how-to-think?src=feed) Tj
+T*
+(On the first day of my college CS class, the professor walked in holding a Texas Instruments) Tj
+T*
+(calculator above his head like Steve Jobs unveiling the first iPhone. The students sighed. They) Tj
+T*
+(had expected computer science to involve little math. The professor told us he had helped build) Tj
+T*
+(that calculator in the eighties, then spent a few minutes talking about his career and the) Tj
+T*
+(process behind it. Then he plugged the device into his computer, opened a terminal on the) Tj
+T*
+(projector, and pushed some code onto it. A couple of minutes later, he unplugged the cable,) Tj
+T*
+(powered on the calculator, and sure enough, Snake was running on it. A student raised his hand.) Tj
+T*
+(The professor leaned forward, eager for the first question of the semester. "Um... is this) Tj
+T*
+(going to be on the test?" While the professor was showing us what it actually means to build) Tj
+T*
+(something, to push code onto hardware and watch it come alive, his students were already) Tj
+T*
+(thinking about the grade. About the exit. The experience meant nothing unless it converted into) Tj
+T*
+(points. That was college for me. Everyone was chasing a passing grade to get to the next class.) Tj
+T*
+(Learning was mostly incidental. The professors tried, but our incentives were co...) Tj
+T*
+() Tj
+T*
+(10. Windows stack limit checking retrospective: MIPS) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 13 Mar 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138) Tj
+T*
+(Optimizing out the unnecessary probes comes with its own complexity. The post Windows stack) Tj
+T*
+(limit checking retrospective: MIPS appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(11. The web in 1000 lines of C) Tj
+T*
+(Source: Maurycy's Blog | Published: Thu, 12 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/projects/tinyweb/) Tj
+T*
+(Modern browsers are hugely complex: Chromium \(the open source portion of google chrome\)) Tj
+T*
+(currently has 49 millions lines of code, making it bigger then any other program on my machine.) Tj
+T*
+(... but how much of that is needed if I just want to visit websites instead of running) Tj
+T*
+(multi-gigabyte Javascript abominations that just happen to render to the browser? My goal is to) Tj
+T*
+(to read all the blogs on my link list : The pages have to be rendered \(no printing HTML\) and) Tj
+T*
+(links must work. Let's start by trying to view the list. Here's the URL: /* HTML tags,) Tj
+T*
+(keywords, commands */ h-n {color: #F27;} /* Values */ h-v {color: #B8F;} /* CSS selectors,) Tj
+T*
+(attribute/varable names, file names */ h-s {color: #AEE;} /* Comments */ h-c {color: #777;} h-e) Tj
+T*
+({color: #F6F;} table {width: 100%;} http :// maurycyz.com /real_pages/ The http in the URL) Tj
+T*
+(tells use that the server is expecting plaintext \(unencrypted\) HTTP. After connecting to the) Tj
+T*
+(server, the browser has to send an HTTP request: GET /real_pages/ HTTP/1.0 User-Agent:) Tj
+T*
+(MyEpicBrowser/1.0 Host: maurycyz.com [trailing blank line] Repeating the hostname in the) Tj
+T*
+(request might seem redundant, but it's very common to host multiple websites on one IP address.) Tj
+T*
+(\(Cloudfla...) Tj
+T*
+() Tj
+T*
+(12. Typesetting sheet music with AI) Tj
+T*
+(Source: John D. Cook | Published: Fri, 13 Mar 2026 15:15:50 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/13/typesetting-sheet-music-with-ai/) Tj
+T*
+(Lilypond is a TeX-like typesetting language for sheet music. I?ve had good results asking AI to) Tj
+T*
+(generate Lilypond code, which is surprising given the obscurity of the language. There can?t be) Tj
+T*
+(that much publicly available Lilypond code to train on. I?ve mostly generated Lilypond code for) Tj
+T*
+(posts related to music theory, such as the post [?] The post Typesetting sheet music with AI) Tj
+T*
+(first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(13. An odd font rendering bug in Firefox and Safari) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 13 Mar 2026 12:34:09 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4519 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(First up, you should go and watch The Importance of Being Earnest with Ncuti Gatwa. It is a) Tj
+T*
+(brilliant set of performances and a joy to see. While perusing the programme on the National) Tj
+T*
+(Theatre website I stumbled upon a little bug. The incredible Ronk? Adék?lu??j?? has her name) Tj
+T*
+(rendered in a most unusual style: It rendered just fine in Chrome - but both Firefox and Safari) Tj
+T*
+(misrendered some of t?) Tj
+T*
+() Tj
+T*
+(14. Forge) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-13T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/13/forge.html) Tj
+T*
+(I keep ending up in the same place. With Libraries.io and ecosyste.ms it was package registries) Tj
+T*
+(that all do the same thing with different APIs and different metadata formats. With git-pkgs it) Tj
+T*
+(was lockfile formats. The pattern is always the same: open source infrastructure that does) Tj
+T*
+(roughly the same job across ecosystems, but with enough differences in the details to make) Tj
+T*
+(working across all of them painful. So you build a common interface and absorb the differences.) Tj
+T*
+(Git forges are the same kind of problem. GitHub has gh , GitLab has glab , Bitbucket has) Tj
+T*
+(various unofficial options, and Gitea/Forgejo has tea . They all manage repos, issues, pull) Tj
+T*
+(requests, releases, and CI, with completely different syntax, different flag conventions, and) Tj
+T*
+(different ideas about which API endpoints deserve a command and which don?t. I?ve been building) Tj
+T*
+(something that needs to talk to all of these forges, a project I?m not quite ready to announce) Tj
+T*
+(yet, and the idea of wrapping four different CLIs with four different output formats and four) Tj
+T*
+(different authentication flows was not appealing. I wanted one interface that worked the same) Tj
+T*
+(way everywhere, for humans on the command line and for AI coding agents tha...) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: Three more AI psychoses \(12 Mar 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 13 Mar 2026 02:17:20) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/03/12/normal-technology/) Tj
+T*
+(Today's links Three more AI psychoses: Everybody calm down. Hey look at this: Delights to) Tj
+T*
+(delectate. Object permanence: "Jules, Penny and the Rooster"; Superinjunction; Harper Lee's) Tj
+T*
+(kids v cheap paperbacks; 3D printed cat battle-armor; Black sf. Upcoming appearances: Where to) Tj
+T*
+(find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Three) Tj
+T*
+(more AI psychoses \(permalink\) "AI psychosis" is one of those terms that is incredibly useful) Tj
+T*
+(and also almost certainly going to be deprecated in smart circles in short order because it is:) Tj
+T*
+(a\) useful; b\) easily colloquialized to describe related phenomena; and c\) adjacent to medical) Tj
+T*
+(issues, and there's a group of people who feel very strongly any metaphor that implicates human) Tj
+T*
+(health is intrinsically stigmatizing and must be replaced with an awkward, lengthy phrase that) Tj
+T*
+(no one can remember and only insiders understand. So while we still can, let us revel in this) Tj
+T*
+(useful term to talk about some very real pathologies in our world. Formally, "AI psychosis") Tj
+T*
+(describes people who have delusions that are possibly induced, and definitel...) Tj
+T*
+() Tj
+T*
+(16. Everything's Casino) Tj
+T*
+(Source: Westenberg. | Published: Fri, 13 Mar 2026 02:38:03 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/everythings-casino/) Tj
+T*
+(Everything's Casino On the evening of February 28, 2026, American B-2 bombers lifted off from) Tj
+T*
+(Whiteman Air Force Base in Missouri. By the time they reached Iranian airspace, Tomahawk) Tj
+T*
+(missiles were already in flight from submarines in the Persian Gulf. Operation Epic Fury hit) Tj
+T*
+(over a thousand targets) Tj
+T*
+() Tj
+T*
+(17. Premium: The Hater's Guide To The SaaSpocalypse) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 13 Mar 2026 16:53:23 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/hatersguide-saas/) Tj
+T*
+(Soundtrack: The Dillinger Escape Plan ? Black Bubblegum To understand the AI bubble, you need) Tj
+T*
+(to understand the context in which it sits, and that larger context is the end of the) Tj
+T*
+(hyper-growth era in software that I call the Rot-Com Bubble . Generative AI, at first, appeared) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4567 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(to be) Tj
+T*
+() Tj
+T*
+(18. Some fun with Redis Cluster testing) Tj
+T*
+(Source: antirez.com | Published: Wed, 18 Dec 2013 16:32:21 +0100) Tj
+T*
+(Link: http://antirez.com/news/69) Tj
+T*
+(One of the steps to reach the goal of providing a "testable" Redis Cluster experience to users) Tj
+T*
+(within a few weeks, is some serious testing that goes over the usual "I'm running 3 nodes in my) Tj
+T*
+(macbook, it works". Finally this is possible, since Redis Cluster entered into the) Tj
+T*
+("refinements" stage, and most of the system design and implementation is in its final form) Tj
+T*
+(already. In order to perform some testing I assembled an environment like that: * Hardware: 6) Tj
+T*
+(real computers: 2 macbook pro, 2 macbook air, 1 Linux desktop, 1 Linux tiny laptop called EEEpc) Tj
+T*
+(running with a single core at 800Mhz. * Network: the six nodes were wired to the same network) Tj
+T*
+(in different ways. Two nodes connected via ethernet, and four over wifi, with different access) Tj
+T*
+(points. Basically there were three groups. The computers connected with the ethernet had 0.3) Tj
+T*
+(milliseconds RTT, other two computers connected with a near access point were at around 5) Tj
+T*
+(milliseconds, and another group of two with another access point were not very reliable,) Tj
+T*
+(sometime some packet went lost, latency spikes at 300-1000 milliseconds. During the simulation) Tj
+T*
+(every computer ran Partitions.tcl \(http://github.com/antirez/partitions\) in order to sim...) Tj
+T*
+() Tj
+T*
+(19. Redis as AP system, reloaded) Tj
+T*
+(Source: antirez.com | Published: Wed, 11 Dec 2013 22:19:21 +0100) Tj
+T*
+(Link: http://antirez.com/news/68) Tj
+T*
+(So finally something really good happened from the Redis criticism thread. At the end of the) Tj
+T*
+(work day I was reading about Redis as AP and merge operations on Twitter. At the same time I) Tj
+T*
+(was having a private email exchange with Alexis Richardson \(from RabbitMQ, and, my boss\).) Tj
+T*
+(Alexis at some point proposed that perhaps a way to improve safety was to asynchronously ACK) Tj
+T*
+(the client about what commands actually were not received so that the client could retry. This) Tj
+T*
+(seemed a lot of efforts in the client side, but somewhat totally opened my view on the matter.) Tj
+T*
+(So the idea is, we can't go for synchronous replication, but indeed we get ACKs from the) Tj
+T*
+(replicas, asynchronous ACKS, specifically. What about retaining all the writes not acknowledged) Tj
+T*
+(into a buffer, and "re-play" them to the current master when the partition heals? The window we) Tj
+T*
+(need to require to take the log is very small if the ACKs are frequent enough \(currently the) Tj
+T*
+(frequency is 1 per second, but this could be more easily\). If we give up Availability after N) Tj
+T*
+(times the window we can say, ok, no more room, we now start to reply with errors to queries.) Tj
+T*
+(The HUGE difference with this approach is that this works regardless of the siz...) Tj
+T*
+() Tj
+T*
+(20. The Redis criticism thread) Tj
+T*
+(Source: antirez.com | Published: Tue, 10 Dec 2013 00:53:03 +0100) Tj
+T*
+(Link: http://antirez.com/news/67) Tj
+T*
+(A few days ago I tried to do an experiment by running some kind of ?call for critiques? in the) Tj
+T*
+(Redis mailing list: https://groups.google.com/forum/#!topic/redis-db/Oazt2k7Lzz4 The thread has) Tj
+T*
+(reached 89 posts so far, probably one of the biggest threads in the history of the Redis google) Tj
+T*
+(group. The main idea was that critiques are a mix of pointless attacks, and truth, so to) Tj
+T*
+(extract the truth from critiques can be a good exercise, it means to have some seed idea for) Tj
+T*
+(future improvements from the part of the population that is not using or is not happy with your) Tj
+T*
+(system. There were a lot of arguments possible: threading, persistence model, API, security,) Tj
+T*
+(and so forth, however the argument that received the most attention was Redis Cluster design) Tj
+T*
+(and its tradeoffs. There are people that are not convinced by the proposed design since it does) Tj
+T*
+(not provide strong Consistency nor Availability \(?C? and ?A? of CAP, not any random consistency) Tj
+T*
+(or availability\). Instead it only provides some form of weaker consistency and some failure) Tj
+T*
+(resistance. In this blog post I want to clarify why this is in my opinion the right choice for) Tj
+T*
+(Redis. Strong consistency requires synchronous replication, and depen...) Tj
+T*
+() Tj
+T*
+(21. How to Lose Time and Money) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3724 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: http://www.paulgraham.com/selfindulgence.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(22. Organic Startup Ideas) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/organic.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(23. Apple's Mistake) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/apple.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(24. This Week on The Analog Antiquarian) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 13 Mar 2026 17:33:40 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian/) Tj
+T*
+(Chapter 15: The Trial of Galileo) Tj
+T*
+() Tj
+T*
+(25. Reverse Engineer Strike Commander) Tj
+T*
+(Source: Fabien Sanglard | Published: 22 Jan 2013 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/reverse_engineering_strike_commander/index.php) Tj
+T*
+(Back in the early 90s, one company was on the bleeding edge of PC gaming: Origin Systems. Their) Tj
+T*
+(motto was "We Create Words" and boy did they deliver: With the Ultima series, Crusader series) Tj
+T*
+(and Wing Commander series, they consistently took gamer's breath away. One of them took four) Tj
+T*
+(years and more than a million man hours to complete: Strike Commander. The famous flight) Tj
+T*
+(simulator had its own 3D engine called RealSpace which pioneered many of what we take for) Tj
+T*
+(granted today: Texture Mapping, Gouraud Shading, Level of Details and Dithered colors. My old) Tj
+T*
+(dream was to play the game with a Virtual Reality device. With the Oculus Rift that fantasy) Tj
+T*
+(came one step closer to reality. But when it turned out the source code had been lost and would) Tj
+T*
+(never be released, I decided to reverse engineer it. More...) Tj
+T*
+() Tj
+T*
+(26. Learning Legendary Hardware) Tj
+T*
+(Source: Fabien Sanglard | Published: Mon, 07 Oct 2013 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/learning_legendary_hardware/index.php) Tj
+T*
+(If you love software, you also try to understand the hardware to the deep down. It is not an) Tj
+T*
+(easy task : There are many great programming books but few that explains hardware very well \(as) Tj
+T*
+(Michael Abrash once wrote: the Intel Documentation is "slightly more fun to read than the phone) Tj
+T*
+(book"\). In my quest for knowledge, I found two hardware books to be outstanding: Code: The) Tj
+T*
+(Hidden Language of Computer Hardware and Software. Computer Organization and Design. Those) Tj
+T*
+(books are good for "current" hardware but there is a lot to learn from previous generations.) Tj
+T*
+(The cult machine That Wouldn't Die, the Amiga with its elegant co-processor architecture is a) Tj
+T*
+(vivid example. More...) Tj
+T*
+() Tj
+T*
+(27. Decyphering the Business Card Raytracer) Tj
+T*
+(Source: Fabien Sanglard | Published: Sat, 21 Sep 2013 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/rayTracing_back_of_business_card/index.php) Tj
+T*
+(I recently came across Paul Heckbert's business card raytracer. For those that have never heard) Tj
+T*
+(of it: It is a very famous challenge in the Computer Graphics field that started on May 4th,) Tj
+T*
+(1984 via a post on comp.graphics by Paul Heckbert \( More about this in his article "A Minimal) Tj
+T*
+(Ray Tracer" from the book Graphics Gems IV\). The goal was to produce the source code for a) Tj
+T*
+(raytracer...that would fit on the back of a business card. Andrew Kensler's version is) Tj
+T*
+(mesmerizing and one of the greatest hack that I have seen. Since I am curious, I decided to) Tj
+T*
+(deconstruct it: Here is what I understood. More...) Tj
+T*
+() Tj
+T*
+(28. Dylan Patel ? Deep dive on the 3 big bottlenecks to scaling AI compute) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 4255 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Dwarkesh Podcast | Published: Fri, 13 Mar 2026 16:00:42 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/dylan-patel) Tj
+T*
+(Plus, why an H100 is worth more today than 3 years ago) Tj
+T*
+() Tj
+T*
+(29. How to use the Qwen 3.5 LLMs to OCR documents) Tj
+T*
+(Source: Martin Alderson | Published: Fri, 13 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&utm) Tj
+T*
+(_medium=rss&utm_campaign=feed) Tj
+T*
+(Using Qwen 3.5 open weights models to OCR scanned PDFs - locally on consumer hardware or via) Tj
+T*
+(OpenRouter for pennies) Tj
+T*
+() Tj
+T*
+(30. Btw: Software, turnkey, beheerd, as a service) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 13 Mar 2026 12:43:53 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/software-turnkey-as-a-service/) Tj
+T*
+(De belastingdienst is van plan om de BTW uit te besteden aan een Amerikaans bedrijf, wat echt) Tj
+T*
+(waanzinnig is. Op 19 maart is er een commissievergadering in de Tweede Kamer hierover, en ik) Tj
+T*
+(hoop van harte dat men bij zinnen komt. In de discussie over de btw-situatie de afgelopen jaren) Tj
+T*
+(ging het eigenlijk alleen over dat de belastingdienst Amerikaanse software ging gebruiken. Lang) Tj
+T*
+(was onduidelijk dat deze software \(en de bijbehorende servers\) ook geheel beheerd zouden gaan) Tj
+T*
+(worden door Amerikanen.) Tj
+T*
+() Tj
+T*
+(31. Journalisten: \(be\)grijp uw macht) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 12 Nov 2024 08:00:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/journalisten-be-grijp-uw-macht/) Tj
+T*
+(Dit stuk is ook verschenen op Villamedia.nl In Jurassic Park weet men te ontsnappen aan de) Tj
+T*
+(dinosaurussen, omdat het gezichtsvermogen van deze dieren gebaseerd zou zijn op beweging: Nou) Tj
+T*
+(weet ik niet of dat waar is, maar wat ik wel weet is dat het gezichtsvermogen van de politiek,) Tj
+T*
+(en specifiek de Tweede Kamer, totaal gebaseerd is op journalistieke aandacht. Bijna 100% van) Tj
+T*
+(alle kamervragen begint met een verwijzing naar een nieuwsbericht, bijvoorbeeld.) Tj
+T*
+() Tj
+T*
+(32. Welkom bij OpenTK \(deel 1\)) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 01 Nov 2024 11:13:41 +0000) Tj
+T*
+(Link: https://berthub.eu/articles/posts/welkom-bij-opentk/) Tj
+T*
+(Welkom! Goed inzicht in ons parlement is belangrijk, soms omdat er dingen in het nieuws zijn.) Tj
+T*
+(En soms juist omdat dingen \(nog\) niet in het nieuws zijn, maar er binnenkort wel besluiten over) Tj
+T*
+(genomen gaan worden. De Tweede Kamer publiceert alles wat ze doen via een technische API, en) Tj
+T*
+(dat is echt geweldig. Hierdoor kunnen we op Internet eigen viewers maken om deze data zo goed) Tj
+T*
+(mogelijk zichtbaar te maken.) Tj
+T*
+() Tj
+T*
+(33. What do coders do after AI?) Tj
+T*
+(Source: Anil Dash | Published: 2026-03-13T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/03/13/coders-after-ai/) Tj
+T*
+(For the New York Times Magazine this Sunday, I talked to Clive Thompson about one of the) Tj
+T*
+(conversations that I'm having most often these days: What happens to coders in this current) Tj
+T*
+(moment of extraordinarily rapid evolution in AI? LLMs are now quickly advancing to where they) Tj
+T*
+(can virtually become entire software factories, radically changing both the economics and the) Tj
+T*
+(power dynamics of software creation ? which has so far mostly been used to displace massive) Tj
+T*
+(numbers of tech workers. But it's not so simple as "bosses are firing coders now that AI can) Tj
+T*
+(write code". For one thing, though there are certainly a lot of companies where executives are) Tj
+T*
+(forcing teams to churn out slop code, and using that as an excuse to carry out mass layoffs,) Tj
+T*
+(there are plenty of companies where "AI" is just a buzzword being used as a pretense for) Tj
+T*
+(layoffs that owners have wanted to do anyway. And more importantly, there are a growing number) Tj
+T*
+(of coders who are having a very different experience with the tools than those bosses may have) Tj
+T*
+(expected ? and a very different outcome than the Big AI labs may have intended. As I said in) Tj
+T*
+(the story: ?The reason that tech generally ? and coders in particular ? see LLMs diff...) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 37 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 18 0 R >>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000168 00000 n 
+0000000238 00000 n 
+0000004690 00000 n 
+0000004816 00000 n 
+0000009850 00000 n 
+0000009976 00000 n 
+0000014478 00000 n 
+0000014604 00000 n 
+0000019176 00000 n 
+0000019304 00000 n 
+0000023924 00000 n 
+0000024052 00000 n 
+0000027829 00000 n 
+0000027957 00000 n 
+0000032265 00000 n 
+0000032393 00000 n 
+0000032481 00000 n 
+trailer
+<< /Size 20 /Root 1 0 R >>
+startxref
+32609
+%%EOF
