@@ -1,0 +1,668 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4553 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-15 09:37:52) Tj
+T*
+() Tj
+T*
+(1. Quoting Jannis Leidel) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-14T18:41:25+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything) Tj
+T*
+(GitHub?s slopocalypse ? the flood of AI-generated spam PRs and issues ? has made Jazzband?s) Tj
+T*
+(model of open membership and shared push access untenable. Jazzband was designed for a world) Tj
+T*
+(where the worst case was someone accidentally merging the wrong PR. In a world where only 1 in) Tj
+T*
+(10 AI-generated PRs meets project standards , where curl had to shut down its bug bounty) Tj
+T*
+(because confirmation rates dropped below 5%, and where GitHub?s own response was a kill switch) Tj
+T*
+(to disable pull requests entirely ? an organization that gives push access to everyone who) Tj
+T*
+(joins simply can?t operate safely anymore. ? Jannis Leidel , Sunsetting Jazzband Tags:) Tj
+T*
+(ai-ethics , open-source , python , ai , github) Tj
+T*
+() Tj
+T*
+(2. My fireside chat about agentic engineering at the Pragmatic Summit) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-14T18:19:38+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything) Tj
+T*
+(I was a speaker last month at the Pragmatic Summit in San Francisco, where I participated in a) Tj
+T*
+(fireside chat session about Agentic Engineering hosted by Eric Lui from Statsig. The video is) Tj
+T*
+(available on YouTube . Here are my highlights from the conversation. Stages of AI adoption We) Tj
+T*
+(started by talking about the different phases a software developer goes through in adopting AI) Tj
+T*
+(coding tools. 02:45 I feel like there are different stages of AI adoption as a programmer. You) Tj
+T*
+(start off with you've got ChatGPT and you ask it questions and occasionally it helps you out.) Tj
+T*
+(And then the big step is when you move to the coding agents that are writing code for) Tj
+T*
+(you?initially writing bits of code and then there's that moment where the agent writes more) Tj
+T*
+(code than you do, which is a big moment. And that for me happened only about maybe six months) Tj
+T*
+(ago. 03:42 The new thing as of what, three weeks ago, is you don't read the code. If anyone saw) Tj
+T*
+(StrongDM?they had a big thing come out last week where they talked about their software factory) Tj
+T*
+(and their two principles were nobody writes any code, nobody reads any code, which is clear) Tj
+T*
+(insanity. That is wildly irresponsible. They're a security company building...) Tj
+T*
+() Tj
+T*
+(3. Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-15T00:37:30Z) Tj
+T*
+(Link: https://ma.tt/2026/03/gone-almost-phishin/) Tj
+T*
+(Matt Mullenweg: One evening last month, my Apple Watch, iPhone, and Mac all lit up with a) Tj
+T*
+(message prompting me to reset my password. This came out of nowhere; I hadn?t done anything to) Tj
+T*
+(elicit it. I even had Lockdown Mode running on all my devices. It didn?t matter. Someone was) Tj
+T*
+(spamming Apple?s legitimate password reset flow against my account ? a technique Krebs) Tj
+T*
+(documented back in 2024 . I dismissed the prompts, but the stage was set. What made the attack) Tj
+T*
+(impressive was the next move: The scammers actually contacted Apple Support themselves,) Tj
+T*
+(pretending to be me, and opened a real case claiming I?d lost my phone and needed to update my) Tj
+T*
+(number. That generated a real case ID, and triggered real Apple emails to my inbox, properly) Tj
+T*
+(signed , from Apple?s actual servers. These were legitimate; no filter on earth could have) Tj
+T*
+(caught them. Then ?Alexander from Apple Support? called. He was calm, knowledgeable, and) Tj
+T*
+(careful . His first moves were solid security advice: check your account, verify nothing?s) Tj
+T*
+(changed, consider updating your password. He was so good that I actually thanked him for being) Tj
+T*
+(excellent at his job. That, of course, was when he moved into the next phase of the attack.) Tj
+T*
+(What...) Tj
+T*
+() Tj
+T*
+(4. iFixit?s MacBook Neo Teardown) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-14T22:06:02Z) Tj
+T*
+(Link: https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years) Tj
+T*
+(iFixit: Is Apple?s most affordable laptop ever also one of its most repairable? For years,) Tj
+T*
+(opening a MacBook has usually meant fighting your way through glue and buried parts. But the) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4658 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Neo stands out, with increasingly good day-one manuals, less-painful keyboard repairs, and a) Tj
+T*
+(screwed-in battery tray that sent cheers across the iFixit office. This laptop proves that) Tj
+T*
+(things can be made more affordable and more repairable at the same time. That conclusion is) Tj
+T*
+(backwards, I think. I suspect the MacBook Neo is more repairable not despite of its lower) Tj
+T*
+(price, but because of its lower price. It?s designed and engineered to be easier, and thus) Tj
+T*
+(cheaper, to assemble. And the aspects that make it easier to assemble make it easier to) Tj
+T*
+(disassemble. Regarding the Neo?s 2.7-pound weight: We were all a bit curious as to why the) Tj
+T*
+(cheaper and less feature rich Neo weighed the same as a MacBook Air M3, each 13? laptop) Tj
+T*
+(weighing in at about 1.24kg. It?s especially puzzling when considering the Neo supposedly uses) Tj
+T*
+(a lighter chassis, and is, uh, smaller. Here?s what we found: The Neo?s chassis is actually) Tj
+T*
+(only barely lighter than the Air?s. Together, its chassis, keyboard, and bottom cover are just) Tj
+T*
+(8g lighte...) Tj
+T*
+() Tj
+T*
+(5. PC Makers Are Not Ready for the MacBook Neo) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-14T20:02:36Z) Tj
+T*
+(Link: https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-foo) Tj
+T*
+(tinmouth) Tj
+T*
+(Antonio G. Di Benedetto, The Verge: Somehow, the PC makers still don?t see it coming. Here?s) Tj
+T*
+(how [Asus CFO Nick] Wu described the MacBook Neo, specifically its 8GB of RAM limitation: ?I) Tj
+T*
+(think when Apple positioned the product, it?s probably focused more on content consumption.) Tj
+T*
+(This differs somewhat from mainstream notebook usage scenarios, because in that case, the Neo) Tj
+T*
+(feels more like a tablet ? because tablets are mostly for content consumption.? Hang on. Can we) Tj
+T*
+(hold up for a second here? [...] The proof of the MacBook Neo?s performance for the money is in) Tj
+T*
+(the numbers. In single-core benchmarks tests ? which most accurately measure the kinds of) Tj
+T*
+(everyday tasks you do on a computer ? the Neo?s A18 Pro chip beats out all manner of Windows) Tj
+T*
+(laptops, including the new flagship Intel Panther Lake chip in Asus? own $2,400 Zenbook Duo .) Tj
+T*
+(Is a Zenbook Duo more capable than the MacBook Neo for heavier tasks, like photo and video) Tj
+T*
+(editing or playing more graphically demanding games? Yes, and it?s part of why I loved that) Tj
+T*
+(dual-screen laptop when I reviewed it. But the Zenbook Duo also costs four times as much. And,) Tj
+T*
+(again, the Neo can hang with it for most common tasks, even with its 8GB of RAM....) Tj
+T*
+() Tj
+T*
+(6. Pluralistic: Corrupt anticorruption \(14 Mar 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 14 Mar 2026 15:15:42) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/03/14/ill-have-what-xis-having/) Tj
+T*
+(Today's links Corrupt anticorruption: Notes from a target-rich environment. Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: Tentacle sphere; EU Venn; Obama v cryptography; Trump) Tj
+T*
+(v protesters; Amazon coders x Amazon warehouse workers; Bruces's ETECH speech; Steven King x) Tj
+T*
+(unions; Tax-free S&P 500 companies. Upcoming appearances: Where to find me. Recent appearances:) Tj
+T*
+(Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like) Tj
+T*
+(I said, I'll keep writin' 'em. Colophon: All the rest. Corrupt anticorruption \(permalink\) An) Tj
+T*
+(amazing thing happened this week: a whopping bipartisan Senate majority \(89:10!\) passed) Tj
+T*
+(Elizabeth Warren's housing bill, which severely limits private equity companies' ability to buy) Tj
+T*
+(single-family homes to turn into rental properties:) Tj
+T*
+(https://prospect.org/2026/03/13/elizabeth-warrens-amazingly-progressive-housing-bill/ It's a) Tj
+T*
+(big deal. Since the Great Financial Crisis, US home ownership has fallen sharply, while) Tj
+T*
+(corporate landlordism has skyrocketed. Rents are through the roof, and private equity bosses) Tj
+T*
+(boast about gouging their tenants, with the CEO of Blackstone's Invitation Homes ordering the) Tj
+T*
+(lickspittles to "juice this...) Tj
+T*
+() Tj
+T*
+(7. You Digg?) Tj
+T*
+(Source: iDiallo.com | Published: Sat, 14 Mar 2026 08:41:00 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/digg-is-gone-again?src=feed) Tj
+T*
+(For me, being part of an online community started with Digg. Digg was the precursor to Reddit) Tj
+T*
+(and the place to be on the internet. I never got a MySpace account, I was late to the Facebook) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4075 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(game, but I was on Digg. When Digg redesigned their website \(V4\), it felt like a slap in the) Tj
+T*
+(face. We didn't like the new design, but the community had no say in the direction. To make it) Tj
+T*
+(worse, they removed the bury button. It's interesting how many social websites remove the) Tj
+T*
+(ability to downvote. There must be a study somewhere that makes a sound argument for it,) Tj
+T*
+(because it makes no sense to me. Anyway, when Digg announced they were back in January 2026, I) Tj
+T*
+(quickly requested an invite. It was nostalgic to log in once more and see an active community) Tj
+T*
+(building back up right where we left off. But then, just today, I read that they are shutting) Tj
+T*
+(down. I had a single post in the technology sub. It was starting to garner some interest and) Tj
+T*
+(then, boom! Digg is gone once more. The CEO said that one major reason was that they faced "an) Tj
+T*
+(unprecedented bot problem." This is our new reality. Bots are now powered by AI and they are) Tj
+T*
+(more disruptive than ever. They quickly circumvent bot detection schemes and fl...) Tj
+T*
+() Tj
+T*
+(8. human.json) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Sat, 14 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/human-dot-json/) Tj
+T*
+(To quote the human.json Protocol : human.json is a protocol for humans to assert authorship of) Tj
+T*
+(their site content and vouch for the humanity of others. It uses URL ownership as identity, and) Tj
+T*
+(trust propagates through a crawlable web of vouches between sites. I think this is a neat idea,) Tj
+T*
+(so I added it to my site. It?s available at evanhahn.com/human.json . For more, see the) Tj
+T*
+(human.json documentation . And see how I use AI on this blog .) Tj
+T*
+() Tj
+T*
+(9. What?s Going On with FAIR Package Manager) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-14T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html) Tj
+T*
+(The FAIR package manager started as a response to the 2024 Automattic/WP Engine conflict, when) Tj
+T*
+(Matt Mullenweg used access to the WordPress.org plugin repository as leverage in a business) Tj
+T*
+(dispute. Plugin authors and hosting companies watched a single person effectively weaponize the) Tj
+T*
+(central registry, and FAIR was built to make sure that couldn?t happen again, assembling) Tj
+T*
+(federated package distribution, cryptographic identity with DIDs and ED25519 signatures, and a) Tj
+T*
+(labeler system borrowed from Bluesky?s moderation architecture under the Linux Foundation in a) Tj
+T*
+(matter of months. I wrote about FAIR in December while working through why federated package) Tj
+T*
+(management keeps running into Zooko?s triangle, the observation that naming systems can have) Tj
+T*
+(human-readable names, decentralization, and security, but only two at once. FAIR chose secure) Tj
+T*
+(and decentralized, then had to rebuild central infrastructure for discovery \(AspireCloud\) and) Tj
+T*
+(trust \(labelers\) to make the system usable, which is what any federated registry ends up doing) Tj
+T*
+(once it needs to be usable by people who don?t want to think about DIDs. The WordPress drama) Tj
+T*
+(cooled off faster than anyone expected, and with it went the political urge...) Tj
+T*
+() Tj
+T*
+(10. Reading List 03/14/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 14 Mar 2026 12:02:30 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-031426) Tj
+T*
+(Closure of the Strait of Hormuz, banning build-to-rent homes in the US, Honda?s EV losses,) Tj
+T*
+(Travis Kalanick?s new company, Corpus Christi?s water crisis, and more.) Tj
+T*
+() Tj
+T*
+(11. What Startups Are Really Like) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/really.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(12. Persuade xor Discover) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/discover.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(13. Post-Medium Publishing) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4509 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/publishing.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(14. Last-Run Syndication) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-03-14T01:41:56Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline) Tj
+T*
+(One of television?s most important business models?syndicating first-run content to TV stations) Tj
+T*
+(looking to fill airtime?might be losing strea ? er, steam.) Tj
+T*
+() Tj
+T*
+(15. WAIT: synchronous replication for Redis) Tj
+T*
+(Source: antirez.com | Published: Thu, 05 Dec 2013 10:50:33 +0100) Tj
+T*
+(Link: http://antirez.com/news/66) Tj
+T*
+(Redis unstable has a new command called "WAIT". Such a simple name, is indeed the incarnation) Tj
+T*
+(of a simple feature consisting of less than 200 lines of code, but providing an interesting way) Tj
+T*
+(to change the default behavior of Redis replication. The feature was extremely easy to) Tj
+T*
+(implement because of previous work made. WAIT was basically a direct consequence of the new) Tj
+T*
+(Redis replication design \(that started with Redis 2.8\). The feature itself is in a form that) Tj
+T*
+(respects the design of Redis, so it is relatively different from other implementations of) Tj
+T*
+(synchronous replication, both at API level, and from the point of view of the degree of) Tj
+T*
+(consistency it is able to ensure. Replication: synchronous or not? === Replication is one of) Tj
+T*
+(the main concepts of distributed systems. For some state to be durable even when processes fail) Tj
+T*
+(or when there are network partitions making processes unable to communicate, we are forced to) Tj
+T*
+(use a simple but effective strategy, that is to take the same information ?replicated? across) Tj
+T*
+(different processes \(database nodes\). Every kind of system featuring strong consistency will) Tj
+T*
+(use a form of replication called synchronous replication. It means that before some new d...) Tj
+T*
+() Tj
+T*
+(16. Blog lost and recovered in 30 minutes) Tj
+T*
+(Source: antirez.com | Published: Mon, 02 Dec 2013 09:52:19 +0100) Tj
+T*
+(Link: http://antirez.com/news/65) Tj
+T*
+(Yesterday I lost all my blog data in a rather funny way. When I installed this new blog engine,) Tj
+T*
+(that is basically a Lamer News slightly modified to serve as a blog, I spinned a Redis instance) Tj
+T*
+(manually with persistence *disabled* just to see if it was working and test it a bit. I just) Tj
+T*
+(started a screen instance, and run something like ./redis-server --port 10000. Since this is) Tj
+T*
+(equivalent to an empty config file with just "port 10000" inside I was running no disk backed) Tj
+T*
+(at all. Since Redis very rarely crashes, guess what, after more than one year it was still) Tj
+T*
+(running inside the screen session, and I totally forgot that it was running like that, happily) Tj
+T*
+(writing controversial posts in my blog. Yesterday my server was under attack. This caused an) Tj
+T*
+(higher then normal load, and Linode rebooted the instance. As a result my blog was gone. The) Tj
+T*
+(good thing is that I recovered everything in about 30 minutes because simple systems are really) Tj
+T*
+(better than complex systems when something bad happens. This blog is composed of posts that are) Tj
+T*
+(just the verbatim dump of what I write in a text area. No formatting at all. Comments are) Tj
+T*
+(handled by Disqus and the ID I submit is just the post ID. All I had to d...) Tj
+T*
+() Tj
+T*
+(17. The fight against sexism is not a free pass) Tj
+T*
+(Source: antirez.com | Published: Sun, 01 Dec 2013 16:48:37 +0100) Tj
+T*
+(Link: http://antirez.com/news/64) Tj
+T*
+(Today Joyent wrote a blog post in the company blog about an issue that started with this pull) Tj
+T*
+(request in the libuv project: https://github.com/joyent/libuv/pull/1015#issuecomment-29538615) Tj
+T*
+(Basically the developer Ben Noordhuis rejected a pull request involving a change in the) Tj
+T*
+(documentation to use gender-neutral form instead of ?him?. Joyent replied with this incredible) Tj
+T*
+(post: http://www.joyent.com/blog/the-power-of-a-pronoun. In the blog post you can read: ?But) Tj
+T*
+(while Isaac is a Joyent employee, Ben is not?and if he had been, he wouldn't be as of this) Tj
+T*
+(morning: to reject a pull request that eliminates a gendered pronoun on the principle that) Tj
+T*
+(pronouns should in fact be gendered would constitute a fireable offense for me and for Joyent.?) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4299 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(A few lines later you can read: ?Indeed, one of the challenges of an open source project that) Tj
+T*
+(depends on volunteer effort isdealing with assholes? Maybe Joyent is thinking something like,) Tj
+T*
+(you can?t go wrong if you fight sexism, or something like that, as I can?t believe they had a) Tj
+T*
+(so naive reaction. Really, we have 10k years of culture for a reason, to be able to) Tj
+T*
+(discriminate more than that, it is not 2+2=4. Probably Ben is not a sexist, maybe he believ...) Tj
+T*
+() Tj
+T*
+(18. More Doom III BFG Documentation) Tj
+T*
+(Source: Fabien Sanglard | Published: Wed, 04 Sep 2013 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/more_doom3_documentation/index.php) Tj
+T*
+(id Software developer Jan Paul Van Waveren \(a.k.a Mr Elusive\) is sharing some more of the) Tj
+T*
+(knowledge gained while working on Doom 3 BFG. This part focuses highly on the choice of) Tj
+T*
+(data-structures and how paramount cacheline are to performances.) Tj
+T*
+() Tj
+T*
+(19. Doom III BFG Documentation) Tj
+T*
+(Source: Fabien Sanglard | Published: Sat, 31 Aug 2013 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/doom3_documentation/index.php) Tj
+T*
+(id Software developer Jan Paul Van Waveren \(a.k.a Mr Elusive\) send me his technical notes about) Tj
+T*
+(Doom 3 BFG. I was especially interested in the "Compute vs. Memory" section which confirms that) Tj
+T*
+(CPU are now so fast that it is often better to calculate something than fetch it from RAM. Jan) Tj
+T*
+(Paul was also kind enough to share a list of all the publications related to idTech4 engine) Tj
+T*
+(\(see bottom of this page\). More...) Tj
+T*
+() Tj
+T*
+(20. Second Reality Code Review) Tj
+T*
+(Source: Fabien Sanglard | Published: Fri, 16 Aug 2013 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/second_reality/index.php) Tj
+T*
+(On July 23, 2013 the source code of Second Reality was released. Like many, I was eager to look) Tj
+T*
+(at the internals of a demo that inspired me so much over the last 20 years. I was expecting a) Tj
+T*
+(monolithic mess of assembly but instead I found a surprisingly elaborated architecture, mixing) Tj
+T*
+(several languages in an elegant way. The code is something like I had never seen before that) Tj
+T*
+(perfectly represents two essential aspects of demomaking : Team work. Obfuscation. As usual I) Tj
+T*
+(have cleaned up my notes into an article: I hope it will save some a few hours and maybe) Tj
+T*
+(inspire others to read more source code and become better engineers. More...) Tj
+T*
+() Tj
+T*
+(21. Life Long Learning: Dealing With New Things) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 28 Oct 2024 18:20:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/life-long-learning-dealing-with-new-things/) Tj
+T*
+(On the 22nd of October, I presented at the annual conference of my beloved NLNOG, the community) Tj
+T*
+(of Dutch network operators. NLNOG is a national treasure, an international treasure even, since) Tj
+T*
+(we do everything in English. NLNOG holds several events every year, where we entertain and) Tj
+T*
+(educate each other with talks on new and old technologies. We also have food and drink) Tj
+T*
+(afterwards, sometimes even several drinks. It is a true community, with many of us anxiously) Tj
+T*
+(looking forward to our next meetup.) Tj
+T*
+() Tj
+T*
+(22. Open Source on its own is no alternative to Big Tech) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 26 Oct 2024 14:15:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/) Tj
+T*
+(Now that we?re increasingly concerned about the dominance of ?big tech?, Open Source is often) Tj
+T*
+(mentioned as an alternative, especially since our governments are carrying out a Total) Tj
+T*
+(Migration to Microsoft. This is the English version of this Dutch piece. In Dutch we say you) Tj
+T*
+(can?t compare apples and pears, but that?s not entirely true. Both are so-called handfruit, and) Tj
+T*
+(one is a bit harder, the other a bit softer.) Tj
+T*
+() Tj
+T*
+(23. Open Source zelf is geen alternatief voor Big Tech) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 26 Oct 2024 14:15:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/open-source-zelf-geen-alternatief-voor-big-tech/) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 521 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(English: Open Source on its own is no alternative to Big Tech Nu we ons meer en meer zorgen) Tj
+T*
+(maken over de dominantie van ?big tech? wordt Open Source vaak genoemd als alternatief, zeker) Tj
+T*
+(nu het erop lijkt dat onze overheden een Totale Migratie naar Microsoft aan het uitvoeren zijn.) Tj
+T*
+(Nou zegt men dat je appels en peren niet kunt vergelijken, maar dat kan prima. Beide zijn) Tj
+T*
+(namelijk zogeheten handfruit, de ene wat harder, de andere wat zachter.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004829 00000 n 
+0000004955 00000 n 
+0000009665 00000 n 
+0000009791 00000 n 
+0000013918 00000 n 
+0000014044 00000 n 
+0000018606 00000 n 
+0000018734 00000 n 
+0000023086 00000 n 
+0000023214 00000 n 
+0000023787 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+23915
+%%EOF
