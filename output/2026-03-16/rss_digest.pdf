@@ -1,0 +1,586 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4496 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-16 09:39:26) Tj
+T*
+() Tj
+T*
+(1. What is agentic engineering?) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-15T22:41:57+00:00) Tj
+T*
+(Link: https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering) Tj
+T*
+(/#atom-everything) Tj
+T*
+(Agentic Engineering Patterns > I use the term agentic engineering to describe the practice of) Tj
+T*
+(developing software with the assistance of coding agents. What are coding agents ? They're) Tj
+T*
+(agents that can both write and execute code. Popular examples include Claude Code , OpenAI) Tj
+T*
+(Codex , and Gemini CLI . What's an agent ? Clearly defining that term is a challenge that has) Tj
+T*
+(frustrated AI researchers since at least the 1990s but the definition I've come to accept, at) Tj
+T*
+(least in the field of Large Language Models \(LLMs\) like GPT-5 and Gemini and Claude, is this) Tj
+T*
+(one: Agents run tools in a loop to achieve a goal You prompt the coding agent to define a goal.) Tj
+T*
+(The agent then generates and executes code in a loop until that goal has been met. Code) Tj
+T*
+(execution is the defining capability that makes agentic engineering possible. Without the) Tj
+T*
+(ability to directly run the code, anything output by an LLM is of limited value. With code) Tj
+T*
+(execution, these agents can start iterating towards software that demonstrably works. Agentic) Tj
+T*
+(engineering Now that we have software that can write working code, what is there left for us) Tj
+T*
+(humans to do? The answer is so much stuff . Writing code has never been the sole activity...) Tj
+T*
+() Tj
+T*
+(2. Shower Thought: Git Teleportation) Tj
+T*
+(Source: iDiallo.com | Published: Mon, 16 Mar 2026 00:23:04 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/git-teleportation?src=feed) Tj
+T*
+(In many sci-fi shows, spaceships have a teleportation mechanism on board. They can teleport) Tj
+T*
+(from inside their ship to somewhere on a planet. This way, the ship can remain in orbit while) Tj
+T*
+(its crew explores the surface. But then people started asking: how does the teleportation) Tj
+T*
+(device actually work? When a subject stands on the device and activates it, does it disassemble) Tj
+T*
+(all the atoms of the person and reconstruct them at the destination? Or does it scan the) Tj
+T*
+(person, kill them, and then replicate them at the destination? This debate has been on going) Tj
+T*
+(for as long as I can remember. Since teleportation machines exist only in fiction, we can never) Tj
+T*
+(get a true answer. Only the one that resonates the most. So, that's why I thought of Diff) Tj
+T*
+(Teleportation. Basically, this is a Git workflow applied to teleportation. When you step onto a) Tj
+T*
+(device, we run the command: $> git checkout -b kirk-teleport-mission-123 $> beam -s kirk -d) Tj
+T*
+(planet-xyz -o kirk-planet-xyz # beam is a vibe-coded teleportation command Then, the machine) Tj
+T*
+(will have to suspend activity on the master branch. This will make merging the branch much) Tj
+T*
+(simpler in the future. # sci-fi git command $> git suspend master Now, the person that...) Tj
+T*
+() Tj
+T*
+(3. CHM Live: Apple at 50) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-15T23:00:54Z) Tj
+T*
+(Link: https://www.youtube.com/live/eCSNJgI2LFI) Tj
+T*
+(David Pogue absolutely killed it hosting this live event last week. Glad I saved it to watch on) Tj
+T*
+(my TV. Special guests include Chris Espinosa, John Sculley, and Avie Tevanian. A legit treat. ?) Tj
+T*
+() Tj
+T*
+(4. Finalist 3.6) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-15T17:36:48Z) Tj
+T*
+(Link: https://www.finalist.works/finalist-36/) Tj
+T*
+(My thanks to Finalist for sponsoring last week at Daring Fireball. Finalist is a remarkable,) Tj
+T*
+(ambitious, and novel app for iPhone, iPad, and the Mac from indie developer Slaven Radic. It?s) Tj
+T*
+(a planner ? a digital take on traditional paper planners ? that \(with permission\) pulls in your) Tj
+T*
+(calendars, reminders, and health data. Its motto: ?Most productivity apps help you organize) Tj
+T*
+(tasks. Finalist helps you finish them.? Finalist first sponsored DF back in December, and I) Tj
+T*
+(wrote quite a bit about it then. You should read that post . I?ve continued using Finalist, day) Tj
+T*
+(in, day out, since then. It?s open on my Mac and on my first iPhone home screen. I?m even on) Tj
+T*
+(the TestFlight beta list, using new builds as Radic releases them. Finalist was good enough) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4426 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(back in December that I started relying on it, and it?s gotten even better in the three months) Tj
+T*
+(since. It?s a great app, period, but it?s really fun to use an app that is getting better so) Tj
+T*
+(quickly. Radic is cooking with gas. It?s just so obvious, just using it, that Finalist is his) Tj
+T*
+(own dream app for daily productivity. Here?s a fun one-minute video showing what?s new in) Tj
+T*
+(version 3.6 . Recent features include subtasks, calendar bookmarks, HealthKit...) Tj
+T*
+() Tj
+T*
+(5. ?This Is Not the Computer for You?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-15T17:30:00Z) Tj
+T*
+(Link: https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/?ref=birchtree.me) Tj
+T*
+(Sam Henri Gold: Nobody starts in the right place. You don?t begin with the correct tool and) Tj
+T*
+(work sensibly within its constraints until you organically graduate to a more capable one. That) Tj
+T*
+(is not how obsession works. Obsession works by taking whatever is available and pressing on it) Tj
+T*
+(until it either breaks or reveals something. The machine?s limits become a map of the) Tj
+T*
+(territory. You learn what computing actually costs by paying too much of it on hardware that) Tj
+T*
+(can barely afford it. I know this because I was running Final Cut Pro X on a 2006 Core 2 Duo) Tj
+T*
+(iMac with 3GB RAM and 120GB of spinning rust. I was nine. I had no business doing this. I did) Tj
+T*
+(it every day after school until my parents made me go to bed. What a lovely essay. The best) Tj
+T*
+(piece anyone has written about the MacBook Neo ? because it?s not really about the MacBook Neo.) Tj
+T*
+(?) Tj
+T*
+() Tj
+T*
+(6. Twelve-tone composition) Tj
+T*
+(Source: John D. Cook | Published: Sun, 15 Mar 2026 23:39:20 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/) Tj
+T*
+(Atonal music is difficult to compose because it defies human instincts. It takes discipline to) Tj
+T*
+(write something so unpleasant to listen to. One technique that composers use to keep their) Tj
+T*
+(music from falling into tonal patters is the twelve-tone row. The composer creates some) Tj
+T*
+(permutation of the 12 notes in a chromatic scale and then [?] The post Twelve-tone composition) Tj
+T*
+(first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(7. Langford series) Tj
+T*
+(Source: John D. Cook | Published: Sun, 15 Mar 2026 19:49:13 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/15/langford-series/) Tj
+T*
+(Notice anything special about the following sequence? 8 6 10 3 1 11 1 3 6 8 12 9 7 10 4 2 5 11) Tj
+T*
+(2 4 7 9 5 12 Each of the numbers 1 through 12 appear twice. Between the two 1s there is one) Tj
+T*
+(number. Between the two 2s there are two [?] The post Langford series first appeared on John D.) Tj
+T*
+(Cook .) Tj
+T*
+() Tj
+T*
+(8. Guided Meditation for Developers) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-15T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/15/guided-meditation-for-developers.html) Tj
+T*
+(Find a comfortable position. Close your laptop halfway, so the screen light softens but the fan) Tj
+T*
+(noise continues. 1 That hum is your anchor. You will return to it throughout this practice.) Tj
+T*
+(Take a deep breath in. Hold it. Now run npm install . Breathe out slowly as 1,247 packages are) Tj
+T*
+(added. Do not look at the output. You are not ready. Body scan We will begin with a body scan.) Tj
+T*
+(Bring your attention to the top of your head. Notice any tension you are holding there. This is) Tj
+T*
+(where you store your awareness of packages that have not been updated in three years but still) Tj
+T*
+(work. Let it soften. Those packages do not need you right now. They are dormant, the way a) Tj
+T*
+(perennial is dormant. The roots are still in the ground. There is nothing for you to do until) Tj
+T*
+(spring, and spring may never come, and that is also part of the garden. Move your attention to) Tj
+T*
+(your forehead. This is where you hold the memory of every major version bump that removed the) Tj
+T*
+(one function you actually used. The migration guide was six pages long and the first step was) Tj
+T*
+(?update your mental model.? Breathe into that space. Release it. You have already updated your) Tj
+T*
+(mental model. You updated it when you pinned to the previous versio...) Tj
+T*
+() Tj
+T*
+(9. Book Review: Robots in Space - The Secret Lives of Our Planetary Explorers by Dr Ezzy) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3273 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Pearson ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 15 Mar 2026 12:34:48 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/book-review-robots-in-space-the-secret-lives-of-our-plan) Tj
+T*
+(etary-explorers-by-dr-ezzy-pearson/) Tj
+T*
+(Mars is the only planet entirely populated by robots. This book is a catalogue of the history) Tj
+T*
+(of robotic explorers. Nary a human-crewed mission is mentioned, except in passing. Instead, we) Tj
+T*
+(get to look at the practicalities of landing a little robot a million miles away, the people) Tj
+T*
+(that made it happen, and the politics which inevitably stymied things. And there is a lot of) Tj
+T*
+(politics. One of the?) Tj
+T*
+() Tj
+T*
+(10. How Can Governments Pay Open Source Maintainers?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 14 Mar 2026 12:34:42 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/) Tj
+T*
+(When I worked for the UK Government I was once asked if we could find a way to pay for all the) Tj
+T*
+(Open Source Software we were using. It is a surprisingly hard problem and I want to talk about) Tj
+T*
+(some of the issues we faced. The UK Government publishes a lot of Open Source code - nearly) Tj
+T*
+(everything developed in-house by the state is available under an OSI Approved licence. The UK) Tj
+T*
+(is generally pretty?) Tj
+T*
+() Tj
+T*
+(11. The optimized self and the life that got away) Tj
+T*
+(Source: Westenberg. | Published: Sun, 15 Mar 2026 22:25:26 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/the-optimized-self-and-the-life-that-got-away/) Tj
+T*
+(This newsletter is free to read, and it?ll stay that way. But if you want more - extra posts) Tj
+T*
+(each month, access to the community, and a direct line to ask me things - paid subscriptions) Tj
+T*
+(are $2.50/month. A lot of people have told me it&) Tj
+T*
+() Tj
+T*
+(12. The List of N Things) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/nthings.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(13. The Anatomy of Determination) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/determination.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(14. What Kate Saw in Silicon Valley) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/kate.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. Prince Of Persia Code Review) Tj
+T*
+(Source: Fabien Sanglard | Published: Fri, 14 Jun 2013 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/prince_of_persia/index.php) Tj
+T*
+(On Apr 17, 2012 Jordan Mechner released the source code of Prince of Persia. I immediately took) Tj
+T*
+(at look at it!) Tj
+T*
+() Tj
+T*
+(16. Doom3 BFG Code Review) Tj
+T*
+(Source: Fabien Sanglard | Published: Thu, 23 May 2013 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/doom3_bfg/index.php) Tj
+T*
+(On November 26, 2012 id Software released the source code of Doom 3 BFG edition \(only one month) Tj
+T*
+(after the game hit the stores\). The 10 years old idTech 4 engine has been updated with some of) Tj
+T*
+(the technology found in idTech 5 \(the game engine running Rage\) and it was an interesting) Tj
+T*
+(reading session. More...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4384 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(17. Duke Nukem 3D Code Review) Tj
+T*
+(Source: Fabien Sanglard | Published: Thu, 17 Jan 2013 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/duke3d/index.php) Tj
+T*
+(Since I left my job at Amazon I have spent a lot of time reading great source code. Having) Tj
+T*
+(exhausted the insanely good idSoftware pool, the next thing to read was one of the greatest) Tj
+T*
+(game of all time : Duke Nukem 3D and the engine powering it named "Build". It turned out to be) Tj
+T*
+(a difficult experience: The engine delivered great value and ranked high in terms of speed,) Tj
+T*
+(stability and memory consumption but my enthousiasm met a source code controversial in terms of) Tj
+T*
+(organization, best practices and comments/documentation. This reading session taught me a lot) Tj
+T*
+(about code legacy and what helps a software live long. As usual I cleaned up my notes into an) Tj
+T*
+(article. I hope it will inspire some of us to read more source code and become better) Tj
+T*
+(engineers. More...) Tj
+T*
+() Tj
+T*
+(18. Finally Redis collections are iterable) Tj
+T*
+(Source: antirez.com | Published: Sun, 27 Oct 2013 16:47:10 +0100) Tj
+T*
+(Link: http://antirez.com/news/63) Tj
+T*
+(Redis API for data access is usually limited, but very direct and straightforward. It is) Tj
+T*
+(limited because it only allows to access data in a natural way, that is, in a data structure) Tj
+T*
+(obvious way. Sorted sets are easy to access by score ranges, while hashes by field name, and so) Tj
+T*
+(forth. This API ?way? has profound effects on what Redis is and how users organize data into) Tj
+T*
+(it, because an API that is data-obvious means fast operations, less code and less bugs in the) Tj
+T*
+(implementation, but especially forcing the application layer to make meaningful choices: the) Tj
+T*
+(database as a system in which you are responsible of organizing data in a way that makes sense) Tj
+T*
+(in your application, versus a database as a magical object where you put data inside, and then) Tj
+T*
+(it will be able to fetch and organize data for you in any format. However most Redis data) Tj
+T*
+(types, including the outer key-value shell if we want to consider it a data type for a moment) Tj
+T*
+(\(it is a dictionary after all\), are collections of elements. The key-value space is a) Tj
+T*
+(collection of keys mapped to values, as Sets are collections of unordered elements, and so) Tj
+T*
+(forth. In most application logic using Redis the idea is that you know what member is insi...) Tj
+T*
+() Tj
+T*
+(19. Why Claude's new 1M context length is a big deal) Tj
+T*
+(Source: Martin Alderson | Published: Sun, 15 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/why-claudes-new-1m-context-length-is-a-big-deal/?utm_sou) Tj
+T*
+(rce=rss&utm_medium=rss&utm_campaign=feed) Tj
+T*
+(Anthropic's 1M token context window on Opus 4.6 and Sonnet 4.6 is a genuine breakthrough - and) Tj
+T*
+(they're not even charging more for it.) Tj
+T*
+() Tj
+T*
+(20. BertVote Gemeenteraadsverkiezingen 2026) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 15 Mar 2026 12:39:25 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/bert-vote-gemeenteraad-2026/) Tj
+T*
+(Woensdag 18 maart gaan de meeste gemeenten stemmen \(behalve Hilversum en Wijdemeren\). Ooit was) Tj
+T*
+(er de NerdVote campagne, waar we met een klankbordgroep heel zorgvuldig kandidaten kozen. Voor) Tj
+T*
+(de gemeenteraadsverkiezingen kon ik niet geloofwaardig weer NerdVote doen omdat ik zelf als) Tj
+T*
+(lijstduwer op de lijst sta voor Progressief Pijnacker-Nootdorp \(de lokale GroenLinks-PvdA) Tj
+T*
+(combinatie\). Desondanks zijn er wel kandidaten in het land waar ik erg enthousiast van word! Ik) Tj
+T*
+(ken al deze mensen persoonlijk, en beveel ze van harte aan.) Tj
+T*
+() Tj
+T*
+(21. A bit about me) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 21 Oct 2024 12:22:53 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/bio/) Tj
+T*
+(I prefer not to spend too much time talking about myself, but I also like to make it clear who) Tj
+T*
+(I am and what I do, so people don?t have to guess \(because they might guess wrong\). I studied) Tj
+T*
+(physics at Delft University of Technology, but dropped out somewhere around 40%. I still love) Tj
+T*
+(physics though. Until relatively recently I was a part time ex-ante regulator of the Dutch) Tj
+T*
+(intelligence and security services.) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 2211 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(22. De Totale Keuze voor Microsoft) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 18 Oct 2024 16:00:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/de-totale-keuze-voor-microsoft/) Tj
+T*
+(Eerder deze week verscheen het rapport van de Auditdienst Rijk en daar staat het helder in: het) Tj
+T*
+(is zo ?dat straks \(bijna\) de volledige Rijksoverheid gebruik maakt van MS 365?. En voor de) Tj
+T*
+(zekerheid, verderop staat: ?Hiermee wordt de on-premises werkplek van de Rijksoverheid) Tj
+T*
+(verplaatst naar de public cloud [van Microsoft]?. Het gaat dus gebeuren, de totale migratie van) Tj
+T*
+(onze overheid naar MS 365, op Microsoft servers in Microsoft datacenters.) Tj
+T*
+() Tj
+T*
+(23. LotusNotes) Tj
+T*
+(Source: computers are bad | Published: 14 Mar 2026 00:00:00 UT) Tj
+T*
+(Link: https://computer.rip/2026-03-14-lotusnotes.html) Tj
+T*
+(I tend to focus on the origin of the computer within the military. Particularly in the early) Tj
+T*
+(days of digital computing, the military was a key customer, and fundamental concepts of modern) Tj
+T*
+(computing arose in universities and laboratories serving military contracts. Of course, the war) Tj
+T*
+(would not last forever, and computing had applications in so many other fields?fields that,) Tj
+T*
+(nonetheless, started out as beneficiaries of military largesse. Consider education. The Second) Tj
+T*
+(World War had a profound impact on higher education in the US. The GI bill made college newly) Tj
+T*
+(affordable to veterans, who in the 1950s made up a large portion of the population. That was) Tj
+T*
+(only the tip of the iceberg, though: military planners perceived the allied victory as a result) Tj
+T*
+(of technical and industrial excellence. Many of the most decisive innovations of the war?radar) Tj
+T*
+(and radionavigation, scientific management and operations research, nuclear weapons?had) Tj
+T*
+(originated in academic research laboratories at the nation's most prestigious universities.) Tj
+T*
+(Many of those universities, MIT, Stanford, University of California, created subsidiaries and) Tj
+T*
+(spinoffs that act as major defense contractors to this day. Educational inst...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004765 00000 n 
+0000004891 00000 n 
+0000009369 00000 n 
+0000009495 00000 n 
+0000012820 00000 n 
+0000012946 00000 n 
+0000017383 00000 n 
+0000017511 00000 n 
+0000019775 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+19903
+%%EOF
