@@ -1,0 +1,588 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4618 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-17 09:38:22) Tj
+T*
+() Tj
+T*
+(1. Introducing Mistral Small 4) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-16T23:41:17+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything) Tj
+T*
+(Introducing Mistral Small 4 Big new release from Mistral today \(despite the name\) - a new) Tj
+T*
+(Apache 2 licensed 119B parameter \(Mixture-of-Experts, 6B active\) model which they describe like) Tj
+T*
+(this: Mistral Small 4 is the first Mistral model to unify the capabilities of our flagship) Tj
+T*
+(models, Magistral for reasoning, Pixtral for multimodal, and Devstral for agentic coding, into) Tj
+T*
+(a single, versatile model. It supports reasoning_effort="none" or reasoning_effort="high" ,) Tj
+T*
+(with the latter providing "equivalent verbosity to previous Magistral models". The new model is) Tj
+T*
+(242GB on Hugging Face . I tried it out via the Mistral API using llm-mistral : llm install) Tj
+T*
+(llm-mistral llm mistral refresh llm -m mistral/mistral-small-2603 "Generate an SVG of a pelican) Tj
+T*
+(riding a bicycle" I couldn't find a way to set the reasoning effort in their API documentation) Tj
+T*
+(, so hopefully that's a feature which will land soon. Also from Mistral today and fitting their) Tj
+T*
+(-stral naming convention is Leanstral , an open weight model that is specifically tuned to help) Tj
+T*
+(output the Lean 4 formally verifiable coding language. I haven't explored Lean at all so I have) Tj
+T*
+(no way to credibly evaluate this, but it's interesting to see them ta...) Tj
+T*
+() Tj
+T*
+(2. Use subagents and custom agents in Codex) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-16T23:03:56+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/16/codex-subagents/#atom-everything) Tj
+T*
+(Use subagents and custom agents in Codex Subagents were announced in general availability today) Tj
+T*
+(for OpenAI Codex, after several weeks of preview behind a feature flag. They're very similar to) Tj
+T*
+(the Claude Code implementation, with default subagents for "explorer", "worker" and "default".) Tj
+T*
+(It's unclear to me what the difference between "worker" and "default" is but based on their CSV) Tj
+T*
+(example I think "worker" is intended for running large numbers of small tasks in parallel.) Tj
+T*
+(Codex also lets you define custom agents as TOML files in ~/.codex/agents/ . These can have) Tj
+T*
+(custom instructions and be assigned to use specific models - including gpt-5.3-codex-spark if) Tj
+T*
+(you want some raw speed . They can then be referenced by name, as demonstrated by this example) Tj
+T*
+(prompt from the documentation: Investigate why the settings modal fails to save. Have) Tj
+T*
+(browser_debugger reproduce it, code_mapper trace the responsible code path, and ui_fixer) Tj
+T*
+(implement the smallest fix once the failure mode is clear. The subagents pattern is widely) Tj
+T*
+(supported in coding agents now. Here's documentation across a number of different platforms:) Tj
+T*
+(OpenAI Codex subagents Claude Code subagents Gemini CLI subagents \(experimental\) Mist...) Tj
+T*
+() Tj
+T*
+(3. Quoting A member of Anthropic?s alignment-science team) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-16T21:38:55+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything) Tj
+T*
+(The point of the blackmail exercise was to have something to describe to policymakers?results) Tj
+T*
+(that are visceral enough to land with people, and make misalignment risk actually salient in) Tj
+T*
+(practice for people who had never thought about it before. ? A member of Anthropic?s) Tj
+T*
+(alignment-science team , as told to Gideon Lewis-Kraus Tags: ai-ethics , anthropic , claude ,) Tj
+T*
+(generative-ai , ai , llms) Tj
+T*
+() Tj
+T*
+(4. [Sponsor] Mux ? Video API for Developers) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-16T23:47:24Z) Tj
+T*
+(Link: https://www.mux.com/video-api?utm_campaign=fireball&utm_source=DF) Tj
+T*
+(Video isn?t just something to watch; it?s a boatload of context and data. Mux makes it easy to) Tj
+T*
+(ship and scale video into anything from websites to platforms to AI workflows. Unlock what?s) Tj
+T*
+(inside: transcripts, clips, and storyboards to build summarization, translation, content) Tj
+T*
+(moderation, tagging, and more. Mux stewards Video.js, the web?s most popular open source video) Tj
+T*
+(player. Video.js v10 is a complete architectural rebuild, with the beta now available at) Tj
+T*
+(videojs.org . Mux is video infrastructure trusted by Patreon, Substack, and Synthesia. Get) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4409 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(started free, no credit card required. Use code FIREBALL for an extra $50 credit. ?) Tj
+T*
+() Tj
+T*
+(5. ?The Last Quiet Thing?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-16T17:58:00Z) Tj
+T*
+(Link: https://www.terrygodier.com/the-last-quiet-thing) Tj
+T*
+(Another crackerjack essay on design and attention from Terry Godier. \(Note that the Casio in) Tj
+T*
+(the essay not only shows the actual time, but has functional buttons.\) ?) Tj
+T*
+() Tj
+T*
+(6. Apple Introduces AirPods Max 2) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-16T17:57:39Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/03/apple-introduces-airpods-max-2-powered-by-h2/) Tj
+T*
+(Apple Newsroom today: Apple today announced AirPods Max 2 , bringing even better Active Noise) Tj
+T*
+(Cancellation \(ANC\), elevated sound quality, and intelligent features to the iconic over-ear) Tj
+T*
+(design. Powered by H2, features like Adaptive Audio, Conversation Awareness, Voice Isolation,) Tj
+T*
+(and Live Translation come to AirPods Max for the first time. The new AirPods Max also unlock) Tj
+T*
+(creative possibilities for podcasters, musicians, and content creators, with useful features) Tj
+T*
+(like studio-quality audio recording and camera remote. AirPods Max 2 will be available to order) Tj
+T*
+(starting March 25 in midnight, starlight, orange, purple, and blue, with availability beginning) Tj
+T*
+(early next month. Seemingly no change to the Smart Case for the Max, which I know some people) Tj
+T*
+(were hoping for. \(I only use AirPods Pro, not Max, but when I tested the original AirPods Max I) Tj
+T*
+(thought the case was fine.\) Here?s a link to Apple?s Compare page showing all the differences) Tj
+T*
+(between the Max 2 and original Max , with AirPods Pro 3 in the third slot. \( Archived for) Tj
+T*
+(posterity here .\) One neat new feature: the Max 2 will support using the Digital Crown button) Tj
+T*
+(as a remote camera shutter button for a paired iPhone or iPad. ?) Tj
+T*
+() Tj
+T*
+(7. The Loyalty Oath Crusade) Tj
+T*
+(Source: iDiallo.com | Published: Mon, 16 Mar 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/loyalty-oath-crusade-speak-up?src=feed) Tj
+T*
+(In chapter 11 of Catch-22 , two captains create a complex set of rules to ensure security in) Tj
+T*
+(the military. Among them are some absurd requirements just to get food in the mess hall.) Tj
+T*
+(Everyone knows the process is ridiculous, but they go along with it anyway. To enter the mess) Tj
+T*
+(hall, you have to recite the pledge of allegiance. To be served food, you have to recite it) Tj
+T*
+(twice. If you want salt, pepper, and ketchup, you have to sing the Star-Spangled Banner. Other) Tj
+T*
+(condiments require signing a loyalty oath. No one questions the process. Everyone follows along) Tj
+T*
+(because the person before them did. The group behind this keeps escalating the requirements in) Tj
+T*
+(their Loyalty Oath Crusade, but their goal has nothing to do with ensuring soldiers are loyal.) Tj
+T*
+(They are simply trying to punish a single person. This is delaying missions, creating) Tj
+T*
+(unnecessary process, and slowing down the entire war effort. So how does the Loyalty Oath) Tj
+T*
+(Crusade finally unravel? It takes one person speaking up. Major __ de Coverley walks in and) Tj
+T*
+(sees all the commotion. People signing loyalty oath cards, singing the national anthem for) Tj
+T*
+(ketchup, reciting the pledge of allegiance just to sit down. He started forward in a straig...) Tj
+T*
+() Tj
+T*
+(8. Windows stack limit checking retrospective: PowerPC) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 16 Mar 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260316-00/?p=112140) Tj
+T*
+(Doing the math backwards. The post Windows stack limit checking retrospective: PowerPC appeared) Tj
+T*
+(first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Pluralistic: Tools vs uses \(16 Mar 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 16 Mar 2026 13:53:43) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/03/16/whittle-a-webserver/) Tj
+T*
+(Today's links Tools vs uses: Don't fall for it. Hey look at this: Delights to delectate. Object) Tj
+T*
+(permanence: Amazon coders x Amazon warehouse workers; Bruces's ETECH speech; Steven King x) Tj
+T*
+(unions; Tax-free S&P 500 companies; Make Pop Rocks; "Ain't Misbehavin'"; "Car Hacker's) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3982 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Handbook"; Pirates in Iceland. Upcoming appearances: Where to find me. Recent appearances:) Tj
+T*
+(Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like) Tj
+T*
+(I said, I'll keep writin' 'em. Colophon: All the rest. Tools vs uses \(permalink\) When you think) Tj
+T*
+(of a legal loophole, you probably imagine a drafting error \(or perhaps a sneaky insertion\) that) Tj
+T*
+(creates an advantage for a specific person or group of people. For example: Trump's 2017 "Big) Tj
+T*
+(Beautiful Tax Cut" bill passed after its 479 pages were covered in hand-scrawled amendments and) Tj
+T*
+(additions, which were not read or reviewed by lawmakers prior to voting: https://www.usatoday.c) Tj
+T*
+(om/story/news/2017/12/02/handwriting-wall-and-page-senate-passes-tax-bill/915957001/ But one) Tj
+T*
+(change that was widely known was Senator Ron Johnson's last-minute amendment to create) Tj
+T*
+(deductions for "pass through entities." Johnson announced that he would block the...) Tj
+T*
+() Tj
+T*
+(10. Some updates to ActivityBot) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 16 Mar 2026 12:34:57 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/some-updates-to-activitybot/) Tj
+T*
+(I couple of years ago, I developed ActivityBot - the simplest way to build Mastodon Bots. It is) Tj
+T*
+(a single PHP file which can run an entire ActivityPub server and it is less than 80KB. It) Tj
+T*
+(works! You can follow @openbenches@bot.openbenches.org to see the latest entries on) Tj
+T*
+(OpenBenches.org, and @colours@colours.bots.edent.tel for a slice of colour in your day, and) Tj
+T*
+(@solar@solar.bots.edent.tel to see?) Tj
+T*
+() Tj
+T*
+(11. Polynomial Time Factoring Algorithm) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-03-16T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/03/16/polynomial-time-factoring.html) Tj
+T*
+(It?s just a matter of time before AI finds a polynomial time factoring algorithm. This isn?t) Tj
+T*
+(like SAT, I see no reason factoring should be hard . There?s algorithms that rely \(poorly\) on) Tj
+T*
+(the structure of the problem and we just need AI to see a little bit further into that) Tj
+T*
+(structure, this isn?t like SAT where the problem may not have any defined structure. I believe) Tj
+T*
+(something even stronger, that P = BQP. Aka everything that?s fast on a quantum computer is also) Tj
+T*
+(fast on a classical computer. Factoring is fast on a quantum computer, and I can?t believe that) Tj
+T*
+(some stupid combination of lasers and cold shit get you access to a different order of) Tj
+T*
+(computational complexity. Like if you make a computer out of rolling balls and levers, it?s not) Tj
+T*
+(any different complexity wise from the highest end silicon computers. So why would math) Tj
+T*
+(privilege this weird occult-like construction? The tagline of Scott Aaronson?s blog is ?If you) Tj
+T*
+(take nothing else from this blog: quantum computers won?t solve hard problems instantly by just) Tj
+T*
+(trying all solutions in parallel? it?s just some sampling thing where the amplitudes cancel) Tj
+T*
+(out. I bet there?s some classical trick to efficiently simulate that sampling. Regar...) Tj
+T*
+() Tj
+T*
+(12. The Trouble with the Segway) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/segway.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(13. Ramen Profitable) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/ramenprofitable.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(14. Maker's Schedule, Manager's Schedule) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/makersschedule.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. Food, Software, and Trade-offs) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 15 Mar 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/food-software-and-trade-offs/) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4221 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Greg Knauss has my attention with a food analogy in his article ?Lose Myself? : A Ding Dong) Tj
+T*
+(from a factory is not the same thing as a g‚teau au chocolat et crËme chantilly from a baker) Tj
+T*
+(which is not the same thing as cramming chunks of chocolate and scoops of whipped cream) Tj
+T*
+(directly into your mouth [...] The level of care, of personalization, of intimacy ? both given) Tj
+T*
+(and taken ? changes its nature. I love food and analogies, so let?s continue down that path.) Tj
+T*
+(Take these three items for example: A McDonald?s cherry pie A Marie Calendar?s cherry pie A) Tj
+T*
+(homemade Jim Nielsen cherry pie Which one of these is the best? I?m sure an immediate reaction) Tj
+T*
+(comes to mind. But wait, what do we mean by ?best?? Best in terms of convenience? Best in terms) Tj
+T*
+(of flavor? Best in terms of healthiness? Best in terms of how ingredients were sourced and) Tj
+T*
+(processed? Best in terms of price? Best in terms of? It?s all trade-offs. I don?t think we talk) Tj
+T*
+(about trade-offs enough, but they?re there. Always there. We might not know what they are yet) Tj
+T*
+(if we?re on the frontier, but we?re always trading one thing for another. ?McDonald?s cherry) Tj
+T*
+(pie is the best cherry pie ever.? That?s a hot take for social media. We wouldn?t...) Tj
+T*
+() Tj
+T*
+(16. The best Tech books) Tj
+T*
+(Source: Fabien Sanglard | Published: Thu, 17 Jan 2013 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/books_recommendations/index.php) Tj
+T*
+(To be a good Software Engineer can mean different things depending on what one is trying to) Tj
+T*
+(achieve. But if you are after any kind of performances, to use the best algorithms is not) Tj
+T*
+(enough: you must have a solid knowledge of the specific stack your program is relying on. . I) Tj
+T*
+(have gathered here the few books I consider to be masterpiece in order to master most stacks.) Tj
+T*
+(Two for each level. More...) Tj
+T*
+() Tj
+T*
+(17. Game timers: Issues and solutions) Tj
+T*
+(Source: Fabien Sanglard | Published: Tue, 25 Dec 2012 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/timer_and_framerate/index.php) Tj
+T*
+(When I started game programming I ran into an issue common to most aspiring game developers:) Tj
+T*
+(The naive infinite loop resulted in many problems \(among then difficulties to record a game) Tj
+T*
+(session properly\) that led the game design to feature convoluted and confusing "fixes" ./> />) Tj
+T*
+(Since I came up with a simple solution in my last engine \(SHMUP: An iOS / Android / MacOS X /) Tj
+T*
+(Windows Shoot'em Up\) I wanted to share it here:/> /> Maybe it will save a few hours to someone) Tj
+T*
+(:\) !/> /> . More...) Tj
+T*
+() Tj
+T*
+(18. Oculus RIFT development) Tj
+T*
+(Source: Fabien Sanglard | Published: Sat, 30 Jun 2012 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/vr_headset/index.php) Tj
+T*
+(Virtual Reality headsets have been consistently disappointing for several decades. Three) Tj
+T*
+(reasons come to mind in order to explain this state of things: The hardware is expensive: The) Tj
+T*
+(latest Sony HMZ-T1 is 799$. The hardware is not good enough: The motion sensor, screen latency) Tj
+T*
+(and screen limited Field of View are unable to provide a feeling of immersion. The software is) Tj
+T*
+(non-existent: No major studio has ever supported VR Headsets. But things are about to change) Tj
+T*
+(thanks to a device that is going to be released this month via kickstarter funding: the Oculus) Tj
+T*
+(rift. . More...) Tj
+T*
+() Tj
+T*
+(19. Why I Love FreeBSD) Tj
+T*
+(Source: IT Notes | Published: Mon, 16 Mar 2026 08:10:00 +0000) Tj
+T*
+(Link: https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/) Tj
+T*
+(A personal reflection on my first encounter with FreeBSD in 2002, how it shaped the way I) Tj
+T*
+(design and run systems, and why its philosophy, stability, and community still matter to me) Tj
+T*
+(more than twenty years later.) Tj
+T*
+() Tj
+T*
+(20. Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en) Tj
+T*
+(meer!) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 16 Mar 2026 20:40:09 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/updates-opentk-maart-2026/) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 2309 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Hallo allemaal, Vorige maand mailde ik over wat verbeteringen, waaronder dat als kamerstukken) Tj
+T*
+(verwijzen naar andere kamerstukken, OpenTK daar nu klikbare links van maakt. Hier is een boel) Tj
+T*
+(fanmail over binnengekomen. Het goede nieuws is dat deze feature nu nog wat uitgebreid is,) Tj
+T*
+(waardoor ook document- en zaaknummers \(2026D09757 of 2026Z04244\) klikbaar gemaakt zijn. Dit is) Tj
+T*
+(de web-versie van een bericht naar de OpenTK nieuwsbrief, schrijf je ook in als je op de hoogte) Tj
+T*
+(gehouden wilt worden van de nieuwste ontwikkelingen!) Tj
+T*
+() Tj
+T*
+(21. CSAM Regulation Update: Dutch Intelligence agency weighs in) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 01 Oct 2024 19:52:22 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/dutch-intel-service-csam-update/) Tj
+T*
+(A quick update - The European Commission and EU member states have been pondering, for years) Tj
+T*
+(now, if they should force WhatsApp/Apple/Signal/Telegram to scan all our private messages for) Tj
+T*
+(suspected child sexual abuse material \(CSAM\). For various reasons it is a horrendous idea to) Tj
+T*
+(break end to end encryption in this likely highly ineffective way. Variations of the proposal) Tj
+T*
+(have also included a mandate to perform such scanning of images using AI, and even to also read) Tj
+T*
+(our text messages to see if we aren?t ?grooming? children.) Tj
+T*
+() Tj
+T*
+(22. Alles voor de kinderen, maar doe dan wel het juiste) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 30 Sep 2024 08:55:39 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/alles-voor-de-kinderen-maar-dit/) Tj
+T*
+(De hele korte versie: Om kinderen zo goed mogelijk te beschermen zijn er veel dingen die we) Tj
+T*
+(onmiddellijk kunnen doen, zoals investeren in oplossen achterstanden bij de politie. Het is) Tj
+T*
+(juist niet behulpzaam nu de nieuwe EU CSAM-verordening te steunen, want die zal niet) Tj
+T*
+(daadwerkelijk helpen en voornamelijk meer afleiding veroorzaken. Wel creÎert dit voorstel) Tj
+T*
+(ondoordachte en permanente massa-surveillance van alle Europeanen door Amerikaanse ?big tech?) Tj
+T*
+(bedrijven, waarbij iedere foto die we op WhatsApp versturen getoetst wordt & kan leiden tot een) Tj
+T*
+(stille melding bij de politie.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004887 00000 n 
+0000005013 00000 n 
+0000009474 00000 n 
+0000009600 00000 n 
+0000013634 00000 n 
+0000013760 00000 n 
+0000018034 00000 n 
+0000018162 00000 n 
+0000020524 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20652
+%%EOF
