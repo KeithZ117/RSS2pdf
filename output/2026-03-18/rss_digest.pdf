@@ -1,0 +1,604 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4163 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-18 09:38:46) Tj
+T*
+() Tj
+T*
+(1. Quoting Ken Jin) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-17T21:48:26+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything) Tj
+T*
+(Great news?we?ve hit our \(very modest\) performance goals for the CPython JIT over a year early) Tj
+T*
+(for macOS AArch64, and a few months early for x86_64 Linux. The 3.15 alpha JIT is about 11-12%) Tj
+T*
+(faster on macOS AArch64 than the tail calling interpreter, and 5-6% faster than the standard) Tj
+T*
+(interpreter on x86_64 Linux. ? Ken Jin , Python 3.15?s JIT is now back on track Tags: python) Tj
+T*
+() Tj
+T*
+(2. GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-17T19:39:17+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything) Tj
+T*
+(OpenAI today: Introducing GPT?5.4 mini and nano . These models join GPT-5.4 which was released) Tj
+T*
+(two weeks ago . OpenAI's self-reported benchmarks show the new 5.4-nano out-performing their) Tj
+T*
+(previous GPT-5 mini model when run at maximum reasoning effort. The new mini is also 2x faster) Tj
+T*
+(than the previous mini. Here's how the pricing looks - all prices are per million tokens.) Tj
+T*
+(gpt-5.4-nano is notably even cheaper than Google's Gemini 3.1 Flash-Lite: Model Input Cached) Tj
+T*
+(input Output gpt-5.4 $2.50 $0.25 $15.00 gpt-5.4-mini $0.75 $0.075 $4.50 gpt-5.4-nano $0.20) Tj
+T*
+($0.02 $1.25 Other models for comparison Claude Opus 4.6 $5.00 - $25.00 Claude Sonnet 4.6 $3.00) Tj
+T*
+(- $15.00 Gemini 3.1 Pro $2.00 - $12.00 Claude Haiku 4.5 $1.00 - $5.00 Gemini 3.1 Flash-Lite) Tj
+T*
+($0.25 - $1.50 I used GPT-5.4 nano to generate a description of this photo I took at the John M.) Tj
+T*
+(Mossman Lock Collection : llm -m gpt-5.4-nano -a IMG_2324.jpeg 'describe image' Here's the) Tj
+T*
+(output: The image shows the interior of a museum gallery with a long display wall.) Tj
+T*
+(White-painted brick walls are covered with many framed portraits arranged in neat rows. Below) Tj
+T*
+(the portraits, there are multiple glass display cases with dark wooden frames and glass top...) Tj
+T*
+() Tj
+T*
+(3. Quoting Tim Schilling) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-17T16:13:37+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything) Tj
+T*
+(If you do not understand the ticket, if you do not understand the solution, or if you do not) Tj
+T*
+(understand the feedback on your PR, then your use of LLM is hurting Django as a whole. [...]) Tj
+T*
+(For a reviewer, it?s demoralizing to communicate with a facade of a human. This is because) Tj
+T*
+(contributing to open source, especially Django, is a communal endeavor. Removing your humanity) Tj
+T*
+(from that experience makes that endeavor more difficult. If you use an LLM to contribute to) Tj
+T*
+(Django, it needs to be as a complementary tool, not as your vehicle. ? Tim Schilling , Give) Tj
+T*
+(Django your time and money, not your tokens Tags: ai-ethics , open-source , generative-ai , ai) Tj
+T*
+(, django , llms) Tj
+T*
+() Tj
+T*
+(4. ? Squashing) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-17T23:47:47Z) Tj
+T*
+(Link: https://daringfireball.net/2026/03/squashing) Tj
+T*
+(CNBC?s headline is journalistic malpractice. The rest of their report is even worse.) Tj
+T*
+() Tj
+T*
+(5. Fox Sports to Broadcast U.S.-Venezuela World Baseball Classic Final in Immersive 3D ?) Tj
+T*
+(But Not on Vision Pro) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-17T19:26:12Z) Tj
+T*
+(Link: https://x.com/mlbonfox/status/2033902946174271992?s=46) Tj
+T*
+(Fox Sports, on Twitter/X: Tonight, watch the WBC Final in a full immersive experience on the) Tj
+T*
+(Fox Sports XR app for the Galaxy XR headset powered by Android XR! The Fox Sports app in the) Tj
+T*
+(App Store is native only on iOS \(iPhone and iPad\), Apple TV, and Apple Watch. So, unless I?m) Tj
+T*
+(missing something, not only are they not streaming it immersively on VisionOS, they don?t even) Tj
+T*
+(have a native VisionOS app. ?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4231 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(6. Samsung Discontinues Its Galaxy Z TriFold After Just Three Months) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-17T13:49:53Z) Tj
+T*
+(Link: https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out) Tj
+T*
+(Jess Weatherbed, The Verge: Samsung is preparing to axe its first three-panel foldable phone) Tj
+T*
+(less than three months after launching the device in the US. Sales of the $2,899 Galaxy Z) Tj
+T*
+(TriFold will first be wound down in Korea and then discontinued in the US once remaining) Tj
+T*
+(inventory has been cleared, an unnamed Samsung spokesperson told Bloomberg . Maybe five blades) Tj
+T*
+(on a razor is too many? ?) Tj
+T*
+() Tj
+T*
+(7. Windows stack limit checking retrospective: x86-32 also known as i386, second try) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 17 Mar 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144) Tj
+T*
+(Appeasing the invisible return address predictor. The post Windows stack limit checking) Tj
+T*
+(retrospective: x86-32 also known as i386, second try appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. My homelab will be down for at least 20 days) Tj
+T*
+(Source: Xe Iaso's blog | Published: Tue, 17 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/notes/2026/homelab-is-down/) Tj
+T*
+(Dang, guess I have to suffer.) Tj
+T*
+() Tj
+T*
+(9. Powers don?t clear fractions) Tj
+T*
+(Source: John D. Cook | Published: Tue, 17 Mar 2026 13:26:13 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/17/powers-dont-clear-fractions/) Tj
+T*
+(If a number has a finite but nonzero fractional part, so do all its powers. I recently ran) Tj
+T*
+(across a proof in [1] that is shorter than I expected. Theorem: Suppose r is a real number that) Tj
+T*
+(is not an integer, and the decimal part of r terminates. Then rk is not an integer for any) Tj
+T*
+(positive integer [?] The post Powers don?t clear fractions first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Tone row operations) Tj
+T*
+(Source: John D. Cook | Published: Tue, 17 Mar 2026 13:22:39 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/17/tone-row-operations/) Tj
+T*
+(The previous post introduced the idea of a twelve-tone row, a permutation of the twelve pitch) Tj
+T*
+(classes of a chromatic scale. The earlier post also introduced a group of operations on a tone) Tj
+T*
+(row with elements P, R, I, and RI. Here P, which stands for ?prime?, is the identity operator:) Tj
+T*
+(it leaves the tone [?] The post Tone row operations first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Pluralistic: William Gibson vs Margaret Thatcher \(17 Mar 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 17 Mar 2026 15:07:57) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/03/17/technopolitics/) Tj
+T*
+(Today's links William Gibson vs Margaret Thatcher: The Street Finds Its Own Alternatives For) Tj
+T*
+(Things. Hey look at this: Delights to delectate. Object permanence: Prison for spamming; Dotcom) Tj
+T*
+(layoffs; Ethernet action-figures; UK libel reform; "Poe's Detective"; God's customer service) Tj
+T*
+(center; "Making Hay"; Alexa privacy Valdez. Upcoming appearances: Where to find me. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. William Gibson vs) Tj
+T*
+(Margaret Thatcher \(permalink\) William Gibson is one of history's most quotable sf writers: "The) Tj
+T*
+(future is here, it's not evenly distributed"; "Don't let the little fuckers generation-gap) Tj
+T*
+(you"; "Cyberspace is everting"; and the immortal: "The street finds its own uses for things":) Tj
+T*
+(https://en.wikiquote.org/wiki/William_Gibson "The street finds its own uses" is a surprisingly) Tj
+T*
+(subtle and liberatory battle-cry. It stakes a claim by technology's users that is separate from) Tj
+T*
+(the claims asserted by corporations that make technology \(often under grotesque and cruel) Tj
+T*
+(conditions\) and market it \(often for grotesque and cruel purposes\). "The street fi...) Tj
+T*
+() Tj
+T*
+(12. Why Are We Still Doing This?) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3586 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 17 Mar 2026 16:36:40 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/why-are-we-still-doing-this/) Tj
+T*
+(Hi! If you like this piece and want to support my work, please subscribe to my premium) Tj
+T*
+(newsletter. It?s $70 a year, or $7 a month, and in return you get a weekly newsletter that?s) Tj
+T*
+(usually anywhere from 5000 to 185,000 words, including vast, extremely) Tj
+T*
+() Tj
+T*
+(13. Esqueleto Tutorial) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 17 Mar 2026 00:00:00 +0100) Tj
+T*
+(Link: https://entropicthoughts.com/esqueleto-tutorial) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(14. A Local Revolution?) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/revolution.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. Why Twitter is a Big Deal) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/twitter.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. The Founder Visa) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/foundervisa.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(17. You Might Debate It ? If You Could See It) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Tue, 17 Mar 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/) Tj
+T*
+(Imagine I?m the design leader at your org and I present the following guidelines I want us to) Tj
+T*
+(adopt as a team for doing design work: Typography: Use expressive, purposeful fonts and avoid) Tj
+T*
+(default stacks \(Inter, Roboto, Arial, system\). Motion: Use a few meaningful animations) Tj
+T*
+(\(page-load, staggered reveals\) instead of generic micro-motions. Background: Don't rely on) Tj
+T*
+(flat, single-color backgrounds; use gradients, shapes, or subtle patterns to build atmosphere.) Tj
+T*
+(Overall: Avoid boilerplate layouts and interchangeable UI patterns. Vary themes, type families,) Tj
+T*
+(and visual languages. How do you think that conversation would go? I can easily imagine a) Tj
+T*
+(spirited debate where some folks disagree with any or all of my points, arguing that they) Tj
+T*
+(should be struck as guidelines from our collective ethos of craft. Perhaps some are boring, or) Tj
+T*
+(too opinionated, or too reliant on trends. There are lots of valid, defensible reasons. I can) Tj
+T*
+(easily see this discussion being an exercise in frustration, where we debate for hours and get) Tj
+T*
+(nowhere ? ?I suppose we can all agree to disagree?. And yet ? thanks to a link to Codex?s) Tj
+T*
+(front-end tool guidelines in Simon Willison?s article about how coding agents work ? I s...) Tj
+T*
+() Tj
+T*
+(18. Quake 3Source Code Review) Tj
+T*
+(Source: Fabien Sanglard | Published: Sat, 30 Jun 2012 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/quake3/index.php) Tj
+T*
+(Since I had one week before my next contract I decided to finish my "cycle of id". After Doom,) Tj
+T*
+(Doom Iphone, Quake1, Quake2, Wolfenstein iPhone and Doom3 I decided to read the last codebase I) Tj
+T*
+(did not review yet: idTech3 the 3D engine that powers Quake III and Quake Live. . More...) Tj
+T*
+() Tj
+T*
+(19. Doom3 Source Code Review) Tj
+T*
+(Source: Fabien Sanglard | Published: Fri, 08 Jun 2012 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/doom3/index.php) Tj
+T*
+(On November 23, 2011 id Software maintained the tradition and released the source code of their) Tj
+T*
+(previous engine. This time is was the turn of idTech4 which powered Prey, Quake 4 and of course) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4276 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Doom 3. Within hours the GitHub repository was forked more than 400 times and people started to) Tj
+T*
+(look at the game internal mechanisms/port the engine on other platforms. I also jumped on it) Tj
+T*
+(and promptly completed the Mac OS X Intel version which John Carmack kindly advertised. In) Tj
+T*
+(terms of clarity and comments this is the best code release from id Software after Doom iPhone) Tj
+T*
+(codebase \(which is more recent and hence better commented\). I highly recommend everybody to) Tj
+T*
+(read, build and experiment with it. Here are my notes regarding what I understood. As usual I) Tj
+T*
+(have cleaned them up: I hope it will save someone a few hours and I also hope it will motivate) Tj
+T*
+(some of us to read more code and become better programmers.) Tj
+T*
+() Tj
+T*
+(20. Cracking Kevin Mitnick's Ghost In Tthe Wires Paperback Edition) Tj
+T*
+(Source: Fabien Sanglard | Published: Wed, 09 May 2012 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/Ghost_in_the_Wires_Paperback/index.php) Tj
+T*
+(I received yesterday a copy of Ghost In The Wire Paperback edition. Kevin Mitnick seems to have) Tj
+T*
+(updated all of the challenges found at the beginning of each chapters. Since they are all) Tj
+T*
+(available on book.google.com preview I don't think it is a big deal to publish and discuss our) Tj
+T*
+(solutions here. . More...) Tj
+T*
+() Tj
+T*
+(21. Hedley Davis has died) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-03-16T22:20:00.000-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html) Tj
+T*
+(A more obscure Commodore employee \(where he apparently met his wife\), but still quite) Tj
+T*
+(influential during the Amiga era. Along with more pedestrian units such as the Amiga 3000 and) Tj
+T*
+(the monochrome Amiga 2024 monitor, my favourite device he worked on was the 1987 prototype) Tj
+T*
+(SX-500 . That's exactly what it sounds like: an Amiga 500 crammed into a portable SX-64 case,) Tj
+T*
+(even keeping the same 5" colour screen and basic keyboard layout. The picture here is a bad) Tj
+T*
+(scan of a bad film picture I took at VCF 5.0 and I need to figure out where those original) Tj
+T*
+(photos went. Dale Luck has this unit and hopefully it still works, but neither Thomas Rattigan) Tj
+T*
+(nor Irving Gould would have ever released an adventurous product like this, and perhaps it was) Tj
+T*
+(just as well. Later he worked on the Xbox and, my favourite console of its generation, the Xbox) Tj
+T*
+(360 \(PowerPC for the win\), on which my wife is slowly learning to play Portal and getting) Tj
+T*
+(abused by GLaDOS on a regular basis, and in retirement taught at the University of Delaware. He) Tj
+T*
+(passed away last week at the age of 68 . Rest in peace.) Tj
+T*
+() Tj
+T*
+(22. Your Startup Is Probably Dead On Arrival) Tj
+T*
+(Source: Steve Blank | Published: Tue, 17 Mar 2026 13:00:30 +0000) Tj
+T*
+(Link: https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/) Tj
+T*
+(Your Startup Is Probably Dead On Arrival If you started a company more than two years ago, it?s) Tj
+T*
+(likely that many of your assumptions are no longer true. You need to stop coding, building,) Tj
+T*
+(recruiting, fund raising, etc., and take stock of what changed around you. Or your company will) Tj
+T*
+(die. I just had coffee [?]) Tj
+T*
+() Tj
+T*
+(23. Weekly Update 495) Tj
+T*
+(Source: Troy Hunt | Published: Tue, 17 Mar 2026 02:55:31 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-495/) Tj
+T*
+(In the beginning, it was simple. A website, a database and 150M+ email addresses to search.) Tj
+T*
+(Time has added serverless functions \(which run on servers ????\), code on the edge, new data) Tj
+T*
+(storage constructs and a completely different mechanism for even just querying a simple email) Tj
+T*
+(address.) Tj
+T*
+() Tj
+T*
+(24. Using agents and Wine to move off Windows) Tj
+T*
+(Source: Martin Alderson | Published: Tue, 17 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/using-agents-and-wine-to-move-off-windows/?utm_source=rs) Tj
+T*
+(s&utm_medium=rss&utm_campaign=feed) Tj
+T*
+(How I used Claude Code to fix Linux desktop issues, get 'garbage'-rated Windows apps working in) Tj
+T*
+(Wine, and what it means for software ecosystems) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 2653 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(25. Help I'm being persecuted) Tj
+T*
+(Source: Experimental History | Published: Tue, 17 Mar 2026 13:33:13 GMT) Tj
+T*
+(Link: https://www.experimental-history.com/p/help-im-being-persecuted) Tj
+T*
+(OR: rubberneckers anonymous) Tj
+T*
+() Tj
+T*
+(26. Brief positie regering over de CSAM-verordening) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 17 Sep 2024 18:10:09 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/brief-csam/) Tj
+T*
+(De brief is ook beschikbaar als PDF. Prof. Dr. Frederik J. Zuiderveen Borgesius legt terloops) Tj
+T*
+(in zijn brief uit waarom het voorliggende voorstel juridisch onhoudbaar is. Verder schreef ook) Tj
+T*
+(ISOC NL een brief. En dan is er nog de brief van Prof. dr. J.-H. Hoepman. Hier de brief van) Tj
+T*
+(Bits of Freedom, Amnesty International, Cyberveilig Nederland en NLdigital. En afsluitend, de) Tj
+T*
+(brief van HET expertisecentrum op dit gebied, Offlimits. Alle brieven zien het niet zitten.) Tj
+T*
+() Tj
+T*
+(27. The gigantic and unregulated power plants in the cloud) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 19 Aug 2024 12:30:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/) Tj
+T*
+(Recently a Dutch hacker was able to take control of 4 million solar panel installations \(FTM) Tj
+T*
+(\(Dutch\), Euractiv, Victor Gevers\). And this wasn?t the first time something like this has) Tj
+T*
+(happened either \(PV Magazine\). As usual, huge thanks are due to the many beta readers and) Tj
+T*
+(experts who helped improve this article with their feedback, valuable insights and knowledge!) Tj
+T*
+(This post was machine translated \(not too well\) from the original Dutch version, which was also) Tj
+T*
+(more focused on The Netherlands.) Tj
+T*
+() Tj
+T*
+(28. De gigantische en ongereguleerde elektriciteitscentrales in de cloud) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 18 Aug 2024 12:30:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/de-gigantische-en-ongereguleerde-elektriciteitscentrale) Tj
+T*
+(s-in-de-cloud/) Tj
+T*
+(There is now also an English version of this page with more EU relevance! Media: BNR, TenneT) Tj
+T*
+(wil regels zien voor apps voor zonnepanelen en waarschuwt voor black-outs. Recent weer in het) Tj
+T*
+(nieuws, een Nederlandse hacker kon 4 miljoen zonnepaneelsystemen overnemen \(FTM, Euractiv\). En) Tj
+T*
+(dit was niet de eerste keer dat zoiets gebeurde. Zoals gebruikelijk weer veel dank voor de) Tj
+T*
+(proeflezers en experts die mee hebben gedacht over dit artikel & zeer waardevolle bijdragen en) Tj
+T*
+(kennis geleverd hebben!) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004432 00000 n 
+0000004558 00000 n 
+0000008841 00000 n 
+0000008967 00000 n 
+0000012605 00000 n 
+0000012731 00000 n 
+0000017060 00000 n 
+0000017188 00000 n 
+0000019894 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20022
+%%EOF
