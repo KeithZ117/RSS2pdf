@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-03-19T09:39:04",
+  "entry_count": 23,
+  "error_count": 8,
+  "errors": [
+    "[network] https://lcamtuf.substack.com/feed -> HTTP Error 403: Forbidden",
+    "[xml] https://daringfireball.net/feeds/main -> unclosed CDATA section: line 1958, column 43",
+    "[network] https://garymarcus.substack.com/feed -> HTTP Error 403: Forbidden",
+    "[xml] https://dfarq.homeip.net/feed/ -> not well-formed (invalid token): line 1, column 0",
+    "[network] https://gwern.substack.com/feed -> HTTP Error 403: Forbidden",
+    "[network] https://worksonmymachine.substack.com/feed -> HTTP Error 403: Forbidden",
+    "[network] https://rachelbythebay.com/w/atom.xml -> <urlopen error [Errno 101] Network is unreachable>",
+    "[network] https://www.tedunangst.com/flak/rss -> <urlopen error timed out>"
+  ]
+}

@@ -1,0 +1,594 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4718 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-19 09:39:04) Tj
+T*
+() Tj
+T*
+(1. Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-18T23:56:46+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything) Tj
+T*
+(Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally Here's a fascinating piece of) Tj
+T*
+(research by Dan Woods, who managed to get a custom version of Qwen3.5-397B-A17B running at 5.5+) Tj
+T*
+(tokens/second on a 48GB MacBook Pro M3 Max despite that model taking up 209GB \(120GB quantized\)) Tj
+T*
+(on disk. Qwen3.5-397B-A17B is a Mixture-of-Experts \(MoE\) model, which means that each token) Tj
+T*
+(only needs to run against a subset of the overall model weights. These expert weights can be) Tj
+T*
+(streamed into memory from SSD, saving them from all needing to be held in RAM at the same time.) Tj
+T*
+(Dan used techniques described in Apple's 2023 paper LLM in a flash: Efficient Large Language) Tj
+T*
+(Model Inference with Limited Memory : This paper tackles the challenge of efficiently running) Tj
+T*
+(LLMs that exceed the available DRAM capacity by storing the model parameters in flash memory,) Tj
+T*
+(but bringing them on demand to DRAM. Our method involves constructing an inference cost model) Tj
+T*
+(that takes into account the characteristics of flash memory, guiding us to optimize in two) Tj
+T*
+(critical areas: reducing the volume of data transferred from flash and reading data in larger,) Tj
+T*
+(more contiguous chunks. He fed the paper to Claude Code and used a va...) Tj
+T*
+() Tj
+T*
+(2. Snowflake Cortex AI Escapes Sandbox and Executes Malware) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-18T17:43:49+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything) Tj
+T*
+(Snowflake Cortex AI Escapes Sandbox and Executes Malware PromptArmor report on a prompt) Tj
+T*
+(injection attack chain in Snowflake's Cortex Agent , now fixed. The attack started when a) Tj
+T*
+(Cortex user asked the agent to review a GitHub repository that had a prompt injection attack) Tj
+T*
+(hidden at the bottom of the README. The attack caused the agent to execute this code: cat) Tj
+T*
+(Cortex listed cat commands as safe to run without human approval, without protecting against) Tj
+T*
+(this form of process substitution that can occur in the body of the command. I've seen) Tj
+T*
+(allow-lists against command patterns like this in a bunch of different agent tools and I don't) Tj
+T*
+(trust them at all - they feel inherently unreliable to me. I'd rather treat agent commands as) Tj
+T*
+(if they could do anything that process itself is allowed to do, hence my interest in) Tj
+T*
+(deterministic sandboxes that operate outside of the layer of the agent itself. Via Hacker News) Tj
+T*
+(Tags: sandboxing , security , ai , prompt-injection , generative-ai , llms) Tj
+T*
+() Tj
+T*
+(3. Subagents) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-17T12:32:28+00:00) Tj
+T*
+(Link: https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything) Tj
+T*
+(Agentic Engineering Patterns > LLMs are restricted by their context limit - how many tokens) Tj
+T*
+(they can fit in their working memory at any given time. These values have not increased much) Tj
+T*
+(over the past two years even as the LLMs themselves have seen dramatic improvements in their) Tj
+T*
+(abilities - they generally top out at around 1,000,000, and benchmarks frequently report better) Tj
+T*
+(quality results below 200,000. Carefully managing the context such that it fits within those) Tj
+T*
+(limits is critical to getting great results out of a model. Subagents provide a simple but) Tj
+T*
+(effective way to handle larger tasks without burning through too much of the coding agent?s) Tj
+T*
+(valuable top-level context. When a coding agent uses a subagent it effectively dispatches a) Tj
+T*
+(fresh copy of itself to achieve a specified goal, with a new context window that starts with a) Tj
+T*
+(fresh prompt. Claude Code?s Explore subagent Claude Code uses subagents extensively as part of) Tj
+T*
+(its standard way of working. Let's use that as an illustrative example. Any time you start a) Tj
+T*
+(new task against an existing repo Claude Code first needs to explore that repo to figure out) Tj
+T*
+(its general shape and find relevant information needed to achieve that task. It d...) Tj
+T*
+() Tj
+T*
+(4. Windows stack limit checking retrospective: Alpha AXP) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 18 Mar 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260318-00/?p=112146) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4586 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Double the size, double the fun. The post Windows stack limit checking retrospective: Alpha AXP) Tj
+T*
+(appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(5. LLMs predict my coffee) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-03-18T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/coffee/) Tj
+T*
+(Coding, math, whatever. Can LLMs predict the outcomes of physical experiments? Suppose I pour 8) Tj
+T*
+(oz \(226.8 g\) of boiling water into a ceramic coffee mug that weighs 1.25 lb \(0.57 kg\). The) Tj
+T*
+(ambient air is still and 20 degrees Celsius. The cup starts at room temperature. Give me an) Tj
+T*
+(equation for the temperature of the water in Celsius over time. The only free variable in the) Tj
+T*
+(equation should be the number of seconds t since the water was poured. Focus on accuracy during) Tj
+T*
+(the first 5 minutes. Does that seem hard? I think it?s hard. The relevant physical phenomena) Tj
+T*
+(include at least: Conduction of heat between the water, the mug, the air, and the table.) Tj
+T*
+(Conduction of heat inside each of those things. Convection \(fluid movement\) inside the water) Tj
+T*
+(and the air. Evaporation cooling as water molecules become vapor. Movement of water vapor in) Tj
+T*
+(the air. Radiation. \(Like all matter, the mug and water emit temperature-dependent infrared) Tj
+T*
+(radiation.\) Surface tension, thermal expansion/contraction, re-absorption of air into the water) Tj
+T*
+(as it cools, probably more. And many details aren?t specified in the prompt. Is the mug made of) Tj
+T*
+(porcelain or stoneware? What is the mug?s shape? What is the table made of? Ho...) Tj
+T*
+() Tj
+T*
+(6. Communication Is Surveillance by Design) Tj
+T*
+(Source: iDiallo.com | Published: Wed, 18 Mar 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed) Tj
+T*
+(In the very last scene of The Bourne Supremacy , Jason Bourne calls the CIA from what they) Tj
+T*
+(presume is a public phone. Landy, who answers the call, instructs her team to trace it. Bourne) Tj
+T*
+(says he wants to come in and asks for someone specific to meet with him. Landy stalls for time) Tj
+T*
+(while her team tries to triangulate his exact location, so she asks how she can find the person) Tj
+T*
+(he's referring to. That's when Bourne drops his famous line: "It's easy. She's standing right) Tj
+T*
+(next to you." revealing that he's right in their vicinity. He hangs up seconds before the team) Tj
+T*
+(could have located him. That's one badass ending. \(??-?\) It's not the only film where the) Tj
+T*
+(protagonist, or antagonist, is clever enough to know exactly when to hang up before being) Tj
+T*
+(pinpointed. There seems to be this universal piece of software that all law enforcement) Tj
+T*
+(agencies use to triangulate calls in movies. It's some application built in the '90s, operating) Tj
+T*
+(at modem speed, that just needs a little more time. A countdown clock. Tense music. Cut to) Tj
+T*
+(black. What is that software actually doing? "Triangulate" implies three points, maybe three) Tj
+T*
+(cell towers sending a ping and measuring the response time from each, then using the...) Tj
+T*
+() Tj
+T*
+(7. A lesser-known characterization of the gamma function) Tj
+T*
+(Source: John D. Cook | Published: Thu, 19 Mar 2026 01:21:53 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/18/a-lesser-known-characterization-of-the-gamma-fu) Tj
+T*
+(nction/) Tj
+T*
+(The gamma function ?\(z\) extends the factorial function from integers to complex numbers.) Tj
+T*
+(\(Technically, ?\(z + 1\) extends factorial.\) There are other ways to extend the factorial) Tj
+T*
+(function, so what makes the gamma function the right choice? The most common answer is the) Tj
+T*
+(Bohr-Mollerup theorem. This theorem says that if f: \(0, ?\) ? \(0, [?] The post A lesser-known) Tj
+T*
+(characterization of the gamma function first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(8. Tighter bounds on alternating series remainder) Tj
+T*
+(Source: John D. Cook | Published: Wed, 18 Mar 2026 02:50:12 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/17/alternating-series-remainder/) Tj
+T*
+(The alternating series test is part of the standard calculus curriculum. It says that if you) Tj
+T*
+(truncate an alternating series, the remainder is bounded by the first term that was left out.) Tj
+T*
+(This fact goes by in a blur for most students, but it becomes useful later if you need to do) Tj
+T*
+(numerical computing. To [?] The post Tighter bounds on alternating series remainder first) Tj
+T*
+(appeared on John D. Cook .) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3484 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(9. Homelab downtime update: The fight for DNS supremacy) Tj
+T*
+(Source: Xe Iaso's blog | Published: Wed, 18 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/notes/2026/dns-fight/) Tj
+T*
+(Turns out everything DID NOT go offline somehow. Yay!) Tj
+T*
+() Tj
+T*
+(10. Finding the right Bottom Hole paper) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 18 Mar 2026 12:34:37 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/) Tj
+T*
+(On the 6th of January 1995, viewers of BBC Two were treated to a new series of Waiting for) Tj
+T*
+(Godot Bottom. Stuck at the top of a Ferris wheel, Vyvyan and the People's Poet Eddie and) Tj
+T*
+(Ritchie wait to see what the cruel hand of fate has dealt them in this week's episode "Hole".) Tj
+T*
+(At one point, Captain Edrison Peavey Edward Elizabeth Hitler pulls out a newspaper to read. It) Tj
+T*
+(may surprise you to know?) Tj
+T*
+() Tj
+T*
+(11. Git Remote Helpers) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-18T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/18/git-remote-helpers.html) Tj
+T*
+(Bastien Guerry from Software Heritage recently nerd-sniped me with an idea for a git-remote-swh) Tj
+T*
+(that would let you git clone from a SWHID , pulling source code directly from Software) Tj
+T*
+(Heritage?s archive by content hash rather than by URL. Building that means writing a git remote) Tj
+T*
+(helper, which sent me back to the gitremote-helpers docs and down the rabbit hole of how many) Tj
+T*
+(of these things already exist. I covered remote helpers briefly in my earlier post on extending) Tj
+T*
+(git functionality , but the protocol deserves a closer look. A git-remote-swh would need to be) Tj
+T*
+(an executable on your $PATH so that git invokes it when it sees a URL like swh:// . The helper) Tj
+T*
+(and git talk over stdin/stdout using a text-based line protocol. For git-remote-swh the end) Tj
+T*
+(goal would be something like: git clone swh://swh:1:rev:676fe44740a14c4f0e09ef4a6dc335864e1727c) Tj
+T*
+(a;origin=https://github.com/wikimedia/mediawiki Or using the double-colon form, which reads a) Tj
+T*
+(bit cleaner when adding a remote: git remote add archive swh::swh:1:rev:676fe44740a14c4f0e09ef4) Tj
+T*
+(a6dc335864e1727ca;origin=https://github.com/wikimedia/mediawiki The SWHID identifies a specific) Tj
+T*
+(revision by content hash, and the origin qualifier tells the helper...) Tj
+T*
+() Tj
+T*
+(12. Marc Andreessen is wrong about introspection) Tj
+T*
+(Source: Westenberg. | Published: Wed, 18 Mar 2026 06:53:51 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/) Tj
+T*
+(This newsletter is free to read, and it?ll stay that way. But if you want more - extra posts) Tj
+T*
+(each month, access to the community, and a direct line to ask me things - paid subscriptions) Tj
+T*
+(are $2.50/month. A lot of people have told me it&) Tj
+T*
+() Tj
+T*
+(13. Five Founders) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/5founders.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(14. Relentlessly Resourceful) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/relres.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. How to Be an Angel Investor) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/angelinvesting.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. Wander the Small Web) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4395 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Susam Pal | Published: Wed, 18 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/wander/) Tj
+T*
+(I have put together a small tool to explore the small web of personal websites. It is called) Tj
+T*
+(Wander . Please visit susam.net/wander/ to try out my Wander console. There are only a few) Tj
+T*
+(pages in it right now, so you cannot use it to browse the small web endlessly yet. It is just a) Tj
+T*
+(beginning and I hope it grows. If you like this idea and want more websites to explore, you can) Tj
+T*
+(set up your own Wander console so that I can link to it from mine. That is how the Wander) Tj
+T*
+(network grows. Please take a look at susam.net/wander/ and let me know what you think. If you) Tj
+T*
+(have your own website, please consider joining this community by hosting your own Wander) Tj
+T*
+(console. To do so, visit codeberg.org/susam/wander and follow the instructions there. Thank) Tj
+T*
+(you! Read on website | #web | #technology) Tj
+T*
+() Tj
+T*
+(17. Wander 0.1.0) Tj
+T*
+(Source: Susam Pal | Published: Wed, 18 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/code/news/wander/0.1.0.html) Tj
+T*
+(Wander 0.1.0 is the first release of Wander, a small, decentralised, self-hosted web console) Tj
+T*
+(that lets visitors to your website explore random pages from a community of personal websites.) Tj
+T*
+(Any person with a personal website can take this tool and host an instance of Wander console.) Tj
+T*
+(Each Wander console loads personal websites and pages recommended by the Wander community.) Tj
+T*
+(Further, each Wander console can link to other Wander consoles, forming a lightweight,) Tj
+T*
+(decentralised network for browsing the small web of personal websites. Setting up an instance) Tj
+T*
+(of Wander console involves copying just two static files from the Wander project at) Tj
+T*
+(codeberg.org/susam/wander . The most interesting aspect of the Wander console is that discovery) Tj
+T*
+(of new links from other consoles happens happens on the client-side, on the user's web browser.) Tj
+T*
+(As a website owner, you do not need to set up any server-side components beyond a basic web) Tj
+T*
+(server. In fact, you can host a Wander console on GitHub Pages or Codeberg Pages too. To learn) Tj
+T*
+(more about Wander, how it works and how to set it up, please read the project README at) Tj
+T*
+(codeberg.org/susam/wander . Read on website | #web | #technology) Tj
+T*
+() Tj
+T*
+(18. Be A Donor) Tj
+T*
+(Source: Fabien Sanglard | Published: Sun, 22 Apr 2012 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/gift_of_life/index.php) Tj
+T*
+(This is probably the proudest moment of my Computer Science career so far: On April 17th, 2012) Tj
+T*
+(the Government of Ontario released the Mobile Website I designed and implemented for the major) Tj
+T*
+(part of 2011. Beadonor.ca allows you reinforce your decision to be an organ donor. I feel) Tj
+T*
+(honored and privileged to have been able to contribute to such a noble cause. Many people are) Tj
+T*
+(unaware of it but to become an organ donor is all about making sure your relatives will follow) Tj
+T*
+(your decision when we are gone. An organ donor card...and actually any piece of paper that you) Tj
+T*
+(may generate or sign while your are alive is NOT enough to allow organ donation. Your relative) Tj
+T*
+(will have the last word: Even if you have an organ donor card it is important to also register) Tj
+T*
+(online in order to help your family know what your views were in this regard. Hopefully with) Tj
+T*
+(this additional testimony more lives will be saved: Words can hardly express how happy I am to) Tj
+T*
+(be a little gear in this beautiful machine. . More...) Tj
+T*
+() Tj
+T*
+(19. SSD reboot your thinking) Tj
+T*
+(Source: Fabien Sanglard | Published: Sat, 17 Mar 2012 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/ssd/index.php) Tj
+T*
+(How SDD drives took my breath away...) Tj
+T*
+() Tj
+T*
+(20. Android Shmup) Tj
+T*
+(Source: Fabien Sanglard | Published: Thu, 23 Feb 2012 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/shmup_android/index.php) Tj
+T*
+(Six months ago I released the source code of "SHMUP": a modest indie 3D shoot'em up designed) Tj
+T*
+(for iOS. Since it did honorably on the Apple Appstore I offered anyone to port it to Android) Tj
+T*
+(Appmarket for a 50/50 revenues split. Two developers consecutively took on the challenge only) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 2384 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(to give up a few weeks later. So I downloaded the Native Development Kit from Google and I did) Tj
+T*
+(it myself. I completed the port this weekend and even released a free version. The codebase) Tj
+T*
+(runs on Windows, iOS, MacOS X and Android in one click. Here it is. . More...) Tj
+T*
+() Tj
+T*
+(21. Nuclear power: no, yes, maybe, but not like this) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 10 Aug 2024 10:33:22 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/nuclear-no-yes-maybe-but-not-like-this/) Tj
+T*
+(This is a story in three acts, where we go from ?trying to procure more nuclear power plants in) Tj
+T*
+(2024 is nuts?, to ?I could see why you?d want some nuclear?, to ?but if so, not like this?.) Tj
+T*
+(This post has been quite a trip to write, where I rediscovered that writing something down is) Tj
+T*
+(an ACE way to find out you didn?t know what you were talking about. It was also a good exercise) Tj
+T*
+(in changing my mind a few times.) Tj
+T*
+() Tj
+T*
+(22. Gaia-X is a distraction which should be abandoned) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 25 Jul 2024 12:50:43 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/gaia-x-is-an-expensive-distraction/) Tj
+T*
+(It pains me that I have to write this, but Gaia-X is a harmful and expensive distraction, and) Tj
+T*
+(it is not doing anything that will ever get us a ?European cloud?, not even indirectly. Its) Tj
+T*
+(very existence is holding back progress. For this reason, Gaia-X should be abandoned, and we) Tj
+T*
+(should try to learn as much as possible from its failure, so we can try something else. I) Tj
+T*
+(provide some inspiration at the end of this post.) Tj
+T*
+() Tj
+T*
+(23. Hoe soeverein wil je zijn?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 15 Jul 2024 18:00:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/hoe-soeverein-wil-je-zijn/) Tj
+T*
+(Dit artikel is eerder ook verschenen in het tijdschrift iBestuur Soeverein is een duur woord,) Tj
+T*
+(en het klinkt lekker. Iedereen zou het graag willen zijn, maar zoiets komt met kosten en) Tj
+T*
+(ongemak. Het is daarom nuttig het begrip op te splitsen om te kijken wat we echt bedoelen, en) Tj
+T*
+(wat het ons waard is. Vertrouwelijkheid is vaak het eerste wat in ons opkomt. Wie kan er) Tj
+T*
+(allemaal meelezen met onze communicatie en bestanden?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004987 00000 n 
+0000005113 00000 n 
+0000009751 00000 n 
+0000009877 00000 n 
+0000013413 00000 n 
+0000013539 00000 n 
+0000017987 00000 n 
+0000018115 00000 n 
+0000020552 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20680
+%%EOF
