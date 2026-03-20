@@ -1,0 +1,690 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4647 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-20 09:38:11) Tj
+T*
+() Tj
+T*
+(1. Thoughts on OpenAI acquiring Astral and uv/ruff/ty) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-19T16:45:15+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything) Tj
+T*
+(The big news this morning: Astral to join OpenAI \(on the Astral blog\) and OpenAI to acquire) Tj
+T*
+(Astral \(the OpenAI announcement\). Astral are the company behind uv , ruff , and ty - three) Tj
+T*
+(increasingly load-bearing open source projects in the Python ecosystem. I have thoughts! The) Tj
+T*
+(official line from OpenAI and Astral The Astral team will become part of the Codex team at) Tj
+T*
+(OpenAI. Charlie Marsh has this to say : Open source is at the heart of that impact and the) Tj
+T*
+(heart of that story; it sits at the center of everything we do. In line with our philosophy and) Tj
+T*
+(OpenAI's own announcement , OpenAI will continue supporting our open source tools after the) Tj
+T*
+(deal closes. We'll keep building in the open, alongside our community -- and for the broader) Tj
+T*
+(Python ecosystem -- just as we have from the start. [...] After joining the Codex team, we'll) Tj
+T*
+(continue building our open source tools, explore ways they can work more seamlessly with Codex,) Tj
+T*
+(and expand our reach to think more broadly about the future of software development. OpenAI's) Tj
+T*
+(message has a slightly different focus \(highlights mine\): As part of our developer-first) Tj
+T*
+(philosophy, after closing OpenAI plans to support Astral?s open source products. By bri...) Tj
+T*
+() Tj
+T*
+(2. Quoting Guilherme Rambo) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-16T20:34:13+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything) Tj
+T*
+(Tidbit: the software-based camera indicator light in the MacBook Neo runs in the secure) Tj
+T*
+(exclaveπ part of the chip, so it is almost as secure as the hardware indicator light. What that) Tj
+T*
+(means in practice is that even a kernel-level exploit would not be able to turn on the camera) Tj
+T*
+(without the light appearing on screen. It runs in a privileged environment separate from the) Tj
+T*
+(kernel and blits the light directly onto the screen hardware. ? Guilherme Rambo , in a text) Tj
+T*
+(message to John Gruber Tags: hardware , apple , privacy , john-gruber) Tj
+T*
+() Tj
+T*
+(3. Coding agents for data analysis) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-16T20:12:32+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/#atom-everything) Tj
+T*
+(Coding agents for data analysis Here's the handout I prepared for my NICAR 2026 workshop) Tj
+T*
+("Coding agents for data analysis" - a three hour session aimed at data journalists) Tj
+T*
+(demonstrating ways that tools like Claude Code and OpenAI Codex can be used to explore, analyze) Tj
+T*
+(and clean data. Here's the table of contents: Coding agents Warmup: ChatGPT and Claude Setup) Tj
+T*
+(Claude Code and Codex Asking questions against a database Exploring data with agents Cleaning) Tj
+T*
+(data: decoding neighborhood codes Creating visualizations with agents Scraping data with agents) Tj
+T*
+(I ran the workshop using GitHub Codespaces and OpenAI Codex, since it was easy \(and) Tj
+T*
+(inexpensive\) to distribute a budget-restricted API key for Codex that attendees could use) Tj
+T*
+(during the class. Participants ended up burning $23 of Codex tokens. The exercises all used) Tj
+T*
+(Python and SQLite and some of them used Datasette. One highlight of the workshop was when we) Tj
+T*
+(started running Datasette such that it served static content from a viz/ folder, then had) Tj
+T*
+(Claude Code start vibe coding new interactive visualizations directly in that folder. Here's a) Tj
+T*
+(heat map it created for my trees database using Leaflet and Leaflet.heat , source code here . =) Tj
+T*
+(80 THEN...) Tj
+T*
+() Tj
+T*
+(4. Feds Disrupt IoT Botnets Behind Huge DDoS Attacks) Tj
+T*
+(Source: Krebs on Security | Published: Fri, 20 Mar 2026 00:49:19 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/) Tj
+T*
+(The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online) Tj
+T*
+(infrastructure behind four highly disruptive botnets that compromised more than three million) Tj
+T*
+(hacked Internet of Things \(IoT\) devices, such as routers and web cameras. The feds say the four) Tj
+T*
+(botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4614 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(record-smashing distributed denial-of-service \(DDoS\) attacks capable of knocking nearly any) Tj
+T*
+(target offline.) Tj
+T*
+() Tj
+T*
+(5. StopTheMadness Pro and StopTheScript Extensions for Safari) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-19T21:09:32Z) Tj
+T*
+(Link: https://mastodon.social/@lapcatsoftware/116252960395480568) Tj
+T*
+(Jeff Johnson, linking to my ? Your Frustration Is the Product ? piece: My browser extension) Tj
+T*
+(StopTheMadness Pro stops autoplaying videos and hides Sign in with Google on all sites. It also) Tj
+T*
+(hides sticky videos and notification requests on many sites. For more extreme measures, try my) Tj
+T*
+(Safari extension StopTheScript . It kills JavaScript dead on websites you select. For example,) Tj
+T*
+(from the blog post, it makes The Guardian readable. These are both great extensions, and I have) Tj
+T*
+(both installed for use in Safari on all my devices. StopTheScript is a bit peculiar, by nature) Tj
+T*
+(of how it does what it does, but Johnson has a great illustrated tutorial for it and a good) Tj
+T*
+(blog post explaining which sites he uses it on and why . Over on the Chrome/Chromium side,) Tj
+T*
+(there?s a very slick extension called Quick JavaScript Switcher . It?s free, but the developer) Tj
+T*
+(\(Maxime Le Breton\) asks for a 5? donation. QJS adds a simple JS on/off switch to the toolbar. A) Tj
+T*
+(lot of stuff doesn?t load when you just completely disable JavaScript for a site. You might be) Tj
+T*
+(surprised just how much of that stuff is shit you don?t want or won?t miss. Or, you can go the) Tj
+T*
+(other way, give in, stop fighting the man, and install OnlyAds ? a...) Tj
+T*
+() Tj
+T*
+(6. Actual Headline in the Actual New York Times: ?Trump Jokes About Pearl Harbor in) Tj
+T*
+(Meeting With Japan?s Leader?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-19T21:01:52Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takai) Tj
+T*
+(chi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot) Tj
+T*
+(Javier C. Hern·ndez, reporting for The New York Times: He was responding to a question about) Tj
+T*
+(why Japan and other allies had received no advance notice of the U.S.-Israeli assault on Iran.) Tj
+T*
+(?We didn?t tell anybody about it because we wanted surprise,? he said. ?Who knows better about) Tj
+T*
+(surprise than Japan, OK? Why didn?t you tell me about Pearl Harbor, OK? Right?? There was some) Tj
+T*
+(laughter from the officials and journalists gathered in the room. ?You believe in surprise, I) Tj
+T*
+(think, much more so than us,? he added. As Trump sinks further into dementia and his presidency) Tj
+T*
+(slides further into disarray, his administration, in a sick way, gets funnier and funnier. ?) Tj
+T*
+() Tj
+T*
+(7. ?Everyone but Trump Understands What He?s Done?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-19T20:09:27Z) Tj
+T*
+(Link: https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/?gift=aQyUJR7AIw1m) Tj
+T*
+(JWdQ6Ed6yGfvOucd9Oa8W54yMDTtr2I) Tj
+T*
+(Anne Applebaum, writing for The Atlantic \(gift link\): Specifically, they remember that for 14) Tj
+T*
+(months, the American president has tariffed them, mocked their security concerns, and) Tj
+T*
+(repeatedly insulted them. As long ago as January 2020, Trump told several European officials) Tj
+T*
+(that ?if Europe is under attack, we will never come to help you and to support you.? In) Tj
+T*
+(February 2025, he told Ukrainian President Volodymyr Zelensky that he had no right to expect) Tj
+T*
+(support either, because ?you don?t have any cards.? Trump ridiculed Canada as the ?51st state?) Tj
+T*
+(and referred to both the present and previous Canadian prime ministers as ?governor.? He) Tj
+T*
+(claimed, incorrectly, that allied troops in Afghanistan ?stayed a little back, a little off the) Tj
+T*
+(front lines,? causing huge offense to the families of soldiers who died fighting after NATO) Tj
+T*
+(invoked Article 5 of the organization?s treaty, on behalf of the United States, the only time) Tj
+T*
+(it has done so. He called the British ?our once-great ally,? after they refused to participate) Tj
+T*
+(in the initial assault on Iran; when they discussed sending some aircraft carriers to the) Tj
+T*
+(Persian Gulf conflict earlier this month, he ridiculed the idea on social media: ?We don?t) Tj
+T*
+(nee...) Tj
+T*
+() Tj
+T*
+(8. Windows stack limit checking retrospective: amd64, also known as x86-64) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 19 Mar 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260319-00/?p=112152) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4413 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Reaching the modern day. The post Windows stack limit checking retrospective: amd64, also known) Tj
+T*
+(as x86-64 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Consensus Board Game) Tj
+T*
+(Source: matklad | Published: 2026-03-19T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/03/19/consensus-board-game.html) Tj
+T*
+(I have an early adulthood trauma from struggling to understand consensus amidst a myriad of) Tj
+T*
+(poor explanations. I am overcompensating for that by adding my own attempts to the fray. Today,) Tj
+T*
+(I want to draw a series of pictures which could be helpful. You can see this post as a set of) Tj
+T*
+(missing illustrations for Notes on Paxos, or, alternatively, you can view that post as a more) Tj
+T*
+(formal narrative counter-part for the present one.) Tj
+T*
+() Tj
+T*
+(10. The Fragmented World of Dependency Policy) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-19T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/19/the-fragmented-world-of-dependency-policy.html) Tj
+T*
+(I?ve been thinking about adding policy features to git-pkgs/actions , the GitHub Actions that) Tj
+T*
+(check licenses, scan for vulnerabilities, and generate SBOMs during CI. The license action) Tj
+T*
+(currently takes a comma-separated list of SPDX identifiers and the vulnerability action takes a) Tj
+T*
+(severity string, which is fine for simple cases but obviously not enough once you need to) Tj
+T*
+(ignore specific CVEs with expiry dates, ban particular packages regardless of license, allow) Tj
+T*
+(exceptions for vetted transitive dependencies, or set different rules for different) Tj
+T*
+(repositories. I went looking for a format to adopt rather than invent. I?ve also been) Tj
+T*
+(investigating what it would take to add dependency intelligence features to Forgejo, the forge) Tj
+T*
+(that Codeberg and a growing number of self-hosted instances run, and if Forgejo gets a) Tj
+T*
+(dependency graph it will need a policy layer with the same questions about licenses and) Tj
+T*
+(vulnerabilities and banned packages. Building two tools against the same policy format was the) Tj
+T*
+(goal, but that required finding one worth using. I found about forty tools that make automated) Tj
+T*
+(policy decisions about dependencies, and every single one has its own format. License policy) Tj
+T*
+(cargo-deny u...) Tj
+T*
+() Tj
+T*
+(11. How Much Computing Power is in a Data Center?) Tj
+T*
+(Source: Construction Physics | Published: Thu, 19 Mar 2026 12:01:33 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/how-much-computing-power-is-in-a) Tj
+T*
+(Every day there?s some new story about the enormous amounts of investment in building AI data) Tj
+T*
+(centers.) Tj
+T*
+() Tj
+T*
+(12. Related UI elements should not appear unrelated) Tj
+T*
+(Source: Rakhim's blog | Published: Thu, 19 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://rakhim.exotext.com/related-ui-elements-should-not-appear-unrelated) Tj
+T*
+(I know, I know, this sounds controversial. But hear me out. A few years ago a new trend in UI) Tj
+T*
+(design emerged where related elements would appear more and more detached and unrelated to the) Tj
+T*
+(things they are meant to point to. Here's a screenshot of Google Chrome circa 2010: Remember) Tj
+T*
+(those tabs? \(I love them.\) They convey the separation and connection extremely clearly. The) Tj
+T*
+(first tab is open, and it is literally the one with its content window. The other two tabs are) Tj
+T*
+(clearly separate. Here's Firefox v.41 circa 2015: A decade later, Firefox v.148. The tabs are) Tj
+T*
+(floating separately from the content window like unrelated elements. Their rounded corners add) Tj
+T*
+(to the feeling of separation. They look like buttons. A few days ago Firefox announced a new) Tj
+T*
+(redesign \(Firefox Nova\), and the separation of related elements is now extreme. As time goes) Tj
+T*
+(on, more and more elements just float away into their own isolated bubbles. This looks like) Tj
+T*
+(three separate windows neatly put together. The tab is separate from its own address bar, and) Tj
+T*
+(the content window is separate from everything. Margins with shadows double-down on the feeling) Tj
+T*
+(of separation. Why? What is this trying to convey? Why did we lose some s...) Tj
+T*
+() Tj
+T*
+(13. Members Only: How do we define our own flourishing?) Tj
+T*
+(Source: Westenberg. | Published: Fri, 20 Mar 2026 00:23:59 GMT) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3764 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.joanwestenberg.com/members-only-how-do-we-define-our-own-flourishing/) Tj
+T*
+(Nikolai Kardashev believed we could classify civilisations by the eneregy they harness. The) Tj
+T*
+(Soviet Astrophysicist proposed three ?Types? of civilisation - Type I controls the energy) Tj
+T*
+(budget of its homeward, Type II controls a star, and Type III controls a Galaxy. By Kardashev?s) Tj
+T*
+(measure, the human) Tj
+T*
+() Tj
+T*
+(14. Pluralistic: Love of corporate bullshit is correlated with bad judgment \(19 Mar 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 19 Mar 2026 12:47:06) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/03/19/jargon-watch/) Tj
+T*
+(Today's links Love of corporate bullshit is correlated with bad judgment: Synergizing the) Tj
+T*
+(strategic inflection points on the global data network. Hey look at this: Delights to) Tj
+T*
+(delectate. Object permanence: Bluetooth headsets; Fruit sticker decoder; iPod batteries v DRM;) Tj
+T*
+(Bruces's SXSW keynote; Piracy isn't funding terrorism; Hope v optimism; Identical twin) Tj
+T*
+(time-travel prank; Prisoners draw corporate crooks; Spanish junkbots; Sheriff's rape-kit) Tj
+T*
+(denial; Non-dorky magic; Poetic bureaucrat mourns wolf; SXSW v MPAA; "Burning Days"; NYT) Tj
+T*
+(paywall; Police rap-battle warning; Unions de-risk labor; "Murder the Truth" Upcoming) Tj
+T*
+(appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Love of corporate bullshit is correlated with bad judgment \(permalink\)) Tj
+T*
+(I'm a writer, so of course I care about words! But I'm a writer, so I also think that words are) Tj
+T*
+(improved by their malleability, duality and nuance. This is one of the things I love about) Tj
+T*
+(being a native English speaker ? this glorious mongrel language of ours is full of extremely) Tj
+T*
+(weird words, like "cleav...) Tj
+T*
+() Tj
+T*
+(15. Why TV Lost) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/convergence.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. Can You Buy a Silicon Valley? Maybe.) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/maybe.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(17. What I've Learned from Hacker News) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/hackernews.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(18. Another World Code Review) Tj
+T*
+(Source: Fabien Sanglard | Published: Sun, 27 Nov 2011 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/anotherWorld_code_review/index.php) Tj
+T*
+(I spent two weeks reading and reverse engineering further the source code of Another World \(Out) Tj
+T*
+(Of This World in North America\). I based my work on Gregory Montoir's binary to C++ initial) Tj
+T*
+(reverse engineering from the DOS executable. I was amazed to discover an elegant system based) Tj
+T*
+(on a virtual machine interpreting bytecode in realtime and generating fullscreen vectorial) Tj
+T*
+(cinematic in order to produce one of the best game of all time. All this shipping on a 1.44MB) Tj
+T*
+(floppy disk and running within 600KB of RAM: Not bad for 1991 ! As usual I cleaned up my notes,) Tj
+T*
+(it may save a few hours to someone. . More...) Tj
+T*
+() Tj
+T*
+(19. Progressive playback: An atom story) Tj
+T*
+(Source: Fabien Sanglard | Published: Sun, 27 Nov 2011 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/mobile_progressive_playback/index.php) Tj
+T*
+(I have been doing a lot of work with video containers recently, especially figuring out) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4357 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(interoperability between iOS/Android and optimizing progressive playback. In particular it) Tj
+T*
+(seems Android devices fail to perform progressive playback on certain files while iOS and VLC) Tj
+T*
+(succeed: Why ? As usual understanding things to the deep down proved extremely worthy. .) Tj
+T*
+(More...) Tj
+T*
+() Tj
+T*
+(20. How to build Doom3 on Mac OS X with XCode) Tj
+T*
+(Source: Fabien Sanglard | Published: Fri, 25 Nov 2011 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/doom3_macosx/index.php) Tj
+T*
+(The source code of Doom3 has been released three days ago :\) ! I have started to read it and I) Tj
+T*
+(will probably write a code review if enough people are interested. According to the README.txt) Tj
+T*
+(the source code is building well with Visual Studio 2010 but it is not building at all on Mac) Tj
+T*
+(OS X with XCode 4.0 \( it is actually very broken :\( !\). Here are the instructions to get it to) Tj
+T*
+(run...but if you just want to download Doom3 source code for Xcode 4: I uploaded it on github.) Tj
+T*
+(. More...) Tj
+T*
+() Tj
+T*
+(21. On becoming a day person) Tj
+T*
+(Source: Herman's blog | Published: 2026-03-19T09:17:48.616965+00:00) Tj
+T*
+(Link: https://herman.bearblog.dev/becoming-a-day-person/) Tj
+T*
+(I was recently asked on a podcast what my biggest game-changer was, whether it be a habit, way) Tj
+T*
+(of thinking, purchase, or change of context. I didn't need to fish around for an answer, since) Tj
+T*
+(I already know my biggest game-changer : becoming a day person. By this I mean I operate within) Tj
+T*
+(daylight hours, getting up early, making good coffee and watching the sunrise with Emma.) Tj
+T*
+(There?s something grounding about witnessing both the start and the end of the light; it makes) Tj
+T*
+(me feel in tune with this natural cycle 1 . I used to be someone who stayed up late and slept) Tj
+T*
+(through most of the morning. It's only been the last 5 years that I've consistently gotten out) Tj
+T*
+(of bed early. I wake up naturally around 6am, hand grind some coffee while I'm still a bit) Tj
+T*
+(muzzy and then, once the pour-over is blooming, wake Emma up to watch the sun rise over Cape) Tj
+T*
+(Town while the air is still crisp and cool, and cars haven't ruined the soundscape and air) Tj
+T*
+(quality. We sit and enjoy the coffee and view, generally in silence at first then check in with) Tj
+T*
+(each other, ask about the day, and just enjoy the quality time together. Having the mornings) Tj
+T*
+(available is delightful since most people aren't awake yet, which makes it f...) Tj
+T*
+() Tj
+T*
+(22. Don't say 'Europe Must Invest in XYZ') Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 09 Jul 2024 10:51:53 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/europe-must-invest-in-xyz/) Tj
+T*
+(?Be even more suspicious [?] of all those who employ the term ?we? or ?us? without your) Tj
+T*
+(permission. This is another form of surreptitious conscription, designed to suggest that ?we?) Tj
+T*
+(are all agreed on ?our? interests and identity. [?] Always ask who this ?we? is? ? Christopher) Tj
+T*
+(Hitchens in Letters to a Young Contrarian. It is so easy to write ?Europe must invest more in) Tj
+T*
+(AI?, but it is a red flag that reveals sloppy thinking on two levels.) Tj
+T*
+() Tj
+T*
+(23. De cloud is geen paracetamolfabriek) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 07 Jul 2024 12:51:53 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/de-cloud-is-geen-paracetamolfabriek/) Tj
+T*
+(Er is recent veel discussie over digitale autonomie, en Europa?s ?positie in de cloud?. Also) Tj
+T*
+(available in English. Maandag 8 juli vanaf 14:00 is er een event ?Digitale soevereiniteit: zin) Tj
+T*
+(of onzin? bij Instituut Clingendael. Dit is \(na inschrijving\) ook online bij te wonen. Corinne) Tj
+T*
+(Cath \(TU Delft\), Martijn Lucassen \(Ministerie van Economische Zaken en Klimaat\), Paul Brand) Tj
+T*
+(\(Stratix\), Diana Krieger \(Soverin\) en ik zitten daar in een panel onder leiding van Ruben Brave) Tj
+T*
+(\(Internet Society\) en Maaike Okano-Heijmans \(Clingendael\).) Tj
+T*
+() Tj
+T*
+(24. SkewDB) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 05 Jul 2024 12:22:53 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/skewdb/) Tj
+T*
+(Welcome to SkewDB! A free database of GC and many other skews for over 53,000 chromosomes and) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 1312 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(plasmids \(viewer, blog post\). The Scientific Spring Meeting KNVM & NVMM 2022 presentation is) Tj
+T*
+(here \(pdf\). And now also on YouTube as video! SkewDB, a comprehensive database of GC and 10) Tj
+T*
+(other skews for over 30,000 chromosomes and plasmids, Nature Scientific Data, 2022) Tj
+T*
+(doi:10.5061/dryad.g4f4qrfr6 Last database update: 5th of July 2024, now featuring homopolymer) Tj
+T*
+(counts & codon bias data!) Tj
+T*
+() Tj
+T*
+(25. SQLAlchemy 2 In Practice - Chapter 1 - Database Setup) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Thu, 19 Mar 2026 23:25:39 GMT) Tj
+T*
+(Link:) Tj
+T*
+(https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-setup) Tj
+T*
+(Welcome! This is the start of a journey which I hope will provide you with many new tricks to) Tj
+T*
+(improve how you work with relational databases in your Python applications. Given that this is) Tj
+T*
+(a hands-on book, this first chapter is dedicated to help you set up your system with a) Tj
+T*
+(database, so that you can run all the examples and exercises. This is the first chapter of my) Tj
+T*
+(SQLAlchemy 2 in Practice book. If you'd like to support my work, I encourage you to buy this) Tj
+T*
+(book, either directly from my store or on Amazon . Thank you!) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004923 00000 n 
+0000005049 00000 n 
+0000009715 00000 n 
+0000009841 00000 n 
+0000014306 00000 n 
+0000014432 00000 n 
+0000018249 00000 n 
+0000018377 00000 n 
+0000022787 00000 n 
+0000022915 00000 n 
+0000024280 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+24408
+%%EOF
