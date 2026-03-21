@@ -1,0 +1,714 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4529 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-21 09:37:20) Tj
+T*
+() Tj
+T*
+(1. Turbo Pascal 3.02A, deconstructed) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-20T23:59:14+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything) Tj
+T*
+(Turbo Pascal 3.02A, deconstructed In Things That Turbo Pascal is Smaller Than James Hague lists) Tj
+T*
+(things \(from 2011\) that are larger in size than Borland's 1985 Turbo Pascal 3.02 executable - a) Tj
+T*
+(39,731 byte file that somehow included a full text editor IDE and Pascal compiler. This) Tj
+T*
+(inspired me to track down a copy of that executable \(available as freeware since 2000\) and see) Tj
+T*
+(if Claude could interpret the binary and decompile it for me. It did a great job, so I had it) Tj
+T*
+(create this interactive artifact illustrating the result. Here's the sequence of prompts I used) Tj
+T*
+(\(in regular claude.ai chat, not Claude Code\): Read this https://prog21.dadgum.com/116.html Now) Tj
+T*
+(find a copy of that binary online Explore this \( I attached the zip file \) Build an artifact -) Tj
+T*
+(no react - that embeds the full turbo.com binary and displays it in a way that helps understand) Tj
+T*
+(it - broke into labeled segments for different parts of the application, decompiled to visible) Tj
+T*
+(source code \(I guess assembly?\) and with that assembly then reconstructed into readable code) Tj
+T*
+(with extensive annotations Tags: computer-history , tools , ai , generative-ai , llms , claude) Tj
+T*
+() Tj
+T*
+(2. Quoting Kimi.ai @Kimi_Moonshot) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-20T20:29:23+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything) Tj
+T*
+(Congrats to the @cursor_ai team on the launch of Composer 2! We are proud to see Kimi-k2.5) Tj
+T*
+(provide the foundation. Seeing our model integrated effectively through Cursor's continued) Tj
+T*
+(pretraining & high-compute RL training is the open model ecosystem we love to support. Note:) Tj
+T*
+(Cursor accesses Kimi-k2.5 via @FireworksAI_HQ hosted RL and inference platform as part of an) Tj
+T*
+(authorized commercial partnership. ? Kimi.ai @Kimi_Moonshot , responding to reports that) Tj
+T*
+(Composer 2 was built on top of Kimi K2.5 Tags: kimi , generative-ai , ai , cursor , llms ,) Tj
+T*
+(ai-in-china) Tj
+T*
+() Tj
+T*
+(3. How coding agents work) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-16T14:01:41+00:00) Tj
+T*
+(Link: https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#ato) Tj
+T*
+(m-everything) Tj
+T*
+(Agentic Engineering Patterns > As with any tool, understanding how coding agents work under the) Tj
+T*
+(hood can help you make better decisions about how to apply them. A coding agent is a piece of) Tj
+T*
+(software that acts as a harness for an LLM, extending that LLM with additional capabilities) Tj
+T*
+(that are powered by invisible prompts and implemented as callable tools. Large Language Models) Tj
+T*
+(At the heart of any coding agent is a Large Language Model, or LLM. These have names like) Tj
+T*
+(GPT-5.4 or Claude Opus 4.6 or Gemini 3.1 Pro or Qwen3.5-35B-A3B. An LLM is a machine learning) Tj
+T*
+(model that can complete a sentence of text. Give the model the phrase "the cat sat on the " and) Tj
+T*
+(it will \(almost certainly\) suggest "mat" as the next word in the sentence. As these models get) Tj
+T*
+(larger and train on increasing amounts of data, they can complete more complex sentences - like) Tj
+T*
+("a python function to download a file from a URL is def download_file\(url\): ". LLMs don't) Tj
+T*
+(actually work directly with words - they work with tokens. A sequence of text is converted into) Tj
+T*
+(a sequence of integer tokens, so "the cat sat on the " becomes [3086, 9059, 10139, 402, 290,) Tj
+T*
+(220] . This is worth understanding because LLM providers charge based on...) Tj
+T*
+() Tj
+T*
+(4. The best laptop Apple ever made) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 20 Mar 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/) Tj
+T*
+(Today I posted a video titled The best laptop Apple ever made , and tl;dw 1 it's the 11") Tj
+T*
+(MacBook Air. .embed-container { position: relative; padding-bottom: 56.25%; height: 0;) Tj
+T*
+(overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object,) Tj
+T*
+(.embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } I) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4832 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(acknowledge in the video my pick is slightly subjective, and I also asked a number of other) Tj
+T*
+(YouTubers which Mac laptop they consider the best \(or at least most influential\). If you don't) Tj
+T*
+(want to watch the video, I'll summarize their choices here:) Tj
+T*
+() Tj
+T*
+(5. Google Search Is Now Using AI to Rewrite Headlines) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-20T21:00:09Z) Tj
+T*
+(Link: https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-) Tj
+T*
+(mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDk) Tj
+T*
+(wL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGVyaW1lbnQiLC) Tj
+T*
+(JleHAiOjE3NzQ0NzIwOTAsImlhdCI6MTc3NDA0MDA5MH0.3exwHWG6qdR5YeFLjzS1qvUy3tgfASQhbFZDTbHrkKE&utm_m) Tj
+T*
+(edium=gift-link) Tj
+T*
+(Sean Hollister, The Verge \(gift link\): After doing something similar in its Google Discover) Tj
+T*
+(news feed , it?s starting to mess with headlines in the traditional ?10 blue links,? too. We?ve) Tj
+T*
+(found multiple examples where Google replaced headlines we wrote with ones we did not,) Tj
+T*
+(sometimes changing their meaning in the process. For example, Google reduced our headline ? I) Tj
+T*
+(used the ?cheat on everything? AI tool and it didn?t help me cheat on anything ? to just five) Tj
+T*
+(words: ??Cheat on everything? AI tool.? It almost sounds like we?re endorsing a product we do) Tj
+T*
+(not recommend at all. What we are seeing is a ?small? and ?narrow? experiment, one that?s not) Tj
+T*
+(yet approved for a fuller launch, Google spokespeople Jennifer Kutz, Mallory De Leon, and Ned) Tj
+T*
+(Adriance tell The Verge. They would not say how ?small? that experiment actually is. Over the) Tj
+T*
+(past few months, multiple Verge staffers have seen examples of headlines that we never wrote) Tj
+T*
+(appear in Google Search results ? headlines that do not follow our editorial style, and without) Tj
+T*
+(any indication that Google replaced the words we chose. And Google says it?s tweaking how other) Tj
+T*
+(websites show up in search, too, not just news. This is way past ?jumping t...) Tj
+T*
+() Tj
+T*
+(6. Perhaps Bluesky?s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact,) Tj
+T*
+(an Act of Transparency) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-20T20:49:07Z) Tj
+T*
+(Link: https://bsky.app/profile/flooey.org/post/3mhiznh4d7c2j) Tj
+T*
+(Regarding my earlier post expressing confusion/discomfort with Bluesky announcing a $100) Tj
+T*
+(million funding round almost an entire year after it closed, I had an interesting) Tj
+T*
+(back-and-forth with Adam Vartanian on Bluesky \(natch\), where he wrote : If you see press) Tj
+T*
+(reports that says a company ?has raised? some money but no date on when the round closed, it) Tj
+T*
+(probably happened some time in the past. Bluesky is actually unusual in disclosing a date) Tj
+T*
+(that?s so far in the past. I kept thinking that I must be missing something in this story, and) Tj
+T*
+(this feels like it must be exactly that something. If true, it?s not unusual these days for a) Tj
+T*
+(company to announce a seeding round long after it actually closed. What?s unusual in this case) Tj
+T*
+(with Bluesky is that when they finally did announce it, they revealed the long-ago date it) Tj
+T*
+(closed, too. That it was, in fact, an act of transparency, at least in comparison to many other) Tj
+T*
+(venture-backed companies today. ?) Tj
+T*
+() Tj
+T*
+(7. Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-20T16:46:01Z) Tj
+T*
+(Link: https://bsky.social/about/blog/03-19-2026-series-b) Tj
+T*
+(Bluesky: In April 2025, Bluesky raised $100 million in Series B funding led by Bain Capital) Tj
+T*
+(Crypto, with participation from Alumni Ventures, Anthos Capital, Bloomberg Beta, Knight) Tj
+T*
+(Foundation and True Ventures. In the months since, we?ve focused on scaling our team to meet) Tj
+T*
+(the rapid growth of both the AT Protocol \(atproto\) and Bluesky app. We?re excited to share more) Tj
+T*
+(as we move into a new era of leadership and further growth. This raise was led by Bluesky) Tj
+T*
+(founder Jay Graber, who recently transitioned to Chief Innovation Officer to focus on building) Tj
+T*
+(the future of open social infrastructure. I didn?t post about Graber?s stepping aside as CEO) Tj
+T*
+(earlier this month because I didn?t make much of it. I?ve been bullish on Bluesky since its) Tj
+T*
+(inception, but I haven?t been thrilled by it of late. I don?t think it?s gotten any worse, but) Tj
+T*
+(its growth has stalled, leaving it in the limbo between ghost town and boom town . For many) Tj
+T*
+(products/services/businesses/publications, a sustained popularity that?s less than booming is) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4515 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(fine. Niches can work, or thrive even. Daring Fireball is clearly a niche publication. But for) Tj
+T*
+(social networks, two decades of evidence suggests that anything less than booming is...) Tj
+T*
+() Tj
+T*
+(8. Windows stack limit checking retrospective: arm64, also known as AArch64) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 20 Mar 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260320-00/?p=112154) Tj
+T*
+(Wrapping things up. The post Windows stack limit checking retrospective: arm64, also known as) Tj
+T*
+(AArch64 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Why Is Everyone Supposed to Die If Machines Can Think?) Tj
+T*
+(Source: iDiallo.com | Published: Fri, 20 Mar 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed) Tj
+T*
+(If you only listen to spokespersons for AI companies, you'll have a skewed view of how AI is) Tj
+T*
+(actually being integrated into the workplace. You probably don't need to convince a developer) Tj
+T*
+(to include it in their workflow, but you also can't dictate how they do so. Whenever I sit next) Tj
+T*
+(to another developer during pair programming, I can't help but feel frustrated by their setup.) Tj
+T*
+(But I don't complain, because they'd be just as annoyed with mine. The beauty of dev work is) Tj
+T*
+(that all that matters is the output. If you use a boilerplate generator like Create React App ,) Tj
+T*
+(few will complain. If you use AI to generate the same code, as long as it works, no one will) Tj
+T*
+(complain either. If the code is crafted with your own wetware, no one will be the wiser.) Tj
+T*
+(Developers will use any tool at their disposal to increase their own productivity. But what) Tj
+T*
+(happens when that thousand-dollar-per-developer-per-month subscription starts to feel) Tj
+T*
+(expensive? What happens when managers expect a tenfold return on investment, yet sprint) Tj
+T*
+(velocity doesn't budge? On one end, new metrics are created to track developers' use of the) Tj
+T*
+(tool. Which, in my experience, are highly inaccurate and vary wildly. On the other hand, com...) Tj
+T*
+() Tj
+T*
+(10. Embedded regex flags) Tj
+T*
+(Source: John D. Cook | Published: Fri, 20 Mar 2026 16:58:42 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/20/embedded-regex-flags/) Tj
+T*
+(The hardest part of using regular expressions is not crafting regular expressions per se. In my) Tj
+T*
+(opinion, the two hardest parts are minor syntax variations between implementations, and all the) Tj
+T*
+(environmental stuff outside of regular expressions per se. Embedded regular expression) Tj
+T*
+(modifiers address one of the environmental complications by putting the modifier in the regular) Tj
+T*
+(expression [?] The post Embedded regex flags first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Life TV: Video with 2 bits to spare) Tj
+T*
+(Source: Maurycy's Blog | Published: Thu, 19 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/projects/lifetv/) Tj
+T*
+(The Sony FD-30A has a very weird display: On the surface, it looks like a normal CRT, except) Tj
+T*
+(that it's impossibly thin: the whole device is just under 4 cm thick. To do this, the tube is) Tj
+T*
+(mounted sideways, and the phosphor is viewed from the back. Unfortunately, this rather unique) Tj
+T*
+(display is completely useless: There are no analog TV stations on my continent... at least not) Tj
+T*
+(with that attitude. To get started, I grabbed my favorite 8-bit microcontroller , the) Tj
+T*
+(AVR128DA28 . \(soon to be unaffordable due to its whooping 16k of onboard RAM\) The CPU has a) Tj
+T*
+(maximum clock frequency of 24 MHz, but everything else maxes out at 12 MHz. Because an IO pin) Tj
+T*
+(can only be toggled on a clock edge, the maximum output frequency is 6 MHz. That's... not) Tj
+T*
+(great. The lowest my TV can tune is 45 MHz. However, the micro≠controller's output is a square) Tj
+T*
+(wave, which contain frequency components at odd multiples of the nominal frequency. These) Tj
+T*
+(harmonics go quite far up the spectrum: a 6 MHz square wave can easily be picked up by a) Tj
+T*
+(receiver tuned to 198 MHz \(33rd multiple\) several meters away. Because of this, the) Tj
+T*
+(microcontroller can create a signal in the \(VHF\) television band by toggling a pin . Video) Tj
+T*
+(signals are...) Tj
+T*
+() Tj
+T*
+(12. I'm OK being left behind, thanks!) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 20 Mar 2026 12:34:02 +0000) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3548 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/) Tj
+T*
+(Many years ago, someone tried to get me into cryptocurrencies. "They're the future of money!") Tj
+T*
+(they said. I replied saying that I'd rather wait until they were more useful, less volatile,) Tj
+T*
+(easier to use, and utterly reliable. "You don't want to get left behind, do you?" They) Tj
+T*
+(countered. That struck me as a bizarre sentiment. What is there to be left behind from? If) Tj
+T*
+(BitCoin \(or whatever\) is going?) Tj
+T*
+() Tj
+T*
+(13. Package Manager Mirroring) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-20T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/20/package-manager-mirroring.html) Tj
+T*
+(Mike Fiedler from PyPI asked me recently: which package ecosystems have mirroring tools and) Tj
+T*
+(what protocols do they use? Here?s what I found. This post primarily covers mirroring: tools) Tj
+T*
+(and protocols for creating and maintaining copies of package registries. It doesn?t cover) Tj
+T*
+(private registries, artifact storage, or dependency proxying except where those tools also) Tj
+T*
+(support mirroring. Ecosystems with mirroring tools apt/deb \(Debian, Ubuntu\) The most mature) Tj
+T*
+(mirroring ecosystem, with several tools at different levels of complexity. ftpsync is the) Tj
+T*
+(official tool. It runs a two-stage rsync: first syncing package files, then metadata \( Packages) Tj
+T*
+(, Release , InRelease \). This ordering matters because it prevents apt clients from seeing) Tj
+T*
+(references to packages that haven?t arrived yet. Upstream mirrors can trigger syncs over SSH) Tj
+T*
+(rather than waiting for a cron schedule. debmirror supports HTTP, HTTPS, FTP, and rsync as) Tj
+T*
+(transport. It verifies GPG signatures on Release files by default using gpgv, and checks) Tj
+T*
+(downloaded file checksums \(MD5, SHA1, SHA256\) against what the Release file claims. It also) Tj
+T*
+(supports pdiffs for incremental metadata updates, downloading diffs to Packages / Sources files) Tj
+T*
+(rat...) Tj
+T*
+() Tj
+T*
+(14. Premium: The Hater's Guide To Adobe) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 20 Mar 2026 16:25:42 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/hatersguide-adobe/) Tj
+T*
+(I hear from a lot of people that are filled with bilious fury about the tech industry, but few) Tj
+T*
+(companies have pissed off the world more than Adobe. As the foremost monopolist in software,) Tj
+T*
+(web and graphic design, Adobe has created one of the single-most abusive, usurious freakshows) Tj
+T*
+(in capitalist) Tj
+T*
+() Tj
+T*
+(15. Startups in 13 Sentences) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/13sentences.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. Keep Your Identity Small) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/identity.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(17. After Credentials) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/credentials.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(18. Terence Tao ? Kepler, Newton, and the true nature of mathematical discovery) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Fri, 20 Mar 2026 16:00:55 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/terence-tao) Tj
+T*
+(?And what those stories teach us about how AI will revolutionize math?) Tj
+T*
+() Tj
+T*
+(19. Re: People Are Not Friction) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Fri, 20 Mar 2026 19:00:00 GMT) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4056 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://blog.jim-nielsen.com/2026/re-people-arent-friction/) Tj
+T*
+(Dave Rupert puts words to the feeling in the air: the unspoken promise of AI is that you can) Tj
+T*
+(automate away all the tasks and people who stand in your way. Sometimes I feel like there?s a) Tj
+T*
+(palpable tension in the air as if we?re waiting to see whether AI will replace designers or) Tj
+T*
+(engineers first. Designers empowered by AI might feel those pesky nay-saying, opinionated) Tj
+T*
+(engineers aren?t needed anymore. Engineers empowered with AI might feel like AI creates designs) Tj
+T*
+(that are good enough for most situations. Backend engineers feel like frontend engineering is a) Tj
+T*
+(solved problem. Frontend engineers know scaffolding a CRUD app or an entire backend API is) Tj
+T*
+(simple fodder for the agent. Meanwhile, management cackles in their leather chairs saying ?Let) Tj
+T*
+(them fight?? It reminds me of something Paul Ford said : The most brutal fact of life is that) Tj
+T*
+(the discipline you love and care for is utterly irrelevant without the other disciplines that) Tj
+T*
+(you tend to despise. Ah yes, that age-old mindset where you believe your discipline is the only) Tj
+T*
+(one that really matters. Paradoxically, the promise of AI to every discipline is that it will) Tj
+T*
+(help bypass the tedious-but-barely-necessary tasks \(and people\) of the oth...) Tj
+T*
+() Tj
+T*
+(20. Quake 2 Source Code Review) Tj
+T*
+(Source: Fabien Sanglard | Published: Tue, 20 Sep 2011 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/quake2/index.php) Tj
+T*
+(I spent about a month in my spare time reading the source code of Quake II. It was a wonderful) Tj
+T*
+(learning experience since one major improvement in idTech3 engine was to unify Quake 1, Quake) Tj
+T*
+(World and QuakeGL into one beautiful code architecture. The way modularity was achieved even) Tj
+T*
+(though the C programming language doesn't feature polymorphism was especially interesting. .) Tj
+T*
+(More...) Tj
+T*
+() Tj
+T*
+(21. Solving Ghost in The Wire codes) Tj
+T*
+(Source: Fabien Sanglard | Published: Sun, 11 Sep 2011 01:08:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/Ghost_in_the_Wires/index.php) Tj
+T*
+(100% completed: All codes from kevin mitnick book \("Ghost in The Wires"\) have been broken. .) Tj
+T*
+(More...) Tj
+T*
+() Tj
+T*
+(22. Solving Ghost in The Wire codes) Tj
+T*
+(Source: Fabien Sanglard | Published: Thu, 8 Sep 2011 01:36:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/Ghost_in_the_Wires/index.php) Tj
+T*
+(I received today my copy of Kevin Mitnick's book: Ghost in The Wires. It is a great read so) Tj
+T*
+(far. But even more interesting are the cyphered sentences at the beginning of each chapters. I) Tj
+T*
+(am trying to solve all of them but if you can contribute, comment or send me an email ! .) Tj
+T*
+(More...) Tj
+T*
+() Tj
+T*
+(23. The Mystery of Rennes-le-Ch‚teau, Part 2: Secret Codes and Hidden Messages) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 20 Mar 2026 18:09:52 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-2-secret-codes-and-h) Tj
+T*
+(idden-messages/) Tj
+T*
+(This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3:) Tj
+T*
+(Blood of the Sacred, Blood of the Damned. Rennes-le-Ch‚teau enjoyed its first watershed moment) Tj
+T*
+(as a media phenomenon when Albert Salamon wrote his newspaper articles in 1956. Its second came) Tj
+T*
+(when a documentary about the village was aired on French [?]) Tj
+T*
+() Tj
+T*
+(24. EnshittifAIcation) Tj
+T*
+(Source: IT Notes | Published: Fri, 20 Mar 2026 11:00:00 +0000) Tj
+T*
+(Link: https://it-notes.dragas.net/2026/03/20/enshittifaication/) Tj
+T*
+(Three episodes, one week. AI bots that hallucinate VPN requirements, recommend Apache configs) Tj
+T*
+(on nginx servers, and suggest replacing 128 GB of RAM with a cloud VPS. A field note on the) Tj
+T*
+(cost of mistaking confidence for competence.) Tj
+T*
+() Tj
+T*
+(25. Toezicht AIVD en MIVD: kabinetsbrief, commissievergadering) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2402 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Bert Hubert's writings | Published: Wed, 26 Jun 2024 17:40:21 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/brief-kabinet-ctivd-aivd-mivd-wet/) Tj
+T*
+(Vandaag 27 juni is er een commissievergadering van de vaste kamercommissie Binnenlandse Zaken,) Tj
+T*
+(en gisteren heeft het kabinet daarvoor een brief gestuurd. Zoals ik eerder schreef gaat de) Tj
+T*
+(regering de nieuwe AIVD/MIVD wet per 1 juli in werking laten treden. Update: Er is een heel) Tj
+T*
+(duidelijk stuk van Follow The Money met daarin zeer heldere uitspraken van staatsrechtgeleerden) Tj
+T*
+(dat dit gewoon niet kan. De vergadering en technische briefing zijn inmiddels geweest, en ik) Tj
+T*
+(heb hier een live-blog gepubliceerd op Mastodon.) Tj
+T*
+() Tj
+T*
+(26. Toezicht AIVD en MIVD, zonder toezichthouders, zonder kantoor) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 20 Jun 2024 17:40:21 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/dakloos-toezicht-aivd-mivd-zonder-toezichthouders/) Tj
+T*
+(1 juli gaat hij in, de door AIVD en MIVD zo zeer begeerde wet die het toezicht op deze diensten) Tj
+T*
+(flink omploegt. In 2022 begon de discussie: minder gedetailleerde procedures vooraf om te mogen) Tj
+T*
+(hacken en tappen, en meer ruimte om slachtoffers van hacks direct ook onder de tap te kunnen) Tj
+T*
+(zetten, zonder nieuwe toestemming aan te hoeven vragen. En ook geen toets vooraf meer om met AI) Tj
+T*
+(te mogen zoeken in grote afgeluisterde \(internet\)kabels, plus respectievelijk minder of geen) Tj
+T*
+(argumentatie nodig om die grote communicatiekabels te mogen tappen of ?verkennen?.) Tj
+T*
+() Tj
+T*
+(27. Digitale autonomie) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 09 Jun 2024 11:10:21 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/publicspaces-digitale-autonomie-7-juni-2024/) Tj
+T*
+(Dit is een licht verbeterde versie van mijn praatje op 7 juni op de Public Spaces conferentie) Tj
+T*
+(in Amsterdam, en ik wil de organisatie graag bedanken voor hun uitnodiging, en het publiek voor) Tj
+T*
+(de goede vragen & reacties zelfs al tijdens het praatje. Vind de oorspronkelijke slides met) Tj
+T*
+(notities hier. Of, voor wie zin heeft, hier is de oorspronkelijke video. Nou, wat fijn dat) Tj
+T*
+(jullie er allemaal zijn. Ik heb misschien een wat ander, minder technisch verhaal dan vele) Tj
+T*
+(mensen die mij voorgingen hier.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004805 00000 n 
+0000004931 00000 n 
+0000009815 00000 n 
+0000009941 00000 n 
+0000014508 00000 n 
+0000014634 00000 n 
+0000018235 00000 n 
+0000018363 00000 n 
+0000022472 00000 n 
+0000022600 00000 n 
+0000025055 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+25183
+%%EOF
