@@ -1,0 +1,504 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4755 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-22 09:37:42) Tj
+T*
+() Tj
+T*
+(1. Profiling Hacker News users based on their comments) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-21T23:59:47+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything) Tj
+T*
+(Here's a mildly dystopian prompt I've been experimenting with recently: "Profile this user",) Tj
+T*
+(accompanied by a copy of their last 1,000 comments on Hacker News. Obtaining those comments is) Tj
+T*
+(easy. The Algolia Hacker News API supports listing comments sorted by date that have a specific) Tj
+T*
+(tag, and the author of a comment is tagged there as author_username . Here's a JSON feed of my) Tj
+T*
+(\( simonw \) most recent comments, for example:) Tj
+T*
+(https://hn.algolia.com/api/v1/search_by_date?tags=comment,author_simonw&hitsPerPage=1000 The) Tj
+T*
+(Algolia API is served with open CORS headers, which means you can access the API from) Tj
+T*
+(JavaScript running on any web page. Last August I had ChatGPT build me a simple tool for) Tj
+T*
+(hitting that API for any user which fetches their comments and gives me a mobile-friendly "copy) Tj
+T*
+(to clipboard" button. I've since tweaked it a few times with Claude. I can then paste the whole) Tj
+T*
+(lot into any LLM - these days I mostly use Claude Opus 4.6 for this - and prompt "profile this) Tj
+T*
+(user" to see what it can figure out. It's startlingly effective! It feels invasive to quote the) Tj
+T*
+(profile of another user here, so I'll show you what it produces for me: This is Simon Willison) Tj
+T*
+(? a prolific, independent so...) Tj
+T*
+() Tj
+T*
+(2. Using Git with coding agents) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-21T22:08:24+00:00) Tj
+T*
+(Link: https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agent) Tj
+T*
+(s/#atom-everything) Tj
+T*
+(Agentic Engineering Patterns > Git is a key tool for working with coding agents. Keeping code) Tj
+T*
+(in version control lets us record how that code changes over time and investigate and reverse) Tj
+T*
+(any mistakes. All of the coding agents are fluent in using Git's features, both basic and) Tj
+T*
+(advanced. This fluency means we can be more ambitious about how we use Git ourselves. We don't) Tj
+T*
+(need to memorize how to do things with Git, but staying aware of what's possible means we can) Tj
+T*
+(take advantage of the full suite of Git's abilities. Git essentials Each Git project lives in a) Tj
+T*
+(repository - a folder on disk that can track changes made to the files within it. Those changes) Tj
+T*
+(are recorded in commits - timestamped bundles of changes to one or more files accompanied by a) Tj
+T*
+(commit message describing those changes and an author recording who made them. Git supports) Tj
+T*
+(branches , which allow you to construct and experiment with new changes independently of each) Tj
+T*
+(other. Branches can then be merged back into your main branch \(using various methods\) once they) Tj
+T*
+(are deemed ready. Git repositories can be cloned onto a new machine, and that clone includes) Tj
+T*
+(both the current files and the full history of changes to them. This m...) Tj
+T*
+() Tj
+T*
+(3. Reuters: ?Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-22T00:52:58Z) Tj
+T*
+(Link: https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-afte) Tj
+T*
+(r-fire-phone-flop-2026-03-20/) Tj
+T*
+(Greg Bensinger, reporting for Reuters: The latest effort, known internally as ?Transformer,? is) Tj
+T*
+(being developed within its devices and services unit, according to four people familiar ?with) Tj
+T*
+(the matter. The phone is seen as a potential mobile personalization device that can sync with) Tj
+T*
+(home voice assistant Alexa and serve as a conduit to Amazon customers throughout the day, the) Tj
+T*
+(people said. [...] As envisioned, the new phone?s personalization features would make buying) Tj
+T*
+(from Amazon.com, watching Prime Video, listening to Prime Music or ordering food from partners) Tj
+T*
+(like Grubhub easier than ever, the people said. They asked for anonymity because they were not) Tj
+T*
+(authorized to discuss internal matters. The problem with this pitch is that it?s not hard at) Tj
+T*
+(all to buy from Amazon.com, watch Prime Video, listen to Prime Music, or order food from) Tj
+T*
+(Grubhub using the phones we already have. All of those things are ridiculously easy. I mean, I) Tj
+T*
+(get it. On an Amazon phone, your Amazon ID would be your primary ID for the system. So those) Tj
+T*
+(Amazon services would all just work right out of the box. But you can?t get people to switch) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4756 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(from the thing they?re used to \(and, in the case of phones, especially iPho...) Tj
+T*
+() Tj
+T*
+(4. Quiche Browser) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-20T15:38:27Z) Tj
+T*
+(Link: https://quiche.industries/browser/) Tj
+T*
+(Quiche Browser is a rather astonishing app from the one-man indie developer Greg de J. / Quiche) Tj
+T*
+(Industries . \(What a killer domain name that is.\) Quiche Browser is a very robust, exquisitely) Tj
+T*
+(designed, stunningly handsome web browser exclusively for iPhone. Just iPhone ? although an) Tj
+T*
+(iPad version is currently in beta. I switched to it as my default iPhone web browser last) Tj
+T*
+(summer, thinking I?d only stick with it for a day or two before going back to Safari, and I) Tj
+T*
+(wound up sticking with it for a few weeks. I did go back to Safari, but it was a remarkably) Tj
+T*
+(close call. So close that, today, I?m going to give it another try. \(And I was so enamored) Tj
+T*
+(during my month-long affair with Quiche that I gladly subscribed to Quiche Plus for $27/year to) Tj
+T*
+(support such a remarkable app.\) Out of the box, every single aspect of Quiche Browser?s UI and) Tj
+T*
+(feature set is designed with obvious thought and care. But it also supports a rich array of) Tj
+T*
+(settings to tweak the design. You can customize the appearance style of the toolbar, the) Tj
+T*
+(location of the toolbar, the buttons on the toolbar. Quiche brings to iOS something very much) Tj
+T*
+(akin to AppKit?s Customize Toolbar from the Mac, but if anything, what Quiche impleme...) Tj
+T*
+() Tj
+T*
+(5. The Day Mark Simonson Discovered Type Design) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-19T19:15:59Z) Tj
+T*
+(Link: https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/) Tj
+T*
+(Mark Simonson: Just by coincidence, I discovered a copy of U&lc magazine in the graphics) Tj
+T*
+(classroom. U&lc was published by ITC, the International Typeface Corporation, a typeface) Tj
+T*
+(publisher, and the designer and editor was the legendary Herb Lubalin. I?d never seen such) Tj
+T*
+(beautiful typography and design. It was a motherlode for an aspiring typophile like me. [...] I) Tj
+T*
+(decided right then that someday, somehow, I wanted to design typefaces. ?) Tj
+T*
+() Tj
+T*
+(6. Some Things Just Take Time) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-03-20T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) Tj
+T*
+(Trees take quite a while to grow. If someone 50 years ago planted a row of oaks or a chestnut) Tj
+T*
+(tree on your plot of land, you have something that no amount of money or effort can replicate.) Tj
+T*
+(The only way is to wait. Tree-lined roads, old gardens, houses sheltered by decades of canopy:) Tj
+T*
+(if you want to start fresh on an empty plot, you will not be able to get that. Because some) Tj
+T*
+(things just take time. We know this intuitively. We pay premiums for Swiss watches, HermËs bags) Tj
+T*
+(and old properties precisely because of the time embedded in them. Either because of the time) Tj
+T*
+(it took to build them or because of their age. We require age minimums for driving, voting, and) Tj
+T*
+(drinking because we believe maturity only comes through lived experience. Yet right now we also) Tj
+T*
+(live in a time of instant gratification, and it?s entering how we build software and companies.) Tj
+T*
+(As much as we can speed up code generation, the real defining element of a successful company) Tj
+T*
+(or an Open Source project will continue to be tenacity. The ability of leadership or the) Tj
+T*
+(maintainers to stick to a problem for years, to build relationships, to work through challenges) Tj
+T*
+(fundamentally defined by human lifetimes. Friction Is Good The cur...) Tj
+T*
+() Tj
+T*
+(7. How to Attract AI Bots to Your Open Source Project) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-21T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html) Tj
+T*
+(I complained on Mastodon about not getting any AI-authored PRs on my open source projects.) Tj
+T*
+(Mauro Pompilio responded by using Claude to write this post and opening a pull request to add) Tj
+T*
+(it to my blog. I merged it, which I suppose counts as my first AI-assisted contribution. Enjoy!) Tj
+T*
+(I maintain several dozen open source repositories across multiple ecosystems. Between them they) Tj
+T*
+(have thousands of stars, hundreds of open issues, and years of commit history. And yet not a) Tj
+T*
+(single AI agent has ever opened a pull request on any of them. Meanwhile colleagues with far) Tj
+T*
+(smaller projects are getting multiple AI-authored PRs per week, some from bots they?ve never) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3666 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(heard of, fixing problems that don?t exist in code they didn?t write. I?m clearly doing) Tj
+T*
+(something wrong. After studying the repositories that attract the most AI contributions, I?ve) Tj
+T*
+(identified a set of practices that correlate strongly with bot engagement. Implementing these) Tj
+T*
+(across your projects should bring you into line with the current median of 4.7 AI-authored PRs) Tj
+T*
+(per month for repositories over 500 stars. Write vague issues AI agents trawl issue trackers) Tj
+T*
+(for problems they can solve. Clear, well-scoped issues with reproduction steps...) Tj
+T*
+() Tj
+T*
+(8. Reading List 03/21/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 21 Mar 2026 12:03:50 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-032126) Tj
+T*
+(Damage to the Ras Laffan LNG facility, housing bubble risks, North Korea?s naval production,) Tj
+T*
+(Bezos? $100 billion for manufacturing automation, and more.) Tj
+T*
+() Tj
+T*
+(9. Democracy is a Liability) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-03-21T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/03/21/democracy-liability.html) Tj
+T*
+(Once you have no more earning potential, you?d think the advertising would go away. If you have) Tj
+T*
+(no money, there?s no reason for people to pay to manipulate you to get you to give them some.) Tj
+T*
+(Google and Facebook will die, and this evil sector of the economy will finally be destroyed. I) Tj
+T*
+(wish. As long as you have the ability to vote, there?s still a reason to manipulate you. And) Tj
+T*
+(with there being less to buy and more value to be gained in influencing the monopoly on) Tj
+T*
+(violence, the ad onslaught will continue. It will be even worse, it?s not just about you buying) Tj
+T*
+(something, it?s about you believing something. It reaches inside. Basketball is not a) Tj
+T*
+(democracy. The players don?t even get a vote, let alone the fans. But conservatism can maintain) Tj
+T*
+(a systematic pattern of delusion, because its fans are not just fans: they are supporters of a) Tj
+T*
+(political machine. This machine will disappear if it cannot keep its believers, so it has an) Tj
+T*
+(incentive to keep them. And it does. Funny how that works. ? Mencius Moldbug As an aside, I) Tj
+T*
+(cannot believe the amount of people who think that eventually an AI will come and do their job) Tj
+T*
+(for them while they collect the salary. This is the delusion of someone who thin...) Tj
+T*
+() Tj
+T*
+(10. Could VC be a Casualty of the Recession?) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/divergence.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(11. The High-Res Society) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/highres.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(12. The Other Half of "Artists Ship") Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/artistsship.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(13. Hacker Monthly publication) Tj
+T*
+(Source: Fabien Sanglard | Published: Fri, 15 Jul 2011 01:36:45 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/hackerMonthly/index.php) Tj
+T*
+(Hacker Monthly July edition has published my article in which I described the internals of Doom) Tj
+T*
+(engine.. . More...) Tj
+T*
+() Tj
+T*
+(14. SHMUP Source Code) Tj
+T*
+(Source: Fabien Sanglard | Published: Thu, 30 Jun 2011 01:36:45 -0600) Tj
+T*
+(Link: https://fabiensanglard.net/shmup_source_code/index.php) Tj
+T*
+(I have decided to release the full source code of "Shmup" a shoot'em up 3D engine specially) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3695 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(designed for mobile platform and released on iOS in 2010. The game and engine are fairly) Tj
+T*
+(inspired of Ikaruga, the legendary shmup from the 1999 DreamCast. Anything you saw in Ikaruga,) Tj
+T*
+(this engine can do it too. The license is GPL which mean you have to release the source code of) Tj
+T*
+(what you produce with it. Note that the data folder is provided so you can play with it but you) Tj
+T*
+(are not free to redistribute it and I remain the owner of the content \(except for the song from) Tj
+T*
+(Future Crew that was licensed\). . More...) Tj
+T*
+() Tj
+T*
+(15. Polygon Codec) Tj
+T*
+(Source: Fabien Sanglard | Published: Sun, 26 Jun 2011 15:36:45 -0600) Tj
+T*
+(Link: https://fabiensanglard.net/polygon_codec/index.php) Tj
+T*
+(Back in the summer of 2009 I was working on a 3D engine that would power my next game: A 3D) Tj
+T*
+(shoot'em up a la Ikaruga. The target was the very first iPhone \(now called iPhone 2G\). Despite) Tj
+T*
+(being impressive on paper \(600Mhz with dedicated GPU\), the hardware had several issues and the) Tj
+T*
+(lack of dedicated VRAM was a huge bottleneck. Unwilling to settle for anything less than 60) Tj
+T*
+(frames per second I became obsessed with saving bandwidth and I tried different approach until) Tj
+T*
+(an idea proved to be not so bad...but I had to dive in the four dimensionnal world of) Tj
+T*
+(homogeneous coordinates to make it work. . More...) Tj
+T*
+() Tj
+T*
+(16. De hele overheid naar de cloud? Dat is een politiek besluit.) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 31 May 2024 08:00:00 +0200) Tj
+T*
+(Link:) Tj
+T*
+(https://berthub.eu/articles/posts/de-hele-overheid-naar-de-cloud-dat-is-een-politiek-besluit/) Tj
+T*
+(De hele korte versie: stilletjes maar in hoog tempo verhuizen cruciale ICT-diensten binnen de) Tj
+T*
+(Nederlandse overheid naar met name Microsoft-servers onder Amerikaans recht. Dit neemt zulke) Tj
+T*
+(enorme vormen aan dat de ICT-kennis binnen de Nederlandse overheid, maar ook binnen Nederland) Tj
+T*
+(zelf, snel afkalft. Ook is deze beweging dodelijk voor onze eigen Europese industrie, waardoor) Tj
+T*
+(we straks echt geheel hulpeloos zijn. De overheid mag volgens eigen beleid weloverwogen naar de) Tj
+T*
+(cloud verhuizen.) Tj
+T*
+() Tj
+T*
+(17. How sovereign do you want to be?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 23 May 2024 10:48:26 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/how-sovereign-do-you-want-to-be/) Tj
+T*
+(Sovereignty is a great word, and it has a nice ring to it. Everyone would like to be sovereign,) Tj
+T*
+(but being so comes with costs and inconveniences. Therefore, it?s useful to break down the) Tj
+T*
+(concept to see what we really mean by it and what we?d be prepared to do to be ?sovereign?.) Tj
+T*
+(Confidentiality is often the first thing that comes to mind. Who can read all our) Tj
+T*
+(communications and files?) Tj
+T*
+() Tj
+T*
+(18. De Plasterk cs DNA Patenten) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 19 May 2024 10:00:22 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/de-plasterk-cs-dna-patenten/) Tj
+T*
+(Er is een hoop gedoe over Ronald Plasterk en zijn DNA patenten. Onderbelicht is nog wat die) Tj
+T*
+(patenten dan beschrijven, en misschien is dat ook wel leuk om te weten. Het gaat om) Tj
+T*
+(WO2023068931A1 \(Cancer neoantigens\), WO2021172990A1 \(Hidden frame neoantigens\), WO2020022897A1) Tj
+T*
+(\(Method of preparing subject-specific immunogenic compositions based on a neo) Tj
+T*
+(open-reading-frame peptide database\). Er zijn ook nog vijf specifiekere patenten voor bepaalde) Tj
+T*
+(ziektes. Onze cellen bevatten per stuk zo?n 750 megabyte aan unieke DNA code.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000005017 00000 n 
+0000005143 00000 n 
+0000009951 00000 n 
+0000010077 00000 n 
+0000013795 00000 n 
+0000013921 00000 n 
+0000017669 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+17797
+%%EOF
