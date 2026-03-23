@@ -1,0 +1,464 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4311 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-23 09:38:50) Tj
+T*
+() Tj
+T*
+(1. Experimenting with Starlette 1.0 with Claude skills) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-22T23:57:44+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/22/starlette/#atom-everything) Tj
+T*
+(Starlette 1.0 is out ! This is a really big deal. I think Starlette may be the Python framework) Tj
+T*
+(with the most usage compared to its relatively low brand recognition because Starlette is the) Tj
+T*
+(foundation of FastAPI , which has attracted a huge amount of buzz that seems to have) Tj
+T*
+(overshadowed Starlette itself. Kim Christie started working on Starlette in 2018 and it quickly) Tj
+T*
+(became my favorite out of the new breed of Python ASGI frameworks. The only reason I didn't use) Tj
+T*
+(it as the basis for my own Datasette project was that it didn't yet promise stability, and I) Tj
+T*
+(was determined to provide a stable API for Datasette's own plugins... albeit I still haven't) Tj
+T*
+(been brave enough to ship my own 1.0 release \(after 26 alphas and counting\)! Then in September) Tj
+T*
+(2025 Marcelo Trylesinski announced that Starlette and Uvicorn were transferring to their GitHub) Tj
+T*
+(account , in recognition of their many years of contributions and to make it easier for them to) Tj
+T*
+(receive sponsorship against those projects. The 1.0 version has a few breaking changes compared) Tj
+T*
+(to the 0.x series, described in the release notes for 1.0.0rc1 that came out in February. The) Tj
+T*
+(most notable of these is a change to how code runs on startup and shu...) Tj
+T*
+() Tj
+T*
+(2. Mux ? Video API for Developers) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-22T17:35:00Z) Tj
+T*
+(Link: https://www.mux.com/?utm_campaign=fireball&utm_source=DF) Tj
+T*
+(My thanks to Mux for sponsoring last week at DF. Video isn?t just something to watch; it?s a) Tj
+T*
+(boatload of context and data. Mux makes it easy to ship and scale video into anything from) Tj
+T*
+(websites to platforms to AI workflows. Unlock what?s inside: transcripts, clips, and) Tj
+T*
+(storyboards to build summarization, translation, content moderation, tagging, and more. Mux) Tj
+T*
+(stewards Video.js, the web?s most popular open source video player. Video.js v10 is a complete) Tj
+T*
+(architectural rebuild, with the beta now available at videojs.org . Mux is video infrastructure) Tj
+T*
+(trusted by Patreon, Substack, and Synthesia. Get started free, no credit card required. Use) Tj
+T*
+(code FIREBALL for an extra $50 credit. ?) Tj
+T*
+() Tj
+T*
+(3. ?Good, I?m Glad He?s Dead.?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-22T17:18:10Z) Tj
+T*
+(Link: https://truthsocial.com/@realDonaldTrump/116268334535345382) Tj
+T*
+(The sitting president of the United States, on his blog: Robert Mueller just died. Good, I?m) Tj
+T*
+(glad he?s dead. He can no longer hurt innocent people! President DONALD J. TRUMP As the elderly) Tj
+T*
+(descend further into dementia, they lose their sense of propriety and simply speak their mind.) Tj
+T*
+(\(They also get confused and think they need to ?sign? their text messages and social media) Tj
+T*
+(posts.\) Say what you want about Trump?s truthfulness generally, but here, he?s just being) Tj
+T*
+(brutally honest. Let?s keep his ?Good, I?m glad he?s dead? post bookmarked for when Trump) Tj
+T*
+(himself finally keels over ? after he chokes on a hamburger or whatever it?ll be that finally) Tj
+T*
+(does him in ? and the good people of the world rejoice and celebrate. ?) Tj
+T*
+() Tj
+T*
+(4. Half a Gigabyte of Ads) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-22T16:41:09Z) Tj
+T*
+(Link:) Tj
+T*
+(https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) Tj
+T*
+(Stuart Breckenridge, examining a web page at PC Gamer: Third, this is a whopping 37MB webpage) Tj
+T*
+(on initial load. But that?s not the worst part. In the five minutes since I started writing) Tj
+T*
+(this post the website has downloaded almost half a gigabyte of new ads . This is so) Tj
+T*
+(irresponsible and unprofessional it beggars belief. Web browsers ought to defend against this.) Tj
+T*
+(Why not cap page loads by default at, I don?t know, 5 MB? And require explicit consent to) Tj
+T*
+(download any additional content? ?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 3827 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(5. All tests pass: a short story) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Sun, 22 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/all-tests-pass-a-short-story/) Tj
+T*
+(One night, I wrote a simple tool to pick a random programming language . After shuffling a few) Tj
+T*
+(times, I landed on Arturo . I decided to try it for fun. What?s Arturo? Best I understand,) Tj
+T*
+(Arturo is a stack-based programming language. It?s primarily maintained by Yanis ZafirÛpulos.) Tj
+T*
+(They published a vision of the language in 2020. Here?s the stated goal from that post: to make) Tj
+T*
+(something that I myself will use as an easier do-it-all scripting language, you know?) Tj
+T*
+(automation scripts, templating, latex generation and perhaps help me a bit in the packaging of) Tj
+T*
+(webview-based applications \(think of Electron, but something far more manageable and without) Tj
+T*
+(having to deal with Node.js and the likes\). As a stickler for syntax, I bristle at this) Tj
+T*
+(writing. That first word, ?to?, should be capitalized. In fact, the whole sentence is too long) Tj
+T*
+(and structured strangely. ?latex? should be ?L a T e X?. This post, while readable, could be) Tj
+T*
+(edited for clarity and correctness. Arturo?s website, on the other hand? Flawless! Not a) Tj
+T*
+(grammar error in sight, and a spiffy design to boot! ?Simple. Expressive. Portable.? sits in a) Tj
+T*
+(prominent . I scrolled down to see the language?s features. Here are two of the six I lik...) Tj
+T*
+() Tj
+T*
+(6. Little web app to pick a random programming language) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Sun, 22 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/random-programming-language/) Tj
+T*
+(I wrote a web app to choose a random programming language . It?s very simple; I hestitate to) Tj
+T*
+(even call it an ?app?! The interesting part was scraping all the languages on Rosetta Code ,) Tj
+T*
+(and even that wasn?t very interesting. But I hope you like it! I learned about a language) Tj
+T*
+(called Arturo this way, and wrote a short story about that experience .) Tj
+T*
+() Tj
+T*
+(7. Bored of eating your own dogfood? Try smelling your own farts!) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 22 Mar 2026 12:34:07 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/) Tj
+T*
+(I called a large company the other day. Did I know the information I wanted could be found on) Tj
+T*
+(their website? And was I aware that I could manage my account online? And would I like to) Tj
+T*
+(receive a link to chat with their AI assistant via WhatsApp? Naturally, call volumes were) Tj
+T*
+(higher than expected. I can only assume that whoever was in charge of predicting call volumes) Tj
+T*
+(had recent suffered a?) Tj
+T*
+() Tj
+T*
+(8. "Collaboration" is bullshit.) Tj
+T*
+(Source: Westenberg. | Published: Sun, 22 Mar 2026 23:31:25 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/collaboration-is-bullshit/) Tj
+T*
+(This newsletter is free to read, and it?ll stay that way. But if you want more - extra posts) Tj
+T*
+(each month, access to the community, and a direct line to ask me things - paid subscriptions) Tj
+T*
+(are $2.50/month. A lot of people have told me it&) Tj
+T*
+() Tj
+T*
+(9. Why to Start a Startup in a Bad Economy) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/badeconomy.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(10. A Fundraising Survival Guide) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/fundraising.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(11. The Pooled-Risk Company Management Company) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/prcmc.html) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4140 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(12. Hitachi Ltd, Part I) Tj
+T*
+(Source: Abort Retry Fail | Published: Mon, 23 Mar 2026 00:14:27 GMT) Tj
+T*
+(Link: https://www.abortretry.fail/p/hitachi-ltd-part-i) Tj
+T*
+(Kabushikigaisha Hitachi Seisaku-sho) Tj
+T*
+() Tj
+T*
+(13. Refurb weekend double header: Alpha Micro AM-1000E and AM-1200) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-03-21T20:14:00.000-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html) Tj
+T*
+(I've mentioned previously my great affection for Alpha Microsystems hardware, which are rather) Tj
+T*
+(obscure computers nowadays, but back in the 1980s and 1990s were fairly sophisticated) Tj
+T*
+(68000-based multiuser systems that turned up in all kinds of vertical markets. For example, my) Tj
+T*
+(first Alpha Micro \(an Eagle 300\) came from a party supplies store, my Eagle 450 was in a 9-1-1) Tj
+T*
+(emergency dispatch centre, and I've seen or heard of them running in medical and veterinary) Tj
+T*
+(offices, churches, and even funeral homes. In fact, I know for a fact many of these blue-collar) Tj
+T*
+(computers are still out there quietly doing their jobs in back offices and small businesses to) Tj
+T*
+(this day. They're probably most technically notable for AMOS, their highly efficient) Tj
+T*
+(real-memory preemptively multitasked operating system, and the fact they are \(as far as I can) Tj
+T*
+(tell\) the only 68K-based machines to effectively run little -endian. Sadly my beloved Eagle 300) Tj
+T*
+(appears to have suffered a system board fault and will not complete the power-on sequence, so) Tj
+T*
+(the ColdFire-based Eagle 450 has temporarily taken over server duties for it on) Tj
+T*
+(ampm.floodgap.com . Fortunately I have a source identified for E300 replacement hardware and) Tj
+T*
+(one...) Tj
+T*
+() Tj
+T*
+(14. dEngine Source Code Released) Tj
+T*
+(Source: Fabien Sanglard | Published: Thu, 28 Apr 2011 15:36:45 -0600) Tj
+T*
+(Link: https://fabiensanglard.net/dEngineSourceCodeRelease/index.php) Tj
+T*
+(I've decided to release the source code of the OpenGS ES 1.0/2.0 renderers I wrote in the) Tj
+T*
+(summer of 2009 nicknamed "dEngine". It was the first renderer to feature Shadow Mapping and) Tj
+T*
+(Bump Mapping on iPhone at the time. Note that shadow mapping was achieve by packing the depth) Tj
+T*
+(informations in a color texture but now you have access to GL_OES_depth_texture so you should) Tj
+T*
+(be able to gain so more speed. I consider it a good tutorial for OpenGL ES 2.0, you can read) Tj
+T*
+(about bump-mapping and shadow-mapping with a fun example from a Doom 3 level. The OpenGL ES 2.0) Tj
+T*
+(renderer feature uber-shaders: Depending on the material currently renderered a shader is) Tj
+T*
+(recompiled on the fly in order to avoid branching. Enjoy: . More...) Tj
+T*
+() Tj
+T*
+(15. To generate 60fps videos on iOS) Tj
+T*
+(Source: Fabien Sanglard | Published: Mon, 21 Feb 2011 15:36:45 -0600) Tj
+T*
+(Link: https://fabiensanglard.net/shmup_generate_videos/index.php) Tj
+T*
+(Back in winter 2009 I was working pretty hard on the 3D engine that would power my next) Tj
+T*
+(iPhone/iPad game: "SHMUP" . To demo the work in progress required to generate videos, a task) Tj
+T*
+(far from being trivial on a smartphone: Slow CPU/GPU, Little RAM, no TV output, no storage) Tj
+T*
+(space, no real multitasking. Hence I had the idea to have the engine generate its own videos.) Tj
+T*
+(This is how I did it, maybe it will inspire someone.. More...) Tj
+T*
+() Tj
+T*
+(16. To become a good C programmer) Tj
+T*
+(Source: Fabien Sanglard | Published: Wed, 02 Feb 2011 15:36:45 -0600) Tj
+T*
+(Link: https://fabiensanglard.net/c/index.php) Tj
+T*
+(Every once in a while I receive an email from a fellow programmer asking me what language I) Tj
+T*
+(used for one of my games and how I learned it. Hence, I thought it may help a few people to) Tj
+T*
+(list here the best things to read about C. If you know of other gems, please email me or add a) Tj
+T*
+(comment at the bottom of the page. More...) Tj
+T*
+() Tj
+T*
+(17. Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2260 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Bert Hubert's writings | Published: Sun, 22 Mar 2026 10:46:12 +0100) Tj
+T*
+(Link:) Tj
+T*
+(https://berthub.eu/articles/posts/waarom-we-nu-wel-zuinig-moeten-doen-en-meer-groene-energie/) Tj
+T*
+(Het Internationaal Energie Agentschap zegt dat we zuinig aan moeten doen vanwege de oorlogen in) Tj
+T*
+(het Midden Oosten. Ministers in Den Haag zeggen dat het niet hoeft, want er zijn hier geen) Tj
+T*
+(tekorten \(!\). Doet wel erg denken aan ?COVID blijft in Brabant?. Kennelijk een Nederlandse) Tj
+T*
+(traditie! Maar, natuurlijk komen die tekorten ook naar ons toe, de benzine is nu al) Tj
+T*
+(stervensduur. Maar heeft het zin om nu in de zomer slim met energie te doen?) Tj
+T*
+() Tj
+T*
+(18. Cyber Security: A Pre-War Reality Check) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 14 May 2024 20:48:26 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/) Tj
+T*
+(This is a lightly edited transcript of my presentation today at the ACCSS/NCSC/Surf seminar) Tj
+T*
+(?Cyber Security and Society?. I want to thank the organizers for inviting me to their) Tj
+T*
+(conference & giving me a great opportunity to talk about something I worry about a lot. Here) Tj
+T*
+(are the original slides with notes, which may be useful to view together with the text below.) Tj
+T*
+(In the notes there are also additional URLs that back up the claims I make in what follows.) Tj
+T*
+() Tj
+T*
+(19. Of je doet geen cookies?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 06 May 2024 21:07:14 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/of-je-doet-geen-cookies/) Tj
+T*
+(We leven in rare tijden. Cookies en tracking zijn overal op internet. We worden overal gevolgd,) Tj
+T*
+(iedere klik wordt bijgehouden. Tools als Google Analytics zijn hierbij een Faustiaanse deal: De) Tj
+T*
+(analytics vertellen jou dingen over je gebruikers, en in ruil vertel jij Google wat diezelfde) Tj
+T*
+(gebruikers op jouw site doen. Vreemd genoeg hebben bergen non-profit en \(overheids\)organisaties) Tj
+T*
+(met goede bedoelingen ook al die cookies en trackers aanstaan op hun sites. Zo doen ze vrolijk) Tj
+T*
+(mee aan ?surveillance capitalism?, ook al hoeven ze niet te leven van advertenties.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004573 00000 n 
+0000004699 00000 n 
+0000008578 00000 n 
+0000008704 00000 n 
+0000012896 00000 n 
+0000013022 00000 n 
+0000015335 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15463
+%%EOF
