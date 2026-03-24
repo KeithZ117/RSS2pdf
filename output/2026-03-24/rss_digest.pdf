@@ -1,0 +1,686 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4108 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-24 09:38:16) Tj
+T*
+() Tj
+T*
+(1. Quoting Neurotica) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-23T23:31:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything) Tj
+T*
+(slop is something that takes more human effort to consume than it took to produce. When my) Tj
+T*
+(coworker sends me raw Gemini output he?s not expressing his freedom to create, he?s) Tj
+T*
+(disrespecting the value of my time ? Neurotica , @schwarzgerat.bsky.social Tags: ai-ethics ,) Tj
+T*
+(slop , generative-ai , ai , llms) Tj
+T*
+() Tj
+T*
+(2. datasette-files 0.1a2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-23T23:06:38+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything) Tj
+T*
+(Release: datasette-files 0.1a2 The most interesting alpha of datasette-files yet, a new plugin) Tj
+T*
+(which adds the ability to upload files directly into a Datasette instance. Here are the release) Tj
+T*
+(notes in full: Columns are now configured using the new column_types system from Datasette) Tj
+T*
+(1.0a26. #8 New file_actions plugin hook, plus ability to import an uploaded CSV/TSV file to a) Tj
+T*
+(table. #10 UI for uploading multiple files at once via the new documented JSON upload API. #11) Tj
+T*
+(Thumbnails are now generated for image files and stored in an internal) Tj
+T*
+(datasette_files_thumbnails table. #13 Tags: annotated-release-notes , datasette) Tj
+T*
+() Tj
+T*
+(3. Quoting David Abram) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-23T18:56:18+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything) Tj
+T*
+(I have been doing this for years, and the hardest parts of the job were never about typing out) Tj
+T*
+(code. I have always struggled most with understanding systems, debugging things that made no) Tj
+T*
+(sense, designing architectures that wouldn't collapse under heavy load, and making decisions) Tj
+T*
+(that would save months of pain later. None of these problems can be solved LLMs. They can) Tj
+T*
+(suggest code, help with boilerplate, sometimes can act as a sounding board. But they don't) Tj
+T*
+(understand the system, they don't carry context in their "minds", and they certianly don't know) Tj
+T*
+(why a decision is right or wrong. And the most importantly, they don't choose. That part is) Tj
+T*
+(still yours. The real work of software development, the part that makes someone valuable, is) Tj
+T*
+(knowing what should exist in the first place, and why. ? David Abram , The machine didn't take) Tj
+T*
+(your craft. You gave it up. Tags: careers , ai-assisted-programming , generative-ai , ai , llms) Tj
+T*
+() Tj
+T*
+(4. [Sponsor] npx workos: From Auth Integration to Environment Management, Zero ClickOps) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-24T00:05:06Z) Tj
+T*
+(Link: https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&utm_medium=newsle) Tj
+T*
+(tter&utm_campaign=q12026) Tj
+T*
+(npx workos@latest launches an AI agent, powered by Claude , that reads your project, detects) Tj
+T*
+(your framework, and writes a complete auth integration into your codebase. No signup required.) Tj
+T*
+(It creates an environment, populates your keys, and you claim your account later when you?re) Tj
+T*
+(ready. But the CLI goes way beyond installation . WorkOS Skills make your coding agent a WorkOS) Tj
+T*
+(expert. workos seed defines your environment as code. workos doctor finds and fixes) Tj
+T*
+(misconfigurations. And once you?re authenticated, your agent can manage users, orgs, and) Tj
+T*
+(environments directly from the terminal. No more ClickOps. See how it works ? ?) Tj
+T*
+() Tj
+T*
+(5. Gasoline Prices Around the World) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-23T20:48:18Z) Tj
+T*
+(Link: https://www.globalpetrolprices.com/gasoline_prices/) Tj
+T*
+(I love a single-purpose website like this. \(I had no idea gas was so expensive in Hong Kong.\) ?) Tj
+T*
+() Tj
+T*
+(6. WWDC 2026: June 8?12) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-23T18:20:04Z) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4490 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the) Tj
+T*
+(-week-of-june-8/) Tj
+T*
+(Apple Newsroom: WWDC kicks off with the Keynote and Platforms State of the Union on Monday,) Tj
+T*
+(June 8. The conference continues online all week with over 100 video sessions and interactive) Tj
+T*
+(group labs and appointments, where developers can connect directly with Apple engineers and) Tj
+T*
+(designers to explore the latest announcements. The conference will take place on the Apple) Tj
+T*
+(Developer app , website , and YouTube channel ; and on the Apple Developer bilibili channel in) Tj
+T*
+(China. I?ve never before heard of Bilibili , which seems to be a Chinese equivalent to YouTube.) Tj
+T*
+(As usual, there?s a lottery of sorts to attend the keynote in person . ?) Tj
+T*
+() Tj
+T*
+(7. How can I make sure the anti-malware software doesn?t terminate my custom service?) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 23 Mar 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260323-00/?p=112157) Tj
+T*
+(You'll have to ask nicely. The post How can I make sure the anti-malware software doesn?t) Tj
+T*
+(terminate my custom service? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. ?CanisterWorm? Springs Wiper Attack Targeting Iran) Tj
+T*
+(Source: Krebs on Security | Published: Mon, 23 Mar 2026 15:43:04 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/) Tj
+T*
+(A financially motivated data theft and extortion group is attempting to inject itself into the) Tj
+T*
+(Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data) Tj
+T*
+(on infected systems that use Iran's time zone or have Farsi set as the default language.) Tj
+T*
+() Tj
+T*
+(9. Set intersection and difference at the command line) Tj
+T*
+(Source: John D. Cook | Published: Mon, 23 Mar 2026 11:39:47 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/23/intersection-difference/) Tj
+T*
+(A few years ago I wrote about comm, a utility that lets you do set theory at the command line.) Tj
+T*
+(It?s a really useful little program, but it has two drawbacks: the syntax is hard to remember,) Tj
+T*
+(and the input files must be sorted. If A and B are two sorted lists, comm A B [?] The post Set) Tj
+T*
+(intersection and difference at the command line first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Pluralistic: Understaffing as a form of enshittification \(23 Mar 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 23 Mar 2026 05:54:55) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/03/22/nobodys-home/) Tj
+T*
+(Today's links Understaffing as a form of enshittification: A way to shift value from workers,) Tj
+T*
+(patients and shoppers to investors. Hey look at this: Delights to delectate. Object permanence:) Tj
+T*
+(Marvel v "superhero"; What's a photocopier?; "Up Against It"; "Medusa's Web"; AI can't do your) Tj
+T*
+(job; Coping with plenty; "The Shakedown"; Chickenized reverse-centaurs; France v iTunes;) Tj
+T*
+(Copyfight discipline; Mystery lobbyists; "Where the Axe is Buried"; Free/open microprocessor;) Tj
+T*
+(Folk models of computer security; Bug-eyed steampunk mask; Academics embracing Wikipedia.) Tj
+T*
+(Upcoming appearances: Berkeley, Montreal, London, Berlin, Hay-on-Wye. Recent appearances: Where) Tj
+T*
+(I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I) Tj
+T*
+(said, I'll keep writin' 'em. Colophon: All the rest. Understaffing as a form of) Tj
+T*
+(enshittification \(permalink\) At root, enshittification can only take place when companies can) Tj
+T*
+(move value around. Digital tools make it easier than ever to do this, for example, by changing) Tj
+T*
+(prices on a per-user, per-session basis, using commercial surveillance data to predict the) Tj
+T*
+(highest price or lowest wage a user will accept:) Tj
+T*
+(https://pluralistic.net/2023/02/19/twiddler/...) Tj
+T*
+() Tj
+T*
+(11. Mass production's effects on the cheapest way to get some things) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-23T02:01:35Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/VolumeMakesOddThingsCheap) Tj
+T*
+(We have a bunch of networks in a number of buildings , and as part of looking after them, we) Tj
+T*
+(want to monitor whether or not they're actually working. For reasons beyond the scope of this) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 5084 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(entry we don't do things like collect information from our switches through SNMP, so our best) Tj
+T*
+(approach is 'ping something on the network in the relevant location'. This requires something) Tj
+T*
+(to ping. We want that thing to be stable and always on the network, which typically rules out) Tj
+T*
+(machines and devices run by other people, and we want it to run from standard wall power for) Tj
+T*
+(various reasons. You can imagine a bunch of solutions to this for both wired and wireless) Tj
+T*
+(networks. There are lots of cheap little computers these days that can run Linux, so you could) Tj
+T*
+(build some yourself or expect to find someone selling them pre-made. However, these are) Tj
+T*
+(unlikely to be a mass produced volume product, and it turns out that the flipside of things) Tj
+T*
+(only being cheap when there is volume is that if there is volume, unexpected things can be the) Tj
+T*
+(cheapest option. The cheapest wall-powered device you can put on your wireless network to ping) Tj
+T*
+(these days turns out to be a remote controlled power plug intended for home automa...) Tj
+T*
+() Tj
+T*
+(12. A traditional path to getting lingering duplicate systems) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-21T20:37:14Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII) Tj
+T*
+(In yesterday's entry I described a lingering duplicate system and how it had taken us a long) Tj
+T*
+(time to get rid of it , but I got too distracted by the story to write down the general) Tj
+T*
+(thoughts I had on how this sort of thing happens and keeps happening \(also, the story turned) Tj
+T*
+(out to be longer than I expected\). We've had other long running duplicate systems, and often) Tj
+T*
+(they have more or less the same story as yesterday's disk space usage tracking system . The) Tj
+T*
+(first system built is a basic system. It's not a bad system, but it's limited and you know it.) Tj
+T*
+(You can only afford to gather disk usage information once a day and you have nowhere to put it) Tj
+T*
+(other than in the filesystem, which makes it easy to find and independent of anything else but) Tj
+T*
+(also stops it updating when the filesystem fills up. Over time you may improve this system) Tj
+T*
+(\(cheaper updates that happen more often, a limited amount of high resolution information\), but) Tj
+T*
+(the fundamental issues with it stick around. After a while it becomes possible to build a) Tj
+T*
+(different, better system \(you gather disk usage information every few minutes and put it in) Tj
+T*
+(your new metrics system\), or maybe you just realize how to do a better version from scr...) Tj
+T*
+() Tj
+T*
+(13. Lingering duplicate systems and the expense of weeding them out \(an illustration\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-21T03:06:22Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems) Tj
+T*
+(We have been operating a fileserver environment for a long time now, back before we used ZFS .) Tj
+T*
+(When you operate fileservers in a traditional general Unix environment , one of the things you) Tj
+T*
+(need is disk usage information. So a very long time ago, before I even arrived, people built a) Tj
+T*
+(very Unix-y system to do this. Every night, raw usage information was generated for each) Tj
+T*
+(filesystem \(for a while with ' du '\), written to a special system directory in the filesystem,) Tj
+T*
+(and then used to create a text file with a report showing currently usage and the daily and) Tj
+T*
+(weekly change in everyone's usage. A local 'report disk usage' script would then basically run) Tj
+T*
+(your pager on this file. After a while, we we able to improve this system by using native ZFS) Tj
+T*
+(commands to get per-user 'quota' usage information, which made it much faster than the old way) Tj
+T*
+(\(we couldn't do this originally because we started with ZFS before ZFS tracked this) Tj
+T*
+(information\). Later, this made it reasonable to generate a 'frequent' disk usage report every) Tj
+T*
+(fifteen minutes \(with it keeping a day's worth of data\), which could be helpful to identify who) Tj
+T*
+(had suddenly used a lot of disk space; we wrote some scripts to use this informa...) Tj
+T*
+() Tj
+T*
+(14. Changing the World) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-03-23T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/03/23/changing-the-world.html) Tj
+T*
+(Why do I feel like I?m the only one who took this to mean, like ?sending the world on a) Tj
+T*
+(different trajectory?? It seems like others took it to mean something else. From my 2017 song ,) Tj
+T*
+(?Changing the world is just a euphemism, for how can I, get you, to give more stuff to me.?) Tj
+T*
+(What kind of pathetic loser would give their life to that dream. There?s nothing in the world) Tj
+T*
+(that?s worth it, even if the whole world was mine, even if everything was given to me. The) Tj
+T*
+(stuff I want doesn?t exist yet, like immortality, super intelligent robot friends, and a five) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4269 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(star hotel on Mars. If you want those things, you actually have to?change the world. When I was) Tj
+T*
+(7, I?d go to my aunt?s house and play Super Mario World in the basement. I knew enough about) Tj
+T*
+(computers to know that the level completions were just bytes stored in the memory of the) Tj
+T*
+(system. Getting a Game Genie shoved that fact in your face, and it forced me to realize that if) Tj
+T*
+(you wanted to keep enjoying the game, it couldn?t be about the destination, it needed to be) Tj
+T*
+(about the journey. The hours spent grinding the levels needed to be the payoff itself, not) Tj
+T*
+(beating the game. Because you could just beat the game by flipping a few bytes. Money i...) Tj
+T*
+() Tj
+T*
+(15. More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 22 Mar 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/notes-site-updates/) Tj
+T*
+(I shipped some updates to my notes site . Nothing huge. Just small stuff. But what is big stuff) Tj
+T*
+(except a bunch of small stuff combined? So small stuff is important too. What follows is a) Tj
+T*
+(bunch of tiny details you probably don?t care about, but they were all decisions I had to make) Tj
+T*
+(and account for along the way to shipping. For me, the small details are the fun part! Each) Tj
+T*
+(Post Now Has Its Own URL The site used to consist of a single, giant HTML page with every note) Tj
+T*
+(ever. For feeds and linking purposes, I would link to individual posts by anchor linking) Tj
+T*
+(somewhere in that giant HTML document, e.g. https://notes.jim-nielsen.com/#2026-03-09T2305 That) Tj
+T*
+(worked fine, but as my notes page was getting bigger and bigger, it seemed like a waste to load) Tj
+T*
+(everything when all I wanted to do was link to a single note. So I changed things. Now every) Tj
+T*
+(note now gets its own individual page, e.g. https://notes.jim-nielsen.com/n/2026-03-09-2305/) Tj
+T*
+(You Might Have Noticed: I Changed the Note?s Identifier Whenever I create a note, I name it) Tj
+T*
+(based on the date/time of publishing, e.g. 2026-03-09T2305.md That is what turns into the) Tj
+T*
+(fragment identifier when deep linking to the note, e.g. /#2026-03-09T2305 Initial...) Tj
+T*
+() Tj
+T*
+(16. Cities and Ambition) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/cities.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(17. Disconnecting Distraction) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/distraction.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(18. Lies We Tell Kids) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/lies.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(19. Writing an LLM from scratch, part 32f -- Interventions: weight decay) Tj
+T*
+(Source: Giles' blog | Published: Mon, 23 Mar 2026 23:55:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay) Tj
+T*
+(I'm still working on improving the test loss for a from-scratch GPT-2 small base model, trained) Tj
+T*
+(on code based on Sebastian Raschka 's book " Build a Large Language Model \(from Scratch\) ". In) Tj
+T*
+(my training code, I have this code to create the optimiser: optimizer = torch . optim . AdamW \() Tj
+T*
+(model . parameters \(\), lr = 0.0004 , weight_decay = 0.1 \) In my last post I looked into the) Tj
+T*
+(learning rate, the lr parameter in that code, and found a value for that, plus some extra code) Tj
+T*
+(to schedule it -- that is, to vary it over time -- which gave better training results. This) Tj
+T*
+(time I want to go into the weight decay. What is it, what is it for, and is 0.1 really the best) Tj
+T*
+(value? I was a little concerned going into this that in order to understand this) Tj
+T*
+(hyperparameter, I'd need to have a good understanding of how the optimiser works; I've been) Tj
+T*
+(building what I think is a solid mental model of optimisers, but I don't think I understand) Tj
+T*
+(them well enough to explain them yet, and I've been hoping to delay posting about them to a) Tj
+T*
+(separate blog post series after this one. The good news is that while weight decay is an) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3886 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(important aspect of how optimisers work -- the "W" in AdamW, the thing that makes it differ...) Tj
+T*
+() Tj
+T*
+(20. The Pancake Discussion) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-03-23T13:17:36Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion) Tj
+T*
+(When every discussion feels flat, how do you fluff it up? The answer, to me, is to eat fewer) Tj
+T*
+(pancakes.) Tj
+T*
+() Tj
+T*
+(21. SHMUP Lite) Tj
+T*
+(Source: Fabien Sanglard | Published: Sun, 19 Dec 2010 15:36:45 -0600) Tj
+T*
+(Link: https://fabiensanglard.net/shmupLite/) Tj
+T*
+(I have decided to release a free version of "SHMUP" . It is called "SHMUP Lite" and the only) Tj
+T*
+(limitation is that you can only play the first level for free, if you want to continue further) Tj
+T*
+(you have to go for the full version.) Tj
+T*
+() Tj
+T*
+(22. All about the fillrate) Tj
+T*
+(Source: Fabien Sanglard | Published: Sat, 11 Dec 2010 15:36:45 -0600) Tj
+T*
+(Link: https://fabiensanglard.net/fillrate_issues/) Tj
+T*
+(I bought "Blade infinity" yesterday. The game is a lot of fun and has the ability to satisfy) Tj
+T*
+(both people looking for instant fun and people wishing for a long game while collecting) Tj
+T*
+(powerful items. At $5.99 it is a bargain, a must have not only for the gameplay but also for) Tj
+T*
+(its graphical breakthrough, just like Rage HD. The game programmer in me really wanted to) Tj
+T*
+(understand the engine and I was especially interested to see the game being released as a) Tj
+T*
+(universal binary running on iPhone 3GS, iPhone4 and iPad. Those three devices have different) Tj
+T*
+(capabilities but down the line it is often about managing the fillrate.) Tj
+T*
+() Tj
+T*
+(23. Tracing the baseband) Tj
+T*
+(Source: Fabien Sanglard | Published: Thu, 27 May 2010 12:08:27 -0600) Tj
+T*
+(Link: https://fabiensanglard.net/cellphoneModem/index.php) Tj
+T*
+(I was reading an article on planetbeing's blog the other day and my curiosity was tipped off) Tj
+T*
+(when he mentioned that phones don't run only one operating system but two. I decided to learn a) Tj
+T*
+(bit how all this really works and here are my notes with the source code associated. Hopefully) Tj
+T*
+(it will help someone investigating the subject..) Tj
+T*
+() Tj
+T*
+(24. Markdown Ate The World) Tj
+T*
+(Source: matduggan.com | Published: Mon, 23 Mar 2026 12:14:44 GMT) Tj
+T*
+(Link: https://matduggan.com/markdown-ate-the-world/) Tj
+T*
+(I have always enjoyed the act of typing words and seeing them come up on screen. While my) Tj
+T*
+(favorite word processor of all time might be WordPerfect \( here \), I've used almost all of) Tj
+T*
+(them. These programs were what sold me on the entire value proposition of computers. They) Tj
+T*
+() Tj
+T*
+(25. Cloud NaÔve: Europe and the 'Bijenkorf' Megascaler) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 28 Apr 2024 17:30:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/cloud-naive-europe-and-the-megascaler/) Tj
+T*
+(Lately there?s been some confusion: places like SIDN \(Dutch national operator of all internet) Tj
+T*
+(names that end on .NL\) claim that nobody in Europe can deliver their computer needs, and that) Tj
+T*
+(they therefore must outsource their operations to American cloud providers. Dutch version of) Tj
+T*
+(this page here: Cloud Native, Europa, de ?Bijenkorf? Megascaler ?? Meanwhile, we have large) Tj
+T*
+(providers of servers and services in the Netherlands and in Europe who claim that they can \(and) Tj
+T*
+(do\) provide these kinds of services just fine.) Tj
+T*
+() Tj
+T*
+(26. Cloud Native, Europa, de 'Bijenkorf' Megascaler) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 24 Apr 2024 03:14:34 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/cloud-native-europa/) Tj
+T*
+(Recent is er verwarring: instellingen als SIDN claimen dat niemand in Europa nog in hun) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 1162 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(computerbehoeftes kan voorzien, en dat ze daarom wel moeten uitwijken naar Amerikaanse) Tj
+T*
+(aanbieders. English version: Cloud NaÔve: Europe and the ?Bijenkorf? Megascaler Tegelijkertijd) Tj
+T*
+(hebben we in Nederland en Europa grote providers van servers en diensten die beweren dat zij) Tj
+T*
+(dat soort diensten wel degelijk kunnen leveren. Wat is er aan de hand? IT diensten draaien op) Tj
+T*
+(software en die draait weer op hardware.) Tj
+T*
+() Tj
+T*
+(27. Practical parsing with PEG and cpp-peglib) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 22 Apr 2024 16:19:09 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/practical-peg-parsing/) Tj
+T*
+(A very practical introduction to Parsing Expression Grammars \(PEGs\), in which we?ll build a) Tj
+T*
+(non-trivial parser using the most excellent cpp-peglib single-include C++ library. Post) Tj
+T*
+(includes links to PEG libraries for Go, Rust and Python, and a ready to run GitHub repository) Tj
+T*
+(of all examples. If I?ll ever stop programming it will be because I can no longer find the) Tj
+T*
+(energy to parse even just one more string format.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004384 00000 n 
+0000004510 00000 n 
+0000009052 00000 n 
+0000009178 00000 n 
+0000014314 00000 n 
+0000014440 00000 n 
+0000018762 00000 n 
+0000018890 00000 n 
+0000022829 00000 n 
+0000022957 00000 n 
+0000024172 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+24300
+%%EOF
