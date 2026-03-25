@@ -1,0 +1,810 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 7 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4476 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-25 09:38:47) Tj
+T*
+() Tj
+T*
+(1. Auto mode for Claude Code) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-24T23:57:33+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything) Tj
+T*
+(Auto mode for Claude Code Really interesting new development in Claude Code today as an) Tj
+T*
+(alternative to --dangerously-skip-permissions : Today, we're introducing auto mode, a new) Tj
+T*
+(permissions mode in Claude Code where Claude makes permission decisions on your behalf, with) Tj
+T*
+(safeguards monitoring actions before they run. Those safeguards appear to be implemented using) Tj
+T*
+(Claude Sonnet 4.6, as described in the documentation : Before each action runs, a separate) Tj
+T*
+(classifier model reviews the conversation and decides whether the action matches what you asked) Tj
+T*
+(for: it blocks actions that escalate beyond the task scope, target infrastructure the) Tj
+T*
+(classifier doesn?t recognize as trusted, or appear to be driven by hostile content encountered) Tj
+T*
+(in a file or web page. [...] Model : the classifier runs on Claude Sonnet 4.6, even if your) Tj
+T*
+(main session uses a different model. They ship with an extensive set of default filters, and) Tj
+T*
+(you can also customize them further with your own rules. The most interesting insight into how) Tj
+T*
+(they work comes when you run this new command in the terminal: claude auto-mode defaults Here's) Tj
+T*
+(the full JSON output . It's pretty long, so here's an illustrative subset: From the "allo...) Tj
+T*
+() Tj
+T*
+(2. Package Managers Need to Cool Down) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-24T21:11:38+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything) Tj
+T*
+(Package Managers Need to Cool Down Today's LiteLLM supply chain attack inspired me to revisit) Tj
+T*
+(the idea of dependency cooldowns , the practice of only installing updated dependencies once) Tj
+T*
+(they've been out in the wild for a few days to give the community a chance to spot if they've) Tj
+T*
+(been subverted in some way. This recent piece \(March 4th\) piece by Andrew Nesbitt reviews the) Tj
+T*
+(current state of dependency cooldown mechanisms across different packaging tools. It's) Tj
+T*
+(surprisingly well supported! There's been a flurry of activity across major packaging tools,) Tj
+T*
+(including: pnpm 10.16 \(September 2025\) ? minimumReleaseAge with minimumReleaseAgeExclude for) Tj
+T*
+(trusted packages Yarn 4.10.0 \(September 2025\) ? npmMinimalAgeGate \(in minutes\) with) Tj
+T*
+(npmPreapprovedPackages for exemptions Bun 1.3 \(October 2025\) ? minimumReleaseAge via) Tj
+T*
+(bunfig.toml Deno 2.6 \(December 2025\) ? --minimum-dependency-age for deno update and deno) Tj
+T*
+(outdated uv 0.9.17 \(December 2025\) ? added relative duration support to existing) Tj
+T*
+(--exclude-newer , plus per-package overrides via exclude-newer-package pip 26.0 \(January 2026\)) Tj
+T*
+(? --uploaded-prior-to \(absolute timestamps only; relative duration support requested \) npm) Tj
+T*
+(11.10.0 \(February 2026\) ?...) Tj
+T*
+() Tj
+T*
+(3. Quoting Christopher Mims) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-24T20:35:52+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/24/christopher-mims/#atom-everything) Tj
+T*
+(I really think "give AI total control of my computer and therefore my entire life" is going to) Tj
+T*
+(look so foolish in retrospect that everyone who went for this is going to look as dumb as Jimmy) Tj
+T*
+(Fallon holding up a picture of his Bored Ape ? Christopher Mims , Technology columnist at The) Tj
+T*
+(Wall Street Journal Tags: ai , security) Tj
+T*
+() Tj
+T*
+(4. Using FireWire on a Raspberry Pi) Tj
+T*
+(Source: Jeff Geerling | Published: Tue, 24 Mar 2026 11:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/) Tj
+T*
+(After learning Apple killed off FireWire \(IEEE 1394\) support in macOS 26 Tahoe , I started) Tj
+T*
+(looking at alternatives for old FireWire equipment like hard drives, DV cameras, and A/V gear.) Tj
+T*
+(I own an old Canon GL1 camera, with a 'DV' port. I could plug that into an old Mac \(like the) Tj
+T*
+(dual G4 MDD above\) with FireWire?or even a modern Mac running macOS with some dongles ?and) Tj
+T*
+(transfer digital video footage between the camera and an application like Final Cut Pro.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4478 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(5. Pebble Time 2 Is In Mass Production!) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Tue, 24 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://repebble.com/blog/pebble-time-2-is-in-mass-production) Tj
+T*
+(TLDR PT2 is in production!! Water resistance update - 30m What you need to know about Pebble) Tj
+T*
+(Time 2 Address confirmation email?) Tj
+T*
+() Tj
+T*
+(6. Claude Can Now Take Control of Your Mac) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-25T01:09:10Z) Tj
+T*
+(Link: https://claude.com/blog/dispatch-and-computer-use) Tj
+T*
+(Claude: In Claude Cowork and Claude Code, you can now enable Claude to use your computer to) Tj
+T*
+(complete tasks. When Claude doesn?t have access to the tools it needs, it will point, click,) Tj
+T*
+(and navigate what?s on your screen to perform the task itself. It can open files, use the) Tj
+T*
+(browser, and run dev tools automatically ? with no setup required. This feature is now) Tj
+T*
+(available in research preview for Claude Pro and Max subscribers. It works especially well with) Tj
+T*
+(Dispatch , which lets you assign Claude tasks from your phone. I think you?re nuts if you try) Tj
+T*
+(this on your actual Mac, with all your actual data and files. But I thought people were nuts) Tj
+T*
+(for using a lot of bleeding edge AI features before I tried them myself. It?s certainly notable) Tj
+T*
+(that Anthropic has shipped agentic AI on the Mac before Apple has, after Apple promised it to) Tj
+T*
+(originally arrive a year ago. The Claude Mac client itself remains a lazy Electron clunker. If) Tj
+T*
+(Claude Code is so good I don?t get why they don?t prove it by using it to make an even halfway) Tj
+T*
+(decent native Mac app. ?) Tj
+T*
+() Tj
+T*
+(7. WSJ: ?OpenAI Plans Launch of Desktop ?Superapp??) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-25T01:00:49Z) Tj
+T*
+(Link: https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user) Tj
+T*
+(-experience-9e19931d?st=25wiu1) Tj
+T*
+(Berber Jin, reporting last week for The Wall Street Journal \(gift link\): OpenAI is planning to) Tj
+T*
+(unify its ChatGPT app, coding platform Codex and browser into a desktop ?superapp,? a step to) Tj
+T*
+(simplify the user experience and continue with efforts to focus on engineering and business) Tj
+T*
+(customers. Chief of Applications Fidji Simo will oversee the change and focus on helping the) Tj
+T*
+(company?s sales team market the new product. OpenAI President Greg Brockman, who currently) Tj
+T*
+(leads the company?s computing efforts, will help Simo oversee the product revamp and related) Tj
+T*
+(organization changes, an OpenAI spokeswoman said. The strategy change marks a major shift from) Tj
+T*
+(last year, when OpenAI launched a series of stand-alone products that didn?t always resonate) Tj
+T*
+(with users and sometimes created a lack of focus within the company. OpenAI executives are) Tj
+T*
+(hoping that unifying its products under one app will allow it to streamline resources as it) Tj
+T*
+(seeks to beat back the success of its rival Anthropic. This sounds like an utter disaster in) Tj
+T*
+(the making. Would it make any sense for Apple to merge Safari, Messages, and Xcode into one) Tj
+T*
+(?superapp?? No, it would not. It makes no more sense for OpenAI to merge ChatGPT, Cod...) Tj
+T*
+() Tj
+T*
+(8. OpenAI Is Closing Sora) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-25T00:49:07Z) Tj
+T*
+(Link: https://x.com/soraofficialapp/status/2036546752535470382) Tj
+T*
+(Sora, on Twitter/X: We?re saying goodbye to the Sora app. To everyone who created with Sora,) Tj
+T*
+(shared it, and built community around it: thank you. What you made with Sora mattered, and we) Tj
+T*
+(know this news is disappointing. We?ll share more soon, including timelines for the app and API) Tj
+T*
+(and details on preserving your work. Sora was kind of fun for a week or two. But, contrary to) Tj
+T*
+(the above, nothing anyone made with Sora mattered. It was just a very \(very\) expensive lark. ?) Tj
+T*
+() Tj
+T*
+(9. Pluralistic: Goodhart's Law vs "prediction markets" \(24 Mar 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 24 Mar 2026 11:18:24) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/03/24/degenerated-gambling/) Tj
+T*
+(Today's links Goodhart's Law vs "prediction markets": Putting a gun to the metric's head. Hey) Tj
+T*
+(look at this: Delights to delectate. Object permanence: Apple v interop; Yahoo v the world;) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4488 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Rasputin v the Haunted Mansion; Opening chord from A Hard Day's Night; Mondrian Pong; "IP":) Tj
+T*
+(Patent trolls v Apple. Upcoming appearances: Berkeley, Montreal, London, Berlin, Hay-on-Wye.) Tj
+T*
+(Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Goodhart's Law vs) Tj
+T*
+("prediction markets" \(permalink\) The most selectively believed-in verse in the conservative) Tj
+T*
+(catechism is the idea that "incentives matter." Sure, "incentives matter" if you're seeking) Tj
+T*
+(healthcare. That's why you're nibbled to death by co-pays and deductibles ? if you could get) Tj
+T*
+(healthcare whenever you felt like it, you might get too much healthcare. "Incentives matter,") Tj
+T*
+(so we have to make sure that you only seek care when you really need it:) Tj
+T*
+(https://pluralistic.net/2025/04/14/timmy-share/#a-superior-moral-justification-for-selfishness) Tj
+T*
+(But rich people don't need to be disciplined by incentives. They can get no-bid contracts with) Tj
+T*
+(Uncle...) Tj
+T*
+() Tj
+T*
+(10. The nth War of the Decade) Tj
+T*
+(Source: iDiallo.com | Published: Mon, 23 Mar 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/the-n-war-of-the-decade?src=feed) Tj
+T*
+(This is a blog where I talk mostly about programming in the workplace. These past few years the) Tj
+T*
+(subject has often been AI, because it affects everything. From the hiring process to the very) Tj
+T*
+(code we type. AI might just replace me mid-sentence... So when a subject that affects us all) Tj
+T*
+(dominates the world, I want to give you my perspective. I may not be your source of political) Tj
+T*
+(perspective, but here goes. Right now, we are at war. At least the United States of America is.) Tj
+T*
+(It turns out, congressional rules are a lot like HTML standards: they are merely a suggestion) Tj
+T*
+(you can choose to adopt or ignore. First, I want to say this firmly: you don't need to be an) Tj
+T*
+(expert to talk about war. It affects us all on some level. That trope, that only experts should) Tj
+T*
+(weigh in, is often used by people who want to control a narrative. But this time, the layman of) Tj
+T*
+(every corner of the world will get involved in shaping the story. One of my earliest memories) Tj
+T*
+(of what was called "the news" was footage of children throwing rocks at tanks rumbling through) Tj
+T*
+(buildings. I didn't understand if it was courage, or just a game. I was just a kid after all.) Tj
+T*
+(In hindsight, those were Palestinian children in a devastated ci...) Tj
+T*
+() Tj
+T*
+(11. Windows 95 defenses against installers that overwrite a file with an older version) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 24 Mar 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159) Tj
+T*
+(A very primitive version of recovery. The post Windows 95 defenses against installers that) Tj
+T*
+(overwrite a file with an older version appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(12. From Mendeleev to Fourier) Tj
+T*
+(Source: John D. Cook | Published: Tue, 24 Mar 2026 15:01:35 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/24/from-mendeleev-to-fourier/) Tj
+T*
+(The previous post looked at an inequality discovered by Dmitri Mendeleev and generalized by) Tj
+T*
+(Andrey Markov: Theorem \(Markov\): If P\(x\) is a real polynomial of degree n, and |P\(x\)| ? 1 on) Tj
+T*
+([?1, 1] then |P?\(x\)| ? n≤ on [?1, 1]. If P\(x\) is a trigonometric polynomial then Bernstein) Tj
+T*
+(proved that the bound decreases from n≤ to n. Theorem [?] The post From Mendeleev to Fourier) Tj
+T*
+(first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(13. Mendeleev?s inequality) Tj
+T*
+(Source: John D. Cook | Published: Tue, 24 Mar 2026 12:47:32 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/24/mendeleevs-inequality/) Tj
+T*
+(Dmitri Mendeleev is best known for creating the first periodic table of chemical elements. He) Tj
+T*
+(also discovered an interesting mathematical theorem. Empirical research led him to a question) Tj
+T*
+(about interpolation, which in turn led him to a theorem about polynomials and their) Tj
+T*
+(derivatives. I ran across Mendeleev?s theorem via a paper by Boas [1]. The [?] The post) Tj
+T*
+(Mendeleev?s inequality first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(14. Book Review: If We Cannot Go at the Speed of Light by Kim Choyeop ?????) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4530 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Terence Eden?s Blog | Published: Tue, 24 Mar 2026 12:34:27 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/book-review-if-we-cannot-go-at-the-speed-of-light-by-kim) Tj
+T*
+(-choyeop/) Tj
+T*
+(Short stories offer you the chance to dip briefly into a world and then skip out so there's not) Tj
+T*
+(much time for development; just straight in to the plot and off we go. But this is all) Tj
+T*
+(exposition and very little action. Rather than let the plots develop naturally, there are just) Tj
+T*
+(vast passages of infodumping. I'm sad to say this is a rather dreary and insipid collection of) Tj
+T*
+(stories. Some of the?) Tj
+T*
+() Tj
+T*
+(15. Choose Boring Technology and Innovative Practices) Tj
+T*
+(Source: Computer Things | Published: Tue, 24 Mar 2026 14:38:06 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/) Tj
+T*
+(The famous article Choose Boring Technology lists two problems with using innovative) Tj
+T*
+(technology: There are too many "unknown unknowns" in a new technology, whereas in boring) Tj
+T*
+(technology the pitfalls are already well-known. Shiny tech has a maintenance burden that) Tj
+T*
+(persist long after everybody has gotten bored with it. Both of these tie back to the idea that) Tj
+T*
+(the main cost of technology is maintenance. Even if something is easy to build with, it might) Tj
+T*
+(not be as easy to keep running. We cannot "abandon" mission-critical technology. Say my team) Tj
+T*
+(builds a new service on Julia , and 2 years later decides it was the wrong choice. We're stuck) Tj
+T*
+(with either the \(expensive\) process of migrating all our data to Postgres code to Java or the) Tj
+T*
+(\(expensive\) process of keeping it running anyway. Either way, the company needs to spend) Tj
+T*
+(resources keeping engineers trained on the tech instead of other useful things, like how to) Tj
+T*
+(mine crypto in their heads. Tech is slow to change. Not as slow to change as, say, a bridge,) Tj
+T*
+(but still pretty slow. Now say at the same time as Julia, we also decided to start practicing) Tj
+T*
+(test && commit || revert \(TCR\). After two years, we get sick of that, too. To deal with this,) Tj
+T*
+(we...) Tj
+T*
+() Tj
+T*
+(16. Tread carefully, because you tread on my fucks.) Tj
+T*
+(Source: Westenberg. | Published: Tue, 24 Mar 2026 05:33:06 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/tread-carefully-because-you-tread-on-my-fucks/) Tj
+T*
+(This newsletter is free to read, and it?ll stay that way. But if you want more - extra posts) Tj
+T*
+(each month, access to the community, and a direct line to ask me things - paid subscriptions) Tj
+T*
+(are $2.50/month. A lot of people have told me it&) Tj
+T*
+() Tj
+T*
+(17. Writing an LLM from scratch, part 32g -- Interventions: weight tying) Tj
+T*
+(Source: Giles' blog | Published: Tue, 24 Mar 2026 19:50:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/03/llm-from-scratch-32g-interventions-weight-tying) Tj
+T*
+(In Sebastian Raschka 's book " Build a Large Language Model \(from Scratch\) ", he writes that) Tj
+T*
+(weight tying, while it reduces the parameter count of a model, in his experience makes it) Tj
+T*
+(worse. As such, apparently people don't use it in modern LLMs. Intuitively, that makes sense --) Tj
+T*
+(I'll explain why in this post. But as I'm trying various interventions to see if I can get my) Tj
+T*
+(model -- based on Raschka's code, but trained for a fraction of the time that the original) Tj
+T*
+(GPT-2 model was -- to perform as well as the original in terms of the loss it gets on a test) Tj
+T*
+(set, I thought it would be worth seeing if it really is a negative for this particular tiny) Tj
+T*
+(model of 163M parameters. After all, the original weights use weight tying, and I did find that) Tj
+T*
+(QKV bias appeared to help -- and that's another old-school technique that they used, which has) Tj
+T*
+(since dropped out of fashion. Might this one help too? Worth a try! Let's give it a go. Weight) Tj
+T*
+(tying: a refresher I'll start with a quick refresher on what weight tying is, and how it works.) Tj
+T*
+(This is really targeted at people who've been reading along with this series -- if it's all new) Tj
+T*
+(to you, you might find my post on Maths for LLMs a useful catch-up guide...) Tj
+T*
+() Tj
+T*
+(18. The AI Industry Is Lying To You) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 24 Mar 2026 17:25:52 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3762 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Hi! If you like this piece and want to support my independent reporting and analysis, why not) Tj
+T*
+(subscribe to my premium newsletter? It?s $70 a year, or $7 a month, and in return you get a) Tj
+T*
+(weekly newsletter that?s usually anywhere from 5000 to 18,000) Tj
+T*
+() Tj
+T*
+(19. Lines of code are useful) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 24 Mar 2026 00:00:00 +0100) Tj
+T*
+(Link: https://entropicthoughts.com/lines-of-code) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. Be Good) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/good.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(21. Why There Aren't More Googles) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/googles.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(22. Some Heroes) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/heroes.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(23. Code as a Tool of Process) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Tue, 24 Mar 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/code-as-process/) Tj
+T*
+(Steve Krouse wrote a piece that has me nodding along: Programming, like writing, is an) Tj
+T*
+(activity, where one iteratively sharpens what they're doing as they do it. \(You wouldn't) Tj
+T*
+(believe how many drafts I've written of this essay.\) There?s an incredible amount of learning) Tj
+T*
+(and improvement, i.e. sharpening , to be had through the process of iteratively building) Tj
+T*
+(something. As you bring each aspect of a feature into reality, it consistently confronts you) Tj
+T*
+(with questions like, ?But how will this here work?? And ?Did you think of that there ?? If you) Tj
+T*
+(jump over the process of iteratively building each part and just ask AI to generate a solution,) Tj
+T*
+(you miss the opportunity of understanding the intricacies of each part which amounts to the) Tj
+T*
+(summation of the whole. I think there are a lot of details that never bubble to the surface) Tj
+T*
+(when you generate code from English as it?s simply not precise enough for computers . Writing) Tj
+T*
+(code is a process that confronts you with questions about the details. If you gloss over the) Tj
+T*
+(details, things are going to work unexpectedly and users will discover the ambiguity in your) Tj
+T*
+(thinking rather than you \(see also: ?bugs?\). Writing code is a tool of process. As you go, i...) Tj
+T*
+() Tj
+T*
+(24. Wander 0.2.0) Tj
+T*
+(Source: Susam Pal | Published: Tue, 24 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/code/news/wander/0.2.0.html) Tj
+T*
+(Wander 0.2.0 is the second release of Wander, a small, decentralised, self-hosted web console) Tj
+T*
+(that lets visitors to your website explore interesting websites and pages recommended by a) Tj
+T*
+(community of independent personal website owners. To try it, go to susam.net/wander . This) Tj
+T*
+(release brings a number of improvements. When I released version 0.1.0, it was the initial) Tj
+T*
+(version of the software I was using for my own website. Naturally, I was the only user) Tj
+T*
+(initially and I only added trusted web pages to the recommendation list of my console. But ever) Tj
+T*
+(since I announced this project on Hacker News , it has received a good amount of attention. It) Tj
+T*
+(has been less than a week since I announced it there but over 30 people have set up a Wander) Tj
+T*
+(console on their personal websites. There are now over a hundred web pages being recommended by) Tj
+T*
+(this network of consoles. With the growth in the number of people who have set up Wander) Tj
+T*
+(console, came several feature requests, most of which have been implemented already. This) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3978 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(release makes these new features available. Since Wander 0.2.0, the wander.js file of remote) Tj
+T*
+(consoles is executed in a sandbox iframe to ensure that it has no side effects on the parent...) Tj
+T*
+() Tj
+T*
+(25. Doom iPhone code review) Tj
+T*
+(Source: Fabien Sanglard | Published: Mon, 1 Feb 2010 00:33:27 -0400) Tj
+T*
+(Link: https://fabiensanglard.net/doomIphone/index.php) Tj
+T*
+(I took some time away from programming something I hope will become a really good shmup and) Tj
+T*
+(read the source code of Doom for iPhone. I was very interested in finding out how a pixel) Tj
+T*
+(oriented engine made the transition to openGL. Here are my notes, as usual I got a bit carried) Tj
+T*
+(away with the drawings.) Tj
+T*
+() Tj
+T*
+(26. Doom engine 1993 code review) Tj
+T*
+(Source: Fabien Sanglard | Published: Wed, 13 Jan 2010 00:33:27 -0400) Tj
+T*
+(Link: https://fabiensanglard.net/doomIphone/doomClassicRenderer.php) Tj
+T*
+(Before studying the iPhone version, it was important for me to understand how Doom engine WAS) Tj
+T*
+(performing rendition back in 1993. After all the OpenGL port must reuse the same data from the) Tj
+T*
+(WAD archive. Here are my notes about Doom 1993 renderer, maybe it will help someone to dive in.) Tj
+T*
+() Tj
+T*
+(27. Don't learn Assembly on Mac OS X) Tj
+T*
+(Source: Fabien Sanglard | Published: Thu, 31 Dec 2009 00:33:27 -0400) Tj
+T*
+(Link: https://fabiensanglard.net/macosxassembly/index.php) Tj
+T*
+(I had to do some low level work with Mac OS X snow-leopard using my MacBookPro CoreDuo2. I) Tj
+T*
+(learned plenty regarding GAS for i386 and x86_64 but I would not recommend this setup to learn) Tj
+T*
+(assembly. I think Apple's specific would discourage a beginner and impair ability to use code) Tj
+T*
+(samples found in most books. I would rather recommend a IBM T42 with Linux Ubuntu.) Tj
+T*
+() Tj
+T*
+(28. Weekly Update 496) Tj
+T*
+(Source: Troy Hunt | Published: Tue, 24 Mar 2026 04:17:23 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-496/) Tj
+T*
+(Watching OpenClaw do its thing must be like watching the first plane take flight. It's a bit) Tj
+T*
+(rickety and stuck together with a lot of sticky tape, but squint and you can see the potential) Tj
+T*
+(for agentic AI to change the world as we know it. And I) Tj
+T*
+() Tj
+T*
+(29. Hosting a Snowflake Proxy) Tj
+T*
+(Source: matduggan.com | Published: Tue, 24 Mar 2026 11:03:19 GMT) Tj
+T*
+(Link: https://matduggan.com/hosting-a-snowflake-proxy/) Tj
+T*
+(In the nightmarish world of 2026 it can be difficult to know how to help at all. There are too) Tj
+T*
+(many horrors happening to quickly to know where one can inject even a small amount of) Tj
+T*
+(assistance. However I wanted to quickly post about something I did that was easy,) Tj
+T*
+() Tj
+T*
+(30. Bijeenkomst Cloud en Digitale Open Strategische Autonomie) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 29 Mar 2024 13:09:02 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/bzk-ezk-overheid-cloud-europa/) Tj
+T*
+(Op 27 maart was er een mooi gesprek over de Nederlandse en Europese afhankelijkheid van ?de) Tj
+T*
+(cloud?. Het gesprek vond plaats op het ministerie van Economische Zaken en Klimaat, en) Tj
+T*
+(deelnemers waren onder andere minister Micky Adriaansens en staatssecretaris van digitalisering) Tj
+T*
+(Alexandra van Huffelen. Het onderwerp wordt dus \(terecht\) serieus genomen. Dit artikel is) Tj
+T*
+(onderdeel van een grotendeels Engelstalige reeks over Europese innovatie en digitale) Tj
+T*
+(afhankelijkheden. De bijeenkomst werd gehouden onder Chatham House Rule, wat inhoudt dat we) Tj
+T*
+(niet gaan verklappen wie precies wat heeft gezegd.) Tj
+T*
+() Tj
+T*
+(31. Minister van Digitale Zaken: hoe het kan werken) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 19 Mar 2024 10:42:20 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/minister-van-digitale-zaken/) Tj
+T*
+(De hele korte versie: een minister voor Digitale Zaken heeft alleen zin als deze minstens) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 1182 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(evenveel doorzettingsmacht krijgt als de minister van FinanciÎn. En het werkt ook alleen als) Tj
+T*
+(die nieuwe minister een agenda heeft waarbij ICT veel meer is dan ?iets wat je inkoopt?, maar) Tj
+T*
+(echt een kernactiviteit wordt waar geÔnnoveerd kan worden. En dat vergt een nieuwe erkenning) Tj
+T*
+(van ICT-ambtenaren als daadwerkelijk belangrijke mensen, die aan de knoppen zitten en dingen) Tj
+T*
+(mogen veranderen.) Tj
+T*
+() Tj
+T*
+(32. On the new Dutch Intelligence and Security Law) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 12 Mar 2024 14:41:07 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/dutch-intelligence-and-security-law/) Tj
+T*
+(13th of June UPDATE: The Dutch government has failed to hire and house the promised new 10) Tj
+T*
+(oversight staff. Yet, the new law will be enacted July 1st, passing oversight to people that) Tj
+T*
+(don?t exist. I surely enjoyed living under the rule of law, but it appears it was a passing) Tj
+T*
+(thing. ?The Netherlands hosts some of the world?s largest internet exchanges. This obliges us) Tj
+T*
+(to make the best use of these exchanges for our national security.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000161 00000 n 
+0000000231 00000 n 
+0000004759 00000 n 
+0000004885 00000 n 
+0000009415 00000 n 
+0000009541 00000 n 
+0000014081 00000 n 
+0000014207 00000 n 
+0000018790 00000 n 
+0000018918 00000 n 
+0000022733 00000 n 
+0000022861 00000 n 
+0000026892 00000 n 
+0000027020 00000 n 
+0000028255 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+28383
+%%EOF
