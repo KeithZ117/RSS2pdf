@@ -1,0 +1,640 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4585 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-26 09:39:01) Tj
+T*
+() Tj
+T*
+(1. datasette-files-s3 0.1a1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-25T21:57:05+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything) Tj
+T*
+(Release: datasette-files-s3 0.1a1 A backend for datasette-files that adds the ability to store) Tj
+T*
+(and retrieve files using an S3 bucket. This release added a mechanism for fetching S3) Tj
+T*
+(configuration periodically from a URL, which means we can use time limited IAM credentials that) Tj
+T*
+(are restricted to a prefix within a bucket. Tags: s3 , datasette) Tj
+T*
+() Tj
+T*
+(2. Thoughts on slowing the fuck down) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-25T21:47:17+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything) Tj
+T*
+(Thoughts on slowing the fuck down Mario Zechner created the Pi agent framework used by) Tj
+T*
+(OpenClaw, giving considerable credibility to his opinions on current trends in agentic) Tj
+T*
+(engineering. He's not impressed: We have basically given up all discipline and agency for a) Tj
+T*
+(sort of addiction, where your highest goal is to produce the largest amount of code in the) Tj
+T*
+(shortest amount of time. Consequences be damned. Agents and humans both make mistakes, but) Tj
+T*
+(agent mistakes accumulate much faster: A human is a bottleneck. A human cannot shit out 20,000) Tj
+T*
+(lines of code in a few hours. Even if the human creates such booboos at high frequency, there's) Tj
+T*
+(only so many booboos the human can introduce in a codebase per day. [...] With an orchestrated) Tj
+T*
+(army of agents, there is no bottleneck, no human pain. These tiny little harmless booboos) Tj
+T*
+(suddenly compound at a rate that's unsustainable. You have removed yourself from the loop, so) Tj
+T*
+(you don't even know that all the innocent booboos have formed a monster of a codebase. You only) Tj
+T*
+(feel the pain when it's too late. [...] You have zero fucking idea what's going on because you) Tj
+T*
+(delegated all your agency to your agents. You let them run free, and they are merchants of...) Tj
+T*
+() Tj
+T*
+(3. datasette-llm 0.1a1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-25T21:24:31+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything) Tj
+T*
+(Release: datasette-llm 0.1a1 New release of the base plugin that makes models from LLM) Tj
+T*
+(available for use by other Datasette plugins such as datasette-enrichments-llm . New) Tj
+T*
+(register_llm_purposes\(\) plugin hook and get_purposes\(\) function for retrieving registered) Tj
+T*
+(purpose strings. #1 One of the responsibilities of this plugin is to configure which models are) Tj
+T*
+(used for which purposes, so you can say in one place "data enrichment uses GPT-5.4-nano but SQL) Tj
+T*
+(query assistance happens using Sonnet 4.6", for example. Plugins that depend on this can use) Tj
+T*
+(model = await llm.model\(purpose="enrichment"\) to indicate the purpose of the prompts they wish) Tj
+T*
+(to execute against the model. Those plugins can now also use the new register_llm_purposes\(\)) Tj
+T*
+(hook to register those purpose strings, which means future plugins can list those purposes in) Tj
+T*
+(one place to power things like an admin UI for assigning models to purposes. Tags:) Tj
+T*
+(annotated-release-notes , llm , datasette , plugins) Tj
+T*
+() Tj
+T*
+(4. ?A List of Chain Restaurants Whose Names Contain Unusual Structures?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-25T19:50:07Z) Tj
+T*
+(Link: https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unu) Tj
+T*
+(sual-structures/) Tj
+T*
+(When I first read this post from my friend Paul Kafasis last week ? a One Foot Tsunami instant) Tj
+T*
+(classic ? I was hoping that I could think of an example that he missed. I can?t say I did. The) Tj
+T*
+(closest, though, is ShowBiz Pizza Place , a 1980s archrival to Chuck E. Cheese. \(Instead of a) Tj
+T*
+(pizza-cooking rat, ShowBiz had Billy Bob , a pizza-cooking hillbilly bear.\) Place is an unusual) Tj
+T*
+(noun to put in a restaurant name, but it isn?t a structure, so it doesn?t belong on Kafasis?s) Tj
+T*
+(list. But what brings it to mind is that growing up, we had a ShowBiz Pizza Place near our) Tj
+T*
+(mall, and I loved going there because it was a damn good arcade \(and the pizza, I thought at) Tj
+T*
+(the time, was pretty good ? cut into small squares, not slices\). They had the sit-down version) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4497 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(of Star Wars , the best way to play the best coin-op game in history. \(Two tokens to play that) Tj
+T*
+(one, of course.\) They had the sit-down version of Spy Hunter, too. Anyway, generally we all) Tj
+T*
+(just referred to the joint as ?ShowBiz?, but one thing that drove me nuts is that a few of my) Tj
+T*
+(friends, when referring to it by its full name, called it ShowBiz Pizza Palace . It was like) Tj
+T*
+(hearing someone call an iPod Touch an ?iTouch?. And while I loved the pl...) Tj
+T*
+() Tj
+T*
+(5. Improved Analytics in App Store Connect) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-25T19:16:27Z) Tj
+T*
+(Link: https://developer.apple.com/news/?id=hh6v4b55) Tj
+T*
+(Apple Developer: Analytics in App Store Connect receives its biggest update since its launch,) Tj
+T*
+(including a refreshed user experience that makes it easier to measure the performance of your) Tj
+T*
+(apps and games. There?s a lot that?s new, but all the data is still collected with an emphasis) Tj
+T*
+(on user privacy. There?s an all-new support guide that documents everything. John Voorhees,) Tj
+T*
+(writing at MacStories : Since the changes rolled out, a couple of concerns I?ve seen expressed) Tj
+T*
+(online are that there will no longer be a single place to view the aggregate performance of) Tj
+T*
+(multiple apps and that the new default reporting period is three months. Those concerns are) Tj
+T*
+(well founded. The changes are organized on an app-by-app basis, and as Apple says in a banner) Tj
+T*
+(on App Store Connect , the Dashboards in the Trends section of Connect and related reports) Tj
+T*
+(where that data was available are being deprecated later this year and next. So, while the data) Tj
+T*
+(Apple offers is deep for each app, the aggregate data falls short by not providing a birds-eye) Tj
+T*
+(view of a developer?s entire app catalog. For what it?s worth, Apple is aware of the feedback) Tj
+T*
+(regarding cross-app reporting. Also, the shorter sales reporting periods, s...) Tj
+T*
+() Tj
+T*
+(6. iOS 26.4) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-25T00:40:01Z) Tj
+T*
+(Link: https://www.macrumors.com/guide/ios-26-4-features/) Tj
+T*
+(Good rundown of everything new and changed, as usual, from Juli Clover at MacRumors. This has) Tj
+T*
+(been a noticeable change for me: The App Store merges apps and purchase history, and has a) Tj
+T*
+(dedicated section for app updates. It now takes two taps to get to app updates rather than) Tj
+T*
+(having them available at the bottom of the profile page. At first the extra tap irked me, but) Tj
+T*
+(it really does make more sense for Updates to have its own section. I update apps manually,) Tj
+T*
+(because I like reading release notes from developers who take the time to document changes, and) Tj
+T*
+(I also like reading ?Bug fixes and performance improvements? over and over and over again from) Tj
+T*
+(developers who do not. ?) Tj
+T*
+() Tj
+T*
+(7. How can I change a dialog box?s message loop to do a Msg≠Wait≠For≠Multiple≠Objects) Tj
+T*
+(instead of Get≠Message?) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 25 Mar 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260325-00/?p=112165) Tj
+T*
+(The dialog box lets you change how it waits. The post How can I change a dialog box?s message) Tj
+T*
+(loop to do a Msg≠Wait≠For≠Multiple≠Objects instead of Get≠Message ? appeared first on The Old) Tj
+T*
+(New Thing .) Tj
+T*
+() Tj
+T*
+(8. Pluralistic: The cost of doing business \(25 Mar 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 25 Mar 2026 07:08:48) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/03/25/fact-intensive/) Tj
+T*
+(Today's links The cost of doing business: "Market definition" is a denial-of-service attack on) Tj
+T*
+(antitrust law. Hey look at this: Delights to delectate. Object permanence: Union Pacific v) Tj
+T*
+(model railroads; Warners v Potter fans; NYT's trademark trolling; Why Rebecca Black mashups) Tj
+T*
+(suck; Jabba the peep; Grenfell costs v tenants. Upcoming appearances: Berkeley, Montreal,) Tj
+T*
+(London, Berlin, Hay-on-Wye. Recent appearances: Where I've been. Latest books: You keep readin') Tj
+T*
+(em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All) Tj
+T*
+(the rest. The cost of doing business \(permalink\) The most important part of any law, rule or) Tj
+T*
+(policy isn't what it permits or prohibits ? it's whether you can enforce the law at all. After) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 5033 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(all, as odious as a law that forbids people from thinking mean thoughts about Trump would be,) Tj
+T*
+(it would also be completely unenforceable, and would ultimately just not be very important,) Tj
+T*
+(except as a symbol of Trump's evil. This property is called "administrability," meaning, "the) Tj
+T*
+(degree to which an authority can administer the policy." There are many dimensions to) Tj
+T*
+(administrability, including "Is it even possible to detect whether this policy has been...) Tj
+T*
+() Tj
+T*
+(9. Going from an IPv4 address to an ASN in Python 2 with Unix brute force) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-25T02:46:55Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/python/IPToASNWithUnixBruteForce) Tj
+T*
+(For reasons , I've reached the point where I would like to be able to map IPv4 addresses into) Tj
+T*
+(the organizations responsible for them, which is to say their Autonomous System Number \(ASN\) ,) Tj
+T*
+(for use in DWiki , the blog engine of Wandering Thoughts . So today on the Fediverse I mused :) Tj
+T*
+(Current status: wondering if I can design an on-disk \(read only\) data structure of some sort) Tj
+T*
+(that would allow a Python 2 program to efficiently map an IP address to an ASN. There are good) Tj
+T*
+(in-memory data structures for this but you have to load the whole thing into memory and my) Tj
+T*
+(Python 2 program runs as a CGI so no, not even with pickle. \(Since this is Python 2, about all) Tj
+T*
+(I have access to is gdbm or rolling my own direct structure.\) Mapping IP addresses to ASNs) Tj
+T*
+(comes up a lot in routing Internet traffic, so there are good in-memory data structures that) Tj
+T*
+(are designed to let you efficiently answer these questions once you have everything loaded. But) Tj
+T*
+(I don't think anyone really worries about on-disk versions of this information, while it's the) Tj
+T*
+(case that I care about, although I only care about some ASNs \(a detail I forgot to put in the) Tj
+T*
+(Fediverse post\). Then I had a realization : If I'm willing to do this by...) Tj
+T*
+() Tj
+T*
+(10. Fedora's virt-manager started using external snapshots for me as of Fedora 41) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-24T03:33:00Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraVirtManagerBadSnapshots) Tj
+T*
+(Today I made an unpleasant discovery about virt-manager on my \(still\) Fedora 42 machines that I) Tj
+T*
+(shared on the Fediverse : This is my face that Fedora virt-manager appears to have been) Tj
+T*
+(defaulting to external snapshots for some time and SURPRISE, external snapshots can't be) Tj
+T*
+(reverted by virsh. This is my face, especially as it seems to have completely screwed up even) Tj
+T*
+(deleting snapshots on some virtual machines. \(I only discovered this today because today is the) Tj
+T*
+(first time I tried to touch such a snapshot, either to revert to it or to clean it up. It's) Tj
+T*
+(possible that there is some hidden default for what sort of snapshot to make and it's only been) Tj
+T*
+(flipped for me.\) Neither virt-manager nor virsh will clearly tell you about this. In) Tj
+T*
+(virt-manager you need to click on each snapshot and if it says 'external disk only',) Tj
+T*
+(congratulations, you're in trouble. In virsh, 'virsh snapshot-list --external ' will list) Tj
+T*
+(external snaphots, and then 'virsh snapshot-list --tree ' will tell you if they depend on any) Tj
+T*
+(internal snapshots. My largest problems came from virtual machines where I had earlier internal) Tj
+T*
+(snapshots and then I took more snapshots, which became external snapshots from Fedora 41) Tj
+T*
+(onward. Y...) Tj
+T*
+() Tj
+T*
+(11. DMARC DNS record inheritance and DMARC alignment requirements) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-20T02:57:31Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance) Tj
+T*
+(To simplify, DMARC is based on the domain in the 'From:' header, and what policy \(if any\) that) Tj
+T*
+(domain specifies. As I've written about \(and rediscovered\) more than once \( here and here \),) Tj
+T*
+(DMARC will look up the DNS record for the DMARC policy in exactly one of two places, either in) Tj
+T*
+(the exact From: domain or on the organization's top level domain. In other words, if a message) Tj
+T*
+(has a From: of 'someone@breaking.news.example.org', a receiver will first look for a DMARC TXT) Tj
+T*
+(DNS record with the name _dmarc.breaking.news.example.org and then one with the name) Tj
+T*
+(_dmarc.example.org . \(But there will be no lookup for _dmarc.news.example.org .\) DMARC also has) Tj
+T*
+(the concept of policy inheritance , where the example.org DMARC DNS TXT record can specify a) Tj
+T*
+(different DMARC policy for the organizational domain than for subdomains that don't have their) Tj
+T*
+(own policy. For example, example.org could specify 'p=reject; sp=none' to say that 'From:) Tj
+T*
+(user@example.org' should be rejected if it fails DMARC but it has no views on a default for) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3964 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+('From: user@news.example.org'. If you're an innocent person, you might think that if your) Tj
+T*
+(organization has 'sp=none' on its organization policy, you don't have to be concerned...) Tj
+T*
+() Tj
+T*
+(12. The Top 10 Biggest Conspiracies in Open Source) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-25T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html) Tj
+T*
+(10. Dependabot is a surveillance program GitHub?s Dependabot builds a real-time map of which) Tj
+T*
+(companies use which software, how quickly they respond to security advisories, and how their) Tj
+T*
+(internal code review processes work. The pull requests are a side effect of the data) Tj
+T*
+(collection, and the actual product is the response-time dataset, which correlates strongly with) Tj
+T*
+(engineering team health and is quietly sold to recruiters through a subsidiary that nobody has) Tj
+T*
+(been able to identify by name. The noise volume is calibrated to a specific threshold: just) Tj
+T*
+(enough PRs to desensitize reviewers to automated contributions, but not so many that they) Tj
+T*
+(disable it entirely, which is why the PR descriptions are always slightly too long and the) Tj
+T*
+(changelogs are always included in full even though nobody has ever read one. A former GitHub) Tj
+T*
+(employee who asked not to be named described the calibration process as ?A/B testing, but the B) Tj
+T*
+(stands for burnout.? 9. The Dockerfile syntax is deliberately broken The Dockerfile syntax is) Tj
+T*
+(almost-but-not-quite bash, and the usual explanation is that it was a pragmatic early design) Tj
+T*
+(decision that became too entrenched to fix. But fixing it would have been a single break...) Tj
+T*
+() Tj
+T*
+(13. How to Disagree) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/disagree.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(14. You Weren't Meant to Have a Boss) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/boss.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. A New Venture Animal) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/ycombinator.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. Wander 0.3.0) Tj
+T*
+(Source: Susam Pal | Published: Wed, 25 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/code/news/wander/0.3.0.html) Tj
+T*
+(Wander 0.3.0 is the third release of Wander, a small, decentralised, self-hosted web console) Tj
+T*
+(that lets visitors to your website explore interesting websites and pages recommended by a) Tj
+T*
+(community of independent website owners. To try it, go to susam.net/wander/ . This release) Tj
+T*
+(brings small but important bug fixes. The previous release, version 0.2.0 introduced a number) Tj
+T*
+(of new features. Unfortunately, two of them caused issues for some users. A new feature in the) Tj
+T*
+(previous release was the ignore list feature. The ignore list defines console URLs and page) Tj
+T*
+(URLs that the console never uses while discovering page recommendations. While this feature) Tj
+T*
+(works fine, due to a bug in the implementation, the Console dialog fails to load in consoles) Tj
+T*
+(that do not define any ignore list. This has now been fixed. There was another issue due to) Tj
+T*
+(which the that displays discovered websites and pages could not load certain websites. In) Tj
+T*
+(particular, any website that relied on same-origin context to load its own resources failed to) Tj
+T*
+(load in the console. This has been fixed as well. Please see codeberg.org/susam/wander/issues/7) Tj
+T*
+(for a detailed discussion on this issue. Apart from these two important fixes, there...) Tj
+T*
+() Tj
+T*
+(17. Apple iPhone Tech Talk 2009 tricks and treats) Tj
+T*
+(Source: Fabien Sanglard | Published: Thu, 03 Dec 2009 00:33:27 -0400) Tj
+T*
+(Link: https://fabiensanglard.net/appleTechTalk2009/index.php) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3939 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Today I took a day off from work to attend the iPhone Apple Tech Talk 2009 in Toronto. I) Tj
+T*
+(learned a few cool things and though I should share it with the two lost developers that may) Tj
+T*
+(stumble on this page. I haven't had time to test and verify all of this so as usual: Do your) Tj
+T*
+(own testing and trust nobody!.) Tj
+T*
+() Tj
+T*
+(18. iPhone 3D engine programming part 1) Tj
+T*
+(Source: Fabien Sanglard | Published: Mon, 19 Oct 2009 00:33:27 -0400) Tj
+T*
+(Link: https://fabiensanglard.net/dEngine/index.php) Tj
+T*
+(Pumped up by the tremendous success of Fluid \(4,000,000+ downloads\) and Fluid 2 \(50,000+) Tj
+T*
+(downloads\), I started two month ago to write a real game for iPhone: Here is a modest report of) Tj
+T*
+(my experience in the process.) Tj
+T*
+() Tj
+T*
+(19. Armadillo Space T-shirt) Tj
+T*
+(Source: Fabien Sanglard | Published: Wed, 14 Oct 2009 00:33:27 -0400) Tj
+T*
+(Link: https://fabiensanglard.net/armadilloSpace/index.php) Tj
+T*
+(Finally received my Armadillo Space T-Shirt and mug. I recommend them !) Tj
+T*
+() Tj
+T*
+(20. Which Design Doc Did a Human Write?) Tj
+T*
+(Source: Refactoring English | Published: Wed, 25 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/blog/ai-vs-human-design-doc/) Tj
+T*
+(I created three design docs for the same open-source web app: I spent 16 hours writing one of) Tj
+T*
+(the design docs completely by hand. I generated one using Claude Opus 4.6 \(medium effort\). I) Tj
+T*
+(generated one using GPT-5.4 \(high effort\). I generated the AI versions in a few minutes. I fed) Tj
+T*
+(the agents a prompt that included the design docs chapter of my book and a skeleton design doc) Tj
+T*
+(structure. The agents who wrote the AI-generated docs did not see the version I wrote.) Tj
+T*
+() Tj
+T*
+(21. Your tech or my tech: make up your mind quickly) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 02 Mar 2024 17:30:55 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/your-tech-my-tech/) Tj
+T*
+(The short version: organizations often hesitate for many years before outsourcing tasks,) Tj
+T*
+(particularly in the field of ICT \(Information and Communication Technology\). During those) Tj
+T*
+(years, valuable ICT employees leave because constantly justifying their own existence is) Tj
+T*
+(frustrating. In the long run, something will eventually go wrong, making the decision to) Tj
+T*
+(outsource much easier: ?We can?t and don?t want to do this ourselves anymore.? However, by) Tj
+T*
+(hesitating for so long, you have created the situation yourself.) Tj
+T*
+() Tj
+T*
+(22. Jouw tech of mijn tech: kies snel) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 01 Mar 2024 08:25:55 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/jouw-tech-mijn-tech/) Tj
+T*
+(There?s now also an English version of this post. De hele korte versie: organisaties twijfelen) Tj
+T*
+(vaak vele jaren over het uitbesteden van dingen, met name ICT. Gedurende die jaren vertrekken) Tj
+T*
+(de goede ICT-mensen, want steeds je eigen bestaan moeten rechtvaardigen is rot. Op termijn gaat) Tj
+T*
+(er dan weleens iets goed mis, en is de keuze daarna makkelijk: we kunnen en willen dit niet) Tj
+T*
+(meer zelf doen. Maar door jaren te twijfelen heb je het daar zelf naar gemaakt.) Tj
+T*
+() Tj
+T*
+(23. Of je zegt niks?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 11 Feb 2024 15:10:21 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/of-je-zegt-niks/) Tj
+T*
+(Het gaat allemaal niet best met de wereld - het klimaat ontspoort, en men twijfelt of we er) Tj
+T*
+(iets aan moeten doen, de rechtstaat wankelt, de ongelijkheid groeit, mensen vallen bij bosjes) Tj
+T*
+(voor complottheorieÎn en ze stemmen zonder enige moeite op fascisten, racisten en clowns die) Tj
+T*
+(geen enkel probleem op gaan lossen. En overal is oorlog. Sommige mensen doen op kleine of) Tj
+T*
+(grotere schaal concreet hun best om het beter te maken.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004854 00000 n 
+0000004980 00000 n 
+0000009529 00000 n 
+0000009655 00000 n 
+0000014740 00000 n 
+0000014866 00000 n 
+0000018883 00000 n 
+0000019011 00000 n 
+0000023003 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+23131
+%%EOF
