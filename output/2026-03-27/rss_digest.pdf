@@ -1,0 +1,674 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4632 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-27 09:39:15) Tj
+T*
+() Tj
+T*
+(1. We Rewrote JSONata with AI in a Day, Saved $500K/Year) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-27T00:35:01+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything) Tj
+T*
+(We Rewrote JSONata with AI in a Day, Saved $500K/Year Bit of a hyperbolic framing but this) Tj
+T*
+(looks like another case study of vibe-porting , this time spinning up a new custom Go) Tj
+T*
+(implementation of the JSONata JSON expression language - similar in focus to jq, and heavily) Tj
+T*
+(associated with the Node-RED platform. As with other vibe-porting projects the key enabling) Tj
+T*
+(factor was JSONata's existing test suite, which helped build the first working Go version in 7) Tj
+T*
+(hours and $400 of token spend. The Reco team then used a shadow deployment for a week to run) Tj
+T*
+(the new and old versions in parallel to confirm the new implementation exactly matched the) Tj
+T*
+(behavior of the old one. Tags: go , json , ai , generative-ai , llms , agentic-engineering) Tj
+T*
+() Tj
+T*
+(2. My minute-by-minute response to the LiteLLM malware attack) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-26T23:58:22+00:00) Tj
+T*
+(Link:) Tj
+T*
+(https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything) Tj
+T*
+(My minute-by-minute response to the LiteLLM malware attack Callum McMahon reported the LiteLLM) Tj
+T*
+(malware attack to PyPI. Here he shares the Claude transcripts he used to help him confirm the) Tj
+T*
+(vulnerability and decide what to do about it. Claude even suggested the PyPI security contact) Tj
+T*
+(address after confirming the malicious code in a Docker container: Confirmed . Fresh download) Tj
+T*
+(from PyPI right now in an isolated Docker container: Inspecting:) Tj
+T*
+(litellm-1.82.8-py3-none-any.whl FOUND: litellm_init.pth SIZE: 34628 bytes FIRST 200 CHARS:) Tj
+T*
+(import os, subprocess, sys; subprocess.Popen\([sys.executable, "-c", "import base64;) Tj
+T*
+(exec\(base64.b64decode\('aW1wb3J0IHN1YnByb2Nlc3MKaW1wb3J0IHRlbXBmaWxl... The malicious) Tj
+T*
+(litellm==1.82.8 is live on PyPI right now and anyone installing or upgrading litellm will be) Tj
+T*
+(infected. This needs to be reported to security@pypi.org immediately. I was chuffed to see) Tj
+T*
+(Callum use my claude-code-transcripts tool to publish the transcript of the conversation. Via) Tj
+T*
+(Hacker News Tags: pypi , security , ai , generative-ai , llms , claude , supply-chain) Tj
+T*
+() Tj
+T*
+(3. Quantization from the ground up) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-26T16:21:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything) Tj
+T*
+(Quantization from the ground up Sam Rose continues his streak of publishing spectacularly) Tj
+T*
+(informative interactive essays, this time explaining how quantization of Large Language Models) Tj
+T*
+(works \(which he says might be " the best post I've ever made ".\) Also included is the best) Tj
+T*
+(visual explanation I've ever seen of how floating point numbers are represented using binary) Tj
+T*
+(digits. I hadn't heard about outlier values in quantization - rare float values that exist) Tj
+T*
+(outside of the normal tiny-value distribution - but apparently they're very important: Why do) Tj
+T*
+(these outliers exist? [...] tl;dr: no one conclusively knows, but a small fraction of these) Tj
+T*
+(outliers are very important to model quality. Removing even a single "super weight," as Apple) Tj
+T*
+(calls them, can cause the model to output complete gibberish. Given their importance,) Tj
+T*
+(real-world quantization schemes sometimes do extra work to preserve these outliers. They might) Tj
+T*
+(do this by not quantizing them at all, or by saving their location and value into a separate) Tj
+T*
+(table, then removing them so that their block isn't destroyed. Plus there's a section on How) Tj
+T*
+(much does quantization affect model accuracy? . Sam explains the concepts of perplexity and...) Tj
+T*
+() Tj
+T*
+(4. Apple Discontinues the Mac Pro With No Plans to Bring It Back) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-27T00:56:39Z) Tj
+T*
+(Link: https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) Tj
+T*
+(Chance Miller with a big scoop at 9to5Mac: It?s the end of an era: Apple has confirmed to) Tj
+T*
+(9to5Mac that the Mac Pro is being discontinued. It has been removed from Apple?s website as of) Tj
+T*
+(Thursday afternoon. The ?buy? page on Apple?s website for the Mac Pro now redirects to the) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4663 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Mac?s homepage , where all references have been removed. Apple has also confirmed to 9to5Mac) Tj
+T*
+(that it has no plans to offer future Mac Pro hardware. The Mac Pro has lived many lives over) Tj
+T*
+(the years. Apple released the current Mac Pro industrial design in 2019 alongside the Pro) Tj
+T*
+(Display XDR \(which was also discontinued earlier this month\). That version of the Mac Pro was) Tj
+T*
+(powered by Intel, and Apple refreshed it with the M2 Ultra chip in June 2023. It has gone) Tj
+T*
+(without an update since then, languishing at its $6,999 price point even as Apple debuted the) Tj
+T*
+(M3 Ultra chip in the Mac Studio last year. In the Power PC era, the high-end Mac desktops were) Tj
+T*
+(called PowerMacs and the pro laptops were PowerBooks. With the transition to Intel CPUs in) Tj
+T*
+(2006, Apple changed the names to Mac Pro and MacBook Pro. But unlike the MacBook Pro ? which) Tj
+T*
+(has seen major revisions every few years and satisfying speed bumps on a regular basis, an...) Tj
+T*
+() Tj
+T*
+(5. The Apple Charging Situation) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-26T20:20:49Z) Tj
+T*
+(Link: https://randsinrepose.com/guides/apple-charging-guide.html) Tj
+T*
+(Speaking of power adapters , this information guide from Rands in Repose is both useful and) Tj
+T*
+(enlightening. ?) Tj
+T*
+() Tj
+T*
+(6. You Can Jump Right to the Updates Screen in the App Store App on iOS 26.4) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-26T19:35:00Z) Tj
+T*
+(Link: https://daringfireball.net/linked/2026/03/24/ios-264) Tj
+T*
+(I mentioned the other day that I was mildly irked by a change in iOS 26.4 that moved the list) Tj
+T*
+(of available updates in the App Store app one additional screen further into its hierarchy.) Tj
+T*
+(Good news \( via Nate Barham on Mastodon \): you can long-press on the App Store app on your Home) Tj
+T*
+(Screen and jump right to the Updates screen from the contextual menu. Nice! Alternatively, you) Tj
+T*
+(can create a Shortcuts shortcut that jumps you to the Updates screen. Just one action: open the) Tj
+T*
+(URL itms-apps://apps.apple.com/updates . Save it as an ?app? on your Home Screen or an action) Tj
+T*
+(in Control Center. Me, I?m just going to use the tap-and-hold contextual menu item on the App) Tj
+T*
+(Store app. ?) Tj
+T*
+() Tj
+T*
+(7. How we get radicalized in America) Tj
+T*
+(Source: iDiallo.com | Published: Thu, 26 Mar 2026 23:11:46 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed) Tj
+T*
+(Be healthy, be young, fall ill. You have a great job of course, you have insurance. It would be) Tj
+T*
+(ok if the worst thing about health insurance in America was it is hard to navigate. No! The) Tj
+T*
+(actual problem is that your insurance is incentivized not to cover you at your most vulnerable) Tj
+T*
+(moment. You pay them every month. That's money that goes from your paycheck, into their) Tj
+T*
+(pockets. Now if they cover you, that's money that leaves their pocket, and go into your) Tj
+T*
+(treatment. There are two ways they can make money. 1. You continue paying every month, and) Tj
+T*
+(never fall ill. 2. You fall ill, and they deny you care. Only the second option is an active) Tj
+T*
+(option. Health Insurance is a scam that we have normalized in the United States. It helps no) Tj
+T*
+(one, it makes healthcare unaffordable, and you have to fight tooth and nail to get any sort of) Tj
+T*
+(care. When Luigi was in the headlines, and news anchors were asking how such a young man can) Tj
+T*
+(get radicalized, I shook my head. In America, it is our tradition to get 2 jobs. It is our) Tj
+T*
+(tradition to live paycheck to paycheck. And it is our tradition to get radicalized the moment) Tj
+T*
+(we get sick. When you get sick, the healthcare industry tries to charge much as they can g...) Tj
+T*
+() Tj
+T*
+(8. Engineers do get promoted for writing simple code) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Thu, 26 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/simple-work-gets-rewarded/) Tj
+T*
+(It?s a popular joke among software engineers that writing overcomplicated, unmaintainable code) Tj
+T*
+(is a pathway to job security. After all, if you?re the only person who can work on a system,) Tj
+T*
+(they can?t fire you. There?s a related take that ?nobody gets promoted for simplicity? : in) Tj
+T*
+(other words, engineers who deliver overcomplicated crap will be promoted, because their work) Tj
+T*
+(looks more impressive to non-technical managers. There?s a grain of truth in this, of course.) Tj
+T*
+(As I?ve said before, one mark of an elegant solution is that it makes the problem look easy) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 5100 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(\(like how pro skiers make terrifying slopes look doable\). However, I worry that some engineers) Tj
+T*
+(take this too far. It?s actually a really bad idea to over-complicate your own work. Simple) Tj
+T*
+(software engineering does get rewarded, and on balance will take you further in your career.) Tj
+T*
+(Non-technical managers are not stupid The main reason for this is exactly the cynical point) Tj
+T*
+(above: most managers are non-technical and cannot judge the difficulty of technical work . Of) Tj
+T*
+(course, in the absence of anything better, managers will treat visible complexity as a mark of) Tj
+T*
+(difficulty. But they usually do have something better to go on: actual results...) Tj
+T*
+() Tj
+T*
+(9. Considering mmap\(\) verus plain reads for my recent code) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-26T23:06:37Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts) Tj
+T*
+(The other day I wrote about a brute force approach to mapping IPv4 /24 subnets to Autonomous) Tj
+T*
+(System Numbers \(ASNs\) , where I built a big, somewhat sparse file of four-byte records, with) Tj
+T*
+(the record for each /24 at a fixed byte position determined by its first three octets \(so) Tj
+T*
+(0.0.0.0/24's ASN, if any, is at byte 0, 0.0.1.0/24 is at byte 4, and so on\). My initial) Tj
+T*
+(approach was to open, lseek\(\), and read\(\) to access the data; in a comment, Aristotle Pagaltzis) Tj
+T*
+(wondered if mmap\(\) would perform better. The short answer is that for my specific case I think) Tj
+T*
+(it would be worse, but the issue is interesting to talk about. \(In general, my view is that you) Tj
+T*
+(should use mmap\(\) primarily if it makes the code cleaner and simpler. Using mmap\(\) for) Tj
+T*
+(performance is a potentially fraught endeavour that you need to benchmark.\) In my case I have) Tj
+T*
+(two strikes against mmap\(\) likely being a performance advantage: I'm working in Python \(and) Tj
+T*
+(specifically Python 2\) so I can't really directly use the mmap\(\)'d memory, and I'm normally) Tj
+T*
+(only making a single lookup in the typical case \(because my program is running as a CGI\). In) Tj
+T*
+(the non-mmap\(\) case I expect to do an open\(\), an lseek\(\), and a read\(\) \(which will trigger...) Tj
+T*
+() Tj
+T*
+(10. Early notes on switching some libvirt-based virtual machines to UEFI) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-26T03:10:34Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI) Tj
+T*
+(I keep around a small collection of virtual machines so I don't have to drag out one of our) Tj
+T*
+(spare physical servers to test things on. These virtual machines have traditionally used) Tj
+T*
+(traditional MBR-based booting \('BIOS' in libvirt instead of 'UEFI'\), partly because for a long) Tj
+T*
+(time libvirt didn't support snapshots of UEFI based virtual machines and snapshots are very) Tj
+T*
+(important for my use of these scratch virtual machines . However, I recently discovered that) Tj
+T*
+(libvirt now can do snapshots of UEFI based virtual machines, and also all of our physical) Tj
+T*
+(server installs are UEFI based, so in the past couple of days I've experimented with moving) Tj
+T*
+(some of my Ubuntu scratch VMs from BIOS to UEFI. As far as I know, virt-manager and virsh don't) Tj
+T*
+(directly allow you to switch a virtual machine between BIOS and UEFI after it's been created,) Tj
+T*
+(partly because the result is probably not going to boot \(unless you deliberately set up the OS) Tj
+T*
+(inside the VM with both an EFI boot and a BIOS MBR boot environment\). Within virt-manager, you) Tj
+T*
+(can only select BIOS or UEFI at setup time, so you have to destroy your virtual machine and) Tj
+T*
+(recreate it. This works, but it's a bit annoying. \(On the other hand, if you've had...) Tj
+T*
+() Tj
+T*
+(11. One problem with \(Python\) docstrings is that they're local) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-19T02:41:13Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal) Tj
+T*
+(When I wrote about documenting my Django forms , I said that I knew I didn't want to put my) Tj
+T*
+(documentation in docstrings, because I'd written some in the past and then not read it this) Tj
+T*
+(time around. One of the reasons for that is that Python docstrings have to be attached to) Tj
+T*
+(functions, or more generally, Python docstrings have to be scattered through your code. The) Tj
+T*
+(corollary to this is that to find relevant docstrings you have to read through your code and) Tj
+T*
+(then remember which bits of it are relevant to what you're wondering about. When your docstring) Tj
+T*
+(is specifically about the function you already know you want to look at, this is fine.) Tj
+T*
+(Docstrings work perfectly well for local knowledge, for 'what is this function about' summaries) Tj
+T*
+(that you want to read before you delve into the function. I feel they work rather less well for) Tj
+T*
+(finding what function you want to look at \(ideally you want some sort of skimmable index for) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3394 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(that\); if you have to read docstrings to find a function, you're going to be paging through a) Tj
+T*
+(lot of your code until you hit the right docstring. This is also why I feel docstrings are a) Tj
+T*
+(bad fit for documenting my Django forms . Even if I attach them to the Python functio...) Tj
+T*
+() Tj
+T*
+(12. Why doesn?t WM_ENTER≠IDLE work if the dialog box is a Message≠Box?) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 26 Mar 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260326-00/?p=112167) Tj
+T*
+(Because it opted out. The post Why doesn?t WM_ ENTER≠IDLE work if the dialog box is a) Tj
+T*
+(Message≠Box ? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(13. Lebesgue constants) Tj
+T*
+(Source: John D. Cook | Published: Thu, 26 Mar 2026 20:05:06 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/26/lebesgue-constants/) Tj
+T*
+(I alluded to Lebesgue constants in the previous post without giving them a name. There I said) Tj
+T*
+(that the bound on order n interpolation error has the form where h is the spacing between) Tj
+T*
+(interpolation points and ? is the error in the tabulated values. The constant c depends on the) Tj
+T*
+(function f being interpolated, and to a [?] The post Lebesgue constants first appeared on John) Tj
+T*
+(D. Cook .) Tj
+T*
+() Tj
+T*
+(14. How much precision can you squeeze out of a table?) Tj
+T*
+(Source: John D. Cook | Published: Thu, 26 Mar 2026 14:33:37 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/26/table-precision/) Tj
+T*
+(Richard Feynman said that almost everything becomes interesting if you look into it deeply) Tj
+T*
+(enough. Looking up numbers in a table is certainly not interesting, but it becomes more) Tj
+T*
+(interesting when you dig into how well you can fill in the gaps. If you want to know the value) Tj
+T*
+(of a tabulated function between values [?] The post How much precision can you squeeze out of a) Tj
+T*
+(table? first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(15. Adding human.json to WordPress) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 26 Mar 2026 12:34:52 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/) Tj
+T*
+(Every few years, someone reinvents FOAF. The idea behind Friend-Of-A-Friend is that You can say) Tj
+T*
+("I, Alice, know and trust Bob". Bob can say "I know and trust Alice. I also know and trust) Tj
+T*
+(Carl." That social graph can be navigated to help understand trust relationships. Sometimes) Tj
+T*
+(this is done with complex cryptography and involves key-signing ceremonies. Other times it) Tj
+T*
+(involves byzantine XML RDF.?) Tj
+T*
+() Tj
+T*
+(16. Members Only: On Cathedral thinking) Tj
+T*
+(Source: Westenberg. | Published: Thu, 26 Mar 2026 22:54:35 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/members-only-on-cathedral-thinking/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(17. Trolls) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/trolls.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(18. Six Principles for Making New Things) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/newthings.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(19. Why to Move to a Startup Hub) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/startuphubs.html) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3724 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. Fluid speed issues!) Tj
+T*
+(Source: Fabien Sanglard | Published: Mon, 29 Jun 2009 00:33:27 -0400) Tj
+T*
+(Link: https://fabiensanglard.net/fluide/index.php) Tj
+T*
+(Fluid v1.3 is too fast on 3GX iPhones ;\( ! I will released a fix tonight !) Tj
+T*
+() Tj
+T*
+(21. Fluid2 RELEASED ! Fluid 1 now at 3,000,000 downloads !!) Tj
+T*
+(Source: Fabien Sanglard | Published: Tue, 9 Jun 2009 00:33:27 -0400) Tj
+T*
+(Link: https://fabiensanglard.net/fluide/index.php) Tj
+T*
+(Fluid 2 was released today with plenty of news features, check it out !) Tj
+T*
+() Tj
+T*
+(22. Fluid: 1,000,000 downloads !!) Tj
+T*
+(Source: Fabien Sanglard | Published: Thu, 14 May 2009 00:33:27 -0400) Tj
+T*
+(Link: https://fabiensanglard.net/fluide/index.php) Tj
+T*
+(Version 1.1 is a HUGE success, I've just posted revision 1.2 and started working on 1.3 and 2.0) Tj
+T*
+(! Stay tuned !) Tj
+T*
+() Tj
+T*
+(23. I Can't See Apple's Vision) Tj
+T*
+(Source: matduggan.com | Published: Thu, 26 Mar 2026 11:54:18 GMT) Tj
+T*
+(Link: https://matduggan.com/i-cant-see-apples-vision/) Tj
+T*
+(Companies, as they grow to become multi-billion-dollar entities, somehow lose their vision.) Tj
+T*
+(They insert lots of layers of middle management between the people running the company and the) Tj
+T*
+(people doing the work. They no longer have an inherent feel or a passion about the products.) Tj
+T*
+(The creative people, who are) Tj
+T*
+() Tj
+T*
+(24. Het hellende vlak van SIDN's commerciÎle ambities) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 09 Feb 2024 15:15:21 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/hellend-vlak-sidn-europa/) Tj
+T*
+(Door Corinne CathDr. Corinne Cath is an anthropologist of technology who studies the politics) Tj
+T*
+(of Internet infrastructure. She is a recent graduate of the Oxford Internet Institute?s PhD) Tj
+T*
+(program \(University of Oxford\) and the Alan Turing Institute for data science. Previously, she) Tj
+T*
+(worked on technology policy for human rights? organization ARTICLE 19 and the US House of) Tj
+T*
+(Representatives. & Bert Hubert De Stichting Internet Domeinregistratie Nederland \(SIDN\) beheert) Tj
+T*
+(het digitale kadaster van meer dan 6 miljoen ?.) Tj
+T*
+() Tj
+T*
+(25. BNR De Technoloog over de \(Lidl\) cloud & Europa) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 03 Feb 2024 11:51:50 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/bnr-technoloog-cloud-30-jan-2024/) Tj
+T*
+(Onderstaand een licht bewerkt transcript van aflevering 376 van BNR?s De Technoloog, Europa is) Tj
+T*
+(\(bijna\) volledig afhankelijk van de VS en China en dat is een probleem, ook beschikbaar op) Tj
+T*
+(YouTube. Redactie DaniÎl Mol. In deze aflevering bespreken we hoe het zo gekomen is met) Tj
+T*
+(Europa?s bedroevende positie in de cloud, maar ook hoe onze overheden door zelf verstandiger in) Tj
+T*
+(te kopen een grote rol zouden kunnen hebben in het \(her\)opwekken van onze cloudindustrie.) Tj
+T*
+() Tj
+T*
+(26. Volkskrant columns november 2023) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 03 Feb 2024 11:51:50 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/volkskrant-columns/) Tj
+T*
+(In november 2023 was ik de gast-columnist van de Volkskrant, en heb ik vier stukjes geschreven) Tj
+T*
+(die steeds op zondag \(alleen online\) verschenen. Dit was voor mij voor het eerst dat ik echt) Tj
+T*
+(iedere week moest ?leveren?, en ook nog binnen heldere kaders: 700 woorden, opinie over dingen) Tj
+T*
+(die al in het nieuws geweest zijn. Ik heb nu een nieuw respect voor de columnisten die zoiets) Tj
+T*
+(iedere week weer kunnen, en tegelijk zie ik ook dat niet iedereen wekelijks een topprestatie) Tj
+T*
+(kan leveren.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 649 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(27. SQLAlchemy 2 In Practice - Chapter 2 - Database Tables) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Thu, 26 Mar 2026 12:30:03 GMT) Tj
+T*
+(Link:) Tj
+T*
+(https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables) Tj
+T*
+(This is the second chapter of my SQLAlchemy 2 in Practice book. If you'd like to support my) Tj
+T*
+(work, I encourage you to buy this book, either directly from my store or on Amazon . Thank you!) Tj
+T*
+(This chapter provides an overview of the most basic usage of the SQLAlchemy library to create,) Tj
+T*
+(update and query database tables.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004908 00000 n 
+0000005034 00000 n 
+0000009749 00000 n 
+0000009875 00000 n 
+0000015027 00000 n 
+0000015153 00000 n 
+0000018600 00000 n 
+0000018728 00000 n 
+0000022505 00000 n 
+0000022633 00000 n 
+0000023334 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+23462
+%%EOF
