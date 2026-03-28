@@ -1,0 +1,732 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4335 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-28 09:38:11) Tj
+T*
+() Tj
+T*
+(1. Bring back MiniDV with this Raspberry Pi FireWire HAT) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 27 Mar 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/) Tj
+T*
+(In my last post, I showed you to use FireWire on a Raspberry Pi with a PCI Express IEEE 1394) Tj
+T*
+(adapter. Now I'll show you how I'm using a new FireWire HAT and a PiSugar3 Plus battery to make) Tj
+T*
+(a portable MRU, or 'Memory Recording Unit', to replace tape in older FireWire/i.Link/DV) Tj
+T*
+(cameras. The alternative is an old used MRU like Sony's HVR-MRC1 , which runs around $300 on) Tj
+T*
+(eBay 1 .) Tj
+T*
+() Tj
+T*
+(2. datasette-showboat 0.1a2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-27T23:42:47+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything) Tj
+T*
+(Release: datasette-showboat 0.1a2 I added an option to export a Markdown file from my app that) Tj
+T*
+(lets Showboat incrementally publish updates to a remote server.) Tj
+T*
+() Tj
+T*
+(3. Quoting Richard Fontana) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-27T21:11:17+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything) Tj
+T*
+(FWIW, IANDBL, TINLA, etc., I don?t currently see any basis for concluding that chardet 7.0.0 is) Tj
+T*
+(required to be released under the LGPL. AFAIK no one including Mark Pilgrim has identified) Tj
+T*
+(persistence of copyrightable expressive material from earlier versions in 7.0.0 nor has anyone) Tj
+T*
+(articulated some viable alternate theory of license violation. [...] ? Richard Fontana , LGPLv3) Tj
+T*
+(co-author, weighing in on the chardet relicensing situation Tags: open-source , ai-ethics ,) Tj
+T*
+(llms , ai , generative-ai , ai-assisted-programming) Tj
+T*
+() Tj
+T*
+(4. Vibe coding SwiftUI apps is a lot of fun) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-27T20:59:53+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything) Tj
+T*
+(I have a new laptop - a 128GB M5 MacBook Pro, which early impressions show to be very capable) Tj
+T*
+(for running good local LLMs. I got frustrated with Activity Monitor and decided to vibe code up) Tj
+T*
+(some alternative tools for monitoring performance and I'm very happy with the results. This is) Tj
+T*
+(my second experiment with vibe coding macOS apps - the first was this presentation app a few) Tj
+T*
+(weeks ago . It turns out Claude Opus 4.6 and GPT-5.4 are both very competent at SwiftUI - and a) Tj
+T*
+(full SwiftUI app can fit in a single text file, which means I can use them to spin something up) Tj
+T*
+(without even opening Xcode. I?ve built two apps so far: Bandwidther shows me what apps are) Tj
+T*
+(using network bandwidth and Gpuer to show me what?s going on with the GPU. At Claude?s) Tj
+T*
+(suggestion both of these are now menu bar icons that open a panel full of information.) Tj
+T*
+(Bandwidther I built this app first, because I wanted to see what Dropbox was doing. It looks) Tj
+T*
+(like this: I?ve shared the full transcript I used to build the first version of the app. My) Tj
+T*
+(prompts were pretty minimal: Show me how much network bandwidth is in use from this machine to) Tj
+T*
+(the internet as opposed to local LAN \(My initial curiosity was to see if Dropbox was...) Tj
+T*
+() Tj
+T*
+(5. Business Insider?s Subscriber Spiral) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-28T00:48:14Z) Tj
+T*
+(Link: https://www.status.news/p/business-insider-subscription-decline-data) Tj
+T*
+(Oliver Darcy, reporting for Status \(paywalled, alas\): According to the data obtained by Status,) Tj
+T*
+(BI ended 2023 with roughly 160,000 paid subscribers, a drop of about 14 percent from the prior) Tj
+T*
+(year when it boasted about 185,000 subscribers. The slide did not stop there, however. In 2024,) Tj
+T*
+(it closed the year with roughly 150,000 subscribers, a further six percent decline. And in) Tj
+T*
+(2025, the number fell again, to about 135,000 paid subscribers ? another 10 percent drop. All) Tj
+T*
+(told, over roughly three years, BI saw its subscription base plummet by about 50,000, or a) Tj
+T*
+(jarring 27 percent. Not the sort of momentum you want. ?) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4489 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(6. Apple Says It?s Not Aware of Lockdown Mode Ever Having Been Exploited) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-28T00:16:01Z) Tj
+T*
+(Link: https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-w) Tj
+T*
+(ith-spyware/) Tj
+T*
+(Lorenzo Franceschi-Bicchierai, reporting for TechCrunch: Almost four years after launching a) Tj
+T*
+(security feature called Lockdown Mode, Apple says it has yet to see a case where someone?s) Tj
+T*
+(device was hacked with these additional security protections switched on. ?We are not aware of) Tj
+T*
+(any successful mercenary spyware attacks against a Lockdown Mode-enabled Apple device,? Apple) Tj
+T*
+(spokesperson Sarah O?Rourke told TechCrunch on Friday. ?) Tj
+T*
+() Tj
+T*
+(7. Apple Announces Ads Are Coming to Apple Maps) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-28T00:01:56Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platfo) Tj
+T*
+(rm-for-businesses-of-all-sizes/) Tj
+T*
+(Apple Newsroom: Beginning this summer in the U.S. and Canada, businesses will have a new way to) Tj
+T*
+(be discovered by using Apple Business to create ads on Maps. Ads on Maps will appear when users) Tj
+T*
+(search in Maps, and can appear at the top of a user?s search results based on relevance, as) Tj
+T*
+(well as at the top of a new Suggested Places experience in Maps, which will display) Tj
+T*
+(recommendations based on what?s trending nearby, the user?s recent searches, and more. Ads will) Tj
+T*
+(be clearly marked to ensure transparency for Maps users. Ads on Maps builds on Apple?s broader) Tj
+T*
+(privacy-first approach to advertising , and maintains the same privacy protections Maps users) Tj
+T*
+(enjoy today. A user?s location and the ads they see and interact with in Maps are not) Tj
+T*
+(associated with a user?s Apple Account. Personal data stays on a user?s device, is not) Tj
+T*
+(collected or stored by Apple, and is not shared with third parties. The privacy angle is good.) Tj
+T*
+(I don?t want to take that for granted, because few, if any, of Apple?s $1-trillion-plus market) Tj
+T*
+(cap peers have such devotion to user privacy. But more and more it?s becoming clear that while) Tj
+T*
+(Apple?s devotion to protecting user privacy remains as high as ever, their devotion to d...) Tj
+T*
+() Tj
+T*
+(8. Sharing a Name) Tj
+T*
+(Source: iDiallo.com | Published: Fri, 27 Mar 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/sharing-a-name?src=feed) Tj
+T*
+(My bank card never arrived. I called the bank and, after being redirected through several) Tj
+T*
+(departments, was assured that it had been mailed. Then we argued a bit about what "7 to 10) Tj
+T*
+(business days" meant, we were already on day 14. We ended the call by agreeing to disagree.) Tj
+T*
+(Eventually, I did get my card. But it wasn't the mailman who delivered it. Instead, it was my) Tj
+T*
+(neighbor from two streets down. On the envelope, my address had been crossed out, and the word) Tj
+T*
+("incorrect" was handwritten beside it. Why? Because the mailman had done it. You see, I had) Tj
+T*
+(just moved into the apartment complex, and my name looked familiar to him. Of course he knew) Tj
+T*
+(who Ibrahima Diallo was, he had been delivering his mail for years. So he corrected it. In the) Tj
+T*
+(US, both my first and last name are uncommon \(or so I thought\). They're often a source of) Tj
+T*
+(confusion when my Starbucks order gets called out. As it turns out, one of my neighbors shares) Tj
+T*
+(the exact same name. And on top of that, he uses the same West African spelling: Ibrahima . The) Tj
+T*
+(mailman, trying to be helpful, had redirected my mail to what he thought was the right address.) Tj
+T*
+(My neighbor and I laughed about it. Then I immediately cancelled the card and re...) Tj
+T*
+() Tj
+T*
+(9. What if a dialog wants to intercept its own message loop?) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 27 Mar 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260327-00/?p=112172) Tj
+T*
+(You can steal them from your owner. The post What if a dialog wants to intercept its own) Tj
+T*
+(message loop? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(10. Wayland has good reasons to put the window manager in the display server) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-18T02:27:54Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 5022 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(I recently ran across Isaac Freund's Separating the Wayland Compositor and Window Manager \( via) Tj
+T*
+(\), which is excellent news as far as I'm concerned. But in passing, it says: Traditionally,) Tj
+T*
+(Wayland compositors have taken on the role of the window manager as well, but this is not in) Tj
+T*
+(fact a necessary step to solve the architectural problems with X11. Although, I do not know for) Tj
+T*
+(sure why the original Wayland authors chose to combine the window manager and Wayland) Tj
+T*
+(compositor, I assume it was simply the path of least resistance. [...] Unfortunately, I believe) Tj
+T*
+(that there are excellent reasons to put the window manager into the display server the way) Tj
+T*
+(Wayland has, and the Wayland people \(who were also X people\) were quite familiar with them and) Tj
+T*
+(how X has had problems over the years because of its split. One large and more or less core) Tj
+T*
+(problem is that event handling is deeply entwined with window management. As an example,) Tj
+T*
+(consider this sequence of \(input\) events: your mouse starts out over one window. You type some) Tj
+T*
+(characters. you move your mouse over to a second window. You type some more characters. you) Tj
+T*
+(click a mouse button without moving the mouse. you type more characters. Your window m...) Tj
+T*
+() Tj
+T*
+(11. Cleaning old GPG RPM keys that your Fedora install is keeping around) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-17T01:57:31Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys) Tj
+T*
+(Approximately all RPM packages are signed by GPG keys \(or maybe they're supposed to be called) Tj
+T*
+(PGP keys\), which your system stores in the RPM database as pseudo-packages \(because why not\).) Tj
+T*
+(If your Fedora install has been around long enough, as mine have, you will have accumulated a) Tj
+T*
+(drift of old keys and sometimes you either want to clean them up or something unfortunate will) Tj
+T*
+(happen to one of those keys \(I'll get to one case for it\). One basic command to see your) Tj
+T*
+(collection of GPG keys in the RPM database is \(taken from this gist \): rpm -q gpg-pubkey --qf) Tj
+T*
+('%{NAME}-%{VERSION}-%{RELEASE}\\t%{SUMMARY}\\n' On some systems this will give you a nice short) Tj
+T*
+(list of keys. On others, your list may be very long. Since Fedora 42 \( cf \), DNF has) Tj
+T*
+(functionality \(I believe more or less built in\) that should offer to remove old GPG keys that) Tj
+T*
+(have actually expired. This is in the ' expired PGP keys plugin ' which comes from the) Tj
+T*
+('libdnf5-plugin-expired-pgp-keys' if you don't have it installed \(with a brief manpage that's) Tj
+T*
+(called 'libdnf5-expired-pgp-keys'\). I believe there was a similar DNF4 plugin. However, there) Tj
+T*
+(are two situations where this seems to not work correctly. The first situation is now-obsol...) Tj
+T*
+() Tj
+T*
+(12. Making empirical decisions about web access \(here in 2026\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-16T02:13:18Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical) Tj
+T*
+(Recently, Denis Warburton wrote in a comment on my entry on how HTTP results today depend on) Tj
+T*
+(what HTTP User-Agent you use : Making decisions based on user-provided information is unwise in) Tj
+T*
+(2026. The originating ip address is the only source of "truth" ... and even then, that) Tj
+T*
+(information needs to be further examined before discerning whether or not it is a valid piece) Tj
+T*
+(of communication. It's absolutely true that everything except the source IP address is under) Tj
+T*
+(the control of an attacker \(and it always has been\), and in one sense you can't trust it. But) Tj
+T*
+(this doesn't mean you can't use information that's under the attacker's control in making) Tj
+T*
+(decisions about whether to allow access to something; instead, it means that you have to be) Tj
+T*
+(thoughtful about how you use the information and what for. In practice, web agents emit a lot) Tj
+T*
+(of data in their HTTP headers and requests . Some of these signals are complicated, such as) Tj
+T*
+(browser version numbers , and some of them require work to use , but this doesn't mean that) Tj
+T*
+(there's no signal at all that can be derived from all of the data that a web agent emits. For) Tj
+T*
+(example, consider a web agent that uses the HTTP User-Agent of: Mozilla/5.0 \(compatible;...) Tj
+T*
+() Tj
+T*
+(13. An AI Odyssey, Part 3: Lost Needle in the Haystack) Tj
+T*
+(Source: John D. Cook | Published: Fri, 27 Mar 2026 16:06:18 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://www.johndcook.com/blog/2026/03/27/an-ai-odyssey-part-3-lost-needle-in-the-haystack/) Tj
+T*
+(While shopping on a major e-commerce site, I wanted to get an answer to an obscure question) Tj
+T*
+(about a certain product. Not finding the answer immediately on the product page, I thought I?d) Tj
+T*
+(try clicking the AI shopping assistant helper tool to ask this question. I waited with) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3140 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(anticipation for an answer I would expect [?] The post An AI Odyssey, Part 3: Lost Needle in) Tj
+T*
+(the Haystack first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(14. Computing sine and cosine of complex arguments with only real functions) Tj
+T*
+(Source: John D. Cook | Published: Fri, 27 Mar 2026 11:33:04 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/27/complex-argument/) Tj
+T*
+(Suppose you have a calculator or math library that only handles real arguments but you need to) Tj
+T*
+(evaluate sin\(3 + 4i\). What do you do? If you?re using Python, for example, and you don?t have) Tj
+T*
+(NumPy installed, you can use the built-in math library, but it will not accept complex inputs.) Tj
+T*
+(>>> import math >>> [?] The post Computing sine and cosine of complex arguments with only real) Tj
+T*
+(functions first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(15. ?Good Taste? Is Just Experience) Tj
+T*
+(Source: Terrible Software | Published: Fri, 27 Mar 2026 19:35:32 +0000) Tj
+T*
+(Link: https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/) Tj
+T*
+(What people call "good taste" is really just experience earned through reps. Stop making it) Tj
+T*
+(sound innate.) Tj
+T*
+() Tj
+T*
+(16. The Age of the Amplifier) Tj
+T*
+(Source: Construction Physics | Published: Fri, 27 Mar 2026 12:00:44 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/the-age-of-the-amplifier) Tj
+T*
+(As we?ve noted more than a few times before, for most of the 20th century AT&T?s Bell Labs was) Tj
+T*
+(the premier industrial research lab in the US.) Tj
+T*
+() Tj
+T*
+(17. The Future of Web Startups) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/webstartups.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(18. How to Do Philosophy) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/philosophy.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(19. News from the Front) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/colleges.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. Premium: How Much Of The AI Bubble Is Real?) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 27 Mar 2026 17:21:30 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-how-much-of-the-ai-bubble-is-real/) Tj
+T*
+(I?m turning 40 in a month or so, and at 40 years young, I?m old enough to remember as far back) Tj
+T*
+(as December 11 2025, when Disney and OpenAI ?reached an agreement? to ?bring beloved characters) Tj
+T*
+(from across Disney?s brands to) Tj
+T*
+() Tj
+T*
+(21. An Intention Upgrade) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-03-27T15:56:07Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17307620/apple-mac-pro-discontinued-anniversary) Tj
+T*
+(By ditching the Mac Pro so close to its 50th anniversary, Apple is making a statement of intent) Tj
+T*
+(for its next 50 years.) Tj
+T*
+() Tj
+T*
+(22. Fluid v1.1 up and coming...) Tj
+T*
+(Source: Fabien Sanglard | Published: Sat, 9 May 2009 00:33:27 -0400) Tj
+T*
+(Link: https://fabiensanglard.net/fluide/index.php) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3781 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Fluid version 1.1 will be released next week. Zen music and changing background...) Tj
+T*
+() Tj
+T*
+(23. Wolfenstein 3D for iPhone code review) Tj
+T*
+(Source: Fabien Sanglard | Published: Sat, 9 May 2009 00:33:27 -0400) Tj
+T*
+(Link: https://www.fabiensanglard.net/wolf3d/index.php) Tj
+T*
+(For once, developers were able to read the source code of an id software product just a few) Tj
+T*
+(days after its release. I spent a week in my spare time reading the internal of the Wolfenstein) Tj
+T*
+(3D for iPhone engine. It is by far the cleanest and easiest id source code release to date.) Tj
+T*
+() Tj
+T*
+(24. Fluide) Tj
+T*
+(Source: Fabien Sanglard | Published: Wed, 15 Apr 2009 00:33:27 -0400) Tj
+T*
+(Link: https://fabiensanglard.net/fluide/index.php) Tj
+T*
+(Fluid tech demo released on iPhone !!!) Tj
+T*
+() Tj
+T*
+(25. This Week on The Analog Antiquarian) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 27 Mar 2026 17:23:28 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian-2/) Tj
+T*
+(Epilogue: Infinity Embraced) Tj
+T*
+() Tj
+T*
+(26. Using Perfetto in ZJIT) Tj
+T*
+(Source: Max Bernstein's Blog | Published: Fri, 27 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss) Tj
+T*
+(Originally published on Rails At Scale . Look! A trace of slow events in a benchmark! Hover) Tj
+T*
+(over the image to see it get bigger. img { max-width: 100%; } img:hover { transform: scale\(2\);) Tj
+T*
+(transition: transform 0.1s ease-in; } img:not\(:hover\) { transition: transform 0.1s ease-out; }) Tj
+T*
+(A sneak preview of what the trace looks like. Now read on to see what the slow events are and) Tj
+T*
+(how we got this pretty picture. The rules The first rule of just-in-time compilers is: you stay) Tj
+T*
+(in JIT code. The second rule of JIT is: you STAY in JIT code! When control leaves the compiled) Tj
+T*
+(code to run in the interpreter?what the ZJIT team calls either a ?side-exit? or a ?deopt?,) Tj
+T*
+(depending on who you talk to?things slow down. In a well-tuned system, this should happen) Tj
+T*
+(pretty rarely. Right now, because we?re still bringing up the compiler and runtime system, it) Tj
+T*
+(happens more than we would like. We?re reducing the number of exits over time. Lies, damned) Tj
+T*
+(lies, and statistics We can track our side-exit reduction progress with --zjit-stats , which,) Tj
+T*
+(on process exit, prints out a tidy summary of the counters for all of the bad stuff we track.) Tj
+T*
+(It?s got side-exits. It?s got calls to C code. It?s got calls to slow-path ru...) Tj
+T*
+() Tj
+T*
+(27. System shock) Tj
+T*
+(Source: Aresluna | Published: 2026-03-27T15:02:13+0000) Tj
+T*
+(Link: https://aresluna.org/system-shock) Tj
+T*
+(A story of a 25-year-old font coming back with a vengeance. \(New version of an essay originally) Tj
+T*
+(posted in October 2015. 1,100 words.\)) Tj
+T*
+() Tj
+T*
+(28. UX books not written by white men) Tj
+T*
+(Source: Aresluna | Published: 2026-03-27T15:02:13+0000) Tj
+T*
+(Link: https://aresluna.org/ux-books-not-written-by-white-men) Tj
+T*
+(A crowdsourced list of UX books) Tj
+T*
+() Tj
+T*
+(29. Het ligt niet aan de Kamerleden) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 03 Feb 2024 11:21:50 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/volkskrant-kamerleden/) Tj
+T*
+(Iets eerdere versie van het stuk in de Volkskrant, deel van een serie van vier columns: Het) Tj
+T*
+(ligt niet aan de Kamerleden Het is verkiezingstijd, en het is bon ton om te klagen over het) Tj
+T*
+(gebrek aan ervaring van Kamerleden, en om vervolgens ook nog te constateren dat juist de meest) Tj
+T*
+(ervaren parlementariÎrs niet terugkeren na de verkiezingen. En dat is ook schrijnend, en ook ik) Tj
+T*
+(heb er schande van gesproken.) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3062 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(30. Onze afluisterwet is eigenlijk een privacywet) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 03 Feb 2024 11:21:50 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/volkskrant-afluister-privacy-wet/) Tj
+T*
+(Iets eerdere versie van het stuk in de Volkskrant, deel van een serie van vier columns: Ze) Tj
+T*
+(zeiden het echt. De geheime diensten AIVD en MIVD krijgen binnenkort een nieuwe wet waarmee ze) Tj
+T*
+(makkelijker en vaker kunnen afluisteren en hacken. Vorige week legden ze het voorstel uit in de) Tj
+T*
+(Eerste Kamer, en claimden daar dat hun nieuwe wet eigenlijk een privacywet is \(!\). Nou wist ik) Tj
+T*
+(al dat het niet best gesteld was met ons besef van privacy, maar dit is toch wel heel) Tj
+T*
+(Orwelliaans.) Tj
+T*
+() Tj
+T*
+(31. We gaan de aarde kunstmatig afkoelen, wen maar vast aan het idee) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 03 Feb 2024 11:21:50 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/volkskrant-wen-er-maar-aan-klimaatgesleutel/) Tj
+T*
+(Iets eerdere versie van het stuk in de Volkskrant, deel van een serie van vier columns: De) Tj
+T*
+(wereld gaat de klimaatdoelen niet halen \(volgens de Verenigde Naties\). Hoewel er in Nederland) Tj
+T*
+(harder wordt gewerkt aan CO?-reductie dan menigeen denkt gaat het niet genoeg zijn. Ook zijn) Tj
+T*
+(veel van de lokale resultaten het gevolg van de-industrialisatie, waarbij productie hier) Tj
+T*
+(verdwijnt en verhuist naar omgevingen met minder regels en goedkopere stroom. Het ziet er dus) Tj
+T*
+(niet goed uit.) Tj
+T*
+() Tj
+T*
+(32. Endgame for the Open Web) Tj
+T*
+(Source: Anil Dash | Published: 2026-03-27T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/03/27/endgame-open-web/) Tj
+T*
+(You must imagine Sam Altman holding a knife to Tim Berners-Lee's throat. It's not a pleasant) Tj
+T*
+(image. Sir Tim is, rightly, revered as the genial father of the World Wide Web. But, all the) Tj
+T*
+(signs are pointing to the fact that we might be in endgame for "open" as we've known it on the) Tj
+T*
+(Internet over the last few decades. The open web is something extraordinary: anybody can use) Tj
+T*
+(whatever tools they have, to create content following publicly documented specifications,) Tj
+T*
+(published using completely free and open platforms, and then share that work with anyone,) Tj
+T*
+(anywhere in the world, without asking for permission from anyone. Think about how radical that) Tj
+T*
+(is . Now, from content to code, communities to culture, we can see example after example of) Tj
+T*
+(that open web under attack. Every single aspect of the radical architecture I just described is) Tj
+T*
+(threatened, by those who have profited most from that exact system. Today, the good people who) Tj
+T*
+(act as thoughtful stewards of the web infrastructure are still showing the same generosity of) Tj
+T*
+(spirit that has created opportunity for billions of people and connected society in ways too) Tj
+T*
+(vast to count while ?not incidentally? also creating trillions of dollars of val...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004611 00000 n 
+0000004737 00000 n 
+0000009278 00000 n 
+0000009404 00000 n 
+0000014478 00000 n 
+0000014604 00000 n 
+0000017797 00000 n 
+0000017925 00000 n 
+0000021759 00000 n 
+0000021887 00000 n 
+0000025002 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+25130
+%%EOF
