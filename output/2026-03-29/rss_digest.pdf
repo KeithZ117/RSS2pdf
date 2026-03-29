@@ -1,0 +1,604 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4505 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-29 09:37:37) Tj
+T*
+() Tj
+T*
+(1. Quoting Matt Webb) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-28T12:04:26+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything) Tj
+T*
+(The thing about agentic coding is that agents grind problems into dust. Give an agent a problem) Tj
+T*
+(and a while loop and - long term - it?ll solve that problem even if it means burning a trillion) Tj
+T*
+(tokens and re-writing down to the silicon. [...] But we want AI agents to solve coding problems) Tj
+T*
+(quickly and in a way that is maintainable and adaptive and composable \(benefiting from) Tj
+T*
+(improvements elsewhere\), and where every addition makes the whole stack better. So at the) Tj
+T*
+(bottom is really great libraries that encapsulate hard problems, with great interfaces that) Tj
+T*
+(make the ?right? way the easy way for developers building apps with them. Architecture! While) Tj
+T*
+(I?m vibing \(I call it vibing now, not coding and not vibe coding\) while I?m vibing, I am) Tj
+T*
+(looking at lines of code less than ever before, and thinking about architecture more than ever) Tj
+T*
+(before. ? Matt Webb , An appreciation for \(technical\) architecture Tags: matt-webb , ai , llms) Tj
+T*
+(, vibe-coding , coding-agents , ai-assisted-programming , generative-ai , agentic-engineering ,) Tj
+T*
+(definitions) Tj
+T*
+() Tj
+T*
+(2. LiteLLM Hack: Were You One of the 47,000?) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-25T17:21:04+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything) Tj
+T*
+(LiteLLM Hack: Were You One of the 47,000? Daniel Hnyk used the BigQuery PyPI dataset to) Tj
+T*
+(determine how many downloads there were of the exploited LiteLLM packages during the 46 minute) Tj
+T*
+(period they were live on PyPI. The answer was 46,996 across the two compromised release) Tj
+T*
+(versions \(1.82.7 and 1.82.8\). They also identified 2,337 packages that depended on LiteLLM -) Tj
+T*
+(88% of which did not pin versions in a way that would have avoided the exploited version. Via) Tj
+T*
+(@hnykda Tags: packaging , pypi , python , security , supply-chain) Tj
+T*
+() Tj
+T*
+(3. Malicious litellm_init.pth in litellm 1.82.8 ? credential stealer) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-24T15:07:31+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything) Tj
+T*
+(Malicious litellm_init.pth in litellm 1.82.8 ? credential stealer The LiteLLM v1.82.8 package) Tj
+T*
+(published to PyPI was compromised with a particularly nasty credential stealer hidden in base64) Tj
+T*
+(in a litellm_init.pth file, which means installing the package is enough to trigger it even) Tj
+T*
+(without running import litellm . \(1.82.7 had the exploit as well but it was in the) Tj
+T*
+(proxy/proxy_server.py file so the package had to be imported for it to take effect.\) This issue) Tj
+T*
+(has a very detailed description of what the credential stealer does. There's more information) Tj
+T*
+(about the timeline of the exploit over here . PyPI has already quarantined the litellm package) Tj
+T*
+(so the window for compromise was just a few hours, but if you DID install the package it would) Tj
+T*
+(have hoovered up a bewildering array of secrets, including ~/.ssh/ , ~/.gitconfig ,) Tj
+T*
+(~/.git-credentials , ~/.aws/ , ~/.kube/ , ~/.config/ , ~/.azure/ , ~/.docker/ , ~/.npmrc ,) Tj
+T*
+(~/.vault-token , ~/.netrc , ~/.lftprc , ~/.msmtprc , ~/.my.cnf , ~/.pgpass , ~/.mongorc.js ,) Tj
+T*
+(~/.bash_history , ~/.zsh_history , ~/.sh_history , ~/.mysql_history , ~/.psql_history ,) Tj
+T*
+(~/.rediscli_history , ~/.bitcoin/ , ~/.litecoin/ , ~/.dogecoin/ , ~/.zcash/ , ~/.dashcore/ ,) Tj
+T*
+(~/.ri...) Tj
+T*
+() Tj
+T*
+(4. The 2019 Intel Mac Pro?s Unfortunate Timing) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-28T23:47:39Z) Tj
+T*
+(Link: https://512pixels.net/2026/03/how-apple-could-have-saved-the-mac-pro/) Tj
+T*
+(Stephen Hackett, at 512 Pixels: I?ve thought a lot about the bad timing Jones mentions. Had) Tj
+T*
+(Apple stuck to the original timeline, and killed off the 2013 Mac Pro in favor of an iMac) Tj
+T*
+(?specifically targeted at large segments of the pro market,? back in 2017 , Apple could have) Tj
+T*
+(avoided putting out the best Intel Mac ever, less than a year before the transition to Apple) Tj
+T*
+(silicon. Did Apple know in 2017 that 2020 was the year the M1 would make it out of the lab?) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4968 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Probably not, but it doesn?t make the timing any less painful. Apple might not have had 2020) Tj
+T*
+(set in stone for the Apple Silicon transition, but in 2017, they definitely knew that Apple) Tj
+T*
+(Silicon was the future. I think they knew that years before 2017, and in broad strokes, that?s) Tj
+T*
+(why 2015?2020 was such a bad period for Mac hardware. They didn?t ship a retina MacBook Air) Tj
+T*
+(until 2018. The 12-inch MacBook was beautiful but expensive and seriously underpowered. And) Tj
+T*
+(nothing suffered more than the Mac Pro in that stretch. I think Apple knew that the future was) Tj
+T*
+(on their own silicon, but in the meantime, they just couldn?t get it up for the last five years) Tj
+T*
+(of the Intel era. ?) Tj
+T*
+() Tj
+T*
+(5. Apple Should Set and Enforce Some Basic Standards for Custom Video Players on tvOS) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-28T23:25:47Z) Tj
+T*
+(Link: https://daringfireball.net/2024/03/quickly_toggling_closed_captions_on_apple_tv) Tj
+T*
+(While I?m bitching about Netflix?s craptacular new video player on Apple TV, let me quote from) Tj
+T*
+(a piece I wrote two years ago \(also complaining about Netflix?s tvOS app\): Turns out there are) Tj
+T*
+(two better ways: If you use the Control Center Apple TV remote control on your iPhone, there?s) Tj
+T*
+(a dedicated ?CC? button . In tvOS, go to Settings ? Accessibility ? Accessibility Shortcut, and) Tj
+T*
+(set it to ?Closed Captions?. Now you can just triple-click the Menu/Back button on the remote) Tj
+T*
+(to toggle captions. \(On older Apple TV remotes, the button is labelled ?Menu?; on the new) Tj
+T*
+(remote , it?s labelled with a ? But here?s the hitch: Netflix?s tvOS app doesn?t support either) Tj
+T*
+(of these ways to toggle captions. Netflix only supports the on-screen caption toggle in their) Tj
+T*
+(custom video player. I get why Netflix and other streaming apps want to use their own custom) Tj
+T*
+(video players, but it ought to be mandated by App Store review that they support accessibility) Tj
+T*
+(features like this one. What Apple should have done right from the start with the tvOS-based) Tj
+T*
+(Apple TV a decade ago is require all apps to use the system video player. No custom video) Tj
+T*
+(players. It?s too late for that, alas. But the tvOS App Store review proc...) Tj
+T*
+() Tj
+T*
+(6. ?How Apple Became Apple: The Definitive Oral History of the Company?s Earliest Days?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-28T21:57:01Z) Tj
+T*
+(Link: https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-job) Tj
+T*
+(s-wozniak?mvgt=E5Loo3fO74zl) Tj
+T*
+(This feature from Harry McCracken is just spectacularly good. \(And it?s a gift link that?ll get) Tj
+T*
+(you past Fast Company?s paywall.\) 50 years is a long time and there are some key players in) Tj
+T*
+(Apple?s origin story who are gone ? but because everyone was so young at the time, it?s amazing) Tj
+T*
+(how many of them are still alive. And, of course, in Chris Espinosa?s case, still working at) Tj
+T*
+(Apple: I was sitting there in the Byte Shop in Palo Alto on an Apple-1 writing BASIC programs,) Tj
+T*
+(and this guy with a scraggly beard and no shoes came in and looked at me and conducted what I) Tj
+T*
+(later understood to be the standard interview, which was ?Who are you?? I said, ?I?m Chris.?) Tj
+T*
+(And he said, ?What are you doing?? I said, ?I?m writing BASIC programs on this Apple-1 for the) Tj
+T*
+(owner.? And he said, ?Are you any good?? I showed him my BASIC programs on the Apple-1. He told) Tj
+T*
+(me, ?I?ve seen you around Homebrew. Woz is working on this second-generation computer, and) Tj
+T*
+(instead of loading BASIC from cassette tape, we want to put it in ROM. And so it has to be) Tj
+T*
+(perfect. I want you to come and test Woz?s BASIC, and I?ll give you 4K of RAM for that when you) Tj
+T*
+(build your own computer.? That sounded like a good deal. Steve Jobs?s i...) Tj
+T*
+() Tj
+T*
+(7. Working on products people hate) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Fri, 27 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/working-on-products-people-hate/) Tj
+T*
+(I?ve worked on a lot of unpopular products. At Zendesk I built large parts of an app) Tj
+T*
+(marketplace that was too useful to get rid of but never polished enough to be loved. Now I work) Tj
+T*
+(on GitHub Copilot, which many people think is crap 1 . In between, I had some brief periods) Tj
+T*
+(where I worked on products that were well-loved. For instance, I fixed a bug where popular) Tj
+T*
+(Gists would time out once they got more than thirty comments, and I had a hand in making it) Tj
+T*
+(possible to write LaTeX mathematics directly into GitHub markdown 2 . But I?ve spent years) Tj
+T*
+(working on products people hate 3 . If I were a better developer, would I have worked on more) Tj
+T*
+(products people love? No. Even granting that good software always makes a well-loved product,) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4991 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(big-company software is made by teams , and teams are shaped by incentives . A very strong) Tj
+T*
+(engineer can slightly improve the quality of software in their local area. But they must still) Tj
+T*
+(write code that interacts with the rest of the company?s systems, and their code will be edited) Tj
+T*
+(and extended by other engineers, and so on until that single engineer?s heroics is lost in the) Tj
+T*
+(general mass of code commits. I wrote about this at length in How good engineers write...) Tj
+T*
+() Tj
+T*
+(8. Canonical's Netplan is hard to deal with in automation) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-28T03:11:38Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/NetplanVersusAutomation) Tj
+T*
+(Suppose, not entirely hypothetically, that you've traditionally used /etc/resolv.conf on your) Tj
+T*
+(Ubuntu servers but you're considering switching to systemd-resolved, partly for fast failover) Tj
+T*
+(if your normal primary DNS server is unavailable and partly because it feels increasingly) Tj
+T*
+(dangerous not to, since resolved is the normal configuration and what software is likely to) Tj
+T*
+(expect. One of the ways that resolv.conf is nice is that you can set the configuration by) Tj
+T*
+(simply copying a single file that isn't used for anything else. On Ubuntu, this is) Tj
+T*
+(unfortunately not the case for systemd-resolved. Canonical expects you to operate all of your) Tj
+T*
+(Ubuntu server networking through Canonical Netplan . In reality, Netplan will render things) Tj
+T*
+(down to a systemd-networkd configuration, which has some important effects and creates some) Tj
+T*
+(limitations . Part of that rendered networkd configuration is your DNS resolution settings, and) Tj
+T*
+(the natural effect of this is that they have to be associated with some interface, because) Tj
+T*
+(that's the resolved model of the world . This means that Netplan specifically attaches DNS) Tj
+T*
+(server information to a specific network interfaces in your Netplan configuration. This means) Tj
+T*
+(that y...) Tj
+T*
+() Tj
+T*
+(9. I think dependency cooldowns would be a good idea for Go) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-14T20:26:59Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood) Tj
+T*
+(Via Filippo Valsorda , I recently heard about a proposal to add dependency cooldowns to Go .) Tj
+T*
+(The general idea of dependency cooldowns is to make it so that people don't immediately update) Tj
+T*
+(to new versions of dependencies; instead, you wait some amount of time for people to inspect) Tj
+T*
+(the new version and so on \(either through automated tooling or manual work\). Since one of Go's) Tj
+T*
+(famous features is 'minimum version selection', you might think that a cooldown would be) Tj
+T*
+(unnecessary, since people have to manually update the version of dependencies anyway and don't) Tj
+T*
+(automatically get them. Unfortunately, this is not the actual observed reality. In the actual) Tj
+T*
+(observed reality , people update dependency versions fast enough to catch out other people who) Tj
+T*
+(change what a particular version is of a module they publish. This seems to be in part from) Tj
+T*
+(things like 'Dependabot' automatically cruising around looking for version updates, but in) Tj
+T*
+(general it seems clear that some amount of people will update to new versions of dependencies) Tj
+T*
+(the moment those new versions become visible to them. And if a dependency is used widely) Tj
+T*
+(enough, through random chance there's pretty much always going to be a developer som...) Tj
+T*
+() Tj
+T*
+(10. On today's web, HTTP results depend on the HTTP User-Agent you use) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-14T03:28:20Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents) Tj
+T*
+(Back in the old days, search engines mostly crawled your sites with their regular, clearly) Tj
+T*
+(identifying HTTP User-Agent headers, but once in a while they would switch up to fetching with) Tj
+T*
+(a browser's User-Agent. What they were trying to detect was if you served one set of content to) Tj
+T*
+("Googlebot" but another set of content to "Firefox", and if you did they tended to penalize) Tj
+T*
+(you; you were supposed to serve the same content to both, not SEO-bait to Googlebot and wall to) Tj
+T*
+(wall ads to browsers. Googlebot identified itself as a standard courtesy, not so you could) Tj
+T*
+(handle it differently. Obviously those days are long over. It's now routine and fully accepted) Tj
+T*
+(to serve different things to Googlebot and to regular browsers. Generally websites offer) Tj
+T*
+(Googlebot more access and plain text, and browsers less access \(even paywalls\) and JavaScript) Tj
+T*
+(encrusted content \(leading to people setting their User-Agent to Googlebot to bypass paywalls\).) Tj
+T*
+(Since people give Googlebot special access, people impersonate it and other well accepted) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3520 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(crawlers and other people \(like me\) block that impersonation. This is part of an increasingly) Tj
+T*
+(common general pattern, which is that different HTTP User-Agents get different r...) Tj
+T*
+() Tj
+T*
+(11. Reading List 03/28/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 28 Mar 2026 12:02:28 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-032826) Tj
+T*
+(Plastic price jumps, crypto-backed mortgages, a proposed AI data center pause, US battery) Tj
+T*
+(manufacturing, and more.) Tj
+T*
+() Tj
+T*
+(12. OpenBenches hits 40k) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 28 Mar 2026 12:34:11 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/03/openbenches-hits-40k/) Tj
+T*
+(Back in November 2023, our crowdsourced website of memorial benches reached 30,000 entries. At) Tj
+T*
+(the start of March this year, I was delighted when long-time contributor jrbray1 added this) Tj
+T*
+(gorgeous memorial, taking us up to 40,000 benches catalogued: You can read more about Dr Judy) Tj
+T*
+(John and her work on biodiversity. Using the power of advanced machine learning, it is possible) Tj
+T*
+(to plot the growth ?) Tj
+T*
+() Tj
+T*
+(13. How Not to Die) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/die.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(14. Holding a Program in One's Head) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/head.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. Stuff) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/stuff.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. Fork Commits via Original Repository) Tj
+T*
+(Source: Susam Pal | Published: Sat, 28 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/fork-commits-via-original-repo.html) Tj
+T*
+(I ran a small experiment with Git hosting behaviour using two demo repositories: cuppa : The) Tj
+T*
+(original repository. muppa : Fork of cuppa with questionable changes. Here is a table with) Tj
+T*
+(links to these repositories on Codeberg and GitHub: Name Codeberg GitHub cuppa) Tj
+T*
+(codeberg.org/spxy/cuppa github.com/spxy/cuppa muppa codeberg.org/spxy/muppa) Tj
+T*
+(github.com/spxy/muppa It is well known that Git lets us access a commit that exists only on the) Tj
+T*
+(fork via the original repository using a direct commit URL. I wanted to find out if Codeberg) Tj
+T*
+(behaves the same. The commit f79ef5a exists only on the fork \( muppa \) but not on the original) Tj
+T*
+(repo \( cuppa \). Let us see how the two hosting services handle direct URLs to this commit. Name) Tj
+T*
+(Codeberg GitHub cuppa f79ef5a f79ef5a muppa f79ef5a f79ef5a If we look at the second row, both) Tj
+T*
+(commit URLs for Codeberg and GitHub work because that is where the commit was actually created.) Tj
+T*
+(The commit belongs to the fork named muppa . Now if we look at the first row, the commit URL) Tj
+T*
+(for Codeberg returns a 404 page. This reflects the fact that the commit f79ef5a does not exist) Tj
+T*
+(on cuppa . However, GitHub returns a successful response and shows the commit. It shows the) Tj
+T*
+(following...) Tj
+T*
+() Tj
+T*
+(17. Self-Hosting: Still Worth It?) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-03-28T15:35:16Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17308221/self-hosting-platform-tools-guide) Tj
+T*
+(Once upon a time, self-hosting used to be a cost-effective thing. Is it still a good option for) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 2512 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(fending off SaaS as the prices keep creeping up?) Tj
+T*
+() Tj
+T*
+(18. BumpMapping hell) Tj
+T*
+(Source: Fabien Sanglard | Published: Wed, 4 Mar 2009 00:33:27 -0400) Tj
+T*
+(Link: https://fabiensanglard.net/bumpMapping/index.php) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(19. Laten we leiders met kennis van zaken in ere herstellen, ze zijn hard nodig) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 03 Feb 2024 11:05:31 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/volkskrant-leiders-met-kennis-van-zaken/) Tj
+T*
+(Iets eerdere versie van het stuk in de Volkskrant, deel van een serie van vier columns:) Tj
+T*
+(Leiders? Ik weet niet hoe het met u zit, maar op de werkvloer heb ik me zelden ?geleid?) Tj
+T*
+(gevoeld. Wel gemanaged. En hoewel ook belangrijk, is dat toch echt iets heel anders. Iemand een) Tj
+T*
+(leider noemen doen we hier niet snel, het klinkt zelfs raar. ?Only sheep need a leader?. Toch) Tj
+T*
+(is het in Amerika een veel alledaagser begrip, en houdt de vice-president conferenties waar) Tj
+T*
+(?our future leadership? wordt aangemoedigd.) Tj
+T*
+() Tj
+T*
+(20. A 2024 Plea for Lean Software \(with running code\)) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 18 Jan 2024 10:22:53 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/a-2024-plea-for-lean-software/) Tj
+T*
+(This post is dedicated to the memory of Niklaus Wirth, a computing pioneer who passed away) Tj
+T*
+(January 1st. In 1995 he wrote an influential article called ?A Plea for Lean Software?, and in) Tj
+T*
+(what follows, I try to make the same case nearly 30 years later, updated for today?s computing) Tj
+T*
+(horrors. The really short version: the way we build/ship software these days is mostly) Tj
+T*
+(ridiculous, leading to 350MB packages that draw graphs, and simple products importing 1600) Tj
+T*
+(dependencies of unknown provenance.) Tj
+T*
+() Tj
+T*
+(21. Trifecta) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 18 Jan 2024 10:22:53 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/trifecta/) Tj
+T*
+(Trifecta is actual stand-alone software that you can use to paste and drag images to, for easy) Tj
+T*
+(sharing. It has pained me for years that I had to use imgur for this purpose. Not only does) Tj
+T*
+(imgur install lots of cookies and trackers on my browser, I also then force these onto the) Tj
+T*
+(people that visit the images that I share. I checked out some existing solutions you could) Tj
+T*
+(download, but I worry about their security.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004774 00000 n 
+0000004900 00000 n 
+0000009920 00000 n 
+0000010046 00000 n 
+0000015089 00000 n 
+0000015215 00000 n 
+0000018788 00000 n 
+0000018916 00000 n 
+0000021481 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+21609
+%%EOF
