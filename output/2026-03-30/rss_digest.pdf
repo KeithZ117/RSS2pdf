@@ -1,0 +1,562 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4290 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-30 09:39:18) Tj
+T*
+() Tj
+T*
+(1. Pretext) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-29T20:08:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/29/pretext/#atom-everything) Tj
+T*
+(Pretext Exciting new browser library from Cheng Lou, previously a React core developer and the) Tj
+T*
+(original creator of the react-motion animation library. Pretext solves the problem of) Tj
+T*
+(calculating the height of a paragraph of line-wrapped text without touching the DOM . The usual) Tj
+T*
+(way of doing this is to render the text and measure its dimensions, but this is extremely) Tj
+T*
+(expensive. Pretext uses an array of clever tricks to make this much, much faster, which enables) Tj
+T*
+(all sorts of new text rendering effects in browser applications. Here's one demo that shows the) Tj
+T*
+(kind of things this makes possible: The key to how this works is the way it separates) Tj
+T*
+(calculations into a call to a prepare\(\) function followed by multiple calls to layout\(\) . The) Tj
+T*
+(prepare\(\) function splits the input text into segments \(effectively words, but it can take) Tj
+T*
+(things like soft hyphens and non-latin character sequences and emoji into account as well\) and) Tj
+T*
+(measures those using an off-screen canvas, then caches the results. This is comparatively) Tj
+T*
+(expensive but only runs once. The layout\(\) function can then emulate the word-wrapping logic in) Tj
+T*
+(browsers to figure out how many wrapped lines the text will occupy at a specified width...) Tj
+T*
+() Tj
+T*
+(2. Pretext ? Under the Hood) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-29T19:59:28+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/29/pretext-explainer/#atom-everything) Tj
+T*
+(Tool: Pretext ? Under the Hood See my notes on Pretext here .) Tj
+T*
+() Tj
+T*
+(3. Python Vulnerability Lookup) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-29T18:46:16+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything) Tj
+T*
+(Tool: Python Vulnerability Lookup I learned that the OSV.dev open source vulnerability database) Tj
+T*
+(has an open CORS JSON API , so I had Claude Code build this HTML tool for pasting in a) Tj
+T*
+(pyproject.toml or requirements.txt file \(or name of a GitHub repo containing those\) and seeing) Tj
+T*
+(a list of all reported vulnerabilities from that API. Tags: tools , python , supply-chain ,) Tj
+T*
+(vibe-coding , security) Tj
+T*
+() Tj
+T*
+(4. WorkOS) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-29T20:50:00Z) Tj
+T*
+(Link: https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&utm_medium=newsle) Tj
+T*
+(tter&utm_campaign=q12026) Tj
+T*
+(My thanks to WorkOS for once again sponsoring the week at DF. Their latest is a CLI that) Tj
+T*
+(launches an AI agent, powered by Claude , that reads your project, detects your framework, and) Tj
+T*
+(writes a complete auth integration into your codebase. No signup required. It creates an) Tj
+T*
+(environment, populates your keys, and you claim your account later when you?re ready. But the) Tj
+T*
+(CLI goes way beyond installation . WorkOS Skills make your coding agent a WorkOS expert. workos) Tj
+T*
+(seed defines your environment as code. workos doctor finds and fixes misconfigurations. And) Tj
+T*
+(once you?re authenticated, your agent can manage users, orgs, and environments directly from) Tj
+T*
+(the terminal. See how it works at WorkOS?s website . See also: WorkOS just completed another) Tj
+T*
+(Launch Week. This one, for Spring 2026 , does not disappoint with its custom UI and theme. Even) Tj
+T*
+(if you don?t have a need for WorkOS you should check out their Launch Week site just for fun. ?) Tj
+T*
+() Tj
+T*
+(5. The Talk Show: ?You?re Going to Have the Niggles?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-29T20:49:00Z) Tj
+T*
+(Link: https://daringfireball.net/thetalkshow/2026/03/29/ep-444) Tj
+T*
+(For your weekend listening enjoyment: Christina Warren returns to the show to discuss Apple big) Tj
+T*
+(month of product announcements ? in particular, the iPhone 17e and MacBook Neo. And we pour one) Tj
+T*
+(out for the Mac Pro. Sponsored by: Squarespace : Save 10% off your first purchase of a website) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4828 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(or domain using code TALKSHOW . Sentry : A real-time error monitoring and tracing platform. Use) Tj
+T*
+(code TALKSHOW for $80 in free credits. ?) Tj
+T*
+() Tj
+T*
+(6. Version History: ?The Macintosh?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-29T20:48:36Z) Tj
+T*
+(Link: https://www.theverge.com/podcast/903068/macintosh-1984-version-history) Tj
+T*
+(For your weekend viewing enjoyment: But in almost every way that mattered, the Macintosh was) Tj
+T*
+(right . Right about how we?d use computers going forward. Right about the idea that computers) Tj
+T*
+(needed to be less complicated. Right about the fact that caring this deeply about both hardware) Tj
+T*
+(and software design would make a difference. Though Apple didn?t sell many of those original) Tj
+T*
+(Macintoshes, there?s no question it changed computers forever. On this episode of Version) Tj
+T*
+(History, we tell the story of the original Macintosh. David Pierce, Nilay Patel, and Daring) Tj
+T*
+(Fireball?s John Gruber explain the strange corporate infighting that led to the project in the) Tj
+T*
+(first place, the ways in which the Macintosh changed over time, and how Jobs and his team drove) Tj
+T*
+(such massive hype for the device some people didn?t even want to ship. Then they debate the) Tj
+T*
+(device?s true legacy, and whether the computer or the commercial is the true icon. ?) Tj
+T*
+() Tj
+T*
+(7. The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history) Tj
+T*
+(Source: Ken Shirriff's blog | Published: 2026-03-29T09:06:00.000-07:00) Tj
+T*
+(Link: http://www.righto.com/2026/03/ibm-4-pi-computer-history.html) Tj
+T*
+(The morning of April 12, 1981, 20 years to the day after Yuri Gagarin became the first person) Tj
+T*
+(in space, the Space Shuttle thundered into the Florida sky. Commander Young and Pilot Crippen) Tj
+T*
+(were at the controls as the Shuttle ascended on its first flight. But the launch, like much of) Tj
+T*
+(the flight, was really under the control of four computers in the avionics bays one deck below) Tj
+T*
+(the crew. A fifth computer stood ready to take over in case of a catastrophic computer) Tj
+T*
+(malfunction. These computers, Model AP-101B, were part of IBM's System/4 Pi family. The Space) Tj
+T*
+(Shuttle AP-101B computer. This unit flew on multiple flights, including STS-38 \(1990\) and) Tj
+T*
+(STS-40 \(1001\). Photo courtesy of RR Auction . Introduced around 1967, the System/4 Pi family) Tj
+T*
+(was a line of compact, powerful computers designed for avionics roles. The military used these) Tj
+T*
+(computers in everything from the F-4 fighter and B-52 bomber to submarine sonar systems and the) Tj
+T*
+(Harpoon anti-ship missile. Other computers in the System/4 Pi family played more peaceful roles) Tj
+T*
+(in the development of GPS and fly-by-wire flight controls. In space, System/4 Pi computers) Tj
+T*
+(controlled Skylab, the first American space station, as well as Spacelab, the r...) Tj
+T*
+() Tj
+T*
+(8. New old systems in the age of hardware shortages) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-29T02:53:21Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems) Tj
+T*
+(Recently I asked something on the Fediverse : Lazyweb, if you were going to put together new) Tj
+T*
+(DDR4-based desktop \(because you already have the RAM and disks\), what CPU would you use?) Tj
+T*
+(Integrated graphics would probably be ideal because my needs are modest and that saves) Tj
+T*
+(wrangling a GPU. \(Also I'm interested in your motherboard opinions, but the motherboard needs) Tj
+T*
+(2x M.2 and 2x to 4x SATA, which makes life harder. And maybe 4K@60Hz DisplayPort output, for) Tj
+T*
+(integrated graphics\) If I was thinking of building a new desktop under normal circumstances, I) Tj
+T*
+(would use all modern components \(which is to say, current generation CPU, motherboard, RAM, and) Tj
+T*
+(so on\). But RAM is absurdly expensive these days, so building a new DDR5-based system with the) Tj
+T*
+(same 64 GBytes of RAM that I currently have would cost over a thousand dollars Canadian just) Tj
+T*
+(for the RAM. The only particularly feasible way to replace such an existing system today is to) Tj
+T*
+(reuse as many components as possible, which means reusing my DDR4 RAM. In turn, this means that) Tj
+T*
+(a lot of the rest of the system will be 'old'. By this I don't necessarily mean that it will) Tj
+T*
+(have been manufactured a while ago \(although it may have\) but that its features...) Tj
+T*
+() Tj
+T*
+(9. You \(I\) should document the forms of your Django web application) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-13T03:19:18Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/python/DjangoDocumentYourForms) Tj
+T*
+(We have a long-standing Django web application to handle \(Unix\) account requests. Since these) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4614 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(are requests, there is some state involved, so for a long time a request could be pending,) Tj
+T*
+(approved, or rejected, with the extra complexity that an approved request might be incomplete) Tj
+T*
+(and waiting on the person to pick their login. Recently I added being able to put a request) Tj
+T*
+(into a new state, 'held', in order to deal with some local complexities where we might have a) Tj
+T*
+(request that we didn't want to delete but also didn't want to go through to create an account.) Tj
+T*
+(\(For instance, it's sometimes not clear if new incoming graduate students who've had to defer) Tj
+T*
+(their arrival are going to turn up later or wind up not coming at all. So now we can put their) Tj
+T*
+(requests on hold.\) When I initially wrote the new code, I though that this new 'held' status) Tj
+T*
+(was relatively weak, and in particular that professors \(who approve accounts\) could easily take) Tj
+T*
+(an account request out of 'held' status and approve it. At the time I decided that this was) Tj
+T*
+(probably a feature, since a professor might know that one of their graduate students was about) Tj
+T*
+(to turn up after all and this way they didn't have to get us to un-hold th...) Tj
+T*
+() Tj
+T*
+(10. UEFI-only booting with GRUB has gone okay on our \(Ubuntu 24.04\) servers) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-12T01:25:20Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay) Tj
+T*
+(We've been operating Ubuntu servers for a long time and for most of that time we've booted them) Tj
+T*
+(through traditional MBR BIOS boots. Initially it was entirely through MBR and then later it was) Tj
+T*
+(still mostly through MBR \(somewhat depending on who installed a particular server; my) Tj
+T*
+(co-workers are more tolerant of UEFI than I am\). But when we built the 24.04 version of our) Tj
+T*
+(customized install media, my co-worker wound up making it UEFI only, and so for the past two) Tj
+T*
+(years all of our 24.04 machines have been UEFI \(with us switching BIOSes on old servers into) Tj
+T*
+(UEFI mode as we updated them\). The headline news is that it's gone okay, more or less as you'd) Tj
+T*
+(expect and hope by now. All of our servers have mirrored system disks, and the one UEFI thing) Tj
+T*
+(we haven't really had to deal with so far is fixing Ubuntu's UEFI boot disk redundancy stuff) Tj
+T*
+(after one disk fails . I think we know how to do it in theory but we haven't had to go through) Tj
+T*
+(it in practice. It will probably work out okay but it does make me a bit nervous, along with) Tj
+T*
+(the related issue that the Ubuntu installer makes it hard to be consistent about which disk) Tj
+T*
+(your ' /boot/efi ' filesystem comes from. \(In the installer, /boot/efi winds up o...) Tj
+T*
+() Tj
+T*
+(11. The Roles of Packages) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-29T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/29/the-roles-of-packages.html) Tj
+T*
+(Greg Wilson?s recent post An E-Bike for the Mind reminded me of Jorma Sajaniemi?s work on the) Tj
+T*
+(roles of variables. Sajaniemi found that just eleven roles cover nearly all variables in novice) Tj
+T*
+(programs: stepper, most-wanted holder, gatherer, one-way flag, and so on. As Wilson puts it,) Tj
+T*
+(types tell you about a variable?s state at rest while roles tell you about its state in motion.) Tj
+T*
+(Once you learn the roles, you can look at unfamiliar code and immediately recognize the shape) Tj
+T*
+(of the algorithm from how data flows through it. Every package in a registry plays a particular) Tj
+T*
+(role, whether it?s a library your application calls, a tool your build pipeline runs, a daemon) Tj
+T*
+(your infrastructure depends on, or a firmware blob that makes your hardware work. This holds) Tj
+T*
+(across all kinds of package managers, from npm and RubyGems to Homebrew, apt, Helm, Terraform) Tj
+T*
+(Registry, and OpenVSX, and the role tells you more about how a package fits into a system than) Tj
+T*
+(the name or the README. Two packages in completely different domains, managed by completely) Tj
+T*
+(different tools, can behave identically because they play the same role. Code execution) Tj
+T*
+(Application. neovim and ffmpeg via Homebrew, httpie via pip, VS Code exte...) Tj
+T*
+() Tj
+T*
+(12. The Equity Equation) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/equity.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(13. An Alternative Theory of Unions) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/unions.html) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4153 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(14. The Hacker's Guide to Investors) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/guidetoinvestors.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-03-28T19:30:00.000-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html) Tj
+T*
+(I'm doing periodic updates on some of my long-term projects, one of them being 6o6, a fully) Tj
+T*
+(virtualized NMOS 6502 CPU core that runs on a 6502 written in 6502 assembly language. 6o6) Tj
+T*
+(implements a completely abstracted memory model and a fully controlled execution environment,) Tj
+T*
+(but by using the host's ALU and providing a primitive means of instruction fusion it can be) Tj
+T*
+(faster than a naÔve interpreter. This library was something I wrote over two decades earlier) Tj
+T*
+(for my KIM-1 emulator project for the Commodore 64, and relatively recently I open-sourced and) Tj
+T*
+(discussed it in detail . It runs on just about any 6502-based system with sufficient memory.) Tj
+T*
+(For this update I made some efficiency improvements to addressing modes, trimmed an instruction) Tj
+T*
+(out of the hot path, provided an option for even more control of the 6502 interrupt flag and) Tj
+T*
+(implemented a faster lane for direct stores to 6502 zero page \(as well as the usual custodial) Tj
+T*
+(and documentation updates\). And, of course, any complex library needs a suite of examples, and) Tj
+T*
+(of course, any update to a complex library demands new examples to play with too. So, given) Tj
+T*
+(that this year is Apple's 50th anniversary \(and, as it happens, my own 50th year...) Tj
+T*
+() Tj
+T*
+(16. Trifecta Technology) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 18 Jan 2024 10:22:53 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/trifecta-technology/) Tj
+T*
+(Trifecta is a simple open source image sharing site, built with a combination of modern C++,) Tj
+T*
+(database and web technologies. Intended to both be useful and make some points. This page sets) Tj
+T*
+(out to explain the underlying technology of this small yet hopefully useful piece of software.) Tj
+T*
+(More background can be found on its main page, where you can also read a bit about why I built) Tj
+T*
+(this software. In short, 1: I need an image sharing site I trust and that does not track its) Tj
+T*
+(users and 2: I want to show that you can still run a service yourself safely.) Tj
+T*
+() Tj
+T*
+(17. European Innovation & Technical Capabilities) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 11 Jan 2024 10:57:50 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/european-innovation-and-capabilities/) Tj
+T*
+(Over the past few years I?ve been writing a lot about innovation, and specifically, the lack) Tj
+T*
+(thereof in Europe. I also touch on how we?ve outsourced a ton of operational capabilities,) Tj
+T*
+(leaving us relatively helpless. By now this is such a huge amount of words, audio and video) Tj
+T*
+(that it is in dire need of a summary, if only to see if it makes any kind of sense taken) Tj
+T*
+(together.) Tj
+T*
+() Tj
+T*
+(18. Taking the Airbus to the IKEA Cloud) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 11 Jan 2024 09:27:14 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/taking-the-airbus-to-the-ikea-cloud/) Tj
+T*
+(This article is part of a series on \(European\) innovation and capabilities. The very short) Tj
+T*
+(version: All of computing is moving to the cloud at a rapid pace, including \(government\) parts) Tj
+T*
+(you might want to keep under your own control Europe has no relevant ?hyperscaler? cloud) Tj
+T*
+(providers at all, and there is a desire to change this by policy means Competing with the) Tj
+T*
+(IKEA-concept is nearly impossible. Offering IKEA-like products but then with a smaller range is) Tj
+T*
+(not an attractive proposition.) Tj
+T*
+() Tj
+T*
+(19. telecheck and tyms past) Tj
+T*
+(Source: computers are bad | Published: 29 Mar 2026 00:00:00 UT) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1419 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://computer.rip/2026-03-29-telecheck-and-tyms-past.html) Tj
+T*
+(Years ago, when I was in college, I had one of those friends who never quite had it together.) Tj
+T*
+(You know the type; I'm talking lost a debit card and took three months to get a new one because) Tj
+T*
+(of some sort of "mixup" with the credit union that I think consisted mostly of not calling them) Tj
+T*
+(for three months. In the mean time, our mutual friend ended up in a quandry: at WalMart, at one) Tj
+T*
+(in the morning, with a $2 purchase and no cash. Well, this was no problem for that particular) Tj
+T*
+(space case: he had his checkbook. If you think about it, it's actually pretty remarkable that) Tj
+T*
+(grocery stores accept personal checks. It's a very high risk for of payment. Even if the check) Tj
+T*
+(is genuine, the customer could be writing it against an empty account. On top of that, with) Tj
+T*
+(modern printers and the declining use of MICR, forging checks is trivial. When you offer a) Tj
+T*
+(check, the retailer has very little to go on to decide whether or not you're good for the) Tj
+T*
+(money. Surely, fraud must run out of hand?and yet, just about every major grocer still accepts) Tj
+T*
+(personal checks. Retail point-of-sale acceptance of personal checks is the product of an) Tj
+T*
+(intriguing industry that handles all the challenges of checks at once: a comb...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004559 00000 n 
+0000004685 00000 n 
+0000009565 00000 n 
+0000009691 00000 n 
+0000014357 00000 n 
+0000014483 00000 n 
+0000018689 00000 n 
+0000018817 00000 n 
+0000020289 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20417
+%%EOF
