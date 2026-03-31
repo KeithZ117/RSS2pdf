@@ -1,0 +1,710 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4173 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-03-31 09:38:51) Tj
+T*
+() Tj
+T*
+(1. [Sponsor] Material Security) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-30T21:23:19Z) Tj
+T*
+(Link: https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=emai) Tj
+T*
+(l&utm_campaign=20260330-daringfireball) Tj
+T*
+(Stop scaling headcount. Scale your workspace. Most security teams don?t have a talent problem,) Tj
+T*
+(they have a noise problem. Manual phishing remediation, chasing risky OAuth permissions, and) Tj
+T*
+(auditing file shares shouldn?t be a full-time job. Material Security unifies your cloud) Tj
+T*
+(workspace, bringing detection and response for email, files, and accounts into one place. It?s) Tj
+T*
+(security that actually works: augmenting the native gaps in Google and Microsoft without the) Tj
+T*
+(usual enterprise bloat. Stop fighting fragmented consoles and start focusing on strategy. It?s) Tj
+T*
+(time to simplify your SecOps. See how Material scales . ?) Tj
+T*
+() Tj
+T*
+(2. ?The Brand Age?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-30T16:46:31Z) Tj
+T*
+(Link: https://paulgraham.com/brandage.html) Tj
+T*
+(Paul Graham: So when you have a world defined only by brand, it?s going to be a weird, bad) Tj
+T*
+(world. Graham?s thoughtful essay focuses on the mechanical watch industry. But I disagree with) Tj
+T*
+(his conclusion. I think the market for mechanical watches has never been more fun or vibrant) Tj
+T*
+(than it is today. The action, for me at least, isn?t with the high-end luxury Swiss brands.) Tj
+T*
+(It?s with the indies, from companies like Baltic and Halios . It?s also interesting to ponder) Tj
+T*
+(Graham?s essay in the context of other industries. I think it?s self evident that the entire) Tj
+T*
+(market for phones ? the most popular and lucrative consumer devices in the world ? is defined) Tj
+T*
+(by a single brand, and every competitor just copies that one brand with varying degrees of) Tj
+T*
+(shamelessness. That?s bad and weird. ?) Tj
+T*
+() Tj
+T*
+(3. Macs of Unusual Size) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-30T16:24:40Z) Tj
+T*
+(Link: https://scottknaster.substack.com/p/macs-of-unusual-size) Tj
+T*
+(Scott Knaster: The Big Mac is about 22 times the size of the little Mac. ?) Tj
+T*
+() Tj
+T*
+(4. datasette-files 0.1a3) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-30T23:58:49+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything) Tj
+T*
+(Release: datasette-files 0.1a3 I'm working on integrating datasette-files into other plugins,) Tj
+T*
+(such as datasette-extract . This necessitated a new release of the base plugin. owners_can_edit) Tj
+T*
+(and owners_can_delete configuration options, plus the files-edit and files-delete actions are) Tj
+T*
+(now scoped to a new FileResource which is a child of FileSourceResource . #18 The file picker) Tj
+T*
+(UI is now available as a Web Component. Thanks, Alex Garcia . #19 New from datasette_files) Tj
+T*
+(import get_file Python API for other plugins that need to access file data. #20 Tags: datasette) Tj
+T*
+() Tj
+T*
+(5. Quoting Georgi Gerganov) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-30T21:31:02+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything) Tj
+T*
+(Note that the main issues that people currently unknowingly face with local models mostly) Tj
+T*
+(revolve around the harness and some intricacies around model chat templates and prompt) Tj
+T*
+(construction. Sometimes there are even pure inference bugs. From typing the task in the client) Tj
+T*
+(to the actual result, there is a long chain of components that atm are not only fragile - are) Tj
+T*
+(also developed by different parties. So it's difficult to consolidate the entire stack and you) Tj
+T*
+(have to keep in mind that what you are currently observing is with very high probability still) Tj
+T*
+(broken in some subtle way along that chain. ? Georgi Gerganov , explaining why it's hard to) Tj
+T*
+(find local models that work well with coding agents Tags: coding-agents , generative-ai , ai ,) Tj
+T*
+(local-llms , llms , georgi-gerganov) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4337 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(6. datasette-llm 0.1a3) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-30T19:48:43+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/30/datasette-llm/#atom-everything) Tj
+T*
+(Release: datasette-llm 0.1a3 Adds the ability to configure which LLMs are available for which) Tj
+T*
+(purpose , which means you can restrict the list of models that can be used with a specific) Tj
+T*
+(plugin. #3 Tags: llm , datasette) Tj
+T*
+() Tj
+T*
+(7. A question about the maximimum number of values in a registry key raises questions) Tj
+T*
+(about the question) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 30 Mar 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260330-00/?p=112175) Tj
+T*
+(Why is this even a question? The post A question about the maximimum number of values in a) Tj
+T*
+(registry key raises questions about the question appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. How Do We Get Developers to Read the Docs) Tj
+T*
+(Source: iDiallo.com | Published: Mon, 30 Mar 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed) Tj
+T*
+(When I reviewed this PR, I had tears in my eyes. We had done it. We had finally created the) Tj
+T*
+(perfect API. To top it off, the senior developer who worked on it had written documentation to) Tj
+T*
+(match. No stones were left unturned. I had the code open on one window and the doc on the) Tj
+T*
+(other. The moment I felt hesitation in the code, the documentation reassured me. Why do we make) Tj
+T*
+(two calls to get the... "We are fetching two types of orders to support legacy subscribers...") Tj
+T*
+(the documentation answered before I completed my question. This was standard number 15 . The) Tj
+T*
+(one to rule them all. But I still had one question. As the owner of the API, I read the) Tj
+T*
+(documentation. Will other developers ever think to read it? How do I get people to want to read) Tj
+T*
+(the documentation before they use this API? Because in my experience, nobody reads the) Tj
+T*
+(documentation. Not to say that documentation is useless, but my mistake was thinking that the) Tj
+T*
+(people who want to implement the API are interested in documentation at all. For every API ever) Tj
+T*
+(built, there are two audiences to cater to, and confusing them is where most documentation goes) Tj
+T*
+(wrong. The first group is the consumers of the API. The only thing they want to k...) Tj
+T*
+() Tj
+T*
+(9. Pluralistic: Market participation is exhausting \(30 Mar 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 30 Mar 2026 17:27:20) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/03/30/players-of-games/) Tj
+T*
+(Today's links Market participation is exhausting: No one wants to be the sucker at the table.) Tj
+T*
+(Hey look at this: Delights to delectate. Object permanence: EMI DRM v Brazil; "The) Tj
+T*
+(Information"; Genome patenter v copyright troll \(let them fight\); Green investing isn't; Trump) Tj
+T*
+(loves Big Tech; Kleptones' "24 Hours"; Lasermonks; Ransomware hospital; News co-ops; AI "art") Tj
+T*
+(sucks; Swisscom wifi is $838/24h; Millennials don't exist; Why Microsoft's chatbot turned Nazi;) Tj
+T*
+(NYC's best dumpster-dived food; RIP Diana Wynne Jones; What really happened at the student) Tj
+T*
+(protests in Trafalgar Square; Church-owned insurer has secret pedo priest files; Names that) Tj
+T*
+(break databases; Reality-based communities; Hugo for websites; Cop cabs; Fake pediatrician) Tj
+T*
+(group; Bring Your Own Bigwheeel; "How To Talk About Videogames." Upcoming appearances:) Tj
+T*
+(Montreal, London, NYC, Berlin, Hay-on-Wye, London. Recent appearances: Where I've been. Latest) Tj
+T*
+(books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep) Tj
+T*
+(writin' 'em. Colophon: All the rest. Market participation is exhausting \(permalink\) We're a) Tj
+T*
+(diverse species, cognitively speaking ? different ways of thinking come more easily to some of) Tj
+T*
+(us t...) Tj
+T*
+() Tj
+T*
+(10. Small note about AI 'GPUs') Tj
+T*
+(Source: Xe Iaso's blog | Published: Mon, 30 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/notes/2026/ai-gpus-cant-process-graphics/) Tj
+T*
+(They are graphical processing units that can't process graphics.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4828 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(11. How old our servers are \(as of 2026\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-30T02:39:50Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurServerAges2026) Tj
+T*
+(Back in 2022, I wrote about how old our servers were at the time , partly because they're older) Tj
+T*
+(than you might expect, and today I want to update that with our current situation. My group) Tj
+T*
+(handles the general departmental infrastructure for the research side of the department \(the) Tj
+T*
+(teaching side is a different group\), and we've tended to keep servers for quite a while.) Tj
+T*
+(Research groups are a different matter; they often have much more modern servers and turn them) Tj
+T*
+(over much faster. As in past installments , our normal servers remain Dell 1U servers. What we) Tj
+T*
+(consider our current generation are Dell R350s, which it looks like we got about two years ago) Tj
+T*
+(in 2024 \(and are now out of production\). We still have plenty of Dell R340s and R240s in) Tj
+T*
+(production, which were our most recent generation in 2022 . We still have some Dell R230s and) Tj
+T*
+(even R210 IIs in production in less important server roles. We also have a fair number of) Tj
+T*
+(Supermicro servers in production, of assorted ages and in assorted roles \(including our) Tj
+T*
+(fileservers and our giant login server , which is now somewhat old\). \(On a casual look, the) Tj
+T*
+(Dell R210 IIs are all for machines that we consider decidedly unimportant; they're still in...) Tj
+T*
+() Tj
+T*
+(12. The story of one of my worst programming failures) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-11T01:59:43Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/DevelopedTooSmallFailure) Tj
+T*
+(Somewhat recently, GeePaw Hill shared the story of what he called his most humiliating) Tj
+T*
+(experience as a skilled and successful computer programmer . It's an excellent, entertaining) Tj
+T*
+(story with a lesson for all of us, so I urge you to read it. Today I'm going to tell the story) Tj
+T*
+(of one of my great failures, where I may have quietly killed part of a professor's research) Tj
+T*
+(project by developing on a too-small machine. Once upon a time, back when I was an \(advanced\)) Tj
+T*
+(undergraduate, I was hired as a part time research programmer for a Systems professor to work) Tj
+T*
+(on one of their projects, at first with a new graduate student and then later alone \(partly) Tj
+T*
+(because the graduate student switched from Systems to HCI \). One of this professor's research) Tj
+T*
+(areas was understanding and analyzing disk IO patterns \(a significant research area at the) Tj
+T*
+(time\), and my work was to add detailed IO tracing to the Ultrix kernel. Some of this was) Tj
+T*
+(porting work the professor had done with the 4.x BSD kernel \(while a graduate student and) Tj
+T*
+(postdoc\) into the closely related, BSD-derived Ultrix kernel, but we extended the original) Tj
+T*
+(filesystem level tracing down all the way to capturing block IO traces \(still specifically) Tj
+T*
+(attrib...) Tj
+T*
+() Tj
+T*
+(13. Power glitches can leave computer hardware in weird states) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-10T03:59:38Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates) Tj
+T*
+(Late Friday night, the university's downtown campus experienced some sort of power glitch or) Tj
+T*
+(power event. A few machines rebooted, a number of machines dropped out of contact for a bit) Tj
+T*
+(\(which probably indicates some switches restarting\), and most significantly, some of our) Tj
+T*
+(switches wound up in a weird, non-working state despite being powered on. This morning we cured) Tj
+T*
+(the situation by fully power cycling all of them. This isn't the first time we've seen brief) Tj
+T*
+(power glitches leave things in unusual states. In the past we've seen it with servers, with) Tj
+T*
+(BMCs \(IPMIs\) , and with switches. It's usually not every machine, either; some machines won't) Tj
+T*
+(notice and some will. When we were having semi-regular power glitches, there were definitely) Tj
+T*
+(some models of server that were more prone to problems than others, but even among those models) Tj
+T*
+(it usually wasn't universal. It's fun to speculate about reasons why some particular servers of) Tj
+T*
+(a susceptible model would survive and others not, but that's somewhat beside today's point,) Tj
+T*
+(which is that power glitches can get your hardware into weird states \(and your hardware isn't) Tj
+T*
+(broken when and because this happens; it can happen to hardware that's in perfe...) Tj
+T*
+() Tj
+T*
+(14. Gig Review: Vitamin String Quartet at The Barbican ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 30 Mar 2026 11:34:35 +0000) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4563 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://shkspr.mobi/blog/2026/03/gig-review-vitamin-string-quartet-at-the-barbican/) Tj
+T*
+(There is no such thing as the Vitamin String Quartet. They're an ever-changing line-up of) Tj
+T*
+(musicians who have found an excellent schtick; modern songs played like classical music.) Tj
+T*
+(Somehow they've parlayed that into over 300 albums, covering thousands of artists, and) Tj
+T*
+(dominating the soundtrack of Bridgerton. The concert is titled "The Music of Billie Eilish,) Tj
+T*
+(Bridgerton, and Beyond" - it's all?) Tj
+T*
+() Tj
+T*
+(15. Git Diff Drivers) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-30T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/30/git-diff-drivers.html) Tj
+T*
+(When I added a diff driver to git-pkgs , most of the work was already done. git-pkgs could) Tj
+T*
+(parse 29 lockfile formats and extract dependency lists, so wiring that into git?s textconv) Tj
+T*
+(mechanism was a small addition that turned git diff on a lockfile from 200 lines of resolver) Tj
+T*
+(noise into a handful of dependency changes. That got me looking at what else people had built) Tj
+T*
+(on top of git?s diff driver system, and at the 28 built-in drivers that git ships, none of) Tj
+T*
+(which has made it into any forge or GUI client. Built-in drivers The built-in drivers are) Tj
+T*
+(defined in userdiff.c and activated by setting diff= in .gitattributes . Each one provides two) Tj
+T*
+(things: a xfuncname regex that git uses to find function or section headers for hunk context,) Tj
+T*
+(and a wordRegex that controls how --word-diff tokenizes lines. The full list as of git 2.53:) Tj
+T*
+(ada, bash, bibtex, cpp \(which covers both C and C++\), csharp, css, default, dts, elixir,) Tj
+T*
+(fortran, fountain, golang, html, ini, java, kotlin, markdown, matlab, objc, pascal, perl, php,) Tj
+T*
+(python, r, ruby, rust, scheme, and tex. The two most recent additions are ini \(2.50\) and r) Tj
+T*
+(\(2.51\). GitHub?s linguist uses these same names for language detection, so if you set *.rs d...) Tj
+T*
+() Tj
+T*
+(16. The World's First Bullshit) Tj
+T*
+(Source: Westenberg. | Published: Tue, 31 Mar 2026 00:20:34 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/the-worlds-first-bullshit/) Tj
+T*
+(I opened Twitter this morning and three different startups were announcing "the world's first") Tj
+T*
+(something. An AI CMO, an autonomous AI marketer, and a design agent "with taste," which is a) Tj
+T*
+(phrase that made me close my laptop for about ten minutes. None of) Tj
+T*
+() Tj
+T*
+(17. Notes on going solo: celebrating 6 years of Studio Self) Tj
+T*
+(Source: Westenberg. | Published: Mon, 30 Mar 2026 05:55:34 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/) Tj
+T*
+(Since roughly // broadly 2020, I?ve been running a solo-powered minor empire . I have no) Tj
+T*
+(employees, and my only office is my home office, filled as it is with cat hair and various) Tj
+T*
+(comic books. My business is: me, a laptop, a set of AI tools that scale the) Tj
+T*
+() Tj
+T*
+(18. Two Worlds) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-03-30T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/03/30/two-worlds.html) Tj
+T*
+(In one world, we have Claude Mythos , a model ?dramatically? better than Opus 4.6 \(surely this) Tj
+T*
+(is AGI and the endgame, right?\). In another world, we have the AI bubble bursting . How can) Tj
+T*
+(these two things both be true? If you went back in time to 1850 with a smartphone and a photo) Tj
+T*
+(printer, you could quickly become a millionaire selling photos. You?d be invited to royal) Tj
+T*
+(dignitaries palaces to photograph them, taking trains and boats all over the world. Today, you) Tj
+T*
+(couldn?t make $5 on a street corner with those same tools. There are photographers who become) Tj
+T*
+(millionaires today, but they do it because they push the craft of photography forward ? they do) Tj
+T*
+(something few others can. They can?t just show up with no special skills and commonplace items.) Tj
+T*
+(AI doesn?t replace programmers or artists, it raises the bar for them. With AI: You Can Just) Tj
+T*
+(Build Things , But So Can Everyone Else ? Anything a person without skill can build with AI is) Tj
+T*
+(worth very little, because anyone else can build that same thing. However, people with skill) Tj
+T*
+(can use the same tools and build valuable things, many top photographers in the world today use) Tj
+T*
+(iPhones. Capability and value are not the same thing. AI can keep gett...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3595 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(19. Continuous, Continuous, Continuous) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Mon, 30 Mar 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/continuous-continuous-continuous/) Tj
+T*
+(Jason Gorman writes about the word ?continuous? and its place in making software. We think of) Tj
+T*
+(making software in stages \(and we often assign roles to ourselves and other people based on) Tj
+T*
+(these stages\): the design phase, the coding phase, the testing phase, the integration phase,) Tj
+T*
+(the release phase, and so on. However this approach to building and distributing software isn?t) Tj
+T*
+(necessarily well-suited to an age where everything moves at breakneck speed and changes) Tj
+T*
+(constantly. The moment we start writing code, we see how the design needs to change. The moment) Tj
+T*
+(we start testing, we see how the code needs to change. The moment we integrate our changes, we) Tj
+T*
+(see how ours or other people?s code needs to change. The moment we release working software) Tj
+T*
+(into the world, we learn how the software needs to change. Making software is a continuous) Tj
+T*
+(cycle of these interconnected stages: designing, coding, testing, integrating, releasing. But) Tj
+T*
+(the lines between these stages are very blurry, and therefore the responsibilities of people on) Tj
+T*
+(our teams will be too. The question is: are our cycles for these stages ? and the collaborative) Tj
+T*
+(work of the people involved in them ? measured in hours or weeks? Do we comp...) Tj
+T*
+() Tj
+T*
+(20. Two Kinds of Judgement) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/judgement.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(21. Microsoft is Dead) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/microsoft.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(22. Why to Not Not Start a Startup) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/notnot.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(23. Weekly Update 497) Tj
+T*
+(Source: Troy Hunt | Published: Tue, 31 Mar 2026 00:41:44 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-497/) Tj
+T*
+(Day by day, I find we're eeking more goodness out of OpenClaw and finding the sweet spot) Tj
+T*
+(between what the humans do well and the agent can run off and do on its own. Significantly,) Tj
+T*
+(we're shifting more and more of the workload to the latter) Tj
+T*
+() Tj
+T*
+(24. HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a) Tj
+T*
+(Bulk Domain Verification API) Tj
+T*
+(Source: Troy Hunt | Published: Mon, 30 Mar 2026 18:42:30 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/passkeys-k-anonymity-searches-massive-speed-enhancements-bulk-do) Tj
+T*
+(main-verification-api/) Tj
+T*
+(For a hobby project built in my spare time to provide a simple community service, Have I Been) Tj
+T*
+(Pwned sure has, well, "escalated". Today, we support hundreds of thousands of website visitors) Tj
+T*
+(each day, tens of millions of API queries, and hundreds of millions of password searches. We&) Tj
+T*
+() Tj
+T*
+(25. The Webs Digital Locks have Never had a Stronger Opponent) Tj
+T*
+(Source: Cats with power tools | Published: Mon, 30 Mar 2026 17:18:09 GMT) Tj
+T*
+(Link: https://blog.pixelmelt.dev/the-webs-digital-locks/) Tj
+T*
+(We are in a renaissance era of reverse engineering. Defenders are going to be on the back foot) Tj
+T*
+(until we figure out some way to cope with LLM's.) Tj
+T*
+() Tj
+T*
+(26. Het Curieuze Artikel 73 van de AIVD en MIVD) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2104 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Bert Hubert's writings | Published: Mon, 08 Jan 2024 19:15:03 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/het-curieuze-artikel-73-aivd-mivd/) Tj
+T*
+(Vandaag groot in het nieuws, een Nederlandse AIVD agent zou een sleutelrol gespeeld hebben in) Tj
+T*
+(het binnenbrengen van sabotagesoftware bij het Iraanse kernwapenprogramma. Nou moet me wel van) Tj
+T*
+(het hart, dit zou op zichzelf geen schandaal moeten zijn. Iran zijn onze vrienden niet, en ik) Tj
+T*
+(heb liever dat ze geen kernwapenprogramma hebben. Wel wekken de artikelen van Huib Modderkolk) Tj
+T*
+(in de Volkskrant de indruk dat politiek Den Haag niet of niet voldoende op de hoogte was van) Tj
+T*
+(dit alles.) Tj
+T*
+() Tj
+T*
+(27. EU CRA: What does it mean for open source?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 30 Dec 2023 10:56:56 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/) Tj
+T*
+(The final compromise text of the EU Cyber Resilience Act is now officially available, and) Tj
+T*
+(various open source voices are currently opining on it. This is a complex act and other parts) Tj
+T*
+(of the open source world \(like the Eclipse Foundation and NLNet Labs\) have been hard at work to) Tj
+T*
+(advocate with the EU and member states to get a CRA that is good for open source. I?ve also) Tj
+T*
+(been highly critical.) Tj
+T*
+() Tj
+T*
+(28. EU CRA: The compiler does not read the comments, but judges do read the Recitals) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 29 Dec 2023 19:56:56 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/eu-cra-recitals-comments-compiler-judge/) Tj
+T*
+(A bit of an ?emergency blog post?. The final compromise text of the EU Cyber Resilience Act is) Tj
+T*
+(now available, and various open source voices are now opining on it. This is a complex act and) Tj
+T*
+(other parts of the open source world \(like the Eclipse Foundation and NLNet Labs\) have been) Tj
+T*
+(hard at work to advocate with the EU and member states to get a CRA that is good for open) Tj
+T*
+(source.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004449 00000 n 
+0000004575 00000 n 
+0000008964 00000 n 
+0000009090 00000 n 
+0000013970 00000 n 
+0000014096 00000 n 
+0000018712 00000 n 
+0000018840 00000 n 
+0000022488 00000 n 
+0000022616 00000 n 
+0000024773 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+24901
+%%EOF
