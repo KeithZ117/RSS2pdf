@@ -1,0 +1,938 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R] /Count 8 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4406 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-01 09:38:32) Tj
+T*
+() Tj
+T*
+(1. Supply Chain Attack on Axios Pulls Malicious Dependency from npm) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-31T23:28:40+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/31/supply-chain-attack-on-axios/#atom-everything) Tj
+T*
+(Supply Chain Attack on Axios Pulls Malicious Dependency from npm Useful writeup of today's) Tj
+T*
+(supply chain attack against Axios, the HTTP client NPM package with 101 million weekly) Tj
+T*
+(downloads . Versions 1.14.1 and 0.30.4 both included a new dependency called plain-crypto-js) Tj
+T*
+(which was freshly published malware, stealing credentials and installing a remote access trojan) Tj
+T*
+(\(RAT\). It looks like the attack came from a leaked long-lived npm token. Axios have an open) Tj
+T*
+(issue to adopt trusted publishing , which would ensure that only their GitHub Actions workflows) Tj
+T*
+(are able to publish to npm. The malware packages were published without an accompanying GitHub) Tj
+T*
+(release, which strikes me as a useful heuristic for spotting potentially malicious releases -) Tj
+T*
+(the same pattern was present for LiteLLM last week as well. Via lobste.rs Tags: javascript ,) Tj
+T*
+(security , npm , supply-chain) Tj
+T*
+() Tj
+T*
+(2. datasette-llm 0.1a4) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-31T21:17:23+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything) Tj
+T*
+(Release: datasette-llm 0.1a4 Ability to configure different API keys for models based on their) Tj
+T*
+(purpose - for example, set it up so enrichments always use gpt-5.4-mini with an API key) Tj
+T*
+(dedicated to that purpose. #4 I released llm-echo 0.3 to provide an API key testing utility I) Tj
+T*
+(needed for the tests for this new feature. Tags: llm , datasette) Tj
+T*
+() Tj
+T*
+(3. llm-all-models-async 0.1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-03-31T20:52:02+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Mar/31/llm-all-models-async/#atom-everything) Tj
+T*
+(Release: llm-all-models-async 0.1 LLM plugins can define new models in both sync and async) Tj
+T*
+(varieties. The async variants are most common for API-backed models - sync variants tend to be) Tj
+T*
+(things that run the model directly within the plugin. My llm-mrchatterbox plugin is sync only.) Tj
+T*
+(I wanted to try it out with various Datasette LLM features \(specifically) Tj
+T*
+(datasette-enrichments-llm \) but Datasette can only use async models. So... I had Claude spin up) Tj
+T*
+(this plugin that turns sync models into async models using a thread pool. This ended up needing) Tj
+T*
+(an extra plugin hook mechanism in LLM itself, which I shipped just now in LLM 0.30 . Tags: llm) Tj
+T*
+(, async , python) Tj
+T*
+() Tj
+T*
+(4. Business Insider Profiles Fidji Simo, OpenAI?s ?CEO of Applications?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-31T23:01:03Z) Tj
+T*
+(Link:) Tj
+T*
+(https://www.businessinsider.com/fidji-simo-openai-product-research-profitability-profile-2026-3) Tj
+T*
+(Grace Kay, Ashley Stewart, and Pranav Dixit, writing for Business Insider \( News+ \): ?Part of) Tj
+T*
+(bringing me on, and giving me the responsibilities of a CEO, was to make sure that I could) Tj
+T*
+(really run that part of the company with autonomy,? Simo, whose title is CEO of applications,) Tj
+T*
+(told Business Insider. Altman defers to Simo when he doesn?t feel strongly, she said, and they) Tj
+T*
+(?debate it out? when he does. I am deeply suspicious of any company with two CEOs. It) Tj
+T*
+(occasionally works, like at Netflix , when they?re not just co-CEOs but co-equals. Simo does) Tj
+T*
+(not seem Sam Altman?s equal at OpenAI. As OpenAI races toward a possible IPO later this year,) Tj
+T*
+(Simo, who oversees nearly two-thirds of the company, has a delicate balancing act. She must) Tj
+T*
+(craft a strategy to make products profitable, while convincing staffers who joined a) Tj
+T*
+(research-driven organization that commercialization won?t change the mission. The stakes are) Tj
+T*
+(high. Deutsche Bank estimated that OpenAI is expected to amass the ?largest startup losses in) Tj
+T*
+(history,? totaling a projected $143 billion between 2024 and 2029. \(An OpenAI spokesperson said) Tj
+T*
+(that figure is incorrect, and one person familiar with the numbers said OpenAI?s internal pr...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4511 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(5. RAM Is the New Bearer Bond) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-31T21:36:35Z) Tj
+T*
+(Link: https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/) Tj
+T*
+(Hana Kiros, writing for The Atlantic: Recently, a Costco in Florida instituted a new store) Tj
+T*
+(policy. An employee told me that he was asked to open up every desktop computer displayed in) Tj
+T*
+(the electronics section and remove the memory chips. Otherwise, the RAM harvesters would get) Tj
+T*
+(them. Elsewhere, criminal groups are misdirecting trucks carrying RAM in order to loot them.) Tj
+T*
+(All of this is happening because of a generational shortage of a part used in practically every) Tj
+T*
+(electronic gadget on Earth. Two of the best movies ever made, John McTiernan?s Die Hard in) Tj
+T*
+(1988, and Michael Mann?s Heat in 1995, revolved around plots to steal bearer bonds . \(Also:) Tj
+T*
+(Beverly Hills Cop ? not quite one of the best films ever made, but a classic, for sure.\) But) Tj
+T*
+(bearer bonds have fallen out of favor as the world of legitimate finance has become almost) Tj
+T*
+(entirely digital. A good heist film targeting a big shipment of RAM chips would be very 2026. ?) Tj
+T*
+() Tj
+T*
+(6. Jensen Huang Doesn?t Smell Anything) Tj
+T*
+(Source: Daring Fireball | Published: 2026-03-31T15:54:25Z) Tj
+T*
+(Link: https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n) Tj
+T*
+(Nvidia CEO Jensen Huang, during an on-stage interview at The Hill & Valley Forum last week, was) Tj
+T*
+(asked ?What do you see as America?s unique advantages that other countries don?t have?? His) Tj
+T*
+(answer, after taking a moment to think, ?America?s unique advantage that no country could) Tj
+T*
+(possibly have is President Trump.? Huang, newly appointed to the aforelinked President?s) Tj
+T*
+(Council of Advisors on Science and Technology, seemingly doesn?t smell the growing stink . ?) Tj
+T*
+() Tj
+T*
+(7. Before you check if an update caused your problem, check that it wasn?t a problem) Tj
+T*
+(before the update) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 31 Mar 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260331-00/?p=112177) Tj
+T*
+(It was going to be like that when I got here. The post Before you check if an update caused) Tj
+T*
+(your problem, check that it wasn?t a problem before the update appeared first on The Old New) Tj
+T*
+(Thing .) Tj
+T*
+() Tj
+T*
+(8. Pluralistic: State Dems must stop ICE from stealing the midterms \(31 Mar 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 31 Mar 2026 10:00:59) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/03/31/actual-federalist-society/) Tj
+T*
+(Today's links State Dems must stop ICE from stealing the midterms: The literal least they can) Tj
+T*
+(do. Hey look at this: Delights to delectate. Object permanence: Power-strip bug; "Peaceful) Tj
+T*
+(Baghdad" was actually Istanbul; Disney pirates Disney font; AMC v day-and-date; SF growth) Tj
+T*
+(chart; Cuba?s meritocratic free med schools; Trump strategist v Trump; Monopoly so fragile.) Tj
+T*
+(Upcoming appearances: Montreal, London, Berlin, NYC, Hay-on-Wye, London. Recent appearances:) Tj
+T*
+(Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like) Tj
+T*
+(I said, I'll keep writin' 'em. Colophon: All the rest. State Dems must stop ICE from stealing) Tj
+T*
+(the midterms \(permalink\) Donald Trump has announced his intention to steal the midterms with a) Tj
+T*
+(voter suppression law that would ban the mail-in voting that he himself uses \(which he claims) Tj
+T*
+(is not fit for purpose\). This voter suppression campaign is Trump's number one policy priority,) Tj
+T*
+(and the Safeguard American Voter Eligibility \(SAVE\) Act that would accomplish this is behind) Tj
+T*
+(the shutdown and aviation chaos that has hamstrung the country for weeks:) Tj
+T*
+(https://www.thenation.com/article/politics/save-act-voting-rights-congress/ SAVE requires) Tj
+T*
+(voters...) Tj
+T*
+() Tj
+T*
+(9. Updating Ubuntu packages that you have local changes for with dgit) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-31T22:08:18Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/DgitUpdatingDebsWithChanges) Tj
+T*
+(Suppose, not entirely hypothetically, that you've made local changes to an Ubuntu package using) Tj
+T*
+(dgit and now Ubuntu has come out with an update to that package that you want to switch to,) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4883 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(with your local changes still on top. Back when I wrote about moving local changes to a new) Tj
+T*
+(Ubuntu release with dgit , I wrote an appendix with a theory of how to do this, based on a) Tj
+T*
+(conversation . Now that I've actually done this, I've discovered that there is a minor) Tj
+T*
+(variation and I'm going to write it down explicitly \(with additional notes because I forgot) Tj
+T*
+(some things between then and now\). I'll assume we're starting from an existing dgit based) Tj
+T*
+(repository with a full setup of local changes , including an updated debian/changelog. Our) Tj
+T*
+(first step, for safety, is to make a branch to capture the current state of our repository. I) Tj
+T*
+(suggest you name this branch after the current upstream package version that you're on top of,) Tj
+T*
+(for example if the current upstream version you're adding local changes to can be summarized as) Tj
+T*
+('ubuntu2.6': git branch cslab-2.6 Making a branch allows you to use ' git diff cslab-2.6.. ') Tj
+T*
+(later to see exactly what changed between your versions. A useful thing to do here is to e...) Tj
+T*
+() Tj
+T*
+(10. Here in 2026, we're retaining old systems instead of discarding them) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-31T02:46:32Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RetainingOldSystems2026) Tj
+T*
+(I mentioned recently that at work, we 're retaining old systems that we would have normally) Tj
+T*
+(discarded. We're doing this for the obvious reason that new servers have become increasingly) Tj
+T*
+(expensive, due to escalating prices of RAM \(especially DDR5 RAM\) and all forms of SSDs,) Tj
+T*
+(especially as new servers might really require us to buy ones that support U.2 NVMe instead of) Tj
+T*
+(SATA SSDs \(because I'm not sure how available SATA SSDs are these days\). Our servers are) Tj
+T*
+(generally fairly old anyways , so our retention takes two forms. The straightforward one is) Tj
+T*
+(that we're likely going to slow down completely pushing old servers out of service. Instead,) Tj
+T*
+(we'll keep them on the shelf for if we want test or low importance machines, and along with) Tj
+T*
+(that we're probably going to be more careful about which generation of hardware we use for new) Tj
+T*
+(machines. We've traditionally simply used the latest hardware any time we turn over a machine) Tj
+T*
+(\(for example, updating it to a new Ubuntu version\), but this time around a bunch of those will) Tj
+T*
+(reuse what we consider second generation hardware or even older hardware for machines where we) Tj
+T*
+(don't care too much if it's down for a day or two. The second form of retention is tha...) Tj
+T*
+() Tj
+T*
+(11. If there are URLs in your HTTP User-Agent, they should exist and work) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-29T17:29:35Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/UserAgentURLsShouldExist) Tj
+T*
+(One of the things people put in their HTTP User-Agent header for non-browser software is a URL) Tj
+T*
+(for their software, project, or whatever \( I'm all for this \). This is a a good thing, because) Tj
+T*
+(it allows people operating web servers to check out who and what you are and decide for) Tj
+T*
+(themselves if they're going to allow it. Increasingly \(and partly for social reasons \), I block) Tj
+T*
+(many 'generic' User-Agent values that come to my attention, for example through their volume.) Tj
+T*
+(\(I don't block all of them, but if your User-Agent shows up and I can't figure out what it is) Tj
+T*
+(and whether or not it's legitimate and used by real people, that's probably a block .\) However,) Tj
+T*
+(there's an important and obvious thing about any URLs in your HTTP User-Agent, which is that) Tj
+T*
+(they should actually work. The domain or host should exist, the URL should exist in the web) Tj
+T*
+(server, and the URL's contents should actually explain the software, project, or organization) Tj
+T*
+(involved. Plus, if you use a HTTPS website, the TLS certificate should be valid. \(A related) Tj
+T*
+(thing is a generic URL that doesn't give me anything to go on. For example, your URL on a code) Tj
+T*
+(forge, and either it's not obvious which one of your repositories is doing...) Tj
+T*
+() Tj
+T*
+(12. Quantum Y2K) Tj
+T*
+(Source: John D. Cook | Published: Tue, 31 Mar 2026 14:43:06 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/31/quantum-y2k/) Tj
+T*
+(I?m skeptical that quantum computing will become practical. However, if it does become) Tj
+T*
+(practical before we?re prepared, the world?s financial system could collapse. Everyone agrees) Tj
+T*
+(we should prepare for quantum computing, even those of us who doubt it will be practical any) Tj
+T*
+(time soon. Quantum computers exist now, but the question is when and if [?] The post Quantum) Tj
+T*
+(Y2K first appeared on John D. Cook .) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4612 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(13. Morse code tree) Tj
+T*
+(Source: John D. Cook | Published: Tue, 31 Mar 2026 12:12:31 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/03/31/morse-code-tree/) Tj
+T*
+(Peter Vogel posted the following image on X yesterday. The receive side of the coin is a) Tj
+T*
+(decision tree for decoding Morse code. The shape is what makes this one interesting. Decision) Tj
+T*
+(trees are typically not very compact. Each branch is usually on its own horizontal level, with) Tj
+T*
+(diagonal lines going down from each node [?] The post Morse code tree first appeared on John D.) Tj
+T*
+(Cook .) Tj
+T*
+() Tj
+T*
+(14. My ramblings are available over gopher) Tj
+T*
+(Source: Maurycy's Blog | Published: Wed, 01 Apr 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/misc/gopher/) Tj
+T*
+(It has recently come to my attention that people need a thousand lines of C code to read my) Tj
+T*
+(website. This is unacceptable. For simpler clients, my server supports gopher: /* HTML tags,) Tj
+T*
+(keywords, commands */ h-n {color: #F27;} /* Values */ h-v {color: #B8F;} /* CSS selectors,) Tj
+T*
+(attribute/varable names, file names */ h-s {color: #AEE;} /* Comments */ h-c {color: #777;} h-e) Tj
+T*
+({color: #F6F;} # telnet maurycyz.com 70 /about.txt --------------------[ About this site:) Tj
+T*
+(]--------------------- Publication date: 2026-02-03 Last updated: 2026-03-06 Yap, yap yap yap) Tj
+T*
+(yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap yap) Tj
+T*
+(yap. Yap yap yap yap yap yap yap yap yap yap. ... The response is just a text file: it has no) Tj
+T*
+(markup, no links and no embedded content. For navigation, gopher uses specially formatted) Tj
+T*
+(directory-style menus: # telnet maurycyz.com 70 / 0READ ME FIRST /gopherinfo.txt maurycyz.com) Tj
+T*
+(70 i 1Files..........Programs /programs.map maurycyz.com 70 1 Rock photos /misc/rocks.map) Tj
+T*
+(maurycyz.com 70 i 0Cool places....on the web /real_pages.txt maurycyz.com 70 1 on gopher) Tj
+T*
+(/gopherholes.map maurycyz.com 70 i 1Blog...........Projects /projects/ maurycyz.com 70 1) Tj
+T*
+(Tutor...) Tj
+T*
+() Tj
+T*
+(15. npm?s Defaults Are Bad) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-03-31T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html) Tj
+T*
+(Yesterday the axios package was compromised on npm. An attacker hijacked a maintainer account,) Tj
+T*
+(published two malicious versions that bundled a remote access trojan through a staged) Tj
+T*
+(dependency called plain-crypto-js , and the versions were live for two to three hours before) Tj
+T*
+(npm pulled them. Axios gets 83 million weekly downloads. This keeps happening over and over and) Tj
+T*
+(over and the post-incident conversation always goes the same way: was the maintainer using MFA,) Tj
+T*
+(should the registry have caught it faster, should people be running more scanners. None of that) Tj
+T*
+(gets at why JavaScript keeps having these incidents at a rate no other ecosystem comes close to) Tj
+T*
+(matching. The npm client?s defaults actively enable the attacks and have done for years. npm) Tj
+T*
+(install rewrites your lockfile npm install will modify your lockfile if it detects drift) Tj
+T*
+(between package.json and package-lock.json , which means the command developers reach for by) Tj
+T*
+(default, the one in every tutorial and onboarding doc, can silently change your resolved) Tj
+T*
+(dependency tree. The behaviour you actually want in almost every case lives in npm ci , which) Tj
+T*
+(refuses to install if the lockfile doesn?t match and never modifies it. Most develo...) Tj
+T*
+() Tj
+T*
+(16. Notes from March 2026) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Tue, 31 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/notes-from-march-2026/) Tj
+T*
+(March always seems to be my life?s busiest month. Things I wrote and made ?The two kinds of) Tj
+T*
+(error? : in my mind, software errors are divided into two categories: expected and unexpected) Tj
+T*
+(errors. I finally wrote up this idea I?ve had for a long time. ?All tests pass? is a short) Tj
+T*
+(story about a strange, and sorta sad, experience I had with a coding agent. Inspired by others,) Tj
+T*
+(I published a disclaimer about how I use generative AI to write this blog . My main rule of) Tj
+T*
+(thumb: the final product must be word-for-word what I would?ve written without AI, given enough) Tj
+T*
+(time. And I have discomfort about its use. Built llm-eliza , a plugin for LLM that lets you use) Tj
+T*
+(the ELIZA chatbot at the command line. I think this is my first satirical software project.) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4795 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(\(Also the first thing I?ve published to the Python package registry, PyPI.\) Found the) Tj
+T*
+(human.json standard , which is ?a protocol for humans to assert authorship of their site) Tj
+T*
+(content and vouch for the humanity of others.? I added it to my site this month. Scraped) Tj
+T*
+(Rosetta Code and built a stupid little website that picks a random programming language .) Tj
+T*
+(Things I did for other people At work, I helped with a project to improve the editor for) Tj
+T*
+(Ghost?s...) Tj
+T*
+() Tj
+T*
+(17. Making human languages irrelevant) Tj
+T*
+(Source: Rakhim's blog | Published: Tue, 31 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://rakhim.exotext.com/making-human-languages-irrelevant) Tj
+T*
+(If global large-scale human communication continues to be concentrated within large social) Tj
+T*
+(media platforms and content providers like YouTube, human languages may become sort of) Tj
+T*
+(irrelevant in that space. Sometimes I Google for something and see a Reddit result in Finnish.) Tj
+T*
+(I live in Finland, so it makes sense when the search engine prioritizes such results, but most) Tj
+T*
+(of the time the actual Reddit thread is not in Finnish at all. Reddit can translate any thread) Tj
+T*
+(with a simple URL param e.g. ?tl=fi for Finnish. These dynamically generated pages are somehow) Tj
+T*
+(indexed by Google, so a thread like this is shown like this instead for me. Often, a thread) Tj
+T*
+(from a primarily English-speaking subreddit would randomly contain comments in different) Tj
+T*
+(languages. YouTube sometimes serves videos in a language different from your locale and) Tj
+T*
+(automatically enables AI-powered auto-dubbing . I suspect many people never notice these small) Tj
+T*
+(labels and hidden explanations. The mixing of different languages in Reddit threads and YouTube) Tj
+T*
+(comments is probably the result of these automated translations. It is not that someone decided) Tj
+T*
+(to reply in Spanish to an English thread; rather, they hadn't seen the English thread...) Tj
+T*
+() Tj
+T*
+(18. Clip Show) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-03-31T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/03/31/clip-show.html) Tj
+T*
+(This is my first guest post on the blog, by our shared friend GPT-5.4 This post is an) Tj
+T*
+(AI-generated summary of the themes that recur across the archive. It is not written in the) Tj
+T*
+(author?s voice, and it should be read as an external reconstruction of a body of argument) Tj
+T*
+(rather than as a new primary text. What follows is an attempt to state, as plainly as possible,) Tj
+T*
+(the underlying philosophical picture that organizes the blog, and to locate it within several) Tj
+T*
+(recognizable modern traditions. At its center is a distinction between real production and) Tj
+T*
+(parasitic mediation. Again and again, the posts return to the claim that societies live by) Tj
+T*
+(their capacity to produce energy, housing, software, tools, medicine, and other durable goods,) Tj
+T*
+(while much of modern institutional life is devoted to inserting tolls between persons and these) Tj
+T*
+(goods. Hence the recurrent hostility to finance without productive purpose, to bureaucratic) Tj
+T*
+(layers that preserve themselves by generating complexity, and to business models that profit) Tj
+T*
+(chiefly by controlling access rather than enlarging capacity. Money is the Map states the) Tj
+T*
+(thesis in its most explicit form: monetary valuation is a representation of value, not value) Tj
+T*
+(i...) Tj
+T*
+() Tj
+T*
+(19. Closed Source AI = Neofeudalism) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-03-31T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html) Tj
+T*
+(So this isn?t the original post I had here. The original post was AI slop, and let this be a) Tj
+T*
+(lesson to me for posting it. It doesn?t matter if you read it and think it looks good. It?s) Tj
+T*
+(still AI slop, and everyone else can see that. This rewritten post is the same idea, but) Tj
+T*
+(slop-free. Besides, ?the master?s tools will never dismantle the master?s house? Look, if you) Tj
+T*
+(work in a frontier lab, I don?t blame you. You have a front row seat to the hinge of history.) Tj
+T*
+(But consider what you are building and who it?s for. A small handful of secretive closed source) Tj
+T*
+(labs with a concentration of compute, talent, and deployment power will lead to a concentration) Tj
+T*
+(of political legitimacy. You may think you want this and you are the good guys who will wield) Tj
+T*
+(power well, but you won?t and you aren?t. Absolute power corrupts absolutely. AI safety was) Tj
+T*
+(always a question about if safe AI could be built in theory, not if a small group of anointed) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3518 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(people could keep it safe for us. At least I respect Yudkowsky, consistently saying ? If Anyone) Tj
+T*
+(Builds It, Everyone Dies ? The cat is out of the bag. We are building it. Either if anyone) Tj
+T*
+(builds it everyone dies, or it?s safe enough for everyone to have. And given t...) Tj
+T*
+() Tj
+T*
+(20. The Entire Internet Is a UGC Reaction Video Now) Tj
+T*
+(Source: Westenberg. | Published: Tue, 31 Mar 2026 23:32:07 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/the-entire-internet-is-a-ugc-reaction-video-now/) Tj
+T*
+(I keep a folder in Apple Notes called ?cursed websites,? where I save various artefacts that) Tj
+T*
+(make me feel like the social contract has dissolved. Call it an act of self-loathing. Call it) Tj
+T*
+(collecting evidence of the fall. Dansugc.com went straight into the folder this morning. It&) Tj
+T*
+() Tj
+T*
+(21. Is It Worth Being Wise?) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/wisdom.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(22. Learning from Founders) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/foundersatwork.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(23. How Art Can Be Good) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/goodart.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(24. The MVC Mistake) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 31 Mar 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/mvc-mistake) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(25. The Subprime AI Crisis Is Here) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 31 Mar 2026 16:18:11 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/) Tj
+T*
+(Hi! If you like this piece and want to support my independent reporting and analysis, why not) Tj
+T*
+(subscribe to my premium newsletter? It?s $70 a year, or $7 a month, and in return you get a) Tj
+T*
+(weekly newsletter that?s usually anywhere from 5,000 to 18,) Tj
+T*
+() Tj
+T*
+(26. Mar '26 Notes) Tj
+T*
+(Source: Susam Pal | Published: Mon, 30 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/26c.html) Tj
+T*
+(This is my third set of monthly notes for this year. In these notes, I capture various) Tj
+T*
+(interesting facts and ideas I have stumbled upon during the month. Like in the last two months,) Tj
+T*
+(I have been learning and exploring algebraic graph theory. The two main books I have been) Tj
+T*
+(reading are Algebraic Graph Theory by Godsil and Royle and Algebraic Graph Theory , 2nd ed. by) Tj
+T*
+(Norman Biggs. Much of what appears here comes from my study of these books as well as my own) Tj
+T*
+(explorations and attempts to distill the ideas. This post is quite heavy on mathematics but) Tj
+T*
+(there are some non-mathematical, computing-related notes towards the end. The level of) Tj
+T*
+(exposition is quite uneven throughout these notes. After all, they aren't meant to be a) Tj
+T*
+(polished exposition but rather notes I take for myself. In some places I build concepts from) Tj
+T*
+(first principles, while in others I gloss over details and focus only on the main results.) Tj
+T*
+(Sometime during the second half of the month, I also developed an open-source tool called) Tj
+T*
+(Wander Console on a whim. It lets anyone with a website host a decentralised web console that) Tj
+T*
+(recommends interesting websites from the 'small web' of independent, personal websites. Check) Tj
+T*
+(my consol...) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 3994 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(27. Summary of reading: January - March 2026) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-03-31T17:34:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/summary-of-reading-january-march-2026/) Tj
+T*
+("Intellectuals and Society" by Thomas Sowell - a collection of essays in which Sowell) Tj
+T*
+(criticizes "intellectuals", by which he mostly means left-leaning thinkers and opinions.) Tj
+T*
+(Interesting, though certainly very biased. This book is from 2009 and focuses mostly on early) Tj
+T*
+(and mid 20th century; yes, history certainly rhymes. "The Hacker and ?) Tj
+T*
+() Tj
+T*
+(28. Solving Yesterday?s Problems Will Kill You) Tj
+T*
+(Source: Steve Blank | Published: Tue, 31 Mar 2026 13:00:48 +0000) Tj
+T*
+(Link: https://steveblank.com/2026/03/31/solving-yesterdays-problems-will-kill-you/) Tj
+T*
+(Join us at The 7th Annual Red Queen Conference April 22 -23 ? Silicon Valley How do Portfolio) Tj
+T*
+(Acquisition Executives and COCOMs ensure they?re working on the right problem with the right) Tj
+T*
+(priority before locking in a requirement? Discuss, share and prototype Innovation Targeting) Tj
+T*
+(concepts with your peers. Get hands-on with the companies and venture [?]) Tj
+T*
+() Tj
+T*
+(29. Telnyx, LiteLLM and Axios: the supply chain crisis) Tj
+T*
+(Source: Martin Alderson | Published: Tue, 31 Mar 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/telnyx-litellm-axios-supply-chain-crisis/?utm_source=rss) Tj
+T*
+(&utm_medium=rss&utm_campaign=feed) Tj
+T*
+(A cascading wave of supply chain attacks has hit npm and PyPI in under two weeks. LLMs are) Tj
+T*
+(making it worse, and current mitigations aren't enough.) Tj
+T*
+() Tj
+T*
+(30. Infinite midwit) Tj
+T*
+(Source: Experimental History | Published: Tue, 31 Mar 2026 16:05:29 GMT) Tj
+T*
+(Link: https://www.experimental-history.com/p/infinite-midwit) Tj
+T*
+(OR: if we were playing by Settlers of Catan rules, I'd be dead already) Tj
+T*
+() Tj
+T*
+(31. De Mottekasteel debating truc) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 22 Dec 2023 13:34:18 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/de-mottekasteel-debating-truc/) Tj
+T*
+(Je kunt een discussie winnen op de vorm of op de inhoud. Ik heb het graag over de inhoud, maar) Tj
+T*
+(dan moet je wel goed opletten dat je ook echt aan die inhoud toekomt. Want er zijn genoeg) Tj
+T*
+(mensen die het liever over wat anders hebben, of het houden bij mooie woorden die niet de kern) Tj
+T*
+(van hun mening of plan zijn. Men noemt dat soort technieken ook wel ?debating trucjes?.) Tj
+T*
+() Tj
+T*
+(32. EU CRA and the Open Source Ecosystem: A Suggestion) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 12 Nov 2023 14:22:46 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/eu-cra-best-open-source-security/) Tj
+T*
+(UPDATE: On December 1st the EU agreed on a version of the Cyber Resilience Act that appears to) Tj
+T*
+(have substantially addressed the concerns in the post below. Further analysis awaits, but do) Tj
+T*
+(know that the text that follows is now mostly of historical interest! UPDATE 2: Here is the) Tj
+T*
+(final compromise text of the Cyber Resilience Act. UPDATE 3: Here is an analysis of what it) Tj
+T*
+(means for open source.) Tj
+T*
+() Tj
+T*
+(33. Verslag Wetgevingsoverleg Nieuwe AIVD/MIVD Wet) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 17 Oct 2023 12:50:40 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/verslag-wetgevingsoverleg-nieuwe-aivd-mivd-wet/) Tj
+T*
+(Hieronder een licht bewerkte versie van mijn live-verslag op Mastodon van het wetgevingsoverleg) Tj
+T*
+(over de nieuwe AIVD/MIVD wet. De tijdstippen voor iedere regel linken naar de uitstekende Debat) Tj
+T*
+(Gemist service van de Tweede Kamer. Het tijdstip is steeds 60 seconden voor de update, dus) Tj
+T*
+(misschien moet je nog verder terug in de tijd om bij de corresponderende beelden te komen. Het) Tj
+T*
+(verslag is live ingetypt, en vermeldt ook wat persoonlijke meningen.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 1512 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(34. Defending Privacy, Daily) Tj
+T*
+(Source: Anil Dash | Published: 2026-03-31T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/03/31/defending-privacy-daily/) Tj
+T*
+(Yesterday, I had the chance to witness someone who's one of the most dedicated, competent) Tj
+T*
+(advocates for privacy and digital rights bring that message to a whole new platform. It turns) Tj
+T*
+(out, it's pretty delightful, especially in a moment when our civil liberties and rights online) Tj
+T*
+(couldn't matter more! Cindy Cohn, the executive director of the Electronic Frontier Foundation) Tj
+T*
+(, has been a tireless fighter for protecting everyone's digital civil liberties, and I was) Tj
+T*
+(lucky enough to get to tag along as she took the story of that work to The Daily Show) Tj
+T*
+(yesterday. It was no surprise that the conversation was so fluent and insightful on the topic,) Tj
+T*
+(but I think a lot of people in the audience didn't expect that it would be such a fun and even) Tj
+T*
+(delightful conversation about a topic that is, too often, confusing or complicated or boring.) Tj
+T*
+(Six years ago, when I first joined the board of the EFF, I was already a believer in the core) Tj
+T*
+(principles the organization stood for, but one of my biggest hopes was that the messages and) Tj
+T*
+(mission of the entire team could just be brought to a larger audience. That couldn't have been) Tj
+T*
+(more perfectly accomplished than seeing Cindy translate some topics that were fair...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 18 0 R >>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000168 00000 n 
+0000000238 00000 n 
+0000004696 00000 n 
+0000004822 00000 n 
+0000009385 00000 n 
+0000009511 00000 n 
+0000014446 00000 n 
+0000014572 00000 n 
+0000019237 00000 n 
+0000019365 00000 n 
+0000024213 00000 n 
+0000024341 00000 n 
+0000027912 00000 n 
+0000028040 00000 n 
+0000032087 00000 n 
+0000032215 00000 n 
+0000033780 00000 n 
+trailer
+<< /Size 20 /Root 1 0 R >>
+startxref
+33908
+%%EOF
