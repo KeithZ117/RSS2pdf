@@ -1,0 +1,786 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 7 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 3999 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-02 09:38:50) Tj
+T*
+() Tj
+T*
+(1. datasette-llm 0.1a6) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-01T23:01:37+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything) Tj
+T*
+(Release: datasette-llm 0.1a6 The same model ID no longer needs to be repeated in both the) Tj
+T*
+(default model and allowed models lists - setting it as a default model automatically adds it to) Tj
+T*
+(the allowed models list. #6 Improved documentation for Python API usage . Tags: llm , datasette) Tj
+T*
+() Tj
+T*
+(2. datasette-enrichments-llm 0.2a1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-01T22:00:34+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything) Tj
+T*
+(Release: datasette-enrichments-llm 0.2a1 The actor who triggers an enrichment is now passed to) Tj
+T*
+(the llm.mode\(... actor=actor\) method. #3 Tags: enrichments , llm , datasette) Tj
+T*
+() Tj
+T*
+(3. datasette-extract 0.3a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-01T03:32:16+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything) Tj
+T*
+(Release: datasette-extract 0.3a0 Now uses datasette-llm to manage model configuration, which) Tj
+T*
+(means you can control which models are available for extraction tasks using the extract purpose) Tj
+T*
+(and LLM model configuration . #38 Tags: llm , datasette) Tj
+T*
+() Tj
+T*
+(4. DRAM pricing is killing the hobbyist SBC market) Tj
+T*
+(Source: Jeff Geerling | Published: Wed, 01 Apr 2026 16:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/) Tj
+T*
+(Today Raspberry Pi announced more price increases for all Pis with LPDDR4 RAM , alongside a) Tj
+T*
+('right-sized' 3GB RAM Pi 4 for $83.75. The price increases bring the 16GB Pi 5 up to $299.99 .) Tj
+T*
+(Despite today's date, this is not a joke. I published a video going over the state of the) Tj
+T*
+(hobbyist 'high end SBC' market \(4/8/16 GB models in the current generation\), which I'll embed) Tj
+T*
+(below: .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow:) Tj
+T*
+(hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container) Tj
+T*
+(embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } But if you'd like the) Tj
+T*
+(tl;dr :) Tj
+T*
+() Tj
+T*
+(5. Chris Espinosa, Employee #8, Profiled in The New York Times) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-02T00:10:29Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html?unlocked_artic) Tj
+T*
+(le_code=1.X1A.QEzX.u6cPCOjBE3mT) Tj
+T*
+(Kalley Huang, writing for The New York Times \(gift link\): As that happened, Apple laid off) Tj
+T*
+(staff ?again and again and again,? Mr. Espinosa said. His manager told him that he had been) Tj
+T*
+(spared because he had worked for the company for so long that his severance package would be) Tj
+T*
+(too expensive. ?I was wondering what I was going to do because I had no college degree and I) Tj
+T*
+(had only worked at one company,? Mr. Espinosa said. Then he figured: ?I was here when we turned) Tj
+T*
+(the lights on. I might as well stick around until we turn the lights off.? Lovely read. ?) Tj
+T*
+() Tj
+T*
+(6. The Talk Show: ?Apple at 50?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-01T23:47:37Z) Tj
+T*
+(Link: https://daringfireball.net/thetalkshow/2026/04/01/ep-445) Tj
+T*
+(Who better to join the show to commemorate Apple?s 50th anniversary than John Siracusa?) Tj
+T*
+(Sponsored by: Sentry : A real-time error monitoring and tracing platform. Use code TALKSHOW for) Tj
+T*
+($80 in free credits. Notion : The AI workspace where teams and AI agents get more done) Tj
+T*
+(together. Factor : Healthy eating, made easy. Get 50% off your first box, plus free breakfast) Tj
+T*
+(for 1 year, with code talkshow50off . ?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4641 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(7. More on Apple?s Fun ?Rewind? Video) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-01T20:27:02Z) Tj
+T*
+(Link: https://hachyderm.io/@lexfri/116331181693278195) Tj
+T*
+(Lex Friedman \(with an embedded video to prove it\): If you reverse the new Apple video that) Tj
+T*
+(plays in ?rewind,? it?s the Think Different ad music, pitched up. Of course it is. And,) Tj
+T*
+(regarding that ????? REW? button where the ?REW? was set in bitmapped Chicago 12? but the) Tj
+T*
+(?????? was modern, Craig Hockenberry fixed it : I pretended to be Susan Kare and fixed it,) Tj
+T*
+(bottom is the original, top is my interpretation. ?) Tj
+T*
+() Tj
+T*
+(8. 13th Year of Blogging) Tj
+T*
+(Source: iDiallo.com | Published: Wed, 01 Apr 2026 22:15:39 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/blogging-year-13?src=feed) Tj
+T*
+(Of all the days to start a blog, I chose April Fools' Day. It wasn't intentional, maybe more of) Tj
+T*
+(a reflection of my mindset. When I decide to do something, I shut off my brain and just do it.) Tj
+T*
+(This was a commitment I made without thinking about the long-term effects. I knew writing was) Tj
+T*
+(hard, but I didn't know how hard. I knew that maintaining a server was hard, but I didn't know) Tj
+T*
+(the stress it would cause. Especially that first time I went viral. Seeing traffic pour in,) Tj
+T*
+(reading back the article, and realizing it was littered with errors. I was scrambling to fix) Tj
+T*
+(those errors while users hammered my server. I tried restarting it to relieve the load and) Tj
+T*
+(update the content, but to no avail. It was a stressful experience. One I wouldn't trade for) Tj
+T*
+(anything in the world. 13 years later, it feels like the longest debugging session I've ever) Tj
+T*
+(run. Random people message me pointing out bugs. Some of it is complete nonsense. But others...) Tj
+T*
+(well, I actually sent payment to a user who sent me a proof of concept showing how to) Tj
+T*
+(compromise the entire server. I thought he'd done some serious hacking, but when I responded,) Tj
+T*
+(he pointed me to one of my own articles where I had accidentally revealed a vulne...) Tj
+T*
+() Tj
+T*
+(9. What is Copilot exactly?) Tj
+T*
+(Source: iDiallo.com | Published: Wed, 01 Apr 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/what-is-copilot-exactly?src=feed) Tj
+T*
+(A coworker of mine told me that he uses Microsoft Copilot frequently. In fact, he said "I don't) Tj
+T*
+(know how I did my work without it." That came as a surprise to me. I can't stand Copilot. This) Tj
+T*
+(is a very productive employee, one of those 10x engineers you can throw any problem at and) Tj
+T*
+(he'll find a solution. Obviously, if he found a use for Copilot, then I was probably holding it) Tj
+T*
+(wrong. So I decided to give it a shot. I put all my prejudice aside and embraced the tool) Tj
+T*
+(fully. AI is the future, and it shouldn't be hard to find a way to integrate it into my) Tj
+T*
+(everyday workflow. I decided to give it a week, meaning I wouldn't complain even when I didn't) Tj
+T*
+(get the result I wanted. Instead, for every frustration, I would use Copilot to help me turn) Tj
+T*
+(that frown into a smile. The result? I created a workflow. I automated a lot of the things I) Tj
+T*
+(find super annoying: scrum ceremonies, BRD reviews, email writing. All the things I feel like I) Tj
+T*
+(must do only for someone else to tick a box in their own workflow. After the first week, I) Tj
+T*
+(decided to extend my trial for a full sprint. By embracing this tool, I felt like I had) Tj
+T*
+(eliminated my manager's job. Instead of having him check boxes on his end, I could just...) Tj
+T*
+() Tj
+T*
+(10. The cover of C++: The Programming Language raises questions not answered by the cover) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 01 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260401-00/?p=112180) Tj
+T*
+(What are we reading about here? The post The cover of C++: The Programming Language raises) Tj
+T*
+(questions not answered by the cover appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(11. Restricting IP address access to specific ports in eBPF: a sketch) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-08T03:05:12Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions) Tj
+T*
+(The other day I covered how I think systemd's IPAddressAllow and IPAddressDeny restrictions) Tj
+T*
+(work , which unfortunately only allows you to limit this to specific \(local\) ports only if you) Tj
+T*
+(set up the sockets for those ports in a separate systemd.socket unit. Naturally this raises the) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 5016 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(question of whether there is a good, scalable way to restrict access to specific ports in eBPF) Tj
+T*
+(that systemd \(or other interested parties\) could use. I think the answer is yes, so here is a) Tj
+T*
+(sketch of how I think you'd this. Why we care about a 'scalable' way to do this is because) Tj
+T*
+(systemd generates and installs its eBPF programs on the fly. Since tcpdump can do this sort of) Tj
+T*
+(cross-port matching, we could write an eBPF program that did it directly. But such a program) Tj
+T*
+(could get complex if we were matching a bunch of things, and that complexity might make it hard) Tj
+T*
+(to generate on the fly \(or at least make it complex enough that systemd and other programs) Tj
+T*
+(didn't want to\). So we'd like a way that still allows you to generate a simple eBPF program.) Tj
+T*
+(Systemd uses cgroup socket SKB eBPF programs , which attach to a cgroup and filter all network) Tj
+T*
+(packets on ingress or egress. As far as I can understand from staring at...) Tj
+T*
+() Tj
+T*
+(12. Your terminal program has to be where xterm's ziconbeep feature is handled) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-07T03:27:48Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/unix/XTermHasToDoZiconbeep) Tj
+T*
+(I recently wrote about things that make me so attached to xterm . One of those things is) Tj
+T*
+(xterm's ziconbeep feature , which causes xterm to visibly and perhaps audibly react when it's) Tj
+T*
+(iconified or minimized and gets output. A commentator suggested that this feature should) Tj
+T*
+(ideally be done in the window manager, where it could be more general. Unfortunately we can't) Tj
+T*
+(do the equivalent of ziconbeep in the window manager, or at least we can't do all of it. A) Tj
+T*
+(window manager can sound an audible alert when a specific type of window changes its title in a) Tj
+T*
+(certain way. This would give us the 'beep' part of ziconbeep in a general way, although we're) Tj
+T*
+(treading toward a programmable window manager. But then, Gnome Shell now does a lot of stuff in) Tj
+T*
+(JavaScript and its extensions are written in JS and the whole thing doesn't usually blow up. So) Tj
+T*
+(we've got prior art for writing an extension that reacts to window title changes and does) Tj
+T*
+(stuff. What the window manager can't really do is reliably detect when the window has new) Tj
+T*
+(output, in order to trigger any beeping and change the visible window title. As far as I know,) Tj
+T*
+(neither X nor Wayland give you particularly good visibility into whether the program...) Tj
+T*
+() Tj
+T*
+(13. Log messages are mostly for the people operating your software) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-03T04:51:40Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation) Tj
+T*
+(I recently read Evan Hahn's The two kinds of error \( via \), which talks very briefly in passing) Tj
+T*
+(about logging, and it sparked a thought. I've previously written my system administrator's view) Tj
+T*
+(of what an error log level should mean , but that entry leaves out something fundamental about) Tj
+T*
+(log messages, which is that under most circumstances, log messages are for the people operating) Tj
+T*
+(your software \( I've sort of said this before in a different context \). When you're about to) Tj
+T*
+(add a non-debug log message, one of the questions you should ask is what does someone running) Tj
+T*
+(your program get out of seeing the message. Speaking from my own experience, it's very easy to) Tj
+T*
+(write log messages \(and other messages\) that are aimed at you, the person developing the) Tj
+T*
+(program, script, or what have you. They're useful for debugging and for keeping track of the) Tj
+T*
+(state of the program, and it's natural to write them that way since you're immersed in the) Tj
+T*
+(program and have all of the context \( this is especially a problem for infrequent error) Tj
+T*
+(messages , which I've learned to make as verbose as possible, and a similar thing applies for) Tj
+T*
+(infrequently logged messages \). But if your software is successful \(especially...) Tj
+T*
+() Tj
+T*
+(14. GopherTree) Tj
+T*
+(Source: Maurycy's Blog | Published: Wed, 01 Apr 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/projects/gopher/) Tj
+T*
+(While gopher is usually seen as a proto-web, it's really closer to FTP. It has no markup) Tj
+T*
+(format, no links and no URLs. Files are arranged in a hierarchically, and can be in any format.) Tj
+T*
+(This rigid structure allows clients to get creative with how it's displayed ... which is why) Tj
+T*
+(I'm extremely disappointed that everyone renders gopher menus like shitty websites: You see all) Tj
+T*
+(that text mixed into the menu? Those are informational selectors: a non-standard feature that's) Tj
+T*
+(often used to recreate hypertext. I know this "limited web" aesthetic appeals to certain) Tj
+T*
+(circles, but it removes the things that make the protocol interesting. It would be nice to) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4192 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(display gopher menus like what they are, a directory tree : This makes it easy to browse) Tj
+T*
+(collections of files, and help avoid the Wikipedia problem: Absentmindedly clicking links until) Tj
+T*
+(you realize it's 3 AM and you have a thousand tabs open... and that you never finished what you) Tj
+T*
+(wanted to read in the first place. --> I've made the decision to hide informational selectors) Tj
+T*
+(by default . These have two main uses: creating faux hypertext and adding ASCII art banners.) Tj
+T*
+(ASCII art banners are simply annoying: Having one in each menu looks cute in a we...) Tj
+T*
+() Tj
+T*
+(15. Pentagonal numbers are truncated triangular numbers) Tj
+T*
+(Source: John D. Cook | Published: Wed, 01 Apr 2026 13:23:42 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/01/truncated-triangular-numbers/) Tj
+T*
+(Pentagonal numbers are truncated triangular numbers. You can take the diagram that illustrates) Tj
+T*
+(the nth pentagonal number and warp it into the base of the image that illustrates the \(2n ?) Tj
+T*
+(1\)st triangular number. If you added a diagram for the \(n ? 1\)st triangular number to the) Tj
+T*
+(bottom of the image on the right, you?d [?] The post Pentagonal numbers are truncated) Tj
+T*
+(triangular numbers first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(16. Claude Code won April Fools Day this year) Tj
+T*
+(Source: Xe Iaso's blog | Published: Wed, 01 Apr 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/notes/2026/claude-code-wins-april-fools/) Tj
+T*
+(They gave people a heckin tamagochi, what's not to like?) Tj
+T*
+() Tj
+T*
+(17. Say the Thing You Want) Tj
+T*
+(Source: Terrible Software | Published: Wed, 01 Apr 2026 15:59:04 +0000) Tj
+T*
+(Link: https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) Tj
+T*
+(If you want something at work, say it out loud. Your silence isn't saving you.) Tj
+T*
+() Tj
+T*
+(18. Pluralistic: Trumpismo vs minilateralism \(01 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 01 Apr 2026 10:59:24) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/01/minilateralism/) Tj
+T*
+(Today's links Trumpismo vs minilateralism: The enemy gets a vote. Hey look at this: Delights to) Tj
+T*
+(delectate. Object permanence: My new sigfile is unstoppable; TBL on the future of the web) Tj
+T*
+(\(2006\); Wonder Woman sweater pattern; Unpatchable drug cabinets; 50-building mural; DRM v \(the) Tj
+T*
+(next\) Netflix. Upcoming appearances: Toronto, Montreal, Toronto, San Francisco, London, Berlin,) Tj
+T*
+(NYC, Hay-on-Wye, London. Recent appearances: Where I've been. Latest books: You keep readin') Tj
+T*
+(em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All) Tj
+T*
+(the rest. Trumpismo vs minilateralism \(permalink\) As November Kelly has pointed out, the) Tj
+T*
+(weirdest thing about Trumpismo is how the man seethes and rails against a game that is) Tj
+T*
+(thoroughly rigged in America's favor, because he resents having to pretend to play the game at) Tj
+T*
+(all: https://pluralistic.net/2026/01/26/i-dont-want/#your-greenback-dollar Before Trump, the) Tj
+T*
+(deal was that everyone would pretend that we had a "rules-based international order" in which) Tj
+T*
+(every country got a fair deal, even as America cheated like hell and sucked the world dry. It's) Tj
+T*
+(really impossible to overstate how advantageous this was to America. By pretending...) Tj
+T*
+() Tj
+T*
+(19. Random File Format) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 01 Apr 2026 11:34:57 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/random-file-format/) Tj
+T*
+(This was an idea I had back in the days of Naptster. At the turn of the century, it was common) Tj
+T*
+(to listen to an "acquired" music file only to find it was missing a few seconds at the end due) Tj
+T*
+(to a prematurely stopped download. Some video formats would refuse to play at all if the moov) Tj
+T*
+(atom at the end of the file was missing. I wondered if it would be possible to make a file) Tj
+T*
+(format which was?) Tj
+T*
+() Tj
+T*
+(20. Time is a User-Interface) Tj
+T*
+(Source: Westenberg. | Published: Thu, 02 Apr 2026 00:32:14 GMT) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3871 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.joanwestenberg.com/tim/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(21. April Cools Post: New York vs Chicago Pizza) Tj
+T*
+(Source: Computer Things | Published: Wed, 01 Apr 2026 17:53:29 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/april-cools-post-new-york-vs-chicago-pizza/) Tj
+T*
+(Happy April Cools! My not-tech post this year is Chicago vs New York Pizza is the Wrong) Tj
+T*
+(Argument , which is mostly an excuse for me to talk about Chicago food. See here for all of the) Tj
+T*
+(other April Cools submissions. As of this email we have sixteen posts; there's still time to) Tj
+T*
+(submit something! 1 This one came out of a pizza argument with Marianne Bellotti , a true New) Tj
+T*
+(Yorker who doesn't think deep dish is real pizza. I wanted to find a new angle on the old) Tj
+T*
+(argument and this is what I came up with. Interestingly, there's arguably no real New York) Tj
+T*
+(analog to deep dish \(Khatchapuri is kinda similar but doesn't have the same cultural) Tj
+T*
+(relevance\). If I had to pick something to compare deep dish to, it'd be toasted ravioli) Tj
+T*
+(\(despite that being a appetizer and not an entree\). Also, I didn't really touch on it in the) Tj
+T*
+(article, but one of the annoying things about pizza debates is that the most of the Chicago) Tj
+T*
+(pizza chains don't serve deep dish . Instead they do "stuffed pizzas". Deep dish is crust,) Tj
+T*
+(cheese, tomato, while stuffed pizza is crust, cheese, another layer of crust, tomato. It's) Tj
+T*
+(heavy and more casserole like and they always have way too much cheese. Don't get me wrong,) Tj
+T*
+(it's still dece...) Tj
+T*
+() Tj
+T*
+(22. The 18 Mistakes That Kill Startups) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/startupmistakes.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(23. A Student's Guide to Startups) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/mit.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(24. How to Present to Investors) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/investors.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(25. Wayne?s World) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-04-01T01:19:32Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17311236/ronald-g-wayne-apple-interview) Tj
+T*
+(As Apple hits its 50th anniversary this week, we got a chance to talk to its forgotten third) Tj
+T*
+(founder: Ronald G. Wayne. Apple is honestly a footnote in his long life.) Tj
+T*
+() Tj
+T*
+(26. Mini-review: David Pogue's Apple: The First 50 Years) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-03-31T19:17:00.000-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/03/mini-review-david-pogues-apple-first-50.html) Tj
+T*
+(I almost never buy e-books, but I decided to spring for an electronic copy of David Pogue's) Tj
+T*
+(Apple: The First 50 Years to see if I even wanted to bother with the hardcover. Previously the) Tj
+T*
+(essential tome on Apple \(and especially Mac\) history was Owen Linzmeyer's Apple Confidential ,) Tj
+T*
+(still on my shelf in the well-thumbed 2.0 paperback. I was prepared to find this book) Tj
+T*
+(lightweight on the technical side and I expected that it would concentrate far more on Apple) Tj
+T*
+(the electronics company than Apple the computer company \(after all, the cover's a big flippin') Tj
+T*
+(clickwheel\). I was pleasantly surprised to be wrong. While I'm much less interested in the) Tj
+T*
+(history of Apple after, say, the Intel transition \(because I'm still bitter\), over half the) Tj
+T*
+(book's 540-odd content pages are dedicated to Apple prior to Jobs' 1997 return. For example,) Tj
+T*
+(relevant to our recent article , Pogue provides a solid discussion of the Apple-1 \(including) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4489 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(the little-known Computer Conversor 4000\) and a lot of nice period photographs of Jobs and Woz) Tj
+T*
+(working on it. The Apple III segment is extremely well-written, with even a thermal photo of) Tj
+T*
+(just how hot that darn thing ran, plus a complex discussion of the Lisa and of course...) Tj
+T*
+() Tj
+T*
+(27. Gerrik of Puddle) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Mon, 01 Jan 0001 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/fiction/gerrik-of-puddle/) Tj
+T*
+(In the matter of THE VILLAGE OF BRUND v. GERRIK OF PUDDLE, regarding damages to agricultural) Tj
+T*
+(produce, failure to complete a contracted monster removal, conduct unbecoming a licensed) Tj
+T*
+(practitioner, and one count of aggravated turnip destruction. Testimony of the accused,) Tj
+T*
+(transcribed by Clerk Nodds. My name is Gerrik. I am from Puddle. The ?of Puddle? is not a) Tj
+T*
+(title. It is a place. It is exactly as prestigious as it sounds.) Tj
+T*
+() Tj
+T*
+(28. On the Vergecast, On Video) Tj
+T*
+(Source: Anil Dash | Published: 2026-04-01T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/04/01/vergecast-video/) Tj
+T*
+(I finally got the chance to drop by one of my favorite podcasts, The Vergecast, where David) Tj
+T*
+(Pierce had me on to talk about the recent conversation about Apple's moves around video) Tj
+T*
+(podcasts , as well as the much broader big-picture considerations around keeping podcasts open.) Tj
+T*
+(We started with grounding the conversation in the idea that "Wherever you get your podcasts" is) Tj
+T*
+(a radical statement . The episode also starts with a wonderful look back at Apple's first) Tj
+T*
+(half-century as they celebrate their 50 anniversary, courtesy of Jason Snell, whose Six Colors) Tj
+T*
+(is one of my favorite tech sites, and whose annual survey of tech expert sentiment on Apple is) Tj
+T*
+(indispensable. He's completely fluent in Apple's culture and history, and minces no words about) Tj
+T*
+(their recent moral failures . Definitely worth the watch! I hope you'll check out the entire) Tj
+T*
+(episode, and let me know what you think, and I'm really glad to get to continue conversations) Tj
+T*
+(that start on my site and bring them to a broader audience.) Tj
+T*
+() Tj
+T*
+(29. Proportionaliteit EU regelgeving materiaal misbruik kinderen) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 14 Oct 2023 10:21:10 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/prop-sub-csam/) Tj
+T*
+(Dit artikel is geschreven naar aanleiding van het recente rondetafelgesprek in de Tweede Kamer) Tj
+T*
+(over het EU client side scanning voorstel, ook bekend als ?chatcontrol?, een verplichte module) Tj
+T*
+(in je WhatsApp/Signal/iMessage/Snapchat die je communicatie en foto?s scant op ?grooming? en) Tj
+T*
+(bekende en onbekende kinderporno & automatisch melding doet bij politie en Europol. Meer) Tj
+T*
+(achtergrond is hier te vinden. Specifiek onderwerp van dit stuk is de proportionaliteit van de) Tj
+T*
+(voorgenomen regelgeving. Die staat onder hoge spanning omdat de wetgeving wordt toegepast op) Tj
+T*
+(iedereen in Europa, zo?n 500 miljoen mensen.) Tj
+T*
+() Tj
+T*
+(30. Transcript Dutch parliamentary hearing on EU Chat Control and Client Side Scanning) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 12 Oct 2023 12:21:10 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/client-side-scanning-dutch-parliament/) Tj
+T*
+(On the 11th of October, Dutch parliament organized a hearing on the EU ?Chatcontrol? proposal,) Tj
+T*
+(with a focus on client side scanning. Dutch parliament had earlier passed two motions calling) Tj
+T*
+(on the Dutch government not to support this proposal, but our government has declared it will) Tj
+T*
+(ignore those motions. This hearing was timely because next week, or even this Friday, EU member) Tj
+T*
+(states vote on how to proceed with this terrible proposal \(Lawfare review from a US) Tj
+T*
+(perspective\).) Tj
+T*
+() Tj
+T*
+(31. Transcript bijdrage rondetafelgesprek Tweede Kamer Client Side Scanning 11 oktober) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 12 Oct 2023 10:21:10 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/rondetafel-11-oktober-chatcontrol/) Tj
+T*
+(Op 11 oktober was er een rondetafelgesprek in de Tweede Kamer over het EU ?Chatcontrol?) Tj
+T*
+(voorstel. Hier is mijn position paper voor dat gesprek te vinden. Die pagina heeft ook links) Tj
+T*
+(naar de artikelen in NRC, BNR, NOS en de uitzending van het NOS journaal. Hieronder het) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 237 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(transcript van mijn opmerkingen. Op de site van de Tweede Kamer is het origineel met beeld en) Tj
+T*
+(geluid te vinden. Tekst: Dit onderwerp ben ik al zo?n jaar of 15 af en aan bij betrokken.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000161 00000 n 
+0000000231 00000 n 
+0000004282 00000 n 
+0000004408 00000 n 
+0000009101 00000 n 
+0000009227 00000 n 
+0000014295 00000 n 
+0000014421 00000 n 
+0000018666 00000 n 
+0000018794 00000 n 
+0000022718 00000 n 
+0000022846 00000 n 
+0000027388 00000 n 
+0000027516 00000 n 
+0000027805 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+27933
+%%EOF
