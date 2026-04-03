@@ -1,0 +1,668 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4372 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-03 09:38:29) Tj
+T*
+() Tj
+T*
+(1. Highlights from my conversation about agentic engineering on Lenny's Podcast) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-02T20:40:47+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything) Tj
+T*
+(I was a guest on Lenny Rachitsky's podcast, in a new episode titled An AI state of the union:) Tj
+T*
+(We've passed the inflection point, dark factories are coming, and automation timelines . It's) Tj
+T*
+(available on YouTube , Spotify , and Apple Podcasts . Here are my highlights from our) Tj
+T*
+(conversation, with relevant links. The November inflection point Software engineers as) Tj
+T*
+(bellwethers for other information workers Writing code on my phone Responsible vibe coding Dark) Tj
+T*
+(Factories and StrongDM The bottleneck has moved to testing This stuff is exhausting) Tj
+T*
+(Interruptions cost a lot less now My ability to estimate software is broken It's tough for) Tj
+T*
+(people in the middle It's harder to evaluate software The misconception that AI tools are easy) Tj
+T*
+(Coding agents are useful for security research now OpenClaw Journalists are good at dealing) Tj
+T*
+(with unreliable sources The pelican benchmark And finally, some good news about parrots YouTube) Tj
+T*
+(chapters The November inflection point 4:19 - The end result of these two labs throwing) Tj
+T*
+(everything they had at making their models better at code is that in November we had what I) Tj
+T*
+(call the inflection point where GPT 5.1 and Claude Opus 4.5 came along. They were both) Tj
+T*
+(incrementally bet...) Tj
+T*
+() Tj
+T*
+(2. Gemma 4: Byte for byte, the most capable open models) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-02T18:28:54+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything) Tj
+T*
+(Gemma 4: Byte for byte, the most capable open models Four new vision-capable Apache 2.0) Tj
+T*
+(licensed reasoning LLMs from Google DeepMind, sized at 2B, 4B, 31B, plus a 26B-A4B) Tj
+T*
+(Mixture-of-Experts. Google emphasize "unprecedented level of intelligence-per-parameter",) Tj
+T*
+(providing yet more evidence that creating small useful models is one of the hottest areas of) Tj
+T*
+(research right now. They actually label the two smaller models as E2B and E4B for "Effective") Tj
+T*
+(parameter size. The system card explains: The smaller models incorporate Per-Layer Embeddings) Tj
+T*
+(\(PLE\) to maximize parameter efficiency in on-device deployments. Rather than adding more layers) Tj
+T*
+(or parameters to the model, PLE gives each decoder layer its own small embedding for every) Tj
+T*
+(token. These embedding tables are large but are only used for quick lookups, which is why the) Tj
+T*
+(effective parameter count is much smaller than the total. I don't entirely understand that, but) Tj
+T*
+(apparently that's what the "E" in E2B means! One particularly exciting feature of these models) Tj
+T*
+(is that they are multi-modal beyond just images: Vision and audio : All models natively process) Tj
+T*
+(video and images, supporting variable resolutions, and excelling at visual tasks like OCR...) Tj
+T*
+() Tj
+T*
+(3. llm-gemini 0.30) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-02T18:25:08+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything) Tj
+T*
+(Release: llm-gemini 0.30 New models gemini-3.1-flash-lite-preview , gemma-4-26b-a4b-it and) Tj
+T*
+(gemma-4-31b-it . See my notes on Gemma 4 . Tags: gemini , llm , gemma) Tj
+T*
+() Tj
+T*
+(4. Spring 2026 Pebble App Contest + SDK Updates) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Thu, 02 Apr 2026 00:00:00 GMT) Tj
+T*
+(Link: https://repebble.com/blog/spring-2026-pebble-app-contest) Tj
+T*
+(Announcing Spring 2026 Pebble App Contest! In honour of Pebble Time 2 entering mass production,) Tj
+T*
+(we?re hosting a contest to celebrate?) Tj
+T*
+() Tj
+T*
+(5. John Buck on the Invention of QuickTime) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-02T20:12:07Z) Tj
+T*
+(Link: https://www.theverge.com/tech/902721/quicktime-history-apple?view_token=eyJhbGciOiJIUzI1N) Tj
+T*
+(iJ9.eyJpZCI6IkcybHEzWGhZTVciLCJwIjoiL3RlY2gvOTAyNzIxL3F1aWNrdGltZS1oaXN0b3J5LWFwcGxlIiwiZXhwIjo) Tj
+T*
+(xNzc1NTkyNzA0LCJpYXQiOjE3NzUxNjA3MDR9.p4nbje9XKl05Ybv3q31CyAQULuqAB-H9b8qfftSz12k) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4605 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(John Buck at The Verge \(gift link\), excerpted from his great book, Inventing the Future : Steve) Tj
+T*
+(Perlman: Almost everyone at Apple, and definitely everywhere else, assumed that multimedia) Tj
+T*
+(would always require specialized hardware ? and be expensive. A few of us thought otherwise.) Tj
+T*
+(One of the few was Gavin Miller, a research scientist in Apple?s Graphics Group, who worked) Tj
+T*
+(with Hoffert to crack the problem of software compression and decompression, otherwise known as) Tj
+T*
+(codec. Gavin Miller, research scientist: We went for a lunchtime walk, and by the end of it, we) Tj
+T*
+(had generalized the model to include constant color blocks and 2-bit per-pixel interpolating) Tj
+T*
+(blocks. This allowed us to trade off quantization artifacts in large flat areas for more detail) Tj
+T*
+(in textured areas. The result was an increase in quality and performance that helped to make) Tj
+T*
+(the codec practical for really small video sizes. Just a typical lunchtime walk-and-talk. Fun) Tj
+T*
+(anecdote from 1990: He asked Peppel to create a product plan that he could announce at Apple?s) Tj
+T*
+(Worldwide Developers Conference on May 7th. That day, Casey took to the stage and announced) Tj
+T*
+(QuickTime to a stunned audience, saying, ?Apple intends to develop real-...) Tj
+T*
+() Tj
+T*
+(6. Artemis II Crew on Way to Moon) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-02T19:37:10Z) Tj
+T*
+(Link: https://512pixels.net/2026/04/artemis-ii-crew-on-way-to-moon/) Tj
+T*
+(Great roundup of links from Stephen Hackett: The crew is made up of Reid Wiseman, Victor) Tj
+T*
+(Glover, Christina Koch, and CSA \(Canadian Space Agency\) astronaut Jeremy Hansen. They are now) Tj
+T*
+(on their way to the moon, set to return in 10 days. Their rocket may be the product of a) Tj
+T*
+(hugely-flawed program , but right now, that doesn?t matter. They are getting us closer to) Tj
+T*
+(returning to the lunar surface than we?ve been in 50 years. That?s worth celebrating. ?) Tj
+T*
+() Tj
+T*
+(7. OpenAI, Supposedly Tightening Its Focus on Its Core Products, Buys Tech-Industry Talk) Tj
+T*
+(Show TBPN) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-02T18:58:50Z) Tj
+T*
+(Link: https://www.wsj.com/cmo-today/openai-buys-tech-industry-talk-show-tbpn-484c01c5?st=RUVFWn) Tj
+T*
+(Katie Deighton, reporting for The Wall Street Journal \(main link is a gift link; also on News+) Tj
+T*
+(\): OpenAI bought TBPN to encourage constructive conversation around the changes AI creates by) Tj
+T*
+(helping the show grow, according to a memo sent by Fidji Simo, the OpenAI?s CEO of) Tj
+T*
+(applications. TBPN will report to Chris Lehane, OpenAI?s chief global affairs officer, and will) Tj
+T*
+(help with company communications and marketing outside of the show. ?They?ve helped many brands) Tj
+T*
+(market online and because they have a strong pulse on where the industry is going, their comms) Tj
+T*
+(and marketing ideas have really impressed me,? Simo wrote in the memo. But TBPN will remain) Tj
+T*
+(editorially independent, retaining control over its programming, editorial decisions, guest) Tj
+T*
+(selection and production schedule, OpenAI said. Yes, I?m sure they?ll remain totally) Tj
+T*
+(independent. You know, like The Washington Post under Jeff Bezos , and CBS News under David) Tj
+T*
+(Ellison . Many news and commentary publications have remained steadfastly independent while) Tj
+T*
+(reporting to the head of PR for a company they ostensibly cover. ?) Tj
+T*
+() Tj
+T*
+(8. Why doesn?t the system let you declare your own messages to have the same semantics as) Tj
+T*
+(WM_COPY­DATA?) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 02 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260402-00/?p=112196) Tj
+T*
+(Tempting but misleading. The post Why doesn?t the system let you declare your own messages to) Tj
+T*
+(have the same semantics as WM_ COPY­DATA ? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Artemis II, Apollo 8, and Apollo 13) Tj
+T*
+(Source: John D. Cook | Published: Thu, 02 Apr 2026 14:14:44 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/02/artemis-apollo/) Tj
+T*
+(The Artemis II mission launched yesterday. Much like the Apollo 8 mission in 1968, the goal is) Tj
+T*
+(to go around the moon in preparation for a future mission that will land on the moon. And like) Tj
+T*
+(Apollo 13, the mission will swing around the moon rather than entering lunar orbit. Artemis II) Tj
+T*
+(will deliberately follow [?] The post Artemis II, Apollo 8, and Apollo 13 first appeared on) Tj
+T*
+(John D. Cook .) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4920 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(10. I should use argument groups in Python's argparse module more than I do) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-02T02:44:10Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/python/ArgparseOptionGroupsPraise) Tj
+T*
+(For reasons well outside the scope of this entry, the other day I looked at the --help output) Tj
+T*
+(from one of my old Python programs. This particular program has a lot of options, but when I'd) Tj
+T*
+(written it, I had used argparse argument groups to break up the large list of options into) Tj
+T*
+(logical groups, starting with the most important and running down to the 'you should probably) Tj
+T*
+(ignore these' ones. The result was far more readable than it would have been without the) Tj
+T*
+(grouping. \(I want to call these 'option groups', because that's what I use them for.\) I've) Tj
+T*
+(regularly used mutual exclusion groups in my recent Python programs, but for some reason I've) Tj
+T*
+(fallen so much out of the habit of using argparse groups to break up walls of options that I'd) Tj
+T*
+(forgot they even existed until I was reminded by my own program's --help output. Now that I've) Tj
+T*
+(been reminded, there are probably some programs that I should go back to and add some groups) Tj
+T*
+(to. \(Most or all of my programs with a lot of options have a structure to them; it's not just a) Tj
+T*
+(kitchen sink of a lot of things. Even if there is no real structure I can at least separate) Tj
+T*
+(things into frequent, less frequent, and obscure options.\) Although you can't pu...) Tj
+T*
+() Tj
+T*
+(11. The things that make me so attached to xterm as my terminal program) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-02T04:28:43Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/unix/XTermWhyAttached) Tj
+T*
+(I've said before in various contexts \( eg \) that I'm very attached to the venerable xterm as my) Tj
+T*
+(terminal \(emulator\) program, and I'm not looking forward to the day that I may have to migrate) Tj
+T*
+(away from it due to Wayland \(although I probably can keep running it under XWayland, now that I) Tj
+T*
+(think about it\). But I've never tried to write down a list of the things that make me so) Tj
+T*
+(attached to it over other alternatives like urxvt, much less more standard ones like) Tj
+T*
+(gnome-terminal. Today I'm going to try to do that, although my list is probably going to be) Tj
+T*
+(incomplete. Xterm's ziconbeep feature , which I use heavily. Urxvt can have an equivalent but I) Tj
+T*
+(don't know if other terminal programs do. I routinely use xterm's very convenient way of making) Tj
+T*
+(large selections , which is supported in urxvt but not in gnome-terminal \(and it can't be since) Tj
+T*
+(gnome-terminal uses mouse button 3 for its own purposes\). The ability to turn off all terminal) Tj
+T*
+(colours, because they often don't work in my preferred terminal colours . Other terminal) Tj
+T*
+(programs have somewhat different and sometimes less annoying colours, but it's still far to) Tj
+T*
+(easy for programs to display things in unreadable colours. Yes, I can set my shell...) Tj
+T*
+() Tj
+T*
+(12. Sometimes the simplest version of a text table is printed from a command) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-01T03:18:39Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SimpleTextViaCommands) Tj
+T*
+(Back when we had just started with our current metrics and dashboards adventure , I wrote about) Tj
+T*
+(how sometimes the simplest version of a graph is a text table . Today I will extend that) Tj
+T*
+(further: sometimes the simplest version of a text table is to have a command that prints it) Tj
+T*
+(out, rather than making people look at a web page. We recently had a major power outage at work) Tj
+T*
+(, and in the aftermath not all of our machines came back . One of my co-workers is an extreme) Tj
+T*
+(early bird and he came in to the university about as early as it's possible to on the TTC, and) Tj
+T*
+(started work on troubleshooting what was going on. One of the things he needed to know was what) Tj
+T*
+(machines were still down, so he could figure out any common elements to them \(and see what) Tj
+T*
+(machines were stubbornly not coming back on even though they ought to be\). We have Grafana) Tj
+T*
+(dashboards for this, and the information about what machines are down is present in some of) Tj
+T*
+(them in tabular form. But it's a table embedded in a widget in a web page, and you need a) Tj
+T*
+(browser to look at it, which you may not have from the server console of some server you just) Tj
+T*
+(powered up. Since I like command line tools, at one point I wrote some little scrip...) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: It's extremely good that Claude's source-code leaked \(02 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 02 Apr 2026 10:19:42) Tj
+T*
+(+0000) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4042 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://pluralistic.net/2026/04/02/limited-monopoly/) Tj
+T*
+(Today's links It's extremely good that Claude's source-code leaked: Careful what you wish for.) Tj
+T*
+(Hey look at this: Delights to delectate. Object permanence: "Elephantmen"; Eve Online war) Tj
+T*
+(bankrolled by casino; Phishers take Mattel for $3m; Sanders wins 6 primaries, CNN airs Jesus) Tj
+T*
+("documentary"; Cuba is a vaccine powerhouse; Embroidered Toast; Mass layoffs at ATT. Upcoming) Tj
+T*
+(appearances: Toronto, Montreal, Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye,) Tj
+T*
+(London. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. It's) Tj
+T*
+(extremely good that Claude's source-code leaked \(permalink\) Anthropic's developers made an) Tj
+T*
+(extremely basic configuration error, and as a result, the source-code for Claude Code ? the) Tj
+T*
+(company's flagship coding assistant product ? has leaked and is being eagerly analyzed by many) Tj
+T*
+(parties: https://news.ycombinator.com/item?id=47586778 In response, Anthropic is flooding the) Tj
+T*
+(internet with "takedown notices." These are a special kind of copyright-based censorship demand) Tj
+T*
+(established by section 512 of the 1998 Digital Millennium Copyright Act \(DMCA 512\), al...) Tj
+T*
+() Tj
+T*
+(14. Information and Technological Evolution) Tj
+T*
+(Source: Construction Physics | Published: Thu, 02 Apr 2026 12:16:08 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/information-and-technological-evolution) Tj
+T*
+(I spend a lot of time reading about the nature of technological progress, and I?ve found that) Tj
+T*
+(the literature on technology is somewhat uneven.) Tj
+T*
+() Tj
+T*
+(15. Automating starting Lambda Labs instances) Tj
+T*
+(Source: Giles' blog | Published: Thu, 02 Apr 2026 23:30:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/04/automating-starting-lambda-instances) Tj
+T*
+(I've been trying to get an 8x A100 instance on Lambda Labs to do a training run for my LLM from) Tj
+T*
+(scratch series , but they're really busy at the moment, and it's rare to see anything. Thanks) Tj
+T*
+(to the wonders of agentic coding, I spent an hour today getting something up and running to) Tj
+T*
+(help, which I've called lambda-manager . It has three commands: list-instance-types , which) Tj
+T*
+(prints which kinds of instances are available. list-instance-type-descriptions , which prints) Tj
+T*
+(out all of the possible instance types \(available or not\) with both their "friendly" names --) Tj
+T*
+(what you'd see on the website -- and the instance type names that the API uses.) Tj
+T*
+(launch-when-available , which polls the API until it sees a specified type of instance, at) Tj
+T*
+(which point it starts one and sends a Telegram message. Let's see if that helps -- though it's) Tj
+T*
+(been running for six hours now, with no luck...) Tj
+T*
+() Tj
+T*
+(16. Concert Review: London Philharmonic - Pictures at an Exhibition ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 02 Apr 2026 11:34:07 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://shkspr.mobi/blog/2026/04/concert-review-london-philharmonic-pictures-at-an-exhibition/) Tj
+T*
+(A delightful and emotional rendition of three rather different works. Mark-Anthony Turnage's) Tj
+T*
+("Three Screaming Popes" was a chaotic cacophony. Wild, bizarre, inventive, and seemingly driven) Tj
+T*
+(by excess. A fascinating performance, although not one I'll put on in the background. Turnage) Tj
+T*
+(himself took to the stage to bask in the applause. Bartók's Violin Concerto No. 1. Reading the) Tj
+T*
+(story behind the ?) Tj
+T*
+() Tj
+T*
+(17. Copy What You Like) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/copy.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(18. The Island Test) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/island.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4377 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(19. The Power of the Marginal) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/marginal.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. The Blandness of Systematic Rules vs. The Delight of Localized Sensitivity) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Thu, 02 Apr 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/systemic-vs-localized/) Tj
+T*
+(Marcin Wichary brings attention to this lovely dialog in ClarisWorks from 1997: He quips: this) Tj
+T*
+(breaks the rule of button copy being fully comprehensible without having to read the) Tj
+T*
+(surrounding strings first, perhaps most well-known as the ?avoid «click here»? rule. Never) Tj
+T*
+(Register/?Register Later/?Register Now would solve that problem, but wouldn?t look so neat.) Tj
+T*
+(This got me thinking about how you judge when an interface should bend to fit systematic rules) Tj
+T*
+(vs. exert itself and its peculiarities and context? The trade-off Marcin points out is real:) Tj
+T*
+("Never Register / Register Later / Register Now" is fully self-describing and avoids the «click) Tj
+T*
+(here» rule. However, it kills the elegant terseness that makes that dialog so delightful. ?Now) Tj
+T*
+(/ Later / Never? is three words with no filler and a perfect parallel structure. It feels like) Tj
+T*
+(one of those cases where the rule is sound as a guideline but a thoughtful design supersedes) Tj
+T*
+(the baseline value provided by the rule. Rules, in a way, are useful structures when you don?t) Tj
+T*
+(want to think more. But more thinking can result in delightful exceptions that prove better) Tj
+T*
+(than the outcome any rule can provide. I suppose it really is trade-offs everywher...) Tj
+T*
+() Tj
+T*
+(21. Bijdrage rondetafelgesprek Tweede Kamer Client Side Scanning) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 08 Oct 2023 10:21:10 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/client-side-scanning/) Tj
+T*
+(Dit is mijn position paper voor het rondetafelgesprek in de Tweede Kamer op 11 oktober over het) Tj
+T*
+(EU client side scanning voorstel, ook bekend als ?chatcontrol?, een verplichte module in je) Tj
+T*
+(WhatsApp/Signal/iMessage/Snapchat die je communicatie en foto?s scant op ?grooming? en bekende) Tj
+T*
+(en onbekende kinderporno & automatisch melding doet bij politie en Europol. UPDATE: De opname) Tj
+T*
+(van het rondetafelgesprek staat nu online - mijn stukje begint om 19:19 maar ook de rest is de) Tj
+T*
+(moeite waard \(transcript, voor wie niet van filmpjes houdt\).) Tj
+T*
+() Tj
+T*
+(22. Niks te verbergen? Toch steeds meer uit te leggen) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 27 Sep 2023 10:55:31 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/niks-te-verbergen-wel-steeds-meer-uit-te-leggen/) Tj
+T*
+(Onze overheden en het internationale bedrijfsleven leggen steeds grotere databases over ons) Tj
+T*
+(aan, op een schaal die we 20 jaar geleden nooit geaccepteerd zouden hebben. Eerder schreef ik) Tj
+T*
+(in de Volkskrant hoe we dit vroeger automatisch verwerpelijk vonden, met name vanwege onze) Tj
+T*
+(herinnering aan de Tweede Wereldoorlog. Update: We bespraken dit artikel in de BNR Nexus) Tj
+T*
+(podcast van 29 september \(vanaf minuut 24\). Deze herinnering leeft minder en minder, en ook) Tj
+T*
+(?Oost-Duitsland? en de Stasi zijn verdwenen en geen afschrikwekkend voorbeeld meer.) Tj
+T*
+() Tj
+T*
+(23. A Spherical Cow Model of Global Warming \(With Data and Code\)) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 25 Sep 2023 10:21:10 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/co2-global-warming-sensitivity/) Tj
+T*
+(Before we start, I?d like to thank ESA?s Mark McCaughrean who helped kick off this article by) Tj
+T*
+(referring me to two key articles that lay out, in scientific terms, how global warming really) Tj
+T*
+(works. Here you can pick your favorite temperature unit: C F \(Test temperature: \) Feel free to) Tj
+T*
+(skip this wordy intro and head straight to the model, or even to the summary at the end of this) Tj
+T*
+(post!) Tj
+T*
+() Tj
+T*
+(24. SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Thu, 02 Apr 2026 10:17:15 GMT) Tj
+T*
+(Link: https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-r) Tj
+T*
+(elationships) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 528 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(This is the third chapter of my SQLAlchemy 2 in Practice book. If you'd like to support my) Tj
+T*
+(work, I encourage you to buy this book, either directly from my store or on Amazon . Thank you!) Tj
+T*
+(In the previous chapter you learned how to execute a variety of queries on the products table.) Tj
+T*
+(Interestingly, some of those queries were designed to obtain product manufacturers and not) Tj
+T*
+(products, and this required duplicates to be removed by grouping the results.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004648 00000 n 
+0000004774 00000 n 
+0000009431 00000 n 
+0000009557 00000 n 
+0000014529 00000 n 
+0000014655 00000 n 
+0000018750 00000 n 
+0000018878 00000 n 
+0000023308 00000 n 
+0000023436 00000 n 
+0000024016 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+24144
+%%EOF
