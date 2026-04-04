@@ -1,0 +1,846 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 7 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4263 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-04 09:37:53) Tj
+T*
+() Tj
+T*
+(1. Vulnerability Research Is Cooked) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-03T23:59:08+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything) Tj
+T*
+(Vulnerability Research Is Cooked Thomas Ptacek's take on the sudden and enormous impact the) Tj
+T*
+(latest frontier models are having on the field of vulnerability research. Within the next few) Tj
+T*
+(months, coding agents will drastically alter both the practice and the economics of exploit) Tj
+T*
+(development. Frontier model improvement won?t be a slow burn, but rather a step function.) Tj
+T*
+(Substantial amounts of high-impact vulnerability research \(maybe even most of it\) will happen) Tj
+T*
+(simply by pointing an agent at a source tree and typing ?find me zero days?. Why are agents so) Tj
+T*
+(good at this? A combination of baked-in knowledge, pattern matching ability and brute force:) Tj
+T*
+(You can't design a better problem for an LLM agent than exploitation research. Before you feed) Tj
+T*
+(it a single token of context, a frontier LLM already encodes supernatural amounts of) Tj
+T*
+(correlation across vast bodies of source code. Is the Linux KVM hypervisor connected to the) Tj
+T*
+(hrtimer subsystem, workqueue , or perf_event ? The model knows. Also baked into those model) Tj
+T*
+(weights: the complete library of documented "bug classes" on which all exploit development) Tj
+T*
+(builds: stale pointers, integer mishandling, type confusion, allocator grooming, and all the) Tj
+T*
+(k...) Tj
+T*
+() Tj
+T*
+(2. The cognitive impact of coding agents) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-03T23:57:04+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything) Tj
+T*
+(A fun thing about recording a podcast with a professional like Lenny Rachitsky is that his team) Tj
+T*
+(know how to slice the resulting video up into TikTok-sized short form vertical videos. Here's) Tj
+T*
+(one he shared on Twitter today which ended up attracting over 1.1m views! That was 48 seconds.) Tj
+T*
+(Our full conversation lasted 1 hour 40 minutes. Tags: ai-ethics , coding-agents ,) Tj
+T*
+(agentic-engineering , generative-ai , podcast-appearances , ai , llms , cognitive-debt) Tj
+T*
+() Tj
+T*
+(3. Quoting Willy Tarreau) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-03T21:48:22+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything) Tj
+T*
+(On the kernel security list we've seen a huge bump of reports. We were between 2 and 3 per week) Tj
+T*
+(maybe two years ago, then reached probably 10 a week over the last year with the only) Tj
+T*
+(difference being only AI slop, and now since the beginning of the year we're around 5-10 per) Tj
+T*
+(day depending on the days \(fridays and tuesdays seem the worst\). Now most of these reports are) Tj
+T*
+(correct, to the point that we had to bring in more maintainers to help us. And we're now seeing) Tj
+T*
+(on a daily basis something that never happened before: duplicate reports, or the same bug found) Tj
+T*
+(by two different people using \(possibly slightly\) different tools. ? Willy Tarreau , Lead) Tj
+T*
+(Software Developer. HAPROXY Tags: security , linux , generative-ai , ai , llms ,) Tj
+T*
+(ai-security-research) Tj
+T*
+() Tj
+T*
+(4. Build your own Dial-up ISP with a Raspberry Pi) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 03 Apr 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/) Tj
+T*
+(Last year my aunt let me add her original Tangerine iBook G3 clamshell to my collection of old) Tj
+T*
+(Macs 1 . It came with an AirPort card?a $99 add-on Apple made that ushered in the Wi-Fi era.) Tj
+T*
+(The iBook G3 was the first consumer laptop with built-in Wi-Fi antennas, and by far the) Tj
+T*
+(cheapest way to get a computer onto an 802.11 wireless network.) Tj
+T*
+() Tj
+T*
+(5. Apple Releases iOS 18 Security Updates for iOS 26 Holdouts) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-03T19:28:36Z) Tj
+T*
+(Link:) Tj
+T*
+(https://sixcolors.com/post/2026/04/apple-releases-ios-18-security-updates-for-ios-26-holdouts/) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4751 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Jason Snell: Last December I complained that Apple was withholding iOS 18 security updates from) Tj
+T*
+(iPhones capable of running iOS 26 , leaving users who didn?t want to upgrade to Apple?s latest) Tj
+T*
+(OS version yet in some security peril. Well, I have good news and bad news. The good news: As) Tj
+T*
+(of Wednesday April 1, Apple is pushing out iOS 18.7.7 to all devices running iOS 18. This) Tj
+T*
+(update, released last month for devices that were not capable of running iOS 26, is now) Tj
+T*
+(available even for compatible devices. If you?ve got auto-update turned on but have not gone) Tj
+T*
+(through the steps to do a full upgrade to iOS 26, this update can be automatically pushed and) Tj
+T*
+(applied. This is good news, as those who have opted not to run iOS 26 will get to take) Tj
+T*
+(advantage of several sets of security releases. Now the bad news: This is happening because of) Tj
+T*
+(some really bad security breaches like DarkSword and Coruna . It feels a bit spiteful that) Tj
+T*
+(Apple doesn?t support staying a year behind the major version of iOS like they do ? thankfully) Tj
+T*
+(? with MacOS. The vast majority of iPhone and iPad users just do what Apple encourages ? they) Tj
+T*
+(accept the default setting to auto-update when Apple pushes updates to their devices. P...) Tj
+T*
+() Tj
+T*
+(6. Apple Still Has Jessica Chastain?s ?The Savant? on Ice, Seven Months After It Was Set) Tj
+T*
+(to Debut) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-03T18:20:04Z) Tj
+T*
+(Link: https://www.macstories.net/news/coming-soon-whats-next-on-apple-tv-and-apple-arcade-in-ap) Tj
+T*
+(ril-2026/) Tj
+T*
+(John Voorhees, at MacStories: It?s a new month and you know what that means: time for a roundup) Tj
+T*
+(of everything coming to Apple TV and Apple Arcade for April 2026. What?s still not coming:) Tj
+T*
+(Jessica Chastain?s political thriller The Savant , originally set for September, but) Tj
+T*
+(rescheduled for ? at a later date ? out of cowardice . Apple?s ?at a later date? is looking) Tj
+T*
+(more and more like Trump?s ? in two weeks ?. ?) Tj
+T*
+() Tj
+T*
+(7. Axios, Super Popular NPM Package, Was Compromised in Attack on the Module?s Maintainer) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-02T18:42:39Z) Tj
+T*
+(Link: https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-) Tj
+T*
+(access-trojan) Tj
+T*
+(StepSecurity: If you have installed axios@1.14.1 or axios@0.30.4, assume your system is) Tj
+T*
+(compromised. There are zero lines of malicious code inside axios itself, and that?s exactly) Tj
+T*
+(what makes this attack so dangerous. Both poisoned releases inject a fake dependency,) Tj
+T*
+(plain-crypto-js@4.2.1 , a package never imported anywhere in the axios source, whose sole) Tj
+T*
+(purpose is to run a postinstall script that deploys a cross-platform remote access trojan. The) Tj
+T*
+(dropper contacts a live command-and-control server, delivers separate second-stage payloads for) Tj
+T*
+(macOS, Windows, and Linux, then erases itself and replaces its own package.json with a clean) Tj
+T*
+(decoy. A developer who inspects their node_modules folder after the fact will find no) Tj
+T*
+(indication anything went wrong. This was not opportunistic. It was precision. The malicious) Tj
+T*
+(dependency was staged 18 hours in advance. Three payloads were pre-built for three operating) Tj
+T*
+(systems. Both release branches were poisoned within 39 minutes of each other. Every artifact) Tj
+T*
+(was designed to self-destruct. Within two seconds of npm install , the malware was already) Tj
+T*
+(calling home to the attacker?s server before npm had even finished resolving dependencies. This) Tj
+T*
+(is among...) Tj
+T*
+() Tj
+T*
+(8. Programming \(with AI agents\) as theory building) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Fri, 03 Apr 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) Tj
+T*
+(Back in 1985, computer scientist Peter Naur wrote ?Programming as Theory Building? . According) Tj
+T*
+(to Naur - and I agree with him - the core output of software engineers is not the program) Tj
+T*
+(itself, but the theory of how the program works . In other words, the knowledge inside the) Tj
+T*
+(engineer?s mind is the primary artifact of engineering work, and the actual software is merely) Tj
+T*
+(a by-product of that. This sounds weird, but it?s surprisingly intuitive. Every working) Tj
+T*
+(programmer knows that you cannot make a change to a program simply by having the code. You) Tj
+T*
+(first need to read through the code carefully enough to build up a mental model \(what Naur) Tj
+T*
+(calls a ?theory?\) of what it?s supposed to do and how it does it. Then you make the desired) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4853 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(change to your mental model, and only after that can you begin modifying the code. Many people) Tj
+T*
+(1 think that this is why LLMs are not good tools for software engineering: because using them) Tj
+T*
+(means that engineers can skip building Naur theories of the system, and because LLMs themselves) Tj
+T*
+(are incapable of developing a Naur theory themselves. Let?s take those one at a time. Do LLMs) Tj
+T*
+(let you skip theory-building? Do AI agents let some engineers avoid building detailed m...) Tj
+T*
+() Tj
+T*
+(9. My Zip bomb strategy is not as effective as it used to be) Tj
+T*
+(Source: iDiallo.com | Published: Fri, 03 Apr 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed) Tj
+T*
+(Last year, I wrote about my server setup and how I use zipbombs to mitigate attacks from rogue) Tj
+T*
+(bots. It was an effective method that helped my blog survive for 10 years. I usually hesitate) Tj
+T*
+(to write these types of articles, especially since it means revealing the inner workings of my) Tj
+T*
+(own servers. This blog runs on a basic DigitalOcean droplet, a modest setup that can handle the) Tj
+T*
+(usual traffic spike without breaking a sweat. But lately, things have started to change. My) Tj
+T*
+(zipbomb strategy doesn't seem to be as effective as it used to be. TLDR; What I learned... and) Tj
+T*
+(won't tell you Here is the code I shared last year : if \(ipIsBlackListed\(\) || isMalicious\(\)\) {) Tj
+T*
+(header\("Content-Encoding: gzip"\); header\("Content-Length: ". filesize\(ZIP_BOMB_FILE_10G\)\); //) Tj
+T*
+(10 MB readfile\(ZIP_BOMB_FILE_10G\); exit; } I deliberately didn't reveal what a function like) Tj
+T*
+(isMalicious\(\) does in the background. But that wasn't really the secret sauce bots needed to) Tj
+T*
+(know to avoid my trap. In fact, I mentioned it casually: One more thing, a zip bomb is not) Tj
+T*
+(foolproof. It can be easily detected and circumvented. You could partially read the content) Tj
+T*
+(after all. But for unsophisticated bots that are blindly crawling the web...) Tj
+T*
+() Tj
+T*
+(10. How can I use Read≠Directory≠ChangesW to know when someone is copying a file out of) Tj
+T*
+(the directory?) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 03 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202) Tj
+T*
+(File copying is not a fundamental operation, nor is it even detectable at the file system) Tj
+T*
+(layer. The post How can I use Read≠Directory≠ChangesW to know when someone is copying a file) Tj
+T*
+(out of the directory? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(11. Web server ratelimits are a precaution to let me stop worrying) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-04T00:04:52Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/RatelimitsAreAPrecaution) Tj
+T*
+(These days, Wandering Thoughts has some hacked together HTTP request rate limits. They don't) Tj
+T*
+(exist for strong technical reasons; my blog engine setup here can generally stand up to even) Tj
+T*
+(fairly extreme traffic floods \(through an extensive series of hacks\). It's definitely possible) Tj
+T*
+(to overwhelm Wandering Thoughts with a high enough request volume, and HTTP rate limits will) Tj
+T*
+(certainly help with that, but that's not really why they exist. My HTTP rate limits exist for) Tj
+T*
+(ultimately social reasons and because they let me stop worrying and stop caring about certain) Tj
+T*
+(sorts of abuse. As we all know by now here in 2026, abuse definitely happens , even if it isn't) Tj
+T*
+(killing your web servers. There are things out there who think nothing of making thousands or) Tj
+T*
+(tens of thousands of requests to your web server a day. Some of them are people running) Tj
+T*
+(crawlers and other undesired things, and some of them are syndication feed fetchers with very) Tj
+T*
+(fast polling intervals \(which is why the first ratelimits I implemented where syndication feed) Tj
+T*
+(rate limits \). Usually the level of excess requests is moderate. Large abuse doesn't happen) Tj
+T*
+(very often on typical sites like mine, but it does happen every so often. The...) Tj
+T*
+() Tj
+T*
+(12. Using ' pkg ' for everything on FreeBSD 15 has been nice) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-03T03:01:23Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDPkgManagementNice) Tj
+T*
+(Traditionally, the FreeBSD base system was managed through freebsd-update \( also \), which I) Tj
+T*
+(would call primarily a patch-based system, while third party software was \(usually\) managed) Tj
+T*
+(through pkg , a package manager. This was a quite traditional split, but it had some less than) Tj
+T*
+(ideal aspects, and as of FreeBSD 15 you can choose to manage FreeBSD through pkg using what is) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4579 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(called freebsd-base \(which is also known as 'pkgbase'\). If you're installing FreeBSD 15 from) Tj
+T*
+(scratch, the installer will let you choose \(and I believe it recommends the pkg based) Tj
+T*
+(approach\). If you upgrade from FreeBSD 14 to FreeBSD 15, there's a post-upgrade conversion) Tj
+T*
+(process using pkgbasify \( also , also \). \(Technically you can use pkgbasify on FreeBSD 14, but) Tj
+T*
+(pkgbase is officially experimental on FreeBSD 14.\) At this point I've been running a pkg based) Tj
+T*
+(FreeBSD 15 system from more or less when FreeBSD 15 was released, first on a machine that I) Tj
+T*
+(upgraded from 14 to 15 and then used pkgbasify on, and then on a second machine that I) Tj
+T*
+(installed FreeBSD 15 on from scratch \(partly because I wanted to move my test machine to less) Tj
+T*
+(valuable hardware \). In both cases, things have been fine. Over time the system has gone fro...) Tj
+T*
+() Tj
+T*
+(13. On the Bourne shell's distinction between shell variables and exported ones) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-28T03:45:20Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellExportGoodAndBad) Tj
+T*
+(One of the famous things that people run into with the Bourne shell is that it draws a) Tj
+T*
+(distinction between plain shell variables and special exported shell variables , which are put) Tj
+T*
+(into the environment of processes started by the shell. This distinction is a source of) Tj
+T*
+(frustration when you set a variable, run a program, and the program doesn't have the variable) Tj
+T*
+(available to it: $ GODEBUG=... $ go-program [doesn't see your $GODEBUG setting] It's also a) Tj
+T*
+(source of mysterious failures, because more or less all of the environment variables that are) Tj
+T*
+(present automatically become exported shell variables. So whether or not ' GODEBUG=..; echo) Tj
+T*
+(running program; go-program ' works can depend on whether $GODEBUG was already set when your) Tj
+T*
+(shell started. The environment variables of regular shell sessions are usually fairly) Tj
+T*
+(predictable, but the environment variables present when shell scripts get run can be much more) Tj
+T*
+(varied. This makes it easy to write a shell script that only works right for you, because in) Tj
+T*
+(your environment it runs with certain environment variables set and so they automatically) Tj
+T*
+(become exported shell variables. I've told you all of that because despite these pains, I) Tj
+T*
+(believe th...) Tj
+T*
+() Tj
+T*
+(14. Roman moon, Greek moon) Tj
+T*
+(Source: John D. Cook | Published: Fri, 03 Apr 2026 16:31:54 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/03/roman-moon-greek-moon/) Tj
+T*
+(I used the term perilune in yesterday?s post about the flight path of Artemis II. When Artemis) Tj
+T*
+(is closest to the moon it will be furthest from earth because its closest approach to the moon,) Tj
+T*
+(its perilune, is on the side of the moon opposite earth. Perilune is sometimes called) Tj
+T*
+(periselene. The two terms come from [?] The post Roman moon, Greek moon first appeared on John) Tj
+T*
+(D. Cook .) Tj
+T*
+() Tj
+T*
+(15. Hyperbolic version of Napier?s mnemonic) Tj
+T*
+(Source: John D. Cook | Published: Fri, 03 Apr 2026 01:38:49 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/) Tj
+T*
+(I was looking through an old geometry book [1] and saw a hyperbolic analog of Napier?s mnemonic) Tj
+T*
+(for spherical trigonometry. In hindsight of course there?s a hyperbolic analog: there?s a) Tj
+T*
+(hyperbolic analog of everything. But I was surprised because I?d never thought of this before.) Tj
+T*
+(I suppose the spherical version is famous because of its [?] The post Hyperbolic version of) Tj
+T*
+(Napier?s mnemonic first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(16. Loading... [13 kB]) Tj
+T*
+(Source: Maurycy's Blog | Published: Fri, 03 Apr 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/misc/13kb/) Tj
+T*
+(While testing my gopher client, I noticed something interesting: All downloads froze at 13) Tj
+T*
+(kilobytes. Sometimes this was barely noticeable, other times it would stall for a good second) Tj
+T*
+(or so. Networks operate on small chunks of data called packets . This allows resources to be) Tj
+T*
+(shared between computers: Instead of waiting for someone else's download to finish before) Tj
+T*
+(loading a website, your web traffic can be sent in between the other user's packets. There's) Tj
+T*
+(still some waiting involved, but it's on the order of milliseconds instead of hours. ... but it) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4559 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(does create a problem if you're the one doing a big download. Because each packet is routed) Tj
+T*
+(independently, they frequently arrive out-of-order or get lost in transit: Any large file would) Tj
+T*
+(be hopelessly corrupted. Transmission Control Protocol : The obvious way to solve the first) Tj
+T*
+(problem is to number each packet. Even if they arrive in the wrong order, the file can be put) Tj
+T*
+(back together correctly. /* HTML tags, keywords, commands */ h-n {color: #F27;} /* Values */) Tj
+T*
+(h-v {color: #B8F;} /* CSS selectors, attribute/varable names, file names */ h-s {color: #AEE;}) Tj
+T*
+(/* Comments */ h-c {color: #777;} h-e {color: #F6F;} For example, the string "He...) Tj
+T*
+() Tj
+T*
+(17. Book Review: Superintelligence - Paths, Dangers, Strategies by Nick Bostrom ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 03 Apr 2026 11:34:34 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/book-review-superintelligence-paths-dangers-strategies-b) Tj
+T*
+(y-nick-bostrom/) Tj
+T*
+(When I finally invent time-travel, the first thing I'll do is go back in time and give everyone) Tj
+T*
+(a copy of this book. Published in 2014, it clearly sets out the likely problems with true) Tj
+T*
+(Artificial Intelligence \(not the LLM crap we have now\) and what measures need to be put in) Tj
+T*
+(place before it is created. It opens with The Unfinished Fable of the Sparrows: Which, frankly,) Tj
+T*
+(should be the end of ?) Tj
+T*
+() Tj
+T*
+(18. Package Manager Easter Eggs) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-04-03T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html) Tj
+T*
+(It?s Easter, so here?s a tour of the easter eggs hiding inside package managers. The very first) Tj
+T*
+(known easter egg in software dates back to 1967-68 on the PDP-6/PDP-10, where typing make love) Tj
+T*
+(at the TOPS-10 operating system?s COMPIL program would pause and respond ?not war?? before) Tj
+T*
+(creating the file. apt and friends A cow-shaped thread runs through the history of system) Tj
+T*
+(package managers, starting with apt-get moo : $ apt-get moo \(__\) \(oo\) /------\\/ / | || *) Tj
+T*
+(/\\---/\\ ~~ ~~ ..."Have you mooed today?"... Running apt-get help reveals the line ?This APT has) Tj
+T*
+(Super Cow Powers.? The moo subcommand has been there for decades and doesn?t need root.) Tj
+T*
+(Aptitude?s response is more elaborate. It lies to you, then gradually caves under pressure: $) Tj
+T*
+(aptitude moo There are no Easter Eggs in this program. $ aptitude -v moo There really are no) Tj
+T*
+(Easter Eggs in this program. $ aptitude -vv moo Didn't I already tell you that there are no) Tj
+T*
+(Easter Eggs in this program? $ aptitude -vvv moo Stop it! $ aptitude -vvvv moo Okay, okay, if I) Tj
+T*
+(give you an Easter Egg, will you go away? $ aptitude -vvvvv moo All right, you win. /----\\) Tj
+T*
+(-------/ \\ / \\ / | -----------------/ --------\\ ----------------------------------------...) Tj
+T*
+() Tj
+T*
+(19. Premium: AI Isn't Too Big To Fail) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 03 Apr 2026 21:11:26 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-ai-isnt-too-big-to-fail/) Tj
+T*
+(Soundtrack ? Soundgarden ? Blow Up The Outside World A lot of people try to rationalize the AI) Tj
+T*
+(bubble by digging up the past. Billions of dollars of waste are justified by saying ?OpenAI) Tj
+T*
+(just like Uber? \(it isn?t\) and ?the data center buildout is) Tj
+T*
+() Tj
+T*
+(20. The "Passive Income" trap ate a generation of entrepreneurs) Tj
+T*
+(Source: Westenberg. | Published: Fri, 03 Apr 2026 06:25:28 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/) Tj
+T*
+(I had coffee last year with a guy - I won't use his real name - who told me he was "building a) Tj
+T*
+(business." I asked what it did. Dropshipping jade face rollers. I made him say it twice. Jade) Tj
+T*
+(face rollers. He'd found) Tj
+T*
+() Tj
+T*
+(21. Writing an LLM from scratch, part 32h -- Interventions: full fat float32) Tj
+T*
+(Source: Giles' blog | Published: Fri, 03 Apr 2026 23:50:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32) Tj
+T*
+(This is the last of the interventions I'm trying out to see if I can improve the test loss for) Tj
+T*
+(a from-scratch GPT-2 small base model, trained on code based on Sebastian Raschka 's book ") Tj
+T*
+(Build a Large Language Model \(from Scratch\) ". Back when I did my first training run for a base) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4518 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(model, on my local RTX 3090 , I used two optimisations: Setting the 32-bit floating point) Tj
+T*
+(matrix multiplication precision to "high" rather than to "highest" , which means that it uses) Tj
+T*
+(lower-precision \(but still technically 32-bit\) TF32 for those operations rather than normal) Tj
+T*
+(float32. Using PyTorch's Automated Mixed Precision \(AMP\) , which allows it to use 16-bit) Tj
+T*
+(calculations rather than 32-bit in places where it makes sense to do so. The first of those) Tj
+T*
+(boosted training speed from 12,599 tokens per second to 15,402 in my test harness, while AMP on) Tj
+T*
+(its own boosted it to 19,921 tps \(and also allowed me to increase the batch size from 5 to 6\).) Tj
+T*
+(Doing both appeared to hit some kind of diminishing returns -- it maxed out at 19,997 tps, only) Tj
+T*
+(a little better than AMP on its own. But intuitively, you'd expect that might come at a cost.) Tj
+T*
+(While I'm sure the PyTorch developers have solid understanding of where switch...) Tj
+T*
+() Tj
+T*
+(22. The Reckoning) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-04-03T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/04/03/the-reckoning.html) Tj
+T*
+(So go ask your Chomsky What these systems produce ? Sediment - Say Anything 10 years ago, when) Tj
+T*
+(I started comma and discovered the Professional Managerial Class, I used to talk about the) Tj
+T*
+(reckoning. It was a nebulous concept, but it mostly involved the abrupt fall from grace of) Tj
+T*
+(these people at the hands of machines. It?s kind of here, and people are way more of sore) Tj
+T*
+(winners than I thought they?d be. Something I liked about Trump part one is that, despite the) Tj
+T*
+(rhetoric, he never actually tried to lock up Hillary Clinton. It would frame GPT as a useful) Tj
+T*
+(tool, and a technological breakthrough?but still ?glorified autocomplete? at the end of the) Tj
+T*
+(day. Yet he does not do this. Instead, he speaks openly and airily about constructing) Tj
+T*
+(artificial superintelligence, and his extreme concerns about it wiping out humanity. The only) Tj
+T*
+(possible conclusion is that it?s designed to cause panic. ? Schizoposting - Alaric The) Tj
+T*
+(marketing for AI has been awful. It ratchets the fear up to 11, then expresses shock when most) Tj
+T*
+(Americans are concerned about AI . Here?s this machine. In the best case, it takes your job. In) Tj
+T*
+(the worst case, it wipes out humanity. Pay me $20 a month for a sliver of hope of not falling) Tj
+T*
+(b...) Tj
+T*
+() Tj
+T*
+(23. Em Dashes: Back In Style?) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-04-03T03:20:49Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor) Tj
+T*
+(Cloudflare?s new attempt to win over the hearts of developers could help keep a few ancient) Tj
+T*
+(WordPress sites from falling off the internet. That?s a good thing.) Tj
+T*
+() Tj
+T*
+(24. The Mystery of Rennes-le-Ch‚teau, Part 3: A Secret History) Tj
+T*
+(Source: The Digital Antiquarian | Published: Wed, 01 Apr 2026 07:05:28 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-3-a-secret-history/) Tj
+T*
+(This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3:) Tj
+T*
+(Blood of the Sacred, Blood of the Damned. Henry Lincoln promised at the end of ?The Priest, the) Tj
+T*
+(Painter, and the Devil? that he would continue to investigate the case of FranÁois-BÈrenger) Tj
+T*
+(SauniËre and Rennes-le-Ch‚teau. He proved as good as [?]) Tj
+T*
+() Tj
+T*
+(25. NLUUG Award) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 23 Sep 2023 10:13:15 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/nluug-award/) Tj
+T*
+(I won an award! Earlier this year I was lured to the NLUUG spring conference, and after my) Tj
+T*
+(presentation \(on machine learning from scratch\), the two large presentation rooms were joined) Tj
+T*
+(for some additional announcements. Turns out this was to give me an NLUUG Lifetime Achievement) Tj
+T*
+(Award! Previous awardees include Piet Beertema, Guido van Rossum, Wietse Venema, Bram) Tj
+T*
+(Moolenaar, Andy Tanenbaum, Wytze van der Raay, Teus Hagen, Michiel Leenaars, Olaf Kolkman and) Tj
+T*
+(these are all awesome people who made massive contributions to the world and the Internet.) Tj
+T*
+() Tj
+T*
+(26. Denken en voelen over wetgeving) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 16 Sep 2023 13:46:04 +0200) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 2040 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://berthub.eu/articles/posts/denken-en-voelen/) Tj
+T*
+(Tussen de enorme blogposts van 6000 woorden over het klimaat, hier wat luchtige observaties) Tj
+T*
+(over denken, voelen en wetgeving. Denken en voelen zijn twee wegen om tot beslissingen te) Tj
+T*
+(komen. Beide zijn waardevol. We hoeven maar te horen van een situatie en we hebben er al) Tj
+T*
+(gevoelens over, nog voor er veel feiten in beeld zijn. Foto © Avery Evans via Unsplash Een huis) Tj
+T*
+(uitkiezen is een goed voorbeeld ? je kunt verliefd worden op de tuin, of op het idee dat je je) Tj
+T*
+(leven voortaan zo zal inrichten dat je ook tijd in die tuin gaat steken.) Tj
+T*
+() Tj
+T*
+(27. De nieuwe AIVD/MIVD wet is controversieel) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 02 Sep 2023 14:47:17 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/controversiele-tapwet/) Tj
+T*
+(?Controversieelverklaard worden die wetsvoorstellen en onderwerpen waarvan redelijkerwijze) Tj
+T*
+(verwacht mag worden dat behandeling met een ander kabinet tot een andere uitkomst zal leiden.?) Tj
+T*
+(? website Eerste Kamer Al bijna drie jaar is er een spoedwet in de maak om de wetgeving voor de) Tj
+T*
+(Nederlandse Inlichtingen- en Veiligheidsdiensten ingrijpend te veranderen. Ik schreef hier) Tj
+T*
+(eerder uitgebreid over, en ik sprak er \(samen met vele anderen\) ook over in een rondetafel) Tj
+T*
+(gesprek in de Tweede Kamer \(video, spreektekst met voetnoten\).) Tj
+T*
+() Tj
+T*
+(28. Why Startups Condense in America) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/america.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(29. How to Be Silicon Valley) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/siliconvalley.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(30. The Hardest Lessons for Startups to Learn) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/startuplessons.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000161 00000 n 
+0000000231 00000 n 
+0000004546 00000 n 
+0000004672 00000 n 
+0000009475 00000 n 
+0000009601 00000 n 
+0000014506 00000 n 
+0000014632 00000 n 
+0000019264 00000 n 
+0000019392 00000 n 
+0000024004 00000 n 
+0000024132 00000 n 
+0000028703 00000 n 
+0000028831 00000 n 
+0000030924 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+31052
+%%EOF
