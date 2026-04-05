@@ -1,0 +1,674 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4179 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-05 09:37:51) Tj
+T*
+() Tj
+T*
+(1. research-llm-apis 2026-04-04) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-05T00:32:11+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything) Tj
+T*
+(Release: research-llm-apis 2026-04-04 I'm working on a major change to my LLM Python library) Tj
+T*
+(and CLI tool. LLM provides an abstraction layer over hundreds of different LLMs from dozens of) Tj
+T*
+(different vendors thanks to its plugin system, and some of those vendors have grown new) Tj
+T*
+(features over the past year which LLM's abstraction layer can't handle, such as server-side) Tj
+T*
+(tool execution. To help design that new abstraction layer I had Claude Code read through the) Tj
+T*
+(Python client libraries for Anthropic, OpenAI, Gemini and Mistral and use those to help craft) Tj
+T*
+(curl commands to access the raw JSON for both streaming and non-streaming modes across a range) Tj
+T*
+(of different scenarios. Both the scripts and the captured outputs now live in this new repo.) Tj
+T*
+(Tags: llm , apis , json , llms) Tj
+T*
+() Tj
+T*
+(2. Quoting Kyle Daigle) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-04T02:20:17+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything) Tj
+T*
+([GitHub] platform activity is surging. There were 1 billion commits in 2025. Now, it's 275) Tj
+T*
+(million per week, on pace for 14 billion this year if growth remains linear \(spoiler: it) Tj
+T*
+(won't.\) GitHub Actions has grown from 500M minutes/week in 2023 to 1B minutes/week in 2025, and) Tj
+T*
+(now 2.1B minutes so far this week. ? Kyle Daigle , COO, GitHub Tags: github , github-actions) Tj
+T*
+() Tj
+T*
+(3. Quoting Daniel Stenberg) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-03T21:46:07+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/3/daniel-stenberg/#atom-everything) Tj
+T*
+(The challenge with AI in open source security has transitioned from an AI slop tsunami into) Tj
+T*
+(more of a ... plain security report tsunami. Less slop but lots of reports. Many of them really) Tj
+T*
+(good. I'm spending hours per day on this now. It's intense. ? Daniel Stenberg , lead developer) Tj
+T*
+(of cURL Tags: daniel-stenberg , security , curl , generative-ai , ai , llms ,) Tj
+T*
+(ai-security-research) Tj
+T*
+() Tj
+T*
+(4. Material Security) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-05T01:00:00Z) Tj
+T*
+(Link: https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=emai) Tj
+T*
+(l&utm_campaign=20260330-daringfireball) Tj
+T*
+(My thanks to Material Security for sponsoring this week at DF. Most security teams don?t have a) Tj
+T*
+(talent problem, they have a noise problem. Manual phishing remediation, chasing risky OAuth) Tj
+T*
+(permissions, and auditing file shares shouldn?t be a full-time job. Material Security unifies) Tj
+T*
+(your cloud workspace, bringing detection and response for email, files, and accounts into one) Tj
+T*
+(place. It?s security that actually works: augmenting the native gaps in Google and Microsoft) Tj
+T*
+(without the usual enterprise bloat. Stop fighting fragmented consoles and start focusing on) Tj
+T*
+(strategy. It?s time to simplify your SecOps. See for yourself how Material scales . ?) Tj
+T*
+() Tj
+T*
+(5. Sponsorship Openings for Daring Fireball) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-05T00:59:00Z) Tj
+T*
+(Link: https://daringfireball.net/feeds/sponsors/) Tj
+T*
+(Sponsorships have been selling briskly, of late . Knock on wood. As of yesterday, the next) Tj
+T*
+(opening on the schedule wasn?t until the very end of July. However, due to some schedule) Tj
+T*
+(rejiggering, next week is now open. After next week, though, the next opening remains the week) Tj
+T*
+(starting July 27. If you?ve got a product or service you think would be of interest to DF?s) Tj
+T*
+(audience of people obsessed with high quality and good design, get in touch ? especially if you) Tj
+T*
+(can act quick for next week?s opening. I?m also booking sponsorships for Q3 and Q4 2026, and) Tj
+T*
+(over half of those weeks are already sold. ?) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4828 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(6. iOS 26 Feels Faster Than iOS 18) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-05T00:44:00Z) Tj
+T*
+(Link: https://daringfireball.net/linked/2026/04/03/ios-18-update-for-holdouts) Tj
+T*
+(One more follow-up point after I spent two days using an iPhone 16 Pro running iOS 18.7.7 as my) Tj
+T*
+(main phone. At some point late in the iOS 26 beta cycle last summer, it became obvious that) Tj
+T*
+(Apple had sped up a bunch of system-level animations. Prime example: the animation when you) Tj
+T*
+(swipe up from the bottom of the screen to go back to the Home Screen. People noticed . But it) Tj
+T*
+(hasn?t gotten a lot of attention since. But man, if you want to notice, do what I did and spend) Tj
+T*
+(two days back on iOS 18. So many little things feel slower. I don?t know if anything actually) Tj
+T*
+(is slower, but because the animations are slower, it looks slower, and that means it feels) Tj
+T*
+(slower. Apple should speed up some of these animations again this year. \(And/or offer a) Tj
+T*
+(system-wide setting to make them faster. I do not want to eliminate these animations. I just) Tj
+T*
+(want them to go very very fast.\) ?) Tj
+T*
+() Tj
+T*
+(7. Two little scripts: addup and sumup) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-05T01:21:41Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LittleScriptsIX) Tj
+T*
+(\(Once again it's been a while since the last little script .\) Every so often I find myself in a) Tj
+T*
+(situation where I have a bunch of lines with multiple columns and I want to either add up all) Tj
+T*
+(of the numbers in one column \(for example, to get total transfer volume from Apache log files\)) Tj
+T*
+(or add up all of the numbers in one column grouped by the value of a second column. This leads) Tj
+T*
+(to two scripts, which I call ' addup ' and ' sumup '. Addup is a simple awk script that adds up) Tj
+T*
+(all the values from some column: #!/bin/sh # add up column N awk '{sum += $\('$1'\) } END {print) Tj
+T*
+(sum}' \(Looking at this now, I should use printf and specify a format to avoid scientific) Tj
+T*
+(notation . A more sophisticated version would do things like allow you to set the column) Tj
+T*
+(separator character\(s\) rather than just using the awk default of whitespace, but so far I) Tj
+T*
+(haven't needed anything more.\) My version of sumup is more complicated than I've described,) Tj
+T*
+(partly it either counts up how many times each value happened for a particular field or it) Tj
+T*
+(computes a sum of another field for the particular field. This sounds abstract, so let me make) Tj
+T*
+(it more concrete. Suppose that you have a file of lines that look like: 300 thing1...) Tj
+T*
+() Tj
+T*
+(8. How to redirect a Bash process substitution into a while loop) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-27T03:40:20Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/BashWhileWithProcessSubstitution) Tj
+T*
+(In some sorts of shell scripts, you often find yourself wanting to work through a bunch of) Tj
+T*
+(input in the shell; some examples of this for me are here and here . One of the tools for this) Tj
+T*
+(is a ' while read -r ... ' loop, using the shell's builtin read to pull in one or more fields) Tj
+T*
+(of data \( hopefully not making a mistake \). Suppose, not hypothetically, that you have a) Tj
+T*
+(situation where you want to use such a ' while read ' loop to accumulate some information from) Tj
+T*
+(the input, setting shell variables, and then using them later. The innocent and non-working way) Tj
+T*
+(to write this is: accum="" sep="" some-program | while read -r avalue; do) Tj
+T*
+(accum="$accum$sep$avalue" sep=" or " done # Now we want to use $accum \(The recent script where) Tj
+T*
+(I ran into this issue does much more complex things in the while loop that can't easily be done) Tj
+T*
+(in other ways.\) This doesn't work because the 'while' is actually happening in a subshell, so) Tj
+T*
+(the shell variables it sets are lost at the end. To make this work we have to wrap everything) Tj
+T*
+(from the 'while ...' onward up into a subshell, with that part looking like: some-program | \() Tj
+T*
+(while read -r avalue; do accum="$accum$sep$avalue" sep=" or " done [...] \) \(You can't get ar...) Tj
+T*
+() Tj
+T*
+(9. With disk caches, you want to be able to attribute hits and misses) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-26T03:07:03Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/DiskCacheHitMissWantDetails) Tj
+T*
+(Suppose that you have a disk or filesystem cache in memory \(which you do, since pretty much) Tj
+T*
+(everything has one these days\). Most disk caches will give you simple hit and miss information) Tj
+T*
+(as part of their basic information, but if you're interested in the performance of your disk) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4672 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(cache \(or in improving it\), you want more information. The problem with disk caches is that) Tj
+T*
+(there are a lot of different sources and types of disk IO, and you can have hit rates that are) Tj
+T*
+(drastically different between them. Your hit rate for reading data from files may be modest,) Tj
+T*
+(while your hit rate on certain sorts of metadata may be extremely high . Knowing this is) Tj
+T*
+(important because it means that your current good performance on things involving that metadata) Tj
+T*
+(is critically dependent on that hit rate. \(Well, it may be, depending on what storage media) Tj
+T*
+(you're using and what its access speeds are like. A lot of my exposure to this dates from the) Tj
+T*
+(days of slow HDDs.\) This potential vast difference is why you want more detailed information in) Tj
+T*
+(both cache metrics and IO traces. The more narrowly you can attribute IO and the more you know) Tj
+T*
+(about it, the more useful things you can potentially tell about the performan...) Tj
+T*
+() Tj
+T*
+(10. Absurd In Production) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-04-04T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/4/4/absurd-in-production/) Tj
+T*
+(About five months ago I wrote about Absurd , a durable execution system we built for our own) Tj
+T*
+(use at Earendil, sitting entirely on top of Postgres and Postgres alone. The pitch was simple:) Tj
+T*
+(you don?t need a separate service , a compiler plugin , or an entire runtime to get durable) Tj
+T*
+(workflows. You need a SQL file and a thin SDK. Since then we?ve been running it in production,) Tj
+T*
+(and I figured it?s worth sharing what the experience has been like. The short version: the) Tj
+T*
+(design held up, the system has been a pleasure to work with, and other people seem to agree. A) Tj
+T*
+(Quick Refresher Absurd is a durable execution system that lives entirely inside Postgres. The) Tj
+T*
+(core is a single SQL file \( absurd.sql \) that defines stored procedures for task management,) Tj
+T*
+(checkpoint storage, event handling, and claim-based scheduling. On top of that sit thin SDKs) Tj
+T*
+(\(currently TypeScript , Python and an experimental Go one\) that make the system ergonomic in) Tj
+T*
+(your language of choice. The model is straightforward: you register tasks, decompose them into) Tj
+T*
+(steps, and each step acts as a checkpoint. If anything fails, the task retries from the last) Tj
+T*
+(completed step. Tasks can sleep, wait for external events, and suspend for da...) Tj
+T*
+() Tj
+T*
+(11. Kalman and Bayes average grades) Tj
+T*
+(Source: John D. Cook | Published: Sat, 04 Apr 2026 15:00:14 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/04/kalman-bayes/) Tj
+T*
+(This post will look at the problem of updating an average grade as a very simple special case) Tj
+T*
+(of Bayesian statistics and of Kalman filtering. Suppose you?re keeping up with your average) Tj
+T*
+(grade in a class, and you know your average after n tests, all weighted equally. m = \(x1 + x2 +) Tj
+T*
+(x3 + [?] The post Kalman and Bayes average grades first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Welcome to RSS Club!) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 04 Apr 2026 11:34:13 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/) Tj
+T*
+(What if I told you there was a secret social network, hidden in plain sight? If you're reading) Tj
+T*
+(this message, you're now a member of RSS Club! RSS Club is a series of posts which are only) Tj
+T*
+(visible to RSS / Atom subscribers. Like you ? If I've done everything right, this page isn't) Tj
+T*
+(visible on the web. It can't be found by a search engine. It doesn't share to Mastodon or) Tj
+T*
+(appear syndicated to Ac?) Tj
+T*
+() Tj
+T*
+(13. What does Open Source mean?) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-04-04T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/04/04/what-does-open-source-mean.html) Tj
+T*
+(Every few months someone declares that ?X will kill open source? or that ?open source is not) Tj
+T*
+(sustainable? or that ?open source won?, and every time the responses split into factions that) Tj
+T*
+(seem to be having completely different conversations. People have been pointing this out for at) Tj
+T*
+(least a decade. Replacement terms like ?post-open source? never stuck, because the problem) Tj
+T*
+(isn?t the label. The phrase ?open source? carries so many meanings that people routinely talk) Tj
+T*
+(past each other while using the exact same words, each person confident the other is being) Tj
+T*
+(obtuse when really they?re just working from a different definition. A licensing regime.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3612 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Software distributed under a license meeting the Open Source Definition : free redistribution,) Tj
+T*
+(source availability, derived works permitted. The OSI maintains this formal definition, and for) Tj
+T*
+(a certain kind of conversation it?s the only one that counts. A development methodology. The) Tj
+T*
+(Cathedral and the Bazaar thesis, ?given enough eyeballs, all bugs are shallow?, the idea that) Tj
+T*
+(developing in the open with public revision history and review produces better software. You) Tj
+T*
+(can have this without the licensing \(source-available projects with public repos...) Tj
+T*
+() Tj
+T*
+(14. Reading List 04/04/2026) Tj
+T*
+(Source: Construction Physics | Published: Sat, 04 Apr 2026 12:01:48 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-04042026) Tj
+T*
+(Aluminum disruptions, the EV rust belt, the ongoing transformer shortage, SpaceX?s IPO, and) Tj
+T*
+(more) Tj
+T*
+() Tj
+T*
+(15. The AI writing witchhunt is pointless.) Tj
+T*
+(Source: Westenberg. | Published: Sat, 04 Apr 2026 12:01:37 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/) Tj
+T*
+(Alexandre Dumas ran what was essentially a content production house in 19th century Paris. His) Tj
+T*
+(most famous collaborator was Auguste Maquet, who wrote substantial portions of The Three) Tj
+T*
+(Musketeers and The Count of Monte Cristo . Maquet would produce drafts and outlines, and Dumas) Tj
+T*
+(would rewrite and polish them, but the) Tj
+T*
+() Tj
+T*
+(16. See Randomness) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/randomness.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(17. Are Software Patents Evil?) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/softwarepatents.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(18. 6,631,372) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/6631327.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(19. Pluralistic: EU ready to cave to Trump on tech \(04 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 04 Apr 2026 07:49:19) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/04/digital-subjugation/) Tj
+T*
+(Today's links EU ready to cave to Trump on tech: Surrendermonkeys ahoy. Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: "Among a Thousand Fireflies"; "fiscal" not) Tj
+T*
+("physical"; Ontario's pusher premiere can't distribute vaccines; You need your head examined) Tj
+T*
+(\(if you trust an AI therapist\); Women tell Pence about their periods; Zombie economy and) Tj
+T*
+(digital arm-breakers; The trouble with tariffs. Upcoming appearances: Toronto, Montreal,) Tj
+T*
+(Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye, London. Recent appearances: Where I've) Tj
+T*
+(been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said,) Tj
+T*
+(I'll keep writin' 'em. Colophon: All the rest. EU ready to cave to Trump on tech \(permalink\)) Tj
+T*
+(Crises precipitate change. That's no reason to induce a crisis, but you'd be a fool to let a) Tj
+T*
+(crisis go to waste. Donald Trump is the greatest crisis of our young century, and the EU looks) Tj
+T*
+(set to squander the opportunity, to its own terrible detriment. For more than a decade, it's) Tj
+T*
+(been clear that the American internet was not fit for purpose. The whistleblowers Mark Klein) Tj
+T*
+(and Edward Snowden revealed that the US had weaponized its status as the world's transoceanic) Tj
+T*
+(fib...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4592 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(20. Wander Console 0.4.0) Tj
+T*
+(Source: Susam Pal | Published: Sat, 04 Apr 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/code/news/wander/0.4.0.html) Tj
+T*
+(Wander Console 0.4.0 is the fourth release of Wander, a small, decentralised, self-hosted web) Tj
+T*
+(console that lets visitors to your website explore interesting websites and pages recommended) Tj
+T*
+(by a community of independent website owners. To try it, go to susam.net/wander/ . A screenshot) Tj
+T*
+(of Wander Console 0.4.0 This release brings a few small additions as well as a few minor fixes.) Tj
+T*
+(You can find the previous release pages here: /code/news/wander/ . The sections below discuss) Tj
+T*
+(the current release. Contents Wildcard Patterns The 'via' Query Parameter Console Picker) Tj
+T*
+(Algorithm Allow Links that Open in New Tab Community Wildcard Patterns Wander Console now) Tj
+T*
+(supports wildcard patterns in ignore lists. An asterisk \( * \) anywhere in an ignore pattern) Tj
+T*
+(matches zero or more characters in URLs. For example, an ignore pattern like) Tj
+T*
+(https://*.midreadpopup.example/ can be used to ignore URLs such as this:) Tj
+T*
+(https://alice.midreadpopup.example/ https://bob.jones.midreadpopup.example/ These ignore) Tj
+T*
+(patterns are specified in a console's wander.js file. These are very important for providing a) Tj
+T*
+(good wandering experience to visitors. The owner of a console decides what links they want to) Tj
+T*
+(ignore in their ignore pat...) Tj
+T*
+() Tj
+T*
+(21. Value numbering) Tj
+T*
+(Source: Max Bernstein's Blog | Published: Sat, 04 Apr 2026 00:00:00 +0000) Tj
+T*
+(Link: https://bernsteinbear.com/blog/value-numbering/?utm_source=rss) Tj
+T*
+(Welcome back to compiler land. Today we?re going to talk about value numbering , which is like) Tj
+T*
+(SSA, but more. Static single assignment \(SSA\) gives names to values: every expression has a) Tj
+T*
+(name, and each name corresponds to exactly one expression. It transforms programs like this: x) Tj
+T*
+(= 0 x = x + 1 x = x + 1 where the variable x is assigned more than once in the program text,) Tj
+T*
+(into programs like this: v0 = 0 v1 = v0 + 1 v2 = v1 + 1 where each assignment to x has been) Tj
+T*
+(replaced with an assignment to a new fresh name. It?s great because it makes clear the) Tj
+T*
+(differences between the two x + 1 expressions. Though they textually look similar, they compute) Tj
+T*
+(different values. The first computes 1 and the second computes 2. In this example, it is not) Tj
+T*
+(possible to substitute in a variable and re-use the value of x + 1 , because the x s are) Tj
+T*
+(different. But what if we see two ?textually? identical instructions in SSA? That sounds much) Tj
+T*
+(more promising than non-SSA because the transformation into SSA form has removed \(much of\) the) Tj
+T*
+(statefulness of it all. When can we re-use the result? Identifying instructions that are known) Tj
+T*
+(at compile-time to always produce the same value at run-time is called value number...) Tj
+T*
+() Tj
+T*
+(22. Atmospheric absorption, spectra, units and code: companion page to the global warming) Tj
+T*
+(explanation post) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 29 Aug 2023 10:21:10 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/a-bit-on-absorption-and-spectra/) Tj
+T*
+(This is a companion page to my blog post on global warming \(which is currently not yet ready\).) Tj
+T*
+(I put up this post already as a teaser for my upcoming global warming post, which desperately) Tj
+T*
+(needs expert review before I dare put it online. If you are an experienced climate/atmospheric) Tj
+T*
+(scientist, would you please consider helping me out? Please email me on bert@hubertnet.nl if) Tj
+T*
+(you can spare the time to skim my work for gross errors.) Tj
+T*
+() Tj
+T*
+(23. On Climate Change and \(Active\) Climate Management) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 28 Jul 2023 10:21:10 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/on-climate-change-and-management/) Tj
+T*
+(Nothing on this page is factually controversial. However, many things in this post make for) Tj
+T*
+(uncomfortable reading. And, climate discourse is now so politicized that many factual) Tj
+T*
+(statements are taken as dog whistles. For example, in what follows I will state that climate) Tj
+T*
+(has always been changing, and has in fact never been stable for very long. This is 100% true,) Tj
+T*
+(but people interpret this as if the writer means that our current climate change is not caused) Tj
+T*
+(by human beings, or is nothing to worry about.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 694 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(24. On Being Useful) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 01 Jul 2023 09:03:58 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/on-being-useful/) Tj
+T*
+(I wrote this piece after an early-career friend of mine asked some very good questions on how) Tj
+T*
+(to be useful. Since this is a thing I struggle a bit with myself, I thought it worthwhile to) Tj
+T*
+(write up my thoughts. Note that I fully understand that not everyone has the luxury to think) Tj
+T*
+(about their career like this ? you first have to take care of yourself and family before you) Tj
+T*
+(can start fretting about if your working life is saving the world!) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004455 00000 n 
+0000004581 00000 n 
+0000009461 00000 n 
+0000009587 00000 n 
+0000014311 00000 n 
+0000014437 00000 n 
+0000018102 00000 n 
+0000018230 00000 n 
+0000022875 00000 n 
+0000023003 00000 n 
+0000023749 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+23877
+%%EOF
