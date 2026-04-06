@@ -1,0 +1,560 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4541 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-06 09:39:22) Tj
+T*
+() Tj
+T*
+(1. Eight years of wanting, three months of building with AI) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-05T23:54:18+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/5/building-with-ai/#atom-everything) Tj
+T*
+(Eight years of wanting, three months of building with AI Lalit Maganti provides one of my) Tj
+T*
+(favorite pieces of long-form writing on agentic engineering I've seen in ages. They spent eight) Tj
+T*
+(years thinking about and then three months building syntaqlite , which they describe as ") Tj
+T*
+(high-fidelity devtools that SQLite deserves ". The goal was to provide fast, robust and) Tj
+T*
+(comprehensive linting and verifying tools for SQLite, suitable for use in language servers and) Tj
+T*
+(other development tools - a parser, formatter, and verifier for SQLite queries. I've found) Tj
+T*
+(myself wanting this kind of thing in the past myself, hence my \(far less production-ready\)) Tj
+T*
+(sqlite-ast project from a few months ago. Lalit had been procrastinating on this project for) Tj
+T*
+(years, because of the inevitable tedium of needing to work through 400+ grammar rules to help) Tj
+T*
+(build a parser. That's exactly the kind of tedious work that coding agents excel at! Claude) Tj
+T*
+(Code helped get over that initial hump and build the first prototype: AI basically let me put) Tj
+T*
+(aside all my doubts on technical calls, my uncertainty of building the right thing and my) Tj
+T*
+(reluctance to get started by giving me very concrete problems to work on. Instead of ?I need) Tj
+T*
+(to...) Tj
+T*
+() Tj
+T*
+(2. Quoting Chengpeng Mou) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-05T21:47:06+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything) Tj
+T*
+(From anonymized U.S. ChatGPT data, we are seeing: ~2M weekly messages on health insurance ~600K) Tj
+T*
+(weekly messages [classified as healthcare] from people living in ?hospital deserts? \(30 min) Tj
+T*
+(drive to nearest hospital\) 7 out of 10 msgs happen outside clinic hours ? Chengpeng Mou , Head) Tj
+T*
+(of Business Finance, OpenAI Tags: ai-ethics , generative-ai , openai , chatgpt , ai , llms) Tj
+T*
+() Tj
+T*
+(3. Syntaqlite Playground) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-05T19:32:59+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything) Tj
+T*
+(Tool: Syntaqlite Playground Lalit Maganti's syntaqlite is currently being discussed on Hacker) Tj
+T*
+(News thanks to Eight years of wanting, three months of building with AI , a deep dive into how) Tj
+T*
+(it was built. This inspired me to revisit a research project I ran when Lalit first released it) Tj
+T*
+(a couple of weeks ago, where I tried it out and then compiled it to a WebAssembly wheel so it) Tj
+T*
+(could run in Pyodide in a browser \(the library itself uses C and Rust\). This new playground) Tj
+T*
+(loads up the Python library and provides a UI for trying out its different features: formating,) Tj
+T*
+(parsing into an AST, validating, and tokenizing SQLite SQL queries. Update : not sure how I) Tj
+T*
+(missed this but syntaqlite has its own WebAssembly playground linked to from the README. Tags:) Tj
+T*
+(sql , ai-assisted-programming , sqlite , tools , agentic-engineering) Tj
+T*
+() Tj
+T*
+(4. It's not that deep) Tj
+T*
+(Source: iDiallo.com | Published: Sun, 05 Apr 2026 08:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/its-not-that-deep?src=feed) Tj
+T*
+(I have these Sunday evenings where I find myself sitting alone at the kitchen table, thinking) Tj
+T*
+(about my life and how I got here . Usually, these sessions end with an inspiring idea that) Tj
+T*
+(makes me want to get up and build something. I remember the old days where I couldn't even) Tj
+T*
+(sleep because I had all these ideas bubbling in my head, and I could just get up and do it) Tj
+T*
+(because I had no familial responsibility. I still have that flare in me, but I also don't) Tj
+T*
+(always give in to those ideas. Instead, sometimes I chose to do something much simpler. I read.) Tj
+T*
+(Sometimes it's a book, sometimes it's a blog post. But always, it's something that stimulates) Tj
+T*
+(my mind more than any startup idea, or tech disruption. There is a blog I follow, I'm not even) Tj
+T*
+(sure how I stumbled upon it. I don't think it has a newsletter, and it's not in my RSS feed.) Tj
+T*
+(But, it's in my mind. It's as if I can just feel it when the author posts something new. Right) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4787 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(there on the kitchen table, I load it up, and I get a glimpse into someone else's life. I don't) Tj
+T*
+(know much about this person, but reading her writing is soothing. It's not commercialized, the) Tj
+T*
+(most I can say about it is, well it is human . When I read something that is w...) Tj
+T*
+() Tj
+T*
+(5. An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-05T16:01:59Z) Tj
+T*
+(Link: https://truthsocial.com/@realDonaldTrump/posts/116351998782539414) Tj
+T*
+(Donald Trump, sitting president of the United States, on his blog: Tuesday will be Power Plant) Tj
+T*
+(Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothing like it!!! Open the) Tj
+T*
+(Fuckin? Strait, you crazy bastards, or you?ll be living in Hell - JUST WATCH! Praise be to) Tj
+T*
+(Allah. President DONALD J. TRUMP The Iranian embassy in Japan , quoting Trump: This low level) Tj
+T*
+(of civility and intelligence shown by a leader of a country is regrettable; the shameful fervor) Tj
+T*
+(with which intentions to commit war crimes are repeated is staggering; and the fact that the) Tj
+T*
+(Divine is invoked regardless of ill intentions clearly exposes deep fanaticism. Apologies for) Tj
+T*
+(sharing this language. ?) Tj
+T*
+() Tj
+T*
+(6. Class Action Lawsuit Says Perplexity?s ?Incognito Mode? Is a ?Sham?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-05T00:32:57Z) Tj
+T*
+(Link:) Tj
+T*
+(https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/) Tj
+T*
+(Ashley Belanger, reporting for Ars Technica: Using developer tools, the lawsuit found that) Tj
+T*
+(opening prompts are always shared, as are any follow-up questions the search engine asks that a) Tj
+T*
+(user clicks on. Privacy concerns are seemingly worse for non-subscribed users, the complaint) Tj
+T*
+(alleged. Their initial prompts are shared with ?a URL through which the entire conversation may) Tj
+T*
+(be accessed by third parties like Meta and Google.? Disturbingly, the lawsuit alleged, chats) Tj
+T*
+(are also shared with personally identifiable information \(PII\), even when users who want to) Tj
+T*
+(stay anonymous opt to use Perplexity?s ?Incognito Mode.? That mode, the lawsuit charged, is a) Tj
+T*
+(?sham.? Everything about Perplexity looks like a scam . ?) Tj
+T*
+() Tj
+T*
+(7. ?No, We?re Not Stupid. Our Dads Just Got Us Crummy Computers.?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-02T18:12:11Z) Tj
+T*
+(Link: https://www.reddit.com/r/VintageApple/comments/bq4ucw/mcintosh_jr_vintage_apple_parody/) Tj
+T*
+(Back in March 1991, Saturday Night Live ran what I consider the best Apple parody ad ever made:) Tj
+T*
+(?McIntosh Jr.? Siracusa and I talked about it on The Talk Show this week, celebrating Apple?s) Tj
+T*
+(50th anniversary, so I looked it up for the show notes. Alas, this appallingly low-resolution) Tj
+T*
+(copy hosted on Reddit is seemingly the only free-to-watch copy of it available. \(If you can) Tj
+T*
+(find ? or make ? a better version, let me know .\) If you have a Peacock account, you can watch) Tj
+T*
+(it in much higher quality in their SNL archive: Season 16, Episode 16 , starting at 7:30, just) Tj
+T*
+(after host Jeremy Irons?s monologue. \(It rolls right into a good ?Deep Thoughts by Jack) Tj
+T*
+(Handey?.\) We just recorded tomorrow?s episode of Dithering , and Ben asked me my favorite Apple) Tj
+T*
+(commercial of all time. I was tempted to say this one, despite the fact that it isn?t real. The) Tj
+T*
+(best parodies are the ones that hew the closest to the truth of their subject, that exaggerate) Tj
+T*
+(the least. And the message of ?McIntosh Jr.? is, at its heart, the actual purpose of the) Tj
+T*
+(Macintosh, and of Apple writ large. Computers that enable you to do your best work. Bicycles) Tj
+T*
+(for the mind. And, yes, the power to crush the other kids. That?s what drew...) Tj
+T*
+() Tj
+T*
+(8. Systemd resource controls on user.slice and system.slice work fine) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-25T03:55:54Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdUserAndSystemSliceLimits) Tj
+T*
+(We have a number of systems where we traditionally set strict overcommit handling , and for) Tj
+T*
+(some time this has caused us some heartburn . Some years ago I speculated that we might want to) Tj
+T*
+(use resource controls on user.slice or systemd.slice if they worked , and then recently in a) Tj
+T*
+(comment here I speculated that this was the way to \(relatively\) safely limit memory use if it) Tj
+T*
+(worked. Well, it does \(as far as I can tell, without deep testing\). If you want to limit how) Tj
+T*
+(much of the system's memory people who log in can use so that system services don't explode,) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4816 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(you can set MemoryMin= on system.slice to guarantee some amount of memory to it and all things) Tj
+T*
+(under it. Alternately, you can set MemoryMax= on user.slice, collectively limiting all user) Tj
+T*
+(sessions to that amount of memory. In either case my view is that you might want to set) Tj
+T*
+(MemorySwapMax= on user.slice so that user sessions don't spend all of their time swapping.) Tj
+T*
+(Which one you set things on depends on which is easier and you trust more; my inclination is) Tj
+T*
+(MemoryMax, although that means you need to dynamically size it depending on this machine's) Tj
+T*
+(total memory. \(If you want to limit user memory use you'll need to make sure that things...) Tj
+T*
+() Tj
+T*
+(9. Gnome, GSettings, gconf, and which one you want) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-24T03:23:42Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/DconfVsGconfInGnome) Tj
+T*
+(On the Fediverse a while back, I said : Ah yes, GNOME, it is of course my mistake that I used) Tj
+T*
+(gconf-editor instead of dconf-editor. But at least now Gnome-Terminal no longer intercepts F11,) Tj
+T*
+(so I can possibly use g-t to enter F11 into serial consoles to get the attention of a BIOS. If) Tj
+T*
+(everything works in UEFI land. Gnome has had at least two settings systems, GSettings / dconf \() Tj
+T*
+(also \) and the older GConf . If you're using a modern Gnome program, especially a standard) Tj
+T*
+(Gnome program like gnome-terminal, it will use GSettings and you will want to use dconf-editor) Tj
+T*
+(to modify its settings outside of whatever Preferences dialogs it gives you \(or doesn't give) Tj
+T*
+(you\). You can also use the gsettings or dconf programs from the command line. \(This can include) Tj
+T*
+(Gnome-derived desktop environments like Cinnamon , which has updated to using GSettings .\) If) Tj
+T*
+(the program you're using hasn't been updated to the latest things that Gnome is doing, for) Tj
+T*
+(example Thunderbird \(at least as of 2024\), then it will still be using GConf . You need to edit) Tj
+T*
+(its settings using gconf-editor or gconftool-2 , or possibly you'll need to look at the GConf) Tj
+T*
+(version of general Gnome settings. I don't know if there's anything...) Tj
+T*
+() Tj
+T*
+(10. PDUs can fail \(eventually\) and some things related to this) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-22T23:24:38Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PDUsCanFailEventually) Tj
+T*
+(Early last Tuesday there was a widespread power outage at work , which took out power to our) Tj
+T*
+(machine rooms for about four hours. Most things came back up when the power was restored, but) Tj
+T*
+(not everything. One of the things that had happened was that one of our rack PDUs had failed.) Tj
+T*
+(Fixing this took a surprising amount of work. We don't normally think about our PDUs very much.) Tj
+T*
+(They sit there, acting as larger and often smarter versions of power bars, and just, well,) Tj
+T*
+(work. But both power bars and PDUs can fail eventually, and in our environment rack PDUs tend) Tj
+T*
+(to last long enough to reach that point. We may replace servers in the racks in our machine) Tj
+T*
+(rooms, but we don't pull out and replace entire racks all that often. The result is that a) Tj
+T*
+(rack's initial PDU is likely to stay in the rack until it fails. \(This isn't universal; there) Tj
+T*
+(are plenty of places that install and remove entire racks at a time. If you're turning over an) Tj
+T*
+(entire rack, you might replace the PDU at the same time you're replacing all of the rest of it.) Tj
+T*
+(Whole rack replacement is certainly going to keep your wiring neater.\) A rack PDU failing not a) Tj
+T*
+(great thing for the obvious reason; it's going to take out much or all of...) Tj
+T*
+() Tj
+T*
+(11. HIPAA compliant AI) Tj
+T*
+(Source: John D. Cook | Published: Sun, 05 Apr 2026 23:04:46 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/05/hipaa-compliant-ai/) Tj
+T*
+(The best way to run AI and remain HIPAA compliant is to run it locally on your own hardware,) Tj
+T*
+(instead of transferring protected health information \(PHI\) to a remote server by using a) Tj
+T*
+(cloud-hosted service like ChatGPT or Claude. [1]. There are HIPAA-compliant cloud options, but) Tj
+T*
+(they?re both restrictive and expensive. Even enterprise options are [?] The post HIPAA) Tj
+T*
+(compliant AI first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Someone at BrowserStack is Leaking Users' Email Address) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 05 Apr 2026 11:34:03 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/) Tj
+T*
+(Like all good nerds, I generate a unique email address for every service I sign up to. This has) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3547 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(several advantages - it allows me to see if a message is legitimately from a service, if a) Tj
+T*
+(service is hacked the hackers can't go credential stuffing, and I instantly know who leaked my) Tj
+T*
+(address. A few weeks ago I signed up for BrowserStack as I wanted to join their Open Source) Tj
+T*
+(programme. I had a few?) Tj
+T*
+() Tj
+T*
+(13. Why YC) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/whyyc.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(14. How to Do What You Love) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/love.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. Good and Bad Procrastination) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/procrastination.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. Welcome to the BAG: The Dutch Building and Addresses database) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 21 Jun 2023 10:20:43 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/dutch-postcode-and-building-database/) Tj
+T*
+(Recently, I wrote a small open source tool to make the official Dutch national address &) Tj
+T*
+(building database more accessible. More about the tool below, but first an introduction. Last) Tj
+T*
+(data update: 2026-03-09 If all you need is an up to date CSV file \(or sqlite database\) of all) Tj
+T*
+(Dutch addresses, their zipcodes and coordinates, scroll down to the end. If all you need is a) Tj
+T*
+(web service, try https://berthub.eu/pcode/2513AA/14. For more details \(including a live demo\),) Tj
+T*
+(do read on.) Tj
+T*
+() Tj
+T*
+(17. Waarheen met energie: wat is het plan?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 10 Jun 2023 10:37:59 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/waarheen-met-energie/) Tj
+T*
+("Best een goede samenvatting eigenlijk" ? een daadwerkelijke energie-expert Op 10 juni 2023 is) Tj
+T*
+(dit artikel uit 2022 ge-update met een extra stukje over waterstof en waar het niet voor) Tj
+T*
+(geschikt is, plus wat meer over kernenergie, en over minder energie verbruiken. Sinds een) Tj
+T*
+(tijdje maak ik grafiekjes van hoe Nederland aan z?n elektriciteit komt. En soms ben ik daar dan) Tj
+T*
+(enthousiast over, zeker als de wind waait en de zon goed schijnt.) Tj
+T*
+() Tj
+T*
+(18. The Dutch government wants to automatically and administratively gain permission to) Tj
+T*
+(target victims of hackers) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 07 Jun 2023 20:10:43 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/dutch-intel-law-about-intel/) Tj
+T*
+(This is a mirror of the original about:intel post, since the about:intel server is sadly) Tj
+T*
+(sometimes overloaded. Also do read the opposing view from Jan-Jaap Oerlemans and the reflection) Tj
+T*
+(by Lotte Houwing The Dutch government is proposing adding a lex specialis to its existing) Tj
+T*
+(intelligence and security services act. This addition significantly changes the scope of many) Tj
+T*
+(powers and also extends who they can be applied to. A draft of an English summary of this) Tj
+T*
+(proposed law can be found here.) Tj
+T*
+() Tj
+T*
+(19. Stamp It! All Programs Must Report Their Version) Tj
+T*
+(Source: Michael Stapelbergs Website | Published: 2026-04-05T16:20:00+02:00) Tj
+T*
+(Link:) Tj
+T*
+(https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/) Tj
+T*
+(Recently, during a production incident response, I guessed the root cause of an outage) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1265 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(correctly within less than an hour \(cool!\) and submitted a fix just to rule it out, only to) Tj
+T*
+(then spend many hours fumbling in the dark because we lacked visibility into version numbers) Tj
+T*
+(and rollouts? ? This experience made me think about software versioning again, or more) Tj
+T*
+(specifically about build info \(build versioning, version stamping, however you want to call it\)) Tj
+T*
+(and version reporting. I realized that for the i3 window manager, I had solved this problem) Tj
+T*
+(well over a decade ago, so it was really unexpected that the problem was decidedly not solved) Tj
+T*
+(at work. In this article, I?ll explain how 3 simple steps \(Stamp it! Plumb it! Report it!\) are) Tj
+T*
+(sufficient to save you hours of delays and stress during incident response. Why are our) Tj
+T*
+(versioning standards so low?! Every household appliance has incredibly detailed versioning!) Tj
+T*
+(Consider this dishwasher: \(Thank you Feuermurmel for sending me this lovely example!\) I) Tj
+T*
+(observed a couple household appliance repairs and am under the impression that if a repair) Tj
+T*
+(person cannot identify the appliance, they would most likely refuse to even touch it. So why) Tj
+T*
+(are our sta...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004810 00000 n 
+0000004936 00000 n 
+0000009775 00000 n 
+0000009901 00000 n 
+0000014769 00000 n 
+0000014895 00000 n 
+0000018495 00000 n 
+0000018623 00000 n 
+0000019941 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20069
+%%EOF
