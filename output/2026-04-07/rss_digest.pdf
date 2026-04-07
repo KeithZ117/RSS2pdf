@@ -1,0 +1,850 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 7 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4131 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-07 09:39:18) Tj
+T*
+() Tj
+T*
+(1. Germany Doxes ?UNKN,? Head of RU Ransomware Gangs REvil, GandCrab) Tj
+T*
+(Source: Krebs on Security | Published: Mon, 06 Apr 2026 02:07:17 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-) Tj
+T*
+(gandcrab/) Tj
+T*
+(An elusive hacker who went by the handle "UNKN" and ran the early Russian ransomware groups) Tj
+T*
+(GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian) Tj
+T*
+(Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts) Tj
+T*
+(of computer sabotage and extortion against victims across the country between 2019 and 2021.) Tj
+T*
+() Tj
+T*
+(2. Google AI Edge Gallery) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-06T05:18:26+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything) Tj
+T*
+(Google AI Edge Gallery Terrible name, really great app: this is Google's official app for) Tj
+T*
+(running their Gemma 4 models \(the E2B and E4B sizes, plus some members of the Gemma 3 family\)) Tj
+T*
+(directly on your iPhone. It works really well. The E2B model is a 2.54GB download and is both) Tj
+T*
+(fast and genuinely useful. The app also provides "ask questions about images" and audio) Tj
+T*
+(transcription \(up to 30s\) with the two small Gemma 4 models, and has an interesting "skills") Tj
+T*
+(demo which demonstrates tool calling against eight different interactive widgets, each) Tj
+T*
+(implemented as an HTML page \(though sadly the source code is not visible\): interactive-map,) Tj
+T*
+(kitchen-adventure, calculate-hash, text-spinner, mood-tracker, mnemonic-password,) Tj
+T*
+(query-wikipedia, and qr-code. \(That demo did freeze the app when I tried to add a follow-up) Tj
+T*
+(prompt though.\) This is the first time I've seen a local model vendor release an official app) Tj
+T*
+(for trying out their models on in iPhone. Sadly it's missing permanent logs - conversations) Tj
+T*
+(with this app are ephemeral. Via Hacker News Tags: google , iphone , ai , generative-ai ,) Tj
+T*
+(local-llms , llms , gemini , llm-tool-use) Tj
+T*
+() Tj
+T*
+(3. datasette-ports 0.2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-06T03:25:43+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything) Tj
+T*
+(Release: datasette-ports 0.2 No longer requires Datasette - running uvx datasette-ports now) Tj
+T*
+(works as well. Installing it as a Datasette plugin continues to provide the datasette ports) Tj
+T*
+(command. Tags: datasette) Tj
+T*
+() Tj
+T*
+(4. scan-for-secrets 0.3) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-06T02:59:28+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything) Tj
+T*
+(Release: scan-for-secrets 0.3 New -r/--redact option which shows the list of matches, asks for) Tj
+T*
+(confirmation and then replaces every match with REDACTED , taking escaping rules into account.) Tj
+T*
+(New Python function redact_file\(file_path: str | Path, secrets: list[str], replacement: str =) Tj
+T*
+("REDACTED"\) -> int . Tags: projects) Tj
+T*
+() Tj
+T*
+(5. [Sponsor] Zed, a Font Superfamily) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-06T19:15:05Z) Tj
+T*
+(Link: https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df) Tj
+T*
+(Zed is a type system that was developed with one question in mind: what do readers actually) Tj
+T*
+(need? Not what looks good in a type specimen, but what works for the widest possible range of) Tj
+T*
+(readers. We tested Zed with visually impaired patients at a French ophthalmology hospital and) Tj
+T*
+(found that Zed Text outperformed Helvetica in terms of reading speed across all patient groups.) Tj
+T*
+(Designed from scratch to perform different functions, it comes in two optical versions ? Text) Tj
+T*
+(and Display ? with four variable axes and support for 547 languages, including endangered ones.) Tj
+T*
+(It is available directly from the designers. ?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4577 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(6. Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-06T19:04:54Z) Tj
+T*
+(Link: https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exp) Tj
+T*
+(osed-map-file/) Tj
+T*
+(Samual Axon, reporting last week for Ars Technica: Early this morning, Anthropic published) Tj
+T*
+(version 2.1.88 of Claude Code npm package ? but it was quickly discovered that package included) Tj
+T*
+(a source map file, which could be used to access the entirety of Claude Code?s source ? almost) Tj
+T*
+(2,000 TypeScript files and more than 512,000 lines of code. Security researcher Chaofan Shou) Tj
+T*
+(was the first to publicly point it out on X , with a link to an archive containing the files.) Tj
+T*
+(The codebase was then put in a public GitHub repository, and it has been forked tens of) Tj
+T*
+(thousands of times. Anthropic publicly acknowledged the mistake in a statement to VentureBeat) Tj
+T*
+(and other outlets, which reads: Earlier today, a Claude Code release included some internal) Tj
+T*
+(source code. No sensitive customer data or credentials were involved or exposed. This was a) Tj
+T*
+(release packaging issue caused by human error, not a security breach. We?re rolling out) Tj
+T*
+(measures to prevent this from happening again. Not exactly confidence inspiring, given how) Tj
+T*
+(incredibly sensitive much of the material users give Claude and Claude Code access to. To say) Tj
+T*
+(the least, it undermines the message that companies should trust their source code to Claud...) Tj
+T*
+() Tj
+T*
+(7. Little Finder Guy Stars in Nine New Videos on TikTok and YouTube) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-06T16:39:26Z) Tj
+T*
+(Link: https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/) Tj
+T*
+(Juli Clover, at MacRumors: Apple has shared nine Little Finder Guy videos this week, and on) Tj
+T*
+(TikTok, the thumbnails for the videos come together to make a Little Finder Guy mosaic on the) Tj
+T*
+(Apple TikTok page. I hope this doesn?t jinx the negotiations, but I?m working on getting Little) Tj
+T*
+(Finder Guy as my guest for The Talk Show Live From WWDC this June. ?) Tj
+T*
+() Tj
+T*
+(8. Learning to read C++ compiler errors: Illegal use of -> when there is no -> in sight) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 06 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260406-00/?p=112208) Tj
+T*
+(If the compiler is complaining about things you didn't write, find out who wrote them. The post) Tj
+T*
+(Learning to read C++ compiler errors: Illegal use of -> when there is no -> in sight appeared) Tj
+T*
+(first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. AI Did It in 12 Minutes. It Took Me 10 Hours to Fix It) Tj
+T*
+(Source: iDiallo.com | Published: Mon, 06 Apr 2026 13:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code?src=feed) Tj
+T*
+(I've been working on personal projects since the 2000s. One thing I've always been adamant) Tj
+T*
+(about is understanding the code I write. Even when Stack Overflow came along, I was that) Tj
+T*
+(annoying guy who told people not to copy and paste code into their repos. Instead, they should) Tj
+T*
+(read it and adapt it to their specific case. On personal projects, I've applied this to a) Tj
+T*
+(fault. Projects never get done because I'm reading and editing code to make it work exactly as) Tj
+T*
+(I want. I am by no means trying to convince you that my code is high quality. Every day, I) Tj
+T*
+(regret the design choices I made for this very blog. But at the very least, I like to) Tj
+T*
+(understand the code that powers my projects. So you can imagine how I struggle with the) Tj
+T*
+(reviewing part when AI writes a large chunk of our daily work. Large language models are just) Tj
+T*
+(so verbose, and often produce large blocks of code that don't even get used. I don't want to) Tj
+T*
+(attribute it to malice \(wasting your tokens\) when I know this is an emergent technology we are) Tj
+T*
+(all still adapting to. But it doesn't help that there is just so much code to review. What I) Tj
+T*
+(tell myself when I review an AI-generated PR is: if I don't have a mental model of how the) Tj
+T*
+(applicat...) Tj
+T*
+() Tj
+T*
+(10. All you need is Tofolli gates) Tj
+T*
+(Source: John D. Cook | Published: Tue, 07 Apr 2026 00:33:23 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/06/tofolli-gates/) Tj
+T*
+(Landauer?s principle gives a lower bound on the amount of energy it takes to erase one bit of) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4909 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(information: E ? log\(2\) kB T where kB is the Boltzmann constant and T is the ambient) Tj
+T*
+(temperature in Kelvin. The lower bound applies no matter how the bit is physically stored.) Tj
+T*
+(There is no theoretical lower [?] The post All you need is Tofolli gates first appeared on John) Tj
+T*
+(D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Finding out what your big RPMs are, in two different 'sizes') Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-06T02:51:09Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/RPMFindingSizes) Tj
+T*
+(Suppose, not hypothetically, that you have an old Fedora system with a lot of packages) Tj
+T*
+(installed and a 70 GByte root filesystem, which is now awkwardly small during system upgrades) Tj
+T*
+(and so on. You would like to find out which of your roughly 7,500 packages are contributing the) Tj
+T*
+(most to your space usage. \(The real solution is to move to a bigger pair of NVMe drives, but) Tj
+T*
+(that involves various yak shaving and you want to upgrade to Fedora 43 today .\) The simple) Tj
+T*
+(version of 'how big are your RPMs' is to ask rpm for the ordinary \(binary\) size of all of your) Tj
+T*
+(installed binary RPMs: rpm -qa --qf '%{SIZE:humaniec} %{N}-%{V}-%{R}.%{ARCH}\\n' | sort -hr This) Tj
+T*
+(will tell you interesting things, like how the Fedora 43 version of) Tj
+T*
+(wine-core-11.0-2.fc43.x86_64 is 1.3 GBytes all by itself. However, it's not necessarily the) Tj
+T*
+(full answer for what is using up your disk space, because a single \(source\) package can create) Tj
+T*
+(many binary packages \(often these mostly get installed together and it's hard to split them) Tj
+T*
+(apart in any useful way\). For instance, on my work machine with the 70 GByte root partition,) Tj
+T*
+(there are 263 'texlive' packages and 101 'perl' packages \(and 66 'qemu' packages\). Often a more) Tj
+T*
+(useful way...) Tj
+T*
+() Tj
+T*
+(12. The importance of limiting syndication feed requests in some way) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-22T01:28:35Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/FeedLimitingImportance) Tj
+T*
+(People sometimes wonder why I care so much about HTTP conditional GETs and rate limiting for) Tj
+T*
+(syndication feed fetchers. There are multiple reasons, including social reasons to establish) Tj
+T*
+(norms , but one obvious one is transfer volumes. To illustrate that, I'll look at the) Tj
+T*
+(statistics for yesterday for feed fetches of the main syndication feed for Wandering Thoughts .) Tj
+T*
+(Yesterday there were 7492 feed requests that got HTTP 200 responses, 9419 feed requests that) Tj
+T*
+(got HTTP 304 Not Modified responses, and 11941 requests that received HTTP 429 responses. The) Tj
+T*
+(HTTP 200 responses amounted to about 1.26 GBytes, with the average response size being 176) Tj
+T*
+(KBytes. This average response size is actually a composite; typical compressed syndication feed) Tj
+T*
+(responses are on the order of 160 KBytes, while uncompressed ones are on the order of 540) Tj
+T*
+(KBytes \(but there look to have been only 313 of them, which is fortunate; even still they're) Tj
+T*
+(12% of the transfer volume\). If feed readers didn't do any conditional GETs and I didn't have) Tj
+T*
+(any rate limiting \(and all of the requests that got HTTP 429s would still have been made\), the) Tj
+T*
+(additional feed requests would have amounted to about another 3.5 GBytes of responses...) Tj
+T*
+() Tj
+T*
+(13. Consider mentioning your little personal scripts to your co-workers) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-21T04:00:15Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts) Tj
+T*
+(I have a habit of writing little scripts at work for my own use \(perhaps like some number of my) Tj
+T*
+(readers\). They pile up like snowdrifts in my $HOME/adm, except they don't melt away when their) Tj
+T*
+(time is done but stick around even when they're years obsolete. Every so often I mention one of) Tj
+T*
+(them to my co-workers; sometimes my co-workers aren't interested, but sometimes they find the) Tj
+T*
+(script appealing and have me put it into our shared location for 'production' scripts and) Tj
+T*
+(programs. Sometimes, these production-ized scripts have turned out to be very useful. \(Not) Tj
+T*
+(infrequently, having my co-workers ask me to move something into 'production' causes me to) Tj
+T*
+(revise it to make it less of a weird hack. Occasionally this causes drastic changes that) Tj
+T*
+(significantly improve the script .\) When I say that I mentioned my scripts to my co-workers,) Tj
+T*
+(that makes it sound more intentional than it often is. A common pattern is that I'll use one of) Tj
+T*
+(my scripts to get some results that I share, and then my co-workers will ask how I did it and) Tj
+T*
+(I'll show them the command line, and then they'll ask things like "what is this ~cks/adm/) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4323 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(thing' and 'can you put that somewhere more accessible, it sounds handy'. I do somet...) Tj
+T*
+() Tj
+T*
+(14. [RSS Club] Banana for scale) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 06 Apr 2026 11:34:00 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/) Tj
+T*
+(This post is exclusive to RSS feed subscribers. Enjoy! I've had this idea stuck in my head for) Tj
+T*
+(a while, so I decided to make it. This is "Scan Slowly And See". The code is made by cloning) Tj
+T*
+(some of the banana's spots. Do let me know if the QR code works for you ? ?) Tj
+T*
+() Tj
+T*
+(15. The Cathedral and the Catacombs) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-04-06T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html) Tj
+T*
+(Eric Raymond?s The Cathedral and the Bazaar is almost thirty years old and people are still) Tj
+T*
+(finding new ways to extend the metaphor. Drew Breunig recently described a third mode, the) Tj
+T*
+(Winchester Mystery House , for the sprawling codebases that agentic AI produces: rooms that) Tj
+T*
+(lead nowhere, staircases into ceilings, a single builder with no plan. That piece got me) Tj
+T*
+(thinking, though it shares a blind spot with every other response to Raymond I?ve read. As the) Tj
+T*
+(P2P Foundation pointed out , historical cathedrals were communal projects that mobilized entire) Tj
+T*
+(communities through donations and voluntary labour, not top-down designs imposed by a single) Tj
+T*
+(architect, and the bazaar isn?t really a market when nothing is priced and there are no) Tj
+T*
+(merchants. But the responses all stay within the same frame: process, governance, and who) Tj
+T*
+(builds. I find it odd that in nearly three decades of cathedral-and-bazaar discourse, nobody) Tj
+T*
+(has written about the catacombs: the dependency graph underneath every project, the deep) Tj
+T*
+(network of transitive packages and shared libraries and unmaintained infrastructure that the) Tj
+T*
+(visible building rests on, regardless of whether a cathedral architect or a bazaar crowd built) Tj
+T*
+(it....) Tj
+T*
+() Tj
+T*
+(16. Pluralistic: Your boss wants to use surveillance data to cut your wages \(06 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 06 Apr 2026 09:04:57) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/06/empiricism-washing/) Tj
+T*
+(Today's links Your boss wants to use surveillance data to cut your wages: Tech rights are labor) Tj
+T*
+(rights \(again\). Hey look at this: Delights to delectate. Object permanence: Arthur C Clarke v) Tj
+T*
+(Buddhist monks \(x DST\); Bomb squad v life-size Mario power-ups; Panama Papers; Chinese) Tj
+T*
+(antitrust; Consumerism v New Jim Crow; Absurd English spelling; Save Netflix! David Cameron's) Tj
+T*
+(dad v Panama Papers; Trick photos with a giant coin; End-stage capitalism. Upcoming) Tj
+T*
+(appearances: Toronto, Montreal, Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye,) Tj
+T*
+(London. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Your) Tj
+T*
+(boss wants to use surveillance data to cut your wages \(permalink\) What industry calls) Tj
+T*
+("personalized pricing" is really surveillance pricing: using digital tools' flexibility to) Tj
+T*
+(change the price for each user, and using surveillance data to guess the worst price you'll) Tj
+T*
+(accept: https://pluralistic.net/2025/06/24/price-discrimination/ At root, surveillance pricing) Tj
+T*
+(allows companies to revalue both your savings and your labor. If you get charged $2 for) Tj
+T*
+(something I only pa...) Tj
+T*
+() Tj
+T*
+(17. The Hacker News tarpit) Tj
+T*
+(Source: Westenberg. | Published: Mon, 06 Apr 2026 23:36:11 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/the-hacker-news-tarpit/) Tj
+T*
+(This newsletter is free to read, and it?ll stay that way. But if you want more - extra posts) Tj
+T*
+(each month, no sponsored CTAs, access to the community, and a direct line to ask me things -) Tj
+T*
+(paid subscriptions are $2.50/month. A lot of people have) Tj
+T*
+() Tj
+T*
+(18. News: OpenAI CFO Doesn't Believe Company Ready For IPO, Unsure Revenue Will Support) Tj
+T*
+(Commitments) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4845 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Ed Zitron's Where's Your Ed At | Published: Mon, 06 Apr 2026 14:49:40 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/openai-cfo-news/) Tj
+T*
+(Executive Summary OpenAI CFO Sarah Friar has, per The Information, said that OpenAI is not) Tj
+T*
+(ready to go public in 2026, in part because of the "risks from its spending commitments" and) Tj
+T*
+(not being sure whether the company's revenue growth would support its spending commitments.) Tj
+T*
+(Friar) Tj
+T*
+() Tj
+T*
+(19. Prototyping with LLMs) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Mon, 06 Apr 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/prototyping-with-llm/) Tj
+T*
+(Did you know that Jesus gave advice about prototyping with an LLM? Here?s Luke 14:28-30:) Tj
+T*
+(Suppose one of you wants to build a tower. Won?t you first sit down and estimate the cost to) Tj
+T*
+(see if you have enough money to complete it? For if you lay the foundation and are not able to) Tj
+T*
+(finish it, everyone who sees it will ridicule you, saying, ?This person began to build and) Tj
+T*
+(wasn?t able to finish.? That pretty much sums me up when I try to vibe a prototype . Don?t get) Tj
+T*
+(me wrong, I?m a big advocate of prototyping . And LLMs make prototyping really easy and) Tj
+T*
+(interesting. And because it?s so easy, there?s a huge temptation to jump straight to) Tj
+T*
+(prototyping. But what I?ve been finding in my own behavior is that I?ll be mid-prototyping with) Tj
+T*
+(the LLM and asking myself, ?What am I even trying to do here?? And the thought I have is: ?I?d) Tj
+T*
+(be in a much more productive place right now if I?d put a tiny bit more thought upfront into) Tj
+T*
+(what I am actually trying to build.? Instead, I just jumped right in, chasing a fuzzy feeling) Tj
+T*
+(or idea only to end up in a place where I?m more confused about what I set out to do than when) Tj
+T*
+(I started. Don?t get me wrong, that?s fine. That?s part of prototyping. It?s inherent to t...) Tj
+T*
+() Tj
+T*
+(20. I Tried Vibing an RSS Reader and My Dreams Did Not Come True) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 05 Apr 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/) Tj
+T*
+(Simon Willison wrote about how he vibe coded his dream presentation app for macOS . I also took) Tj
+T*
+(a stab at vibe coding my dream app: an RSS reader. To clarify: Reeder is my dream RSS app and) Tj
+T*
+(it already exists, so I guess you could say my dreams have already come true? But I?ve kind of) Tj
+T*
+(always wanted to try an app where my RSS feed is just a list of unread articles and clicking) Tj
+T*
+(any one opens it in the format in which it was published \(e.g. the original website\). So I took) Tj
+T*
+(a stab at it. \(Note: the backend portion of this was already solved, as I simply connected to) Tj
+T*
+(my Feedbin account via the API .\) First I tried a macOS app because I never would?ve tried a) Tj
+T*
+(macOS app before. Xcode, Swift, a Developer Account? All completely outside my wheelhouse. But) Tj
+T*
+(AI helped be get past that hurdle of going from nothing to something . It was fun to browse) Tj
+T*
+(articles and see them in situ . A lot of folks have really great personal websites so it?s fun) Tj
+T*
+(to see their published articles in that format. This was pretty much pure vibes. I didn?t) Tj
+T*
+(really look at the code at all because I knew I wouldn?t understand any of it. I got it working) Tj
+T*
+(the first night I sat down and tried it. It was pretty crappy but it w...) Tj
+T*
+() Tj
+T*
+(21. I built a timer I can?t fail to set) Tj
+T*
+(Source: Daniel De Laney | Published: Tue, 02 Dec 2025 00:00:00 +0000) Tj
+T*
+(Link: https://danieldelaney.net/timer/) Tj
+T*
+(Have you ever gotten to the end of a long work day and realized you?re no closer to your goals?) Tj
+T*
+(I have. Sure, I was doing a lot of stuff. But I wasn?t pausing to ask whether I was doing the) Tj
+T*
+(right stuff. Or whether my approach was working. Or if I was spending the right amount of time) Tj
+T*
+(on it. My fingers were moving but I wasn?t really thinking. So I needed a reliable way to) Tj
+T*
+(interrupt my ?unproductive productivity? and actually think. The obvious solution was a timer.) Tj
+T*
+(Unfortunately, if you use timers a lot, you learn to dismiss them reflexively. And it?s really) Tj
+T*
+(easy to forget to set the next timer. A week later, I?d realize: ?Hey, that timer idea really) Tj
+T*
+(worked, I should get back to that.? And then I didn?t. So I built a new kind of timer. It does) Tj
+T*
+(2 unique things: It asks what I?ll focus on. It gradually blurs my screen if I don?t set a new) Tj
+T*
+(timer. When it asks ?What will you focus on?? I answer in a word or two, start the next timer,) Tj
+T*
+(and keep working. Having to name my intention keeps me fully aware of my trajectory. If I?m in) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4492 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(danger of drifting, it?s obvious. And if I avoid thinking for long enough, my screen starts) Tj
+T*
+(getting harder to see. If I?m making great progress on something tha...) Tj
+T*
+() Tj
+T*
+(22. Free software scares normal people) Tj
+T*
+(Source: Daniel De Laney | Published: Thu, 30 Oct 2025 00:00:00 +0000) Tj
+T*
+(Link: https://danieldelaney.net/normal/) Tj
+T*
+(I?m the person my friends and family come to for computer-related help. \(Maybe you, gentle) Tj
+T*
+(reader, can relate.\) This experience has taught me which computing tasks are frustrating for) Tj
+T*
+(normal people. Normal people often struggle with converting video. They will need to watch,) Tj
+T*
+(upload, or otherwise do stuff with a video, but the format will be weird. \(Weird, broadly) Tj
+T*
+(defined, is anything that won?t play in QuickTime or upload to Facebook.\) I would love to) Tj
+T*
+(recommend Handbrake to them, but the user interface is by and for power users. Opening it makes) Tj
+T*
+(normal people feel unpleasant feelings. This problem is rampant in free software. The FOSS) Tj
+T*
+(world is full of powerful tools that only have a ?power user? UI. As a result, people give up.) Tj
+T*
+(Or worse: they ask people like you and I to do it for them. I want to make the case to you that) Tj
+T*
+(you can \(and should\) solve this kind of problem in a single evening. Take the example of) Tj
+T*
+(Magicbrake , a simple front end I built. It hides the power and flexibility of Handbrake. It) Tj
+T*
+(does only the one thing most people need Handbrake for: taking a weird video file and making it) Tj
+T*
+(normal. \(Normal, for our purposes, means a small MP4 that works just about anywhere.\) T...) Tj
+T*
+() Tj
+T*
+(23. Objectivity is superstition) Tj
+T*
+(Source: Daniel De Laney | Published: Mon, 17 Mar 2025 00:00:00 +0000) Tj
+T*
+(Link: https://danieldelaney.net/objectivity/) Tj
+T*
+(An objective, external world is a non-falsifiable assumption. The prevailing theory is that our) Tj
+T*
+(subjective experiences correspond to an external reality. However, they may simply be) Tj
+T*
+(subjective through and through. That which we claim to be evidence of external reality is) Tj
+T*
+(actually subjective experience, which may or may not have an external and objective cause. Any) Tj
+T*
+(test devised to prove objectivity is evaluated within subjectivity and therefore does not) Tj
+T*
+(require objectivity to explain the result. Some object to this, claiming that the consistency) Tj
+T*
+(of experience is best explained by an external world. However, consistent experience does not) Tj
+T*
+(require any external mechanism, let alone the specific one we have assumed. Claiming that) Tj
+T*
+(belief in an external world is simpler is like claiming that belief in God is simpler; in truth) Tj
+T*
+(we are inventing something vast and complex without evidence and agreeing not to question it.) Tj
+T*
+(This is not science, it is a substitute for epistemic humility. Much as dreams appear) Tj
+T*
+(consistent while dreaming, that which we consider waking experience may not actually be as) Tj
+T*
+(consistent as we believe. However, questioning this is unproductive reasoning because it) Tj
+T*
+(undermin...) Tj
+T*
+() Tj
+T*
+(24. What next for the compute crunch?) Tj
+T*
+(Source: Martin Alderson | Published: Mon, 06 Apr 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/what-next-for-the-compute-crunch/?utm_source=rss&utm_med) Tj
+T*
+(ium=rss&utm_campaign=feed) Tj
+T*
+(AI compute demand is growing exponentially while supply constraints bite hard. The next 18-24) Tj
+T*
+(months are going to be defined by shortages, rationing and price discovery.) Tj
+T*
+() Tj
+T*
+(25. Reflectie rondetafelgesprek en technische briefing wet cyberoperaties) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 06 Apr 2023 13:07:36 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/reflectie-rondetafelgesprek-cyberwet/) Tj
+T*
+(Gisteren \(5 april\) was er een technische briefing van de AIVD en MIVD over de tijdelijke wet) Tj
+T*
+(cyberoperaties, gevolgd door een rondetafelgesprek met deskundigen. Vorige week was er een) Tj
+T*
+(technische briefing door de toezichthouders TIB en CTIVD. Mijn spreektekst met veel klikbare) Tj
+T*
+(voetnoten ter verduidelijking staat hier. Er was een goeie opkomst van geïnteresseerden en) Tj
+T*
+(Kamerleden, en er waren goede en goed geïnformeerde vragen. Verder schreven de media over de) Tj
+T*
+(bijeenkomsten: De Correspondent, NRC, Trouw, AD, GeenStijl) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 2072 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(26. KI: Umwälzung für die Wirtschaft garantiert) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 03 Apr 2023 14:25:07 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/ki-umwaelzung-fuer-die-wirtschaft-garantiert/) Tj
+T*
+(Vielen Dank an Lili Laguna für diese Übersetzung diesen niederländischen Blog-Beitrag. English) Tj
+T*
+(version. Jeder überschlägt sich mit Vorhersagen über KI. Sie wird uns von stupider Arbeit) Tj
+T*
+(befreien, sie wird unsere Bildung zerstören, wir alle werden nichts mehr lernen müssen, weil) Tj
+T*
+(die KI es für uns tun wird, Kriminelle werden uns mit ihr austricksen, Gauner werden mit ihr) Tj
+T*
+(unendliche Mengen an Desinformation erzeugen, und die KI wird entkommen und in der realen Welt) Tj
+T*
+(gefährlich werden.) Tj
+T*
+() Tj
+T*
+(27. AI: Guaranteed to disrupt our economies) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 01 Apr 2023 15:50:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/ai-is-guaranteed-to-disrupt-us/) Tj
+T*
+(This is a machine-aided translation of this Dutch post. Und jetzt auch auf Deutsch verfügbar!) Tj
+T*
+(Everyone is tumbling over themselves making predictions about AI. It?s going to free us from) Tj
+T*
+(menial work, it?s going to dismantle our education, we all won?t have to learn things anymore) Tj
+T*
+(because the AI will do it for us, criminals will trick us with it, crooks will create endless) Tj
+T*
+(amounts of disinformation with language models, and the AI will escape and become dangerous in) Tj
+T*
+(the real world.) Tj
+T*
+() Tj
+T*
+(28. Web 2.0) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/web20.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(29. How to Fund a Startup) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/startupfunding.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(30. The Venture Capital Squeeze) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/vcsqueeze.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000161 00000 n 
+0000000231 00000 n 
+0000004414 00000 n 
+0000004540 00000 n 
+0000009169 00000 n 
+0000009295 00000 n 
+0000014256 00000 n 
+0000014382 00000 n 
+0000018758 00000 n 
+0000018886 00000 n 
+0000023784 00000 n 
+0000023912 00000 n 
+0000028457 00000 n 
+0000028585 00000 n 
+0000030710 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+30838
+%%EOF
