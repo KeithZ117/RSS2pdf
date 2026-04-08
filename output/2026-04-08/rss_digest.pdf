@@ -1,0 +1,792 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 7 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4572 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-08 09:38:51) Tj
+T*
+() Tj
+T*
+(1. Russia Hacked Routers to Steal Microsoft Office Tokens) Tj
+T*
+(Source: Krebs on Security | Published: Tue, 07 Apr 2026 17:02:44 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/) Tj
+T*
+(Hackers linked to Russia's military intelligence units are using known flaws in older Internet) Tj
+T*
+(routers to mass harvest authentication tokens from Microsoft Office users, security experts) Tj
+T*
+(warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon) Tj
+T*
+(authentication tokens from users on more than 18,000 networks without deploying any malicious) Tj
+T*
+(software or code.) Tj
+T*
+() Tj
+T*
+(2. GLM-5.1: Towards Long-Horizon Tasks) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-07T21:25:14+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything) Tj
+T*
+(GLM-5.1: Towards Long-Horizon Tasks Chinese AI lab Z.ai's latest model is a giant 754B) Tj
+T*
+(parameter 1.51TB \(on Hugging Face \) MIT-licensed monster - the same size as their previous) Tj
+T*
+(GLM-5 release, and sharing the same paper . It's available via OpenRouter so I asked it to draw) Tj
+T*
+(me a pelican: llm install llm-openrouter llm -m openrouter/z-ai/glm-5.1 'Generate an SVG of a) Tj
+T*
+(pelican on a bicycle' And something new happened... unprompted, the model decided to give me an) Tj
+T*
+(HTML page that included both the SVG and a separate set of CSS animations! The SVG was) Tj
+T*
+(excellent, and might be my new favorite from an open weights model: But the animation broke it) Tj
+T*
+(: That's the pelican, floating up in the top left corner. I usually don't do follow-up prompts) Tj
+T*
+(for the pelican test, but in this case I made an exception: llm -c 'the animation is a bit) Tj
+T*
+(broken, the pelican ends up positioned off the screen at the top right' GLM 5.1 replied: The) Tj
+T*
+(issue is that CSS transform animations on SVG elements override the SVG transform attribute) Tj
+T*
+(used for positioning, causing the pelican to lose its placement and fly off to the top-right.) Tj
+T*
+(The fix is to separate positioning \(SVG attribute\) from animation \(inner group\) and use...) Tj
+T*
+() Tj
+T*
+(3. Anthropic's Project Glasswing - restricting Claude Mythos to security researchers -) Tj
+T*
+(sounds necessary to me) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-07T20:52:54+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything) Tj
+T*
+(Anthropic didn't release their latest model, Claude Mythos \( system card PDF \), today. They) Tj
+T*
+(have instead made it available to a very restricted set of preview partners under their newly) Tj
+T*
+(announced Project Glasswing . The model is a general purpose model, similar to Claude Opus 4.6,) Tj
+T*
+(but Anthropic claim that its cyber-security research abilities are strong enough that they need) Tj
+T*
+(to give the software industry as a whole time to prepare. Mythos Preview has already found) Tj
+T*
+(thousands of high-severity vulnerabilities, including some in every major operating system and) Tj
+T*
+(web browser . Given the rate of AI progress, it will not be long before such capabilities) Tj
+T*
+(proliferate, potentially beyond actors who are committed to deploying them safely. [...]) Tj
+T*
+(Project Glasswing partners will receive access to Claude Mythos Preview to find and fix) Tj
+T*
+(vulnerabilities or weaknesses in their foundational systems?systems that represent a very large) Tj
+T*
+(portion of the world?s shared cyberattack surface. We anticipate this work will focus on tasks) Tj
+T*
+(like local vulnerability detection, black box testing of binaries, securing endpoints, and) Tj
+T*
+(penetration testing of systems. There's a great deal more technical detail in Assessin...) Tj
+T*
+() Tj
+T*
+(4. SQLite WAL Mode Across Docker Containers Sharing a Volume) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-07T15:41:00+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/7/sqlite-wal-docker-containers/#atom-everything) Tj
+T*
+(Research: SQLite WAL Mode Across Docker Containers Sharing a Volume Inspired by this) Tj
+T*
+(conversation on Hacker News about whether two SQLite processes in separate Docker containers) Tj
+T*
+(that share the same volume might run into problems due to WAL shared memory. The answer is that) Tj
+T*
+(everything works fine - Docker containers on the same host and filesystem share the same shared) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 3919 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(memory in a way that allows WAL to collaborate as it should. Tags: docker , sqlite) Tj
+T*
+() Tj
+T*
+(5. The Building Block Economy) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Tue, 07 Apr 2026 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/writing/building-block-economy) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(6. Solar Eclipse From the Far Side of the Moon) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-07T22:23:27Z) Tj
+T*
+(Link: https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon) Tj
+T*
+(Kottke: This shot from Artemis II of the Moon eclipsing the Sun is one of the most breathtaking) Tj
+T*
+(astronomical photos I?ve ever seen. Holy shit . Follow NASA on Flickr for more. ?) Tj
+T*
+() Tj
+T*
+(7. Sam Altman, in a Video Released by OpenAI, Apparently Thinks AGI Is Going to Hit) Tj
+T*
+(Society Like a Once-a-Century Pandemic) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-07T22:23:07Z) Tj
+T*
+(Link: https://x.com/OpenAINewsroom/status/2041618671236469200?s=20) Tj
+T*
+(Not sure why they think this comparison is reassuring rather than terrifying. I also have to) Tj
+T*
+(say that Altman?s claims, today, that OpenAI employees were obsessed with COVID weeks ahead of) Tj
+T*
+(the rest of the world feels more than a little like Donald Trump?s repeated false claim that he) Tj
+T*
+(predicted, pre-9/11, that Osama bin Laden would attack the U.S. ?) Tj
+T*
+() Tj
+T*
+(8. ? OpenAI Announces $122 Billion Additional ?Committed Capital?, and Announces Their) Tj
+T*
+(?Superapp? Plan for the Future) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-07T22:07:08Z) Tj
+T*
+(Link: https://daringfireball.net/2026/04/openai_future) Tj
+T*
+(I don?t see the path from here to there, where *there* is a justification for a) Tj
+T*
+(trillion-dollar-ish valuation.) Tj
+T*
+() Tj
+T*
+(9. Were there any Windows 3.1 programs that were so incompatible with Windows 95 that) Tj
+T*
+(there was no point trying to patch them?) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 07 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260407-00/?p=112213) Tj
+T*
+(The permanently ineligible list. The post Were there any Windows 3.1 programs that were so) Tj
+T*
+(incompatible with Windows 95 that there was no point trying to patch them? appeared first on) Tj
+T*
+(The Old New Thing .) Tj
+T*
+() Tj
+T*
+(10. Users and session classes in Systemd v258 and later \(and a gotcha\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-08T00:15:24Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions) Tj
+T*
+(So I upgraded my home desktop from Fedora 42 to Fedora 43 and sound stopped working. Having) Tj
+T*
+(your audio stop working is practically a rite of passage for Linux people, so I've been through) Tj
+T*
+(the drill, but things rapidly turned weird when trying to restart sound daemons through) Tj
+T*
+('systemctl --user restart ...' failed with systemd errors about not being able to contact the) Tj
+T*
+(\(systemd\) user service manager. Let me skip ahead and show you the culprit:) Tj
+T*
+(systemd-logind[2524]: New session '1' of user 'cks' with class 'user-light' and type 'tty'.) Tj
+T*
+(Establishing your user service manager when you log in is one of the jobs of pam_systemd . One) Tj
+T*
+(of the things pam_systemd decides about your session is its class . In System v258 and later,) Tj
+T*
+(one of the possible classes is ' user-light ', for which systemd notes: Similar to user, but) Tj
+T*
+(sessions of this class will not pull in the user@.service\(5\) of the user, and thus possibly) Tj
+T*
+(have no service manager of the user running . \(Emphasis mine.\) This 'possibly' is understated.) Tj
+T*
+(What it means in practice is that a 'user-light' class session won't have a systemd user) Tj
+T*
+(service manager running unless something else started it for you, for example another session) Tj
+T*
+(that wasn...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4836 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(11. Wondering about the typical retry times for email today) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-07T03:23:20Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailRetryPeriodWondering) Tj
+T*
+(Over on the Fediverse, I had a question : To the sysadmin population of the Fediverse: do) Tj
+T*
+(people have any numbers on how long common mail senders will retry sending mail if your MX is) Tj
+T*
+(unreachable? Once upon a time people retried for many days, but my impression is that quite a) Tj
+T*
+(few places now stop trying and bounce the email after quite short intervals, like a day.) Tj
+T*
+(\(Boosts and practical experiences welcome, like "my MX was down for three days and I still got) Tj
+T*
+(all that email sent from GMail".\) The context for my sudden curiosity is that there's a) Tj
+T*
+(scheduled all-weekend, whole building power outage at the start of May for the building with) Tj
+T*
+(our machine room. It seems likely that basically all of our systems will be down for roughly) Tj
+T*
+(two and a half days, and longer if things go wrong, and this obviously includes our incoming) Tj
+T*
+(email gateway. As I mentioned, in the old days you could definitely expect mail systems to) Tj
+T*
+(retry for more than a long weekend and so we wouldn't really worry about it. But I'm not sure) Tj
+T*
+(about that in practice any more, hence my sudden curiosity. Based on replies to that post \(and) Tj
+T*
+(some additional research\), common Unix MTA software still seems reasonably okay on retry d...) Tj
+T*
+() Tj
+T*
+(12. Parsing hours and minutes into a useful time in basic Python) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-20T03:49:35Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/python/HoursMinutesToTime) Tj
+T*
+(Suppose, not hypothetically, that you have a program that optionally takes a time in the past) Tj
+T*
+(to, for example, report on things as of that time instead of as of right now. You would like to) Tj
+T*
+(allow people to specify this time as just 'HH:MM', with the meaning being that time today) Tj
+T*
+(\(letting people do 'program --at 08:30'\). This is convenient for people using your program but) Tj
+T*
+(irritatingly hard today with the Python standard library. \(In the following code examples, I) Tj
+T*
+(need a Unix timestamp and we're working in local time, so I wind up calling time.mktime\(\) .) Tj
+T*
+(We're working in local time because that's what is useful for us .\) As I discovered or noticed) Tj
+T*
+(a long time ago, the time module is a thin shim over the C library time functions and inherits) Tj
+T*
+(their behavior. One of these behaviors is that if you ask time.strptime\(\) to parse a time) Tj
+T*
+(format of '%H:%M', you get back a struct_time object that is in 1900: >>> import time >>>) Tj
+T*
+(time.strptime\("08:10", "%H:%M"\) time.struct_time\(tm_year=1900, tm_mon=1, tm_mday=1, tm_hour=8,) Tj
+T*
+(tm_min=10, tm_sec=0, tm_wday=0, tm_yday=1, tm_isdst=-1\) There are two solutions I can think of,) Tj
+T*
+(the straightforward brute force approach that uses only the time module and a...) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: Switzerland's Goldilocks fiber \(07 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 07 Apr 2026 07:20:37) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/07/swisscom/) Tj
+T*
+(Today's links Switzerland's Goldilocks fiber: Public provision is a layered question. Hey look) Tj
+T*
+(at this: Delights to delectate. Object permanence: EU appoints henhouse fox \(copyright\); Emacs) Tj
+T*
+(x Tron: Legacy; Spammer v dead man's AOL account; Scott Walker's pork fountain; "No toilets,) Tj
+T*
+(try Amazon"; Iceland falls \(x Panama Papers\); Rooms in Milanese sewers; China bans Panama) Tj
+T*
+(Papers; "Parent Hacks"; "The Nameless City"; Phishing the world's top breach expert. Upcoming) Tj
+T*
+(appearances: Toronto, Montreal, Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye,) Tj
+T*
+(London. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest.) Tj
+T*
+(Switzerland's Goldilocks fiber \(permalink\) If you live in Switzerland you can get a 25Gbit) Tj
+T*
+(fiber link to your home. That's 25Gbit symmetrical ? upload and download. On a dedicated) Tj
+T*
+(connection that's yours and yours alone. From multiple providers. And you can switch providers) Tj
+T*
+(with the click of a mouse. It's the ne plus ultra, magnifico, wunderschön:) Tj
+T*
+(https://www.init7.net/de/internet/fiber7/ In a fascinating blog post, Stefan Schüller unpacks) Tj
+T*
+(how this came to pas...) Tj
+T*
+() Tj
+T*
+(14. Did WordPress VIP leak my phone number?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 07 Apr 2026 11:34:43 +0000) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4064 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/) Tj
+T*
+(As discussed in my last blog post, the scumsuckers at Apollo.io have been giving out my) Tj
+T*
+(personal details. Not only did they have my email address, they also had a copy of one of my) Tj
+T*
+(phone numbers. I asked them where they got it from and they said: Your phone number came from) Tj
+T*
+(Parsely, Inc \(wpvip.com\) one of our customers who participates in our customer contributor) Tj
+T*
+(network by sharing their?) Tj
+T*
+() Tj
+T*
+(15. Who Built This?) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-04-07T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/04/07/who-built-this.html) Tj
+T*
+(Michael Stapelberg wrote last week about Go?s automatic VCS stamping: since Go 1.18, every) Tj
+T*
+(binary built from a git checkout embeds the commit hash, timestamp, and dirty flag, queryable) Tj
+T*
+(with go version -m or runtime/debug.ReadBuildInfo\(\) at runtime. His argument is that every) Tj
+T*
+(program should do this, so you can always answer ?what version is running in production??) Tj
+T*
+(without guessing. Go is unusual in doing this by default, and the rest of the package) Tj
+T*
+(management landscape varies wildly in how it handles this, if it handles it at all. Compiled) Tj
+T*
+(languages Rust?s Cargo has an open issue proposing that cargo package record the git commit) Tj
+T*
+(hash in published crates, but nothing has been accepted beyond a .cargo_vcs_info.json file in) Tj
+T*
+(the packaged crate, so the conventional approach is a build.rs script using crates like vergen) Tj
+T*
+(or shadow-rs to emit cargo:rustc-env directives that become compile-time environment variables) Tj
+T*
+(readable with env!\(\) . You get the SHA, branch, timestamp, and dirty flag, but you have to opt) Tj
+T*
+(in, wire it up, and expose it through a --version flag or similar, and there?s no way to) Tj
+T*
+(inspect an arbitrary Rust binary externally. SourceLink , now built into the .NET SDK, makes) Tj
+T*
+(....) Tj
+T*
+() Tj
+T*
+(16. Writing an LLM from scratch, part 32i -- Interventions: what is in the noise?) Tj
+T*
+(Source: Giles' blog | Published: Tue, 07 Apr 2026 21:00:00 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://www.gilesthomas.com/2026/04/llm-from-scratch-32i-interventions-what-is-in-the-noise) Tj
+T*
+(Towards the end of last year, I trained a 163M-parameter GPT-2-style model from scratch on my) Tj
+T*
+(local RTX 3090 , using code based on Sebastian Raschka 's book " Build a Large Language Model) Tj
+T*
+(\(from Scratch\) ". The result was a pretty decent little model, but it wasn't as good as the) Tj
+T*
+(original GPT-2-small, despite having more parameters \(because it wasn't using weight-tying\).) Tj
+T*
+(Specifically: on a particular test set, my model gave a loss of 3.944 -- quite a lot more than) Tj
+T*
+(the original GPT-2's 3.500 on the same dataset. I wanted to see whether I could train a model) Tj
+T*
+(on my own hardware \(or on something that didn't cost too much to rent in the cloud\) that got) Tj
+T*
+(closer to the original model's performance. So over the last few months, I've done a bunch of) Tj
+T*
+(further training runs, each one testing a specific intervention -- a stand-alone change that I) Tj
+T*
+(expected to change the loss, either for better or for worse. Specifically: I trained a baseline) Tj
+T*
+(model on an 8x A100 40 GiB per GPU machine on Lambda \(which was better than my original) Tj
+T*
+(locally-trained model, I believe due to the larger batch size that the larger machine made) Tj
+T*
+(possible\). I tried adding gradient clipping to see if that would help by limitin...) Tj
+T*
+() Tj
+T*
+(17. Ideas for Startups) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/ideas.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(18. What I Did this Summer) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/sfp.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(19. Inequality and Risk) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4243 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: http://www.paulgraham.com/inequality.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. Readership maths skills) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 07 Apr 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/readership-math-skills) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(21. Michael Nielsen ? How science actually progresses) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Tue, 07 Apr 2026 15:49:28 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/michael-nielsen) Tj
+T*
+(The true story of Einstein, Newton, and Darwin) Tj
+T*
+() Tj
+T*
+(22. Chat is a bad UI pattern for development tools) Tj
+T*
+(Source: Daniel De Laney | Published: Mon, 03 Feb 2025 00:00:00 +0000) Tj
+T*
+(Link: https://danieldelaney.net/chat/) Tj
+T*
+(Code forces humans to be precise. That?s good. Computers need precision. But it also forces) Tj
+T*
+(humans to think like machines. For decades we tried to fix this by making programming more) Tj
+T*
+(human-friendly. Higher-level languages. Visual interfaces. Each step helped, but we were still) Tj
+T*
+(translating human thoughts into computer instructions. AI was supposed to change everything.) Tj
+T*
+(Finally, plain English could be a programming language. No syntax. No rules. Just say what you) Tj
+T*
+(want. The first wave of AI coding tools squandered this opportunity. They make flashy demos but) Tj
+T*
+(produce garbage software. People call them ?great for prototyping,? which means ?don?t use this) Tj
+T*
+(for anything real.? Many blame the AI models, saying we just need them to get smarter. This is) Tj
+T*
+(wrong. Yes, better AI will make better guesses about what you mean. But when you?re building) Tj
+T*
+(serious software, you don?t want guesses. Not even smart ones. You want to know exactly what) Tj
+T*
+(you?re building. Current AI tools pretend writing software is like having a conversation. It?s) Tj
+T*
+(not. It?s like writing laws. You?re using English, but you?re defining terms, establishing) Tj
+T*
+(rules, and managing complex interactions between everything you?ve said. T...) Tj
+T*
+() Tj
+T*
+(23. Atomic Design in 1998) Tj
+T*
+(Source: Daniel De Laney | Published: Thu, 08 Feb 2018 00:00:00 +0000) Tj
+T*
+(Link: https://danieldelaney.net/atomic/) Tj
+T*
+(When you hear ?atomic design,? you probably think of Brad Frost. Interestingly, he was not the) Tj
+T*
+(first person to develop that method of delivering design as components, or even the) Tj
+T*
+(terminology. Brad published his atomic design article in 2013. While digging through the) Tj
+T*
+(archives at frog , I?ve learned that Mark Rolston developed and applied an atomic framework as) Tj
+T*
+(early as 1998. The description found on the Index page, now 20 years old, embodies every bit) Tj
+T*
+(the same spirit as the recent design systems movement: The Dell Design Center helps Dell) Tj
+T*
+(employees and creative vendors maintain a single, global online brand for Dell.com. By adhering) Tj
+T*
+(to the design methodology and object guidelines in the Dell Design Center, anyone can create) Tj
+T*
+(and implement new content without diluting the Dell global online brand. Part reference manual,) Tj
+T*
+(part cookbook, part toolbox, the Dell Design Center is an up-to-date, online repository of the) Tj
+T*
+(imagery and methodology needed for Dell.com construction. When I asked Brad, he said that he) Tj
+T*
+(wasn?t familiar with the earlier work done at frog. ?For what it?s worth,? he remarked,) Tj
+T*
+(?modular thinking in design is nothing new, and I acknowledge as much in my book.?) Tj
+T*
+() Tj
+T*
+(24. There is Definitely a Grid) Tj
+T*
+(Source: Daniel De Laney | Published: Fri, 10 Jun 2016 00:00:00 +0000) Tj
+T*
+(Link: https://danieldelaney.net/there-is-definitely-a-grid/) Tj
+T*
+(Grids are the best thing to ever happen to graphic design. They form a rational basis for) Tj
+T*
+(organizing information. They support the harmonious distribution of elements and visual weight.) Tj
+T*
+(We don?t design things with grids because it?s easy, or because everyone else is doing it. It?s) Tj
+T*
+(not a trend. We design with grids because they help the brain process information. The text of) Tj
+T*
+(this article is left-aligned, and there?s a reason for that. Left-aligned text gives the eye a) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4341 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(consistent line to return to. Instead of searching for the beginning of each new line, we can) Tj
+T*
+(use a kind of muscle memory to avoid wasted cognitive effort. This is a perfect way to) Tj
+T*
+(understand how great the grid is. Grids are like left-aligned text for your entire layout. They) Tj
+T*
+(allow a rational and consistent method of scanning the information. They establish hierarchy) Tj
+T*
+(and rhythm. They support good proportion. Grids are everything good and right with design.) Tj
+T*
+(There could, of course, be an alternative to the grid. Grids work because they support the) Tj
+T*
+(human brain. Intense study and effort could reveal other systems that support it equally well,) Tj
+T*
+(or even better. ?Perhaps I?ll run out and invent something better than the grid...) Tj
+T*
+() Tj
+T*
+(25. Weekly Update 498) Tj
+T*
+(Source: Troy Hunt | Published: Tue, 07 Apr 2026 01:53:05 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-498/) Tj
+T*
+(This week, more time than I'd have liked to spend went on talking about the trials of chasing) Tj
+T*
+(invoices. This is off the back of a customer \(who, for now, will remain unnamed\), who had) Tj
+T*
+(invoices stacking back more than 6 months overdue and despite payment terms of) Tj
+T*
+() Tj
+T*
+(26. AI: sowieso ontwrichtend) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 31 Mar 2023 10:50:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/ai-sowieso-ontwrichtend/) Tj
+T*
+(Update: This article is now also available in English. Und jetzt auch auf Deutsch! Iedereen) Tj
+T*
+(buitelt over zichzelf heen om voorspellingen te doen over AI. Het gaat ons bevrijden van dom) Tj
+T*
+(werk, het gaat ons onderwijs ontmantelen, we hoeven allemaal dingen niet meer te leren want de) Tj
+T*
+(AI gaat het voor ons doen, criminelen zullen ons er mee bedonderen, boeven gaan er eindeloze) Tj
+T*
+(hoeveelheden desinformatie mee maken, en de AI zal ontsnappen en in de echte wereld gevaarlijk) Tj
+T*
+(worden.) Tj
+T*
+() Tj
+T*
+(27. Hello Deep Learning: Further reading & worthwhile projects) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 30 Mar 2023 12:00:09 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/dl-and-now-what/) Tj
+T*
+(This page is part of the Hello Deep Learning series of blog posts. You are very welcome to) Tj
+T*
+(improve this page via GitHub! After having completed this series of blogposts \(well done!\) you) Tj
+T*
+(should have a good grounding in what deep learning is actually doing. However, this was of) Tj
+T*
+(course only a small 20k word introduction, so there is a lot left to learn. Unfortunately,) Tj
+T*
+(there is a lot of nonsense online.) Tj
+T*
+() Tj
+T*
+(28. Hello Deep Learning: Doing some actual OCR on handwritten characters) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 30 Mar 2023 12:00:08 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/dl-ocr-demo/) Tj
+T*
+(This page is part of the Hello Deep Learning series of blog posts. You are very welcome to) Tj
+T*
+(improve this page via GitHub! The previous chapters have often mentioned the chasm between) Tj
+T*
+(?deep learning models that work on my data? and ?it actually works in the real world?. It is) Tj
+T*
+(perhaps for this reason that almost all demos and YouTube tutorials you find online never do) Tj
+T*
+(any real world testing.) Tj
+T*
+() Tj
+T*
+(29. Actually, people love to work hard) Tj
+T*
+(Source: Anil Dash | Published: 2026-04-07T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/04/06/people-love-to-work-hard/) Tj
+T*
+(One of the most infuriating tropes that I see repeated in media is executives \(usually from) Tj
+T*
+(boring old companies\) insisting that their employees don?t want to work hard. Media outlets) Tj
+T*
+(dutifully repeat this pernicious lie, despite there being no evidence to back it up, and then) Tj
+T*
+(cultural commentators either credulously amplify it, or actively take part in advancing the) Tj
+T*
+(narrative as part of their agenda, even though they know it?s false. There is an apparently) Tj
+T*
+(infinite attention appetite for commentators who troll for attention by saying how ?kids these) Tj
+T*
+(days? don?t want to work hard. As has often been documented , the hoary chestnut of saying) Tj
+T*
+(?nobody wants to work anymore? dates back decades, if not centuries, and it?s never been true) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 540 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(in all those years of deletion. It is, firstly, a tactic that bosses use for negging workers in) Tj
+T*
+(a vain attempt to try to drive down wages \(and to successfully get media to blame people for) Tj
+T*
+(their own underemployment\), but it also serves as an effective demonstration of just how little) Tj
+T*
+(society understand about what actually motivates people . I?ve helped found six companies in my) Tj
+T*
+(life, and been involved in the start of a handful of other startups and nonp...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000161 00000 n 
+0000000231 00000 n 
+0000004855 00000 n 
+0000004981 00000 n 
+0000008952 00000 n 
+0000009078 00000 n 
+0000013966 00000 n 
+0000014092 00000 n 
+0000018209 00000 n 
+0000018337 00000 n 
+0000022633 00000 n 
+0000022761 00000 n 
+0000027155 00000 n 
+0000027283 00000 n 
+0000027875 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+28003
+%%EOF
