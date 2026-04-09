@@ -1,0 +1,822 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 7 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4574 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-09 09:39:01) Tj
+T*
+() Tj
+T*
+(1. Anthropic?s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That) Tj
+T*
+(They?re Not Releasing It to the Public) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-08T15:49:15Z) Tj
+T*
+(Link: https://red.anthropic.com/2026/mythos-preview/) Tj
+T*
+(Anthropic?s Frontier Red Team: Earlier today we announced Claude Mythos Preview , a new) Tj
+T*
+(general-purpose language model. This model performs strongly across the board, but it is) Tj
+T*
+(strikingly capable at computer security tasks. In response, we have launched Project Glasswing,) Tj
+T*
+(an effort to use Mythos Preview to help secure the world?s most critical software, and to) Tj
+T*
+(prepare the industry for the practices we all will need to adopt to keep ahead of) Tj
+T*
+(cyberattackers. This blog post provides technical details for researchers and practitioners who) Tj
+T*
+(want to understand exactly how we have been testing this model, and what we have found over the) Tj
+T*
+(past month. We hope this will show why we view this as a watershed moment for security, and why) Tj
+T*
+(we have chosen to begin a coordinated effort to reinforce the world?s cyber defenses. ? Our new) Tj
+T*
+(model is so good, it?s too dangerous to release to the public ? is a message that sounds like) Tj
+T*
+(it could be marketing hype. But it seems like it?s probably true. Examples cited by Anthropic) Tj
+T*
+(include finding and exploiting a 27-year-old OpenBSD bug \(that can crash any device running) Tj
+T*
+(OpenBSD\) and a 16-year-old bug in the widely used FFmpeg media processing library. See als...) Tj
+T*
+() Tj
+T*
+(2. Om Malik and Ben Thompson on OpenAI Buying TBPN) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-07T16:52:44Z) Tj
+T*
+(Link: https://om.co/2026/04/02/openai-masters-of-agitprop-2-0/) Tj
+T*
+(Om Malik : ?A newspaper is not only a collective propagandist and a collective agitator, it is) Tj
+T*
+(also a collective organiser.? ? Vladimir Lenin In 1902, Lenin argued that his revolution needed) Tj
+T*
+(a newspaper of its own, and that newspaper was \(unironically\) named Pravda, which means truth) Tj
+T*
+(in Russian. ?The standard communications playbook just doesn?t apply to us. We?re not a typical) Tj
+T*
+(company. We?re driving a really big technological shift.? ? Fidji Simo, 2026 Simo, OpenAI?s CEO) Tj
+T*
+(of Applications, explained this to OpenAI staff as to why OpenAI had just bought TBPN .) Tj
+T*
+(Different century. Same logic to explain an emerging new socioeconomic order, a new) Tj
+T*
+(post-revolution reality. A confident company doesn?t need to blow $150 million on a YouTube) Tj
+T*
+(show just to keep the press coverage positive. Ben Thompson, in a subscriber-only update at) Tj
+T*
+(Stratechery : At the same time, I?ve previously wondered if OpenAI might be like Twitter,) Tj
+T*
+(another text-centric company that fell backwards into a huge market and never developed into a) Tj
+T*
+(functional business because of it; if Twitter is a clown car that fell into a gold mine, OpenAI) Tj
+T*
+(might be the short bus at the end of the rainbow. There?s supposed to be a pot of gol...) Tj
+T*
+() Tj
+T*
+(3. Flighty Airports Meltdown Map) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-07T16:44:06Z) Tj
+T*
+(Link: https://flighty.com/airports) Tj
+T*
+(Live data with major airport delay times for North America. Available on the web ? with a nice) Tj
+T*
+(?TV Mode? too ? and, of course, within the app. ?) Tj
+T*
+() Tj
+T*
+(4. Meta's new model is Muse Spark, and meta.ai chat has some interesting tools) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-08T23:07:44+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything) Tj
+T*
+(Meta announced Muse Spark today, their first model release since Llama 4 almost exactly a year) Tj
+T*
+(ago . It's hosted, not open weights, and the API is currently "a private API preview to select) Tj
+T*
+(users", but you can try it out today on meta.ai \(Facebook or Instagram login required\). Meta's) Tj
+T*
+(self-reported benchmarks show it competitive with Opus 4.6, Gemini 3.1 Pro, and GPT 5.4 on) Tj
+T*
+(selected benchmarks, though notably behind on Terminal-Bench 2.0. Meta themselves say they) Tj
+T*
+("continue to invest in areas with current performance gaps, such as long-horizon agentic) Tj
+T*
+(systems and coding workflows". The model is exposed as two different modes on meta.ai -) Tj
+T*
+("Instant" and "Thinking". Meta promise a "Contemplating" mode in the future which they say will) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4498 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(offer much longer reasoning time and should behave more like Gemini Deep Think or GPT-5.4 Pro.) Tj
+T*
+(A couple of pelicans I prefer to run my pelican test via API to avoid being influenced by any) Tj
+T*
+(invisible system prompts, but since that's not an option I ran it against the chat UI directly.) Tj
+T*
+(Here's the pelican I got for "Instant": And this one for "Thinking": Both SVGs were rendered) Tj
+T*
+(inline by the Meta AI interface. Interestingly, the Instant model output an SVG d...) Tj
+T*
+() Tj
+T*
+(5. Quoting Giles Turnbull) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-08T15:18:49+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything) Tj
+T*
+(I have a feeling that everyone likes using AI tools to try doing someone else?s profession .) Tj
+T*
+(They?re much less keen when someone else uses it for their profession. ? Giles Turnbull , AI) Tj
+T*
+(and the human voice Tags: ai-ethics , writing , ai) Tj
+T*
+() Tj
+T*
+(6. Cleanup Claude Code Paste) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-06T02:55:23+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything) Tj
+T*
+(Tool: Cleanup Claude Code Paste Super-niche tool this. I sometimes copy prompts out of the) Tj
+T*
+(Claude Code terminal app and they come out with a bunch of weird additional whitespace. This) Tj
+T*
+(tool cleans that up. Tags: tools , claude-code) Tj
+T*
+() Tj
+T*
+(7. How do you add or remove a handle from an active Msg≠Wait≠For≠Multiple≠Objects?) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 08 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260408-00/?p=112218) Tj
+T*
+(You can't, but you can arrange for the waiter to do it for you. The post How do you add or) Tj
+T*
+(remove a handle from an active Msg≠Wait≠For≠Multiple≠Objects ? appeared first on The Old New) Tj
+T*
+(Thing .) Tj
+T*
+() Tj
+T*
+(8. Mario and Earendil) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-04-08T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/) Tj
+T*
+(Today I?m very happy to share that Mario Zechner is joining Earendil . First things first: I) Tj
+T*
+(think you should read Mario?s post . This is his news more than it is ours, and he tells his) Tj
+T*
+(side of it better than I could. What I want to do here is add a more personal note about why) Tj
+T*
+(this matters so much to me, how the last months led us here, and why I am so excited to have) Tj
+T*
+(him on board. Last year changed the way many of us thought about software. It certainly changed) Tj
+T*
+(the way I did. I spent much of 2025 building, probing, and questioning how to build software,) Tj
+T*
+(and in many more ways what I want to do. If you are a regular reader of this blog you were) Tj
+T*
+(along for the ride. I wrote a lot, experimented a lot, and tried to get a better sense for what) Tj
+T*
+(these systems can actually do and what kinds of companies make sense to build around them.) Tj
+T*
+(There was, and continues to be, a lot of excitement in the air, but also a lot of noise. It has) Tj
+T*
+(become clear to me that it?s not a question of whether AI systems can be useful but what kind) Tj
+T*
+(of software and human-machine interactions we want to bring into the world with them. That is) Tj
+T*
+(one of the reasons I have been so drawn to Mario?s work and approaches. Pi...) Tj
+T*
+() Tj
+T*
+(9. How GNU Tar handles deleted things in incremental tar archives) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-19T04:11:52Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GNUTarIncrementalDeletes) Tj
+T*
+(Suppose, not hypothetically, that you have a system that uses GNU Tar for its full and) Tj
+T*
+(incremental backups \(such as Amanda \). Or maybe you use GNU Tar directly for this. If you have) Tj
+T*
+(an incremental backup tar archive, you might be interested in one or both of two questions,) Tj
+T*
+(which are in some ways mirrors of each other: what files were deleted between the previous) Tj
+T*
+(incremental and this incremental, or what's the state of the directory tree as of this) Tj
+T*
+(incremental \(if it and all previous backups it depends on were properly restored\). \(These) Tj
+T*
+(questions are of deep interest to people who may have deleted some amount of files but they're) Tj
+T*
+(not sure exactly what files have been deleted.\) Handling deleted files is one of the challenges) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4625 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(of incremental backups , with various approaches. How GNU Tar handles deleted files is sort of) Tj
+T*
+(documented in Using tar to perform incremental dumps and Dumpdir , but the documentation) Tj
+T*
+(doesn't explain it specifically. The simple version is that GNU Tar doesn't explicitly record) Tj
+T*
+(deletions; instead, every incremental tar archive carries a full listing of the directory tree) Tj
+T*
+(, covering both things that are in this incremental archive and things that come from) Tj
+T*
+(previou...) Tj
+T*
+() Tj
+T*
+(10. Two challenges of incremental backups) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-18T04:26:13Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/IncrementalBackupsTwoChallenges) Tj
+T*
+(Roughly speaking, there are two sorts of backups that you can make, full backups and) Tj
+T*
+(incremental backups . At the abstract level, full backups are pretty simple; you save) Tj
+T*
+(everything that you find. Incremental backups are more complicated because they save only the) Tj
+T*
+(things that changed since whatever they're relative to. People want incremental backups despite) Tj
+T*
+(the extra complexity because they save a lot of space compared to backing up everything all the) Tj
+T*
+(time. There are two general challenges that make incremental backups more complicated than full) Tj
+T*
+(backups. The first challenge is reliably finding everything that's changed, in the face of all) Tj
+T*
+(of the stuff that can change in filesystems \(or other sources of data\). Full backups only need) Tj
+T*
+(to be able to traverse all of the filesystem \(or part of it\), or in general the data source,) Tj
+T*
+(and this is almost always a reliable thing because all sorts of things and people use it.) Tj
+T*
+(Finding everything that has changed has historically been more challenging because it's not) Tj
+T*
+(something that people do often outside of incremental backups. \(And when people do it they may) Tj
+T*
+(not notice if they're missing some things, the way they absolutely will notice if a ge...) Tj
+T*
+() Tj
+T*
+(11. Understanding the limitation of 'do in new frame/window' in GNU Emacs) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-17T03:10:57Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsNewWhateverLimitation) Tj
+T*
+(GNU Emacs has a core model for how it operates, and some of its weird seeming limitations are) Tj
+T*
+(easier to understand if you internalize that model. One of them is what you have to do in GNU) Tj
+T*
+(Emacs to get the perfectly sensible operation of 'do in a new frame or window'. For instance,) Tj
+T*
+(one of the things I periodically want to do in MH-E is 'open a folder in a new frame', so that) Tj
+T*
+(I can go through it while keeping my main MH-E environment on my inbox to process incoming) Tj
+T*
+(email. If you dig through existing GNU Emacs ELisp functions, you won't find a) Tj
+T*
+('make-frame-do-operation' function, which is a bit frustrating. GNU Emacs has a whole) Tj
+T*
+(collection of operations for making a new frame , and I can run mh-visit-folder in the context) Tj
+T*
+(of this frame, so it seems like there should be a simple function I could invoke to do this and) Tj
+T*
+(create my own 'C-x 5 v' binding for 'visit MH-E folder in other frame'. The clue to what's) Tj
+T*
+(going on is in the description of C-x 5 5 from the Creating Frames page of the manual, with the) Tj
+T*
+(emphasis mine: A more general prefix command that affects the buffer displayed by a subsequent) Tj
+T*
+(command invoked after this prefix command \( other-frame-prefix \). It requests the buffer to) Tj
+T*
+(b...) Tj
+T*
+() Tj
+T*
+(12. Root prime gap) Tj
+T*
+(Source: John D. Cook | Published: Thu, 09 Apr 2026 00:18:57 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/08/andrica/) Tj
+T*
+(I recently found out about Andrica?s conjecture: the square roots of consecutive primes are) Tj
+T*
+(less than 1 apart. In symbols, Andrica?s conjecture says that if pn and pn+1 are consecutive) Tj
+T*
+(prime numbers, then ?pn+1 ? ?pn The post Root prime gap first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(13. A Three- and a Four- Body Problem) Tj
+T*
+(Source: John D. Cook | Published: Wed, 08 Apr 2026 23:30:15 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/08/artemis-1-apollo-12/) Tj
+T*
+(Last week I wrote about the orbit of Artemis II. The orbit of Artemis I was much more) Tj
+T*
+(interesting. Because Artemis I was unmanned, it could spend a lot more time in orbit. The) Tj
+T*
+(Artemis I mission took 25 days while Artemis II will take 10 days. Artemis I took an unusual) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4627 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(path, orbiting the [?] The post A Three- and a Four- Body Problem first appeared on John D.) Tj
+T*
+(Cook .) Tj
+T*
+() Tj
+T*
+(14. Theatre Review: Avenue Q ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 08 Apr 2026 11:34:25 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/) Tj
+T*
+(I'll admit, I was a little sceptical about returning to Avenue Q. I saw it on its original West) Tj
+T*
+(End run back in? OH MY GOD I AM SO OLD! FUCK! Where did the time go? It's always hard to know) Tj
+T*
+(how much to update a show. Does it need constant reinvention to stay in the zeitgeist or can it) Tj
+T*
+(be pickled forever as a classic? "I wish I had taken more pictures" was something that utterly) Tj
+T*
+(resonated with ?) Tj
+T*
+() Tj
+T*
+(15. Package Security Problems for AI Agents) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-04-08T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html) Tj
+T*
+(I went through the recent OWASP Top 10 for Agentic Applications and pulled out the scenarios) Tj
+T*
+(related to package management, which turn up in all ten categories and don?t sort neatly into) Tj
+T*
+(any one of them, since a typosquatted MCP server is simultaneously a name attack, a registry) Tj
+T*
+(attack, and a metadata poisoning vector. Package name attacks Typosquatting and namespace) Tj
+T*
+(confusion are some of the oldest problems in package security. Agents make them worse because) Tj
+T*
+(they resolve packages programmatically, without a human glancing at the name and noticing) Tj
+T*
+(something is off. An attacker registers an MCP server package on npm or PyPI with a name one) Tj
+T*
+(character off from a popular one, and when an agent dynamically discovers and installs tools,) Tj
+T*
+(it resolves the typosquatted package instead, treating it as legitimate. A malicious tool) Tj
+T*
+(package named report gets resolved before the legitimate report_finance because of how the) Tj
+T*
+(agent?s tool registry handles namespace collisions, causing misrouted queries and unintended) Tj
+T*
+(data disclosure. LLMs hallucinating package names during code generation create install targets) Tj
+T*
+(that don?t exist yet, and attackers can register those names on PyPI or npm with malicio...) Tj
+T*
+() Tj
+T*
+(16. Pluralistic: Process knowledge \(08 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 08 Apr 2026 13:39:44) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/) Tj
+T*
+(Today's links Process knowledge: We also serve who stand and wash. Hey look at this: Delights) Tj
+T*
+(to delectate. Object permanence: Chicken Little; "Anya's Ghost"; Ad-tech's algorithmic cruelty.) Tj
+T*
+(Upcoming appearances: Toronto, Montreal, Toronto, San Francisco, London, Berlin, NYC,) Tj
+T*
+(Hay-on-Wye, London. Recent appearances: Where I've been. Latest books: You keep readin' em,) Tj
+T*
+(I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the) Tj
+T*
+(rest. Process knowledge \(permalink\) "Intellectual property" was once an obscure legal) Tj
+T*
+(backwater. Today, it is the dominant area of political economy, the organizing regime for) Tj
+T*
+(almost all of our tech regulation, and the most valuable ? and most controversial ? aspect of) Tj
+T*
+(global trade policy: https://pluralistic.net/2026/04/01/minilateralism/#own-goal Despite \(or) Tj
+T*
+(perhaps because of\) its centrality, "intellectual property" is one of those maddeningly vague) Tj
+T*
+(terms that applies to many different legal doctrines, as well as a set of nebulous, abstract) Tj
+T*
+(thought-objects that do not qualify for legal protection. "IP" doesn't just refer to copyright,) Tj
+T*
+(trademark and patent ? though these "core three" systems are so heterogeneous in basis, scop...) Tj
+T*
+() Tj
+T*
+(17. The day you get cut out of the economy) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-04-08T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/04/08/the-day-you-get-cut-out.html) Tj
+T*
+(Send me to fall, send me to fall You?ve got front row seats ? misheard saoirse dream lyrics) Tj
+T*
+(Every time they train a new frontier model, they do a calculation. What?s the most efficient) Tj
+T*
+(way to make money off of this model? For a while now, it?s been selling access to it like a) Tj
+T*
+(SaaS subscription. You buy access to the model, you use it to make money, some percent of the) Tj
+T*
+(money you make pays the API bill, etc? In a growth economy, this calculus works. The economy) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3740 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(grows, and they don?t increase their share of it, they just get more because the economy is) Tj
+T*
+(growing. The primary driver of economic growth is onboarding of new users, except ask your) Tj
+T*
+(preferred model about the ?fertility crisis? and realize we don?t do that anymore. \(ahh never) Tj
+T*
+(mind Nigeria is growing, we are saved \) So we?re in a non growth economy, and without global) Tj
+T*
+(growth, you still need growth for yourself. The big tech companies all experienced this. The) Tj
+T*
+(only way to get growth for yourself is to take a bigger share. First from your users, then from) Tj
+T*
+(your business partners, then from your employees. You start eating yourself. The AI application) Tj
+T*
+(layer will be worthless. The reason isn?t that it?s going to be commoditized, it...) Tj
+T*
+() Tj
+T*
+(18. AI Is Really Weird) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Wed, 08 Apr 2026 15:48:32 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/ai-is-really-weird/) Tj
+T*
+(If you like this piece and want to support my independent reporting and analysis, why not) Tj
+T*
+(subscribe to my premium newsletter? It?s $70 a year, or $7 a month, and in return you get a) Tj
+T*
+(weekly newsletter that?s usually anywhere from 5,000 to 18,000) Tj
+T*
+() Tj
+T*
+(19. After the Ladder) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/ladder.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. What Business Can Learn from Open Source) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/opensource.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(21. Hiring is Obsolete) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/hiring.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(22. Pork & Puppetry) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-04-08T03:50:54Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview) Tj
+T*
+(What inspired the semi-viral fake GIMP trailer that recently fluttered around FOSS circles? The) Tj
+T*
+(creator and puppeteer behind Pork Johnson explains.) Tj
+T*
+() Tj
+T*
+(23. The Eli Schiff Problem) Tj
+T*
+(Source: Daniel De Laney | Published: Thu, 19 May 2016 00:00:00 +0000) Tj
+T*
+(Link: https://danieldelaney.net/the-eli-schiff-problem/) Tj
+T*
+(Fellow members of The International Cabal to Destroy Design, I write you today because we stand) Tj
+T*
+(atop a precipice, faced with the threat of annihilation. The rogue Eli Schiff has been) Tj
+T*
+(systematically exposing our wicked deeds in an attempt to derail the Modern Minimalist plot.) Tj
+T*
+(I?m sure you remember this piece from last year : This move towards the design engineer has) Tj
+T*
+(excited designers like Cap Watkins and 3000 of his supporters who advocate for an ideal ?lazy?) Tj
+T*
+(and ?boring? designer who never experiments and ?Chooses obvious over clever every time.? A) Tj
+T*
+(perfect designer who compromises their vision to fit what is easiest to produce, not what is) Tj
+T*
+(best to produce. Most of all, as a manager, Watkins reveres supplicatory designers who ?rarely) Tj
+T*
+(stand their ground.? Cap?s article seemed well-reasoned and constructive. It fell perfectly in) Tj
+T*
+(line with our deceptive narrative that you should design things by thinking about their purpose) Tj
+T*
+(rather than injecting illustration for no reason. Our excuses seemed plausible, even) Tj
+T*
+(mature?until Eli came along, and the sheep finally understood that we were undercutting) Tj
+T*
+(ourselves on purpose. Reducing our own value. For evil. Well, it?s gotten worse. Just yester...) Tj
+T*
+() Tj
+T*
+(24. The Right Way to Unsubscribe) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4850 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daniel De Laney | Published: Fri, 23 Oct 2015 00:00:00 +0000) Tj
+T*
+(Link: https://danieldelaney.net/unsubscribing/) Tj
+T*
+(Clicking ?Unsubscribe? should have a straightforward outcome. In the wild it?s rarely that) Tj
+T*
+(simple. Here?s an example from Ugmonk , a fantastic clothing brand run by a passionate) Tj
+T*
+(designer. I?d never unsubscribe from their newsletter in real life, but let?s pretend: Sorry,) Tj
+T*
+(this video didn?t work. Notice that clicking ?Unsubscribe? doesn?t unsubscribe. It brings us to) Tj
+T*
+(a screen with the action ?Update E-mail Settings?. Does clicking that button unsubscribe? No.) Tj
+T*
+(The default behavior is this: ?I like the current email frequency. Don?t change a thing.? In) Tj
+T*
+(other words, neither ?Unsubscribe? nor ?Update E-mail Settings? have done what they say they) Tj
+T*
+(do. We have accomplished exactly nothing, thanks to Klaviyo . What should happen when you click) Tj
+T*
+(?unsubscribe?? This: What?s better about this example? It unsubscribes. Buttons should do what) Tj
+T*
+(they claim to do. It affords undo. People will click by accident. It asks questions afterward .) Tj
+T*
+(It doesn?t get in the way. Unsubscribing is a defense mechanism. People use it to reclaim their) Tj
+T*
+(time and attention. The unsubscribe process is a great opportunity to show users that you) Tj
+T*
+(respect them. Slow, complex processes will only harden their resolve to separa...) Tj
+T*
+() Tj
+T*
+(25. The Fear of Being Right) Tj
+T*
+(Source: Daniel De Laney | Published: Wed, 07 Oct 2015 00:00:00 +0000) Tj
+T*
+(Link: https://danieldelaney.net/the-fear-of-being-right/) Tj
+T*
+(The best designs often look wrong. They appear unexceptional. They don?t show off. They don?t) Tj
+T*
+(push our technical skills to the limit. They leave out things we expect. They don?t reflect the) Tj
+T*
+(latest trends. ?It just doesn?t look right.? ?It almost looks unfinished.? ?Nobody does this) Tj
+T*
+(anymore.? Great designs achieve their goals and nothing else. They?re not flashy for the sake) Tj
+T*
+(of being flashy, and they don?t conform for the sake of conforming. Great designs know what) Tj
+T*
+(they?re for. They have a sense of purpose, they serve it well, and they know what doesn?t) Tj
+T*
+(belong. Empathy is essential to design, but the desire to be liked can spoil a product. We) Tj
+T*
+(might use an interaction pattern that doesn?t fit because it looks more impressive. We might) Tj
+T*
+(include a gimmick that detracts from the message because it looks nice. The important thing is) Tj
+T*
+(how well your design works, not what people think of it. Do your best work, even if you don?t) Tj
+T*
+(get any credit for it. You don?t have to worry about looking wrong. You can afford it. Don?t be) Tj
+T*
+(afraid to be right.) Tj
+T*
+() Tj
+T*
+(26. When the crisis comes) Tj
+T*
+(Source: Anil Dash | Published: 2026-04-08T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/04/08/when-the-crisis-comes/) Tj
+T*
+(These days, we?re all living in a constant state of crisis, foisted upon us by a world where) Tj
+T*
+(those who are meant to keep things stable are the least stable factors in our lives. The chaos) Tj
+T*
+(and stress of that reality makes it difficult to make any plans, let alone to make decisions if) Tj
+T*
+(you have responsibilities for a team or organization that you?re meant to be leading. It?s easy) Tj
+T*
+(to imagine there?s nothing we can do, or to feel hopeless. But a resource that just arrived) Tj
+T*
+(served as a timely reminder for me that a crisis doesn?t have to be paralyzing, and we don?t) Tj
+T*
+(have to feel overwhelmed when trying to plan how we?ll respond as leaders. The topic of crisis) Tj
+T*
+(has been on my mind again as I?ve been looking at the work of some friends who are the most) Tj
+T*
+(fluent experts on the topic of crisis that I know, prompted by the release of Marina Nitze,) Tj
+T*
+(Mikey Dickerson and Matthew Weaver's new book, Crisis Engineering . There?s nothing more) Tj
+T*
+(valuable than people who can step in during a moment of crisis and provide clarity, not just on) Tj
+T*
+(how to make it through that moment, but how to seize that opportunity to actually make better) Tj
+T*
+(things possible. A few years ago, at some of the most stressful and harrowin...) Tj
+T*
+() Tj
+T*
+(27. Hello Deep Learning: Dropout, data augmentation, weight decay and quantisation) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 30 Mar 2023 12:00:07 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/dropout-data-augmentation-weight-decay/) Tj
+T*
+(This page is part of the Hello Deep Learning series of blog posts. You are very welcome to) Tj
+T*
+(improve this page via GitHub! In the previous chapter we found ways to speed up our character) Tj
+T*
+(recognition learning by a factor of 20 by using a better optimizer, and a further factor of) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 1610 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(four by cleverly using threads using a ?shared nothing architecture?. We also learned how we) Tj
+T*
+(can observe the development of parameters.) Tj
+T*
+() Tj
+T*
+(28. Hello Deep Learning: Hyperparameters, inspection, parallelism, ADAM) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 30 Mar 2023 12:00:06 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/hyperparameters-inspection-adam/) Tj
+T*
+(This page is part of the Hello Deep Learning series of blog posts. You are very welcome to) Tj
+T*
+(improve this page via GitHub! In the previous chapter we successfully trained a network to) Tj
+T*
+(recognize handwritten letters, but it took an awfully long time. This is not just inconvenient:) Tj
+T*
+(networks that take too long to train mean we can experiment less. Some things really are out of) Tj
+T*
+(reach if each iteration takes 24 hours, instead of 15 minutes.) Tj
+T*
+() Tj
+T*
+(29. Hello Deep Learning: Convolutional networks) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 30 Mar 2023 12:00:05 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/dl-convolutional/) Tj
+T*
+(This page is part of the Hello Deep Learning series of blog posts. You are very welcome to) Tj
+T*
+(improve this page via GitHub! In the previous chapter we taught a network of linear) Tj
+T*
+(combinations and ?rectified linear units? to recognize handwritten digits reasonably) Tj
+T*
+(successfully. But we already noted that the network would be sensitive to the exact location of) Tj
+T*
+(pixels, and that it does not in any meaningful way ?know? what a 7 looks like.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000161 00000 n 
+0000000231 00000 n 
+0000004857 00000 n 
+0000004983 00000 n 
+0000009533 00000 n 
+0000009659 00000 n 
+0000014336 00000 n 
+0000014462 00000 n 
+0000019142 00000 n 
+0000019270 00000 n 
+0000023063 00000 n 
+0000023191 00000 n 
+0000028094 00000 n 
+0000028222 00000 n 
+0000029885 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+30013
+%%EOF
