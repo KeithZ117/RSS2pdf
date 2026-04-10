@@ -1,0 +1,878 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 7 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4206 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-10 09:39:25) Tj
+T*
+() Tj
+T*
+(1. GitHub Repo Size) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-09T21:31:50+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything) Tj
+T*
+(Tool: GitHub Repo Size GitHub doesn't tell you the repo size in the UI, but it's available in) Tj
+T*
+(the CORS-friendly API . Paste a repo into this tool to see the size, for example for) Tj
+T*
+(simonw/datasette \(8.1MB\). Tags: cors , github) Tj
+T*
+() Tj
+T*
+(2. asgi-gzip 0.3) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-09T03:54:40+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/9/asgi-gzip/#atom-everything) Tj
+T*
+(Release: asgi-gzip 0.3 I ran into trouble deploying a new feature using SSE to a production) Tj
+T*
+(Datasette instance, and it turned out that instance was using datasette-gzip which uses) Tj
+T*
+(asgi-gzip which was incorrectly compressing event/text-stream responses. asgi-gzip was) Tj
+T*
+(extracted from Starlette, and has a GitHub Actions scheduled workflow to check Starlette for) Tj
+T*
+(updates that need to be ported to the library... but that action had stopped running and hence) Tj
+T*
+(had missed Starlette's own fix for this issue. I ran the workflow and integrated the new fix,) Tj
+T*
+(and now datasette-gzip and asgi-gzip both correctly handle text/event-stream in SSE responses.) Tj
+T*
+(Tags: gzip , asgi , python) Tj
+T*
+() Tj
+T*
+(3. datasette-ports 0.1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-06T00:23:55+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything) Tj
+T*
+(Release: datasette-ports 0.1 Another example of README-driven development, this time solving a) Tj
+T*
+(problem that might be unique to me. I often find myself running a bunch of different Datasette) Tj
+T*
+(instances with different databases and different in-development plugins, spreads across dozens) Tj
+T*
+(of different terminal windows - enough that I frequently lose them! Now I can run this:) Tj
+T*
+(datasette install datasette-ports datasette ports And get a list of every running instance that) Tj
+T*
+(looks something like this: http://127.0.0.1:8333/ - v1.0a26 Databases: data Plugins:) Tj
+T*
+(datasette-enrichments, datasette-enrichments-llm, datasette-llm, datasette-secrets) Tj
+T*
+(http://127.0.0.1:8001/ - v1.0a26 Databases: creatures Plugins: datasette-extract,) Tj
+T*
+(datasette-llm, datasette-secrets http://127.0.0.1:8900/ - v0.65.2 Databases: logs Tags:) Tj
+T*
+(datasette) Tj
+T*
+() Tj
+T*
+(4. MacOS Seemingly Crashes After 49 Days of Uptime ? a ?Feature? Perhaps Exclusive to) Tj
+T*
+(Tahoe) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-09T22:14:13Z) Tj
+T*
+(Link: https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/) Tj
+T*
+(Jason Snell, writing at Six Colors: Software developer Photon, whose product requires running a) Tj
+T*
+(bunch of Macs to connect to iMessage, discovered a pretty major bug : Every Mac has a hidden) Tj
+T*
+(expiration date. After exactly 49 days, 17 hours, 2 minutes, and 47 seconds of continuous) Tj
+T*
+(uptime, a 32-bit unsigned integer overflow in Apple?s XNU kernel freezes the internal TCP) Tj
+T*
+(timestamp clock? ICMP \(ping\) keeps working. Everything else dies. The only fix most people know) Tj
+T*
+(is a reboot. The whole story is wild \(albeit technical\). Photon says they?re working on a fix,) Tj
+T*
+(but really, this is something Apple should be working on. If you keep track of time using) Tj
+T*
+(milliseconds, and store that in an unsigned 32-bit integer, it overflows after 49 days, 17) Tj
+T*
+(hours, 2 minutes, and 47 seconds. That?s the bug. I think this bug is new to Tahoe. If you look) Tj
+T*
+(at Apple?s open-source XNU kernel code ? e.g. lines 3,732 to 3,745 in tcp_subr.c ? you can see) Tj
+T*
+(that the lines assigning the time in milliseconds to a uint32_t variable were checked in just) Tj
+T*
+(six months ago, whereas most of the file is five years old. Also, I personally ran my MacBook) Tj
+T*
+(Pro ? at the time, running MacOS 15.7.2 Sequoia ? up to 91 days of uptime in Ja...) Tj
+T*
+() Tj
+T*
+(5. Adobe Diddles With Your /etc/hosts File) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4602 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-04-09T20:35:30Z) Tj
+T*
+(Link: https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_h) Tj
+T*
+(ad_an_app/oe1ap9h/) Tj
+T*
+(?thenickdude?, on Reddit: They?re using this to detect if you have Creative Cloud already) Tj
+T*
+(installed when you visit on their website. When you visit https://www.adobe.com/home , they) Tj
+T*
+(load this image using JavaScript: https://detect-ccd.creativecloud.adobe.com/cc.png If the DNS) Tj
+T*
+(entry in your hosts file is present, your browser will therefore connect to their server, so) Tj
+T*
+(they know you have Creative Cloud installed, otherwise the load fails, which they detect. They) Tj
+T*
+(used to just hit http://localhost:\\ /cc.png which connected to your Creative Cloud app) Tj
+T*
+(directly, but then Chrome started blocking Local Network Access , so they had to do this hosts) Tj
+T*
+(file hack instead. \( Via Thom Holwerda at OSNews .\) They didn?t have to do this, of course. In) Tj
+T*
+(fact, quite obviously, they definitely should not be doing this. Adobe is just a third-party) Tj
+T*
+(developer, no better, no more trusted, no more important than any other. Imagine if every piece) Tj
+T*
+(of software on your computer added entries to your /etc/hosts file. Madness. Adobe should be) Tj
+T*
+(ashamed of themselves. Adobe used to be a bastion of best practices for developers to follow.) Tj
+T*
+(Now their installer/updater is indistinguishable from malware. See also: Marc Edw...) Tj
+T*
+() Tj
+T*
+(6. Lickspittle of the Week: Todd Blanche) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-09T17:10:48Z) Tj
+T*
+(Link: https://politicalwire.com/2026/04/09/extra-bonus-quote-of-the-day-1022/) Tj
+T*
+(Acting Attorney General Todd Blanche, speaking of the president of the United States in a) Tj
+T*
+(totally normal way: I love working for President Trump. It?s the greatest honor of a lifetime.) Tj
+T*
+(And if President Trump chooses to nominate somebody else and asks me to go do something else,) Tj
+T*
+(I?ll say, ?Thank you very much, I love you, sir.? The phrase Blanche was looking for is ? Thank) Tj
+T*
+(you sir, may I have another .? ?) Tj
+T*
+() Tj
+T*
+(7. What Are You Trying to Say?) Tj
+T*
+(Source: iDiallo.com | Published: Thu, 09 Apr 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/what-are-you-trying-to-say?src=feed) Tj
+T*
+(Sometimes, I find myself talking while my audience has a puzzled look on their face. It doesn't) Tj
+T*
+(matter how much I prepared my speech, the message is just not getting through. But then they) Tj
+T*
+(ask: What are you trying to say? Somehow, this shifts the conversation entirely. Instead of) Tj
+T*
+(trying to sound smart and interesting, I start telling them exactly what I'm trying to say. The) Tj
+T*
+(fluff disappears, the jargon fades, and I'm left with the raw information in its most primitive) Tj
+T*
+(form. And somehow, they understand me better this way. What are you trying to say? Whether it's) Tj
+T*
+(in person or in writing, that question triggers something in us that allows us to better) Tj
+T*
+(express our intentions. Here's an exercise. Look out the window. What color is the sky? Now, on) Tj
+T*
+(a piece of paper or in a word processor, write that the sky is blue. "The sky is blue.") Tj
+T*
+(Somehow, it doesn't feel satisfying. Were there a few wisps of cloud in the sky? Did those) Tj
+T*
+(clouds look like they were floating? Maybe erring? Were there mountains in the distance? Were) Tj
+T*
+(they covered with a thin sheet of snow? Were you actually looking through a window, or sitting) Tj
+T*
+(outdoors, maybe at a park with kids playing on a playground in the distance?...) Tj
+T*
+() Tj
+T*
+(8. How do you add or remove a handle from an active Wait≠For≠Multiple≠Objects?) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 09 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260409-00/?p=112220) Tj
+T*
+(You can't, but you can cooperate with the other thread. The post How do you add or remove a) Tj
+T*
+(handle from an active Wait≠For≠Multiple≠Objects ? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. I quit drinking for a year) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-04-09T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/drinking/) Tj
+T*
+(In early January 2025, a family friend was over for lunch. One of my many guilty midwit) Tj
+T*
+(pleasures is a love of New Year?s resolutions, so I asked her if she had made any. She said no,) Tj
+T*
+(but mentioned that she had some relatives that were doing ?damp January?. In case you?re not) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4996 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(aware, Dry January is a challenge many people do to quit drinking alcohol during the month of) Tj
+T*
+(January. These folks were doing a variant in which, instead of not drinking, one simply drinks) Tj
+T*
+(less. For some reason, this triggered me. I thought, ?Are you kidding? You can?t even stop) Tj
+T*
+(drinking for a single month? Do you know how pathetic that is?? And then, ?Fuck you! Fuck you) Tj
+T*
+(for doing damp January! You know what, I?m going to stop drinking for a year !? To be clear,) Tj
+T*
+(these thoughts were directed at people I?ve never even met. In retrospect, I wonder what was) Tj
+T*
+(going on with me emotionally. But I take resolutions seriously, so I felt committed. We are now) Tj
+T*
+(15 months down the timeline, so I?ll make my report. It was easy This will sound odd, but I) Tj
+T*
+(swear it?s true. Not drinking was so easy that it was almost easier than my previous baseline) Tj
+T*
+(of not-not-drinking. Before starting this resolution, I didn?t drink much?perhap...) Tj
+T*
+() Tj
+T*
+(10. Pluralistic: Cindy Cohn's "Privacy's Defender" \(09 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 09 Apr 2026 10:50:56) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/09/bernstein-2/) Tj
+T*
+(Today's links Cindy Cohn's "Privacy's Defender": The history of digital rights, from the very) Tj
+T*
+(beginning to this very moment. Hey look at this: Delights to delectate. Object permanence:) Tj
+T*
+(Tariffs and monopolies; Paperclip dodecahedron; Class war comix; Glenn Beck's brain; Iceland v) Tj
+T*
+(Pirates; Dashers v apps; Leaked NYPD goon squad manual. Upcoming appearances: Montreal,) Tj
+T*
+(Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye, London. Recent appearances: Where I've) Tj
+T*
+(been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said,) Tj
+T*
+(I'll keep writin' 'em. Colophon: All the rest. Cindy Cohn's "Privacy's Defender" \(permalink\)) Tj
+T*
+(I've known EFF executive director Cindy Cohn for 27 years. I met her when I needed cyberlaw) Tj
+T*
+(advice for a startup I'd helped found. We got along so well that I ended up quitting the) Tj
+T*
+(startup and going to work at EFF. Now, Cindy's memoir, Privacy's Defender, is on the shelves:) Tj
+T*
+(https://mitpress.mit.edu/9780262051248/privacys-defender/ I'm hardly a disinterested party) Tj
+T*
+(here, obviously. I was at Cindy's wedding, I've danced with her at Burning Man, and I've worked) Tj
+T*
+(with her for most of my adult life. What's more, I was present for many of the pivotal...) Tj
+T*
+() Tj
+T*
+(11. Some quick notes to myself on nftables 'symbolic variables') Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-09T23:41:15Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesSymbolicVariables) Tj
+T*
+(Nftables is the current generation Linux firewall rule system, supplanting iptables \(which) Tj
+T*
+(supplanted ipchains\). As covered in the nft manual page , nftables has the concept of 'symbolic) Tj
+T*
+(variables' . Since I'm used to BSD PF, I will crudely describe these as a combination of some) Tj
+T*
+(parts of pf tables and PF macros. I personally feel that the nft manual page doesn't do a good) Tj
+T*
+(job of documenting what's possible in these, so here are some notes. The simple case is simple) Tj
+T*
+(values: define tundev = "tun0"; define outdev = "eno1"; define natip = 128.100.x.y define) Tj
+T*
+(tunnet = 172.29.0.0/16 \(It turns out that the ';' here is decorative and I put it in out of) Tj
+T*
+(superstition , judging from actually reading the "Lexical Conventions" section.\) I'm not sure) Tj
+T*
+(of the rules of when you have to quote things and when you don't. As covered in the manual) Tj
+T*
+(page, you use these symbolic values in the relevant nftables bits, for example a SNAT rule: ip) Tj
+T*
+(saddr $tunnet oifname $outdev counter snat to $natip; Nftables also has the concept of) Tj
+T*
+('anonymous sets' , which are written in the obvious PF-like syntax of '{ ..., ..., ... }'. You) Tj
+T*
+(can use symbolic variables to define anonymous sets, and if you do they can span mul...) Tj
+T*
+() Tj
+T*
+(12. Systemd v258's 'systemctl -v restart' and its limitations) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-09T02:44:34Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdVerboseRestartNotes) Tj
+T*
+(If you've done much work with systemd services, you've probably gotten entirely used to the) Tj
+T*
+(traditional dance of ' systemctl restart something; journalctl -f -u something ' so you can see) Tj
+T*
+(the shutdown and restart log messages of what you just theoretically restarted, assuming it's) Tj
+T*
+(happy with life. In systemd v258, systemctl gained a new feature to help with this, systemctl) Tj
+T*
+(-v . The help describes it reasonably well: Display unit log output while executing unit) Tj
+T*
+(operations. \(This means any unit operation; you can use it with 'systemctl stop', 'systemctl) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4661 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(start', and 'systemctl reload' too.\) All of this is nice and I'm certainly going to enjoy using) Tj
+T*
+(this feature on our future Ubuntu 26.04 machines and on my Fedora machines. However, it has an) Tj
+T*
+(obvious limitation for 'restart', 'start', and 'reload' that in many cases is going to have me) Tj
+T*
+(still using the the journalctl stuff as well. That limitation is right there in the) Tj
+T*
+(description: 'while executing unit operations'. If you do 'systemctl -v restart something',) Tj
+T*
+(systemctl stops following your service's log output the moment it considers your service to) Tj
+T*
+(have started. In some services, this will be when the service has genuinely started and...) Tj
+T*
+() Tj
+T*
+(13. Sometimes giving syndication feed readers good errors is a mistake) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-03-29T17:29:14Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/FeedReaderErrorsProblemII) Tj
+T*
+(Yesterday I wrote about the problem of giving feed readers error messages that people will) Tj
+T*
+(actually see , because you can't just give them HTML text; in practice you have to wrap your) Tj
+T*
+(HTML text up in a stub, single-entry syndication feed \(and then serve it with a HTTP 200) Tj
+T*
+(success code\). In many situations you're going to want to do this by replying to the initial) Tj
+T*
+(feed request with a HTTP 302 temporary redirection that winds up on your stub syndication feed) Tj
+T*
+(\(instead of, say, a general HTML page explaining things, such as "this resource is out of) Tj
+T*
+(service but you might want to look at ..."\). Yesterday I put this into effect for certain sorts) Tj
+T*
+(of problems, including claimed HTTP User-Agents that are for old browser . Then several people) Tj
+T*
+(reported that this had caused Feedly to start presenting my feed as the special 'your feed) Tj
+T*
+(reader is \(claiming to be\) a too-old browser' single entry feed. The apparent direct cause of) Tj
+T*
+(this is that Feedly made some syndication feed requests with HTTP User-Agent headers of old) Tj
+T*
+(versions of Chrome and Firefox, which wound up getting a series of HTTP 302 temporary) Tj
+T*
+(redirections to my new 'your feed reader is a too-old browser' stub feed. Feedly then) Tj
+T*
+(decided...) Tj
+T*
+() Tj
+T*
+(14. The Great Pyramid of Giza and the Speed of Light) Tj
+T*
+(Source: John D. Cook | Published: Thu, 09 Apr 2026 17:54:21 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/) Tj
+T*
+(Saw a post on X saying that the latitude of the Pyramid of Giza is the same as the speed of) Tj
+T*
+(light. I looked into this, expecting it to be approximately true. It?s exactly true in the) Tj
+T*
+(sense that the speed of light in vacuum is 299,792,458 m/s and the line of latitude 29.9792458∞) Tj
+T*
+(N [?] The post The Great Pyramid of Giza and the Speed of Light first appeared on John D. Cook) Tj
+T*
+(.) Tj
+T*
+() Tj
+T*
+(15. Random hexagon fractal) Tj
+T*
+(Source: John D. Cook | Published: Thu, 09 Apr 2026 17:25:08 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/) Tj
+T*
+(I recently ran across a post on X describing a process for creating a random fractal. First,) Tj
+T*
+(pick a random point c inside a hexagon. Then at each subsequent step, pick a random side of the) Tj
+T*
+(hexagon and create the triangle formed by that side and c. Update c to be the center of the new) Tj
+T*
+(triangle [?] The post Random hexagon fractal first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(16. Package Security Defenses for AI Agents) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-04-09T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/04/09/package-security-defenses-for-ai-agents.html) Tj
+T*
+(Yesterday I wrote about the package security problems AI agents face : typosquatting, registry) Tj
+T*
+(poisoning, lockfile manipulation, install-time code execution, credential theft, and cascading) Tj
+T*
+(failures through the dependency graph. Agents inherit all the old package security problems but) Tj
+T*
+(resolve, install, and propagate faster than any human can review. There?s no silver bullet for) Tj
+T*
+(securing agent coding workflows because LLMs can?t reliably distinguish safe packages and) Tj
+T*
+(metadata from malicious ones, but these defenses can reduce the blast radius when something) Tj
+T*
+(gets through. Some of them introduce friction, but agents can absorb that friction better than) Tj
+T*
+(humans. For people using AI coding platforms Disable install scripts by default npm has) Tj
+T*
+(--ignore-scripts , pip has --no-build-isolation discussions, but neither defaults to off. Agent) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4686 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(platforms should ship with install scripts disabled and require explicit opt-in per package.) Tj
+T*
+(The postinstall script is the single most common vector for malicious packages, and agents have) Tj
+T*
+(no way to evaluate whether a script is legitimate. Bun already defaults to not running) Tj
+T*
+(lifecycle scripts for installed dependencies. Dependency cooldown periods New pac...) Tj
+T*
+() Tj
+T*
+(17. Helium Is Hard to Replace) Tj
+T*
+(Source: Construction Physics | Published: Thu, 09 Apr 2026 12:03:42 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/helium-is-hard-to-replace) Tj
+T*
+(The war in Iran, and the subsequent closure of the Strait of Hormuz, has unfortunately made us) Tj
+T*
+(all familiar with details of the petroleum supply chain that we could formerly happily ignore.) Tj
+T*
+() Tj
+T*
+(18. Writing an LLM from scratch, part 32j -- Interventions: trying to train a better model) Tj
+T*
+(in the cloud) Tj
+T*
+(Source: Giles' blog | Published: Thu, 09 Apr 2026 20:00:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-) Tj
+T*
+(better-model-in-the-cloud) Tj
+T*
+(Since early February, I've been trying various interventions on a 163M-parameter GPT-2-style) Tj
+T*
+(model that I trained from scratch on my local RTX 3090 , using code based on Sebastian Raschka) Tj
+T*
+('s book " Build a Large Language Model \(from Scratch\) ". My original model got a loss of 3.944) Tj
+T*
+(on my test set, while the original GPT-2 weights got 3.500 on the same dataset. I wanted to see) Tj
+T*
+(if I could close that gap, and had a list of potential changes to the training setup, and to) Tj
+T*
+(the model itself. Which of them would help? I found a list of solid-looking interventions, and) Tj
+T*
+(in my last post I came to the conclusion that the improvements in loss I had seen with all of) Tj
+T*
+(them -- with two possible exceptions -- seemed unlikely to be in the noise. What would happen) Tj
+T*
+(if I tried to put them into a new model? The interventions Let's start by looking at the) Tj
+T*
+(results that we have for the interventions so far -- this is the table I've been using as I go) Tj
+T*
+(through them, but I've updated it to contain the loss figures for each model to six decimal) Tj
+T*
+(places instead of three, and made each model name link to the associated post. I've also) Tj
+T*
+(corrected the loss for the 8xa100m40-weight-decay-cerebras model, which was mis...) Tj
+T*
+() Tj
+T*
+(19. Book Review: Small Comfort by Ia Genberg ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 09 Apr 2026 11:34:59 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/) Tj
+T*
+(I was left somewhat unconvinced by this book. I liked the concept - a series of interrelated) Tj
+T*
+(stories all told in different styles. Much like the film "Lola RenntRun Lola Run" there's a) Tj
+T*
+(briefcase full of cash, a cast of morally ambiguous characters, and a meandering philosophical) Tj
+T*
+(discussion about the nature of economic salvation. It slams together the naÔve and the cynical) Tj
+T*
+(into a bunch of ?) Tj
+T*
+() Tj
+T*
+(20. Hong Kong Disneyland Speedrun Guide) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-04-09T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/04/09/hk-disneyland.html) Tj
+T*
+(Most people go to Disneyland and spend way more time waiting in line than riding rides. HK) Tj
+T*
+(Disneyland is simpler than many of the other Disney parks, but proper pathing is key for) Tj
+T*
+(avoiding lines. Done correctly, you should be able to ride every ride in half a day. This guide) Tj
+T*
+(assumes you are more athletic and motivated than 99% of Disney guests. First off, buy the Early) Tj
+T*
+(Park Entry Pass, it gets you in at 9:30 instead of 10:30. You won?t have to pay for anything) Tj
+T*
+(else if you do this, and you make up for it in savings by not buying lunch at Disney. Arriving) Tj
+T*
+(way before 9:30 isn?t that important, 9:15 is more than fine. There?s a long single file line) Tj
+T*
+(where they check your Early Park Pass, but this is cleared long before 9:30. From 9:20-9:30,) Tj
+T*
+(you are waiting in an 8 wide queue for park entry. This queue clears in 3 minutes. You are in) Tj
+T*
+(the park by 9:33. Now comes the first important run of the day. Remember, Disney only has a) Tj
+T*
+(fixed capacity for rides, and it?s your job to make sure you are consuming as much of that) Tj
+T*
+(capacity as possible. Run to the back of the park for Frozen Ever After , it?s about a third of) Tj
+T*
+(a mile. Showing up with this clear plan, you?ll be able to overtake everyone el...) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3952 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(21. The Submarine) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/submarine.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(22. Why Smart People Have Bad Ideas) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/bronze.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(23. Return of the Mac) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/mac.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(24. Fewer Computers, Fewer Problems: Going Local With Builds & Deployments) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Thu, 09 Apr 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/) Tj
+T*
+(Me, in 2025, on Mastodon : I love tools like Netlify and deploying my small personal sites with) Tj
+T*
+(git push But i'm not gonna lie, 2025 might be the year I go back to just doing builds locally) Tj
+T*
+(and pushing the deploys from my computer. I'm sick of devops'ing stupid stuff because builds) Tj
+T*
+(work on my machine and I have to spend that extra bit of time to ensure they also work on) Tj
+T*
+(remote linux computers. Not sure I need the infrastructure of giant teams working together for) Tj
+T*
+(making a small personal website. It?s 2026 now, but I finally took my first steps towards this.) Tj
+T*
+(The Why One of the ideas I really love around the ?local-first? movement is this notion that) Tj
+T*
+(everything canonical is done locally, then remote ?sync? is an enhancement. For my personal) Tj
+T*
+(website, I want builds and deployments to work that way. All data, build tooling, deployment,) Tj
+T*
+(etc., happens first and foremost on my machine. From there, having another server somewhere) Tj
+T*
+(else do it is purely a ?progressive enhancement?. If it were to fail, fine. I can resort back) Tj
+T*
+(to doing it locally very easily because all the tooling is optimized for local build and) Tj
+T*
+(deployment first \(rather than being dependent on fixing some remote server to get...) Tj
+T*
+() Tj
+T*
+(25. Nowhere Is Safe) Tj
+T*
+(Source: Steve Blank | Published: Thu, 09 Apr 2026 13:00:25 +0000) Tj
+T*
+(Link: https://steveblank.com/2026/04/09/nowhere-is-safe/) Tj
+T*
+(Drones in Ukraine and in the War with Iran have made the surface of the earth a contested) Tj
+T*
+(space. The U.S. has discovered that 1\) air superiority and missile defense systems \(THAAD,) Tj
+T*
+(Patriot batteries\) designed to counter tens or hundreds of aircraft and missiles is) Tj
+T*
+(insufficient against asymmetric attacks of thousands of drones. And that [?]) Tj
+T*
+() Tj
+T*
+(26. We Need a Bigger Touch Screen) Tj
+T*
+(Source: Daniel De Laney | Published: Tue, 15 Sep 2015 00:00:00 +0000) Tj
+T*
+(Link: https://danieldelaney.net/we-need-a-bigger-touch-screen/) Tj
+T*
+(Human beings need space to express themselves. Eyes have a broad field of view, heads turn, and) Tj
+T*
+(arms reach several feet in many directions. Unlike us, our screens are small. They constrain) Tj
+T*
+(our movement to small twitches of the fingers and a few degrees of eye movement. They?re easy) Tj
+T*
+(to carry around, but they?re also restrictive. The invention of the touch screen removed a) Tj
+T*
+(barrier between people and technology. They allowed us to interact with computers more) Tj
+T*
+(naturally. A desk-sized touch screen could free us to be even more of ourselves. It wouldn?t be) Tj
+T*
+(just a new device. It would be a completely new kind of experience, peerless in the history of) Tj
+T*
+(computing. Imagine the way a map could feel if it filled a desk of luminous glass, spilling) Tj
+T*
+(into our peripheral vision and inviting us to turn our heads. Imagine how it could feel to drag) Tj
+T*
+(a finger across that map, and see a huge amount of information respond. This could be a) Tj
+T*
+(transformative moment in human history. We?ll always need mobile devices, but right now we?re) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 3696 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(missing the big picture. Our attempts at full-sized touch screens have been limited to) Tj
+T*
+(prototypes and science fiction. The images above are from the 2013 film Oblivion . If you...) Tj
+T*
+() Tj
+T*
+(27. You can absolutely have an RSS dependent website in 2026) Tj
+T*
+(Source: matduggan.com | Published: Thu, 09 Apr 2026 10:28:58 GMT) Tj
+T*
+(Link: https://matduggan.com/you-can-absolutely-have-an-rss-dependent-website-in-2026/) Tj
+T*
+(I write stuff here. Sometimes the stuff is good. Sometimes it reads like I wrote it at 2 AM) Tj
+T*
+(after an argument with a YAML file, which is because I did. But one decision I made early on) Tj
+T*
+(was that I didn't want to offer an email newsletter.) Tj
+T*
+() Tj
+T*
+(28. SQLAlchemy 2 In Practice - Chapter 4 - Many-To-Many Relationships) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Thu, 09 Apr 2026 15:02:34 GMT) Tj
+T*
+(Link: https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-4---many-to-many-) Tj
+T*
+(relationships) Tj
+T*
+(This is the fourth chapter of my SQLAlchemy 2 in Practice book. If you'd like to support my) Tj
+T*
+(work, I encourage you to buy this book, either directly from my store or on Amazon . Thank you!) Tj
+T*
+(Continuing with the topic of relationships, this chapter is dedicated to the many-to-many type,) Tj
+T*
+(which as its name implies, is used when it is not possible to identify any of the sides as a) Tj
+T*
+("one" side.) Tj
+T*
+() Tj
+T*
+(29. Rapport digitale autonomie binnen de energie-intensieve industrie voor Energy) Tj
+T*
+(Innovation NL) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 09 Apr 2026 06:30:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/rapport-digitale-afhankelijkheden-energy-innovation-nl/) Tj
+T*
+(Vandaag verscheen het rapport ?Digitale autonomie binnen de energie-intensieve industrie?, wat) Tj
+T*
+(ik schreef in opdracht van Energy Innovation NL, voorheen bekend als de Topsector Energie. Het) Tj
+T*
+(rapport is hier te lezen. Dit was ontzettend leuk om te doen, en ik ben erg blij dat men me) Tj
+T*
+(gevraagd heeft om dit rapport te schrijven. Samen met Energy Innovation NL \(de nieuwe naam van) Tj
+T*
+(de Topsector Energie\) hebben we een brede selectie relevante bedrijven gesproken.) Tj
+T*
+() Tj
+T*
+(30. Hello Deep Learning: Reading handwritten digits) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 30 Mar 2023 12:00:04 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/handwritten-digits-sgd-batches/) Tj
+T*
+(This page is part of the Hello Deep Learning series of blog posts. You are very welcome to) Tj
+T*
+(improve this page via GitHub! In the previous chapter we described how automatic) Tj
+T*
+(differentiation of the result of neural networks works. In the first and second chapters we) Tj
+T*
+(designed and trained a one-layer neural network that could distinguish images of the digit 3) Tj
+T*
+(and the digit 7, and the network did so very well.) Tj
+T*
+() Tj
+T*
+(31. Hello Deep Learning: Automatic differentiation, autograd) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 30 Mar 2023 12:00:03 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/autograd/) Tj
+T*
+(This page is part of the Hello Deep Learning series of blog posts. You are very welcome to) Tj
+T*
+(improve this page via GitHub! In the previous chapter we configured a neural network and made) Tj
+T*
+(it learn to distinguish between the digits 3 and 7. The learning turned out to consist of) Tj
+T*
+(?twisting the knobs in the right direction?. Although simplistic, the results were pretty) Tj
+T*
+(impressive. But, you might still be a bit underwhelmed - the network only distinguished between) Tj
+T*
+(two digits.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000161 00000 n 
+0000000231 00000 n 
+0000004489 00000 n 
+0000004615 00000 n 
+0000009269 00000 n 
+0000009395 00000 n 
+0000014443 00000 n 
+0000014569 00000 n 
+0000019283 00000 n 
+0000019411 00000 n 
+0000024150 00000 n 
+0000024278 00000 n 
+0000028283 00000 n 
+0000028411 00000 n 
+0000032160 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+32288
+%%EOF
