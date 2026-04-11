@@ -1,0 +1,692 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 3843 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-11 09:38:10) Tj
+T*
+() Tj
+T*
+(1. K?k?p? parrots) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-10T19:07:02+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything) Tj
+T*
+(Lenny posted another snippet from our 1 hour 40 minute podcast recording and it's about k?k?p?) Tj
+T*
+(parrots! Tags: kakapo) Tj
+T*
+() Tj
+T*
+(2. ChatGPT voice mode is a weaker model) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-10T15:56:02+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything) Tj
+T*
+(I think it's non-obvious to many people that the OpenAI voice mode runs on a much older, much) Tj
+T*
+(weaker model - it feels like the AI that you can talk to should be the smartest AI but it) Tj
+T*
+(really isn't. If you ask ChatGPT voice mode for its knowledge cutoff date it tells you April) Tj
+T*
+(2024 - it's a GPT-4o era model. This thought inspired by this Andrej Karpathy tweet about the) Tj
+T*
+(growing gap in understanding of AI capability based on the access points and domains people are) Tj
+T*
+(using the models with: [...] It really is simultaneously the case that OpenAI's free and I) Tj
+T*
+(think slightly orphaned \(?\) "Advanced Voice Mode" will fumble the dumbest questions in your) Tj
+T*
+(Instagram's reels and at the same time , OpenAI's highest-tier and paid Codex model will go off) Tj
+T*
+(for 1 hour to coherently restructure an entire code base, or find and exploit vulnerabilities) Tj
+T*
+(in computer systems. This part really works and has made dramatic strides because 2 properties:) Tj
+T*
+(these domains offer explicit reward functions that are verifiable meaning they are easily) Tj
+T*
+(amenable to reinforcement learning training \(e.g. unit tests passed yes or no, in contrast to) Tj
+T*
+(writing, which is much harder to explicitly judge\), but also they are a lot mor...) Tj
+T*
+() Tj
+T*
+(3. scan-for-secrets 0.2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-05T04:07:13+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything) Tj
+T*
+(Release: scan-for-secrets 0.2 CLI tool now streams results as they are found rather than) Tj
+T*
+(waiting until the end, which is better for large directories. -d/--directory option can now be) Tj
+T*
+(used multiple times to scan multiple directories. New -f/--file option for specifying one or) Tj
+T*
+(more individual files to scan. New scan_directory_iter\(\) , scan_file\(\) and scan_file_iter\(\)) Tj
+T*
+(Python API functions. New -v/--verbose option which shows each directory that is being scanned.) Tj
+T*
+() Tj
+T*
+(4. ? Let Us Learn to Show Our Friendship for a Man When He Is Alive and Not After He Is) Tj
+T*
+(Dead) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-10T21:29:46Z) Tj
+T*
+(Link: https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead) Tj
+T*
+(Regarding Ronan Farrow and Andrew Marantz?s epic profile of Sam Altman in The New Yorker.) Tj
+T*
+() Tj
+T*
+(5. Ed Bindels?s Apple Museum in Utrecht, Netherlands) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-10T16:35:03Z) Tj
+T*
+(Link: https://applemuseum.nl/) Tj
+T*
+(This new museum in Utrecht \(about 30?40 minutes south of Amsterdam\) seems just astonishing. The) Tj
+T*
+(rainbow wall of iMacs alone is incredible. \( Via Juli Clover .\) ?) Tj
+T*
+() Tj
+T*
+(6. The Data Drop: Every iPhone) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-07T16:34:14Z) Tj
+T*
+(Link: https://sheets.works/data-viz/every-iphone) Tj
+T*
+(Just lovely data visualization work from Sheets.works ? a consulting firm that specializes in,) Tj
+T*
+(I swear, Google Sheets. ?) Tj
+T*
+() Tj
+T*
+(7. Your friends are hiding their best ideas from you) Tj
+T*
+(Source: iDiallo.com | Published: Sat, 11 Apr 2026 00:47:19 GMT) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4967 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://idiallo.com/blog/your-friends-are-hiding-their-ideas?src=feed) Tj
+T*
+(Back in college, the final project in our JavaScript class was to build a website. We were a) Tj
+T*
+(group of four, and we built the best website in class. It was for a restaurant called the Coral) Tj
+T*
+(Reef. We found pictures online, created a menu, and settled on a solid theme. I was taking a) Tj
+T*
+(digital art class in parallel, so I used my Photoshop skills to place our logo inside pictures) Tj
+T*
+(of our fake restaurant. All of a sudden, something clicked. We were admiring our website on a) Tj
+T*
+(CRT monitor when my classmate pulled me aside. She had an idea. A business idea. An idea so) Tj
+T*
+(great that she couldn't share it with the rest of the team. She whispered, covering her mouth) Tj
+T*
+(with one hand so a lip reader couldn't steal this fantastic idea: "what if we build websites) Tj
+T*
+(for people?" This was the 2000s, of course it was a fantastic idea. The perfect time to spin up) Tj
+T*
+(an online business after a market crash. But what she didn't know was that, while I was in) Tj
+T*
+(class in the mornings, my afternoons were spent scouring Craigslist and building crappy) Tj
+T*
+(websites for a hundred to two hundred dollars a piece. I wasn't going to share my measly) Tj
+T*
+(spoils. If anything, this was the perfect time to build that kind of service. That's...) Tj
+T*
+() Tj
+T*
+(8. How do you add or remove a handle from an active Wait≠For≠Multiple≠Objects?, part 2) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 10 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260410-00/?p=112223) Tj
+T*
+(Waiting for the waiting thread to acknowledge the change. The post How do you add or remove a) Tj
+T*
+(handle from an active Wait≠For≠Multiple≠Objects ?, part 2 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. The problem of delivering errors to syndication feed readers) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-15T04:31:34Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/FeedReaderErrorsProblem) Tj
+T*
+(Suppose, not hypothetically, that there are some feed readers \(or at least things fetching your) Tj
+T*
+(syndication feeds\) that are misbehaving or blocked for one reason or another. You could just) Tj
+T*
+(serve these feed readers HTTP 403 errors and stop there, but you'd like to be more friendly.) Tj
+T*
+(For regular web browsers, you can either serve a custom HTTP error page that explains the) Tj
+T*
+(situation or answer with a HTTP 302 temporary redirection to a regular HTML page with the) Tj
+T*
+(explanation. Often the HTTP 302 redirection will be easier because you can use various regular) Tj
+T*
+(means to create the HTML pages \(and even host them elsewhere if you want\). Unfortunately, this) Tj
+T*
+(probably leaves syndication feed readers out in the cold. \(This can also come up if, for) Tj
+T*
+(example, you decommission a syndication feed but want to let people know more about the) Tj
+T*
+(situation than a simple HTTP 404 would give them.\) As far as I know, most syndication feed) Tj
+T*
+(readers expect that the reply to their HTTP feed fetching request is in some syndication feed) Tj
+T*
+(format \(Atom, RSS, etc\), which they will parse, process, and display to the person involved. If) Tj
+T*
+(they get a reply in a different format, such as text/html, this is an error and it won't...) Tj
+T*
+() Tj
+T*
+(10. The \(very\) old "repaint mode" GUI approach) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-14T04:35:20Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/RepaintModeGUI) Tj
+T*
+(Today I ran across another article that talked in passing about "retained mode" versus) Tj
+T*
+("immediate mode" GUI toolkits \( this one , via \), and gave some code samples. As usual when I) Tj
+T*
+(read about immediate mode GUIs and see source code, I had a pause of confusion because the code) Tj
+T*
+(didn't feel right. That's because I keep confusing "immediate mode" as used here with a much) Tj
+T*
+(older approach, which I will call repaint mode for lack of a better description. A modern) Tj
+T*
+(immediate mode system generally uses double buffering; one buffer is displayed while the entire) Tj
+T*
+(window is re-drawn into the second buffer, and then the two buffers are flipped. I believe that) Tj
+T*
+(modern retained mode systems also tend to use double buffering to avoid screen tearing and) Tj
+T*
+(other issues \(and I don't know if they can do partial updates or have to re-render the entire) Tj
+T*
+(new buffer\). In the old days, the idea of having two buffers for your program's window was a) Tj
+T*
+(decided luxury. You might not even have one buffer and instead be drawing directly onto screen) Tj
+T*
+(memory. I'll call this repaint mode , because you directly repainted some or all of your window) Tj
+T*
+(any time you needed to change anything in it. You could do an immediate mode G...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4663 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(11. Testing Linux memory limits is a bit of a pain) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-13T04:24:11Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/MemoryLimitTestingPain) Tj
+T*
+(For reasons outside of the scope of this entry, I want to test how various systemd memory) Tj
+T*
+(resource limits work and interact with each other \(which means that I'm really digging into) Tj
+T*
+(cgroup v2 memory controls \). When I started trying to do this, it turned out that I had no good) Tj
+T*
+(test program \(or programs\), although I had some ones that gave me partial answers. There are) Tj
+T*
+(two complexities in memory usage testing programs in a cgroups environment. First, you may be) Tj
+T*
+(able to allocate more memory than you can actually use, depending on your system's settings for) Tj
+T*
+(strict overcommit . So it's not enough to see how much memory you can allocate using the) Tj
+T*
+(mechanism of your choice \(I tend to use mmap\(\) rather than go through language allocators\).) Tj
+T*
+(After you've either determined how much memory you can allocate or allocated your target) Tj
+T*
+(amount, you have to at least force the kernel to materialize your memory by writing something) Tj
+T*
+(to every page of it. Since the kernel can probably swap out some amount of your memory, you may) Tj
+T*
+(need to keep repeatedly reading all of it. The second issue is that if you're not in strict) Tj
+T*
+(overcommit \(and sometimes even if you are \), the kernel can let you allocate more memo...) Tj
+T*
+() Tj
+T*
+(12. Distribution of digits in fractions) Tj
+T*
+(Source: John D. Cook | Published: Fri, 10 Apr 2026 14:29:49 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/10/fraction-digits/) Tj
+T*
+(There?s a lot of mathematics just off the beaten path. You can spend a career in math and yet) Tj
+T*
+(not know all there is to know about even the most basic areas of math. For example, this post) Tj
+T*
+(will demonstrate something you may not have seen about decimal forms of fractions. Let p > 5) Tj
+T*
+([?] The post Distribution of digits in fractions first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(13. In defense of GitHub's poor uptime) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Fri, 10 Apr 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/in-defense-of-githubs-poor-uptime/) Tj
+T*
+(In short: GitHub?s downtime is bad, but uptime numbers can be misleading. It?s not as bad as it) Tj
+T*
+(looks; more like a D than an F. ?Zero nines uptime?? 99.99% uptime, or ?four nines?, is a) Tj
+T*
+(common industry standard. Four nines of uptime is equivalent to 1.008 minutes of downtime per) Tj
+T*
+(week. GitHub is not meeting that, and it?s frustrating. Even though they?re owned by) Tj
+T*
+(Microsoft?s, one of the richest companies on earth, they aren?t clearing this bar. Here are) Tj
+T*
+(some things people are saying: ?GitHub appears to be struggling with measly three nines) Tj
+T*
+(availability? ?World?s First Enterprise Solution With Zero Nines Uptime? ?Sure, they may have) Tj
+T*
+(made the uptime worse, but remember what we got in exchange ? when it?s up, the UI is slower) Tj
+T*
+(and buggier.? According to ?The Missing GitHub Status Page? , which reports historical uptime) Tj
+T*
+(better than GitHub?s official source, they?ve had 89.43% uptime over the last 90 days. That?s) Tj
+T*
+(zero nines of uptime. That implies more than 2.5 hours of downtime every day ! I dislike GitHub) Tj
+T*
+(and Microsoft, so I shouldn?t be coming to their defense, but I think this characterization is) Tj
+T*
+(unfair. Downtime is additive \(kinda\) I?m no mathematician, but let?s do a little math. L...) Tj
+T*
+() Tj
+T*
+(14. [RSS Club] Why do you use RSS rather than Atom?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 10 Apr 2026 11:34:36 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/) Tj
+T*
+(This post is exclusive to feed subscribers. Enjoy! This whole experiment is called RSS Club -) Tj
+T*
+(but perhaps it should be called "XML-based distributed feed club"? I've been playing about with) Tj
+T*
+(local-only and privacy-conscious view tracking. I can see how many people click on my stories) Tj
+T*
+(from HN or Google or anywhere else. I also decided to add the number of times a story is viewed) Tj
+T*
+(by someone?) Tj
+T*
+() Tj
+T*
+(15. Package Registries and Pagination) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-04-10T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/04/10/package-registries-and-pagination.html) Tj
+T*
+(Package registries return every version a package has ever published in a single response, with) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4073 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(no way to ask for less. The API formats were designed ten to twenty years ago when packages had) Tj
+T*
+(tens of versions, not thousands, and they haven?t changed even as the ecosystems grew by orders) Tj
+T*
+(of magnitude around them. npm?s registry API dates to 2010 when there were a few hundred) Tj
+T*
+(packages on the registry. registry.npmjs.org/vite now returns 37MB of JSON for 725 versions) Tj
+T*
+(\(gzip brings that to 4.4MB over the wire, but it?s still 37MB to parse\) because each version) Tj
+T*
+(entry includes the full README \(up to 64KB\), every dependency, every maintainer, the full) Tj
+T*
+(package.json as published, and CouchDB revision metadata. typescript is 15MB for 3,758) Tj
+T*
+(versions, and even express is 800KB. None of these responses carry pagination headers of any) Tj
+T*
+(kind, no Link , no X-Total-Count , no X-Per-Page , just Content-Type: application/json and) Tj
+T*
+(standard cache controls. npm offers an abbreviated metadata format through an Accept:) Tj
+T*
+(application/vnd.npm.install-v1+json header that strips READMEs and most metadata, shrinking) Tj
+T*
+(vite from 37MB to about 2MB, but it?s still unpaginated and the slimmed-down response drops) Tj
+T*
+(fields...) Tj
+T*
+() Tj
+T*
+(16. Pluralistic: Canny Valley and Creative Commons \(10 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 10 Apr 2026 09:57:16) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/10/canny-valley/) Tj
+T*
+(Today's links Canny Valley and Creative Commons: Another bite at the apple. Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: Bidenomics needs to be bigger; Al Franken's balanced) Tj
+T*
+(war budget; Bernie x The Pope; Art is a money-laundry; UK government condemns copyright trolls;) Tj
+T*
+(Howard Dean's genocidal pharma sellout. Upcoming appearances: Montreal, Toronto, San Francisco,) Tj
+T*
+(London, Berlin, NYC, Hay-on-Wye, London. Recent appearances: Where I've been. Latest books: You) Tj
+T*
+(keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Canny Valley and Creative Commons \(permalink\) Last year, I ran a wildly) Tj
+T*
+(successful Kickstarter campaign to pre-sell my ebooks, audiobooks and hardcovers of my book) Tj
+T*
+(Enshittification, which went on to be an international bestseller, selling out 10 printings in) Tj
+T*
+(the first 11 weeks:) Tj
+T*
+(https://www.kickstarter.com/projects/doctorow/enshittification-the-drm-free-audiobook If you'd) Tj
+T*
+(like an essay-formatted version of this thread to read or share, here's a link to it on) Tj
+T*
+(pluralistic.net, my surveillance-free, ad-free, tracker-free blog:) Tj
+T*
+(https://pluralistic.net/2026/04/10/canny-valley#limited-edition I've done man...) Tj
+T*
+() Tj
+T*
+(17. Why I quit "The Strive") Tj
+T*
+(Source: Westenberg. | Published: Fri, 10 Apr 2026 01:50:12 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/why-i-quit-the-strive/) Tj
+T*
+(This newsletter is free to read, and it?ll stay that way. But if you want more - extra posts) Tj
+T*
+(each month, no sponsored CTAs, access to the community, and a direct line to ask me things -) Tj
+T*
+(paid subscriptions are $2.50/month. A lot of people have) Tj
+T*
+() Tj
+T*
+(18. Premium: The Hater's Guide to OpenAI) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 10 Apr 2026 16:57:30 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/hatersguide-openai/) Tj
+T*
+(Soundtrack: The Dillinger Escape Plan ? Setting Fire To Sleeping Giants In what The New) Tj
+T*
+(Yorker?s Andrew Marantz and Ronan Farrow called a ?tense call? after his brief ouster from) Tj
+T*
+(OpenAI in 2023, Sam Altman seemed unable to reckon with a ?pattern of deception?) Tj
+T*
+() Tj
+T*
+(19. Writing, Briefly) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/writing44.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. Undergraduation) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/college.html) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3821 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(21. A Unified Theory of VC Suckage) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/venturecapital.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(22. watgo - a WebAssembly Toolkit for Go) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-04-09T19:28:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/) Tj
+T*
+(I'm happy to announce the general availability of watgo - the W eb A ssembly T oolkit for G o.) Tj
+T*
+(This project is similar to wabt \(C++\) or wasm-tools \(Rust\), but in pure, zero-dependency Go.) Tj
+T*
+(watgo comes with a CLI and a Go API to parse WAT \(WebAssembly Text\), validate it ?) Tj
+T*
+() Tj
+T*
+(23. The Solitaire Shuffle) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-04-10T03:47:04Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history) Tj
+T*
+(A meditation on the game of Solitaire and its endless variations, which go well beyond what you) Tj
+T*
+(can find in Windows 3.1.) Tj
+T*
+() Tj
+T*
+(24. Has Mythos just broken the deal that kept the internet safe?) Tj
+T*
+(Source: Martin Alderson | Published: Fri, 10 Apr 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/has-mythos-just-broken-the-deal-that-kept-the-internet-s) Tj
+T*
+(afe/?utm_source=rss&utm_medium=rss&utm_campaign=feed) Tj
+T*
+(What Anthropic's Mythos research preview tells us about the trajectory of frontier models,) Tj
+T*
+(sandbox escapes, and the cybersecurity risk ahead.) Tj
+T*
+() Tj
+T*
+(25. Y2K 2.0: The AI security reckoning) Tj
+T*
+(Source: Anil Dash | Published: 2026-04-10T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/04/10/y2k-2.0-ai-security/) Tj
+T*
+(In just the last few weeks, we?ve seen a series of software security vulnerabilities that,) Tj
+T*
+(until recently, would each have been the biggest exploit of the year in which they were) Tj
+T*
+(discovered. Now, they?ve become nearly routine. There?s a new one almost every day. The reason) Tj
+T*
+(for this rising wave of massively-impactful software vulnerabilities is that LLMs are rapidly) Tj
+T*
+(increasing in their ability to write code, which also rapidly improves their ability to analyze) Tj
+T*
+(code for security weaknesses. These smarter coding agents can detect flaws in commonly-used) Tj
+T*
+(code, and then create tools which exploit those bugs to get access to people?s systems or data) Tj
+T*
+(almost effortlessly. These powerful new LLMs can find hundreds of times more vulnerabilities) Tj
+T*
+(than previous generations of AI tools, and can chain together multiple different) Tj
+T*
+(vulnerabilities in ways that humans could never think of when trying to find a system?s) Tj
+T*
+(weaknesses. They?ve already found vulnerabilities that were lurking for decades in code for) Tj
+T*
+(platforms that were widely considered to be extremely secure. The rapidly-decreasing cost of) Tj
+T*
+(code generation has effectively democratized access to attacks that used to be impossible to) Tj
+T*
+(pull off...) Tj
+T*
+() Tj
+T*
+(26. Hello Deep Learning: actually learning something) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 30 Mar 2023 12:00:02 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/first-learning/) Tj
+T*
+(This page is part of the Hello Deep Learning series of blog posts. You are very welcome to) Tj
+T*
+(improve this page via GitHub! In this chapter we?re going to take the neural network we made) Tj
+T*
+(earlier, but actually make it do some learning itself. And, oddly enough, this demonstration) Tj
+T*
+(will again likely simultaneously make you wonder ?is this all??? and also impress you by what) Tj
+T*
+(even this trivial stuff can do.) Tj
+T*
+() Tj
+T*
+(27. Hello Deep Learning: Linear combinations) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 1397 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Bert Hubert's writings | Published: Thu, 30 Mar 2023 12:00:01 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/hello-deep-learning-chapter1/) Tj
+T*
+(This page is part of the Hello Deep Learning series of blog posts. You are very welcome to) Tj
+T*
+(improve this page via GitHub! In this chapter we?re going to build our first neural network and) Tj
+T*
+(take it for a spin. Weirdly, this demonstration will likely simultaneously make you wonder ?is) Tj
+T*
+(this all??? and also impress you by what even this trivial stuff can do. The first part of this) Tj
+T*
+(chapter covers the theory, and shows no code.) Tj
+T*
+() Tj
+T*
+(28. Hello Deep Learning: Intro) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 30 Mar 2023 12:00:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/hello-deep-learning-intro/) Tj
+T*
+(This page is part of the Hello Deep Learning series of blog posts. Also, feel free to skip this) Tj
+T*
+(intro and head straight for chapter 1 where the machine learning begins! Deep learning and) Tj
+T*
+(?generative AI? have now truly arrived. If this is a good thing very much remains to be seen.) Tj
+T*
+(What is certain however is that these technologies will have a huge impact. Up to late 2022, I) Tj
+T*
+(had unwisely derided the advances of deep learning as overhyped nonsense from people doing fake) Tj
+T*
+(demos.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004119 00000 n 
+0000004245 00000 n 
+0000009264 00000 n 
+0000009390 00000 n 
+0000014105 00000 n 
+0000014231 00000 n 
+0000018357 00000 n 
+0000018485 00000 n 
+0000022359 00000 n 
+0000022487 00000 n 
+0000023937 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+24065
+%%EOF
