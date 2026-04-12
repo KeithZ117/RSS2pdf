@@ -1,0 +1,538 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 3726 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-12 09:38:04) Tj
+T*
+() Tj
+T*
+(1. SQLite 3.53.0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-11T19:56:53+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything) Tj
+T*
+(SQLite 3.53.0 SQLite 3.52.0 was withdrawn so this is a pretty big release with a whole lot of) Tj
+T*
+(accumulated user-facing and internal improvements. Some that stood out to me: ALTER TABLE can) Tj
+T*
+(now add and remove NOT NULL and CHECK constraints - I've previously used my own sqlite-utils) Tj
+T*
+(transform\(\) method for this. New json_array_insert\(\) function and its jsonb equivalent.) Tj
+T*
+(Significant improvements to CLI mode , including result formatting. The result formatting) Tj
+T*
+(improvements come from a new library, the Query Results Formatter . I had Claude Code \(on my) Tj
+T*
+(phone\) compile that to WebAssembly and build this playground interface for trying that out. Via) Tj
+T*
+(Lobste.rs Tags: sql , sqlite) Tj
+T*
+() Tj
+T*
+(2. SQLite Query Result Formatter Demo) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-11T19:35:31+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything) Tj
+T*
+(Tool: SQLite Query Result Formatter Demo See my notes on SQLite 3.53.0 . This playground) Tj
+T*
+(provides a UI for trying out the various rendering options for SQL result tables from the new) Tj
+T*
+(Query Result Formatter library, compiled to WebAssembly. Tags: tools , sqlite) Tj
+T*
+() Tj
+T*
+(3. scan-for-secrets 0.1.1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-05T03:39:33+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything) Tj
+T*
+(Release: scan-for-secrets 0.1.1 Added documentation of the escaping schemes that are also) Tj
+T*
+(scanned. Removed unnecessary repr escaping scheme, which was already covered by json .) Tj
+T*
+() Tj
+T*
+(4. Pan American Luggage Labels) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-11T16:55:24Z) Tj
+T*
+(Link: https://ellafreire.com/collections/pan-american-luggage-labels) Tj
+T*
+(Some graphic design fun for the weekend: achingly gorgeous art pieces recreating vintage Pan Am) Tj
+T*
+(luggage tags, by Ella Freire. I love them all. The colors, the type, the shapes ? sublime. \() Tj
+T*
+(Via Dan Cederholm?s Studio Notes .\) ?) Tj
+T*
+() Tj
+T*
+(5. Jason Snell on Covering Apple for 33 Years) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-02T16:53:02Z) Tj
+T*
+(Link:) Tj
+T*
+(https://www.macworld.com/article/3103792/thanks-for-the-wild-ride-apple-lets-keep-it-going.html) Tj
+T*
+(Jason Snell, writing at Macworld, regarding joining the staff at MacUser back in 1993: But as) Tj
+T*
+(amazing and revelatory as the Mac was for me as a writer and editor of print and online) Tj
+T*
+(publications, I rapidly discovered that the Apple of the period was a mess. My first day as a) Tj
+T*
+(full-time employee, a copy editor popped his head over the cubicle wall and asked me if I had) Tj
+T*
+(heard anything about layoffs. Welcome to the media, kid. ?) Tj
+T*
+() Tj
+T*
+(6. ?Great Things in Business Are Never Done by One Person. They?re Done by a Team of) Tj
+T*
+(People.?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-02T15:17:27Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=vydmUCGQnyI) Tj
+T*
+(60 Minutes published a short clip of a 2003 Dan Rather interview with Steve Jobs, and it?s a) Tj
+T*
+(good one. Seems apt both regarding Apple?s continued success after Jobs?s death, and a) Tj
+T*
+(refutation of the personality cult in The White House. ?) Tj
+T*
+() Tj
+T*
+(7. The Center Has a Bias) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-04-11T00:00:00+00:00) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 5038 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/) Tj
+T*
+(Whenever a new technology shows up, the conversation quickly splits into camps. There are the) Tj
+T*
+(people who reject it outright, and there are the people who seem to adopt it with religious) Tj
+T*
+(enthusiasm. For more than a year now, no topic has been more polarising than AI coding agents.) Tj
+T*
+(What I keep noticing is that a lot of the criticism directed at these tools is perfectly) Tj
+T*
+(legitimate, but it often comes from people without a meaningful amount of direct experience) Tj
+T*
+(with them. They are not necessarily wrong. In fact, many of them cite studies, polls and all) Tj
+T*
+(kinds of sources that themselves spent time investigating and surveying. And quite legitimately) Tj
+T*
+(they identified real issues: the output can be bad, the security implications are scary, the) Tj
+T*
+(economics are strange and potentially unsustainable, there is an environmental impact, the) Tj
+T*
+(social consequences are unclear, and the hype is exhausting. But there is something important) Tj
+T*
+(missing from that criticism when it comes from a position of non-use: it is too abstract. There) Tj
+T*
+(is a difference between saying ?this looks flawed in principle? and saying ?I used this enough) Tj
+T*
+(to understand where it breaks, where it helps, and how it changes my work.? The...) Tj
+T*
+() Tj
+T*
+(8. I'm now using nftables for \(new\) static rulesets) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-11T01:55:24Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesForNewStaticRules) Tj
+T*
+(Over on the Fediverse, I said : I feel I've now written enough Linux nftables configurations) Tj
+T*
+(that I've come to like it. It's a more pf-like experience than iptables, that's for sure \(and) Tj
+T*
+(that's a good thing when you're writing a coherent ruleset instead of manipulating things on) Tj
+T*
+(the fly\). I've had to write a few static IP filtering rulesets recently \(on Ubuntu\), and in) Tj
+T*
+(each case I immediately reached for nftables and enjoyed the experience. The nftables) Tj
+T*
+(documentation isn't what I consider great but I can navigate through it and get things done,) Tj
+T*
+(and I even managed to get NAT working on a recent machine. I'm now mostly considering my) Tj
+T*
+(iptables knowledge to be a legacy thing that I'll expect to use less and less in the future,) Tj
+T*
+(although I'm not going to go out and convert iptables rulesets to nftables rulesets. \(Partly) Tj
+T*
+(this is a conservation of attention thing. Both iptables and nftables have a lot of dim corners) Tj
+T*
+(that I have to remember if I'm doing anything complicated with them, and I only have so much of) Tj
+T*
+(a brain.\) One of the ways that nftables is nicer for me is that the natural way to write a) Tj
+T*
+(nftables ruleset is to edit /etc/nftables.conf \(or some other file\). This lets you \(me\) se...) Tj
+T*
+() Tj
+T*
+(9. Undo in Vi and its successors, and my views on the mess) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-12T04:20:16Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews) Tj
+T*
+(The original Bill Joy vi famously only had a single level of undo \(which is part of what makes) Tj
+T*
+(it a product of its time \). The 'u' command either undid your latest change or it redid the) Tj
+T*
+(change, undo'ing your undo. When POSIX and the Single Unix Specification wrote vi into the) Tj
+T*
+(standard, they required this behavior; the vi specification requires 'u' to work the same as it) Tj
+T*
+(does in ex , where it is specified as: Reverse the changes made by the last command that) Tj
+T*
+(modified the contents of the edit buffer, including undo. This is one particular piece of POSIX) Tj
+T*
+(compliance that I think everyone should ignore. Vim and its derivatives ignore the POSIX) Tj
+T*
+(requirement and implement multi-level undo and redo in the usual and relatively obvious way.) Tj
+T*
+(The vim 'u' command only undoes changes but it can undo lots of them, and to redo changes you) Tj
+T*
+(use Ctrl-r \('r' and 'R' were already taken\). Because 'u' \(and Ctrl-r\) are regular commands they) Tj
+T*
+(can be used with counts, so you can undo the last 10 changes \(or redo the last 10 undos\). Vim) Tj
+T*
+(can be set to vi compatible behavior if you want. I believe that vim's multi-level undo and) Tj
+T*
+(redo is the default even when it's invoked as 'vi' in an unconfigured environment,...) Tj
+T*
+() Tj
+T*
+(10. The original vi is a product of its time \(and its time has passed\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-08T03:51:03Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime) Tj
+T*
+(Recently I saw another discussion of how some people are very attached to the original,) Tj
+T*
+(classical vi and its behaviors \( cf \). I'm quite sympathetic to this view, since I too am very) Tj
+T*
+(attached to the idiosyncratic behavior of various programs I've gotten used to \(such as xterm's) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4582 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(very specific behavior in various areas\), but at the same time I had a hot take over on the) Tj
+T*
+(Fediverse : Hot take: basic vim \(without plugins\) is mostly what vi should have been in the) Tj
+T*
+(first place, and much of the differences between vi and vim are improvements. Multi-level undo) Tj
+T*
+(and redo in an obvious way? Windows for easier multi-file, cross-file operations? Yes please,) Tj
+T*
+(sign me up. Basic vi is a product of its time, namely the early 1980s, and the rather limited) Tj
+T*
+(Unix machines of the time \(yes a VAX 11/780 was limited\). \(The touches of vim) Tj
+T*
+(superintelligence, not so much, and I turn them off.\) For me, vim is a combination of genuine) Tj
+T*
+(improvements in vi's core editing behavior \( cf \), frustrating \(to me\) bits of trying too hard) Tj
+T*
+(to be smart \(which I mostly disable when I run across them\), and an extension mechanism I) Tj
+T*
+(ignore but people use to make vim into a superintelligent editor with things like LSP) Tj
+T*
+(integratio...) Tj
+T*
+() Tj
+T*
+(11. Cheapest way to keep a UK mobile number using an eSIM) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 11 Apr 2026 11:34:38 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/) Tj
+T*
+(I have an old mobile phone number that I'd like to keep. I think it is registered with a bunch) Tj
+T*
+(of services for 2FA by SMS, but I can't be sure. So I want to keep it for a couple of years) Tj
+T*
+(just in case I need it to log on to something. I don't want to faff around with physical SIMs,) Tj
+T*
+(so I went looking for the cheapest way to keep my number for the longest time. There are a) Tj
+T*
+(whole bunch of providers?) Tj
+T*
+() Tj
+T*
+(12. Reading List 04/11/2026) Tj
+T*
+(Source: Construction Physics | Published: Sat, 11 Apr 2026 12:02:56 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-04112026) Tj
+T*
+(Is the Strait of Hormuz open yet, building code cost benefit analysis, Intel joining Terafab,) Tj
+T*
+(sponge cities, and more.) Tj
+T*
+() Tj
+T*
+(13. OpenAI is nothing without its people) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-04-11T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/04/11/openai-people.html) Tj
+T*
+(This is a response to this Sam Altman?s blog post . Sam Altman is not the bad guy. History) Tj
+T*
+(comes from two places, great men and causes and forces. We have way too little of the former) Tj
+T*
+(and way too much of the latter right now. I hear that in America people fear the government) Tj
+T*
+(taking away their freedom, and in China people fear the lack of government taking away their) Tj
+T*
+(freedom. Maybe it?s just because I have been living in Asia, but I don?t fear Sam or Elon or) Tj
+T*
+(Dario at all. I fear the Molochian tragedy of the commons. The small decisions made by millions) Tj
+T*
+(every day that make the world slightly worse for their fellow man, like adding a dark pattern) Tj
+T*
+(to a website, lobbying to siphon a few more tax dollars, posting an advertisement that uses) Tj
+T*
+(fear to sell, or enabling the tip screen in a coffee shop. I don?t fear ?great men,? I fear) Tj
+T*
+(that there?s no one coordinated enough to prevent this. Technology does not contain a destiny.) Tj
+T*
+(If you haven?t read Manna , now is a good time to. The choices we as a society make determine) Tj
+T*
+(our future. The blog post is far too trusting of the democratic worldview. I know it doesn?t) Tj
+T*
+(say UBI, but I hope you understand UBI is not a real solution, UBI is an extremel...) Tj
+T*
+() Tj
+T*
+(14. Pluralistic: Don't Be Evil \(11 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 11 Apr 2026 13:34:48) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/11/obvious-terrible-ideas/) Tj
+T*
+(Today's links Don't Be Evil: Evil genius is just a lack of shame. Hey look at this: Delights to) Tj
+T*
+(delectate. Object permanence: FBI x Trotsky; Jakob Nielsen x headlines; Floppy disk stained) Tj
+T*
+(glass; Zero tolerance for mismatched socks; EFF v DOGE. Upcoming appearances: Toronto, San) Tj
+T*
+(Francisco, London, Berlin, NYC, Hay-on-Wye, London. Recent appearances: Where I've been. Latest) Tj
+T*
+(books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep) Tj
+T*
+(writin' 'em. Colophon: All the rest. Don't Be Evil \(permalink\) How I knew I was officially Old:) Tj
+T*
+(I stopped being disoriented by the experience of meeting with grown-ass adults who wanted to) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3731 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(thank me for the books of mine they'd read in their childhoods, which helped shape their lives.) Tj
+T*
+(Instead of marveling that a book that felt to me like it was ten seconds old was a childhood) Tj
+T*
+(favorite of this full-grown person, I was free to experience the intense gratification of) Tj
+T*
+(knowing I'd helped this person find their way, and intense gratitude that they'd told me about) Tj
+T*
+(it \(including you, Sean ? it was nice to meet you last night at Drawn and Quarterly in) Tj
+T*
+(Montreal!\). Now that I am Old, I find myself dwelling on key junctures from my life....) Tj
+T*
+() Tj
+T*
+(15. Optimism is not a personality flaw) Tj
+T*
+(Source: Westenberg. | Published: Sun, 12 Apr 2026 01:26:10 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/optimism-is-not-a-personality-flaw/) Tj
+T*
+(This newsletter is free to read, and it?ll stay that way. But if you want more - extra posts) Tj
+T*
+(each month, no sponsored CTAs, access to the community, and a direct line to ask me things -) Tj
+T*
+(paid subscriptions are $2.50/month. A lot of people have) Tj
+T*
+() Tj
+T*
+(16. How to Start a Startup) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/start.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(17. What You'll Wish You'd Known) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/hs.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(18. Made in USA) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/usa.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(19. Hello Deep Learning) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 30 Mar 2023 11:59:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/hello-deep-learning/) Tj
+T*
+(A from scratch GPU-free introduction to modern machine learning. Many tutorials exist already) Tj
+T*
+(of course, but this one aims to really explain what is going on, from the ground up. Also,) Tj
+T*
+(we?ll develop the demo until it is actually useful on real life data which you can supply) Tj
+T*
+(yourself. Other documents start out from the \(very impressive\) PyTorch environment, or they) Tj
+T*
+(attempt to math it up from first principles. Trying to understand deep learning via PyTorch is) Tj
+T*
+(like trying to learn aerodynamics from flying an Airbus A380.) Tj
+T*
+() Tj
+T*
+(20. EU Cyber Resilience Act part two: Updates & Impracticalities) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 23 Mar 2023 16:51:39 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/eu-cra-practicalities/) Tj
+T*
+(This is a living document - I?d normally spend a few days polishing everything, but since CRA) Tj
+T*
+(talks are ongoing right now, there?s simply no time for that. Check back frequently for) Tj
+T*
+(updates! Also please let me know urgently on bert@hubertnet.nl if you think I?m reading things) Tj
+T*
+(incorrectly! As a follow-up to my earlier post on the EU Cyber Resilience Act, here I?d like to) Tj
+T*
+(address some practicalities: how would it actually work.) Tj
+T*
+() Tj
+T*
+(21. The EU's new Cyber Resilience Act is about to tell us how to code) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 14 Mar 2023 09:13:10 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/eu-cra-secure-coding-solution/) Tj
+T*
+(First a round of thanks for the many people in industry and government who provided valuable) Tj
+T*
+(links, background and insights! I could not have done this without your help! If you spot any) Tj
+T*
+(mistakes, or have suggestions, please do contact me on bert@hubertnet.nl The EU?s new Cyber) Tj
+T*
+(Resilience Act is admirable in its goal. And the EU is not alone in thinking something needs to) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 209 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(be done about the dreadful state of security online ? the Biden administration has just) Tj
+T*
+(released its National Cybersecurity Strategy that has similar aims.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000003995 00000 n 
+0000004121 00000 n 
+0000009211 00000 n 
+0000009337 00000 n 
+0000013971 00000 n 
+0000014097 00000 n 
+0000017881 00000 n 
+0000018009 00000 n 
+0000018270 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+18398
+%%EOF
