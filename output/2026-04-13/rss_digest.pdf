@@ -1,0 +1,578 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4478 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-13 09:39:33) Tj
+T*
+() Tj
+T*
+(1. Gemma 4 audio with MLX) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-12T23:57:53+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/12/mlx-audio/#atom-everything) Tj
+T*
+(Thanks to a tip from Rahim Nathwani , here's a uv run recipe for transcribing an audio file on) Tj
+T*
+(macOS using the 10.28 GB Gemma 4 E2B model with MLX and mlx-vlm : uv run --python 3.13 --with) Tj
+T*
+(mlx_vlm --with torchvision --with gradio \\ mlx_vlm.generate \\ --model google/gemma-4-e2b-it \\) Tj
+T*
+(--audio file.wav \\ --prompt "Transcribe this audio" \\ --max-tokens 500 \\ --temperature 1.0 Your) Tj
+T*
+(browser does not support the audio element. I tried it on this 14 second .wav file and it) Tj
+T*
+(output the following: This front here is a quick voice memo. I want to try it out with MLX VLM.) Tj
+T*
+(Just going to see if it can be transcribed by Gemma and how that works. \(That was supposed to) Tj
+T*
+(be "This right here..." and "... how well that works" but I can hear why it misinterpreted that) Tj
+T*
+(as "front" and "how that works".\) Tags: uv , mlx , ai , gemma , llms , speech-to-text , python) Tj
+T*
+(, generative-ai) Tj
+T*
+() Tj
+T*
+(2. scan-for-secrets 0.1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-05T03:27:13+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything) Tj
+T*
+(Release: scan-for-secrets 0.1 I like publishing transcripts of local Claude Code sessions using) Tj
+T*
+(my claude-code-transcripts tool but I'm often paranoid that one of my API keys or similar) Tj
+T*
+(secrets might inadvertently be revealed in the detailed log files. I built this new Python) Tj
+T*
+(scanning tool to help reassure me. You can feed it secrets and have it scan for them in a) Tj
+T*
+(specified directory: uvx scan-for-secrets $OPENAI_API_KEY -d logs-to-publish/ If you leave off) Tj
+T*
+(the -d it defaults to the current directory. It doesn't just scan for the literal secrets - it) Tj
+T*
+(also scans for common encodings of those secrets e.g. backslash or JSON escaping, as described) Tj
+T*
+(in the README . If you have a set of secrets you always want to protect you can list commands) Tj
+T*
+(to echo them in a ~/.scan-for-secrets.conf.sh file. Mine looks like this: llm keys get openai) Tj
+T*
+(llm keys get anthropic llm keys get gemini llm keys get mistral awk -F=) Tj
+T*
+('/aws_secret_access_key/{print $2}' ~/.aws/credentials | xargs I built this tool using) Tj
+T*
+(README-driven-development: I carefully constructed the README describing exactly how the tool) Tj
+T*
+(should work, then dumped it into Claude Code and told it to build the actual tool \(using) Tj
+T*
+(red/green TDD , n...) Tj
+T*
+() Tj
+T*
+(3. Quoting Greg Kroah-Hartman) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-03T21:44:41+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/3/greg-kroah-hartman/#atom-everything) Tj
+T*
+(Months ago, we were getting what we called 'AI slop,' AI-generated security reports that were) Tj
+T*
+(obviously wrong or low quality. It was kind of funny. It didn't really worry us. Something) Tj
+T*
+(happened a month ago, and the world switched. Now we have real reports. All open source) Tj
+T*
+(projects have real reports that are made with AI, but they're good, and they're real. ? Greg) Tj
+T*
+(Kroah-Hartman , Linux kernel maintainer \( bio \), in conversation with Steven J. Vaughan-Nichols) Tj
+T*
+(Tags: security , linux , generative-ai , ai , llms , ai-security-research) Tj
+T*
+() Tj
+T*
+(4. Zed ? A Font Superfamily) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-12T22:00:00Z) Tj
+T*
+(Link: https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df) Tj
+T*
+(My thanks to Typotheque for sponsoring last week at DF to promote Zed, their incredible new) Tj
+T*
+(font superfamily. Zed is a type system that was developed with one question in mind: what do) Tj
+T*
+(readers actually need? Not what looks good in a type specimen, but what works for the widest) Tj
+T*
+(possible range of readers. Typotheque tested Zed with visually impaired patients at a French) Tj
+T*
+(ophthalmology hospital and found that Zed Text outperformed Helvetica in terms of reading speed) Tj
+T*
+(across all patient groups. Designed from scratch to perform different functions, it comes in) Tj
+T*
+(two optical versions ? Text and Display ? with four variable axes and support for 547) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4480 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(languages, including endangered ones. Zed is extremely practical, both in terms of its) Tj
+T*
+(extraordinarily broad language support and the stylistic variations available via its) Tj
+T*
+(adjustable width, weight, roundness, and slant. It even offers Braille characters and an icon) Tj
+T*
+(font . But Zed is also simply beautiful. It?s a font family and type system that exemplifies) Tj
+T*
+(the belief that rich accessibility and pure aesthetic appeal are not at odds. When you purchase) Tj
+T*
+(a license for Zed, you?re buying it directly from the designers. It?s just lovely, and you) Tj
+T*
+(should...) Tj
+T*
+() Tj
+T*
+(5. Viktor Orban Loses Election in Hungary, Concedes Defeat, Congratulates Opposition) Tj
+T*
+(Winners) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-12T21:59:00Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html) Tj
+T*
+(The New York Times: In a surprisingly early and gracious concession speech in Budapest, Mr.) Tj
+T*
+(Orban congratulated the opposition saying, ?The responsibility and opportunity to govern were) Tj
+T*
+(not given to us.? But, he also made a vow: ?We are not giving up. Never, never, never.? His) Tj
+T*
+(defeat paves the way for Peter Magyar, a former Orban loyalist and the leader of the main) Tj
+T*
+(opposition party, to take over as Hungary?s prime minister once the newly elected Parliament) Tj
+T*
+(meets. Political Wire : Orban said the ?election results, although not complete, are) Tj
+T*
+(understandable and clear. They are painful for us but unequivocal.? There we have it: Viktor) Tj
+T*
+(Orban ? a MAGA star and general anti-democratic corrupt dirtbag ? is a better and bigger man) Tj
+T*
+(than Donald Trump, who still refuses to concede the 2020 election that he unequivocally lost to) Tj
+T*
+(Joe Biden. ?) Tj
+T*
+() Tj
+T*
+(6. Golden Tickets) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-12T17:39:26Z) Tj
+T*
+(Link: https://www.presentandcorrect.com/blogs/blog/golden-tickets) Tj
+T*
+(More vintage graphic-design weekend fun ? this time, a collection of Milwaukee bus tickets from) Tj
+T*
+(the late 1940s to early 1950s, collected on the Present & Correct blog. So much variety in the) Tj
+T*
+(colors and typography, but yet they all feel branded together. Think about the care and thought) Tj
+T*
+(here. Whoever was making these was designing one for each week, every week ? and it?s so clear) Tj
+T*
+(they loved making them. Even something as mundane as weekly bus passes can be exuberant) Tj
+T*
+(expressions of fun. \( Via Ian K. Rogers , who particularly notes the tickets? integration of) Tj
+T*
+(hand-lettering with typefaces.\) ?) Tj
+T*
+() Tj
+T*
+(7. Your AWS Certificate Makes You an AWS Salesman) Tj
+T*
+(Source: iDiallo.com | Published: Sun, 12 Apr 2026 17:25:33 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed) Tj
+T*
+(I must have been the last developer still confused by the AWS interface. I knew how to access) Tj
+T*
+(DynamoDB, that was the only tool I needed for my daily work. But everything else was a mystery.) Tj
+T*
+(How do I access web hosting? If I needed a small server to host a static website, what service) Tj
+T*
+(would I use? Searching for "web hosting" inside the AWS console yielded nothing. After digging) Tj
+T*
+(through the web, I found the answer: an Elastic Cloud Compute instance, better known as EC2. I) Tj
+T*
+(learned that I could use it under the "Free Tier." Amazon offers free tiers for many services,) Tj
+T*
+(but figuring out the actual cost beyond that introductory period requires elaborate calculation) Tj
+T*
+(tools. In fact, I?ve often seen independent developers build tools specifically to help people) Tj
+T*
+(decipher AWS pricing If you want to use AWS effectively, it seems the only path is to get) Tj
+T*
+(certified. Companies send employees to conferences and courses to learn the platform. I took) Tj
+T*
+(some of those courses and they taught me how to navigate the interface and build very specific) Tj
+T*
+(things. But that skill isn't transferrable. In the course, I wasn't exactly learning a new) Tj
+T*
+(engineering skill. Instead, I was learning Amazon. Amazon has created...) Tj
+T*
+() Tj
+T*
+(8. Lunar period approximations) Tj
+T*
+(Source: John D. Cook | Published: Sun, 12 Apr 2026 23:42:01 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/12/lunations/) Tj
+T*
+(The date of Easter The church fixed Easter to be the first Sunday after the first full moon) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4649 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(after the Spring equinox. They were choosing a date in the Roman \(Julian\) calendar to) Tj
+T*
+(commemorate an event whose date was known according to the Jewish lunisolar calendar, hence the) Tj
+T*
+(reference to equinoxes and full moons. The [?] The post Lunar period approximations first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. The gap between Eastern and Western Easter) Tj
+T*
+(Source: John D. Cook | Published: Sun, 12 Apr 2026 12:09:13 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/12/orthodox-western-easter/) Tj
+T*
+(Today is Orthodox Easter. Western churches celebrated Easter last week. Why are the Eastern and) Tj
+T*
+(Western dates of Easter different? Is Eastern Easter always later than Western Easter? How far) Tj
+T*
+(apart can the two dates be? Why the dates differ Easter is on the first Sunday after the first) Tj
+T*
+(full moon in Spring [1]. East [?] The post The gap between Eastern and Western Easter first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Vim and 'forward delete' \(in modern terminal programs\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-13T01:32:14Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/unix/VimAndForwardDelete) Tj
+T*
+(On the Fediverse, I had a learning experience : Another what the heck moment in Fedora 43. In) Tj
+T*
+(Gnome-terminal \(only, not xterm\), hitting 'Delete' in vim insert mode no longer deletes) Tj
+T*
+(characters to the left of the cursor, only characters to the right. Delete is generating ^? in) Tj
+T*
+(both gnome-terminal and xterm, and Delete works to delete characters in vim in g-t on the ':') Tj
+T*
+(command prompt. Whatever vim / gnome-terminal combined stupidity this is, I want it gone. Now.) Tj
+T*
+(Actually I got the name of the key wrong. The key I was hitting is BackSpace \(in X keysym) Tj
+T*
+(terminology\). I thought of it as Delete because that's what it generates, but the real Delete) Tj
+T*
+(key is another key, and this turns out to be relevant. What I described happening is what I) Tj
+T*
+(think is normally called as 'forward delete', as opposed to 'backward delete', the normal) Tj
+T*
+(BackSpace behavior \(and what I want\). I will skip ahead to the fix: for historical reasons , I) Tj
+T*
+(had Gnome-terminal set to generate ASCII DEL for both the BackSpace and the Delete keys \(it's) Tj
+T*
+(in a per-profile 'Compatibility' tab\). The modern proper setting for Delete is 'escape code'.) Tj
+T*
+(Setting that cured the problem, but how we got here is the interesting bit. Unix has...) Tj
+T*
+() Tj
+T*
+(11. Apache 2.4, ETag values, and \(HTTP\) response compression) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-12T02:26:44Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/Apache24EtagAndSuffixes) Tj
+T*
+(One of the things that Apache and other web servers have been able to do for a long time is to) Tj
+T*
+(compress responses when the requesting agent indicates that it supports this. Accepting) Tj
+T*
+(compressed responses is so common that not doing so is potentially an bad sign , although a) Tj
+T*
+(distressing number of syndication feed fetchers don't request \(or accept\) compressed responses.) Tj
+T*
+(Apache is sophisticated enough that it can compress output on the fly and do it for) Tj
+T*
+(unpredictable sources of dynamic content, such as CGIs and Django web applications \(and) Tj
+T*
+(requests it acts as a reverse proxy for, as far as I know\). Another thing that the web has is) Tj
+T*
+(the ETag header . An ETag header is supposed to be a unique identifier for a specific version) Tj
+T*
+(of a 'resource', ie a URL. The place I normally think of ETags being used is in conditional) Tj
+T*
+(GETs , but it also has a lesser appreciated \(by me\) role in HTTP caching , and as I understand) Tj
+T*
+(it, that creates a little problem. An opportunistic cache is allowed to use the same ETag and) Tj
+T*
+(If-None-Match headers for cache validation . When an ETag value is only used by the origin) Tj
+T*
+(server for conditional GET, we generally would prefer that the ETag value not vary based on) Tj
+T*
+(the...) Tj
+T*
+() Tj
+T*
+(12. How we failed to notice a power failure) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-07T04:26:52Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NotNoticingPowerFailure) Tj
+T*
+(Over on the Fediverse, I mentioned that we once missed noticing that there had been a power) Tj
+T*
+(failure . Naturally there is a story there \(and this is the expanded version of what I said in) Tj
+T*
+(the Fediverse thread\). A necessary disclaimer is that this was all some time ago and I may be) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3926 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(mangling or mis-remembering some of the details. My department is spread across multiple) Tj
+T*
+(buildings, one of which has my group's offices and our ancient machine room \(which I believe) Tj
+T*
+(has been there since the building burned down and was rebuilt \). But for various reasons, this) Tj
+T*
+(building doesn't have any of the department's larger meeting rooms. Once upon a time we had a) Tj
+T*
+(weekly meeting of all the system administrators \(and our manager\), both my group and all of the) Tj
+T*
+(Points of Contact , which amounted to a dozen people or so and needed one of the larger meeting) Tj
+T*
+(rooms, which was of course in a different building than our machine room. As I was sitting in) Tj
+T*
+(the meeting room during one weekly meeting, fiddling around, I tried to get my Linux laptop on) Tj
+T*
+(either our wireless network or our wired laptop network \(it's been long enough that I can't) Tj
+T*
+(remember which\). This was back in the days when networking on Linux laptop...) Tj
+T*
+() Tj
+T*
+(13. It's Charisma, Stupid) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/charisma.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(14. Bradley's Ghost) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/polls.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. A Version 1.0) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/laundry.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. IrDA) Tj
+T*
+(Source: computers are bad | Published: 11 Apr 2026 00:00:00 UT) Tj
+T*
+(Link: https://computer.rip/2026-04-11-IrDA.html) Tj
+T*
+(Light: it's the radiation we can see. The communications potential of light is obvious, and) Tj
+T*
+(indeed, many of the earliest forms of long-distance communication relied on it: signal fires,) Tj
+T*
+(semaphore, heliographs. You could say that we still make extensive use of light for) Tj
+T*
+(communications today, in the form of fiber optics. Early on, some fiber users \(such as AT&T\)) Tj
+T*
+(even preferred the term "lightguide," a nice analogy to the long-distance waveguides that Bell) Tj
+T*
+(Laboratories had experimented with. The comparison between lightguide and waveguide illuminates) Tj
+T*
+(\(heh\) an important dichotomy in radiation-based communication. We make wide use of radio) Tj
+T*
+(frequency in both free-space applications \("radio" as we think of it\) and confined applications) Tj
+T*
+(\(like cable television\). We also make wide use of light in confined fiber optic systems. That) Tj
+T*
+(leaves us to wonder about the less-considered fourth option: free-space optical \(FSO\)) Tj
+T*
+(communications, the use of modulated light without a confined guide. Well, if I had written) Tj
+T*
+(this two or three years ago, free-space optical might have counted as quite obscure. The idea) Tj
+T*
+(of using a modulated laser or LED light source for communications over a distance is) Tj
+T*
+(actually...) Tj
+T*
+() Tj
+T*
+(17. Celebrating Cerebration: ON CREATIVITY - by Isaac Asimov) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 13 Mar 2023 09:13:10 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/asimov-on-creativity/) Tj
+T*
+(?The history of human thought would make it seem that there is difficulty in thinking of an) Tj
+T*
+(idea even when all the facts are on the table? ? Isaac Asimov In 2014, MIT?s Technology Review) Tj
+T*
+(wrote a very interesting article about an attempt to have Isaac Asimov be part of a group of) Tj
+T*
+(scientists attempting to think outside of the box. In this article they included a 1959 essay) Tj
+T*
+(that Asimov wrote instead of continuing to taking part in this \(classified\) government work.) Tj
+T*
+() Tj
+T*
+(18. Reactie consultatie Nota van wijziging Tijdelijke Cyberwet AIVD en MIVD) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 15 Jan 2023 14:49:33 +0100) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1956 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link:) Tj
+T*
+(https://berthub.eu/articles/posts/reactie-consultatie-nota-van-wijziging-tijdelijke-cyberwet/) Tj
+T*
+(Deze reactie is als PDF ook te vinden op de site internetconsultatie.nl. Ook kan er tot en met) Tj
+T*
+(16 januari nog gereageerd worden. Aan de minister van Binnenlandse Zaken en) Tj
+T*
+(Koninkrijksrelaties, H.G.J Bruins Slot en aan minister van Defensie, K.H. Ollongren Betreft:) Tj
+T*
+(Tijdelijke wet onderzoeken AIVD en MIVD naar landen met een offensief cyberprogramma Geachte) Tj
+T*
+(ministers, In aanvulling op de uitstekende reacties van mijn voormalige collega?s van de) Tj
+T*
+(Toetsingscommissie Inzet Bevoegdheden, de stichting Bits of Freedom en het College voor de) Tj
+T*
+(Rechten van de Mens wil ik graag het volgende kwijt.) Tj
+T*
+() Tj
+T*
+(19. Elektriciteitsprijzen: Hoe zit het precies) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 02 Jan 2023 13:03:56 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/elektriciteitsprijzen-hoe-zit-het-precies/) Tj
+T*
+(Deze pagina is mede tot stand gekomen door kritisch commentaar & feedback van Marien Boonman en) Tj
+T*
+(Hidde Brugmans & anonieme experts. Dank! En mochten er desondanks fouten zijn ->) Tj
+T*
+(bert@hubertnet.nl We beginnen simpel, een woonhuis zonder zonnepanelen, verbruik minder dan) Tj
+T*
+(10.000kWh/jaar. Je elektriciteitsrekening bestaat \(volgens de regels geldend op op 2 januari) Tj
+T*
+(2023\) dan uit de volgende componenten: De kale kWh-prijs die je energieleverancier verzonnen) Tj
+T*
+(heeft \(waarover later meer, per kWh\) Opslag Duurzame Energie- en Klimaattransitie \(ODE\) \(3,05) Tj
+T*
+(cent per kWh in 2022, 0 cent in 2023\) Energiebelasting \(3,679 cent per kWh, 12,599 cent per kWh) Tj
+T*
+(in 2023\) BTW over al het bovenstaande \(9% laatste helft 2022, per 1 januari 2023 weer 21%\) Dit) Tj
+T*
+(samen is wat je elektriciteitsbedrijf hun ?tarief per kWh inclusief belastingen? moet noemen.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004747 00000 n 
+0000004873 00000 n 
+0000009405 00000 n 
+0000009531 00000 n 
+0000014232 00000 n 
+0000014358 00000 n 
+0000018337 00000 n 
+0000018465 00000 n 
+0000020474 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20602
+%%EOF
