@@ -1,0 +1,710 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4609 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-14 09:38:46) Tj
+T*
+() Tj
+T*
+(1. Quoting Steve Yegge) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-13T20:59:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything) Tj
+T*
+(The TL;DR is that Google engineering appears to have the same AI adoption footprint as John) Tj
+T*
+(Deere, the tractor company. Most of the industry has the same internal adoption curve: 20%) Tj
+T*
+(agentic power users, 20% outright refusers, 60% still using Cursor or equivalent chat tool. It) Tj
+T*
+(turns out Google has this curve too. [...] There has been an industry-wide hiring freeze for) Tj
+T*
+(18+ months, during which time nobody has been moving jobs. So there are no clued-in people) Tj
+T*
+(coming in from the outside to tell Google how far behind they are, how utterly mediocre they) Tj
+T*
+(have become as an eng org. ? Steve Yegge , provocative, as always Tags: steve-yegge , google ,) Tj
+T*
+(generative-ai , agentic-engineering , ai , llms) Tj
+T*
+() Tj
+T*
+(2. Exploring the new `servo` crate) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-13T15:04:00+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything) Tj
+T*
+(Research: Exploring the new `servo` crate In Servo is now available on crates.io the Servo team) Tj
+T*
+(announced the initial release of the servo crate, which packages their browser engine as an) Tj
+T*
+(embeddable library. I set Claude Code for web the task of figuring out what it can do, building) Tj
+T*
+(a CLI tool for taking screenshots using it and working out if it could be compiled to) Tj
+T*
+(WebAssembly. The servo-shot Rust tool it built works pretty well: git clone) Tj
+T*
+(https://github.com/simonw/research cd research/servo-crate-exploration/servo-shot cargo build) Tj
+T*
+(./target/debug/servo-shot https://news.ycombinator.com/ Here's the result: Compiling Servo) Tj
+T*
+(itself to WebAssembly is not feasible due to its heavy use of threads and dependencies like) Tj
+T*
+(SpiderMonkey, but Claude did build me this playground page for trying out a WebAssembly build) Tj
+T*
+(of the html5ever and markup5ever_rcdom crates, providing a tool for turning fragments of HTML) Tj
+T*
+(into a parse tree. Tags: research , browsers , rust , webassembly , claude-code , servo) Tj
+T*
+() Tj
+T*
+(3. Quoting Bryan Cantrill) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-13T02:44:24+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything) Tj
+T*
+(The problem is that LLMs inherently lack the virtue of laziness . Work costs nothing to an LLM.) Tj
+T*
+(LLMs do not feel a need to optimize for their own \(or anyone's\) future time, and will happily) Tj
+T*
+(dump more and more onto a layercake of garbage. Left unchecked, LLMs will make systems larger,) Tj
+T*
+(not better ? appealing to perverse vanity metrics, perhaps, but at the cost of everything that) Tj
+T*
+(matters. As such, LLMs highlight how essential our human laziness is: our finite time forces us) Tj
+T*
+(to develop crisp abstractions in part because we don't want to waste our \(human!\) time on the) Tj
+T*
+(consequences of clunky ones. ? Bryan Cantrill , The peril of laziness lost Tags: bryan-cantrill) Tj
+T*
+(, ai , llms , ai-assisted-programming , generative-ai) Tj
+T*
+() Tj
+T*
+(4. Steven Soderbergh Twice Pitched James Bond Projects) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-14T00:30:46Z) Tj
+T*
+(Link: https://theplaylist.net/steven-soderbergh-says-he-pitched-two-different-james-bond-plans-) Tj
+T*
+(including-a-twofer-that-would-have-created-an-new-auteur-lane-for-the-franchise-20260409/) Tj
+T*
+(The Playlist: The first pitch, he said, goes back to 2008, and it was already pretty radical by) Tj
+T*
+(Bond standards. ?I had pitched in 2008 the idea to Barbara Broccoli of a parallel franchise,?) Tj
+T*
+(Soderbergh said. ?Set in the ?60s, R-rated, violent, sexy. Fictional backstory to real) Tj
+T*
+(historical events, different actor, different universe.? [...] That version was designed to) Tj
+T*
+(open up a different, more lo-fi, stripped-down, and cost-effective way of making Bond movies,) Tj
+T*
+(but not a replacement for them. ?[It would be] cheaply made, where you get people like me, who) Tj
+T*
+(are interested in that approach to do one of these things,? Soderbergh explained. ?It?s just) Tj
+T*
+(another lane that exists totally separate from the normal Bond movies.? Broccoli and company,) Tj
+T*
+(he said, were at least open enough to hear it out. ?They were intrigued,? Soderbergh said. ?But) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4602 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(didn?t move forward.? This hurts ? it hurts to ponder what could have been. ?) Tj
+T*
+() Tj
+T*
+(5. Apple Frames 4) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-13T23:55:46Z) Tj
+T*
+(Link: https://www.macstories.net/stories/introducing-apple-frames-4-a-revamped-shortcut-support) Tj
+T*
+(-for-frame-colors-proportional-scaling-and-the-apple-frames-cli-for-developers/) Tj
+T*
+(Federico Viticci: Today, I?m very happy to introduce Apple Frames 4, a major update to my) Tj
+T*
+(shortcut for framing screenshots taken on Apple devices with official Apple product bezels.) Tj
+T*
+(Apple Frames 4 is a complete rethinking of the shortcut that is noticeably faster, updated to) Tj
+T*
+(support all the latest Apple devices, and designed to support even more personalization) Tj
+T*
+(options. For the first time ever, Apple Frames supports multiple colors for each device,) Tj
+T*
+(allowing you to mix and match different colored bezels for each framed screenshot; it also) Tj
+T*
+(supports proportional scaling when merging screenshots from different Apple devices. But that?s) Tj
+T*
+(not all. In addition to an updated shortcut, I?m also releasing the Apple Frames CLI , an open) Tj
+T*
+(source command-line utility that lets developers and tinkerers automate the process of framing) Tj
+T*
+(screenshots directly from the Mac?s Terminal. And there?s more: the Apple Frames CLI is also) Tj
+T*
+(designed to work with AI agents, and it comes with a Claude Code/Codex skill that lets coding) Tj
+T*
+(agents take care of framing dozens or even hundreds of screenshots in just a few seconds, from) Tj
+T*
+(any folder on your Mac. David Smith : I?ve been using this recently and it is super hel...) Tj
+T*
+() Tj
+T*
+(6. Memory, They Say, Is the First Thing to Go) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-13T23:46:10Z) Tj
+T*
+(Link: https://daringfireball.net/2006/09/zoom_using_scroll_wheel) Tj
+T*
+(Welp, turns out I wrote an entire post about the Control-scroll zoom-in-and-out feature all the) Tj
+T*
+(way back in 2006, when it was a new feature in Mac OS X 10.4 Tiger. Somehow, between 2006 and) Tj
+T*
+(last year, I completely forgot about it. I don?t think it helps that the settings moved from) Tj
+T*
+(the Mouse panel to the Zoom sub-section inside Accessibility. But I?ve used it so much in the) Tj
+T*
+(last year, since rediscovering it, that I can?t believe I ever forgot it. Anyway, after I) Tj
+T*
+(posted about it earlier today, a few people told me they could swear they learned about it) Tj
+T*
+(here, long ago. They were right! ?) Tj
+T*
+() Tj
+T*
+(7. Finding a duplicated item in an array of N integers in the range 1 to N ? 1) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 13 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260413-00/?p=112227) Tj
+T*
+(Taking advantage of special characteristics of the array. The post Finding a duplicated item in) Tj
+T*
+(an array of N integers in the range 1 to N ? 1 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. You paid for it, you should be comfortable in it) Tj
+T*
+(Source: iDiallo.com | Published: Mon, 13 Apr 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed) Tj
+T*
+(A friend of mine bought a Tesla Roadster back in the early 2010s. At the time, spotting a Tesla) Tj
+T*
+(on the road was a rare event. Maybe even occasion enough to stop and take a picture. I never) Tj
+T*
+(got the chance to photograph one, let alone drive one, until I met this new friend recently.) Tj
+T*
+(This was my chance to experience the car firsthand. We walked to the parking structure to see) Tj
+T*
+(it. As soon as he opened the door, something looked... off. On the outside, it was a pristine,) Tj
+T*
+(six-figure roadster. But the inside looked completely custom. Not "custom" in the sense of a) Tj
+T*
+(professional shop install, but more like the driver himself grabbed a hammer and chisel and) Tj
+T*
+(made it his own. First, the driver's seat had been altered. It was much lower than usual and) Tj
+T*
+(didn't match the passenger seat. My friend stands 6'7", and the Roadster is a tiny car. He) Tj
+T*
+(physically couldn't fit, so he modified the seat rails to lower it. But that fix created a new) Tj
+T*
+(problem: the door armrest now dug into his hip. So, he took a file to the interior panel,) Tj
+T*
+(shaved it down, and 3D printed a smaller, ergonomic armrest. He even 3D printed a cup holder) Tj
+T*
+(for the passenger side so his coffee was within reach. To me, the idea of taking...) Tj
+T*
+() Tj
+T*
+(9. Mathematical minimalism) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 5030 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: John D. Cook | Published: Mon, 13 Apr 2026 14:33:16 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/) Tj
+T*
+(Andrzej Odrzywolek recently posted an article on arXiv showing that you can obtain all the) Tj
+T*
+(elementary functions from just the function and the constant 1. The following equations, taken) Tj
+T*
+(from the paper?s supplement, show how to bootstrap addition, subtraction, multiplication, and) Tj
+T*
+(division from the elm function. See the paper and supplement for how to obtain [?] The post) Tj
+T*
+(Mathematical minimalism first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. A surprising path to accessing localhost URLs and HTTP services) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-06T03:44:38Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/LocalhostSurpriseAccessViaAny) Tj
+T*
+(One of the classic challenges in web security is DNS rebinding . The simple version is that you) Tj
+T*
+(put some web service on localhost in order to keep outside people from accessing it, and then) Tj
+T*
+(some joker out in the world makes 'evil.example.org' resolve to 127.0.0.1 and arranges to get) Tj
+T*
+(you to make requests to it. Sometimes this is through JavaScript in a browser, and sometimes) Tj
+T*
+(this is by getting you to fetch things from URLs they supply \(because you're running a service) Tj
+T*
+(that fetches and processes things from external URLs, for example\). One way people defend) Tj
+T*
+(against this is by screening out 127.0.0.0/8, IPv6's ::1, and other dangerous areas of IP) Tj
+T*
+(address space from DNS results \(either in the DNS resolver or in your own code\). And you can) Tj
+T*
+(also block URLs with these as explicit IP addresses, or 'localhost' or the like. Sometimes you) Tj
+T*
+(might add extra security restrictions to a process or an environment through means like Linux) Tj
+T*
+(eBPF to screen out which IP addresses you're allowed to connect to \( cf , and I don't know) Tj
+T*
+(whether systemd's restrictions would block this\). As I discovered the other day, if you connect) Tj
+T*
+(to INADDR_ANY, you connect to localhost \(which any number of people already kn...) Tj
+T*
+() Tj
+T*
+(11. The meaning of connecting to INADDR_ANY in TCP and UDP) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-05T02:57:23Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/SocketConnectToAnyMeaning) Tj
+T*
+(An interesting change to IP behavior landed in FreeBSD 15, as I discovered by accident . To) Tj
+T*
+(quote from the general networking section of the FreeBSD 15 release notes : Making a connection) Tj
+T*
+(to INADDR_ANY , i.e., using it as an alias for localhost , is now disabled by default. This) Tj
+T*
+(functionality can be re-enabled by setting the net.inet.ip.connect_inaddr_wild sysctl to 1.) Tj
+T*
+(cd240957d7ba The change's commit message has a bit of a different description: Previously) Tj
+T*
+(connect\(\) or sendto\(\) to INADDR_ANY reached some socket bound to some host interface address.) Tj
+T*
+(Although this was intentional it was an artifact of a different era, and is not desirable now.) Tj
+T*
+(This is connected to an earlier change and FreeBSD bugzilla #28075 , which has some additional) Tj
+T*
+(background and motivation for the overall change \(as well as the history of this feature in 4.x) Tj
+T*
+(BSD\). The \(current\) Linux default behavior matches the previous FreeBSD behavior. If you had) Tj
+T*
+(something listening on localhost \(in IPv4, specifically 127.0.0.1\) or listening on INADDR_ANY,) Tj
+T*
+(connecting to INADDR_ANY would reach it and give the source of your connection a localhost) Tj
+T*
+(address \(either 127.0.0.1 or ::1 depending on IPv4 versus IPv6\). Obviously the...) Tj
+T*
+() Tj
+T*
+(12. I prefer to pass secrets between programs through standard input) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-04T04:13:06Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin) Tj
+T*
+(There are a variety of ways to pass secrets from one program to another on Unix, and many of) Tj
+T*
+(them may expose your secrets under some circumstances. A secret passed on the command line is) Tj
+T*
+(visible in process listings; a secret passed in the environment can be found in the process's) Tj
+T*
+(environment \(which can usually be inspected by outside parties\). When I've had to deal with) Tj
+T*
+(this in administrative programs in our environment , I have reached for an old Unix standby:) Tj
+T*
+(pass the secret between programs through file descriptors, specifically standard input and) Tj
+T*
+(standard output. This can even be used and done in shell scripts. However, there are obviously) Tj
+T*
+(some cautions, both in general and in shell scripts. Although Bourne shell script variables) Tj
+T*
+(look like environment variables, they aren't exported into the environment until you ask for) Tj
+T*
+(this with ' export '. Naturally you should never do this for the environment variables that) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4640 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(hold secrets. Also, these days 'echo' is a built-in in any version of the Bourne shell you want) Tj
+T*
+(to use, so ' echo $somesecret ' does not actually run a process that has the secret visible in) Tj
+T*
+(its command line arguments. However, you have to be careful what commands you u...) Tj
+T*
+() Tj
+T*
+(13. Common Package Specification) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-04-13T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/04/13/common-package-specification.html) Tj
+T*
+(The Common Package Specification went stable in CMake 4.3 last year and the name caught my) Tj
+T*
+(attention because it sounds like it might be addressing the cross-ecosystem dependency problem) Tj
+T*
+(I?ve written about before . Reading the spec, the ?common? turns out to mean common across) Tj
+T*
+(build systems rather than common across language ecosystems: it?s a JSON format that CMake and) Tj
+T*
+(Meson and autotools can all read to find out where an installed library lives and how to link) Tj
+T*
+(against it, replacing the mix of .pc files and *Config.cmake scripts that currently fill that) Tj
+T*
+(role. The schema is full of include paths, preprocessor defines, link flags, component types) Tj
+T*
+(like dylib and archive and interface for header-only libraries, and feature strings like c++11) Tj
+T*
+(and gnu , which makes sense given it came out of Kitware and the C++ tooling study group and is) Tj
+T*
+(being driven by people building large C++ applications who are tired of every build system) Tj
+T*
+(having its own incompatible way of describing the same installed library. Conan can already) Tj
+T*
+(generate CPS files for everything in ConanCenter, and CMake?s find_package\(\) reads them with) Tj
+T*
+(fallback to the older formats, so libraries built through that toolchain will s...) Tj
+T*
+() Tj
+T*
+(14. Sometimes powerful people just do dumb shit) Tj
+T*
+(Source: Westenberg. | Published: Mon, 13 Apr 2026 06:01:21 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/) Tj
+T*
+(This newsletter is free to read, and it?ll stay that way. But if you want more - extra posts) Tj
+T*
+(each month, no sponsored CTAs, access to the community, and a direct line to ask me things -) Tj
+T*
+(paid subscriptions are $2.50/month. A lot of people have) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: Austerity creates fascism \(13 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 13 Apr 2026 05:29:27) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/12/always-great/) Tj
+T*
+(Today's links Austerity creates fascism: We can't afford to not afford nice things. Hey look at) Tj
+T*
+(this: Delights to delectate. Object permanence: The Server of Amontillado; Flapper's) Tj
+T*
+(Dictionary; Mastercard v rec.humor.funny; Philippines electoral data breach; A front page from) Tj
+T*
+(the Trump presidency; Spike Lee x Bernie Sanders; France v password hashing; Algorithms as) Tj
+T*
+(Central European folk-dances; Save Comcast; Lex Luthor v export controls; Zuckerberg in the) Tj
+T*
+(dock. Upcoming appearances: Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye, London.) Tj
+T*
+(Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Austerity creates) Tj
+T*
+(fascism \(permalink\) I'm worried about AI psychosis. Specifically, I'm worried about the) Tj
+T*
+(psychosis that makes our "capital allocators" spend $1.4T on the money-losingest technology in) Tj
+T*
+(the history of the human race, in pursuit of a bizarre fantasy that if we teach the) Tj
+T*
+(word-guessing program enough words, it will take all the jobs. That's some next-level) Tj
+T*
+(underpants-gnomery: https://pluralistic.net/2026/03/12/normal-technology/#bubble-exceptionalism) Tj
+T*
+(The thing...) Tj
+T*
+() Tj
+T*
+(16. The ?Everyone?s a Billionaire? act) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-04-13T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/04/13/everyones-a-billionaire.html) Tj
+T*
+(I heard that while this blog is good at diagnosing the problem, it falls short when proposing) Tj
+T*
+(solutions. Today I?m proposing a solution that everyone \(except the haters and losers\) can get) Tj
+T*
+(behind. We have a real problem in America, and it?s billionaires. I mean, it?s actually fiat) Tj
+T*
+(money that the state can print arbitrary amounts of, but that?s a complicated idea, so we?ll) Tj
+T*
+(just say it?s billionaires. You, as an American, have the same right to be a billionaire as) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3619 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(everyone else. You know that feeling of resentment you have when you see rich people on social) Tj
+T*
+(media. Watch the resentment fade once we give everyone a billion dollars . The implementation) Tj
+T*
+(of this act would be straightforward. Americas population is 342.6 million. First, we issue new) Tj
+T*
+(billion dollar bills and print 342.6 million of them. Then we hand them out. A beautiful thing) Tj
+T*
+(about this bill is it gives plenty of things for the Democrats and Republicans to squabble) Tj
+T*
+(over. Should we give the billion dollars to undocumented immigrants \(or illegal aliens, if you) Tj
+T*
+(prefer\)? Should children get the billion? Should we hold it in a trust for them? Should) Tj
+T*
+(existing billionaires get it? They are already billionaires, this act is for t...) Tj
+T*
+() Tj
+T*
+(17. That?s a Skill Issue) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 12 Apr 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/skill-issue/) Tj
+T*
+(I quipped on BlueSky : It?s interesting how AI proponents are often like "skill issue" when the) Tj
+T*
+(LLM doesn't work like someone expects. Whereas when human-centered UX people see someone using) Tj
+T*
+(it wrong, they're like "skill issue on us , the people who made this" This is top of mind) Tj
+T*
+(because I?ve been working with Jan Miksovsky on his project Web Origami and he exemplified this) Tj
+T*
+(to me recently. I was working with some part of Origami and I was ?holding it wrong?. I kept) Tj
+T*
+(apologizing for my misunderstanding and misuse. And Jan ? rather than being like ?Yeah, that?s) Tj
+T*
+(a skill issue on your part, but you?ll get there? ? his posture as tool-maker was one of) Tj
+T*
+(introspection. He took the time to consider that perhaps the technology he was building was not) Tj
+T*
+(properly aligning with my expectations as a user \(or human-centered factors more generally\).) Tj
+T*
+(And he graciously explained that perspective to me, making me feel ? well, not like an idiot.) Tj
+T*
+(My inability to find the results others claim with AI often has me saying either 1\) ?these) Tj
+T*
+(claims are obviously BS?, or 2\) ?I guess it?s a skill issue on my part?. And it kinda sucks to) Tj
+T*
+(be saying \(2\) to yourself all the time, regardless of the technology. A tech...) Tj
+T*
+() Tj
+T*
+(18. What the Bubble Got Right) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/bubble.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(19. The Age of the Essay) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/essay.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. The Python Paradox) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/pypar.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(21. give-them-two-choices) Tj
+T*
+(Source: Chad Nauseam Home | Published: -) Tj
+T*
+(Link: https://chadnauseam.com/coding/tips/give-them-two-choices) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(22. A little tool to visualise MoE expert routing) Tj
+T*
+(Source: Martin Alderson | Published: Mon, 13 Apr 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/moe-expert-routing-visualization/?utm_source=rss&utm_med) Tj
+T*
+(ium=rss&utm_campaign=feed) Tj
+T*
+(I built a small tool to visualise how Mixture of Experts models route tokens through different) Tj
+T*
+(experts. It's genuinely fascinating to watch.) Tj
+T*
+() Tj
+T*
+(23. Always use feenableexcept\(\) when doing floating point math) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 24 Dec 2022 21:28:43 +0100) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2240 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://berthub.eu/articles/posts/always-do-this-floating-point/) Tj
+T*
+(This is a refreshed & expanded copy of a very old page I hosted outside of this blog. I) Tj
+T*
+(recently ran into ?silent NaNs? again, and thought it might be a good idea to republish this) Tj
+T*
+(advice here. A small post that documents something that almost no one appears to know. And if) Tj
+T*
+(you do anything with floating point, you do need to know. Exceptions In C or C++, try this:) Tj
+T*
+() Tj
+T*
+(24. Vervang vergeten verontwaardiging over privacyschendingen door inhoudelijke analyse) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 24 Dec 2022 08:32:19 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/vervang-vergeten-privacy-verontwaardiging-door-analyse/) Tj
+T*
+(Dit artikel verscheen in iets andere vorm in de Volkskrant. Hier een versie met klikbare links) Tj
+T*
+(ter onderbouwing: Recent presenteerde het kabinet een nieuwe wet die volgens de Autoriteit) Tj
+T*
+(Persoonsgegevens inhoudt dat alle banktransacties van alle Nederlandse rekeninghouders) Tj
+T*
+(gemonitord zullen worden in ÈÈn gecentraliseerde database, met gebruik van algoritmes. De) Tj
+T*
+(uitvoering zal in handen komen van een commerciÎle derde partij. Dit alles ter voorkoming van) Tj
+T*
+(witwassen en terrorismefinanciering. Foto van Isaac Chou op Unsplash) Tj
+T*
+() Tj
+T*
+(25. Is Europe Just Not Good at Innovating?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 13 Dec 2022 17:15:50 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/is-europe-just-not-good-at-innovating/) Tj
+T*
+(This article is part of a series on \(European\) innovation and capabilities. Feedback is very) Tj
+T*
+(welcome on bert@hubertnet.nl. I?d also like to thank the many proofreaders, but all mistakes) Tj
+T*
+(remain mine! In the world of \(high\) technology, Europe is exceptionally weak at innovating.) Tj
+T*
+(There are many ways to explain how this came to be, and a lot of the discussion focuses on) Tj
+T*
+(unfair business conditions and regulation. In this post however I want to talk about important) Tj
+T*
+(cultural and social reasons that are at least part of the reason, and present some possible) Tj
+T*
+(solutions.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004885 00000 n 
+0000005011 00000 n 
+0000009665 00000 n 
+0000009791 00000 n 
+0000014873 00000 n 
+0000014999 00000 n 
+0000019692 00000 n 
+0000019820 00000 n 
+0000023492 00000 n 
+0000023620 00000 n 
+0000025913 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+26041
+%%EOF
