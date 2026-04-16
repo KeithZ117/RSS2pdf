@@ -1,0 +1,824 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 7 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4288 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-16 09:38:52) Tj
+T*
+() Tj
+T*
+(1. An Arm Mainboard for the Framework Laptop) Tj
+T*
+(Source: Jeff Geerling | Published: Wed, 15 Apr 2026 09:49:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/) Tj
+T*
+(Using the repair-friendly Framework 13 laptop chassis, I've tested the low-end x86 option \(a) Tj
+T*
+(Ryzen AI 5 340 Mainboard \), the fastest RISC-V option \( DC-ROMA II \), and today I'm publishing) Tj
+T*
+(results from the only Arm Mainboard, the MetaComputing AI PC , which has a 12-core Arm SoC and) Tj
+T*
+(up to 32 GB of soldered-on RAM. My Framework 13 has run on x86, RISC-V, and now Arm, making it) Tj
+T*
+(something of a 'Ship of Theseus'.) Tj
+T*
+() Tj
+T*
+(2. datasette.io news preview) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-16T00:18:03+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything) Tj
+T*
+(Tool: datasette.io news preview The datasette.io website has a news section built from this) Tj
+T*
+(news.yaml file in the underlying GitHub repository. The YAML format looks like this: - date:) Tj
+T*
+(2026-04-15 body: |- [Datasette) Tj
+T*
+(1.0a27]\(https://docs.datasette.io/en/latest/changelog.html#a27-2026-04-15\) changes how CSRF) Tj
+T*
+(protection works in a way that simplifies form and API integration, and introduces a new) Tj
+T*
+(`RenameTableEvent` for when a table is renamed by a SQL query. - date: 2026-03-18 body: |- ...) Tj
+T*
+(This format is a little hard to edit, so I finally had Claude build a custom preview UI to make) Tj
+T*
+(checking for errors have slightly less friction. I built it using standard claude.ai and Claude) Tj
+T*
+(Artifacts, taking advantage of Claude's ability to clone GitHub repos and look at their content) Tj
+T*
+(as part of a regular chat: Clone https://github.com/simonw/datasette.io and look at the) Tj
+T*
+(news.yaml file and how it is rendered on the homepage. Build an artifact I can paste that YAML) Tj
+T*
+(into which previews what it will look like, and highlights any markdown errors or YAML errors) Tj
+T*
+(Tags: vibe-coding , claude , tools , datasette) Tj
+T*
+() Tj
+T*
+(3. datasette-export-database 0.3a1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-15T23:52:35+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything) Tj
+T*
+(Release: datasette-export-database 0.3a1 This plugin was using the ds_csrftoken cookie as part) Tj
+T*
+(of a custom signed URL, which needed upgrading now that Datasette 1.0a27 no longer sets that) Tj
+T*
+(cookie . Tags: datasette) Tj
+T*
+() Tj
+T*
+(4. datasette 1.0a27) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-15T23:16:34+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/15/datasette/#atom-everything) Tj
+T*
+(Release: datasette 1.0a27 Two major changes in this new Datasette alpha. I covered the first of) Tj
+T*
+(those in detail yesterday - Datasette no longer uses Django-style CSRF form tokens, instead) Tj
+T*
+(using modern browser headers as described by Filippo Valsorda . The second big change is that) Tj
+T*
+(Datasette now fires a new RenameTableEvent any time a table is renamed during a SQLite) Tj
+T*
+(transaction. This is useful because some plugins \(like datasette-comments \) attach additional) Tj
+T*
+(data to table records by name, so a renamed table requires them to react in appropriate ways.) Tj
+T*
+(Here are the rest of the changes in the alpha: New actor= parameter for datasette.client) Tj
+T*
+(methods, allowing internal requests to be made as a specific actor. This is particularly useful) Tj
+T*
+(for writing automated tests. \( #2688 \) New Database\(is_temp_disk=True\) option, used internally) Tj
+T*
+(for the internal database. This helps resolve intermittent database locked errors caused by the) Tj
+T*
+(internal database being in-memory as opposed to on-disk. \( #2683 \) \( #2684 \) The / / /-/upsert) Tj
+T*
+(API \( docs \) now rejects rows with null primary key values. \( #1936 \) Improved example in the) Tj
+T*
+(API explorer for the /-/upsert endpoint \( docs \). \( #1936 \) The / .json endpo...) Tj
+T*
+() Tj
+T*
+(5. So Close to Getting It) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-16T01:00:35Z) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4685 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer) Tj
+T*
+(David Pierce, last week in his Installer column/newsletter for The Verge, singing the praises) Tj
+T*
+(of the version 5.0 update to Sofa \(the praises of which I just sung \): Sofa 5 . A huge update) Tj
+T*
+(to an Installerverse favorite, this app is now a great way to manage everything you want to) Tj
+T*
+(watch, read, play, and even do IRL. I never quite made it stick when it was mostly just movies) Tj
+T*
+(and shows, but now I think of it as like a Notion for my personal life. Apple devices only,) Tj
+T*
+(alas, but boy do I love this app. Pierce, I just noted today , also just wrote a feature story) Tj
+T*
+(at The Verge about his decision to buy a new iPhone ? after trying an array of new Android) Tj
+T*
+(phones and admitting to a \(questionable, IMO\) personal preference for Android over iOS ?) Tj
+T*
+(because there are so many better apps on iOS that don?t have equivalent-quality counterparts on) Tj
+T*
+(Android. In that earlier piece, Pierce wrote: Lots of the apps I use every day ? apps like) Tj
+T*
+(Puzzmo , NotePlan , Mimestream , and Unread ? either don?t exist on Android at all or only) Tj
+T*
+(exist as web apps. Most of the ones that do work on both platforms are better on iOS. And) Tj
+T*
+(forget about the kind of handcrafted, small-developer stuff ? apps like Acme Weather , Cu...) Tj
+T*
+() Tj
+T*
+(6. Sofa 5.0) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-16T00:36:05Z) Tj
+T*
+(Link: https://www.sofahq.com/5) Tj
+T*
+(Shawn Hickman: A show you started last month. A book on your nightstand. A game you keep) Tj
+T*
+(meaning to get back to. Finding something new is easy. Remembering where you left off is the) Tj
+T*
+(hard part. Sofa 5 helps you keep track of this stuff. Progress rings show up on covers) Tj
+T*
+(throughout the app so you can see where you stand at a glance. Your home screen shows what?s) Tj
+T*
+(next with one-tap checkboxes to keep things moving. Five ways to track, depending on what fits:) Tj
+T*
+(just enjoy with zero setup, tap to log, count pages, check off episodes, or keep a journal as) Tj
+T*
+(you go. Pick one and switch anytime. It?s a well-established cliché that no one ever finds the) Tj
+T*
+(perfect to-do app or ?task management system? unless they create it themselves. That?s) Tj
+T*
+(certainly true for me \(and resulted in my co-creating Vesper \). Keeping track of things you) Tj
+T*
+(want or need to do is too close to codifying how you think and remember things in your own) Tj
+T*
+(mind, and we all think and remember in unique ways. We thus crave unique apps or systems to) Tj
+T*
+(manage our tasks, ones that fit our minds just right . That?s why there are a zillion to-do) Tj
+T*
+(apps, including a bunch that are actually good. And, these days, that?s why there are so many) Tj
+T*
+(peop...) Tj
+T*
+() Tj
+T*
+(7. Lisa Melton: ?Memories of Steve? \(and Memories of Safari?s Unique Page-Loading) Tj
+T*
+(Indicator in Particular\)) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-15T19:54:17Z) Tj
+T*
+(Link: https://lisamelton.net/2023/10/05/memories-of-steve/) Tj
+T*
+(Lisa Melton, who ran the team that created Safari, regarding her interactions with Steve Jobs:) Tj
+T*
+(When Steve asked you a question? You didn?t ramble and, whatever you did, you didn?t make up an) Tj
+T*
+(answer. If you didn?t know, you just said that you didn?t know. But then you told him when) Tj
+T*
+(you?d have an answer. Again, this was just good advice to anyone ?managing up,? as they say.) Tj
+T*
+(This is A+ advice for dealing with anyone, period. If you don?t know, say ?I don?t know.? So) Tj
+T*
+(many people have a deep aversion to saying that. And if you can say ?I don?t know, but I?ll) Tj
+T*
+(find out in « some short amount of time here »?, say that. Here?s the bit that?s relevant this) Tj
+T*
+(week: Steve didn?t like the status bar and didn?t see the need for it. ?Who looks at URLs when) Tj
+T*
+(you hover your mouse over a link?? He thought it was just too geeky. Fortunately, Scott and I) Tj
+T*
+(convinced Steve to keep the status bar as an option, not visible by default. But that meant we) Tj
+T*
+(had a new problem. Where should we put the progress bar to indicate how much of the page was) Tj
+T*
+(left to load? Before, the progress bar lived inside the status bar. So we needed to find it a) Tj
+T*
+(new home. We discussed all sorts of silly ideas including making it verti...) Tj
+T*
+() Tj
+T*
+(8. Simdutf Can Now Be Used Without libc++ or libc++abi) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Wed, 15 Apr 2026 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/writing/simdutf-no-libcxx) Tj
+T*
+(\(No summary\)) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4463 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(9. Why is there a long delay between a thread exiting and the Wait­For­Single­Object) Tj
+T*
+(returning?) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 15 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260415-00/?p=112235) Tj
+T*
+(Maybe it didn't really exit. The post Why is there a long delay between a thread exiting and) Tj
+T*
+(the Wait­For­Single­Object returning? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(10. Finding a parabola through two points with given slopes) Tj
+T*
+(Source: John D. Cook | Published: Tue, 14 Apr 2026 12:19:42 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/14/artz-parabola/) Tj
+T*
+(The Wikipedia article on modern triangle geometry has an image labeled ?Artzt parabolas? with) Tj
+T*
+(no explanation. A quick search didn?t turn up anything about Artzt parabolas [1], but) Tj
+T*
+(apparently the parabolas go through pairs of vertices with tangents parallel to the sides. The) Tj
+T*
+(general form of a conic section is ax² + bxy + cy² [?] The post Finding a parabola through two) Tj
+T*
+(points with given slopes first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Pluralistic: Rights for robots \(15 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 15 Apr 2026 07:06:28) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/15/artificial-lifeforms/) Tj
+T*
+(Today's links Rights for robots: Not everything deserves moral consideration. Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: 7 years under the DMCA; NOLA mayoral candidate x New) Tj
+T*
+(Orleans Square; Kettling is illegal; AOL won't deliver critical emails; Chris Ware x Charlie) Tj
+T*
+(Brown; Mossack Fonseca raided; Corporate lobbying budget is greater than Senate and House;) Tj
+T*
+(Corbyn overpays taxes; What IP means; Bill Gates v humanity; "Jackpot." Upcoming appearances:) Tj
+T*
+(Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye, London. Recent appearances: Where I've) Tj
+T*
+(been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said,) Tj
+T*
+(I'll keep writin' 'em. Colophon: All the rest. Rights for robots \(permalink\) The Rights of) Tj
+T*
+(Nature movement uses a bold tactic to preserve our habitable Earth: it seeks to extend \(pseudo\)) Tj
+T*
+(personhood to things like watersheds, forests and other ecosystems, as well as nonhuman) Tj
+T*
+(species, in hopes of creating legal "standing" to ask the courts for protection:) Tj
+T*
+(https://en.wikipedia.org/wiki/Rights_of_nature What do watersheds, forests and nonhuman species) Tj
+T*
+(need protection from? That turns out to be a very interesting question, because the most...) Tj
+T*
+() Tj
+T*
+(12. The Tuesday Test) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-04-15T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/04/15/the-tuesday-test.html) Tj
+T*
+(Yesterday I wrote about the fast Homebrew rewrites and ended on the line that the bottleneck) Tj
+T*
+(for that whole class of project is not Rust or Ruby, it is the absence of a stable declarative) Tj
+T*
+(package schema. Someone on Mastodon picked up that thread and asked the obvious follow-on:) Tj
+T*
+(which package managers actually have one? Going through the list, the honest answer is hardly) Tj
+T*
+(any of them, and there is a quick test that makes the answer easy to check. Ask this of any) Tj
+T*
+(package manager: if I install this package on a Tuesday, could it do something different than) Tj
+T*
+(if I install it on a Wednesday? If the answer is yes, the package manager is not really) Tj
+T*
+(declarative, no matter what the manifest file looks like on the surface. Somewhere in the) Tj
+T*
+(install pipeline there is a place where arbitrary code runs, and that code can read the clock,) Tj
+T*
+(check an environment variable, look at the hostname, phone a server, or do anything else a) Tj
+T*
+(program can do. The Tuesday test is a quick way to separate the declarative tools from the ones) Tj
+T*
+(that have a programming language hiding underneath a declarative-looking file format. The test) Tj
+T*
+(is not about whether the code is malicious, or whether it is a supply chain risk, or...) Tj
+T*
+() Tj
+T*
+(13. Our options in remote server installation and management) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-15T22:32:25Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/RemoteServerManagementOptions) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4956 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(For reasons outside of the scope of this entry, we have an increasing number of servers in an) Tj
+T*
+(inconvenient location \( I called it 'offsite' but that's not quite accurate\). Since these) Tj
+T*
+(servers run Ubuntu LTS, they're going to need to be reinstalled with new versions every so) Tj
+T*
+(often, starting this summer \(as 26.04 comes out\), and we really don't want to do that in) Tj
+T*
+(person, so we've been thinking about our options. The best option would be to only have servers) Tj
+T*
+(with full support for remote management through their BMC . By full support, I mean full 'KVM) Tj
+T*
+(over IP' support for remote access as well as remote media, so that we could continue to use) Tj
+T*
+(our regular install processes, exactly as if we were physically present to plug in a bootable) Tj
+T*
+(USB stick and so on. Unfortunately lots of our servers either don't have a BMC at all or have a) Tj
+T*
+(BMC with restricted and limited features \(because we haven't bought an expensive license, for) Tj
+T*
+(example\). The cheapest solution that is the most work to add and implement is network booting) Tj
+T*
+(\(and this only handles our reinstall issue\). Assuming that all of our servers can reliably boot) Tj
+T*
+(from the network \(which isn't a sure thing\), I believe that we could set up an...) Tj
+T*
+() Tj
+T*
+(14. Universities, email, and the issues of running things in house) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-15T03:07:05Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/UniversitiesAndInhouseTech) Tj
+T*
+(One of things that has happened over the past N years, for some value of N, is that a lot of) Tj
+T*
+(universities have outsourced their email to one of the big providers of this \(Microsoft and) Tj
+T*
+(Google are the two most common\). Email is far from the only thing that universities have) Tj
+T*
+(outsourced; for example, most universities don't run their entire authentication stack, because) Tj
+T*
+(push based MFA is typically only available through vendors . People online regularly decry this) Tj
+T*
+(outsourcing, especially for email, and say that universities should bring all of these things) Tj
+T*
+(back in house the way they used to be, especially in today's time of increasing geopolitical) Tj
+T*
+(tensions. Another thing that people say is that universities shouldn't depend on clouds as much) Tj
+T*
+(as they sometime do, especially the major clouds. I don't disagree with these people, but at) Tj
+T*
+(the same time I'm a realist about what's being asking for and what is involved. Universities) Tj
+T*
+(did not wake up one day and decide to give large amounts of money to vendors for dubious) Tj
+T*
+(reasons. Universities \(such as mine \) carefully studied what it would cost to continue their) Tj
+T*
+(existing in house systems \(in both hardware and staffing\) and what they would get...) Tj
+T*
+() Tj
+T*
+(15. Early Linux package manager history and patching upstream source releases) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-02-01T03:22:24Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/PatchingUpstreamsOnceNeeded) Tj
+T*
+(One of the important roles of Linux system package managers like dpkg and RPM is providing a) Tj
+T*
+(single interface to building programs from source even though the programs may use a wide) Tj
+T*
+(assortment of build processes. One of the source building features that both dpkg and RPM) Tj
+T*
+(included \(I believe from the start\) is patching the upstream source code, as well as providing) Tj
+T*
+(additional files along with it. My impression is that today this is considered much less) Tj
+T*
+(important in package managers, and some may make it at least somewhat awkward to patch the) Tj
+T*
+(source release on the fly. Recently I realized that there may be a reason for this potential) Tj
+T*
+(oddity in dpkg and RPM. Both dpkg and RPM are very old \(by Linux standards\). As covered in) Tj
+T*
+(Andrew Nesbitt's Package Manager Timeline , both date from the mid-1990s \(dpkg in January 1994,) Tj
+T*
+(RPM in September 1995\). Linux itself was quite new at the time and the Unix world was still) Tj
+T*
+(dominated by commercial Unixes \(partly because the march of x86 PCs was only just starting\). As) Tj
+T*
+(a result, Linux was a minority target for a lot of general Unix free software \(although) Tj
+T*
+(obviously not for Linux specific software\). I suspect that this was compounded by limitations) Tj
+T*
+(i...) Tj
+T*
+() Tj
+T*
+(16. Why is it so hard to passively stalk my friends' locations?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 15 Apr 2026 11:34:45 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://shkspr.mobi/blog/2026/04/why-is-it-so-hard-to-passively-stalk-my-friends-locations/) Tj
+T*
+(I feel terribly guilty when I visit a new city, post photos of my travels, only to have a) Tj
+T*
+(friend say "Hey! Why didn't you let me know you were in my neck of the woods?" Similarly, if I) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4761 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(bump into an old acquaintance at a conference, we both tend to say "If only I'd known you were) Tj
+T*
+(here, we could have had dinner together last night!" I do enjoy the serendipity of events like) Tj
+T*
+(FOSDEM - randomly?) Tj
+T*
+() Tj
+T*
+(17. Writing an LLM from scratch, part 32k -- Interventions: training a better model) Tj
+T*
+(locally with gradient accumulation) Tj
+T*
+(Source: Giles' blog | Published: Wed, 15 Apr 2026 20:00:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/04/llm-from-scratch-32k-interventions-training-our-best-) Tj
+T*
+(model-locally-gradient-accumulation) Tj
+T*
+(I've been working on a GPT-2-small-style LLM based on Sebastian Raschka 's book " Build a Large) Tj
+T*
+(Language Model \(from Scratch\) ". I've trained various versions of it in the cloud to work out) Tj
+T*
+(which interventions to the model and training code had the best effects on the loss it gets on) Tj
+T*
+(a specific test dataset, and now I wanted to do a training run locally to match the best of) Tj
+T*
+(those. For that, I wanted to match the batch size I was using for the cloud training runs. When) Tj
+T*
+(I first started learning this stuff, batching seemed like a performance thing -- with highly) Tj
+T*
+(parallel systems like GPUs, it generally turned out that you could run a batch of \(say\) two) Tj
+T*
+(inputs through a model in less than twice the time you could run one, so it made sense to batch) Tj
+T*
+(them up. For inference, that is exactly the advantage you get, but when training, it's become) Tj
+T*
+(increasingly clear to me that you can also get an improvement in the quality of the model from) Tj
+T*
+(batching. The best intuitive model I have is that if you run inputs through one-by-one,) Tj
+T*
+(adjusting parameters after each, then it's easy for the model to "overcorrect" each time. With) Tj
+T*
+(batches, you get an average set of gradients across all of the items -- w...) Tj
+T*
+() Tj
+T*
+(18. zappa: an AI powered mitmproxy) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-04-15T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/04/15/zappa-mitmproxy.html) Tj
+T*
+(Soon, AI will be good enough to interact with the Internet in an indistinguishable way from a) Tj
+T*
+(human. This can be an amazing opportunity for liberation from all the people who are targeting) Tj
+T*
+(your attention . I vibe coded this zappa proxy, it is not quite there yet, but I think it) Tj
+T*
+(points the way forward. Why should I browse the Internet or use apps when machines can do it) Tj
+T*
+(for me? Suckers getting billed for an ad impression from a 1 cent Qwen. Instead of the source,) Tj
+T*
+(I?ll include the prompt in this post. I used GPT-5.4 to code it. Download mitmproxy and) Tj
+T*
+(configure Firefox to use a SOCKS5 proxy and install the required cert to proxy HTTPS traffic.) Tj
+T*
+(Write a plugin for mitmproxy to route all website traffic through Qwen using the Cerebras API,) Tj
+T*
+(you need to proxy HTML, JS, and CSS. Tell Qwen to remove all ads, popups, bright colors, moving) Tj
+T*
+(things, and enshittified crap from the website and return a good version of the site. Pass this) Tj
+T*
+(good version back to the user through the proxy. Log everything to a file. If the AI returns an) Tj
+T*
+(error, pass that error along to the user, do not return pages without AI transformation. I) Tj
+T*
+(disabled uBlock Origin for these tests, Chrome on the left is the default in...) Tj
+T*
+() Tj
+T*
+(19. Speed is Not Conducive to Wisdom) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Wed, 15 Apr 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/) Tj
+T*
+(Speed has become the primary virtue of the modern world. Everything is sacrificed to it. Move) Tj
+T*
+(fast \(and break things, not as a goal but as a consequence\). Wisdom requires allowing yourself) Tj
+T*
+(to be undone by experience: An opinion dismantled by reality. An artifact torn apart by the) Tj
+T*
+(real world. An idea destroyed by its own shortsightedness. Experiencing these can be slow and) Tj
+T*
+(uncomfortable, but if you keep up your speed you can outrun them ? never reflecting on what) Tj
+T*
+(happened in your wake. Speed is how you avoid reckoning. It guarantees you miss things, and you) Tj
+T*
+(can?t learn from what you don?t notice. Wisdom?s feedback loop is slow. Wise people I?ve met) Tj
+T*
+(seem unhurried. I don?t think it?s because they?re slow thinkers or actors. I think it?s) Tj
+T*
+(because they?ve learned that important things take the time they take, no amount of urgency) Tj
+T*
+(changes that. Wisdom is chasing all of us, but we?re going too fast to notice what it?s trying) Tj
+T*
+(to teach us. Reply via: Email · Mastodon · Bluesky) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3573 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(20. A sufficiently comprehensive spec is not \(necessarily\) code) Tj
+T*
+(Source: Computer Things | Published: Wed, 15 Apr 2026 16:18:02 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/a-sufficiently-comprehensive-spec-is-not/) Tj
+T*
+(Sorry for missing last week! Was sick and then busy. This week I want to cover a pet peeve of) Tj
+T*
+(mine, best seen in this comic: A "comprehensive and precise spec" is not necessarily code. A) Tj
+T*
+(specification corresponds to a set of possible implementations, and code is a single) Tj
+T*
+(implementation in that set. As long as the set has more than one element, there is a separation) Tj
+T*
+(between the spec and the code. Consider a business person \(bp\) who asks: I want a tool to) Tj
+T*
+(convert miles to kilometers. Is this a comprehensive spec? Maybe, you can give it to Claude) Tj
+T*
+(Code and tell it to make all design decisions and it will give you a program that converts) Tj
+T*
+(miles to km. At the same time, there is a huge amount of details left out of this. What) Tj
+T*
+(language? What's the UX? Should it be a command line script or a mobile app or an enterprise) Tj
+T*
+(SaaS? For this reason, if we gave Claude's output to the bp, they'll probably be unsatisfied.) Tj
+T*
+(The set of possible implementations includes the programs they want, but also lots of programs) Tj
+T*
+(they don't want. So they now they say: It should be a textbox on a website. Okay, this rules) Tj
+T*
+(out a lot more stuff, but there's still a lot to decide. React or vanillajs or htmx? Should) Tj
+T*
+(the...) Tj
+T*
+() Tj
+T*
+(21. The Word "Hacker") Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/gba.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(22. What You Can't Say) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/say.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(23. Filters that Fight Back) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/ffb.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(24. Jensen Huang ? TPU competition, why we should sell chips to China, & Nvidia?s supply) Tj
+T*
+(chain moat) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Wed, 15 Apr 2026 15:45:23 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/jensen-huang) Tj
+T*
+(?If our next several years are a trillion dollars in scale, we have the supply chain to do it") Tj
+T*
+() Tj
+T*
+(25. Pressed For Options) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-04-15T02:58:42Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17319282/linux-external-fingerprint-reader-challenges) Tj
+T*
+(I bought a USB fingerprint reader for my Linux laptop from Temu because it was the only one I) Tj
+T*
+(could find that I knew would work.) Tj
+T*
+() Tj
+T*
+(26. Big Data Storage) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 21 Oct 2022 19:33:51 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/big-data-storage/) Tj
+T*
+(This is a page about some of the mechanics of ?big data?, specifically how to store, transfer) Tj
+T*
+(and process perhaps 100s of millions or billions of rows/events. Although some people think big) Tj
+T*
+(data starts at 65k rows, at which point Excel used to lose it, I?m talking about gigabytes of) Tj
+T*
+(data here. Infrastructure for this kind of thing abounds. Data can however come from lots of) Tj
+T*
+(sources, and go to lots of different places.) Tj
+T*
+() Tj
+T*
+(27. On my resignation as regulator of the Dutch intelligence and security services) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 1803 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Bert Hubert's writings | Published: Fri, 09 Sep 2022 10:55:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/resignation-as-intelligence-regulator/) Tj
+T*
+(I?ve seen some mediocre automated translations of my Dutch language resignation statement go) Tj
+T*
+(round. To prevent any confusion, please find the story here in English: Until today I was one) Tj
+T*
+(of the three members of the board that checks warrants for the Dutch intelligence and security) Tj
+T*
+(services. This board is called ?Toetsingscommissie Inzet Bevoegdheden? or TIB. If either of the) Tj
+T*
+(civil or the military intelligence and security services of The Netherlands want to use their) Tj
+T*
+(lawful intercept, SIGINT or hacking \(& some other\) legal powers, they have to first convince) Tj
+T*
+(their own jurists, then their ministry and finally the TIB.) Tj
+T*
+() Tj
+T*
+(28. Vertrek TIB) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 09 Sep 2022 10:55:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/vertrek-tib/) Tj
+T*
+(Vandaag was mijn laatste dag als lid van de Toetsingscommissie Inzet Bevoegdheden Inlichtingen-) Tj
+T*
+(en Veiligheidsdiensten \(TIB\), de commissie die vooraf bindend toetst of de voorgenomen inzet) Tj
+T*
+(van de zwaarste bevoegdheden van de AIVD en MIVD rechtmatig is. Update: Onderaan dit artikel) Tj
+T*
+(staat een uitgebreid media overzicht De reden voor dit vertrek is mijn zorg over de ?Tijdelijke) Tj
+T*
+(wet onderzoeken AIVD en MIVD naar landen met een offensief cyberprogramma? \(samenvatting\), die) Tj
+T*
+(tot doel heeft het toezicht vooraf te beperken, het toezicht vooraf op de technische risico?s) Tj
+T*
+(af te schaffen en die aanvullend een forse verruiming van de bevoegdheden van de diensten) Tj
+T*
+(inhoudt.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000161 00000 n 
+0000000231 00000 n 
+0000004571 00000 n 
+0000004697 00000 n 
+0000009434 00000 n 
+0000009560 00000 n 
+0000014075 00000 n 
+0000014201 00000 n 
+0000019210 00000 n 
+0000019338 00000 n 
+0000024152 00000 n 
+0000024280 00000 n 
+0000027906 00000 n 
+0000028034 00000 n 
+0000029890 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+30018
+%%EOF
