@@ -1,0 +1,728 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4450 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-17 09:38:40) Tj
+T*
+() Tj
+T*
+(1. llm-anthropic 0.25) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-16T20:37:12+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything) Tj
+T*
+(Release: llm-anthropic 0.25 New model: claude-opus-4.7 , which supports thinking_effort : xhigh) Tj
+T*
+(. #66 New thinking_display and thinking_adaptive boolean options. thinking_display summarized) Tj
+T*
+(output is currently only available in JSON output or JSON logs. Increased default max_tokens to) Tj
+T*
+(the maximum allowed for each model. No longer uses obsolete structured-outputs-2025-11-13 beta) Tj
+T*
+(header for older models. Tags: llm , anthropic , claude) Tj
+T*
+() Tj
+T*
+(2. Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-16T17:16:52+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything) Tj
+T*
+(For anyone who has been \(inadvisably\) taking my pelican riding a bicycle benchmark seriously as) Tj
+T*
+(a robust way to test models, here are pelicans from this morning's two big model releases -) Tj
+T*
+(Qwen3.6-35B-A3B from Alibaba and Claude Opus 4.7 from Anthropic . Here's the Qwen 3.6 pelican,) Tj
+T*
+(generated using this 20.9GB Qwen3.6-35B-A3B-UD-Q4_K_S.gguf quantized model by Unsloth, running) Tj
+T*
+(on my MacBook Pro M5 via LM Studio \(and the llm-lmstudio plugin\) - transcript here : And here's) Tj
+T*
+(one I got from Anthropic's brand new Claude Opus 4.7 \( transcript \): I'm giving this one to) Tj
+T*
+(Qwen 3.6. Opus managed to mess up the bicycle frame! I tried Opus a second time passing) Tj
+T*
+(thinking_level: max . It didn't do much better \( transcript \): I don't think Qwen are cheating) Tj
+T*
+(A lot of people are convinced that the labs train for my stupid benchmark . I don't think they) Tj
+T*
+(do, but honestly this result did give me a little glint of suspicion. So I'm burning one of my) Tj
+T*
+(secret backup tests - here's what I got from Qwen3.6-35B-A3B and Opus 4.7 for "Generate an SVG) Tj
+T*
+(of a flamingo riding a unicycle": Qwen3.6-35B-A3B \( transcript \) Opus 4.7 \( transcript \) I'm) Tj
+T*
+(giving this one to Qwen too, partly for the excellent SVG comment. What...) Tj
+T*
+() Tj
+T*
+(3. Quoting John Gruber) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-15T17:13:57+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything) Tj
+T*
+(The real goldmine isn?t that Apple gets a cut of every App Store transaction. It?s that Apple?s) Tj
+T*
+(platforms have the best apps, and users who are drawn to the best apps are thus drawn to the) Tj
+T*
+(iPhone, Mac, and iPad. That edge is waning. Not because software on other platforms is getting) Tj
+T*
+(better, but because third-party software on iPhone, Mac, and iPad is regressing to the mean, to) Tj
+T*
+(some extent , because fewer developers feel motivated ? artistically, financially, or both ? to) Tj
+T*
+(create well-crafted idiomatic native apps exclusively for Apple?s platforms. ? John Gruber) Tj
+T*
+(Tags: apple , john-gruber) Tj
+T*
+() Tj
+T*
+(4. What?s up with window message 0x0091? We?re getting it with unexpected parameters) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 16 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240) Tj
+T*
+(Trespassing on system messages. The post What?s up with window message 0x0091 ? We?re getting) Tj
+T*
+(it with unexpected parameters appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(5. App Store Reviews Are Busted) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-17T01:00:26Z) Tj
+T*
+(Link: https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html) Tj
+T*
+(Terry Godier: For example, if you have a 4.1 star rating in the App Store, any 4 star review is) Tj
+T*
+(going to decrease that average . In other words, leaving a 4 star review is essentially leaving) Tj
+T*
+(a negative review . [...] You will see a lot of 4 star reviews that say things like, ? This is) Tj
+T*
+(my favorite app! ? or ? Gamechanger! ? The apps that tend to have these types of reviews are) Tj
+T*
+(often over a 4.0 in the store and are being actively harmed average-wise by having them, even) Tj
+T*
+(though the intent was clearly not to do so. Problem #1 is that star-rating systems absolutely) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4927 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(suck for aggregation . If you?re going to collect and average ratings from users, the system) Tj
+T*
+(that works best is binary: thumbs-up or thumbs-down. Netflix switched from stars to thumbs in) Tj
+T*
+(2017 , and YouTube switched all the way back in 2009 . The App Store should switch to thumbs.) Tj
+T*
+(The logical endpoint of apps optimizing for a 5 star review invalidates the system as) Tj
+T*
+(meaningful on the store. The system becomes a better representation of the sophistication at) Tj
+T*
+(review prompt execution than it does an accurate reflection of app product quality. The) Tj
+T*
+(incentive isn?t to create an actual 5 star app, but rather to create a robust syste...) Tj
+T*
+() Tj
+T*
+(6. Freecash Was More Like Scamcash) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-17T00:10:09Z) Tj
+T*
+(Link: https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top) Tj
+T*
+(-of-the-app-stores/) Tj
+T*
+(Sarah Perez, writing for TechCrunch : If you?ve been on TikTok this year, you?ve more than) Tj
+T*
+(likely encountered ads for Freecash. The app has been marketed as a way to make money just by) Tj
+T*
+(scrolling TikTok ? and jumped to the top of the app stores in recent months, peaking at the No.) Tj
+T*
+(2 position in the U.S. App Store. In truth, Freecash pays users to play mobile games ? all the) Tj
+T*
+(while collecting a heaping amount of sensitive data, according to cybersecurity company) Tj
+T*
+(Malwarebytes . [...] On Monday, after being contacted by TechCrunch for comment, Apple pulled) Tj
+T*
+(Freecash from its App Store. As of Monday afternoon, the app was still listed in the Google) Tj
+T*
+(Play store. \(It has since been removed\). As I have repeatedly written , it boggles my mind why) Tj
+T*
+(Apple doesn?t have an App Store ?bunco squad? that targets scam and fraud apps that are popular) Tj
+T*
+(and/or high-grossing . It?s folly to think that the App Store could ever be completely free of) Tj
+T*
+(scam apps. But it?s absurd that this app Freecash rose to #2 in the App Store, with millions of) Tj
+T*
+(downloads, and Apple only took a look at and removed it after TechCrunch asked about the app.) Tj
+T*
+(Pieter Arntz, writing at Malwarebytes : The landing pages featured TikTok...) Tj
+T*
+() Tj
+T*
+(7. Colliding With Reality, Indeed) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-16T20:39:05Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html?unlocked_article_code=) Tj
+T*
+(1.bVA.EB30.mygpleorcQhg&smid=url-share) Tj
+T*
+(Anton Troianovski, reporting for The New York Times under the headline ?Trump?s Portrayal of) Tj
+T*
+(the War in Iran Collides With Reality?: President Trump is trying to cast his Iran war as all) Tj
+T*
+(but over, a done-and-dusted success. But after years of trying to impose his own reality on the) Tj
+T*
+(world, he has now run into a crisis that is not bending to his narrative. On the one hand, I?m) Tj
+T*
+(loath to complain about the Times finally stating the obvious and treating Trump like they) Tj
+T*
+(would any other official. Same goes for a Peter-Baker-bylined piece this week, ? Trump?s) Tj
+T*
+(Erratic Behavior and Extreme Comments Revive Mental Health Debate ?. Finally . It was good that) Tj
+T*
+(the Times?s reporting on Biden?s mental acuity two years ago was sharp enough to draw the ire) Tj
+T*
+(of the Biden administration . But Biden never once said anything crazy . Forgetful? Slightly) Tj
+T*
+(confused? Sure. But Trump is saying and tweeting crazy-ass stuff every day now. A steady stream) Tj
+T*
+(of abject unhinged nuttiness . For chrissake he badgered kindergarteners at the White House) Tj
+T*
+(Easter egg roll about Biden?s use of an autopen. But on the other hand, when exactly has Trump) Tj
+T*
+(?run into a crisis? that did ?bend to his narrative?? He?s a bullshitter ,...) Tj
+T*
+() Tj
+T*
+(8. Making a FreeBSD system have a serial console on its second serial port) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-01-31T04:58:11Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDSerialConsoleSecondPort) Tj
+T*
+(Over on the Fediverse I said : Today's other work achievement: getting a UEFI booted FreeBSD 15) Tj
+T*
+(machine to use a serial console on its second serial port, not its first one. Why? Because the) Tj
+T*
+(BMC's Serial over Lan stuff appears to be hardwired to the second serial port, and life is too) Tj
+T*
+(short to wire up physical serial cables to test servers. The basics of serial console support) Tj
+T*
+(for your FreeBSD machine are covered in the loader.conf manual page, under the ' console ') Tj
+T*
+(setting \(in the 'Default Settings' section\). But between UEFI and FreeBSD's various consoles,) Tj
+T*
+(things get complicated, and for me the manual pages didn't do a great job of putting the pieces) Tj
+T*
+(together clearly. So I'll start with my descriptions of all of the loader.conf variables that) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4699 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(are relevant: console="efi,comconsole" Sets both the bootloader console and the kernel console) Tj
+T*
+(to both the EFI console and the serial port, by default COM1 \(ttyu0, Linux ttyS0\). This is) Tj
+T*
+(somewhat harmful if your UEFI BIOS is already echoing console output to the serial port \(or at) Tj
+T*
+(least to the serial port you want\); you'll get doubled serial output from the FreeBSD) Tj
+T*
+(bootloader, but not doubled output from the kernel. boot_multicons="YES" As c...) Tj
+T*
+() Tj
+T*
+(9. Why I'm ignoring pretty much all new Python packaging tools) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-01-30T04:00:46Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/python/PythonPackageToolsMyIgnoring) Tj
+T*
+(One of the things going on right now is that Python is doing a Python developer survey. On the) Tj
+T*
+(Fediverse, I follow a number of people who do Python stuff, and they've been posting about) Tj
+T*
+(various aspects of the survey, including a section on what tools people use for what. This gave) Tj
+T*
+(me an interesting although very brief look into a world that I'm deliberately ignoring, and I'm) Tj
+T*
+(doing that because I feel my needs are very simple and are well met by basic, essentially) Tj
+T*
+(universal tools that I already know and have. Although I do some small amount of Python) Tj
+T*
+(programming, I'm not a Python developer; you could call me a consumer of Python things, both) Tj
+T*
+(programs and packages. The thing I do most is use programs written in Python that aren't) Tj
+T*
+(single-file, dependency free things, almost always for my own personal use \(for example,) Tj
+T*
+(asncounter and the Python language server \). The tool I use for almost all of these is pipx ,) Tj
+T*
+(which I feel handles pretty much everything I could ask for and comes pre-packaged in most) Tj
+T*
+(Linuxes. Admittedly I've written some tools to make my life nicer . \(One important think pipx) Tj
+T*
+(does is install each program separately. This allows me to remove one clearly and also to) Tj
+T*
+(use...) Tj
+T*
+() Tj
+T*
+(10. Why Linux wound up with system package managers) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-01-29T04:38:50Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/WhySystemPackageManagers) Tj
+T*
+(Yesterday I discussed the two sorts of program package managers , system package managers that) Tj
+T*
+(manage the whole system and application package managers that mostly or entirely manage third) Tj
+T*
+(party programs. Commercial Unix got application package managers in the very early 1990s , but) Tj
+T*
+(Linux's first program managers were system package managers , in dpkg and RPM \(or at least) Tj
+T*
+(those seem to be the first Linux package managers\). The abstract way to describe why is to say) Tj
+T*
+(that Linux distributions had to assemble a whole thing from separate pieces; the kernel came) Tj
+T*
+(from one place, libc from another, coreutils from a third, and so on. The concrete version is) Tj
+T*
+(to think about what problems you'd have without a package manager. Suppose that you assembled a) Tj
+T*
+(directory tree of all of the source code of the kernel, libc, coreutils, GCC, and so on. Now) Tj
+T*
+(you need to build all of these things \(or rebuild, let's ignore bootstrapping for the moment\).) Tj
+T*
+(Building everything is complicated partly because everything goes about it differently. The) Tj
+T*
+(kernel has its own configuration and build system, a variety of things use autoconf but not) Tj
+T*
+(necessarily with the same set of options to control things like features,...) Tj
+T*
+() Tj
+T*
+(11. Newton diameters) Tj
+T*
+(Source: John D. Cook | Published: Thu, 16 Apr 2026 12:02:13 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/16/newton-diameters/) Tj
+T*
+(Let f\(x, y\) be an nth degree polynomial in x and y. In general, a straight line will cross the) Tj
+T*
+(zero set of f in n locations [1]. Newton defined a diameter to be any line that crosses the) Tj
+T*
+(zero set of f exactly n times. If f\(x, y\) = x≤ + y≤ ? 1 then the zero set of f is a circle and) Tj
+T*
+(diameters of the [?] The post Newton diameters first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. RSS Club for WordPress) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 16 Apr 2026 11:34:10 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/) Tj
+T*
+(What if I told you there was a secret social network, hidden in plain sight? If you're reading) Tj
+T*
+(this message, you're now a member of RSS Club! RSS Club is a series of posts which are only) Tj
+T*
+(visible to RSS / Atom subscribers. Like you ? If you want this for your own WordPress site,) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4075 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(here's what you'll need: A blog post which is only visible in RSS / Atom. Which has no HTML) Tj
+T*
+(rendering on your site. A?) Tj
+T*
+() Tj
+T*
+(13. Features everyone should steal from npmx) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-04-16T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html) Tj
+T*
+(For most of the time GitHub has owned npm, the public-facing website at npmjs.com has been) Tj
+T*
+(effectively frozen, with the issue tracker accumulating years of requests that nobody on the) Tj
+T*
+(inside seemed to be reading. In January Daniel Roe started npmx.dev as an alternative web) Tj
+T*
+(frontend over the same registry data, posted about it on Bluesky, and within a fortnight years) Tj
+T*
+(of pent-up demand had turned into a thousand issues and pull requests on a repo that would) Tj
+T*
+(actually merge them, with the contributor count passing a hundred a couple of days after that.) Tj
+T*
+(It helps that every npmjs.com URL works with the hostname swapped to npmx.dev or xnpmjs.com ,) Tj
+T*
+(the same trick Invidious and Nitter used, so browser extensions and muscle memory carry) Tj
+T*
+(straight over. The competitive pressure appears to have worked: npmjs.com shipped dark mode) Tj
+T*
+(last month, the single most upvoted feature request on the tracker for something like five) Tj
+T*
+(years, and there are signs of other long-dormant tickets being picked up. Whether or not that) Tj
+T*
+(continues, npmx has turned into a useful catalogue of ideas for anyone building a package) Tj
+T*
+(registry website, and the whole thing is MIT licensed where the npm registry and website) Tj
+T*
+(remain...) Tj
+T*
+() Tj
+T*
+(14. Pluralistic: A Pascal's Wager for AI Doomers \(16 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 16 Apr 2026 11:09:32) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/16/pascals-wager/) Tj
+T*
+(Today's links A Pascal's Wager for AI Doomers: We're already being turned into paperclips. Hey) Tj
+T*
+(look at this: Delights to delectate. Object permanence: Every pirate ebook on the internet;) Tj
+T*
+(Sun's "Open DRM"; Untranslatable words; Let's encrypt is encrypting; Boots ruined by hedge) Tj
+T*
+(fund; Brussels terrorists' opsec; Copyrighted Klingon; Murder Offsets. Upcoming appearances:) Tj
+T*
+(Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye, London, NYC. Recent appearances: Where) Tj
+T*
+(I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I) Tj
+T*
+(said, I'll keep writin' 'em. Colophon: All the rest. A Pascal's Wager for AI Doomers) Tj
+T*
+(\(permalink\) Lest anyone accuse me of bargaining in bad faith here, let me start with this) Tj
+T*
+(admission: I don't think AI is intelligent; nor do I think that the current \(admittedly) Tj
+T*
+(impressive\) statistical techniques will lead to intelligence. I think worrying about what we'll) Tj
+T*
+(do if AI becomes intelligent is at best a distraction and at worst a cynical marketing ploy:) Tj
+T*
+(https://locusmag.com/feature/cory-doctorow-full-employment/ Now, that said: among some of the) Tj
+T*
+("AI doomers," I recognize kindred spirits. I, too, worry about technologies controlled by) Tj
+T*
+(corp...) Tj
+T*
+() Tj
+T*
+(15. I truly hate mostpeopleslop) Tj
+T*
+(Source: Westenberg. | Published: Thu, 16 Apr 2026 04:50:26 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/) Tj
+T*
+(In 2006, Joe Sugarman published a book called The Adweek Copywriting Handbook - and an axiom) Tj
+T*
+(stuck... "The sole purpose of the first sentence in an advertisement is to get you to read the) Tj
+T*
+(second sentence." That line, more or less, explains how social media turned into a) Tj
+T*
+() Tj
+T*
+(16. Hackers and Painters) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/hp.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(17. If Lisp is So Great) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/iflisp.html) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4167 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(18. The Hundred-Year Language) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/hundred.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(19. What I learned this week - Pretraining parallelisms, Can distillation be stopped,) Tj
+T*
+(Mythos and the cybersecurity equilibrium, Pipeline RL, On why pretraining runs fails) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Wed, 15 Apr 2026 14:03:00 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/what-i-learned-april-15) Tj
+T*
+(April 15, 2025) Tj
+T*
+() Tj
+T*
+(20. Here's What Agentic AI Can Do With Have I Been Pwned's APIs) Tj
+T*
+(Source: Troy Hunt | Published: Thu, 16 Apr 2026 23:09:24 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis/) Tj
+T*
+(I love cutting-edge tech, but I hate hyperbole, so I find AI to be a real paradox. Somewhere in) Tj
+T*
+(that whole mess of overnight influencers, disinformation and ludicrous claims is some real) Tj
+T*
+("gold" - AI stuff that's genuinely useful and makes a meaningful difference. This blog) Tj
+T*
+() Tj
+T*
+(21. AI cybersecurity is not proof of work) Tj
+T*
+(Source: antirez.com | Published: Thu, 16 Apr 2026 12:46:46 +0200) Tj
+T*
+(Link: http://antirez.com/news/163) Tj
+T*
+(The proof of work is the wrong analogy: finding hash collisions, while exponentially harder) Tj
+T*
+(with N, is guaranteed to find, with enough work, some S so that H\(S\) satisfies N, so an) Tj
+T*
+(asymmetry of resources used will see the side with more "work ability" eventually winning. But) Tj
+T*
+(bugs are different: 1. Different LLMs executions take different branches, but eventually the) Tj
+T*
+(possible branches based on the code possible states are saturated. 2. If we imagine sampling) Tj
+T*
+(the model for a bug in a given code M times, with M large, eventually the cap becomes not "M") Tj
+T*
+(\(because of saturated state of the code AND the LLM sampler meaningful paths\), but "I", the) Tj
+T*
+(model intelligence level. The OpenBSD SACK bug easily shows that: you can run an inferior model) Tj
+T*
+(for an infinite number of tokens, and it will never realize\(*\) that the lack of validation of) Tj
+T*
+(the start window, if put together with the integer overflow, then put together with the fact) Tj
+T*
+(the branch where the node should never be NULL is entered regardless, will produce the bug. So,) Tj
+T*
+(cyber security of tomorrow will not be like proof of work in the sense of "more GPU wins";) Tj
+T*
+(instead, better models, and faster access to such models, will win. * Don't trust...) Tj
+T*
+() Tj
+T*
+(22. The Power of Possibility) Tj
+T*
+(Source: Anil Dash | Published: 2026-04-16T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/04/16/girls-club-gala/) Tj
+T*
+(It?s rare that you get to see work that directly helps those who most deserve it, but I want to) Tj
+T*
+(tell you about the opportunity we so seldom get to actually contribute in a way that we know) Tj
+T*
+(will have real impact. I?ve been on the board of the Lower Eastside Girls Club for about a) Tj
+T*
+(decade, getting a front row seat to seeing what a truly community-focused and effective) Tj
+T*
+(organization can do for those in need when things are done the right way. This is the model of) Tj
+T*
+(what we want our public institutions to be ? laser-focused on the needs of its members,) Tj
+T*
+(extremely ambitious in its goals, and measurably effective in its outcomes. I?m asking you to) Tj
+T*
+(support the Girls Club in one of two ways: You can donate directly to support the work that the) Tj
+T*
+(Girls Club does \(If you know what a donor-advised fund is ? now?s your chance to use it!\) Or if) Tj
+T*
+(you?re in NYC on May 7, join us at Webster Hall for our incredible 30th Anniversary Gala where) Tj
+T*
+(we are going to throw down Actually changing lives The Girls Club serves girls who are amongst) Tj
+T*
+(the most in-need in all of New York City, and boosts important measures like graduation rates) Tj
+T*
+(to levels 15% higher than the district average. The way that the club does it...) Tj
+T*
+() Tj
+T*
+(23. De Wet op Inlichtingen- en Veiligheidsdiensten 2017) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2892 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Bert Hubert's writings | Published: Fri, 09 Sep 2022 09:16:22 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/uitleg-over-de-wiv-1/) Tj
+T*
+(Recent is er een nieuw wetsvoorstel gepresenteerd bedoeld om de AIVD en de militaire MIVD meer) Tj
+T*
+(ruimte te geven om onderzoek te doen naar landen met een offensief cyberprogramma. Op deze) Tj
+T*
+(pagina bespreek ik de zwaarste bevoegdheden die de diensten hebben om hun werk te doen. De Wet) Tj
+T*
+(op de Inlichtingen- en Veiligheidsdiensten 2017 \(?Wiv?\) is een moderne wet die de Nederlandse) Tj
+T*
+(inlichtingen- en veiligheidsdiensten, als het noodzakelijk is, juridisch toestemming geeft) Tj
+T*
+(alles af te luisteren, te hacken of te laten kopiÎren, waar ook ter wereld.) Tj
+T*
+() Tj
+T*
+(24. Improved Galileo Time to First Fix) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 07 Sep 2022 12:47:39 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/improved-galileo-fix-time/) Tj
+T*
+(In the world of Global Navigation Satellite Systems \(GNSS\), change tends to happen very slowly) Tj
+T*
+(and cautiously. It is therefore quite exciting how many new features Galileo, the ?European) Tj
+T*
+(GPS? has been rolling out lately. Earlier I wrote a little bit about the High Accuracy Service) Tj
+T*
+(\(HAS\), whereby the Galileo satellites themselves provide properly equipped receivers \(not your) Tj
+T*
+(phone\) with near-realtime updates that can be used to achieve very good accuracy.) Tj
+T*
+() Tj
+T*
+(25. Tracker Beeper) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 29 Aug 2022 10:45:14 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/tracker-beeper/) Tj
+T*
+(A week ago, I finally got round to implementing an idea I?d been toying with for years: what if) Tj
+T*
+(your computer made a little bit of noise every time it sent data to Google? From studying logs,) Tj
+T*
+(I?d long known just how many sites send all your visits and clicks to \(at least\) Google, but a) Tj
+T*
+(log that you have to manually create first and then analyze is not very dramatic.) Tj
+T*
+() Tj
+T*
+(26. SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Thu, 16 Apr 2026 11:33:06 GMT) Tj
+T*
+(Link: https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many) Tj
+T*
+(-to-many-relationships) Tj
+T*
+(This is the fifth chapter of my SQLAlchemy 2 in Practice book. If you'd like to support my) Tj
+T*
+(work, I encourage you to buy this book, either directly from my store or on Amazon . Thank you!) Tj
+T*
+(You have now learned the design blocks used in relational databases. Sometimes, however, these) Tj
+T*
+(building blocks have to be "tweaked" a bit to achieve a desired goal. This chapter is dedicated) Tj
+T*
+(to exploring a very useful variation on the many-to-many relationship.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004726 00000 n 
+0000004852 00000 n 
+0000009831 00000 n 
+0000009957 00000 n 
+0000014708 00000 n 
+0000014834 00000 n 
+0000018962 00000 n 
+0000019090 00000 n 
+0000023310 00000 n 
+0000023438 00000 n 
+0000026383 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+26511
+%%EOF
