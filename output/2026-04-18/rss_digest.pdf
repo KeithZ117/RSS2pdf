@@ -1,0 +1,664 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4720 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-18 09:38:42) Tj
+T*
+() Tj
+T*
+(1. Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-17T23:59:03+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/17/pycon-us-2026/#atom-everything) Tj
+T*
+(This year's PyCon US is coming up next month from May 13th to May 19th, with the core) Tj
+T*
+(conference talks from Friday 15th to Sunday 17th and tutorial and sprint days either side. It's) Tj
+T*
+(in Long Beach, California this year, the first time PyCon US has come to the West Coast since) Tj
+T*
+(Portland, Oregon in 2017 and the first time in California since Santa Clara in 2013. If you're) Tj
+T*
+(based in California this is a great opportunity to catch up with the Python community, meet a) Tj
+T*
+(whole lot of interesting people and learn a ton of interesting things. In addition to regular) Tj
+T*
+(PyCon programming we have two new dedicated tracks at the conference this year: an AI track on) Tj
+T*
+(Friday and a Security track on Saturday. The AI program was put together by track chairs Silona) Tj
+T*
+(Bonewald \(CitableAI\) and Zac Hatfield-Dodds \(Anthropic\). I'll be an in-the-room chair this) Tj
+T*
+(year, introducing speakers and helping everything run as smoothly as possible. Here's the AI) Tj
+T*
+(track schedule in full: 11:00: AI-Assisted Contributions and Maintainer Load - Paolo Melchiorre) Tj
+T*
+(11:45: AI-Powered Python Education : Towards Adaptive and Inclusive Learning - Sonny Mupfuni) Tj
+T*
+(12:30: Making African Languages Visible: A Python-Based Guide to Low-Resourc...) Tj
+T*
+() Tj
+T*
+(2. datasette 1.0a28) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-17T04:01:56+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/17/datasette/#atom-everything) Tj
+T*
+(Release: datasette 1.0a28 I was upgrading Datasette Cloud to 1.0a27 and discovered a nasty) Tj
+T*
+(collection of accidental breakages caused by changes in that alpha. This new alpha addresses) Tj
+T*
+(those directly: Fixed a compatibility bug introduced in 1.0a27 where execute_write_fn\(\)) Tj
+T*
+(callbacks with a parameter name other than conn were seeing errors. \( #2691 \) The) Tj
+T*
+(database.close\(\) method now also shuts down the write connection for that database. New) Tj
+T*
+(datasette.close\(\) method for closing down all databases and resources associated with a) Tj
+T*
+(Datasette instance. This is called automatically when the server shuts down. \( #2693 \)) Tj
+T*
+(Datasette now includes a pytest plugin which automatically calls datasette.close\(\) on temporary) Tj
+T*
+(instances created in function-scoped fixtures and during tests. See Automatic cleanup of) Tj
+T*
+(Datasette instances for details. This helps avoid running out of file descriptors in plugin) Tj
+T*
+(test suites that were written before the Database\(is_temp_disk=True\) feature introduced in) Tj
+T*
+(Datasette 1.0a27. \( #2692 \) Most of the changes in this release were implemented using Claude) Tj
+T*
+(Code and the newly released Claude Opus 4.7. Tags: datasette) Tj
+T*
+() Tj
+T*
+(3. Gemini 3.1 Flash TTS) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-15T17:13:14+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything) Tj
+T*
+(Gemini 3.1 Flash TTS Google released Gemini 3.1 Flash TTS today, a new text-to-speech model) Tj
+T*
+(that can be directed using prompts. It's presented via the standard Gemini API using) Tj
+T*
+(gemini-3.1-flash-tts-preview as the model ID, but can only output audio files. The prompting) Tj
+T*
+(guide is surprising, to say the least. Here's their example prompt to generate just a few short) Tj
+T*
+(sentences of audio: # AUDIO PROFILE: Jaz R. ## "The Morning Hype" ## THE SCENE: The London) Tj
+T*
+(Studio It is 10:00 PM in a glass-walled studio overlooking the moonlit London skyline, but) Tj
+T*
+(inside, it is blindingly bright. The red "ON AIR" tally light is blazing. Jaz is standing up,) Tj
+T*
+(not sitting, bouncing on the balls of their heels to the rhythm of a thumping backing track.) Tj
+T*
+(Their hands fly across the faders on a massive mixing desk. It is a chaotic, caffeine-fueled) Tj
+T*
+(cockpit designed to wake up an entire nation. ### DIRECTOR'S NOTES Style: * The "Vocal Smile":) Tj
+T*
+(You must hear the grin in the audio. The soft palate is always raised to keep the tone bright,) Tj
+T*
+(sunny, and explicitly inviting. * Dynamics: High projection without shouting. Punchy consonants) Tj
+T*
+(and elongated vowels on excitement words \(e.g., "Beauuutiful morning"\). Pace: Speaks...) Tj
+T*
+() Tj
+T*
+(4. Apple?s Developer Guidelines for Ratings and Review Prompts) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4908 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-04-18T00:43:35Z) Tj
+T*
+(Link: https://developer.apple.com/design/human-interface-guidelines/ratings-and-reviews#Best-pr) Tj
+T*
+(actices) Tj
+T*
+(Apple Design: Avoid pestering people. Repeated rating requests can be irritating, and may even) Tj
+T*
+(negatively influence people?s opinion of your app. Consider allowing at least a week or two) Tj
+T*
+(between requests, prompting again after people demonstrate additional engagement with your) Tj
+T*
+(experience. Prefer the system-provided prompt. iOS, iPadOS, and macOS offer a consistent,) Tj
+T*
+(nonintrusive way for apps and games to request ratings and reviews. When you identify places in) Tj
+T*
+(your experience where it makes sense to ask for feedback, the system checks for previous) Tj
+T*
+(feedback and ? if there isn?t any ? displays an in-app prompt that asks for a rating and an) Tj
+T*
+(optional written review. People can supply feedback or dismiss the prompt with a single tap or) Tj
+T*
+(click; they can also opt out of receiving these prompts for all apps they have installed. The) Tj
+T*
+(system automatically limits the display of the prompt to three occurrences per app within a) Tj
+T*
+(365-day period. For developer guidance, see RequestReviewAction . There are a lot of apps that) Tj
+T*
+(eschew a lot of these guidelines. I mean, how do you avoid pestering people when the entire) Tj
+T*
+(idea of an alert asking for a rating/review is, by nature, pestering? It?s an oxymoron...) Tj
+T*
+() Tj
+T*
+(5. Follow-Up Regarding App Store Reviews, Which Are Definitely Busted) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-18T00:31:16Z) Tj
+T*
+(Link: https://daringfireball.net/linked/2026/04/16/app-store-reviews-are-busted) Tj
+T*
+(I wrote yesterday: And the apps that do the right thing ? like Godier?s Current ? and never) Tj
+T*
+(solicit a review like a needy hustler are penalized. On Mastodon, Steven Troughton-Smith) Tj
+T*
+(responded : Review prompts are the difference between a great app getting five positive) Tj
+T*
+(reviews, and thousands of positive reviews. I would never recommend to a developer to not) Tj
+T*
+(implement the APIs. It?s App Store Editorial suicide for most apps, since Apple tends to only) Tj
+T*
+(pick things up when they have that body of review data. I can see how my describing not) Tj
+T*
+(prompting for reviews ?the right thing? looks like I?m suggesting developers should not prompt) Tj
+T*
+(for reviews. That wasn?t my intention. You have to play the game as the game stands, and Apple) Tj
+T*
+(controls the game. And in the game as it stands, apps need 5-star reviews to gain traction in) Tj
+T*
+(the App Store, perhaps especially so for apps in crowded categories. And for most apps, the) Tj
+T*
+(only way to achieve that is through prompting. But it?s still the right thing to do, by users,) Tj
+T*
+(not to do it. That?s the problem with how Apple has set this up ? to be competitive, apps need) Tj
+T*
+(to do the wrong thing. I?m a competitive bastard. If I had an app in the App Store today, I?...) Tj
+T*
+() Tj
+T*
+(6. How to Format 10-Digit Phone Numbers) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-16T20:09:07Z) Tj
+T*
+(Link: https://www.threads.com/@apstylebook/post/DXKtXVXEh7T) Tj
+T*
+(The Associated Press Stylebook, on Threads: We updated our style for telephone numbers in 2024) Tj
+T*
+(to drop parentheses. We now recommend the form: 212-621-1500. For international numbers use 011) Tj
+T*
+(\(from the United States\), the country code, the city code and the telephone number:) Tj
+T*
+(011-44-20-7535-1515. Use hyphens, not periods. No parentheses. The form for toll-free numbers:) Tj
+T*
+(800-111-1000. If extension numbers are needed, use a comma to separate the main number from the) Tj
+T*
+(extension: 212-621-1500, Ext. 2. I have long been annoyed that U.S. phone numbers are so often) Tj
+T*
+(formatted in the outdated \(123\) 555-1234 format. The use of parentheses for the area code dates) Tj
+T*
+(back to the old days, when you only needed to dial the area code to call a number outside your) Tj
+T*
+(own area code. \(The same era whence comes the verb dial .\) Until 10-digit dialing with) Tj
+T*
+(mandatory area codes started to become standard in the late 1990s, you only needed to dial) Tj
+T*
+(seven digits to call a local number. Apple?s Contacts app \(and I think the system-wide Contacts) Tj
+T*
+(framework , used by third-party apps like Flexibits?s excellent Cardhop \), will go so far as to) Tj
+T*
+(reformat numbers entered in 123-555-1234 format as \(123\) 555-1234 . Apple sho...) Tj
+T*
+() Tj
+T*
+(7. Forgotten message from the past: LB_INIT≠STORAGE) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 17 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260417-00/?p=112243) Tj
+T*
+(Preallocating memory to avoid quadratic behavior. The post Forgotten message from the past: LB_) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4699 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(INIT≠STORAGE appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. 4-bit floating point FP4) Tj
+T*
+(Source: John D. Cook | Published: Sat, 18 Apr 2026 01:08:54 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/17/fp4/) Tj
+T*
+(In ancient times, floating point numbers were stored in 32 bits. Then somewhere along the way) Tj
+T*
+(64 bits became standard. The C programming language retains the ancient lore, using float to) Tj
+T*
+(refer to a 32-bit floating point number and double to refer to a floating point number with) Tj
+T*
+(double the number of bits. Python simply [?] The post 4-bit floating point FP4 first appeared) Tj
+T*
+(on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Does your DSL little language really need operator precedence?) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-17T02:37:04Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence) Tj
+T*
+(Every so often I create some sort of little language, of lesser or greater power, and when I do) Tj
+T*
+(I have some heresies \(like using recursive descent parsing \). One of those heresies is that I) Tj
+T*
+(usually leave out real operator precedence, other than support for '\(' and '\)'. Operator) Tj
+T*
+(precedence is nice and there are all sorts of cool algorithms for implementing it without) Tj
+T*
+(tearing your hair out. But it's mostly nice for arithmetic expressions \(or if you have a lot of) Tj
+T*
+(operators\), not for other things you may be using expressions for, such as matching incoming) Tj
+T*
+(connections against some rules , and implementing real operator precedence will complicate your) Tj
+T*
+(parser and little language. If you do this regularly and have the relevant algorithms) Tj
+T*
+(memorized, or if you want an extra learning experience, go ahead and implement operator) Tj
+T*
+(precedence anyway. Otherwise, well, are you sure you need it? I've been pretty happy with) Tj
+T*
+(little languages that had little or no operator precedence, among other hacks to make them) Tj
+T*
+(simpler. \(A certain amount of basic operator precedence can be implemented fairly simply in a) Tj
+T*
+(recursive descent parser, although it can be increasingly tedious as you add more and more) Tj
+T*
+(level...) Tj
+T*
+() Tj
+T*
+(10. The two subtypes of one sort of package managers, the "program manager") Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-01-28T02:09:56Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/PackageManagersTwoTypesIII) Tj
+T*
+(I've written before that one of the complications of talking about package managers and package) Tj
+T*
+(management is that there are two common types of package managers , program managers \(which) Tj
+T*
+(manage installed programs on a system level\) and module managers \(which manage package) Tj
+T*
+(dependencies for your project within a language ecosystem or maybe a broader ecosystem\). Today) Tj
+T*
+(I realized that there is a further important division within program managers. I will call this) Tj
+T*
+(division application \(package\) managers and system \(package\) managers . A system package) Tj
+T*
+(manager is what almost all Linux distributions have \(in the form of Debian's dpkg and its set) Tj
+T*
+(of higher level tools, Fedora's RPM and its set of higher level tools, Arch's pacman , and so) Tj
+T*
+(on\). It manages everything installed by the distribution on the system, from the kernel all the) Tj
+T*
+(way up to the programs that people run to get work done, but certainly including what we think) Tj
+T*
+(of as system components like the core C library, basic POSIX utilities, and so on. In modern) Tj
+T*
+(usage, all updates to the system are done by shipping new package versions , rather than by) Tj
+T*
+(trying to ship 'patches' that consist of only a few changed files or programs. \(...) Tj
+T*
+() Tj
+T*
+(11. Forcing a Go generic type to be a pointer type \(and some challenges\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-01-27T04:58:51Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/GoGenericTypeIsPointer) Tj
+T*
+(Recently I saw a Go example that made me scratch my head and decode what was going on \(you can) Tj
+T*
+(see it here \). Here's what I understand about what's going on. Suppose that you want to create) Tj
+T*
+(a general interface for a generic type that requires any concrete implementation to be a) Tj
+T*
+(pointer type. We can do this by literally requiring a pointer: type Pointer[P any] interface {) Tj
+T*
+(*P } That this is allowed is not entirely obvious from the specification, but it's not) Tj
+T*
+(forbidden. We're not allowed to use just ' P ' or ' ~P ' in the interface type, because you're) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4558 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(not allowed to directly or indirectly embed yourself as a type parameter, but ' *P ' isn't) Tj
+T*
+(doing that directly; instead, it's forcing a pointer version of some underlying type. Actually) Tj
+T*
+(using it is a bit awkward, but I'll get to that. We can then require such a generic type to) Tj
+T*
+(have some methods, for example: type Index[P any] interface { New\(\) *P *P } This can be) Tj
+T*
+(implemented by, for example: type base struct { i int } func \(b *base\) New\(\) *base { return) Tj
+T*
+(&base{-1} } But suppose we want to have a derived generic type, for example a struct containing) Tj
+T*
+(an Index field of this Index \(generic\) type. We'd like to write this in the straightforwa...) Tj
+T*
+() Tj
+T*
+(12. Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and) Tj
+T*
+(Zoe Venditozzi ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 17 Apr 2026 11:34:26 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarc) Tj
+T*
+(hy-by-claire-mitchell-and-zoe-venditozzi/) Tj
+T*
+(After reading The Wicked of the Earth, I wanted to understand some of the history behind the) Tj
+T*
+(stories. Why were women accused of being witches? What really happened in those trials? What) Tj
+T*
+(are the modern consequences of those events? This is the story of the Scottish Witch Trials -) Tj
+T*
+(with brief forays into England and abroad. It examines the central tension of whether) Tj
+T*
+(witchcraft was real to the?) Tj
+T*
+() Tj
+T*
+(13. How an LLM becomes more coherent as we train it) Tj
+T*
+(Source: Giles' blog | Published: Fri, 17 Apr 2026 23:30:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/04/how-an-llm-becomes-more-coherent-over-training) Tj
+T*
+(I remember finding it interesting when, back in 2015, Andrej Karpathy posted about RNNs and) Tj
+T*
+(gave an example of how their output improves over the course of a training run . What might) Tj
+T*
+(that look like for a \(relatively\) modern transformers-based LLM? I recently trained a) Tj
+T*
+(GPT-2-small-style LLM, with 163 million parameters, on about 3.2 billion tokens \(that's about) Tj
+T*
+(12.8 GiB of text\) from the Hugging Face FineWeb dataset, and over the course of that training) Tj
+T*
+(run, I saved the current model periodically -- 57 checkpoints over two days. Here's what it) Tj
+T*
+(looked like -- the start, the end, and some interesting waypoints in between. For each) Tj
+T*
+(checkpoint, I asked it to generate a completion to the words "Every effort moves you". 1 When) Tj
+T*
+(the model was first created, before any training had been done, it came up with this: Every) Tj
+T*
+(effort moves youhhhh esoteric Suns 1896ricia enormous initially speculative arenaelse anth) Tj
+T*
+(Zimmerman Insight Sketch demonstr despicable capitalists clamp flung condemnation If you've) Tj
+T*
+(read the Karpathy essay, you'll see one important difference -- it's already got words in) Tj
+T*
+(there. His RNNs were generating complete noise at this stage. Even by the 100th iteration, he) Tj
+T*
+(gives an...) Tj
+T*
+() Tj
+T*
+(14. Premium: The Hater's Guide to Private Credit) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 17 Apr 2026 16:57:30 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/hatersguide-privatecredit/) Tj
+T*
+(A few years ago, I made the mistake of filling out a form to look into a business loan, one) Tj
+T*
+(that I never ended up getting. Since then I receive no less than three texts a day offering me) Tj
+T*
+(lines of credit ranging from $150,000 to as much as) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: Tiktokification shall set us free \(17 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 17 Apr 2026 10:30:52) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/17/for-youze/) Tj
+T*
+(Today's links Tiktokification shall set us free: Zuck keeps accidentally freeing his hostages.) Tj
+T*
+(Hey look at this: Delights to delectate. Object permanence: B2B Trotsky; Public service games;) Tj
+T*
+(NZ 3 strikes rule; Snowden, vocalist; Obama says money compromised him; Bullshit treescrapers;) Tj
+T*
+(Tesla's odometer heist. Upcoming appearances: Los Angeles, San Francisco, London, Berlin,) Tj
+T*
+(Barcelona, NYC, Hay-on-Wye, London, NYC. Recent appearances: Where I've been. Latest books: You) Tj
+T*
+(keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Tiktokification shall set us free \(permalink\) Mark Zuckerberg has a) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3712 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(problem with your friends: they're the reason you signed up to use his platform, but they) Tj
+T*
+(stubbornly refuse to organize your socialization to "maximize engagement." Every time you and) Tj
+T*
+(your friends wrap up a social interaction and log off, Zuckerberg loses revenue. After all, by) Tj
+T*
+(definition, you and your friends have a lot of shared context. You probably feel mostly the) Tj
+T*
+(same way about most things. You probably mostly consume the same kind of media. You probably) Tj
+T*
+(mostly consume the same kinds of news. You and your friends make each other's li...) Tj
+T*
+() Tj
+T*
+(16. Why Nerds are Unpopular) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/nerds.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(17. Better Bayesian Filtering) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/better.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(18. Design and Research) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/desres.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(19. The Mystery of Rennes-le-Ch‚teau, Part 4: Non-Fiction Meets Fiction) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 17 Apr 2026 16:12:17 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-) Tj
+T*
+(fiction/) Tj
+T*
+(This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3:) Tj
+T*
+(Blood of the Sacred, Blood of the Damned. The Holy Blood and the Holy Grail was published by) Tj
+T*
+(Jonathan Cape in Britain on January 18, 1982. Delacorte released an American edition five weeks) Tj
+T*
+(later, under the punchier title of simply [?]) Tj
+T*
+() Tj
+T*
+(20. MCH2022: DNA and GPS/Galileo/GNSS Talks) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 27 Jul 2022 13:41:11 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/mch-dna-and-gps-gnss-talks/) Tj
+T*
+(\(scroll down for my two talks if you are in a hurry\) As I write this I?m suffering from severe) Tj
+T*
+(post-camp blues. Every four years the Dutch hacker community organizes a stupendously large) Tj
+T*
+(multi-day campsite event, with ample international help. To a large extent, ?everyone? is) Tj
+T*
+(there. And this time, like every time, people who originally decided they could not make it..) Tj
+T*
+(show up by day two. Because the pull is just too strong.) Tj
+T*
+() Tj
+T*
+(21. Nerdfluisteraar) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 04 Jun 2022 21:05:40 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/nerdfluisteraar/) Tj
+T*
+(Eerder dit jaar spraken Kustaw Bessems en ik elkaar in een aflevering van de Volkskrant podcast) Tj
+T*
+(?Stuurloos? \(reservelink\). In een uitzending van meer dan een uur behandelden we waarom het zo) Tj
+T*
+(moeilijk is voor de overheid en grote bedrijven om mensen te werven die ergens echt veel vanaf) Tj
+T*
+(weten, en die mensen vervolgens ook te behouden. Ik had me gemeld bij ?Stuurloos? na het) Tj
+T*
+(beluisteren van de zeer waardevolle eerdere aflevering Gevaarlijke combinatie: politici Èn) Tj
+T*
+(ambtenaren zonder vakkennis met Geert-Jan Hamilton en Peter van Lieshout \(artikel\).) Tj
+T*
+() Tj
+T*
+(22. Presentation at the European Energy Law Seminar 2022) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 25 May 2022 10:46:46 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/cyber-energy-law-and-policy/) Tj
+T*
+(As presented on the 24th of May 2022 at the European Energy Law Seminar 2022 organized by the) Tj
+T*
+(Dutch Energy Law Association \(NeVER\), in cooperation with the University of Groningen?s Centre) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 319 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(of Energy Law and Sustainability and the University of Oslo?s Scandinavian Institute of) Tj
+T*
+(Maritime Law So before we delve into the fascinating relation between cybersecurity and the) Tj
+T*
+(worlds of oil, gas, energy and electricity, I need to introduce myself a bit.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004996 00000 n 
+0000005122 00000 n 
+0000010082 00000 n 
+0000010208 00000 n 
+0000014959 00000 n 
+0000015085 00000 n 
+0000019696 00000 n 
+0000019824 00000 n 
+0000023589 00000 n 
+0000023717 00000 n 
+0000024088 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+24216
+%%EOF
