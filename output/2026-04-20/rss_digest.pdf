@@ -1,0 +1,608 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4464 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-20 09:39:23) Tj
+T*
+() Tj
+T*
+(1. Claude Token Counter, now with model comparisons) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-20T00:50:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything) Tj
+T*
+(Claude Token Counter, now with model comparisons I upgraded my Claude Token Counter tool to add) Tj
+T*
+(the ability to run the same count against different models in order to compare them. As far as) Tj
+T*
+(I can tell Claude Opus 4.7 is the first model to change the tokenizer, so it's only worth) Tj
+T*
+(running comparisons between 4.7 and 4.6. The Claude token counting API accepts any Claude model) Tj
+T*
+(ID though so I've included options for all four of the notable current models \(Opus 4.7 and) Tj
+T*
+(4.6, Sonnet 4.6, and Haiku 4.5\). In the Opus 4.7 announcement Anthropic said : Opus 4.7 uses an) Tj
+T*
+(updated tokenizer that improves how the model processes text. The tradeoff is that the same) Tj
+T*
+(input can map to more tokens?roughly 1.0?1.35◊ depending on the content type. I pasted the Opus) Tj
+T*
+(4.7 system prompt into the token counting tool and found that the Opus 4.7 tokenizer used 1.46x) Tj
+T*
+(the number of tokens as Opus 4.6. Opus 4.7 uses the same pricing is Opus 4.6 - $5 per million) Tj
+T*
+(input tokens and $25 per million output tokens - but this token inflation means we can expect) Tj
+T*
+(it to be around 40% more expensive. The token counter tool also accepts images. Opus 4.7 has) Tj
+T*
+(improved image support, described like this: Opus 4.7 has better visi...) Tj
+T*
+() Tj
+T*
+(2. Headless everything for personal AI) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-19T21:46:38+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything) Tj
+T*
+(Headless everything for personal AI Matt Webb thinks headless services are about to become much) Tj
+T*
+(more common: Why? Because using personal AIs is a better experience for users than using) Tj
+T*
+(services directly \(honestly\); and headless services are quicker and more dependable for the) Tj
+T*
+(personal AIs than having them click round a GUI with a bot-controlled mouse. Evidently Marc) Tj
+T*
+(Benioff thinks so too : Welcome Salesforce Headless 360: No Browser Required! Our API is the) Tj
+T*
+(UI. Entire Salesforce & Agentforce & Slack platforms are now exposed as APIs, MCP, & CLI. All) Tj
+T*
+(AI agents can access data, workflows, and tasks directly in Slack, Voice, or anywhere else with) Tj
+T*
+(Salesforce Headless. If this feed does take off it's going to play havoc with existing per-head) Tj
+T*
+(SaaS pricing schemes. I'm reminded of the early 2010s era when every online service was) Tj
+T*
+(launching APIs. Brandur Leach reminisces about that time in The Second Wave of the API-first) Tj
+T*
+(Economy , and predicts that APIs are ready to make a comeback: Suddenly, an API is no longer) Tj
+T*
+(liability, but a major saleable vector to give users what they want: a way into the services) Tj
+T*
+(they use and pay for so that an agent can carry out work on their behalf. Especially...) Tj
+T*
+() Tj
+T*
+(3. Gemini 3.1 Flash TTS) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-15T16:41:46+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/15/gemini-flash-tts/#atom-everything) Tj
+T*
+(Tool: Gemini 3.1 Flash TTS See my notes on Google's new Gemini 3.1 Flash TTS text-to-speech) Tj
+T*
+(model. Tags: gemini , google) Tj
+T*
+() Tj
+T*
+(4. Jessica Chastain Says Apple TV Will Finally Release ?The Savant?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-19T18:51:43Z) Tj
+T*
+(Link: https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-) Tj
+T*
+(after-postponement-charlie-kirk-assassination-1236725384/) Tj
+T*
+(Marc Malkin, Variety: Jessica Chastain says Apple TV is finally going to release her political) Tj
+T*
+(thriller series ?The Savant.? [...] ?Before it was like, ?I don?t know if we?re going to see) Tj
+T*
+(it,? but now I can say, ?We?re going to see it,?? Chastain told me exclusively on Saturday at) Tj
+T*
+(the Breakthrough Prize ceremony in Santa Monica. As for when, sources tell me that Apple is) Tj
+T*
+(planning for a July release. Previously , re: The Savant ?s limbo release date. ?) Tj
+T*
+() Tj
+T*
+(5. WorkOS FGA: The Authorization Layer for AI Agents) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-19T17:37:01Z) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4586 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=dari) Tj
+T*
+(ngfireball&utm_medium=newsletter&utm_campaign=q22026) Tj
+T*
+(My thanks to WorkOS for sponsoring last week at DF. Every AI agent demo looks magical, but most) Tj
+T*
+(hit a wall in enterprise deployment. It?s not model quality or latency. It?s authorization.) Tj
+T*
+(Authentication proves an agent?s identity. Authorization defines its blast radius. The winners) Tj
+T*
+(in enterprise AI won?t have the most features. They?ll be the ones enterprises can safely) Tj
+T*
+(trust. Learn how WorkOS FGA scopes that blast radius with resource-level permissions, and read) Tj
+T*
+(their deep dive for more. ?) Tj
+T*
+() Tj
+T*
+(6. Apple Pay Express Mode for Transit, When Used With a Visa Card, Is Vulnerable to Scam) Tj
+T*
+(Tap-to-Pay Readers) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-16T18:43:44Z) Tj
+T*
+(Link: https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/) Tj
+T*
+(Juli Clover, MacRumors: The process requires the victim to have Express Transit Mode enabled) Tj
+T*
+(for payments, and a Visa card linked for those payments, among other steps. As it turns out,) Tj
+T*
+(it?s a Visa-related security loophole rather than an iPhone issue, and it doesn?t work with a) Tj
+T*
+(Mastercard or an American Express card because other cards use different security methods. It) Tj
+T*
+(also doesn?t work with Samsung Pay on Samsung devices, and it requires the specific combination) Tj
+T*
+(of a Visa card and an iPhone. Apple told Veritasium that it?s an issue with the Visa system,) Tj
+T*
+(but something unlikely to occur in the real world. The video , hosted by the Veritasium YouTube) Tj
+T*
+(channel, but starring Marques Brownlee as the victim, takes over 15 minutes before clarifying) Tj
+T*
+(that the exploit only works with Visa cards, and only when a Visa card is set as your card for) Tj
+T*
+(Express Transit Mode. Until then, the video implies that the exploit can work against any) Tj
+T*
+(iPhone that has Apple Pay configured, with any sort of credit card. The technical explanation) Tj
+T*
+(of how the hack works is pretty good though. As I wrote a year ago \(when Apple was looking for) Tj
+T*
+(a new partner to replace Goldman Sachs as the bank for Apple Card\), Visa...) Tj
+T*
+() Tj
+T*
+(7. 5x5 Pixel font for tiny screens) Tj
+T*
+(Source: Maurycy's Blog | Published: Sat, 18 Apr 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/projects/mcufont/) Tj
+T*
+(Font data \(C header\) All characters fit within a 5 pixel square, and are safe to draw on a 6x6) Tj
+T*
+(grid. The design is based off of lcamtuf's 5x6 font-inline.h, which is itself inspired by the) Tj
+T*
+(ZX Spectrum's 8x8 font. 5x5 is the smallest size that doesn't compromise legibility: 2x2 :) Tj
+T*
+(Impossible. 2 2*2 = 16 possible symbols 3x3 : Possible, but unreadable. 4x4 : Not enough to) Tj
+T*
+(draw "E", "M" or "W" properly. 5x5 : This font. 2x2 font note: While a 2x2 font with letters is) Tj
+T*
+(impossible, there are 10 structuarally-distinct, non-blank patterns: 0: 1: 2: 3: 4: 5: 6: 7: 8:) Tj
+T*
+(9: .. .# ## .# #. ## #. ## ## .# .# .# .. #. .# #. ## .# ## ## \(ordered based on vague) Tj
+T*
+(resemblance to digits\) It's less of a font and more of a secret code, but it does technically) Tj
+T*
+(work. Five by five is actually big enough to draw most lowercase letters one pixel shorter,) Tj
+T*
+(making them visually distinct from uppercase. Narrower 4x5 and 3x5 dimensions are possible ,) Tj
+T*
+(but would require sacrificing the M, dotted zero, and reduce U/V/Y distinctiveness. Three wide) Tj
+T*
+(characters would also force the "e" and "g" to be the same height as uppercase letters. There's) Tj
+T*
+(no artistic reason to make all characters five wide just because a few must be...) Tj
+T*
+() Tj
+T*
+(8. Reprojecting Dual Fisheye Videos to Equirectangular \(LG 360\)) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 19 Apr 2026 11:34:32 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/) Tj
+T*
+(I still use my obsolete LG 360 Camera. When copying MP4 videos from its SD card, they come out) Tj
+T*
+(in "Dual Fisheye" format - which looks like this: VLC and YouTube will only play) Tj
+T*
+("Equirectangular" videos in spherical mode. So, how to convert a dual fisheye to) Tj
+T*
+(equirectangualr? The Simple Way ffmpeg \\ -i original.mp4 \\ -vf) Tj
+T*
+("v360=input=dfisheye:output=equirect:ih_fov=189:iv_fov=189" \\ ?) Tj
+T*
+() Tj
+T*
+(9. Printing things in colour is not simple) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 5017 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Chris's Wiki :: blog | Published: 2026-01-25T03:48:36Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/PrintingColourNotSimple) Tj
+T*
+(Recently, Verisimilitude left a comment on my entry on X11's DirectColor visual type , where) Tj
+T*
+(they mentioned that L Peter Deutsch, the author of Ghostscript, lamented using twenty-four bit) Tj
+T*
+(colour for Ghostscript rather than a more flexible approach, which you may need in printing) Tj
+T*
+(things with colour. As it happens, I know a bit about this area for two or three reasons, which) Tj
+T*
+(come at it from different angles. A long time ago I was peripherally involved in desktop) Tj
+T*
+(publishing software, which obviously cares about printing colour, and then later I became a) Tj
+T*
+(hobby photographer and at one point had some exposure to people who care about printing) Tj
+T*
+(photographs \(both colour and black and white\). \(The actual PDF format supports much more) Tj
+T*
+(complex colour models than basic 24-bit sRGB or sGray colour, but apparently Ghostscript turns) Tj
+T*
+(all of that into 24-bit colour internally. See eg , which suggests that modern Ghostscript has) Tj
+T*
+(evolved into a more complex internal colour model.\) On the surface, printing colour things out) Tj
+T*
+(in physical media may seem simple. You convert RGB colour to CMYK colour and then send the) Tj
+T*
+(result off to the printer, where your inkjet or laser printer uses its CMYK ink or toner...) Tj
+T*
+() Tj
+T*
+(10. Understanding query_response in Prometheus Blackbox's tcp prober) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-01-24T02:55:50Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusBlackboxQueryResponse) Tj
+T*
+(Prometheus Blackbox is somewhat complicated to understand . One of its fundamental abstractions) Tj
+T*
+(is a 'prober', a generic way of probing some service \(such as making HTTP requests or DNS) Tj
+T*
+(requests\). One prober is the 'tcp' prober, which makes a TCP connection and then potentially) Tj
+T*
+(conducts a conversation with the service to verify its health. For example, here's a ClamAV) Tj
+T*
+(daemon health check, which connects, sends a line with "PING", and expects to receive "PONG":) Tj
+T*
+(clamd_pingpong: prober: tcp tcp: query_response: - send: "PING\\n" - expect: "PONG" The) Tj
+T*
+(conversation with the service is detailed in the query_response configuration block \(in YAML\).) Tj
+T*
+(For a long time I thought that this was what it looks like here, a series of entries with one) Tj
+T*
+(directive per entry, such as 'send', 'expect', or 'starttls' \(to switch to TLS after, for) Tj
+T*
+(example, you send a 'STARTTLS' command to the SMTP or IMAP server\). However, much like an) Tj
+T*
+(earlier case with Alertmanager , this is not actually what the YAML syntax is. In reality each) Tj
+T*
+(step in the query_response YAML array can have multiple things. To quote the documentation: [ -) Tj
+T*
+([ [ expect: ], [ expect_bytes: ], [ labels: - [ name: value: ], ... ], [ send: ], [ sta...) Tj
+T*
+() Tj
+T*
+(11. Pitfalls in using Prometheus Blackbox to monitor external SMTP) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-01-23T04:15:53Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusBlackboxOutsideSMTP) Tj
+T*
+(The news of the day is that Microsoft had a significant outage inside their Microsoft 365) Tj
+T*
+(infrastructure. We noticed when we stopped being able to deliver email to the university's) Tj
+T*
+(institutional email system, which was a bit mysterious in the usual way of today's Internet :) Tj
+T*
+(The joys of modern email: "Has Microsoft decided to put all of our email on hold or are they) Tj
+T*
+(having a global M365 inbound SMTP email incident?" \(For about the last hour and a half, if it's) Tj
+T*
+(an incident someone is having a bad day.\) We didn't find out immediately when this happened) Tj
+T*
+(\(and if our systems had been working right, we wouldn't have found out when I did, but that's) Tj
+T*
+(another story\). Initially I was going to write an entry about whether or not we should use our) Tj
+T*
+(monitoring system to monitor external services that other people run, but it turns out that we) Tj
+T*
+(do try to monitor whether we can do a SMTP conversation to the university's M365-hosted) Tj
+T*
+(institutional email. There were several things that happened with this monitoring. The first) Tj
+T*
+(thing that happened is that the alerts related to it rotted. The university once had a fixed) Tj
+T*
+(set of on-premise MX targets and we monitored our ability to talk to them and alerted...) Tj
+T*
+() Tj
+T*
+(12. How we lost the living Now) Tj
+T*
+(Source: Westenberg. | Published: Mon, 20 Apr 2026 01:01:22 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/how-we-lost-the-living-now/) Tj
+T*
+(Before 1840, noon in Bristol happened about ten minutes after noon in London, and nobody much) Tj
+T*
+(cared. The railway needed a common minute or it couldn't run - and that common minute is now a) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3770 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(common nanosecond, shipped in real time.) Tj
+T*
+() Tj
+T*
+(13. What Languages Fix) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/fix.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(14. Taste for Makers) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/taste.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. Why Arc Isn't Especially Object-Oriented) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/noop.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. Hook It Up to the Machine) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 19 Apr 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/) Tj
+T*
+(In the early 2000?s, my parents took us on a road trip to Glacier National Park in Montana. We) Tj
+T*
+(made the journey in our new \(used\) family van: a green Dodge Caravan whose reputation was soon) Tj
+T*
+(to become ?a lemon?. I was a teenager and didn?t pay a lot of attention to the details of what) Tj
+T*
+(was happening around me, but I do remember how the van kept overheating. It ran fine on the) Tj
+T*
+(interstate, but anything under 40MPH had the car?s temperature gauge rising into unsafe zones.) Tj
+T*
+(I remember stopping in some small town in Montana to get it checked out by a mechanic. He) Tj
+T*
+(checked it out, took it for a test drive, etc., and told my Dad the reason the car was) Tj
+T*
+(overheating was because the idling fan wasn?t turning on. At higher speeds, like on the) Tj
+T*
+(interstate, that was fine because there was enough airflow to keep the engine cool but at lower) Tj
+T*
+(speeds the car would overheat. The mechanic said he didn?t know why the fan wasn?t turning on.) Tj
+T*
+(There was nothing wrong mechanically from what he could see. But he couldn't fix it. He told my) Tj
+T*
+(Dad that this was one of those increasingly common ?computerized? cars that you have to hook up) Tj
+T*
+(to another computer to diagnose the source of the issue. And he didn?t have one...) Tj
+T*
+() Tj
+T*
+(17. Wander Console 0.5.0) Tj
+T*
+(Source: Susam Pal | Published: Sun, 19 Apr 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/code/news/wander/0.5.0.html) Tj
+T*
+(Wander Console 0.5.0 is out. It is the fifth release of Wander, a small, decentralised,) Tj
+T*
+(self-hosted web console that lets visitors to your website explore interesting websites and) Tj
+T*
+(pages recommended by a community of independent website owners. To try it, go to) Tj
+T*
+(susam.net/wander/ . To learn more about how it works and how to set it up on your website, see) Tj
+T*
+(the project README . A screenshot of Wander Console The big feature in this release is a) Tj
+T*
+(built-in console network crawler. To try the console crawler, go to susam.net/wander/ > Console) Tj
+T*
+(> Crawl . It performs a breadth-first search \(BFS\) traversal of the Wander network and lists) Tj
+T*
+(all discovered consoles and page recommendations in a single pane. A screenshot of Wander) Tj
+T*
+(Console Crawler If you have set up a Wander Console instance for yourself on your website, I) Tj
+T*
+(recommend upgrading to the latest version to use this feature. It is fun to find out just how) Tj
+T*
+(many Wander consoles belong to your neighbourhood. To upgrade, you only need to download the) Tj
+T*
+(Wander Console bundle mentioned here and replace your existing Wander index.html with the new) Tj
+T*
+(one. If you own a personal website but have not set up a Wander Console yet, I suggest that you) Tj
+T*
+(consi...) Tj
+T*
+() Tj
+T*
+(18. Hitachi Ltd, Part II) Tj
+T*
+(Source: Abort Retry Fail | Published: Sun, 19 Apr 2026 20:36:46 GMT) Tj
+T*
+(Link: https://www.abortretry.fail/p/hitachi-ltd-part-ii) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 2746 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(H8, PA-RISC, and SuperH) Tj
+T*
+() Tj
+T*
+(19. Figma's woes compound with Claude Design) Tj
+T*
+(Source: Martin Alderson | Published: Sun, 19 Apr 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/?utm_source=rss&) Tj
+T*
+(utm_medium=rss&utm_campaign=feed) Tj
+T*
+(Figma's reliance on non-designer seats made it uniquely exposed to AI. Claude Design's launch) Tj
+T*
+(deepens the problem.) Tj
+T*
+() Tj
+T*
+(20. Big tech clouds worden niet veiliger met stapels papier) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 19 Apr 2026 21:00:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/) Tj
+T*
+(Je samenleving, overheid en maatschappij overlaten aan Amerikaanse servers komt met twee) Tj
+T*
+(problemen: Alles werkt alleen zolang ze het in Amerika goed vinden. Met een enkel briefje op) Tj
+T*
+(Whitehouse.gov lig je uit hun cloud. Via minstens drie wetsinstrumenten gunt Amerika zich) Tj
+T*
+(toegang tot onze data en communicatie, ook al staan de Microsoftservers in Europa. Dit is) Tj
+T*
+(allemaal heel vervelend, en er is ook weinig aan te doen. Geen enkele ?speciale? afspraak heft) Tj
+T*
+(de realiteit van Amerikaanse wetgeving op.) Tj
+T*
+() Tj
+T*
+(21. About That Russian Gas) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 21 Mar 2022 08:46:24 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/about-that-russian-gas/) Tj
+T*
+(The horrors of the Russian war on Ukraine continue unabated. Every eurocent we send to Russia) Tj
+T*
+(is an intolerable assault on the senses. The world buys lots of things from Russia. For some of) Tj
+T*
+(these, if Europe does not buy them, someone else will. But there is one major exception:) Tj
+T*
+(natural gas. Over the past few weeks I?ve been automating graphs that show, on an hourly basis,) Tj
+T*
+(just how much gas we buy from Russia:) Tj
+T*
+() Tj
+T*
+(22. Some business advice for academic startups/spinouts) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 03 Feb 2022 10:27:25 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/some-academic-business-advice/) Tj
+T*
+(So I love academia, and I also built two businesses. When I dropped out of studying physics to) Tj
+T*
+(focus on my company, I assumed I knew everything, since I had studied physics! Turned out that) Tj
+T*
+(if you enter the world of commerce, it is very bad if you are visibly confused about the) Tj
+T*
+(difference between business development and sales. It does nothing for your credibility. People) Tj
+T*
+(in enterprise will likely and correctly conclude that you know nothing about running companies) Tj
+T*
+(if you are hazy on concepts that are fundamental to them.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004733 00000 n 
+0000004859 00000 n 
+0000009497 00000 n 
+0000009623 00000 n 
+0000014692 00000 n 
+0000014818 00000 n 
+0000018641 00000 n 
+0000018769 00000 n 
+0000021568 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+21696
+%%EOF
