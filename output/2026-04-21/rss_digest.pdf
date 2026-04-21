@@ -1,0 +1,714 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4350 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-21 09:38:51) Tj
+T*
+() Tj
+T*
+(1. Advice from a millionaire) Tj
+T*
+(Source: iDiallo.com | Published: Mon, 20 Apr 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/advice-from-a-millionaire?src=feed) Tj
+T*
+(#storytime "Is this seat taken?" A man dressed in a black suit and a coffee in hand asked. He) Tj
+T*
+(was already halfway into the chair when he said it. I was at the adjacent table when I heard) Tj
+T*
+(it. He wasn't asking me. He was asking the woman who looked up, one hand holding a paper cup,) Tj
+T*
+(the other trying to keep a small boy from sliding off his seat. A second child sat beside her,) Tj
+T*
+(quietly peeling the label off a juice bottle. "Michael, no!" she yelled at the kid. But that) Tj
+T*
+(didn't deter him, he was sitting beside her, sipping on his latte. I noticed him because he) Tj
+T*
+(didn't belong to the table. He had given himself permission to be part of this story. At first) Tj
+T*
+(I could only hear fragments of the conversation carried between the hiss of the espresso) Tj
+T*
+(machine and the scrape of the chairs. "?people always ask me?" "?not about luck?" "?mindset is) Tj
+T*
+(everything?" He spoke with the rhythm of someone used to being listened to. Not pausing for) Tj
+T*
+(responses, just enough space to suggest one might exist. The woman nodded, when it seemed) Tj
+T*
+(appropriate. Not because she agreed, I think, but because her attention kept breaking apart.) Tj
+T*
+(The younger child had dropped something. The older one was tugging at her shirt aski...) Tj
+T*
+() Tj
+T*
+(2. SQL functions in Google Sheets to fetch data from Datasette) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-20T02:33:58+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything) Tj
+T*
+(TIL: SQL functions in Google Sheets to fetch data from Datasette I put together some notes on) Tj
+T*
+(patterns for fetching data from a Datasette instance directly into Google Sheets - using the) Tj
+T*
+(importdata\(\) function, a "named function" that wraps it or a Google Apps Script if you need to) Tj
+T*
+(send an API token in an HTTP header \(not supported by importdata\(\) .\) Here's an example sheet) Tj
+T*
+(demonstrating all three methods. Tags: spreadsheets , datasette , google) Tj
+T*
+() Tj
+T*
+(3. Quoting Kyle Kingsbury) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-15T15:36:02+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything) Tj
+T*
+(I think we will see some people employed \(though perhaps not explicitly\) as meat shields :) Tj
+T*
+(people who are accountable for ML systems under their supervision. The accountability may be) Tj
+T*
+(purely internal, as when Meta hires human beings to review the decisions of automated) Tj
+T*
+(moderation systems. It may be external, as when lawyers are penalized for submitting LLM lies) Tj
+T*
+(to the court. It may involve formalized responsibility, like a Data Protection Officer. It may) Tj
+T*
+(be convenient for a company to have third-party subcontractors, like Buscaglia, who can be) Tj
+T*
+(thrown under the bus when the system as a whole misbehaves. ? Kyle Kingsbury , The Future of) Tj
+T*
+(Everything is Lies, I Guess: New Jobs Tags: ai-ethics , careers , ai , kyle-kingsbury) Tj
+T*
+() Tj
+T*
+(4. datasette-ports 0.3) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-15T02:50:57+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything) Tj
+T*
+(Release: datasette-ports 0.3 A small update for my tool for helping me figure out what all of) Tj
+T*
+(the Datasette instances on my laptop are up to. Show working directory derived from each PID) Tj
+T*
+(Show the full path to each database file Output now looks like this: http://127.0.0.1:8007/ -) Tj
+T*
+(v1.0a26 Directory: /Users/simon/dev/blog Databases: simonwillisonblog:) Tj
+T*
+(/Users/simon/dev/blog/simonwillisonblog.db Plugins: datasette-llm datasette-secrets) Tj
+T*
+(http://127.0.0.1:8001/ - v1.0a26 Directory: /Users/simon/dev/creatures Databases: creatures:) Tj
+T*
+(/tmp/creatures.db Tags: datasette) Tj
+T*
+() Tj
+T*
+(5. How did code handle 24-bit-per-pixel formats when using video cards with bank-switched) Tj
+T*
+(memory?) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 20 Apr 2026 14:00:00 +0000) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4542 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://devblogs.microsoft.com/oldnewthing/20260420-00/?p=112245) Tj
+T*
+(You still have to use aligned accesses, even though the pixels might not be aligned. The post) Tj
+T*
+(How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?) Tj
+T*
+(appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(6. DF Paraphernalia: T-Shirts and Hoodies Are Back) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-20T21:38:00Z) Tj
+T*
+(Link: https://store.daringfireball.net/) Tj
+T*
+(Daring Fireball t-shirts and hoodies are back. Order now, and we?ll start printing shirts at) Tj
+T*
+(the end of this week and shipping them out next week. Go ahead and place your order now, while) Tj
+T*
+(I gather my thoughts about today?s Apple leadership news . ?) Tj
+T*
+() Tj
+T*
+(7. ?Community Letter From Tim?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-20T21:37:22Z) Tj
+T*
+(Link: https://www.apple.com/community-letter-from-tim/) Tj
+T*
+(Tim Cook, in a letter addressed, simply, ?To the Apple community?: For the past 15 years I?ve) Tj
+T*
+(started just about every morning the same way. I open my email and I read notes I received the) Tj
+T*
+(day before from Apple?s users all over the world. You share little pieces of your lives with me) Tj
+T*
+(and tell me things you want me to know about how Apple has touched you. About the moment your) Tj
+T*
+(mom was saved by her Apple Watch. About the perfect selfie you captured at the summit of a) Tj
+T*
+(mountain that seemed impossible to climb. You thank me for the ways Mac has changed what you) Tj
+T*
+(can do at work and sometimes give me a hard time because something you care about isn?t working) Tj
+T*
+(like it should. In every one of those emails I feel the beating heart of our shared humanity. I) Tj
+T*
+(feel a sense of deepening obligation to work harder and push further. But most of all, I feel a) Tj
+T*
+(gratitude that I cannot put into words, that I somehow got to be the person on the other end of) Tj
+T*
+(those emails, the leader of a company that ignites imaginations and enriches lives in such) Tj
+T*
+(profound ways it defies description. What an honor and a privilege it has been. The language) Tj
+T*
+(here feels looser, more casual, more real than anything Cook has sai...) Tj
+T*
+() Tj
+T*
+(8. Apple: ?Tim Cook to Become Apple Executive Chairman; John Ternus to Become Apple CEO?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-20T20:44:58Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-t) Tj
+T*
+(ernus-to-become-apple-ceo/) Tj
+T*
+(Apple Newsroom, with a veritable ?boom?: Apple announced that Tim Cook will become executive) Tj
+T*
+(chairman of Apple?s board of directors and John Ternus, senior vice president of Hardware) Tj
+T*
+(Engineering, will become Apple?s next chief executive officer effective on September 1, 2026.) Tj
+T*
+(The transition, which was approved unanimously by the Board of Directors, follows a thoughtful,) Tj
+T*
+(long-term succession planning process. Cook will continue in his role as CEO through the summer) Tj
+T*
+(as he works closely with Ternus on a smooth transition. As executive chairman, Cook will assist) Tj
+T*
+(with certain aspects of the company, including engaging with policymakers around the world.) Tj
+T*
+(Ternus will become the 8th CEO in Apple?s 50-year history: Mike Scott, 1977?1981 Mike Markkula,) Tj
+T*
+(1981?1983 John Sculley, 1983?1993 Michael Spindler, 1993?1996 Gil Amelio, 1996?1997 Steve Jobs,) Tj
+T*
+(1997?2011 Tim Cook, 2011?2026 At just over 50 years old ? the same age Cook was when he took) Tj
+T*
+(the job ? Ternus is young enough for decade-plus run, joining only Sculley, Jobs, and Cook. In) Tj
+T*
+(a separate announcement: ? Johny Srouji Named Apple?s Chief Hardware Officer ?. This is all) Tj
+T*
+(very exciting, but also all very low on drama. It?s all very, very Coo...) Tj
+T*
+() Tj
+T*
+(9. Pluralistic: Comrade Trump \(20 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 20 Apr 2026 16:44:33) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/20/praxis/) Tj
+T*
+(Today's links Comrade Trump: Burning down the American empire to save it. Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: MPAA's threat-based 'education'; Cuehack; Heinlein on) Tj
+T*
+(GWB; AT&T v the internet; British tax-havens v HMG; What is neoliberalism?; Newspaper) Tj
+T*
+(landlords; Watch-part motorcycle; Tax havens bad; Buscemi's eyes; Sesame Street on lead) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4802 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(poisoning. Upcoming appearances: San Francisco, London, Berlin, NYC, Barcelona, Hay-on-Wye,) Tj
+T*
+(London, NYC. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest.) Tj
+T*
+(Comrade Trump \(permalink\) There aren't a lot of things I agree with Mark Carney about, but) Tj
+T*
+(there's one area where he and I are in total accord: the old, US-dominated, "rules-based) Tj
+T*
+(international order" was total bullshit: https://www.weforum.org/stories/2026/01/davos-2026-spe) Tj
+T*
+(cial-address-by-mark-carney-prime-minister-of-canada/ Unlike Carney, I never pretended to like) Tj
+T*
+(that old order, and indeed, I spent my entire life fighting against it ? literally, all the way) Tj
+T*
+(back to childhood, organizing other children to march against Canada's participation in) Tj
+T*
+(America...) Tj
+T*
+() Tj
+T*
+(10. More on Newton?s diameter theorem) Tj
+T*
+(Source: John D. Cook | Published: Mon, 20 Apr 2026 13:50:33 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/) Tj
+T*
+(A few days ago I wrote a post on Newton?s diameter theorem. The theorem says to plot the curve) Tj
+T*
+(formed by the solutions to f\(x, y\) = 0 where f is a polynomial in x and y of degree n. Next) Tj
+T*
+(plot several parallel lines that cross the curve at n points and find the [?] The post More on) Tj
+T*
+(Newton?s diameter theorem first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Ignoring missing TLS "Client Authentication" usage in practice) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-20T03:27:50Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth) Tj
+T*
+(One of the slow moving pieces of TLS news is that Google is effectively requiring everyone to) Tj
+T*
+(stop issuing TLS certificates that can officially be used for "Client Authentication" \(although) Tj
+T*
+(the actual wording may have walked this back a bit \). Certificate Authorities can create new) Tj
+T*
+(roots that can be used to issue TLS certificates that are officially usable for client) Tj
+T*
+(authentication, but Let's Encrypt isn't currently planning to do this . This was announced last) Tj
+T*
+(year and then slowed down a bit this year, but it's still happening. As part of the TLS) Tj
+T*
+(handshake, a TLS client can optionally present a TLS certificate of its own to the TLS server.) Tj
+T*
+(Officially, this TLS certificate and its entire certificate chain must be marked as being) Tj
+T*
+(authorized for this purpose in an 'extended key usage \(EKU\)', just as TLS certificates used to) Tj
+T*
+(identify servers must be marked as being authorized for this purpose. When people like Let's) Tj
+T*
+(Encrypt talk about 'removing TLS Client Certificate support', what they're talking about is no) Tj
+T*
+(longer issuing TLS certificates with this client authorization EKU. However, TLS certificates) Tj
+T*
+(are TLS certificates, regardless of what EKUs they are or aren't marked with. As a...) Tj
+T*
+() Tj
+T*
+(12. What ZFS people usually mean when they talk about "ZFS metadata") Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-01-22T04:15:39Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSMetadataMeaning) Tj
+T*
+(Recently I read Understanding ZFS Scrubs and Data Integrity \( via \), which is a perfectly good) Tj
+T*
+(article and completely accurate, bearing in mind some qualifications which I'm about to get) Tj
+T*
+(into. One of the things this article says in the preface is: In this article, we will walk) Tj
+T*
+(through what scrubs do, how the Merkle tree layout lets ZFS validate metadata and data from end) Tj
+T*
+(to end, [...] This is both completely correct and misleading, because what ZFS people mean we) Tj
+T*
+(talk about "metadata" is probably not what ordinary people \(who are aware of filesystems\) think) Tj
+T*
+(of as "metadata". This misunderstanding leads people \(which once upon a time included me\) to) Tj
+T*
+(believe that ZFS scrubs check much more than they actually do . Specifically, in normal use) Tj
+T*
+("ZFS metadata" is different from "filesystem metadata", like directories. A core ZFS concept is) Tj
+T*
+(DMU objects \(dnodes\) , which are a basic primitive of ZFS's structure; a DMU object stores data) Tj
+T*
+(in a more or less generic way. As covered in more detail in my broad overview on how ZFS is) Tj
+T*
+(structured on disk , filesystem objects like directories, files, ACLs, and so on are all DMU) Tj
+T*
+(objects that are stored in the filesystem's \(DMU\) object set and are refe...) Tj
+T*
+() Tj
+T*
+(13. The long painful history of \(re\)using login to log people in) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-01-21T03:38:47Z) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4564 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://utcc.utoronto.ca/~cks/space/blog/unix/LoginProgramReuseFootgun) Tj
+T*
+(The news of the time interval is that Linux's usual telnetd has had a giant security) Tj
+T*
+(vulnerability for a decade . As people on the Fediverse observed, we've been here before;) Tj
+T*
+(Solaris apparently had a similar bug 20 or so years ago \(which was CVE-2007-0882, cf , via \),) Tj
+T*
+(and AIX in the mid 1990s \(CVE-1999-0113, source , also \)\), and also apparently SGI Irix, and no) Tj
+T*
+(doubt many others \( eg \). It's not necessarily telnetd at fault, either, as I believe it's) Tj
+T*
+(sometimes been rlogind . All of these bugs have a simple underlying cause; in a way that root) Tj
+T*
+(cause is people using Unix correctly and according to its virtue of modularity, where each) Tj
+T*
+(program does one thing and you string programs together to achieve your goal. Telnetd and) Tj
+T*
+(rlogind have the already complicated job of talking a protocol to the network, setting up ptys,) Tj
+T*
+(and so on, so obviously they should leave the also complex job of logging the user in to login) Tj
+T*
+(, which already exists to do that. In theory this should work fine. The problem with this is) Tj
+T*
+(that from more or less the beginning, login has had several versions of its job. From no later) Tj
+T*
+(than V3 in 1972, login could also be used to switch from one user to another, not just lo...) Tj
+T*
+() Tj
+T*
+(14. 256 Lines or Less: Test Case Minimization) Tj
+T*
+(Source: matklad | Published: 2026-04-20T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/04/20/test-case-minimization.html) Tj
+T*
+(Property Based Testing and fuzzing are a deep and science-intensive topic. There are enough) Tj
+T*
+(advanced techniques there for a couple of PhDs, a PBT daemon, and a client-server architecture.) Tj
+T*
+(But I have this weird parlor-trick PBT library, implementable in a couple of hundred lines of) Tj
+T*
+(code in one sitting.) Tj
+T*
+() Tj
+T*
+(15. Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 20 Apr 2026 11:34:38 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-) Tj
+T*
+(by-dr-lucy-rogers/) Tj
+T*
+(My mate Dr Lucy Rogers has written a book! This is a charming and thought provoking exploration) Tj
+T*
+(of everything that goes on above our heads. This isn't an impersonal and imperious manuscript,) Tj
+T*
+(it's a deeply personal and joyful book filled with science, anecdotes, and the thrill of) Tj
+T*
+(discovery. It's spectacularly accessible. Written in a relaxed and casual tone, it encourages) Tj
+T*
+(domestic science. I?) Tj
+T*
+() Tj
+T*
+(16. Writing an LLM from scratch, part 32l -- Interventions: updated instruction) Tj
+T*
+(fine-tuning results) Tj
+T*
+(Source: Giles' blog | Published: Mon, 20 Apr 2026 20:00:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/04/llm-from-scratch-32l-interventions-instruction-fine-t) Tj
+T*
+(uning-tests) Tj
+T*
+(I've been working on a GPT-2-small-style LLM based on Sebastian Raschka 's book " Build a Large) Tj
+T*
+(Language Model \(from Scratch\) ", and have tried a bunch of different things to see if I could) Tj
+T*
+(get it to approach the quality of the original OpenAI GPT-2-small, measured in terms of loss on) Tj
+T*
+(a held-back test dataset. After working through them, in my last post , I managed to train one) Tj
+T*
+(that was almost \(if not quite\) there. Now, back before I started digging into these) Tj
+T*
+(interventions, I was doing three evals for each model I built; a smoke test \(to see if it could) Tj
+T*
+(give a coherent completion to "Every effort moves you"\), a test for that test set loss, and an) Tj
+T*
+(instruction-following test that fine-tuned the model on the Alpaca dataset, got it to generate) Tj
+T*
+(results for a test set of instructions, and then used an LLM as a judge to score them. The idea) Tj
+T*
+(behind this was that the loss on the test set was an interesting technical measure of the) Tj
+T*
+(quality of a model, but it didn't really tell us much about how useful it might be in reality.) Tj
+T*
+(Unfortunately, in January, I realised that my methodology was bad ; because I was asking the) Tj
+T*
+(LLM to score a model in isolation, the LLM's natural randomness would mean...) Tj
+T*
+() Tj
+T*
+(17. What is freedom?) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-04-20T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/04/20/what-is-freedom.html) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4068 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(I had a conversation today with ChatGPT about freedom in the US vs Hong Kong. It said all these) Tj
+T*
+(things about how Hong Kong was unfree, citing all these US expert organizations. But when we) Tj
+T*
+(really got down to it, it had a rather strange definition of freedom. It kept talking about) Tj
+T*
+(politics, dissent, and protest, not about things like safety, optionality, and convenience. I) Tj
+T*
+(am not interested in politics, dissent, or protest. My life doesn?t have anything to do with) Tj
+T*
+(that. The amount of effort expended on this stuff in America is insane with nothing to show for) Tj
+T*
+(it. It?s all kayfabe. To be honest, I don?t know why I post crap like this . It?s not going to) Tj
+T*
+(change anything. When we all saw DOGE make 0 impact on the budget, that was the cue to give up) Tj
+T*
+(hope that anything can ever change through this route. The blog is not real politics. Americans) Tj
+T*
+(don?t have real politics as an option, you have clowns in a clown show as the frontmen of a) Tj
+T*
+(largely secret government you don?t see. Not because there?s a grand conspiracy, you can go) Tj
+T*
+(read the 2,000 page bills they shove through congress, but you don?t. You stay distracted by) Tj
+T*
+(the clowns who clearly didn?t write the bill. The blog is not real disse...) Tj
+T*
+() Tj
+T*
+(18. Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten) Tj
+T*
+(Rate Limits) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Mon, 20 Apr 2026 17:11:58 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-b) Tj
+T*
+(illing-reduce-rate-limits-2/) Tj
+T*
+(Executive Summary: Internal documents reveal that Microsoft plans to temporarily suspend) Tj
+T*
+(individual account signups to its GitHub Copilot coding product, as it transitions from) Tj
+T*
+(requests \(single interactions with Copilot\) towards token-based billing. The documents reveal) Tj
+T*
+(that the weekly cost of running Github Copilot has doubled since the start) Tj
+T*
+() Tj
+T*
+(19. What Made Lisp Different) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/diff.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. The Other Road Ahead) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/road.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(21. The Roots of Lisp) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/rootsoflisp.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(22. Discovering Prince, Ten Years Later) Tj
+T*
+(Source: Anil Dash | Published: 2026-04-20T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/04/20/prince-ten-years/) Tj
+T*
+(It's been a decade since we lost Prince, and I wanted to take a moment to offer a look back at) Tj
+T*
+(some of the pieces I've written over the years, and share some of the work I've done, and) Tj
+T*
+(hopefully it will give you a chance to explore some aspect of his artistry or legacy that you) Tj
+T*
+(haven't yet had a chance to discover! Perhaps a good place to start: It's time to discover) Tj
+T*
+(Prince ? a set of starting points to look at Prince's musical catalog, with selected albums) Tj
+T*
+(\(with more than 40 albums to pick from, it can be overwhelming to know where to start!\) and) Tj
+T*
+(some playlists that I created specifically to help new fans find out exactly why we love his) Tj
+T*
+(music so much. Another comprehensive overview: Every video Prince ever made . I walked through) Tj
+T*
+(all of the music videos Prince made over the four decades of his career, offering some info and) Tj
+T*
+(context that might help you find which ones are most compelling \(or weird!\) and worth your) Tj
+T*
+(time. I've also gotten to guest on a number of podcasts and in other media over the years to) Tj
+T*
+(discuss various aspects of Prince's career. Perhaps none was more exciting for me than talking) Tj
+T*
+(about Prince's history of technological innovation for the official Prince podcast...) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2221 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(23. A Science Experiment: published!) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 25 Jan 2022 14:50:28 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/a-science-experiment-got-published/) Tj
+T*
+(And we?re back! As noted in part 1 and part 2 I thought it might be possible that I had) Tj
+T*
+(discovered something interesting in biology. Lacking an academic peer group, I had decided to) Tj
+T*
+(use a series of blog posts to gather feedback and to keep myself honest. I?m very pleased to) Tj
+T*
+(report that this process worked! I just received word that Nature Scientific Data has formally) Tj
+T*
+(accepted my paper ?SkewDB, a comprehensive database of GC and 10 other skews for over 30,000) Tj
+T*
+(chromosomes and plasmids? for publication!) Tj
+T*
+() Tj
+T*
+(24. Simple generic parallelism idiom & C++17 specifics) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 18 Jan 2022 11:52:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/simple-parallelism-idiom/) Tj
+T*
+(If you programmed something and it turns out to be too slow, often you?d like to farm out the) Tj
+T*
+(work to multiple threads. At this point you typically have a few choices: use some kind of) Tj
+T*
+(producer/consumer pipe half-ass it by dividing the work into n chunks and launch n threads and) Tj
+T*
+(hope for the best rely on one of the magic parallelization solutions \(#pragma omp\) use) Tj
+T*
+(\(newfangled\) language features All of these options are painful to some extent.) Tj
+T*
+() Tj
+T*
+(25. Corona: Ooit houdt het op) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 23 Nov 2021 08:30:46 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-ooit-houdt-het-op/) Tj
+T*
+(Na mijn vorige deprimerende stukje over ons stompzinnige Coronabeleid gooi ik het nu over een) Tj
+T*
+(wat positievere boeg. Want het lijkt er soms wel op alsof er geen enkele vooruitgang geboekt) Tj
+T*
+(is, en we hier nooit meer uit gaan komen, maar dat is echt niet zo. Foto van Ivan Diaz op) Tj
+T*
+(Unsplash Om met het begin te beginnen, de coronacijfers zijn hoger dan we ooit gemeten hebben) Tj
+T*
+(\(al waren ze in werkelijkheid in maart 2020 vermoedelijk nog hoger\).) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004626 00000 n 
+0000004752 00000 n 
+0000009346 00000 n 
+0000009472 00000 n 
+0000014326 00000 n 
+0000014452 00000 n 
+0000019069 00000 n 
+0000019197 00000 n 
+0000023318 00000 n 
+0000023446 00000 n 
+0000025720 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+25848
+%%EOF
