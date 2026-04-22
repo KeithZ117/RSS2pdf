@@ -1,0 +1,732 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4367 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-22 09:38:59) Tj
+T*
+() Tj
+T*
+(1. Where's the raccoon with the ham radio? \(ChatGPT Images 2.0\)) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-21T20:32:24+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything) Tj
+T*
+(OpenAI released ChatGPT Images 2.0 today , their latest image generation model. On the) Tj
+T*
+(livestream Sam Altman said that the leap from gpt-image-1 to gpt-image-2 was equivalent to) Tj
+T*
+(jumping from GPT-3 to GPT-5. Here's how I put it to the test. My prompt: Do a where's Waldo) Tj
+T*
+(style image but it's where is the raccoon holding a ham radio gpt-image-1 First as a baseline) Tj
+T*
+(here's what I got from the older gpt-image-1 using ChatGPT directly: I wasn't able to spot the) Tj
+T*
+(raccoon - I quickly realized that testing image generation models on Where's Waldo style images) Tj
+T*
+(\(Where's Wally in the UK\) can be pretty frustrating! I tried getting Claude Opus 4.7 with its) Tj
+T*
+(new higher resolution inputs to solve it but it was convinced there was a raccoon it couldn't) Tj
+T*
+(find thanks to the instruction card at the top left of the image: Yes ? there's at least one) Tj
+T*
+(raccoon in the picture, but it's very well hidden . In my careful sweep through zoomed-in) Tj
+T*
+(sections, honestly, I couldn't definitively spot a raccoon holding a ham radio. [...] Nano) Tj
+T*
+(Banana 2 and Pro Next I tried Google's Nano Banana 2, via Gemini : That one was pretty obvious,) Tj
+T*
+(the raccoon is in the "Amateur Radio Club" booth in the center of the image! Claude sa...) Tj
+T*
+() Tj
+T*
+(2. Quoting Andreas PÂhlsson-Notini) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-21T16:39:33+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything) Tj
+T*
+(AI agents are already too human. Not in the romantic sense, not because they love or fear or) Tj
+T*
+(dream, but in the more banal and frustrating one. The current implementations keep showing) Tj
+T*
+(their human origin again and again: lack of stringency, lack of patience, lack of focus. Faced) Tj
+T*
+(with an awkward task, they drift towards the familiar. Faced with hard constraints, they start) Tj
+T*
+(negotiating with reality. ? Andreas PÂhlsson-Notini , Less human AI agents, please. Tags:) Tj
+T*
+(ai-agents , coding-agents , ai) Tj
+T*
+() Tj
+T*
+(3. scosman/pelicans_riding_bicycles) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-21T15:54:43+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/21/scosman/#atom-everything) Tj
+T*
+(scosman/pelicans_riding_bicycles I firmly approve of Steve Cosman's efforts to pollute the) Tj
+T*
+(training set of pelicans riding bicycles. \(To be fair, most of the examples I've published) Tj
+T*
+(count as poisoning too.\) Via Hacker News comment Tags: ai , generative-ai , llms ,) Tj
+T*
+(training-data , pelican-riding-a-bicycle) Tj
+T*
+() Tj
+T*
+(4. ?Scattered Spider? Member ?Tylerb? Pleads Guilty) Tj
+T*
+(Source: Krebs on Security | Published: Tue, 21 Apr 2026 14:53:59 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/) Tj
+T*
+(A 24-year-old British national and senior member of the cybercrime group "Scattered Spider" has) Tj
+T*
+(pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan) Tj
+T*
+(admitted his role in a series of text-message phishing attacks in the summer of 2022 that) Tj
+T*
+(allowed the group to hack into at least a dozen major technology companies and steal tens of) Tj
+T*
+(millions of dollars worth of cryptocurrency from investors.) Tj
+T*
+() Tj
+T*
+(5. Trump on Tim Apple) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-21T19:17:34Z) Tj
+T*
+(Link: https://truthsocial.com/@realDonaldTrump/posts/116442276577696798) Tj
+T*
+(The president of the United States, on his blog this morning \(all capitalization, punctuation,) Tj
+T*
+(and missing/wrong words verbatim\): I have always been a big fan of Tim Cook, and likewise,) Tj
+T*
+(Steve Jobs, but if Steve was not taken from the Planet Earth so young, and ran the company) Tj
+T*
+(instead of Tim, the company would have done well, but nowhere near as well as it has under Tim.) Tj
+T*
+(For me it began with a phone call from Tim at the beginning of my First Term. He had a fairly) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4767 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(large problem that only I, as President, could fix. Most people would have paid millions of) Tj
+T*
+(dollars to a consultant, who I probably would not have known, but who would say that he knew me) Tj
+T*
+(well. The fees would be paid but the job would not have gotten done. When I got the call I) Tj
+T*
+(said, wow, it?s Tim Apple \(Cook!\) calling, how big is that? I was very impressed with myself to) Tj
+T*
+(have the head of Apple calling to ?kiss my ass.? Anyway, he explained his problem, a tough one) Tj
+T*
+(it was, I felt he was right and got it taken care of, quickly and effectively. That was the) Tj
+T*
+(beginning of a long and very nice relationship. During my five years as President, Tim would) Tj
+T*
+(call me, but never too much, and I would help him where I could. Years latter...) Tj
+T*
+() Tj
+T*
+(6. ? Another Day Has Come) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-21T03:59:41Z) Tj
+T*
+(Link: https://daringfireball.net/2026/04/another_day_has_come) Tj
+T*
+(If you agree that Apple itself was It?s hard to imagine a more orderly, confidence-inspiring,) Tj
+T*
+(exciting-but-not-at-all-surprising, this-feels-right way to do this.) Tj
+T*
+() Tj
+T*
+(7. Apple?s Annual Environmental Progress Report) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-20T17:09:30Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recyc) Tj
+T*
+(led-material-in-its-products/) Tj
+T*
+(Apple Newsroom: In its annual Environmental Progress Report released today, Apple marked) Tj
+T*
+(progress toward Apple 2030, the company?s ambitious goal to be carbon neutral across its entire) Tj
+T*
+(footprint by the end of this decade. Apple?s greenhouse gas emissions in 2025 remain down over) Tj
+T*
+(60 percent compared to 2015 levels, holding constant from 2024 even in a year of significant) Tj
+T*
+(business growth. The report highlights additional progress in renewable energy, materials) Tj
+T*
+(innovation and recycling, water stewardship, and zero waste. On the packaging front: Apple) Tj
+T*
+(completed the transition to 100 percent fiber-based packaging last year, fulfilling its pledge) Tj
+T*
+(to remove plastic from packaging by 2025. Over the past 10 years, Apple engineers and designers) Tj
+T*
+(have developed alternatives to common packaging components, replacing plastic screen protectors) Tj
+T*
+(and trays with versions made with recycled or responsibly sourced paper. They also innovated to) Tj
+T*
+(make packaging more recyclable, designing the largest boxes, like for the new Studio Display) Tj
+T*
+(XDR, to collapse into smaller pieces that fit into a home recycling bin. Apple avoided more) Tj
+T*
+(than 15,000 metric tons of plastic in the past five years alone ? the equival...) Tj
+T*
+() Tj
+T*
+(8. Sure, xor?ing a register with itself is the idiom for zeroing it out, but why not sub?) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 21 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247) Tj
+T*
+(Somehow xor became the most popular version. The post Sure, xor?ing a register with itself is) Tj
+T*
+(the idiom for zeroing it out, but why not sub? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. A backup MX will get accessed by various sorts of people) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-21T03:11:11Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/spam/BackupMXGetsAccessed) Tj
+T*
+(We have an extended power outage coming up, one that's long enough that I think we want a) Tj
+T*
+(backup MX that can stay up during it . I've been building out a stand-alone duplicate of our) Tj
+T*
+(current inbound mail gateway, and today I added a lower priority DNS MX record that points to) Tj
+T*
+(it. What happened next is predictable : This is my absolutely not surprised face that mere) Tj
+T*
+(moments after I add a secondary MX to one of our zones, various IPs show up to poke its SMTP) Tj
+T*
+(port, despite our primary MX being up \(and the backup MX not actually running a SMTP server) Tj
+T*
+(right now\). Admittedly, there's a reason for some use of our backup MX , which I discovered) Tj
+T*
+(after I started the MTA on the backup MX machine: Oops, I have to retract some of my 'the) Tj
+T*
+(spammers are showing up on schedule' snark, because our primary MX greylists people sometime) Tj
+T*
+(and if the primary MX is 4xx'ing things, trying the backup MX is reasonable. \(But surprise, the) Tj
+T*
+(backup MX will greylist you too because our MXes are running the same configuration.\) Another) Tj
+T*
+(case where things appear to have more or less legitimately shifted over to the backup MX was) Tj
+T*
+(when one particular amazonses.com IP address opened up so many simultaneous connections...) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4704 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(10. TCP, UDP, and listening only on a specific IP address) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-01-20T02:34:57Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/TCPUDPListeningOnAddress) Tj
+T*
+(One of the surprises of TCP and UDP is that when your program listens for incoming TCP) Tj
+T*
+(connections or UDP packets, you can chose to listen only on a specific IP address instead of) Tj
+T*
+(all of the IP addresses that the current system has. This behavior started as a de-facto) Tj
+T*
+(standard but is now explicitly required for TCP in RFC 9293 section 3.9.1.1 . There are at) Tj
+T*
+(least two uses of this feature; to restrict access to your listening daemon, and to run) Tj
+T*
+(multiple daemons on the same port. The classical case of restricting access to a listening) Tj
+T*
+(daemon is a program that listens only on the loopback IP address \(IPv4 or IPv6 or both\). Since) Tj
+T*
+(loopback addresses can't be reached from outside the machine, only programs running on the) Tj
+T*
+(machine can reach the daemon. On a machine with multiple IP addresses that are accessible from) Tj
+T*
+(different network areas, you can also listen on only one IP address \(perhaps an address) Tj
+T*
+('inside' a firewall\) to shield your daemon from undesired connections. \(Except in the case of) Tj
+T*
+(the loopback IP address, this shielding isn't necessarily perfect. People on any of your local) Tj
+T*
+(networks can always throw packets at you for any of your IP addresses, if they know them. In) Tj
+T*
+(some situ...) Tj
+T*
+() Tj
+T*
+(11. Single sign on systems versus X.509 certificates for the web) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-01-19T04:00:12Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/WebSSOVsX509Certificates) Tj
+T*
+(Modern single sign on specifications such as OIDC and SAML and systems built on top of them are) Tj
+T*
+(fairly complex things with a lot of moving parts. It's possible to have a somewhat simple) Tj
+T*
+(surface appearance for using them in web servers , but the actual behind the scenes) Tj
+T*
+(implementation is typically complicated, and of course you need an identity provider server and) Tj
+T*
+(its supporting environment as well \( which can get complicated \). One reaction to this is to) Tj
+T*
+(suggest using X.509 certificates to authenticate people \(as a recent comment on this entry) Tj
+T*
+(did\). There are a variety of technical considerations here, like to what extent browsers \(and) Tj
+T*
+(other software\) might support personal X.509 certificates and make them easy to use, but to my) Tj
+T*
+(mind there's also an overriding broad consideration that makes the two significantly different.) Tj
+T*
+(Namely, people can remember passwords but they have to store X.509 certificates . OIDC and SAML) Tj
+T*
+(may pass around tokens and programs dealing with them may store tokens, but the root of) Tj
+T*
+(everything is in passwords, and you can recover all the tokens from there. This is not true) Tj
+T*
+(with X.509 certificates; the certificate is the thing. \(There are also challenges around...) Tj
+T*
+() Tj
+T*
+(12. An AI Odyssey, Part 4: Astounding Coding Agents) Tj
+T*
+(Source: John D. Cook | Published: Tue, 21 Apr 2026 20:14:40 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/21/an-ai-odyssey-part-4-astounding-coding-agents/) Tj
+T*
+(AI coding agents improved greatly last summer, and again last December-January. Here are my) Tj
+T*
+(experiences since my last post on the subject. The models feel subjectively much smarter. They) Tj
+T*
+(can accomplish a much broader range of tasks. They seem to have a larger, more comprehensive) Tj
+T*
+(in-depth view of the code base and what you are [?] The post An AI Odyssey, Part 4: Astounding) Tj
+T*
+(Coding Agents first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(13. brief) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-04-21T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/04/21/brief.html) Tj
+T*
+(Anyone landing in an unfamiliar repo, whether that?s a new contributor, a security scanner, or) Tj
+T*
+(an AI coding agent, has to answer the same handful of questions before doing anything useful:) Tj
+T*
+(what language is this, how do I install dependencies, what?s the test command, which linter do) Tj
+T*
+(I run before committing, and for a security review, which functions in this stack are the) Tj
+T*
+(dangerous ones. The agent case just makes the cost of getting it wrong easiest to watch,) Tj
+T*
+(because you can see Claude grep for package.json , read the Gemfile, try npm test , get told) Tj
+T*
+(there?s no test script, try yarn test , discover it?s actually pnpm , and only then get to the) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4924 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(work you asked for. The answers are identical for every Rails project or every Go module that) Tj
+T*
+(has ever existed, and rediscovering them from scratch every time is wasted effort. brief is a) Tj
+T*
+(knowledge base of 516 tools across 54 language ecosystems, with a single Go binary in front of) Tj
+T*
+(it that does the lookup and prints JSON when piped or a human summary on a TTY. The dataset is) Tj
+T*
+(the part that doesn?t exist anywhere else: invocation commands, config-file locations, and) Tj
+T*
+(taxonomy for five hundred tools under one machine-readable schema. CI templates...) Tj
+T*
+() Tj
+T*
+(14. Pluralistic: Quinn Slobodian and Ben Tarnoff's "Muskism: A Guide for the Perplexed") Tj
+T*
+(\(21 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 21 Apr 2026 13:18:50) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/21/torment-nexusism/) Tj
+T*
+(Today's links Quinn Slobodian and Ben Tarnoff's "Muskism: A Guide for the Perplexed": A rocket) Tj
+T*
+(exploding in a human face, forever. Hey look at this: Delights to delectate. Object permanence:) Tj
+T*
+(Is sugar poison? More watch-part motorcycles; "Something New"; "Seeds"; Bulldozer fight;) Tj
+T*
+(Facebook tonsils; Against transparency. Upcoming appearances: San Francisco, London, Berlin,) Tj
+T*
+(NYC, Barcelona, Hay-on-Wye, London, NYC. Recent appearances: Where I've been. Latest books: You) Tj
+T*
+(keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Quinn Slobodian and Ben Tarnoff's "Muskism: A Guide for the Perplexed") Tj
+T*
+(\(permalink\) Quinn Slobodian and Ben Tarnoff's Muskism: A Guide for the Perplexed seeks to) Tj
+T*
+(describe the ideology that gave rise to Elon Musk, the social forces that gave rise to that) Tj
+T*
+(ideology, and the terrible future that ideology seeks to bring about: https://www.harpercollins) Tj
+T*
+(.com/products/muskism-quinn-slobodianben-tarnoff?variant=43838135402530 The book's starting) Tj
+T*
+(point is that "Muskism" isn't merely the things Musk says, believes and does. It's the ideology) Tj
+T*
+(that coalesces around him, from the people in his wake and the people he follo...) Tj
+T*
+() Tj
+T*
+(15. People get confused when language implementations break language guarantees) Tj
+T*
+(Source: Computer Things | Published: Tue, 21 Apr 2026 17:40:17 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://buttondown.com/hillelwayne/archive/people-get-confused-when-language-implementations/) Tj
+T*
+(Take the following Python program: # x = 1, y = 2 x = 0 y = x print \([ x , y ]\) It'll print [0,) Tj
+T*
+(0] . If we swapped the two assignments, it'd instead print [0, 1] . Each assignment happens in) Tj
+T*
+(a separate temporal step. Pretty much all imperative languages behave this way. Now take the) Tj
+T*
+(following TLA+ snippet: \\* x = 1, y = 2 /\\ x' = 0 /\\ y' = x /\\ PrintT\( >\) This'll print > .) Tj
+T*
+(Unlike in imperative languages, TLA+ separates the notion of update and temporal step. We read) Tj
+T*
+(x' = 0 as "in the next state, x will be 0, but it still has the same value in the current) Tj
+T*
+(state". So in every state x and x' are essentially separate variables. As a consequence of) Tj
+T*
+(this, the order of statements don't matter in TLA+ semantics and swapping the two assignments) Tj
+T*
+(doesn't change the printed output. The language is really clever like that! This means, among) Tj
+T*
+(other things that there's basically no intrastep race conditions. One function can update a) Tj
+T*
+(variable without affecting how any other function uses it. Okay so now beginners inevitably run) Tj
+T*
+(into a problem with this: \\* x = 1, y = 2 /\\ x' = y' /\\ y' = x /\\ PrintT\( >\) This'll crash) Tj
+T*
+(because y' isn't defined yet. But if we swap the two assignments this works fine...) Tj
+T*
+() Tj
+T*
+(16. Writing an LLM from scratch, part 32m -- Interventions: conclusion) Tj
+T*
+(Source: Giles' blog | Published: Tue, 21 Apr 2026 20:00:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/04/llm-from-scratch-32m-interventions-conclusion) Tj
+T*
+(Last November, when I finished the main body of " Build a Large Language Model \(from Scratch\)) Tj
+T*
+(", I set myself a number of follow-on goals . One was "training the full GPT-2 base model) Tj
+T*
+(myself". I've reached the end of that journey, with a model that is almost -- if not quite --) Tj
+T*
+(as good as GPT-2 small, trained in 44 hours on my own machine, so I thought it would be worth) Tj
+T*
+(summarising how it went. In December, I trained my first model , taking two days, but was) Tj
+T*
+(disappointed to see that it was worse in terms of loss, and in terms of how well it could be) Tj
+T*
+(fine-tuned to follow instructions, than the original GPT-2 model. I expected that a chunk of) Tj
+T*
+(that difference was likely to be due to the original model having been trained for longer, but) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3611 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(also noticed that there were a number of changes -- interventions -- that I could make to the) Tj
+T*
+(model and the training run, and I thought they might help. In January, I got a DDP training) Tj
+T*
+(system together that would allow me to iterate on those interventions without having to wait) Tj
+T*
+(for two days for each result. In February, I got started by training a baseline model in the) Tj
+T*
+(cloud , and I've since ground through all of the interventions, and come up with a s...) Tj
+T*
+() Tj
+T*
+(17. News: Anthropic Removes Claude Code From $20-A-Month "Pro" Subscription Plan For New) Tj
+T*
+(Users \(Developing\)) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 21 Apr 2026 22:44:29 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/news-anthropic-removes-pro-cc/) Tj
+T*
+(Executive Summary: Anthropic appears to have removed access to Claude Code for its $20-a-month) Tj
+T*
+("Pro" Plans. Current Pro users appear to still have access via the Claude web app. Claude Code) Tj
+T*
+(support documents exclusively refer to accessing Claude Code via "your Max Plan," after) Tj
+T*
+(previously) Tj
+T*
+() Tj
+T*
+(18. Four Horsemen of the AIpocalypse) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 21 Apr 2026 16:28:59 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/four-horsemen-of-the-aipocalypse/) Tj
+T*
+(If you liked this piece, please subscribe to my premium newsletter. It?s $70 a year, or $7 a) Tj
+T*
+(month, and in return you get a weekly newsletter that?s usually anywhere from 5,000 to 18,000) Tj
+T*
+(words, including vast, detailed analyses of NVIDIA , Anthropic and OpenAI&) Tj
+T*
+() Tj
+T*
+(19. Five Questions about Language Design) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/langdes.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. Being Popular) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/popular.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(21. Java's Cover) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/javacover.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(22. Spaced Repetition: Beginner Guide/FAQ) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 21 Apr 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/spaced-repetition-beginner-guide-faq) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(23. The commodification of travel) Tj
+T*
+(Source: Herman's blog | Published: 2026-04-22T01:28:39.134263+00:00) Tj
+T*
+(Link: https://herman.bearblog.dev/the-commodification-of-travel/) Tj
+T*
+(I've noticed that travel has become, of late, an act of collecting places. I've literally heard) Tj
+T*
+(people referring to visiting a place as doing that place, as in "Have you done Japan?",) Tj
+T*
+(assuming that one can do an entire country, and once that country is done it remains as such.) Tj
+T*
+(As if a place is a product to be consumed and checked off the list. Why bother returning to a) Tj
+T*
+(place if you've already done it? I received a gift many years ago which, while being) Tj
+T*
+(well-intentioned, typifies this idea: a scratch-off map of the world. Each time you visit a) Tj
+T*
+(country, you can scratch off the metallic coating and the country is now done , according to) Tj
+T*
+(the map. The work trip I took to S„o Paulo a decade ago? Brazil: done. Bus tour through Europe?) Tj
+T*
+(Germany? Check. France? Check. Spain? You get the idea. This kind of mentality is typified in) Tj
+T*
+(the question I've heard asked many times: "How many countries have you been to?" This is often) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2862 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(followed by a debate on whether layovers count towards your tally if you don't leave the) Tj
+T*
+(airport, as if stepping beyond the airport boundaries bestows doneness . Like many things, I) Tj
+T*
+(blame social media. It's changed travel from an exploration to social status signalling. I...) Tj
+T*
+() Tj
+T*
+(24. Weekly Update 500) Tj
+T*
+(Source: Troy Hunt | Published: Tue, 21 Apr 2026 23:51:44 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-500/) Tj
+T*
+(Looking back at this milestone video, it's the audience question towards the end I liked most:) Tj
+T*
+("are you happy"? Charlotte and I have chosen a path that's non-traditional, intense and at) Tj
+T*
+(times, pretty stressful. There's no clear delineation of when work starts) Tj
+T*
+() Tj
+T*
+(25. Het onuitstaanbaar stompzinnige Coronabeleid) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 20 Nov 2021 10:45:16 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/het-onuitstaanbare-corona-beleid/) Tj
+T*
+(Echt, ik trek het niet meer. Regeren is vooruitzien. Ik denk dat we dus niet regeren in) Tj
+T*
+(Nederland. Corona is, ook na twee jaar, nog steeds een ontwikkelend ding. Het virus, de) Tj
+T*
+(vaccins, de reacties van mensen, ze blijven ons verbazen. Maar een ding is inmiddels wel) Tj
+T*
+(constant: geÔnformeerde mensen in de buitenwereld zien maanden van tevoren ontwikkelingen) Tj
+T*
+(aankomen die daarna tot het uiterste genegeerd worden door onze politieke leiders.) Tj
+T*
+() Tj
+T*
+(26. Who Controls the Internet? And should they?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 02 Nov 2021 15:02:51 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/who-controls-the-internet/) Tj
+T*
+(This is a lightly edited transcript of my keynote over at NANOG 83, so please accept my) Tj
+T*
+(apologies if some of the wording is not \(yet\) as clear as it should be! The original video,) Tj
+T*
+(including Q&A can be found on NANOG?s Youtube channel Hello, and welcome to this presentation) Tj
+T*
+(on who controls the internet, and if they actually should. As you can see, I cover all grounds) Tj
+T*
+(here. All kinds of flags are in this presentation and all kinds of companies.) Tj
+T*
+() Tj
+T*
+(27. Personeelsbehoud) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 25 Oct 2021 09:44:26 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/personeelsbehoud/) Tj
+T*
+(Ik schreef er eerder over, hoe werf je nieuwe collega?s. Het stuk is weer actueel nu het zo) Tj
+T*
+(moeilijk is om aan personeel te komen, of om mensen zelfs maar te behouden. Medisch personeel) Tj
+T*
+(verlaat de werkvloer ? \(C\) Luis Melendez Sinds 1999 neem ik mensen aan of hielp ik bij werving,) Tj
+T*
+(voor de overheid, mijn voormalige bedrijven & die van anderen, maar ook voor scholen en) Tj
+T*
+(instellingen. Ik heb er dus wel een beetje kijk op.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004643 00000 n 
+0000004769 00000 n 
+0000009588 00000 n 
+0000009714 00000 n 
+0000014470 00000 n 
+0000014596 00000 n 
+0000019573 00000 n 
+0000019701 00000 n 
+0000023365 00000 n 
+0000023493 00000 n 
+0000026408 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+26536
+%%EOF
