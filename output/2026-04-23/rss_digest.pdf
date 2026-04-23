@@ -1,0 +1,752 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4448 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-23 09:38:42) Tj
+T*
+() Tj
+T*
+(1. DF T-Shirts and Hoodies: Get Them While the Getting Is Good) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-22T19:38:55Z) Tj
+T*
+(Link: https://store.daringfireball.net/) Tj
+T*
+(Daring Fireball t-shirts and hoodies are back. Order now, and we?ll start printing shirts at) Tj
+T*
+(the end of this week and shipping them out next week. The hoodies are a new model from Bella) Tj
+T*
+(Canvas, the manufacturer. Our previous hoodies were ?heather gray? and the fabric was a blend) Tj
+T*
+(of 50% polyester, 37.5% cotton, and 12.5% rayon. That model is being phased out. So we?ve) Tj
+T*
+(switched to a new model that?s 85% cotton, 15% polyester, and a darker ?heather black? color.) Tj
+T*
+(The old ones were good, but the new ones feel even better. ?) Tj
+T*
+() Tj
+T*
+(2. There Are Corrections, and There Are Corrections) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-22T18:16:30Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/04/21/nyregion/mets-mamdani-curse.html?unlocked_article_code) Tj
+T*
+(=1.c1A.iLO0.Kqdo8aBhNAY1) Tj
+T*
+(The New York Times \(gift link\): A correction was made on April 21, 2026: Because of an editing) Tj
+T*
+(error, an earlier version of this article misstated which day the New York Mets suffered their) Tj
+T*
+(11th straight loss. It was on Sunday, not Monday. Even the Mets cannot lose on an off day. This) Tj
+T*
+(is to New York Times corrections what ? Headless Body in Topless Bar ? was to New York Post) Tj
+T*
+(headlines ? perfection. ?) Tj
+T*
+() Tj
+T*
+(3. Ben Thompson on Tim Cook?s Legacy) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-22T16:35:37Z) Tj
+T*
+(Link: https://stratechery.com/2026/tim-cooks-impeccable-timing/) Tj
+T*
+(Ben Thompson at Stratechery, ?Tim Cook?s Impeccable Timing?: Cook was, without question, an) Tj
+T*
+(operational genius. Moreover, this was clearly the case even before he scaled the iPhone to) Tj
+T*
+(unimaginable scale. When Cook joined Apple in 1998 the company?s operations ? centered on) Tj
+T*
+(Apple?s own factories and warehouses ? were a massive drag on the company; Cook methodically) Tj
+T*
+(shut them down and shifted Apple?s manufacturing base to China, creating a just-in-time supply) Tj
+T*
+(chain that year-after-year coordinated a worldwide network of suppliers to deliver Apple?s) Tj
+T*
+(ever-expanding product line to customers? doorsteps and a fleet of beautiful and) Tj
+T*
+(brand-expanding stores. There was not, under Cook?s leadership, a single significant product) Tj
+T*
+(issue or recall. That last sentence is something that Cook won?t get enough credit for. A major) Tj
+T*
+(product defect or recall is just inherently more memorable than the lack of major defects or) Tj
+T*
+(recalls. Compare and contrast to Samsung: 2016?s Note 7 was recalled for battery combustion;) Tj
+T*
+(six other Samsung models caught fire in 2016 too; the early Galaxy Fold phones were an outright) Tj
+T*
+(debacle . Nothing like that ever happened under Cook. Cook also oversaw the introduction of) Tj
+T*
+(ma...) Tj
+T*
+() Tj
+T*
+(4. Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-22T16:45:23+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything) Tj
+T*
+(Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model Big claims from Qwen about their latest) Tj
+T*
+(open weight model: Qwen3.6-27B delivers flagship-level agentic coding performance, surpassing) Tj
+T*
+(the previous-generation open-source flagship Qwen3.5-397B-A17B \(397B total / 17B active MoE\)) Tj
+T*
+(across all major coding benchmarks. On Hugging Face Qwen3.5-397B-A17B is 807GB, this new) Tj
+T*
+(Qwen3.6-27B is 55.6GB. I tried it out with the 16.8GB Unsloth Qwen3.6-27B-GGUF:Q4_K_M quantized) Tj
+T*
+(version and llama-server using this recipe by benob on Hacker News , after first installing) Tj
+T*
+(llama-server using brew install llama.cpp : llama-server \\ -hf unsloth/Qwen3.6-27B-GGUF:Q4_K_M) Tj
+T*
+(\\ --no-mmproj \\ --fit on \\ -np 1 \\ -c 65536 \\ --cache-ram 4096 -ctxcp 2 \\ --jinja \\ --temp 0.6) Tj
+T*
+(\\ --top-p 0.95 \\ --top-k 20 \\ --min-p 0.0 \\ --presence-penalty 0.0 \\ --repeat-penalty 1.0 \\) Tj
+T*
+(--reasoning on \\ --chat-template-kwargs '{"preserve_thinking": true}' On first run that saved) Tj
+T*
+(the ~17GB model to ~/.cache/huggingface/hub/models--unsloth--Qwen3.6-27B-GGUF . Here's the) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4659 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(transcript for "Generate an SVG of a pelican riding a bicycle". This is an outstanding result) Tj
+T*
+(for a 16.8GB local model: Performance numbers reported by llama-server : Readi...) Tj
+T*
+() Tj
+T*
+(5. Quoting Bobby Holley) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-22T05:40:56+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything) Tj
+T*
+(As part of our continued collaboration with Anthropic, we had the opportunity to apply an early) Tj
+T*
+(version of Claude Mythos Preview to Firefox. This week?s release of Firefox 150 includes fixes) Tj
+T*
+(for 271 vulnerabilities identified during this initial evaluation. [...] Our experience is a) Tj
+T*
+(hopeful one for teams who shake off the vertigo and get to work. You may need to reprioritize) Tj
+T*
+(everything else to bring relentless and single-minded focus to the task, but there is light at) Tj
+T*
+(the end of the tunnel. We are extremely proud of how our team rose to meet this challenge, and) Tj
+T*
+(others will too. Our work isn?t finished, but we?ve turned the corner and can glimpse a future) Tj
+T*
+(much better than just keeping up. Defenders finally have a chance to win, decisively . ? Bobby) Tj
+T*
+(Holley , CTO, Firefox Tags: anthropic , claude , ai , firefox , llms , mozilla , security ,) Tj
+T*
+(generative-ai , ai-security-research) Tj
+T*
+() Tj
+T*
+(6. Changes to GitHub Copilot Individual plans) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-22T03:30:02+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything) Tj
+T*
+(Changes to GitHub Copilot Individual plans On the same day as Claude Code's temporary) Tj
+T*
+(will-they-won't-they $100/month kerfuffle \(for the moment, they won't \), here's the latest on) Tj
+T*
+(GitHub Copilot pricing. Unlike Anthropic, GitHub put up an official announcement about their) Tj
+T*
+(changes, which include tightening usage limits, pausing signups for individual plans \(!\),) Tj
+T*
+(restricting Claude Opus 4.7 to the more expensive $39/month "Pro+" plan, and dropping the) Tj
+T*
+(previous Opus models entirely. The key paragraph: Agentic workflows have fundamentally changed) Tj
+T*
+(Copilot?s compute demands. Long-running, parallelized sessions now regularly consume far more) Tj
+T*
+(resources than the original plan structure was built to support. As Copilot?s agentic) Tj
+T*
+(capabilities have expanded rapidly, agents are doing more work, and more customers are hitting) Tj
+T*
+(usage limits designed to maintain service reliability. It's easy to forget that just six months) Tj
+T*
+(ago heavy LLM users were burning an order of magnitude less tokens. Coding agents consume a lot) Tj
+T*
+(of compute. Copilot was also unique \(I believe\) among agents in charging per-request, not) Tj
+T*
+(per-token. \( Correction: Windsurf also operated a credit system like this which they) Tj
+T*
+(abandoned...) Tj
+T*
+() Tj
+T*
+(7. How to Come Up With Great Ideas) Tj
+T*
+(Source: iDiallo.com | Published: Wed, 22 Apr 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/how-to-come-up-with-great-ideas?src=feed) Tj
+T*
+(There's a story about an art teacher who divides a class into two groups. The first group is) Tj
+T*
+(given one task. Design a single, perfect pot. The second group has a different instruction) Tj
+T*
+(entirely. Make as many pots as you can before time is up. The first group measures, plans, and) Tj
+T*
+(deliberates. They sketch ratios, debate proportions, and handle the clay with care. They have) Tj
+T*
+(one shot, so they treat it like one. The second group just makes pots. Terrible ones. pots that) Tj
+T*
+(collapse on themselves, crack at the base, and lean sideways. They don't stop to mourn any of) Tj
+T*
+(them, they just start the next. When time expires, the results are revealed. The first group) Tj
+T*
+(has a pot... technically. But it wobbles. Before the session is over, it breaks. The second) Tj
+T*
+(group's first pot is a disaster. But their second is better. Their third, better still. By the) Tj
+T*
+(time they've burned through a dozen attempts, they've internalized something the first group) Tj
+T*
+(never had the chance to learn. What doesn't work. Their final pot is flawless The second group) Tj
+T*
+(won not because they were more talented, but because they were given the opportunity to) Tj
+T*
+(experiment and gain experience. When it comes to writing, it's tempting to belie...) Tj
+T*
+() Tj
+T*
+(8. Luddites and AI datacenters) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Wed, 22 Apr 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/luddites-and-ai-datacenters/) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4875 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Is it time to start burning down datacenters? Some people think so. An Indianapolis city) Tj
+T*
+(council member had his house recently shot up for supporting datacenters, and Sam Altman?s home) Tj
+T*
+(was firebombed \(and then shot \) shortly afterwards. People from all sides of the argument are) Tj
+T*
+(sounding the alarm about imminent violence. The obvious historical comparison is Luddism , the) Tj
+T*
+(19th-century phenomenon where English weavers and knitters destroyed the machines that were) Tj
+T*
+(automating their work, and \(in some cases\) killed the machines? owners. Anti-AI people are) Tj
+T*
+(reclaiming the term to describe themselves, and many of the leading lights of the anti-AI) Tj
+T*
+(movement \(like Brian Merchant or Gavin Mueller \) have written books arguing more or less that) Tj
+T*
+(the Luddites were right, and we ought to follow their example in order to resist AI automation) Tj
+T*
+(1 . Like many people, I have heard a lot about Luddism and Luddites, but only in the context of) Tj
+T*
+(it being a general term for someone who is anti-technology. I was interested in learning more) Tj
+T*
+(about the actual historical movement: what kind of people participated, what it was, and what) Tj
+T*
+(it accomplished. I read Merchant?s and Mueller?s books, plus others 2 , to try...) Tj
+T*
+() Tj
+T*
+(9. Pluralistic: It's not a crime if we do it \(to nurses\) with an app \(22 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 22 Apr 2026 15:24:00) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/22/uber-for-nurses/) Tj
+T*
+(Today's links It's not a crime if we do it \(to nurses\) with an app: It's not a bald spot, it's) Tj
+T*
+(a solar panel for a sex machine. Hey look at this: Delights to delectate. Object permanence:) Tj
+T*
+(PKD named names; Weird Al v Lada Gaga; South Korean Olympic torture camps; McDonald's v) Tj
+T*
+(ice-cream hackers. Upcoming appearances: San Francisco, London, Berlin, NYC, Barcelona,) Tj
+T*
+(Hay-on-Wye, London, NYC. Recent appearances: Where I've been. Latest books: You keep readin') Tj
+T*
+(em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All) Tj
+T*
+(the rest. It's not a crime if we do it \(to nurses\) with an app \(permalink\) If I could abolish) Tj
+T*
+(one piece of received wisdom about tech policy, it would be this: "Tech moves at the speed of) Tj
+T*
+(innovation and regulation moves at the speed of government, so regulation will always lag) Tj
+T*
+(behind tech." \(If I could abolish two pieces of received wisdom about tech policy, the other) Tj
+T*
+(one would be "If you're not paying for the product, you're the product." Decent treatment is) Tj
+T*
+(not a customer reward program, and "voting with your wallet" only works if you're a billionaire) Tj
+T*
+(whose wallet is thicker than all the other wallets put together.\) To be clear, there are...) Tj
+T*
+() Tj
+T*
+(10. Mapping the page tables into memory via the page tables) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 22 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260422-00/?p=112255) Tj
+T*
+(So-called "fractal page mapping". The post Mapping the page tables into memory via the page) Tj
+T*
+(tables appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(11. Some general notes on network booting UEFI machines) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-22T03:27:20Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/UEFINetworkBootNotes) Tj
+T*
+(If you need to \(re\)install a large collection of servers or servers in inconvenient locations) Tj
+T*
+(for physical access, booting them from the network in order to install them is something that) Tj
+T*
+(you might be quite interested in. In the pre-UEFI PC 'BIOS' era of MBR booting, this was often) Tj
+T*
+(called PXE booting , but UEFI changes things around. UEFI firmware typically has built in) Tj
+T*
+(support for networking, which is to say that there are UEFI protocols \(function calls\) for) Tj
+T*
+(doing common things with the network \( also , also \). In practice this means that bootloaders) Tj
+T*
+(and other things don't have to embed their own code to deal with the network \(or their own) Tj
+T*
+(network card drivers\); provided that they don't exit from the UEFI preboot environment, they) Tj
+T*
+(can just use UEFI services. In typical Linux environments, this will handle everything up until) Tj
+T*
+(the kernel starts with its initial ramdisk \(GRUB will load the kernel and initramfs over the) Tj
+T*
+(network using UEFI services\). As covered in UEFI HTTP Boot , UEFI provides two ways to do) Tj
+T*
+(network booting. Both ways start with the UEFI firmware doing DHCP to get an initial chunk of) Tj
+T*
+(information, either by IPv4 or IPv6. In the standard and widely supported way, your...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4647 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(12. People cannot "just pay attention" to \(boring, routine\) things) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-01-19T04:21:36Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/PeopleCannotPayAttention) Tj
+T*
+(Sometimes, people in technology believe that we can solve problems by getting people to pay) Tj
+T*
+(attention. This comes up in security, anti-virus efforts, anti-phish efforts, monitoring and) Tj
+T*
+(alert handling, warning messages emitted by programs, warning messages emitted by compilers and) Tj
+T*
+(interpreters, and many other specific contexts. We are basically always wrong. One of the core,) Tj
+T*
+(foundational results from human factors research, research into human vision, the psychology of) Tj
+T*
+(perceptions, and other related fields, is that human brains are a mess of heuristics and have) Tj
+T*
+(far more limited capabilities than we think \(and they lie to us all the time\). Anyone who takes) Tj
+T*
+(up photography as a hobby has probably experienced this \(I certainly did\); you can take plenty) Tj
+T*
+(of photographs where you literally didn't notice some element in the picture at the time but) Tj
+T*
+(only saw it after the fact while reviewing the photograph. \(In general photography is a great) Tj
+T*
+(education on how much our visual system lies to us. For example, daytime shadows are blue, not) Tj
+T*
+(black.\) One of the things we have a great deal of evidence about from both experiments and) Tj
+T*
+(practical experience is that people \(which is to say, human brains\)...) Tj
+T*
+() Tj
+T*
+(13. Systemd-networkd and giving your virtual devices alternate names) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-01-17T03:29:44Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdNetworkdVirtualAltnames) Tj
+T*
+(Recently I wrote about how Linux network interface names have a length limit , of 15) Tj
+T*
+(characters. You can work around this limit by giving network interfaces an 'altname' property,) Tj
+T*
+(as exposed in \(for example\) 'ip link' . While you can't work around this at all in Canonical's) Tj
+T*
+(Netplan , it looks like you can have this for your VLANs in systemd-networkd, since there's) Tj
+T*
+(AlternativeName= in the systemd.link manual page. Except, if you look at an actual VLAN) Tj
+T*
+(configuration as materialized by Netplan \(or written out by hand\), you'll discover a problem.) Tj
+T*
+(Your VLANs don't normally have .link files, only .netdev and .network files \(and even your) Tj
+T*
+(normal Ethernet links may not have .link files\). The AlternativeName= setting is only valid in) Tj
+T*
+(.link files, because networkd is like that. \(The AlternativeName= is a '[Link]' section setting) Tj
+T*
+(and .network files also have a '[Link]' section, but they allow completely different sets of) Tj
+T*
+('[Link]' settings. The .netdev file, which is where you define virtual interfaces, doesn't have) Tj
+T*
+(a '[Link]' section at all, although settings like AlternativeName= apply to them just as much) Tj
+T*
+(as to regular devices. Alternately, .netdev files could support setting altnames for...) Tj
+T*
+() Tj
+T*
+(14. [RSS Club] How do you preserve an RSS feed?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 22 Apr 2026 11:34:46 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/) Tj
+T*
+(Psssst! This top secret post is only available to RSS subscribers! I was sent this) Tj
+T*
+(thought-provoking blog post called "The Necessary Pain Involved in Blogging \(if you want your) Tj
+T*
+(work to be preserved beyond your lifespan\)". In it, Martin Paul Eve makes the case that trying) Tj
+T*
+(to preserve a blog is difficult. I mostly agree with him \(although think he's perhaps a little) Tj
+T*
+(hair-shirted about it\) and it?) Tj
+T*
+() Tj
+T*
+(15. Better TTS on Linux) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 21 Apr 2026 11:34:07 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/better-tts-on-linux/) Tj
+T*
+(The venerable eSpeak is a mainstay of Linux distributions. It is a clever Text-To-Speech \(TTS\)) Tj
+T*
+(program which will read aloud the written word using a phenomenally wide variety of languages) Tj
+T*
+(and accents. The only problem is that it sounds robotic. It has the same vocal fidelity as a) Tj
+T*
+(1980s Speak 'n' Spell toy. Monotonous, clipped, and painful to listen to. For some people, this) Tj
+T*
+(is a feature, not a?) Tj
+T*
+() Tj
+T*
+(16. Writing an LLM from scratch, part 33 -- what I learned from finally getting round to) Tj
+T*
+(the appendices) Tj
+T*
+(Source: Giles' blog | Published: Wed, 22 Apr 2026 17:30:00 +0000) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4148 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link:) Tj
+T*
+(https://www.gilesthomas.com/2026/04/llm-from-scratch-33-what-i-learned-from-the-appendices) Tj
+T*
+(After finishing the main body of " Build a Large Language Model \(from Scratch\) ", I set myself) Tj
+T*
+(three follow-on goals . The first was training a full GPT-2-small-style base model myself. That) Tj
+T*
+(was reasonably easy to do but unlocked a bunch of irresistible side quests ; having finally got) Tj
+T*
+(to the end of those, it's time to move on to the others: reading through the book's appendices,) Tj
+T*
+(and building my own GPT-2 style model in JAX. This post is about the appendices. The TL;DR:) Tj
+T*
+(there was stuff in there that could have saved me time in my side-questing, but I think that) Tj
+T*
+(having to work those things out from scratch probably helped me learn them better. Appendix A:) Tj
+T*
+(Introduction to PyTorch This is an excellent overview of PyTorch, and given that I'm writing) Tj
+T*
+(for people who are reading the book too, all I can really say is that it's well worth reading,) Tj
+T*
+(even if you have some experience in it. He gives an intro to what it is, some details on how to) Tj
+T*
+(choose to use GPUs \(or Apple Silicon\) if you have them, and an overview of tensors. He then) Tj
+T*
+(goes on to explain the basics of automated differentiation and back-propagation, with a bit of) Tj
+T*
+(background detail about the chain rule. I think this bit is usefu...) Tj
+T*
+() Tj
+T*
+(17. AI has no moat) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-04-22T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/04/22/ai-has-no-moat.html) Tj
+T*
+(SpaceX is buying Cursor for $60B. lol it?s just sad to watch this shit, Twitter was $44B. Like) Tj
+T*
+(this has to be some scam I don?t understand. Nobody I know even uses Cursor any more. In my) Tj
+T*
+(opinion, opencode is legit the best coding agent. Not open source cope, like it?s actually) Tj
+T*
+(number 1. And yes, it?s a good harness, but it?s not that hard to write something similar.) Tj
+T*
+(opencode has a solid business model, let?s hope they don?t enshittify. The Claude Code source) Tj
+T*
+(leaked and it was 10% agent, 90% spyware. Then there?s models. The closed source models are the) Tj
+T*
+(best \(I find these rankings accurate\), GPT-5.4 and Opus 4.7, but they cost at least 10x more to) Tj
+T*
+(make than Kimi K2.6 and GLM 5.1 which aren?t that much worse \(6 months behind\). The models are) Tj
+T*
+(harder to make than harness software, but there?s full guides to make them , it?s mostly just a) Tj
+T*
+(question of being able to justify spending tons on training for an asset that depreciates so) Tj
+T*
+(fast. It?s kind of beautiful if it wasn?t so sad. The money grubbiness has to burn itself out.) Tj
+T*
+(It just looks stupider and stupider and so incredibility detached from reality. It?s happening) Tj
+T*
+(because of FOMO and super low time horizon thinking. These people actu...) Tj
+T*
+() Tj
+T*
+(18. Exclusive: Microsoft Moving All GitHub Copilot Subscribers To Token-Based Billing In) Tj
+T*
+(June) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Wed, 22 Apr 2026 17:24:17 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/exclusive-microsoft-moving-all-github-copilot-subscribers-to-) Tj
+T*
+(token-based-billing-in-june/) Tj
+T*
+(Executive Summary: Internal documents reveal Microsoft?s planned rollout for token-based) Tj
+T*
+(billing for all GitHub Copilot customers starting in June. Copilot Business Customers will pay) Tj
+T*
+($19 per-user-per-month and receive $30 of pooled AI credits. Copilot Enterprise customers will) Tj
+T*
+(pay $39 per-user-per-month and receive $70 of pooled AI credits. Sources) Tj
+T*
+() Tj
+T*
+(19. Beating the Averages) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/avg.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. Lisp for Web-Based Applications) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/lwba.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(21. Chapter 1 of Ansi Common Lisp) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3355 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link:) Tj
+T*
+(http://www.paulgraham.com/https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1702479238&) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(22. The Scapegoat) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-04-22T03:35:00Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17323348/mcclatchy-journalism-ai-scapegoat) Tj
+T*
+(Yes, AI is changing things in the corporate world, but let?s be clear: The humans are driving) Tj
+T*
+(the actual change. McClatchy proves it.) Tj
+T*
+() Tj
+T*
+(23. AI and Teaching ? The Brave New World) Tj
+T*
+(Source: Steve Blank | Published: Wed, 22 Apr 2026 15:34:09 +0000) Tj
+T*
+(Link: https://steveblank.com/2026/04/22/ai-and-teaching-the-brave-new-world/) Tj
+T*
+(This article previously appeared in the Entrepreneur & Innovation Exchange \(EIX\) This is the) Tj
+T*
+(16th year we?ve been teaching the Stanford Lean LaunchPad class. This year, from the first hour) Tj
+T*
+(of the first class, we realized we were seeing something extraordinary happen. It was both the) Tj
+T*
+(end and beginning of a new era. Teams showed [?]) Tj
+T*
+() Tj
+T*
+(24. Corona Update Oktober 2021) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 23 Oct 2021 11:48:23 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-update-oktober-2021/) Tj
+T*
+(Het heeft even geduurd, maar er is weer een Coronaupdate. Wederom dank aan iedereen die met) Tj
+T*
+(vragen kwam. Hoe gaat het nu? Ik durf het niet te zeggen. In veel landen gaan de cijfers) Tj
+T*
+(omhoog. In de UK zijn ze al tijden en tijden torenhoog. De vaccins houden goed stand tegen) Tj
+T*
+(ernstige ziekte \(zie verderop\). Maar of de cijfers nog veel verder omhoog zullen gaan, ik durf) Tj
+T*
+(het niet te zeggen.) Tj
+T*
+() Tj
+T*
+(25. SkewDB: an open database of GC and other microbial skews) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 30 Aug 2021 14:19:18 +0200) Tj
+T*
+(Link:) Tj
+T*
+(https://berthub.eu/articles/posts/skewdb-an-open-database-of-gc-and-other-microbial-skews/) Tj
+T*
+(Hello and welcome to this introduction of the SkewDB. This open \(downloadable\) database) Tj
+T*
+(contains details of GC skew, plus a dozen other skews, for all 28,000 bacterial chromosomes) Tj
+T*
+(available through the NCBI genomes service. The database is created using the open source) Tj
+T*
+(Antonie DNA software. There is also an online viewer that includes graphs. GC skew is the) Tj
+T*
+(phenomenon where almost all circular chromosomes tend to have near equal amounts of G and C) Tj
+T*
+(nucleotides, per strand, but where the leading replication strand contains an excess of G, and) Tj
+T*
+(the lagging replication strand has an excess of C nucleotides.) Tj
+T*
+() Tj
+T*
+(26. A Science Experiment: part 2) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 26 Aug 2021 14:50:28 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/a-science-experiment-part-2/) Tj
+T*
+(And we?re back! As noted in part 1, there is the possibility I?ve discovered something) Tj
+T*
+(interesting in biology. Lacking an academic peer group, I?m using a series of blog posts to) Tj
+T*
+(gather feedback and to keep myself honest. Because chances continue to be high that as an) Tj
+T*
+(outsider I am deluding myself. The full backstory can be found in part 1 without which this) Tj
+T*
+(installment will not make much sense.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004724 00000 n 
+0000004850 00000 n 
+0000009561 00000 n 
+0000009687 00000 n 
+0000014614 00000 n 
+0000014740 00000 n 
+0000019440 00000 n 
+0000019568 00000 n 
+0000023769 00000 n 
+0000023897 00000 n 
+0000027305 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+27433
+%%EOF
