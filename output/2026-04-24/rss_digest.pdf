@@ -1,0 +1,758 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4833 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-24 09:39:09) Tj
+T*
+() Tj
+T*
+(1. An update on recent Claude Code quality reports) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-24T01:31:25+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything) Tj
+T*
+(An update on recent Claude Code quality reports It turns out the high volume of complaints that) Tj
+T*
+(Claude Code was providing worse quality results over the past two months was grounded in real) Tj
+T*
+(problems. The models themselves were not to blame, but three separate issues in the Claude Code) Tj
+T*
+(harness caused complex but material problems which directly affected users. Anthropic's) Tj
+T*
+(postmortem describes these in detail. This one in particular stood out to me: On March 26, we) Tj
+T*
+(shipped a change to clear Claude's older thinking from sessions that had been idle for over an) Tj
+T*
+(hour, to reduce latency when users resumed those sessions. A bug caused this to keep happening) Tj
+T*
+(every turn for the rest of the session instead of just once, which made Claude seem forgetful) Tj
+T*
+(and repetitive. I frequently have Claude Code sessions which I leave for an hour \(or often a) Tj
+T*
+(day or longer\) before returning to them. Right now I have 11 of those \(according to ps aux |) Tj
+T*
+(grep 'claude ' \) and that's after closing down dozens more the other day. I estimate I spend) Tj
+T*
+(more time prompting in these "stale" sessions than sessions that I've recently started! If) Tj
+T*
+(you're building agentic systems it's worth reading this article in detail - t...) Tj
+T*
+() Tj
+T*
+(2. Serving the For You feed) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-24T01:08:17+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything) Tj
+T*
+(Serving the For You feed One of Bluesky's most interesting features is that anyone can run) Tj
+T*
+(their own custom "feed" implementation and make it available to other users - effectively) Tj
+T*
+(enabling custom algorithms that can use any mechanism they like to recommend posts. spacecowboy) Tj
+T*
+(runs the For You Feed , used by around 72,000 people. This guest post on the AT Protocol blog) Tj
+T*
+(explains how it works. The architecture is fascinating . The feed is served by a single Go) Tj
+T*
+(process using SQLite on a "gaming" PC in spacecowboy's living room - 16 cores, 96GB of RAM and) Tj
+T*
+(4TB of attached NVMe storage. Recommendations are based on likes: what else are the people who) Tj
+T*
+(like the same things as you liking on the platform? That Go server consumes the Bluesky) Tj
+T*
+(firehose and stores the relevant details in SQLite, keeping the last 90 days of relevant data,) Tj
+T*
+(which currently uses around 419GB of SQLite storage. Public internet traffic is handled by a) Tj
+T*
+($7/month VPS on OVH, which talks to the living room server via Tailscale. Total cost is now) Tj
+T*
+($30/month: $20 in electricity, $7 in VPS and $3 for the two domain names. spacecowboy estimates) Tj
+T*
+(that the existing system could handle all ~1 million daily active Bluesky users if...) Tj
+T*
+() Tj
+T*
+(3. Extract PDF text in your browser with LiteParse for the web) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-23T21:54:24+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything) Tj
+T*
+(LlamaIndex have a most excellent open source project called LiteParse , which provides a) Tj
+T*
+(Node.js CLI tool for extracting text from PDFs. I got a version of LiteParse working entirely) Tj
+T*
+(in the browser, using most of the same libraries that LiteParse uses to run in Node.js. Spatial) Tj
+T*
+(text parsing Refreshingly, LiteParse doesn't use AI models to do what it does: it's good) Tj
+T*
+(old-fashioned PDF parsing, falling back to Tesseract OCR \(or other pluggable OCR engines\) for) Tj
+T*
+(PDFs that contain images of text rather than the text itself. The hard problem that LiteParse) Tj
+T*
+(solves is extracting text in a sensible order despite the infuriating vagaries of PDF layouts.) Tj
+T*
+(They describe this as "spatial text parsing" - they use some very clever heuristics to detect) Tj
+T*
+(things like multi-column layouts and group and return the text in a sensible linear flow. The) Tj
+T*
+(LiteParse documentation describes a pattern for implementing Visual Citations with Bounding) Tj
+T*
+(Boxes . I really like this idea: being able to answer questions from a PDF and accompany those) Tj
+T*
+(answers with cropped, highlighted images feels like a great way of increasing the credibility) Tj
+T*
+(of answers from RAG-style Q&A. LiteParse is provided as a pure CLI tool, design...) Tj
+T*
+() Tj
+T*
+(4. United Kingdom to Pass Smoking Ban Only for Those Who Are Not Yet Legal Adults) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4875 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-04-24T01:26:13Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/04/21/world/europe/uk-smoking-ban-2009.html?unlocked_article) Tj
+T*
+(_code=1.dVA.f9yJ.YMVg9N8QOlio) Tj
+T*
+(Ephrat Livni, reporting for The New York Times \(gift link\): Britain aims to raise a ?smoke-free) Tj
+T*
+(generation? by permanently banning the sale or supply of tobacco to anyone born in 2009 or) Tj
+T*
+(after, with a bill that was approved by Parliament on Tuesday. The bill applies to people) Tj
+T*
+(currently 17 years old or younger and aims to keep them from ever picking up the habit in their) Tj
+T*
+(lifetime. The proposal is expected to soon go into law after the final formality of approval by) Tj
+T*
+(King Charles III. Lawmakers say that in practice, the measure means the age of sale for tobacco) Tj
+T*
+(products will rise over time as the targeted demographic group grows older and could lead to a) Tj
+T*
+(smoke-free society. The law will apply in England, Scotland, Wales and Northern Ireland. I?ve) Tj
+T*
+(never smoked and I?m strongly in favor of most ? maybe all? ? of the smoking bans and) Tj
+T*
+(tobacco-related public health measures that have been passed in my lifetime. I can?t imagine) Tj
+T*
+(going back to when smoking was permitted in restaurants, bars, airplanes, and public spaces.) Tj
+T*
+(I?m also strongly in favor of stiff taxes on tobacco products to discourage their use. But this) Tj
+T*
+(U.K. law seems bonkers to me. To me, something ought to be either legal for a...) Tj
+T*
+() Tj
+T*
+(5. Trump?s Blog Has Somehow Lost $1.1 Billion) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-23T21:14:35Z) Tj
+T*
+(Link:) Tj
+T*
+(https://www.motherjones.com/politics/2026/04/truth-social-ceo-out-after-1-1-billion-in-losses/) Tj
+T*
+(Russ Choma, reporting for Mother Jones: Devin Nunes was not an obvious choice to run a) Tj
+T*
+(fledgling social media network, but after $1.1 billion in losses, the former dairy farmer and) Tj
+T*
+(congressman is out as the head of Truth Social. Donald Trump Jr., a board member at Trump Media) Tj
+T*
+(+ Technology, the parent company of Truth Social, said on Tuesday night that Nunes would be) Tj
+T*
+(replaced by another executive who formerly worked at Hulu. Nunes confirmed the move in a Truth) Tj
+T*
+(Social post of his own. The company, which is majority owned by Donald Trump, has seen its) Tj
+T*
+(stock plummet 84 percent under Nunes? leadership, from its debut price of $58 back in 2024. The) Tj
+T*
+(current share price of around $9.80 is arguably still optimistic for a company that has lost) Tj
+T*
+($1.1 billion since it went public, and recorded just over $10.6 million in revenue in the same) Tj
+T*
+(time. Like a well-oiled Atlantic City casino. When Trump Media was first announced as a) Tj
+T*
+(concept, the Trump family said it would include: Truth Social, streaming television services to) Tj
+T*
+(rival Netflix and Amazon and web-hosting that would rival Amazon?s AWS business. And all of it) Tj
+T*
+(would be devoted to fighting the ?woke? media and corporate culture that Trump sa...) Tj
+T*
+() Tj
+T*
+(6. Nilay Patel: ?Beware Software Brain?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-23T20:13:49Z) Tj
+T*
+(Link: https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation) Tj
+T*
+(Nilay Patel, in a terrific essay \(and Decoder one-sider\) at The Verge: In fact, the polling on) Tj
+T*
+(this is so strong, I think it?s fair to say that a lot of people hate AI, and that Gen Z in) Tj
+T*
+(particular seems to hate AI more and more as they encounter it. There?s that NBC News poll) Tj
+T*
+(showing AI with worse favorability than ICE and only a little bit above the war in Iran and the) Tj
+T*
+(Democrats generally. That?s with nearly two thirds of respondents saying they used ChatGPT or) Tj
+T*
+(Copilot in the last month. Quinnipiac just found that over half of Americans think AI will do) Tj
+T*
+(more harm than good , while more than 80 percent of people were either very concerned or) Tj
+T*
+(somewhat concerned about the technology. Only 35 percent of people were excited about it. Poll) Tj
+T*
+(after poll shows that Gen Z uses AI the most and has the most negative feelings about it. A) Tj
+T*
+(recent Gallup poll found that only 18 percent of Gen Z was hopeful about AI, down from an) Tj
+T*
+(already-bad 27 percent last year. At the same time, anger is growing: 31 percent of those Gen Z) Tj
+T*
+(respondents said they feel angry about AI, up from 22 percent last year. A good friend texted) Tj
+T*
+(me a few weeks ago that ?the phrase ?software is eating the world? sure hits diff...) Tj
+T*
+() Tj
+T*
+(7. Another crash caused by uninstaller code injection into Explorer) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 23 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4662 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Inadvertently destroying a staircase while standing on it. The post Another crash caused by) Tj
+T*
+(uninstaller code injection into Explorer appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Equity for Europeans) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-04-23T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/) Tj
+T*
+(If you spend enough time in US business or finance conversations, one word keeps showing up:) Tj
+T*
+(equity . Coming from a German-speaking, central European background, I found it surprisingly) Tj
+T*
+(hard to fully internalize what that word means. More than that, I find it very hard to talk) Tj
+T*
+(with other Europeans about it. Worst of all it?s almost impossible to explain it in German) Tj
+T*
+(without either sounding overly technical or losing an important part of the meaning. This post) Tj
+T*
+(is in English, but it is written mostly for readers in Germany, Austria, and Switzerland, and) Tj
+T*
+(more broadly for people from continental Europe. I move between ?German-speaking? and) Tj
+T*
+(?continental European? a bit. They are not the same thing, of course, but many continental) Tj
+T*
+(European countries share a civil-law background that differs sharply from the English) Tj
+T*
+(common-law and equity tradition. The words differ by language and jurisdiction, but the) Tj
+T*
+(conceptual gap I am interested in shows up in similar ways. In US usage, the word ?equity?) Tj
+T*
+(appears everywhere: real estate: ?build equity in your home? startups: ?employees get equity?) Tj
+T*
+(public markets: ?equity investors? private deals: ?take an equity stake? personal finance:) Tj
+T*
+(?negative equi...) Tj
+T*
+() Tj
+T*
+(9. Approximation to solve an oblique triangle) Tj
+T*
+(Source: John D. Cook | Published: Thu, 23 Apr 2026 15:56:02 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/) Tj
+T*
+(The previous post gave a simple and accurate approximation for the smaller angle of a right) Tj
+T*
+(triangle. Given a right triangle with sides a, b, and c, where a is the shortest side and c is) Tj
+T*
+(the hypotenuse, the angle opposite side a is approximately in radians. The previous post worked) Tj
+T*
+(in degrees, but here we?ll use radians. If the [?] The post Approximation to solve an oblique) Tj
+T*
+(triangle first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Simple approximation for solving a right triangle) Tj
+T*
+(Source: John D. Cook | Published: Thu, 23 Apr 2026 12:13:35 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/) Tj
+T*
+(Suppose you have a right triangle with sides a, b, and c, where a is the shortest side and c is) Tj
+T*
+(the hypotenuse. Then the following approximation from [1] for the angle A opposite side a seems) Tj
+T*
+(too simple and too accurate to be true. In degrees, A ? a 172∞ / \(b + 2c\). The approximation) Tj
+T*
+(above only involves simple [?] The post Simple approximation for solving a right triangle first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. The various steps of a UEFI network install from an Ubuntu server ISO) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-23T03:29:22Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerISONetworkInstall) Tj
+T*
+(Suppose, not hypothetically, that you have a locally customized Ubuntu server install ISO image) Tj
+T*
+(\( and have for a while \), and you also now have a number of UEFI based machines that it would) Tj
+T*
+(be convenient to \(re\)install over the network without having to visit them in person \(and they) Tj
+T*
+(don't have IPMIs/BMCs that support virtual media\). It turns out that you can take an Ubuntu ISO) Tj
+T*
+(and install from it over the network, but how the various steps and stages connect together) Tj
+T*
+(isn't obvious. Here are my notes on this, before I forget them all. I'll assume that you) Tj
+T*
+(already have a modern Ubuntu server installer configuration setup , but you can also do this) Tj
+T*
+(with a stock ISO image that will walk you through the full set of server installer questions.) Tj
+T*
+(The process of booting your ISO over the network goes like this \(including recommended things\):) Tj
+T*
+(Your UEFI based server sends out a DHCP request that includes, among other things, its request) Tj
+T*
+(for one of the UEFI network booting options . Your DHCP server answers with the server's IP and) Tj
+T*
+(either a HTTP URL \(for UEFI HTTP boot\) to shimx64.efi, or a TFTP server and the \(TFTP\) path to) Tj
+T*
+(shimx64.efi. Most of your machines will probably want the TFTP optio...) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4616 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(12. TCP and UDP and implicit "standard" elements of things) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-01-16T02:35:36Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/TCPAndUDPPartiallyImplicit) Tj
+T*
+(Recently, Verisimilitude left a comment on this entry of mine about binding TCP and UDP ports) Tj
+T*
+(to a specific address. That got me thinking about features that have become standard elements) Tj
+T*
+(of things despite not being officially specified and required. TCP and UDP are more or less) Tj
+T*
+(officially specified in various RFCs and are implicitly specified by what happens on the wire.) Tj
+T*
+(As far as I know, nowhere in these standards \(or wire behavior\) does anything require that a) Tj
+T*
+(multi-address host machine allow you to listen for incoming TCP or UDP traffic on a specific) Tj
+T*
+(port on only a restricted subset of those addresses. People talking to your host have to use a) Tj
+T*
+(specific IP, obviously, and established TCP connections have specific IP addresses associated) Tj
+T*
+(with them that can't be changed, but that's it. Hosts could have an API where you simply) Tj
+T*
+(listened to a specific TCP or UDP port and then they provided you with the local IP when you) Tj
+T*
+(received inbound traffic; it would be up to your program to do any filtering to reject) Tj
+T*
+(addresses that you didn't want used. However, I don't think anyone has such an API, and) Tj
+T*
+(anything that did would likely be considered very odd and 'non-standard'. It's become an imp...) Tj
+T*
+() Tj
+T*
+(13. Linux network interface names have a length limit, and Netplan) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-01-17T03:08:23Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/NetworkInterfaceNameLengthLimit) Tj
+T*
+(Over on the Fediverse, I shared a discovery : This is my \(sad\) face that Linux interfaces have) Tj
+T*
+(a maximum name length. What do you mean I can't call this VLAN interface 'vlan22-matterlab'?) Tj
+T*
+(Also, this is my annoyed face that Canonical Netplan doesn't check or report this) Tj
+T*
+(problem/restriction. Instead your VLAN interface just doesn't get created, and you have to go) Tj
+T*
+(look at system logs to find systemd-networkd telling you about it. \(This is my face about) Tj
+T*
+(Netplan in general, of course. The sooner it gets yeeted the better.\) Based on both some) Tj
+T*
+(Internet searches and looking at kernel headers, I believe the limit is 15 characters for the) Tj
+T*
+(primary name of an interface. In headers, you will find this called IFNAMSIZ \(the kernel\) or) Tj
+T*
+(IF_NAMESIZE \(glibc\), and it's defined to be 16 but that includes the trailing zero byte for C) Tj
+T*
+(strings. \(I can be confident that the limit is 15, not 16, because 'vlan22-matterlab' is) Tj
+T*
+(exactly 16 characters long without a trailing zero byte. Take one character off and it works.\)) Tj
+T*
+(At the level of ip commands, the error message you get is on the unhelpful side: # ip link add) Tj
+T*
+(dev vlan22-matterlab type wireguard Error: Attribute failed policy validation. \(I picked the) Tj
+T*
+(typ...) Tj
+T*
+() Tj
+T*
+(14. Sneaky spam in conversational replies to blog posts) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 23 Apr 2026 11:34:48 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/) Tj
+T*
+(I'm grateful that my blog posts attract lots of engaged, funny, and challenging comments. But) Tj
+T*
+(any popular post also attracts spammers. I use Antispam Bee to automatically eradicate a couple) Tj
+T*
+(of hundred crappy comments per day. Nevertheless, some get through. Here's a particularly) Tj
+T*
+(pernicious one - it appeared as three comments ostensibly in reply to each other. At first) Tj
+T*
+(glance these look like ?) Tj
+T*
+() Tj
+T*
+(15. Construction Costs Rarely Fall) Tj
+T*
+(Source: Construction Physics | Published: Thu, 23 Apr 2026 12:02:35 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/construction-costs-rarely-fall) Tj
+T*
+(Not long ago we looked at construction productivity trends for the US and for countries around) Tj
+T*
+(the world. We found that in the U.S., and in most other large, wealthy countries, construction) Tj
+T*
+(productivity is stagnant or declining. Unlike manufacturing and agriculture, or the economy) Tj
+T*
+(overall, which generally show improving productivity over time, in the field of construction we) Tj
+T*
+(find that productivity tends to at best stay constant, and at worst decline over time.) Tj
+T*
+() Tj
+T*
+(16. Do you really want the US to ?win? AI?) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4166 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: the singularity is nearer | Published: 2026-04-23T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html) Tj
+T*
+(By all accounts, I should be a neofeudalist. I should love what?s happening. The AI I dreamed) Tj
+T*
+(of my whole life is being built, engineer-type strongmen are sort of in charge, and people are) Tj
+T*
+(saying out loud the things I have just thought. You might argue that I like it and I?m just not) Tj
+T*
+(happy with my seat at the table. I ask myself a lot if this is true, like what if I was Elon.) Tj
+T*
+(Would I be enjoying it then from that position? Of course it?s impossible to know for sure, but) Tj
+T*
+(I think I really wouldn?t. Even the ideal version, industrial megaprojects at hyperhuman scale) Tj
+T*
+(while constantly being out over your skis with leverage sounds hellish. It?s not a society I) Tj
+T*
+(want to live in , regardless of my seat. I would much prefer someone like this design society,) Tj
+T*
+(with careful nuanced takes about technology. When I see the lawsuit between Elon and Sam) Tj
+T*
+(Altman, I?m probably rooting for Sam. Not because he is great, I mean, he did steal a charity.) Tj
+T*
+(But what were Elon?s plans for it? At least Sam fundamentally is a product guy who I believe) Tj
+T*
+(actually does delight in building products people love. Elon on the other hand? None of his) Tj
+T*
+(stuff is seriously open source, and it?s not that he lacks opportunity t...) Tj
+T*
+() Tj
+T*
+(17. Why prediction markets are a sure sign that our civilisation is in decay) Tj
+T*
+(Source: Westenberg. | Published: Thu, 23 Apr 2026 03:10:02 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisati) Tj
+T*
+(on-is-in-decay/) Tj
+T*
+(Prediction markets are the clearest single sign our civilisation has entered a late and) Tj
+T*
+(decadent stage. The reason isn't that they're new or sinister. It's that the case for them is) Tj
+T*
+(defensible, the technology works, the outputs are useful, but the long-term effect is corrosive) Tj
+T*
+(anyway.) Tj
+T*
+() Tj
+T*
+(18. Pluralistic: The \(other\) problem with automatic conversion of free software to) Tj
+T*
+(proprietary software \(23 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 23 Apr 2026 12:25:06) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/23/poison-pill/) Tj
+T*
+(Today's links The \(other\) problem with automatic conversion of free software to proprietary) Tj
+T*
+(software: You can't add ANY license to a public domain work. Hey look at this: Delights to) Tj
+T*
+(delectate. Object permanence: Pimp My Snack; Abandoned Soviet missile silo full of cash; MPAA v) Tj
+T*
+('democratizing culture'; 3,000 page garbage Kindle books; London's lost postal tunnels;) Tj
+T*
+(Internet voting is stupid; Congress lobotomized itself; GWB v 'truth in politics'; Trump's FTC) Tj
+T*
+(x tariff profiteering. Upcoming appearances: San Francisco, London, Berlin, NYC, Barcelona,) Tj
+T*
+(Hay-on-Wye, London, NYC. Recent appearances: Where I've been. Latest books: You keep readin') Tj
+T*
+(em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All) Tj
+T*
+(the rest. The \(other\) problem with automatic conversion of free software to proprietary) Tj
+T*
+(software \(permalink\) Here's an interesting stunt: a project called Malus.sh will take your) Tj
+T*
+(money, and in exchange, it will ingest any free/open source code you want, refactor that code) Tj
+T*
+(using an LLM, and spit out a "clean room" version that is freed from all the obligations) Tj
+T*
+(imposed by the original project's software license:) Tj
+T*
+(https://www.404media.co/this-ai-tool-rips-off...) Tj
+T*
+() Tj
+T*
+(19. Chapter 2 of Ansi Common Lisp) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link:) Tj
+T*
+(http://www.paulgraham.com/https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1702479238&) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. Programming Bottom-Up) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/progbot.html) Tj
+T*
+(\(No summary\)) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3696 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(21. This Year We Can End the Death Penalty in California) Tj
+T*
+(Source: Paul Graham: Essays | Published: -) Tj
+T*
+(Link: http://www.paulgraham.com/prop62.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(22. Debugging WASM in Chrome DevTools) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-04-22T19:23:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/) Tj
+T*
+(When I was working on the WASM backend for my Scheme compiler , I ran into several tricky) Tj
+T*
+(situations with debugging generated WASM code. It turned out that Chrome has a very capable) Tj
+T*
+(WASM debugger in its DevTools, so in this brief post I want to share how it can be ?) Tj
+T*
+() Tj
+T*
+(23. A Science Experiment: part 1) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 19 Aug 2021 09:27:09 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/a-science-experiment/) Tj
+T*
+(So, I think I may have discovered something interesting in biology! Professional scientists) Tj
+T*
+(know this feeling all too well. Exhilarated that it looks like you might be the first person) Tj
+T*
+(ever to know something, but worried sick that it might not be real. Also, you might be fooling) Tj
+T*
+(yourself ? and you are the easiest person to fool. And even if it is real, does it even mean) Tj
+T*
+(something? Or did you effectively discover that hot things are not cold?) Tj
+T*
+() Tj
+T*
+(24. KPN Interactieve TV zonder Experia Box) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 12 Aug 2021 16:36:42 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/kpn-interactieve-tv-zelf-doen/) Tj
+T*
+(Ik ben een heel tevreden klant van KPN Internet. Om diverse redenen gebruik ik de Experia Box) Tj
+T*
+(niet, maar ik wil wel graag TV kunnen kijken met de KPN Interactieve TV Set Top Box. Vroeger) Tj
+T*
+(ging dat ?vanzelf goed?, tegenwoordig is daar wat werk voor nodig. UPDATE Oktober 2025: deze) Tj
+T*
+(instructies lijken niet meer te werken! Mocht je het wel/weer gaande krijgen, ik hoor het) Tj
+T*
+(graag! Je hebt het verhaal op deze pagina alleen nodig als je de Experia Box niet wil) Tj
+T*
+(gebruiken.) Tj
+T*
+() Tj
+T*
+(25. SPRIND Podcast Transcript: Innovation, Europe, Secret Services) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 05 Aug 2021 15:05:28 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/sprind-podcast-innovation-secret-services/) Tj
+T*
+(This article is part of a series on \(European\) innovation and capabilities. Earlier this year I) Tj
+T*
+(was very happy to be interviewed by Thomas Ramge for Germany?s Federal Agency for Disruptive) Tj
+T*
+(Innovation \(SPRIND\). Many podcasts are just two guys talking to each other, but here Thomas) Tj
+T*
+(brought along a lot of expertise & spent serious time preparing, which contributed hugely to) Tj
+T*
+(having a productive conversation. Even if it is still two guys!) Tj
+T*
+() Tj
+T*
+(26. SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Thu, 23 Apr 2026 13:10:55 GMT) Tj
+T*
+(Link: https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytic) Tj
+T*
+(s-solution) Tj
+T*
+(This is the sixth chapter of my SQLAlchemy 2 in Practice book. If you'd like to support my) Tj
+T*
+(work, I encourage you to buy this book, either directly from my store or on Amazon . Thank you!) Tj
+T*
+(The goal of this chapter is to use the concepts you have learned to build a web traffic) Tj
+T*
+(analytics solution. This will serve as reinforcement of the techniques demonstrated in previous) Tj
+T*
+(chapters as well as an example of a more complex and realistic database design.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000005109 00000 n 
+0000005235 00000 n 
+0000010162 00000 n 
+0000010288 00000 n 
+0000015002 00000 n 
+0000015128 00000 n 
+0000019797 00000 n 
+0000019925 00000 n 
+0000024144 00000 n 
+0000024272 00000 n 
+0000028021 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+28149
+%%EOF
