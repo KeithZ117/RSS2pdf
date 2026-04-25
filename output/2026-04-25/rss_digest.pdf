@@ -1,0 +1,510 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4550 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-25 09:38:03) Tj
+T*
+() Tj
+T*
+(1. New 10 GbE USB adapters are cooler, smaller, cheaper) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 24 Apr 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/) Tj
+T*
+(For years, the best way to get 10 gigabit networking on laptops was to buy an expensive, large,) Tj
+T*
+(and hot 10 GbE Thunderbolt adapter. With new RTL8159-based 10G USB 3.2 adapters coming onto the) Tj
+T*
+(market, the bulky adapters might be a thing of the past. Just look at the size of the thing in) Tj
+T*
+(comparison to my Thunderbolt adapters: 2.5G and even 5G USB adapters have been out for a while,) Tj
+T*
+(but sometimes you need more bandwidth.) Tj
+T*
+() Tj
+T*
+(2. llm 0.31) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-24T23:35:07+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/24/llm/#atom-everything) Tj
+T*
+(Release: llm 0.31 New GPT-5.5 OpenAI model: llm -m gpt-5.5 . #1418 New option to set the text) Tj
+T*
+(verbosity level for GPT-5+ OpenAI models: -o verbosity low . Values are low , medium , high .) Tj
+T*
+(New option for setting the image detail level used for image attachments to OpenAI models: -o) Tj
+T*
+(image_detail low - values are low , high and auto , and GPT-5.4 and 5.5 also accept original .) Tj
+T*
+(Models listed in extra-openai-models.yaml are now also registered as asynchronous. #1395 Tags:) Tj
+T*
+(gpt , openai , llm) Tj
+T*
+() Tj
+T*
+(3. The people do not yearn for automation) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-24T22:38:49+00:00) Tj
+T*
+(Link:) Tj
+T*
+(https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything) Tj
+T*
+(The people do not yearn for automation This written and video essay by Nilay Patel explores why) Tj
+T*
+(AI is unpopular with the general public even as usage numbers for ChatGPT continue to) Tj
+T*
+(skyrocket. It?s a superb piece of commentary, and something I expect I?ll be thinking about for) Tj
+T*
+(a long time to come. Nilay?s core idea is that people afflicted with ?software brain? - who see) Tj
+T*
+(the world as something to be automated as much as possible, and attempt to model everything in) Tj
+T*
+(terms of information flows and data - are becoming detached from everyone else. [?] software) Tj
+T*
+(brain has ruled the business world for a long time. AI has just made it easier than ever for) Tj
+T*
+(more people to make more software than ever before ? for every kind of business to automate big) Tj
+T*
+(chunks of itself with software. It?s everywhere: the absolute cutting edge of advertising and) Tj
+T*
+(marketing is automation with AI. It?s not being a creative. But: not everything is a business.) Tj
+T*
+(Not everything is a loop! The entire human experience cannot be captured in a database. That?s) Tj
+T*
+(the limit of software brain. That?s why people hate AI. It flattens them. Regular people don?t) Tj
+T*
+(see the opportunity to write code as an opportunity at all . The peop...) Tj
+T*
+() Tj
+T*
+(4. DeepSeek V4 - almost on the frontier, a fraction of the price) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-24T06:01:04+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything) Tj
+T*
+(Chinese AI lab DeepSeek's last model release was V3.2 \(and V3.2 Speciale\) last December . They) Tj
+T*
+(just dropped the first of their hotly anticipated V4 series in the shape of two preview models,) Tj
+T*
+(DeepSeek-V4-Pro and DeepSeek-V4-Flash . Both models are 1 million token context Mixture of) Tj
+T*
+(Experts. Pro is 1.6T total parameters, 49B active. Flash is 284B total, 13B active. They're) Tj
+T*
+(using the standard MIT license. I think this makes DeepSeek-V4-Pro the new largest open weights) Tj
+T*
+(model. It's larger than Kimi K2.6 \(1.1T\) and GLM-5.1 \(754B\) and more than twice the size of) Tj
+T*
+(DeepSeek V3.2 \(685B\). Pro is 865GB on Hugging Face, Flash is 160GB. I'm hoping that a lightly) Tj
+T*
+(quantized Flash will run on my 128GB M5 MacBook Pro. It's possible the Pro model may run on it) Tj
+T*
+(if I can stream just the necessary active experts from disk. For the moment I tried the models) Tj
+T*
+(out via OpenRouter , using llm-openrouter : llm install llm-openrouter llm openrouter refresh) Tj
+T*
+(llm -m openrouter/deepseek/deepseek-v4-pro 'Generate an SVG of a pelican riding a bicycle') Tj
+T*
+(Here's the pelican for DeepSeek-V4-Flash : And for DeepSeek-V4-Pro : For comparison, take a) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4369 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(look at the pelicans I got from DeepSeek V3.2 in December , V3.1 in August ,...) Tj
+T*
+() Tj
+T*
+(5. ? Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-25T00:56:12Z) Tj
+T*
+(Link: https://daringfireball.net/2026/04/delicious_claim_chowder_regarding_the_cook-ternus_ceo_) Tj
+T*
+(transition) Tj
+T*
+(Every single word of the November 2025 Financial Times report, which Mark Gurman derided as) Tj
+T*
+(?simply false?, was, in fact, exactly correct.) Tj
+T*
+() Tj
+T*
+(6. ? Norwegian Boating Licenses and Generational Law) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-24T16:09:50Z) Tj
+T*
+(Link: https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law) Tj
+T*
+(My spitball idea for a generational law to keep more young people from ever starting a tobacco) Tj
+T*
+(habit ? and thus, nicotine addiction ? would be through scaled taxation.) Tj
+T*
+() Tj
+T*
+(7. ? ?We Don?t Serve Their Kind Here?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-24T14:18:03Z) Tj
+T*
+(Link: https://daringfireball.net/2026/04/we_dont_serve_their_kind_here) Tj
+T*
+(I think about this scene more and more lately.) Tj
+T*
+() Tj
+T*
+(8. Defending against exceptions in a scope_exit RAII type) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 24 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266) Tj
+T*
+(But maybe it's not worth it. The post Defending against exceptions in a scope_exit RAII type) Tj
+T*
+(appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Software engineering may no longer be a lifetime career) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Fri, 24 Apr 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/) Tj
+T*
+(I don?t think there?s compelling evidence that using AI makes you less intelligent overall 1 .) Tj
+T*
+(However, it seems pretty obvious that using AI to perform a task means you don?t learn as much) Tj
+T*
+(about performing that task . Some software engineers think this is a decisive argument against) Tj
+T*
+(the use of AI. Their argument goes something like this: Using AI means you don?t learn as much) Tj
+T*
+(from your work AI-users thus become less effective engineers over time, as their technical) Tj
+T*
+(skills atrophy Therefore we shouldn?t use AI in our work I don?t necessarily agree with \(2\). On) Tj
+T*
+(the one hand, moving from assembly language to C made programmers less effective in some ways) Tj
+T*
+(and more effective in others. On the other hand, the transition from writing code by hand to) Tj
+T*
+(using AI is arguably a bigger shift, so who knows? But it doesn?t matter. Even if we grant that) Tj
+T*
+(\(2\) is correct, this is still a bad argument . Until around 2024, the best way to learn how to) Tj
+T*
+(do software engineering was just doing software engineering . That was really lucky for us! It) Tj
+T*
+(meant that we could parlay a coding hobby into a lucrative career, and that the people who) Tj
+T*
+(really liked the work would just get better and better over time. Ho...) Tj
+T*
+() Tj
+T*
+(10. Configuring the ISC DHCP server to pick the right network boot option) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-24T03:54:13Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ISCDHCPServerPickNetbootOption) Tj
+T*
+(There are at least three ways that x86 machines can try to boot from the network; BIOS PXE) Tj
+T*
+(boot, UEFI PXE boot, and UEFI HTTP boot . All of them start by the machine asking a DHCP server) Tj
+T*
+(for what it should boot, and all of them require different answers from the DHCP server. If you) Tj
+T*
+(want to support more than one network booting option, your DHCP server needs to give each sort) Tj
+T*
+(of client the right answer for it, which generally means you have to tell the DHCP server how) Tj
+T*
+(to tell the types of clients apart. \(If you have all modern machines you can probably get away) Tj
+T*
+(with only supporting UEFI PXE booting, which will simplify your life slightly.\) The DHCP server) Tj
+T*
+(we use is the standard and now old-fashioned ISC DHCP server. There are a variety of guides for) Tj
+T*
+(how to configure your ISC DHCP server for multiple types of network booting, but for various) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4597 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(reasons I'm writing my own. This one is actually tested in real use \(I've booted machines all) Tj
+T*
+(three ways from this configuration\). When DHCP clients send out network booting requests, they) Tj
+T*
+(include two important pieces of information, their "vendor class identifier" and their) Tj
+T*
+('architecture'; these are DHCP option code 60 and DHCP option code 93 r...) Tj
+T*
+() Tj
+T*
+(11. How nonlinearity affects a pendulum) Tj
+T*
+(Source: John D. Cook | Published: Fri, 24 Apr 2026 23:53:29 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/) Tj
+T*
+(The equation of motion for a pendulum is the differential equation where g is the acceleration) Tj
+T*
+(due to gravity and ? is the length of the pendulum. When this is presented in an introductory) Tj
+T*
+(physics class, the instructor will immediately say something like ?we?re only interested in the) Tj
+T*
+(case where ? is small, so we can [?] The post How nonlinearity affects a pendulum first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Does Mythos mean you need to shut down your Open Source repositories?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 24 Apr 2026 11:34:30 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://shkspr.mobi/blog/2026/04/does-mythos-mean-you-need-to-shut-down-your-open-source-repos/) Tj
+T*
+(Much Sturm und Drang in the world of Open Source with the announcement that the "Mythos" AI is) Tj
+T*
+(now the ultimate hacker and is poised to unleash havoc on every code base. So should you close) Tj
+T*
+(all your Open Source projects to make them safe? No. Firstly, all your Open Source code has) Tj
+T*
+(already been slurped up. It was all ingested for "training purposes" years ago. If it was) Tj
+T*
+(moderately interesting?) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: A free, open visual identity for enshittification \(24 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 24 Apr 2026 12:50:06) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/24/poop-emoji-plus-plus/) Tj
+T*
+(Today's links A free, open visual identity for enshittification: No mere poop emoji! Hey look) Tj
+T*
+(at this: Delights to delectate. Object permanence: RIAA v little girl; Portal turret Easter) Tj
+T*
+(egg; Atari v indie games; Chabon's Phantom Tollbooth intro; The 0.1%; Well-labeled inns; "More) Tj
+T*
+(Everything Forever." Upcoming appearances: London, Berlin, NYC, Barcelona, Hay-on-Wye, London,) Tj
+T*
+(NYC. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin') Tj
+T*
+('em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. A free, open) Tj
+T*
+(visual identity for enshittification \(permalink\) To my surprise, my life's work has turned out) Tj
+T*
+(to be a long series of attempts to get people to engage with the abstract, distant issues of) Tj
+T*
+(tech policy before it's too late. This is hard, because people naturally devote their attention) Tj
+T*
+(to things that are concrete and immediate \(for very good reasons!\). For nearly 25 years, I've) Tj
+T*
+(worked with my comrades at the Electronic Frontier Foundation to raise the salience of these) Tj
+T*
+(abstract, technical ideas. I've come up with metaphors, parables, framing devices, narratives,) Tj
+T*
+(and then?a dirty little word: enshittification. It turned out that t...) Tj
+T*
+() Tj
+T*
+(14. Positivity) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-04-24T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/04/24/positivity.html) Tj
+T*
+(Today is a good day for positivity. Sometimes I get so focused on the negative that I forget) Tj
+T*
+(how good things actually are. We are alive to see the birth of machine intelligence. Something) Tj
+T*
+(that would have entirely displaced Google 10 years ago runs on your laptop . The best AI) Tj
+T*
+(research is open source , constraint is the mother of creativity. The cutting edge is more open) Tj
+T*
+(and competitive than ever. I wanted to be a computer programmer when I grew up and think I did) Tj
+T*
+(that. My two companies ship continual improvements to open source projects spanning many years,) Tj
+T*
+(employ super talented people, and run sustainabilty, selling boxes for more than they cost to) Tj
+T*
+(make. I still program a lot. I think the core missions of comma and tinygrad deeply shape our) Tj
+T*
+(future in a decentralized post-cloud world where you actually own things , but the jury is) Tj
+T*
+(still out. It wouldn?t be fun if it was a sure thing. I saw an Instagram reel with a bunch of) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3555 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(pop punk kids making fun of the TurboTax complexity creating lobbying scheme. There?s awesome) Tj
+T*
+(new subcultures formed outside of ?strivers? and philosophy is alive and well and of course) Tj
+T*
+(it?s not what you expected but that?s always how it had to be. We all acknow...) Tj
+T*
+() Tj
+T*
+(15. Premium: How OpenAI Kills Oracle) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 24 Apr 2026 16:40:45 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/how-openai-kills-oracle/) Tj
+T*
+(Soundtrack ? Brass Against ? Karma Police It was January 21, 2025. Per The Information , Larry) Tj
+T*
+(Ellison, CEO of Oracle, had just flown to Washington DC from Florida, and had to borrow a coat) Tj
+T*
+(?...so he wouldn?t freeze during an interview he did on the White) Tj
+T*
+() Tj
+T*
+(16. This Week on The Analog Antiquarian) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 24 Apr 2026 16:09:50 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/) Tj
+T*
+(Introduction: At Long Last, the Bard) Tj
+T*
+() Tj
+T*
+(17. Blog prize for the big questions about AI) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Fri, 24 Apr 2026 16:37:49 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/blog-prize) Tj
+T*
+(The not-so-secret point of this whole contest is so that I can hire a researcher) Tj
+T*
+() Tj
+T*
+(18. A Plethora of Tweezers) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-04-24T03:00:00Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17324561/tweezer-weird-facts-history) Tj
+T*
+(Pondering the way that tweezers isolate things at a small scale, and the fact that you can take) Tj
+T*
+(an aptitude test to show that you can tweeze with the pros.) Tj
+T*
+() Tj
+T*
+(19. Leap seconds: Causing Bugs Even When They Don't Happen) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 03 Aug 2021 10:03:10 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/leapseconds-expose-bugs-even-when-they-dont-happen/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. Beste dunne artsen: Ik maak me wat zorgen over jullie) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 26 Jul 2021 11:50:41 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/beste-dunne-artsen-ik-maak-me-wat-zorgen-over-jullie/) Tj
+T*
+(Recent barstte het weer los, de felle discussie tussen artsen en dikke mensen. Een belangrijk) Tj
+T*
+(onderwerp, maar ook een onderwerp waarover een hoop zomaar geroepen wordt. Veel artsen en) Tj
+T*
+(beleidsmakers zien een foto van dikke mensen en roepen ?Zucht, leefstijl?. En dan vraag ik me) Tj
+T*
+(weleens af, hebben jullie ook maar ÈÈn te dikke vriend of vriendin met wie jullie hier weleens) Tj
+T*
+(over praten? Want zolang we elkaar niet begrijpen is er een groot probleem.) Tj
+T*
+() Tj
+T*
+(21. Demystifying European Digital Sovereignty) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 13 Jul 2021 21:15:30 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/demystifying-european-digital-sovereignty/) Tj
+T*
+(This article is part of a series on \(European\) innovation and capabilities. Recently I) Tj
+T*
+(participated in a very useful panel that aimed to demystify European digital sovereignty. Even) Tj
+T*
+(though we spoke for more than an hour \(video\), we obviously were not able to fix all of) Tj
+T*
+(Europe?s sovereignty problems! The event was organized by Scaleway \(previously Online SAS or) Tj
+T*
+(Online.net\), a 100% subsidiary of what I think is Europe?s most innovative telecommunications) Tj
+T*
+(company, Iliad.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004812 00000 n 
+0000004938 00000 n 
+0000009359 00000 n 
+0000009485 00000 n 
+0000014134 00000 n 
+0000014260 00000 n 
+0000017868 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+17996
+%%EOF
