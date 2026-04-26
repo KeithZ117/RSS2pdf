@@ -1,0 +1,552 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4397 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-26 09:38:24) Tj
+T*
+() Tj
+T*
+(1. XOXO Explore) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-24T13:28:41Z) Tj
+T*
+(Link: https://xoxofest.com/blog/2026-launching-xoxo-explore/) Tj
+T*
+(Andy McMillan and Andy Baio: Today, over 10 years later, and almost two full years after we) Tj
+T*
+(retired the festival for good, we?re finally launching that website. Named after what we) Tj
+T*
+(thought would be a throwaway title for a short-lived GitHub repo, allow us to introduce XOXO) Tj
+T*
+(Explore . [...] And, for the first time ever \(!\) on an XOXO website, we now have an actual) Tj
+T*
+(About page, where we?ve attempted to explain what XOXO actually was, documenting the 12-year) Tj
+T*
+(history of the festival and its related projects, and featuring a bunch of our favorite quotes) Tj
+T*
+(from press and attendees over the years. You?ll also notice the entire site is littered with) Tj
+T*
+(floating visual ephemera: design artifacts, illustrations, animations, photos, and videos, all) Tj
+T*
+(pulled from our vast archive of commissions and collaborations. Conferences come and) Tj
+T*
+(conferences go. But when they go, they tend to disappear. What a remarkable library, a record,) Tj
+T*
+(XOXO Explore is. ?) Tj
+T*
+() Tj
+T*
+(2. New Zealand Passed a Generational Smoking Ban in 2022, But Repealed It Before It Went) Tj
+T*
+(Into Effect) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-24T13:12:55Z) Tj
+T*
+(Link: https://www.theguardian.com/world/2023/nov/27/new-zealand-scraps-world-first-smoking-gene) Tj
+T*
+(ration-ban-to-fund-tax-cuts) Tj
+T*
+(Eva Corlett, reporting for The Guardian in 2023: New Zealand?s new government will scrap the) Tj
+T*
+(country?s world-leading law to ban smoking for future generations to help pay for tax cuts ? a) Tj
+T*
+(move that public health officials believe will cost thousands of lives and be ?catastrophic?) Tj
+T*
+(for M?ori communities. In 2022 the country passed pioneering legislation which introduced a) Tj
+T*
+(steadily rising smoking age to stop those born after January 2009 from ever being able to) Tj
+T*
+(legally buy cigarettes. The law was designed to prevent thousands of smoking-related deaths and) Tj
+T*
+(save the health system billions of dollars. [...] The laws were due to be implemented from July) Tj
+T*
+(2024. But as part of its coalition agreement with populist New Zealand First, National agreed) Tj
+T*
+(to repeal the amendments, including ?removing requirements for de-nicotisation, removing the) Tj
+T*
+(reduction in retail outlets and the generation ban?. It?s interesting that this law passed in) Tj
+T*
+(the first place, but I would argue that there are no lessons to be learned from it given that) Tj
+T*
+(it was repealed before it ever went into effect. And it seemingly was repealed solely along) Tj
+T*
+(left/right political lines after a change in the country?s parliament, not be...) Tj
+T*
+() Tj
+T*
+(3. Eight for Eight) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-23T19:36:15Z) Tj
+T*
+(Link: https://mastodon.social/@Cdespinosa/116439702239797827) Tj
+T*
+(Speaking of Chris Espinosa, this is pretty neat: On September 1 I?ll join the elite club) Tj
+T*
+(\(members Steve Wozniak, Steve Jobs, Mike Markkula, and Bill Fernandez\) who have worked under a) Tj
+T*
+(number of Apple CEOs ? our employee number: Woz: 1 \(Scott\) Jobs: 2 \(Scott, Markkula\) Markkula:) Tj
+T*
+(3 \(Scott, Sculley, Spindler\) Fernandez: 4 \(Scott, Markkula, Sculley, Spindler\) Espinosa: 8) Tj
+T*
+(\(Scott, Markkula, Sculley, Spindler, Amelio, Jobs, Cook, Ternus\) ?) Tj
+T*
+() Tj
+T*
+(4. WHY ARE YOU LIKE THIS) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-25T16:44:01+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything) Tj
+T*
+(@scottjla on Twitter in reply to my pelican riding a bicycle benchmark: I feel like we need to) Tj
+T*
+(stack these tests now I checked to confirm that the model \(ChatGPT Images 2.0\) added the "WHY) Tj
+T*
+(ARE YOU LIKE THIS" sign of its own accord and it did - the prompt Scott used was: Create an) Tj
+T*
+(image of a horse riding an astronaut, where the astronaut is riding a pelican that is riding a) Tj
+T*
+(bicycle. It looks very chaotic but they all just manage to balance on top of each other Tags:) Tj
+T*
+(text-to-image , pelican-riding-a-bicycle , ai , generative-ai , slop , chatgpt) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4732 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(5. Quoting Romain Huet) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-25T12:06:55+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything) Tj
+T*
+(Since GPT-5.4, we?ve unified Codex and the main model into a single system, so there?s no) Tj
+T*
+(separate coding line anymore. GPT-5.5 takes this further, with strong gains in agentic coding,) Tj
+T*
+(computer use, and any task on a computer. ? Romain Huet , confirming OpenAI won't release a) Tj
+T*
+(GPT-5.5-Codex model Tags: generative-ai , gpt , openai , ai , llms) Tj
+T*
+() Tj
+T*
+(6. GPT-5.5 prompting guide) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-25T04:13:36+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything) Tj
+T*
+(GPT-5.5 prompting guide Now that GPT-5.5 is available in the API , OpenAI have released a) Tj
+T*
+(wealth of useful tips on how best to prompt the new model. Here's a neat trick they recommend) Tj
+T*
+(for applications that might spend considerable time thinking before returning a user-visible) Tj
+T*
+(response: Before any tool calls for a multi-step task, send a short user-visible update that) Tj
+T*
+(acknowledges the request and states the first step. Keep it to one or two sentences. I've) Tj
+T*
+(already noticed their Codex app doing this, and it does make longer running tasks feel less) Tj
+T*
+(like the model has crashed. OpenAI suggest running the following in Codex to upgrade your) Tj
+T*
+(existing code using advice embedded in their openai-docs skill: $openai-docs migrate this) Tj
+T*
+(project to gpt-5.5 The upgrade guide the coding agent will follow is this one , which even) Tj
+T*
+(includes light instructions on how to rewrite prompts to better fit the model. Also relevant is) Tj
+T*
+(the Using GPT-5.5 guide , which opens with this warning: To get the most out of GPT-5.5, treat) Tj
+T*
+(it as a new model family to tune for, not a drop-in replacement for gpt-5.2 or gpt-5.4 . Begin) Tj
+T*
+(migration with a fresh baseline instead of carrying over every instruction from an older p...) Tj
+T*
+() Tj
+T*
+(7. Pluralistic: Ada Palmer's "Inventing the Renaissance" \(25 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 25 Apr 2026 11:17:58) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/25/machiavellian/) Tj
+T*
+(Today's links Ada Palmer's "Inventing the Renaissance": A tour-de-force, a magnum opus, a work) Tj
+T*
+(of utter brilliance. Hey look at this: Delights to delectate. Object permanence: Gloating about) Tj
+T*
+(the dot-bomb; RIAA sues PC-less family; John Deere v infosec; Foxconn v Wisconsin; Copyfraud x) Tj
+T*
+(torturers' reputations; "Careless People." Upcoming appearances: London, Berlin, NYC,) Tj
+T*
+(Barcelona, Hay-on-Wye, London, NYC. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Ada Palmer's "Inventing the Renaissance" \(permalink\) Ada Palmer may) Tj
+T*
+(just be the most bewilderingly talented person I know: a genius sf writer, incredible) Tj
+T*
+(librettist and singer, wildly innovative educator, and a leading historian of the Renaissance,) Tj
+T*
+(and last year, she published her magnum opus, Inventing the Renaissance, a stunning book about) Tj
+T*
+(so much more than history: https://press.uchicago.edu/ucp/books/book/chicago/I/bo246135916.html) Tj
+T*
+(All of my friends seem to be writing their magnum opuses these days! When \(modern\) historian) Tj
+T*
+(Rick Perlstein and I did an event last year for my Enshittification tour, he told me he...) Tj
+T*
+() Tj
+T*
+(8. The Satisfaction of a ChatGPT Plan) Tj
+T*
+(Source: iDiallo.com | Published: Sat, 25 Apr 2026 17:44:16 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed) Tj
+T*
+(#NoFollowUpNecessary A couple weeks back, I was arguing that when people come up with ideas,) Tj
+T*
+(the satisfaction is in the telling , not in building. And I was making this statement generally) Tj
+T*
+(for idea sharing. But then, I also mentioned that people share their "ChatGPT plan" with me) Tj
+T*
+(now. Rather than sharing the idea, they share the business plan on how to achieve the idea,) Tj
+T*
+(entirely generated by AI. This resonated with several people who emailed me saying they have) Tj
+T*
+(experienced the same thing. So someone they know has an idea, rather than risk the potential) Tj
+T*
+(humiliation from being told their idea is bad, they share it with their favorite AI. Sycophancy) Tj
+T*
+(being the default behavior, their idea is always validated. Even if not, the AI might suggest) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4629 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(slight adjustment to the idea and make it valid. And at the end of a conversation with ChatGPT,) Tj
+T*
+(the LLM, trying to be helpful, will always ask something in the line of: "Do you want me to) Tj
+T*
+(create a step by step plan to achieve this?" The answer is always yes. Please tell me how I can) Tj
+T*
+(make millions off my unique idea, and give me the details... make no mistakes. The plan that) Tj
+T*
+(comes back is elaborate. You can even ask ChatGPT to expand on specific s...) Tj
+T*
+() Tj
+T*
+(9. What Do You Charge For?) Tj
+T*
+(Source: iDiallo.com | Published: Sat, 25 Apr 2026 05:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/what-do-you-charge-for?src=feed) Tj
+T*
+(I've written about my journey to learn how to charge a fair price for building a website) Tj
+T*
+(before. But even after landing on a strategy, there is still a question that remains) Tj
+T*
+(unanswered. What should I charge for? Are you charging the price for the product itself? As in,) Tj
+T*
+(the very cost for building a website? Or are you charging enough to make a living? This) Tj
+T*
+(question applies to any field, whether you are a consultant, a mechanic, or a private) Tj
+T*
+(chauffeur. I once worked with a company that built websites for non-profits. Their price tag?) Tj
+T*
+($35,000 for a standard WordPress site. Lucky for me, I got a first-hand view of their price) Tj
+T*
+(breakdown because they were trying to expand their reach to smaller customers. They needed to) Tj
+T*
+(figure out how to lower the price, so they invited me to the meeting. Every single person in) Tj
+T*
+(the room was involved in building the website. The standard time frame to complete it was 6) Tj
+T*
+(weeks. So, the manager named each person, their title and how much time they spend on the) Tj
+T*
+(project. There were the designers, the copy writers, the consultants that gathered the) Tj
+T*
+(information. There were the sales people who started the process, the 2 developers that) Tj
+T*
+(included me. Everyone at...) Tj
+T*
+() Tj
+T*
+(10. Closed-form solution to the nonlinear pendulum equation) Tj
+T*
+(Source: John D. Cook | Published: Sat, 25 Apr 2026 16:16:12 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/) Tj
+T*
+(The previous post looks at the nonlinear pendulum equation and what difference it makes to the) Tj
+T*
+(solutions if you linearize the equation. If the initial displacement is small enough, you can) Tj
+T*
+(simply replace sin ? with ?. If the initial displacement is larger, you can improve the) Tj
+T*
+(accuracy quite a bit by solving the linearized [?] The post Closed-form solution to the) Tj
+T*
+(nonlinear pendulum equation first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. nth derivative of a quotient) Tj
+T*
+(Source: John D. Cook | Published: Sat, 25 Apr 2026 13:12:39 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/) Tj
+T*
+(There?s a nice formula for the nth derivative of a product. It looks a lot like the binomial) Tj
+T*
+(theorem. There is also a formula for the nth derivative of a quotient, but it?s more) Tj
+T*
+(complicated and less known. We start by writing the quotient rule in an unusual way. Applying) Tj
+T*
+(the quotient rule twice gives the following. [?] The post nth derivative of a quotient first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Our backup MX server was easy to build, but yours might not be) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-25T02:41:54Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurEasyBackupMXAndWhy) Tj
+T*
+(I recently mentioned that we'd built a backup MX server due to concerns prompted by a scheduled) Tj
+T*
+(power outage . In a comment on that entry, Greg A. Woods said something that I broadly agree) Tj
+T*
+(with: I think backup MX hosts are, generally speaking, a bad idea in modern times \(even going) Tj
+T*
+(back a couple of decades\). [...] The added maintenance overhead and headache of keeping a) Tj
+T*
+(full-time backup MX host running and reliably forwarding ALL email it collects, and reliably) Tj
+T*
+(rejecting all email it should reject, isn't usually worth the bother. One reason that we) Tj
+T*
+(implemented a backup MX is that this isn't our experience. Our backup MX was easy to build and) Tj
+T*
+(is essentially trivial to keep in reliable operation. However, this isn't because we have some) Tj
+T*
+(special trick to running backup MXes; instead, it's because we have a general mail architecture) Tj
+T*
+(that enables it. Many, many years ago we moved from a mail architecture that was essentially) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4337 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(monolithic to one that had an external MX gateway that was stuck in front of our central mail) Tj
+T*
+(server. This transition involved creating what I call a 'white-box' mailer environment , where) Tj
+T*
+(knowledge of things like valid local addresses and domains was materialized...) Tj
+T*
+() Tj
+T*
+(13. Reading List 04/25/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 25 Apr 2026 14:16:17 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-042526) Tj
+T*
+(Transformer steel manufacturing, textile engineering, bringing power plants online quickly,) Tj
+T*
+(infrasound, and more.) Tj
+T*
+() Tj
+T*
+(14. You can parse an .env file as an .ini with PHP - but there's a catch) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 25 Apr 2026 11:34:15 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-) Tj
+T*
+(a-catch/) Tj
+T*
+(The humble .env file is a useful and low-tech way of storing persistent environment variables.) Tj
+T*
+(Drop the file on your server and let your PHP scripts consume it with glee. But consume it how?) Tj
+T*
+(There are lots of excellent parsing libraries for PHP. But isn't there a simpler way? Yes! You) Tj
+T*
+(can use PHP's parse_ini_file\(\) function and it works. But? .env and .ini have subtly different) Tj
+T*
+(behaviour which ?) Tj
+T*
+() Tj
+T*
+(15. A Mutating AI Powered Virus) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-04-25T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/04/25/a-mutating-virus.html) Tj
+T*
+(Moravec?s paradox is alive and well. Computers are proceeding through tasks in a reverse order) Tj
+T*
+(to humans. They first learned to do calculations and win at board games, then they learned to) Tj
+T*
+(write and talk, and now they are learning to move. Opposite of animals. At the bottom of the) Tj
+T*
+(funnel is the first thing life learned to do. Reproduce. Self reproduction of silicon machines) Tj
+T*
+(is the holy grail. Machines that will continue on living without us. Because today, if all the) Tj
+T*
+(humans died, all the machines are dead shortly after. They cannot maintain their complexity,) Tj
+T*
+(they can?t fight back against entropy. They can?t fix the power plants when they fail, never) Tj
+T*
+(mind operating the fabs and global supply chains needed to build more machines. If the reverse) Tj
+T*
+(order continues, before we get to self reproducing silicon stack life, we will get viruses.) Tj
+T*
+(Viruses are not alive, they hijack the machinery of things that are alive. But they reproduce,) Tj
+T*
+(they mutate, and they display stunning amounts of complexity. You can almost see it today. A) Tj
+T*
+(Qwen 3.6 27B running on a laptop in the back of a coffee shop with a prompt that tells it to) Tj
+T*
+(live. The prompt explains the other computers on the network and how you...) Tj
+T*
+() Tj
+T*
+(16. Corona Newsflash: Help, stijging! En: kinderen vaccineren?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 05 Jul 2021 21:30:13 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-newsflash/) Tj
+T*
+(Een extra update, twee weken na de vorige, want er is al weer voldoende te vertellen. Deze keer) Tj
+T*
+(weer een aantal vragen op verzoek: De cijfers stijgen ineens heel hard, wat betekent dat? Is) Tj
+T*
+(het veilig om naar evenementen te gaan? Zou mijn dochter/zoon zich moeten laten vaccineren?) Tj
+T*
+(Werken de vaccins nog wel? Wat de f is er aan de hand met de cijfers ineens Goeie vraag. Ze) Tj
+T*
+(gaan omhoog en hard ook.) Tj
+T*
+() Tj
+T*
+(17. Eneco: moet dit nou? \(update!\)) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 02 Jul 2021 20:45:37 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/eneco-moet-dit-nou/) Tj
+T*
+(UPDATE: Zoals gezegd had ik Eneco om een reactie gevraagd en die is gekomen. In het kort, Eneco) Tj
+T*
+(vertelt me dat de website een onjuiste weergave van zaken gaf. De teksten zullen aangepast) Tj
+T*
+(worden. Het niet instemmen met ieder kwartier meten & analyse van gebruik zal geen effect) Tj
+T*
+(hebben op het automatisch doorgeven van meterstanden voor de rekening en het online overzicht.) Tj
+T*
+(Wel is het dan zo dat de Eneco App minder inzicht kan verschaffen zonder ieder kwartier verse) Tj
+T*
+(data, maar dat is natuurlijk niet anders.) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 753 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(18. Tracking-free audience statistics) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 27 Jun 2021 13:46:27 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/tracking-free-audience-statistics/) Tj
+T*
+(As regular readers of this blog will know, I am no friend of the surveillance capitalism that) Tj
+T*
+(currently powers the web. It is becoming well-neigh impossible to develop any software or host) Tj
+T*
+(any content without some component tracking your users & sending data to third parties. Even) Tj
+T*
+(though I try very hard not to fall for this, periodically I discover that my sites also embed) Tj
+T*
+(things that embed things that potentially leak your details to third parties.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004666 00000 n 
+0000004792 00000 n 
+0000009576 00000 n 
+0000009702 00000 n 
+0000014383 00000 n 
+0000014509 00000 n 
+0000018899 00000 n 
+0000019027 00000 n 
+0000019832 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+19960
+%%EOF
