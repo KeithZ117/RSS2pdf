@@ -1,0 +1,378 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4290 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-27 09:40:05) Tj
+T*
+() Tj
+T*
+(1. Millisecond Converter) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-24T04:23:11+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/24/milliseconds/#atom-everything) Tj
+T*
+(Tool: Millisecond Converter LLM reports prompt durations in milliseconds and I got fed up of) Tj
+T*
+(having to think about how to convert those to seconds and minutes. Tags: tools) Tj
+T*
+() Tj
+T*
+(2. It's a big one) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-24T04:09:54+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/24/weekly/#atom-everything) Tj
+T*
+(This week's edition of my email newsletter \(aka content from this blog delivered to your inbox\)) Tj
+T*
+(features 4 pelicans riding bicycles, 1 possum on an e-scooter, up to 5 raccoons with ham radios) Tj
+T*
+(hiding in crowds, 5 blog posts, 8 links, 3 quotes and a new chapter of my Agentic Engineering) Tj
+T*
+(Patterns guide. Tags: newsletter) Tj
+T*
+() Tj
+T*
+(3. russellromney/honker) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-24T01:50:07+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/24/honker/#atom-everything) Tj
+T*
+(russellromney/honker "Postgres NOTIFY/LISTEN semantics" for SQLite, implemented as a Rust) Tj
+T*
+(SQLite extension and various language bindings to help make use of it. The design of this looks) Tj
+T*
+(very solid. It lets you write Python code for queues that looks like this: import honker db =) Tj
+T*
+(honker . open \( "app.db" \) emails = db . queue \( "emails" \) emails . enqueue \({ "to" :) Tj
+T*
+("alice@example.com" }\) # Consume \(in a worker process\) async for job in emails . claim \() Tj
+T*
+("worker-1" \): send \( job . payload \) job . ack \(\) And Kafka-style durable streams like this:) Tj
+T*
+(stream = db . stream \( "user-events" \) with db . transaction \(\) as tx : tx . execute \( "UPDATE) Tj
+T*
+(users SET name=? WHERE id=?" , [ name , uid ]\) stream . publish \({ "user_id" : uid , "change" :) Tj
+T*
+("name" }, tx = tx \) async for event in stream . subscribe \( consumer = "dashboard" \): await) Tj
+T*
+(push_to_browser \( event \) It also adds 20+ custom SQL functions including these two: SELECT) Tj
+T*
+(notify\( ' orders ' , ' {"id":42} ' \); SELECT honker_stream_read_since\( ' orders ' , 0 , 1000 \);) Tj
+T*
+(The extension requires WAL mode, and workers can poll the .db-wal file with a stat call every) Tj
+T*
+(1ms to get as close to real-time as possible without the expense of running a full SQ...) Tj
+T*
+() Tj
+T*
+(4. DF Paraphernalia: Last Call for This Round of T-Shirts and Hoodies) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-26T19:30:00Z) Tj
+T*
+(Link: https://store.daringfireball.net/) Tj
+T*
+(It?s really just a coincidence, but it was 20 years ago this week that I went full-time writing) Tj
+T*
+(Daring Fireball \(after writing the site in my spare time for 4 years\). That feels like a long) Tj
+T*
+(time ago. But it feels like yesterday, too. In my announcement, I wrote : Daring Fireball is) Tj
+T*
+(what I love to do. That remains as true today than it was then. Whether you?re a longtime) Tj
+T*
+(reader or a relatively new one, you might enjoy reading that piece from 20 years ago. So far,) Tj
+T*
+(so good. \(I?ve got some readers who were only small children when I wrote that. I occasionally) Tj
+T*
+(hear from some who weren?t even born then.\) There might be other ways you can support my work) Tj
+T*
+(directly in the future. But for now, the best way is to buy t-shirts and hoodies from my) Tj
+T*
+(periodic sales. The current sale is going to end sometime tomorrow. If you?re seeing this post) Tj
+T*
+(Sunday night and thinking about making a purchase, act now . If you?re seeing this Monday) Tj
+T*
+(morning, you should really act now. ?) Tj
+T*
+() Tj
+T*
+(5. ? The New York Times Printed the Wrong Crossword Grid Last Sunday, and I Find That) Tj
+T*
+(Timing Serendipitous) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-26T19:28:59Z) Tj
+T*
+(Link: https://daringfireball.net/2026/04/nyt_wrong_crossword_grid) Tj
+T*
+(Software brain says *Go faster; do more; the only mistake you can?t fix is having gone too) Tj
+T*
+(slow.* Hardware brain says *Slow down; do less; focus; strive for perfection and never settle) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4836 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(for less than excellence; mistakes are forever.*) Tj
+T*
+() Tj
+T*
+(6. Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming) Tj
+T*
+(RAM Crisis) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-26T17:39:40Z) Tj
+T*
+(Link: https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile) Tj
+T*
+(-division-loss-in-ram-crisis-report/) Tj
+T*
+(Ben Schoon, 9to5Google: In March, a report revealed some of the internal cuts Samsung has been) Tj
+T*
+(making for its mobile division, with the company initially concerned it could post an operating) Tj
+T*
+(loss for the first time ever. It?s a big deal, as Samsung?s mobile \(MX\) division has) Tj
+T*
+(historically always turned a profit. A new report out of Korea \(via Jukan \) makes this seem all) Tj
+T*
+(but certain. Apparently, Samsung?s TM Roh, the head of the company?s mobile division, has) Tj
+T*
+(expressed concerns of the ?possibility of an annual deficit for the MX business unit.?) Tj
+T*
+(Previously, those concerns came from speculation and outside parties, but with such a high) Tj
+T*
+(figure in Samsung?s organization worried, it?s clear things are looking pretty bleak. Back in) Tj
+T*
+(2013 analysts pegged the profit share of the handset industry at 70 percent for Apple and 30) Tj
+T*
+(percent for Samsung. A lot of other smaller companies sold a lot of other phones, but, so that) Tj
+T*
+(analysis went, none of them made any profits. A lot of them were losing money. I linked to) Tj
+T*
+(another such analysis in 2016 that pegged Apple?s share of phone profits at 104 percent,) Tj
+T*
+(estimating that all other handset makers combined accounted for a 4% percent loss. Doesn?t seem) Tj
+T*
+(l...) Tj
+T*
+() Tj
+T*
+(7. Understanding the Ubuntu server installer initramfs) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-26T02:49:11Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerInstallerInitramfs) Tj
+T*
+(I recently wrote about all of the various steps of a UEFI network install , where you have a) Tj
+T*
+(whole collection of DHCP, GRUB fetching things via TFTP and HTTP, and so on, all to boot into) Tj
+T*
+(your Ubuntu server install ISO image. Specifically, all of the GRUB stuff and much of the) Tj
+T*
+(complicated DHCP stuff is there because we have to load the installer's kernel and initial) Tj
+T*
+(ramdisk. Our primary usage for UEFI network installs is to reinstall physical servers that are) Tj
+T*
+(now in inconvenient locations, so eventually it occurred to me that if we already have running) Tj
+T*
+(Linux systems, there are simpler ways to boot into a specific kernel and initramfs with) Tj
+T*
+(specific command line arguments. One way is to add new GRUB boot entries, and another way is) Tj
+T*
+(kexec . If we're already using a local kernel and initramfs, it might be convenient to get rid) Tj
+T*
+(of the need for a DHCP server too, by copying the network parameters from the currently running) Tj
+T*
+(server and embedding them in both the kernel boot parameters and, more importantly, the) Tj
+T*
+(cloud-init files that the installer will use. To do this, we need to embed the cloud-init files) Tj
+T*
+(in the initramfs \(and then point to them with 'ds=nocloud;s=/whatever' in the kernel...) Tj
+T*
+() Tj
+T*
+(8. How Bitwarden Encrypts and Decrypts Secrets) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Sun, 26 Apr 2026 14:05:41 GMT) Tj
+T*
+(Link: https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets) Tj
+T*
+(As part of my efforts in reducing my dependency on Big Tech, I have been researching how to) Tj
+T*
+(self-host my password manager. One solution that looks very promising is Vaultwarden , an open) Tj
+T*
+(source clone of the Bitwarden cloud server. An interesting aspect of this server is that it) Tj
+T*
+(stores all the secrets in a standard SQLite database, so in addition to having the self-hosted) Tj
+T*
+(password server I could keep a backup copy of the database on my machine and query it directly.) Tj
+T*
+(But of course, the secrets are encrypted in this database, so they are useless unless I learn) Tj
+T*
+(how to decrypt them, similar to how the Bitwarden clients do it. Speaking of the Bitwarden) Tj
+T*
+(clients, while I was writing this article it came out that the official Bitwarden CLI client) Tj
+T*
+(was compromised in a supply chain attack. This is a tool that I personally use and have on all) Tj
+T*
+(my computers, so this feels like a wake up call to me. Luckily I did not install the) Tj
+T*
+(compromised version myself, but I think there is an argument to be made about rolling your own) Tj
+T*
+(secret management client instead of relying on the one all the hackers are after! In this) Tj
+T*
+(article I'll share how the encryption of secrets works in Bitwarden and its Vaultwarde...) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3764 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(9. voice modems) Tj
+T*
+(Source: computers are bad | Published: 26 Apr 2026 00:00:00 UT) Tj
+T*
+(Link: https://computer.rip/2026-04-26-voice-modems.html) Tj
+T*
+(If you've done much with modern cellphones, you've probably noticed just how odd the) Tj
+T*
+(architecture can be around audio. Specifically, I mean call audio: modern smartphones have made) Tj
+T*
+(call audio less of a special case \(mostly by just becoming more complicated in general\), but in) Tj
+T*
+(older phones you would often find arrangements where the cellular modem 1 had direct analog) Tj
+T*
+(audio to the microphone and speaker, perhaps via some switching to share amplifiers. That) Tj
+T*
+(design meant that the cellular modem functioned basically as a completely independent device, a) Tj
+T*
+(fully-capable "cellular phone" with the ability to make and receive voice calls. The role of) Tj
+T*
+(the rest of the smartphone, and its operating system, was just to provide control messages for) Tj
+T*
+(starting and ending calls. In modern phones the audio path to and from the modem is digital and) Tj
+T*
+(it's more integrated into the operating system audio service, but still not fully. You might) Tj
+T*
+(have noticed, for example, that it is excessively difficult to record call audio on most) Tj
+T*
+(phones. Regulatory and liability pressures are one reason for this, but another is that it's) Tj
+T*
+(actually kind of difficult: there may not be any physical way for software running on...) Tj
+T*
+() Tj
+T*
+(10. Corona: Delta Update) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 22 Jun 2021 09:00:45 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-delta-update/) Tj
+T*
+(In de vorige Corona update eind mei schreef ik over ?delta?, toen nog bekend als de Indiase) Tj
+T*
+(variant: Het is helaas te vroeg om nu een eindoordeel te vellen over deze variant. Wat we wel) Tj
+T*
+(weten is dat in de UK de vaccins prima standhouden - de overgrote meerderheid van de mensen in) Tj
+T*
+(het ziekenhuis is ongevaccineerd. Dit is nog steeds waar. Toch weten we nu een stuk meer.) Tj
+T*
+() Tj
+T*
+(11. Help, My Sin Is Slow and My FPU is Inaccurate) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 19 Jun 2021 14:53:25 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/help-my-sin-is-slow-and-my-fpu-is-inaccurate/) Tj
+T*
+(Afer 8 years, I have updated this this post for 2021-era Linux \(and also to fix bitrotted) Tj
+T*
+(links\). I am extremely joyful to report that the \(hard\) problem from 2013 appears to have been) Tj
+T*
+(solved! There is a small addendum at the end to reflect this happy news. Back in 2013, I) Tj
+T*
+(started writing code to do a simulation of biological system, and I got stuck after 20 lines.) Tj
+T*
+(My test code tried to go through a million time steps doing basically nothing, and it was) Tj
+T*
+(taking a minute to do it.) Tj
+T*
+() Tj
+T*
+(12. Europe's Software Problem) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 15 Jun 2021 09:56:07 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/europes-software-problem/) Tj
+T*
+(This article is part of a series on \(European\) innovation and capabilities. Europe?s) Tj
+T*
+(communication needs are currently almost exclusively delivered by Chinese hardware that) Tj
+T*
+(connects us to US-based platforms. For a variety of reasons, this is not a good idea. As stated) Tj
+T*
+(recently by Charles Michel, President of the European Council, ?Interdependence is natural,) Tj
+T*
+(even desirable. Over-dependence, however, is not?. Photo by Sara Kurfeﬂ on Unsplash At the) Tj
+T*
+(core, the problem is that almost no consumer-oriented platforms or software products are being) Tj
+T*
+(created in Europe, or more precisely, by European companies.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004545 00000 n 
+0000004671 00000 n 
+0000009559 00000 n 
+0000009685 00000 n 
+0000013501 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+13627
+%%EOF
