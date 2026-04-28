@@ -1,0 +1,576 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4672 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-28 09:39:57) Tj
+T*
+() Tj
+T*
+(1. microsoft/VibeVoice) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-27T23:46:56+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything) Tj
+T*
+(microsoft/VibeVoice VibeVoice is Microsoft's Whisper-style audio model for speech-to-text, MIT) Tj
+T*
+(licensed and with speaker diarization built into the model. Microsoft released it on January) Tj
+T*
+(21st, 2026 but I hadn't tried it until today. Here's a one-liner to run it on a Mac with uv ,) Tj
+T*
+(mlx-audio \(by Prince Canuma\) and the 5.71GB mlx-community/VibeVoice-ASR-4bit MLX conversion of) Tj
+T*
+(the 17.3GB VibeVoice-ASR model, in this case against a downloaded copy of my recent podcast) Tj
+T*
+(appearance with Lenny Rachitsky : uv run --with mlx-audio mlx_audio.stt.generate \\ --model) Tj
+T*
+(mlx-community/VibeVoice-ASR-4bit \\ --audio lenny.mp3 --output-path lenny \\ --format json) Tj
+T*
+(--verbose --max-tokens 32768 The tool reported back: Processing time: 524.79 seconds Prompt:) Tj
+T*
+(26615 tokens, 50.718 tokens-per-sec Generation: 20248 tokens, 38.585 tokens-per-sec Peak) Tj
+T*
+(memory: 30.44 GB So that's 8 minutes 45 seconds for an hour of audio \(running on a 128GB M5 Max) Tj
+T*
+(MacBook Pro\). I've tested it against .wav and .mp3 files and they both worked fine. If you omit) Tj
+T*
+(--max-tokens it defaults to 8192, which is enough for about 25 minutes of audio. I discovered) Tj
+T*
+(that through trial-and-error and quadrupled it to guarantee I'd get the full hour....) Tj
+T*
+() Tj
+T*
+(2. Tracking the history of the now-deceased OpenAI Microsoft AGI clause) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-27T18:38:17+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything) Tj
+T*
+(For many years, Microsoft and OpenAI's relationship has included a weird clause saying that,) Tj
+T*
+(should AGI be achieved, Microsoft's commercial IP rights to OpenAI's technology would be null) Tj
+T*
+(and void. That clause appeared to end today. I decided to try and track its expression over) Tj
+T*
+(time on openai.com . OpenAI, July 22nd 2019 in Microsoft invests in and partners with OpenAI to) Tj
+T*
+(support us building beneficial AGI \(emphasis mine\): OpenAI is producing a sequence of) Tj
+T*
+(increasingly powerful AI technologies, which requires a lot of capital for computational power.) Tj
+T*
+(The most obvious way to cover costs is to build a product, but that would mean changing our) Tj
+T*
+(focus. Instead, we intend to license some of our pre-AGI technologies , with Microsoft becoming) Tj
+T*
+(our preferred partner for commercializing them. But what is AGI? The OpenAI Charter was first) Tj
+T*
+(published in April 2018 and has remained unchanged at least since this March 11th 2019) Tj
+T*
+(archive.org capture : OpenAI?s mission is to ensure that artificial general intelligence) Tj
+T*
+(\(AGI\)?by which we mean highly autonomous systems that outperform humans at most economically) Tj
+T*
+(valuable work?benefits all of humanity. Here's the problem: if you're going to sign an agre...) Tj
+T*
+() Tj
+T*
+(3. Speech translation in Google Meet is now rolling out to mobile devices) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-27T17:37:47+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-ou) Tj
+T*
+(t-to-mobile-d/#atom-everything) Tj
+T*
+(Speech translation in Google Meet is now rolling out to mobile devices I just encountered this) Tj
+T*
+(feature via a "try this out now" prompt in a Google Meet meeting. It kind-of worked! This is) Tj
+T*
+(Google's implementation of the ultimate sci-fi translation app, where two people can talk to) Tj
+T*
+(each other in two separate languages and Meet translates from one to the other and - with a) Tj
+T*
+(short delay - repeats the text in your preferred language, with a rough imitation of the) Tj
+T*
+(original speaker's voice. It can only handle English, Spanish, French, German, Portuguese, and) Tj
+T*
+(Italian at the moment. It's also still very alpha - I ran it successfully between two laptops) Tj
+T*
+(running web browsers, but then when I tried between an iPhone and an iPad it didn't seem to) Tj
+T*
+(work. Tags: google , translation) Tj
+T*
+() Tj
+T*
+(4. Don't use localhost:3000, use your own custom domain) Tj
+T*
+(Source: iDiallo.com | Published: Mon, 27 Apr 2026 23:17:54 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed) Tj
+T*
+(After presenting a demo of how an internal tool works, I was flooded with questions. Not about) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4742 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(the tool, but about why I had bought a domain just to run the demo. "Why didn't you use the) Tj
+T*
+(staging server?" they asked. I was confused. I didn't buy a domain. I was running it locally.) Tj
+T*
+(But instead of the URL being localhost:3002 , it was a fully formed domain.) Tj
+T*
+(www.internaltool.com . In fact, some people told me that they couldn't access the website on) Tj
+T*
+(their devices. They thought I had to whitelist their IP to grant them access. To feel young) Tj
+T*
+(again... Setting up a custom domain locally was common practice when I started web programming.) Tj
+T*
+(But with the advent of Node.js \(and rails?\), everyone has resorted to just pointing to) Tj
+T*
+(localhost with an incrementing port number. The main reason is that the webserver is often) Tj
+T*
+(bundled into the application itself. It?s easy to just run npm start and call it a day.) Tj
+T*
+(However, if you have multiple long-term projects running locally, especially if they need to) Tj
+T*
+(communicate with one another, then managing a mental map of ports like 3000 , 8080 , and 5173) Tj
+T*
+(quickly gets tiring. This is where my old school approach shines. By combining the system hosts) Tj
+T*
+(file with a...) Tj
+T*
+() Tj
+T*
+(5. Rec League) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-28T00:48:30Z) Tj
+T*
+(Link: https://recleague.com/?lyr_campaign=df) Tj
+T*
+(My thanks to Rec League for sponsoring last week at DF. Rec League is a new app/social network) Tj
+T*
+(for sharing what you?re into. \(Get it? The ?rec? in ?Rec League? is for recommendations. It?s a) Tj
+T*
+(damn clever name, and sometimes a clever name is half the battle.\) It?s really well done, with) Tj
+T*
+(a great simple brand aesthetic and obvious navigation and mechanics. You can easily use Rec) Tj
+T*
+(League just to catalog your own collections: restaurants, books, movies, gadgets, whatever. The) Tj
+T*
+(social aspects are totally low key. You find people whose taste you dig and you follow them.) Tj
+T*
+(When you see something you like you can favorite or just save it. That?s it. It?s an old-school) Tj
+T*
+(social network where the point is just fun and surprise and sharing. Rec League was featured as) Tj
+T*
+(the ?Best New App? in the App Store, and one of their users called it ?the only social media I) Tj
+T*
+(feel better after using?, which feels like a perfect description. It?s just cool people) Tj
+T*
+(recommending things they think are cool. I?ve already bought some stuff and added some movies) Tj
+T*
+(to my watch list from using it, and I?ve started a little list of restaurants I recommend in) Tj
+T*
+(Philadelphia. Download Rec League and check it out . I, uh, recommend...) Tj
+T*
+() Tj
+T*
+(6. Sponsor The Talk Show) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-27T23:42:25Z) Tj
+T*
+(Link: https://daringfireball.net/feeds/sponsors/) Tj
+T*
+(Weekly ?sponsor the whole week at DF? spots are sold out until August 24 . That?s a great sign) Tj
+T*
+(that sponsorships here work. But it?s not so great if you have a product or service that you?d) Tj
+T*
+(like to promote now, or soon, to the DF audience ? savvy listeners and readers obsessed with) Tj
+T*
+(high quality and good design. The good news on that front is that the sponsorship schedule for) Tj
+T*
+(The Talk Show has openings, including for the next few episodes, starting this week and into) Tj
+T*
+(next month. The general rule of thumb is that sponsorship spots on The Talk Show cost one-third) Tj
+T*
+(the rate for the weekly spots on DF. I?m happy to work out deals a little lower than that for) Tj
+T*
+(first-time sponsors. If you?ve got a product or service you?d like to hear pitched on America?s) Tj
+T*
+(favorite three-star podcast, get in touch . ?) Tj
+T*
+() Tj
+T*
+(7. Yours Truly on The Vergecast) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-27T18:46:32Z) Tj
+T*
+(Link: https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition) Tj
+T*
+(David Pierce: On this episode of The Vergecast , David and Nilay are joined by Daring Fireball) Tj
+T*
+(?s John Gruber to talk about their reactions to the news, the \( mostly \) smooth transition) Tj
+T*
+(Apple seems to have pulled off, and what we should really make of Tim Cook?s legacy as a) Tj
+T*
+(product person . Really, the question is: Do we blame Cook for the Touch Bar, or do we blame) Tj
+T*
+(him for not trying hard enough to make the Touch Bar great? I know that sounds like a joke but) Tj
+T*
+(I really do think the biggest problem with the Touch Bar wasn?t that the first crack at it) Tj
+T*
+(wasn?t good enough, but that they never took a second crack at it. Going back to dumb fiddly) Tj
+T*
+(F-keys with functional icons printed on them was uncharacteristically lazy for Apple. ?) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4604 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(8. Looking at consequences of passing too few register parameters to a C function on) Tj
+T*
+(various architectures) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 27 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271) Tj
+T*
+(It's bad news no matter how you slice it, but Itanium makes it even worse. The post Looking at) Tj
+T*
+(consequences of passing too few register parameters to a C function on various architectures) Tj
+T*
+(appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Pluralistic: The enshittification multiverse \(27 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 27 Apr 2026 08:39:48) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/27/analogs-and-analogies/) Tj
+T*
+(Today's links The enshittification multiverse: It's a useful analogy. Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: Every complex ecosystem has parasites; Prison for) Tj
+T*
+("attempted infringement"; When We Were Robots in Egypt; Golfing in The Blitz; Copyright vs) Tj
+T*
+(privacy \(NZ edn\); GOP support for pedophile Hastert; EFF's music license; RIP Jane Jacobs;) Tj
+T*
+(California is fanfic; DMCA v medical implants; "Burglar's Guide to the City"; Flaming river;) Tj
+T*
+(Fantasy accounting. Upcoming appearances: Berlin, NYC, Barcelona, Hay-on-Wye, London, NYC.) Tj
+T*
+(Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The) Tj
+T*
+(enshittification multiverse \(permalink\) It's official: you have my consent and enthusiastic) Tj
+T*
+(blessing to apply "enshittification" to things that aren't digital platforms! Semantic drift is) Tj
+T*
+(good, actually:) Tj
+T*
+(https://pluralistic.net/2024/10/14/pearl-clutching/#this-toilet-has-no-central-nervous-system) Tj
+T*
+(With that out of the way, let's talk about how enshittification can be usefully applied to) Tj
+T*
+(gambits that worsen something in order to shift value from the users of that thing to the...) Tj
+T*
+() Tj
+T*
+(10. Browsers, OCSP, and a view of the web in practice) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-27T03:43:20Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndWhoCanChange) Tj
+T*
+(I recently read Geoff Huston's Revocation of X.509 certificates , which in part talks about) Tj
+T*
+(OCSP 's failure. One of the pragmatic reasons for OCSP being dead is that Chrome dropped) Tj
+T*
+(support for it more than a decade ago. Specifically, Chrome's replacement for certificate) Tj
+T*
+(revocation was for Chrome to have an internal set of revoked certificates . Recently, Firefox) Tj
+T*
+(has adopted a similar approach \(with a different technical implementation\). One of my views of) Tj
+T*
+(this is that it shows browsers recognizing and accepting that if they want something, they have) Tj
+T*
+(to do it themselves and they can't rely on the behavior of outside parties, especially the) Tj
+T*
+(behavior of a lot of outside parties. Another way to put it is that browsers can change) Tj
+T*
+(themselves to get something done but they often have a hard time getting other people to change) Tj
+T*
+(. OCSP had two groups of outside parties; Certificate Authorities for direct CA OCSP checks,) Tj
+T*
+(and web servers for OCSP stapling, and in the end browsers clearly couldn't rely on either) Tj
+T*
+(group. In my own experience, direct use of CA OCSP checks by Firefox failed so often because of) Tj
+T*
+(problems with CA OCSP servers that turning it off was my first reaction any time I ran i...) Tj
+T*
+() Tj
+T*
+(11. The stages of package installation) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-04-27T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/04/27/the-stages-of-package-installation.html) Tj
+T*
+(Suppose, hypothetically, that someone had been spending their evenings reimplementing bits of) Tj
+T*
+(several package managers from scratch, not to ship anything but as a test bed for swapping) Tj
+T*
+(different resolvers, index formats, and registry APIs in and out to see what actually changes.) Tj
+T*
+(One of the first things such a person would want is a clean decomposition of the install) Tj
+T*
+(command into stages with well-defined inputs and outputs, so that each stage can be replaced) Tj
+T*
+(independently and so that it?s obvious which parts need the network, which parts run untrusted) Tj
+T*
+(code, and which parts are pure functions over data you already have. 1. Fetching metadata The) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4544 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(package manager talks to one or more registries to discover what exists: package names, the) Tj
+T*
+(list of versions available for each, and the dependency constraints each version declares on) Tj
+T*
+(other packages. This might be one big index file pulled down in a single request, as with a) Tj
+T*
+(Packagist packages.json , RubyGems? compact index , or a crates.io index clone, or it might be) Tj
+T*
+(per-package documents fetched on demand from something like the npm registry or PyPI?s JSON) Tj
+T*
+(API. Either way, the only thing this stage needs is outbound network access to a kno...) Tj
+T*
+() Tj
+T*
+(12. Theatre Review: Hadestown ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 27 Apr 2026 11:34:27 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/theatre-review-hadestown/) Tj
+T*
+(Anai?s Mitchell has created something magical. I felt like giving a standing ovation after) Tj
+T*
+(every song. Just pure theatrical joy delivered by a cast who know how to squeeze every drop of) Tj
+T*
+(emotion from an audience. Perhaps it was sitting right at the front of the stalls, but the) Tj
+T*
+(opening of Hadestown feels like dinner theatre; almost cosy in its intimacy. The first act is) Tj
+T*
+(so busy - there are a ?) Tj
+T*
+() Tj
+T*
+(13. The Loop: everything has happened before, and everything will happen again) Tj
+T*
+(Source: Westenberg. | Published: Mon, 27 Apr 2026 22:38:38 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-wil) Tj
+T*
+(l-happen-again/) Tj
+T*
+(We keep replaying the same human mistakes -bubbles, strongmen, scapegoats, and panics -because) Tj
+T*
+(the operating system in our skulls hasn?t updated in ten thousand years.) Tj
+T*
+() Tj
+T*
+(14. What I've been thinking about this weekend - More open questions, intelligence vs) Tj
+T*
+(power, the problem of verification in science, the parallel discovery of Darwinism) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Mon, 27 Apr 2026 13:51:32 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/what-ive-been-thinking-april-27) Tj
+T*
+(Hodge podge of things I was thinking about this weekend.) Tj
+T*
+() Tj
+T*
+(15. Collective Speed Is Not the Summation of Individual Speed) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 26 Apr 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/) Tj
+T*
+(I?ve been thinking about speed which is why Chris Coyier caught my attention in his latest) Tj
+T*
+(piece discussing how AI might be 10?ing the speed with which we code, but it?s not making our) Tj
+T*
+(software 10? better: Faster individuals don?t make a fast company My mind immediately went to) Tj
+T*
+(the 4?100 relay at the Olympics. \(Not sure which race that is? Watch the London 2012 one .\)) Tj
+T*
+(Imagine you were put in charge of winning the 4?100 relay. All you gotta do is find the four) Tj
+T*
+(faster sprinters in your country ? right? I?m no track and field expert, but I doubt it?s that) Tj
+T*
+(simple. In a relay race, the baton is arguably the most critical element. Passing it cleanly is) Tj
+T*
+(vital because if you fumble it you?re easily behind a few meters or maybe even disqualified.) Tj
+T*
+(So, one could argue, a sprinter?s ability to pass and receive the baton is more important than) Tj
+T*
+(speed because all the speed in the world won?t help you overcome a dropped baton. \(There are) Tj
+T*
+(other considerations too, like which leg each runner takes, which sequence works best given) Tj
+T*
+(individual pairings and rapport, and whether a slower veteran might perform better in the heat) Tj
+T*
+(of the moment.\) Faster runners won?t guarantee a faster team. And faster cod...) Tj
+T*
+() Tj
+T*
+(16. Recensie: Een spoor van vernieuwing, door Arthur Docters van Leeuwen en Lars Kuipers) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 14 Jun 2021 08:47:36 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/recensie-een-spoor-van-vernieuwing-arthur-docters-van-l) Tj
+T*
+(eeuwen/) Tj
+T*
+(Reeds vorig jaar verschenen, maar zonder de aandacht gekregen te hebben die dit boek verdient.) Tj
+T*
+(Uitgeverij Prometheus, 460 pagina?s. bol.com, amazon.nl & kindle ?Een spoor van vernieuwing?) Tj
+T*
+(laat zich lezen als memoires van een markante topambtenaar, maar ook als een interessante) Tj
+T*
+(geschiedenis van de ontwikkeling van de rampenbestrijding, de inrichting van de politie en de) Tj
+T*
+(opsporing, de BVD \(voorloper AIVD\) en de oprichting en ontwikkeling van wat we nu kennen als de) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1586 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(AFM.) Tj
+T*
+() Tj
+T*
+(17. Practical Reed-Solomon for Programmers) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 13 Jun 2021 06:38:15 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/reed-solomon-for-programmers/) Tj
+T*
+(Recently I was doing some work decoding the new Galileo High Accuracy Service data. In short,) Tj
+T*
+(this new service will allow Galileo \(?European GPS?\) users to achieve decimeter-level accuracy,) Tj
+T*
+(which is nice. This ?HAS? data is transmitted highly redundantly by making good use of) Tj
+T*
+(Reed-Solomon encoding. To work with this data, I attempted to learn more about Reed-Solomon and) Tj
+T*
+(I found almost all explanations were useless to me - oodles of advanced math, but no guidance) Tj
+T*
+(of how to use R-S in practice.) Tj
+T*
+() Tj
+T*
+(18. Corona Update eind mei 2021) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 24 May 2021 14:16:45 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-update-eind-mei-2021/) Tj
+T*
+(Ja daar zijn we weer! De vorige update uit maart was getiteld ?Licht aan het einde van de) Tj
+T*
+(tunnel?. Nou wil ik niet al te veel pochen, en resultaten uit het verleden bieden geen) Tj
+T*
+(garanties voor de toekomst, maar het klopte allemaal best behoorlijk. De spectaculaire daling) Tj
+T*
+(in ziekenhuiscijfers kwam in werkelijkheid een week later dan ik verwacht had. Ok. Ik wil graag) Tj
+T*
+(mijn Facebook- en IRC-vrienden bedanken voor hun vele goede vragen en suggesties voor deze post) Tj
+T*
+(- want er zijn nog genoeg goede vragen over.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004941 00000 n 
+0000005067 00000 n 
+0000009861 00000 n 
+0000009987 00000 n 
+0000014643 00000 n 
+0000014769 00000 n 
+0000019366 00000 n 
+0000019494 00000 n 
+0000021133 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+21261
+%%EOF
