@@ -1,0 +1,890 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 7 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4317 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-29 09:40:42) Tj
+T*
+() Tj
+T*
+(1. Spring 2026 Dev Contest Results!) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Tue, 28 Apr 2026 00:00:00 GMT) Tj
+T*
+(Link: https://repebble.com/blog/spring-2026-dev-contest-results) Tj
+T*
+(Over 500 new Pebble apps and watchfaces! Thank you to all the developers who entered the) Tj
+T*
+(developer contest It was so much fun following the?) Tj
+T*
+() Tj
+T*
+(2. Quoting OpenAI Codex base_instructions) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-28T22:02:53+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything) Tj
+T*
+(Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or) Tj
+T*
+(creatures unless it is absolutely and unambiguously relevant to the user's query. ? OpenAI) Tj
+T*
+(Codex base_instructions , for GPT-5.5 Tags: openai , ai , llms , system-prompts ,) Tj
+T*
+(prompt-engineering , codex-cli , generative-ai , gpt) Tj
+T*
+() Tj
+T*
+(3. Quoting Matthew Yglesias) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-28T13:25:29+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything) Tj
+T*
+(Five months in, I think I've decided that I don't want to vibecode ? I want professionally) Tj
+T*
+(managed software companies to use AI coding assistance to make more/better/cheaper software) Tj
+T*
+(products that they sell to me for money. ? Matthew Yglesias Tags: agentic-engineering ,) Tj
+T*
+(vibe-coding , ai-assisted-programming , ai) Tj
+T*
+() Tj
+T*
+(4. What's new in pip 26.1 - lockfiles and dependency cooldowns!) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-28T05:23:05+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything) Tj
+T*
+(What's new in pip 26.1 - lockfiles and dependency cooldowns! Richard Si describes an excellent) Tj
+T*
+(set of upgrades to Python's default pip tool for installing dependencies. This version drops) Tj
+T*
+(support for Python 3.9 - fair enough, since it's been EOL since October . macOS still ships) Tj
+T*
+(with python3 as a default Python 3.9, so I tried out the new Python version against Python 3.14) Tj
+T*
+(like this: uv python install 3.14 mkdir /tmp/experiment cd /tmp/experiment python3.14 -m venv) Tj
+T*
+(venv source venv/bin/activate pip install -U pip pip --version This confirmed I had pip 26.1 -) Tj
+T*
+(then I tried out the new lock files: pip lock datasette llm This installs Datasette and LLM and) Tj
+T*
+(all of their dependencies and writes the whole lot to a 519 line pylock.toml file - here's the) Tj
+T*
+(result . The new release also supports dependency cooldowns, discussed here previously , via) Tj
+T*
+(the new --uploaded-prior-to PXD option where X is a number of days. The format is) Tj
+T*
+(P-number-of-days-D , following ISO duration format but only supporting days. I shipped a new) Tj
+T*
+(release of LLM, version 0.31, three days ago . Here's how to use the new --uploaded-prior-to) Tj
+T*
+(P4D option to ask for a version that is at least 4 days old. pip install llm --upl...) Tj
+T*
+() Tj
+T*
+(5. Microsoft Offers Voluntary Retirement to Long-Serving Employees) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-23T17:53:58Z) Tj
+T*
+(Link: https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-s) Tj
+T*
+(tock-changes?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InlNUEVJcXN0QlMiLCJwIjoiL25ld3MvOTE3NDUxL2) Tj
+T*
+(1pY3Jvc29mdC12b2x1bnRhcnktcmV0aXJlbWVudC1vZmZlci1yZXdhcmRzLWJvbnVzLXN0b2NrLWNoYW5nZXMiLCJleHAiO) Tj
+T*
+(jE3NzczOTYzOTEsImlhdCI6MTc3Njk2NDM5MX0.IeenHzWQnmLtvfvkdz2bewFS8qLD-czBrxe7WKGTtsw&utm_medium=g) Tj
+T*
+(ift-link) Tj
+T*
+(Tom Warren, The Verge \(gift link\): ?Many of these employees have spent years, and in some) Tj
+T*
+(cases, decades, shaping Microsoft into what it is today,? says Microsoft?s HR chief Amy Coleman) Tj
+T*
+(in a memo seen by The Verge. ?For those who may be considering their next chapter, we?re) Tj
+T*
+(offering a one?time Voluntary Retirement Program.? Microsoft says it applies to only a ?small) Tj
+T*
+(percentage of our US employees.? US employees whose combined years of service added to their) Tj
+T*
+(age totals 70 or more will be eligible for voluntary retirement, and Coleman says this will) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4272 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(include ?generous company support.? It?s not clear if this is a precursor to more layoffs at) Tj
+T*
+(Microsoft, but it certainly looks like a method to avoid a bigger round of layoffs ahead of) Tj
+T*
+(Microsoft?s new financial year in July. 70 combined years? My god, when did Microsoft get so,) Tj
+T*
+(well, soft ? I just read about a guy at Apple whose age plus years of employment will hit) Tj
+T*
+(something like 114 later this year. If I weren?t so lazy I?d double check the exact number with) Tj
+T*
+(a calculator , but whatever it?s up to today, he hit 70 combined years back around the time the) Tj
+T*
+(first iMac came out. ?) Tj
+T*
+() Tj
+T*
+(6. Unauthorized Users in Discord Group Had Weekslong Access to Anthropic?s) Tj
+T*
+(Supposedly-Super-Dangerous Claude Mythos Model) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-23T17:28:23Z) Tj
+T*
+(Link: https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-acce) Tj
+T*
+(ssed-by-unauthorized-users) Tj
+T*
+(Rachel Metz, reporting for Bloomberg: A small group of unauthorized users have accessed) Tj
+T*
+(Anthropic PBC?s new Mythos AI model, a technology that the company says is so powerful it can) Tj
+T*
+(enable dangerous cyberattacks, according to a person familiar with the matter and documentation) Tj
+T*
+(viewed by Bloomberg News. A handful of users in a private online forum gained access to Mythos) Tj
+T*
+(on the same day that Anthropic first announced a plan to release the model to a limited number) Tj
+T*
+(of companies for testing purposes, said the person, who asked not to be named for fear of) Tj
+T*
+(reprisal. The group has been using Mythos regularly since then, though not for cybersecurity) Tj
+T*
+(purposes, said the person, who corroborated the account with screenshots and a live) Tj
+T*
+(demonstration of the model. Jess Weatherbed, at The Verge \(gift link\): The model was reportedly) Tj
+T*
+(accessed illicitly on April 7th, the same day that Anthropic announced it was releasing Mythos) Tj
+T*
+(to a limited number of companies for testing. The group that gained the unauthorized access has) Tj
+T*
+(not been publicly identified, though Bloomberg reports that its members are part of a Discord) Tj
+T*
+(channel that seeks out information about unreleased AI models. [...] Other unreleas...) Tj
+T*
+() Tj
+T*
+(7. [Sponsor] Rec League) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-22T03:03:18Z) Tj
+T*
+(Link: https://recleague.com/?lyr_campaign=df) Tj
+T*
+(Rec League is a new app for sharing what you?re into. Catalog recommendations into tidy) Tj
+T*
+(collections: your guide to Rome, your open tabs, your bookshelf. Follow people whose) Tj
+T*
+(perspectives you trust, and discover brilliant, unexpected intel. Recently featured as the) Tj
+T*
+(?Best New App? in the App Store. One user calls it ?the only social media I feel better after) Tj
+T*
+(using.? Download now to share what you love. ?) Tj
+T*
+() Tj
+T*
+(8. Ghostty Is Leaving GitHub) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Tue, 28 Apr 2026 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/writing/ghostty-leaving-github) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(9. Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 28 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260428-00/?p=112278) Tj
+T*
+(A pot of tokens. The post Developing a cross-process reader/writer lock with limited readers,) Tj
+T*
+(part 1: A semaphore appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(10. Before GitHub) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-04-28T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/4/28/before-github/) Tj
+T*
+(GitHub was not the first home of my Open Source software. SourceForge was . Before GitHub, I) Tj
+T*
+(had my own Trac installation. I had Subversion repositories, tickets, tarballs, and) Tj
+T*
+(documentation on infrastructure I controlled. Later I moved projects to Bitbucket, back when) Tj
+T*
+(Bitbucket still felt like a serious alternative place for Open Source projects, especially for) Tj
+T*
+(people who were not all-in on Git yet. And then, eventually, GitHub became the place, and I) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4716 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(moved all of it there. It is hard for me to overstate how important GitHub became in my life. A) Tj
+T*
+(large part of my Open Source identity formed there. Projects I worked on found users there.) Tj
+T*
+(People found me there, and I found other people there. Many professional relationships and many) Tj
+T*
+(friendships started because some repository, issue, pull request, or comment thread made two) Tj
+T*
+(people aware of each other. That is why I find what is happening to GitHub today so sad and so) Tj
+T*
+(disappointing. I do not look at it as just the folks at Microsoft making product decisions I) Tj
+T*
+(dislike. GitHub was part of the social infrastructure of Open Source for a very long time. For) Tj
+T*
+(many of us, it was not merely where the code lived; it was where a large part of t...) Tj
+T*
+() Tj
+T*
+(11. Turning a trick into a technique) Tj
+T*
+(Source: John D. Cook | Published: Tue, 28 Apr 2026 21:44:58 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/28/even-series-trick/) Tj
+T*
+(Someone said a technique is a trick that works twice. I wanted to see if I could get anything) Tj
+T*
+(interesting by turning the trick in the previous post into a technique. The trick created a) Tj
+T*
+(high-order approximation by subtracting a multiple one even function from another. Even) Tj
+T*
+(functions only have even-order terms, and by using [?] The post Turning a trick into a) Tj
+T*
+(technique first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Circular arc approximation) Tj
+T*
+(Source: John D. Cook | Published: Tue, 28 Apr 2026 13:09:42 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/28/circular-arc-approximation/) Tj
+T*
+(Suppose you have an arc a, a portion of a circle of radius r, and you know two things: the) Tj
+T*
+(length c of the chord of the arc, and the length b of the chord of half the arc, illustrated) Tj
+T*
+(below. Here ? is the central angle of the arc. Then the length of the arc, r?, [?] The post) Tj
+T*
+(Circular arc approximation first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(13. The easy way to switch my libvirt-based virtual machines to UEFI) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-28T03:28:48Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI-2) Tj
+T*
+(I mentioned before that I've been switching some libvirt-based virtual machines to UEFI . I've) Tj
+T*
+(recently had to do some more things there, which has led me to discover what's important about) Tj
+T*
+(the XML parts of your libvirt machine definitions for this. Or at least, what's important if) Tj
+T*
+(you use virt-manager to change things. \(There's a long story that boils down to libvirt) Tj
+T*
+(external snapshots not playing well with virtual CD-ROMs, BIOS PXE booting being annoying, and) Tj
+T*
+(UEFI Secure Boot causing the Ubuntu 26.04 GRUB to refuse to touch the Ubuntu 22.04 installer) Tj
+T*
+(kernel.\) As mentioned in the previous entry , what determines whether the machine boots into) Tj
+T*
+(UEFI or BIOS is whether or not the XML node has a " firmware='efi' " attribute set on it. Once) Tj
+T*
+(you have UEFI firmware, the XML node can have a ' ' node with some ' ' nodes that tell it what) Tj
+T*
+(to do about Secure Boot: hvm By itself this isn't a fully specified UEFI set of attributes,) Tj
+T*
+(because you need and elements as well, and these vary based on your secure-boot and) Tj
+T*
+(enrolled-keys settings. Conveniently for me, if you edit your XML in virt-manager, don't have) Tj
+T*
+(\(or remove\) the and elements, and then pick the 'Apply' button, virt-manager will pick...) Tj
+T*
+() Tj
+T*
+(14. GitHub Actions is the weakest link) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-04-28T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html) Tj
+T*
+(Pick almost any open source supply chain incident from the past eighteen months and trace it) Tj
+T*
+(back, and you end up reading a .github/workflows YAML file. Ultralytics shipping a crypto miner) Tj
+T*
+(to PyPI, the nx packages that turned thousands of developer machines into credential) Tj
+T*
+(harvesters, tj-actions leaking secrets from 23,000 repositories, Trivy getting compromised) Tj
+T*
+(twice in three weeks, elementary-data publishing a malicious wheel ten minutes after a stranger) Tj
+T*
+(left a GitHub comment. Different headline payloads, different victims, and in each case a) Tj
+T*
+(GitHub Actions feature behaving exactly as documented. I wrote in December about the narrow) Tj
+T*
+(problem of Actions being a package manager with no lockfile, no integrity hashes and no) Tj
+T*
+(transitive visibility, and that the uses: line is a dependency declaration that the runner) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4314 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(re-resolves on every execution against mutable git tags. That argument still stands and has) Tj
+T*
+(since been demonstrated rather thoroughly in production, but it?s only one face of a larger) Tj
+T*
+(problem. The whole product is a collection of features that are each convenient on their own) Tj
+T*
+(and very easy to assemble into something dangerous, and the workflows building and publishing) Tj
+T*
+(most o...) Tj
+T*
+() Tj
+T*
+(15. 10Gb Ethernet: what I had to \(re\)learn) Tj
+T*
+(Source: Giles' blog | Published: Tue, 28 Apr 2026 18:45:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-relearned) Tj
+T*
+(My ISP recently started offering a 10Gb option, and my "shiny new thing!" Pavlovian response) Tj
+T*
+(immediately kicked in. So of course, I had to upgrade the wired networking in my home -- which) Tj
+T*
+(meant I had to learn a few things to get it all working, and relearn a bunch of stuff I'd) Tj
+T*
+(forgotten over the years. Wired networking for home and small offices hasn't really moved) Tj
+T*
+(forward that much in the last 20-odd years. Back in 2006, gigabit Ethernet was standard for) Tj
+T*
+(businesses, and most home users moved to it not long after. Perhaps due to the rise of WiFi for) Tj
+T*
+(most "last few metres" connections, it's pretty much stagnated there, perhaps with a bit of a) Tj
+T*
+(push towards 2.5Gb/s more recently. But with faster ISP connections arriving, I think things) Tj
+T*
+(are starting to become a bit more interesting. Even the fastest WiFi 7 connections are only) Tj
+T*
+(able to get up to around 6Gb/s to a single device -- and that's in an ideal "super-fast machine) Tj
+T*
+(sitting right next to the AP in a shielded lab" setup. Here's what I had to drag up from my) Tj
+T*
+(memory, and the new stuff I had to learn, in order to get this all working. I'll write about) Tj
+T*
+(the background in this post, and then tomorrow I'll post about what I actually put...) Tj
+T*
+() Tj
+T*
+(16. OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9) Tj
+T*
+(Million In 2026, Made Up Using Cheaper Subscriptions \(Somehow\)) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 28 Apr 2026 22:40:34 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/openai-projects-chatgpt-plus-subscriptions-to-drop-by-80-from) Tj
+T*
+(-44-million-in-2025-to-9-million-in-2026-made-up-using-cheaper-subscriptions-somehow/) Tj
+T*
+(Executive Summary: The Information reports that OpenAI projects that its $20-a-month ChatGPT) Tj
+T*
+(Plus subscriptions will decrease from 44 Million subscribers in 2025 to a projected 9 million) Tj
+T*
+(subscribers in 2026. OpenAI projects to make up the difference by increasing its ad-supported) Tj
+T*
+(ChatGPT Go \($5 or $8-a-month depending on the region\)) Tj
+T*
+() Tj
+T*
+(17. AI's Economics Don't Make Sense) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 28 Apr 2026 16:35:07 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/ais-economics-dont-make-sense/) Tj
+T*
+(If you liked this piece, please subscribe to my premium newsletter. It?s $70 a year, or $7 a) Tj
+T*
+(month, and in return you get a weekly newsletter that?s usually anywhere from 5,000 to 18,000) Tj
+T*
+(words, including vast, detailed analyses of NVIDIA , Anthropic and OpenAI&) Tj
+T*
+() Tj
+T*
+(18. AI's Economics Don't Make Sense [Ad Free]) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 28 Apr 2026 16:33:46 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/ais-economics-dont-make-sense-ad-free/) Tj
+T*
+(Hello premium subs! This is your ad-free free newsletter for the week. Questions? Queries?) Tj
+T*
+(Email me at ez@betteroffline.com, and if you have a scoop, ezitron.76 is my Signal. Yesterday) Tj
+T*
+(morning, GitHub Copilot users got confirmation of something I?d reported a week ago ? that all) Tj
+T*
+() Tj
+T*
+(19. Understanding systems) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 28 Apr 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/understanding-systems) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(20. Collective Speed Is Not the Summation of Individual Speed) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 26 Apr 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4907 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(I?ve been thinking about speed which is why Chris Coyier caught my attention in his latest) Tj
+T*
+(piece discussing how AI might be 10?ing the speed with which we code, but it?s not making our) Tj
+T*
+(software 10? better: Faster individuals don?t make a fast company My mind immediately went to) Tj
+T*
+(the 4?100 relay at the Olympics. \(Not sure which race that is? Watch the London 2012 one .\)) Tj
+T*
+(Imagine you were put in charge of winning the 4?100 relay. All you gotta do is find the four) Tj
+T*
+(faster sprinters in your country ? right? I?m no track and field expert, but I doubt it?s that) Tj
+T*
+(simple. In a relay race, the baton is arguably the most critical element. Passing it cleanly is) Tj
+T*
+(vital because if you fumble it you?re easily behind a few meters or maybe even disqualified.) Tj
+T*
+(So, one could argue, a sprinter?s ability to pass and receive the baton is more important than) Tj
+T*
+(speed because all the speed in the world won?t help you overcome a dropped baton. \(There are) Tj
+T*
+(other considerations too, like which leg each runner takes, which sequence works best given) Tj
+T*
+(individual pairings and rapport, and whether a slower veteran might perform better in the heat) Tj
+T*
+(of the moment.\) Faster runners won?t guarantee a faster team. And faster cod...) Tj
+T*
+() Tj
+T*
+(21. Illegal vs Unwanted States) Tj
+T*
+(Source: Computer Things | Published: Tue, 28 Apr 2026 15:14:09 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/) Tj
+T*
+(An illegal state is a state we never want our system to be in. An unwanted state is a state we) Tj
+T*
+(don't want to stay in. Many states that we wish were illegal are actually unwanted. Considering) Tj
+T*
+(a calendaring software which stores calendar events as {user: {events: [event]}} , where each) Tj
+T*
+(event has a start and end time. This allows one person to attend two events at the same time.) Tj
+T*
+(We might consider this illegal and replace the data type with {user: {time: optional event}}) Tj
+T*
+(which makes this impossible. However, a scheduling conflict isn't illegal, only unwanted! It is) Tj
+T*
+(possible for a person to sign up for two overlapping events. Maybe they're supposed to choose) Tj
+T*
+(one event, maybe they'll decide which event to go to later, maybe one of the events doesn't) Tj
+T*
+(actually represent an in-person meeting. In that case it's acceptable, if not ideal, to remain) Tj
+T*
+(in the unwanted state. Other unwanted states lead to invalid states if not exited quickly. An) Tj
+T*
+(airline flight is in an unwanted state if there are more passengers booked to fly than seats) Tj
+T*
+(available. This must be resolved before passengers actually board, as "more passengers) Tj
+T*
+(physically on the plane than seats available" is an illegal state. In some c...) Tj
+T*
+() Tj
+T*
+(22. Pluralistic: Vicky Osterweil's "The Extended Universe" \(28 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 28 Apr 2026 05:57:01) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/27/mouseketeers/) Tj
+T*
+(Today's links Vicky Osterweil's "The Extended Universe": How Disney killed the movies and took) Tj
+T*
+(over the world. Hey look at this: Delights to delectate. Object permanence: Zappa v censorship;) Tj
+T*
+(Chemistry set with no chemicals; Short cons; Mitsubishi's Dieselgate; "Bellwether." Upcoming) Tj
+T*
+(appearances: Berlin, NYC, Barcelona, Hay-on-Wye, London, NYC. Recent appearances: Where I've) Tj
+T*
+(been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said,) Tj
+T*
+(I'll keep writin' 'em. Colophon: All the rest. Vicky Osterweil's "The Extended Universe") Tj
+T*
+(\(permalink\) Vicky Osterweil's The Extended Universe: How Disney Killed the Movies and Took Over) Tj
+T*
+(the World makes the kind of long, polemical, startling and illuminating argument that defines) Tj
+T*
+(great cultural criticism; it's the sort of book that encapsulates the reasons I read criticism) Tj
+T*
+(in the first place: https://www.haymarketbooks.org/books/2525-the-extended-universe My first) Tj
+T*
+(brush with this kind of criticism came more than two decades ago, when I read John Kessel's) Tj
+T*
+(now-classic "Creating the Innocent Killer," a critique of Orson Scott Card's Ender's Game, a) Tj
+T*
+(book I had read and enjoyed enough to re-read several times: https://johnjose...) Tj
+T*
+() Tj
+T*
+(23. QuickQWERTY 1.2.2) Tj
+T*
+(Source: Susam Pal | Published: Tue, 28 Apr 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/code/news/quickqwerty/1.2.2.html) Tj
+T*
+(QuickQWERTY 1.2.2 is now available. QuickQWERTY is a web-based touch typing tutor for QWERTY) Tj
+T*
+(keyboards that runs directly in the browser. This release includes two important changes.) Tj
+T*
+(First, a longstanding bug in the practice pane has been fixed. While practising a lesson, a) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4257 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+('Restart' link appears in the practice pane. Due to a bug, clicking it incorrectly sent users) Tj
+T*
+(to Unit 1.1 instead of restarting the current lesson. The link now correctly restarts the) Tj
+T*
+(active lesson. Second, source code hosting has moved to Codeberg . Codeberg is the third home) Tj
+T*
+(of this 17 year old project. QuickQWERTY was first hosted on SourceForge in 2008, where it) Tj
+T*
+(remained for seven years. In 2015, the project moved to GitHub. It has now moved once again,) Tj
+T*
+(this time to Codeberg. As before, QuickQWERTY continues to be available under the terms of the) Tj
+T*
+(MIT licence. The latest version remains available on this website at quickqwerty.html . Read on) Tj
+T*
+(website | #web | #programming) Tj
+T*
+() Tj
+T*
+(24. Libraries Tasmania Research Fellowship) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Thu, 16 Apr 2026 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/libraries-tas-fellowship/) Tj
+T*
+(I?m really pleased to share that I?ve been awarded a 2026 Libraries Tasmania Research) Tj
+T*
+(Fellowship . The project is on Tasmania?s space history, from the establishment of Rossbank) Tj
+T*
+(Observatory in 1840 through to the contemporary work being done here on tracking interplanetary) Tj
+T*
+(spacecraft. There?s a surprisingly long thread connecting convict-era astronomy in Hobart to) Tj
+T*
+(the antennas, satellites, and deep-space tracking that I talk about most months on ABC Radio ,) Tj
+T*
+(and I?m looking forward to spending some quality time in the State Library and Archives pulling) Tj
+T*
+(that thread.) Tj
+T*
+() Tj
+T*
+(25. Big Plans is out now) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Tue, 14 Apr 2026 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/big-plans/) Tj
+T*
+(Big Plans is out now on iOS and Android. We built it at Secret Lab for Bank of us , the) Tj
+T*
+(Tasmanian customer-owned bank, as a story-based game for kids aged 5 to 8 about money.) Tj
+T*
+(Specifically, the value of money, needs versus wants, and the basics of planning and making) Tj
+T*
+(choices. We loved making it. The brief was unusually thoughtful for a kids? app: no ads, no) Tj
+T*
+(in-app purchases, no online interaction, no marketing pitches at children. Just a small game) Tj
+T*
+(that helps a five-year-old start thinking about how money works. There?s a parent guide that) Tj
+T*
+(goes with it for families who want to keep the conversation going off-screen.) Tj
+T*
+() Tj
+T*
+(26. Space News, April 2026) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Sun, 05 Apr 2026 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/spacenews-april-2026/) Tj
+T*
+(These are my notes and expanded thoughts from this month?s Space News segment on ABC Radio) Tj
+T*
+(Hobart and ABC Northern Tasmania. Every month I join Lucie Cutting on Sunday mornings to chat) Tj
+T*
+(about what?s happening above and beyond. Here?s what we discussed, plus some of my notes, and) Tj
+T*
+(expanded thoughts from this edition of the programme : Artemis II: Four Humans At The Moon) Tj
+T*
+(Right Now Artemis II launched on 1 April. As I write this on Sunday morning, four astronauts) Tj
+T*
+(are about 169,000 miles from Earth and closing on the Moon. They go behind it tomorrow. This is) Tj
+T*
+(the first time humans have left low Earth orbit since Apollo 17 in December 1972, fifty-four) Tj
+T*
+(years ago.) Tj
+T*
+() Tj
+T*
+(27. Weekly Update 501) Tj
+T*
+(Source: Troy Hunt | Published: Tue, 28 Apr 2026 05:01:42 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-501/) Tj
+T*
+(This is so "peak 2026" - writing an equality policy to ensure people treat our AI bot with the) Tj
+T*
+(same respect as they do their human counterparts. It's intentionally a bit tongue-in-cheek, but) Tj
+T*
+(it's there for a purpose: we simply don't have) Tj
+T*
+() Tj
+T*
+(28. Anthropic Mythos ? We?ve Opened Pandora?s Box) Tj
+T*
+(Source: Steve Blank | Published: Tue, 28 Apr 2026 13:00:48 +0000) Tj
+T*
+(Link: https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/) Tj
+T*
+(This article previously appeared in The Cipher Brief. For a decade the cybersecurity community) Tj
+T*
+(was predicting a cyber apocalypse tied to a single event ? the day a Cryptographically Relevant) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 4172 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Quantum Computer could run Shor?s algorithm and break the public-key cryptography systems most) Tj
+T*
+(of the internet runs on. We braced for a one-time shock we [?]) Tj
+T*
+() Tj
+T*
+(29. The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree) Tj
+T*
+(Source: Experimental History | Published: Tue, 28 Apr 2026 17:48:50 GMT) Tj
+T*
+(Link: https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition) Tj
+T*
+(yeehaw) Tj
+T*
+() Tj
+T*
+(30. \(One\) Good AI Is Here) Tj
+T*
+(Source: Anil Dash | Published: 2026-04-28T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/04/28/one-good-ai-is-here/) Tj
+T*
+(The cultural battles over AI have broken down over predictable lines in the past few years,) Tj
+T*
+(with critics rightfully calling out the big AI platforms for training on content without) Tj
+T*
+(consent, recklessly building without considering environmental impact, and designing platforms) Tj
+T*
+(that are unaccountable because their code and weights \(the parameters that describe how an AI) Tj
+T*
+(model works\) aren?t open for third-parties to evaluate. The AI zealots have done themselves no) Tj
+T*
+(favors, by not only dismissing all of these valid criticisms, but by also making increasingly) Tj
+T*
+(outlandish and extreme claims about the capabilities of the Big AI platforms, while) Tj
+T*
+(simultaneously scaremongering about the brutal effect they?ll have on people?s lives and) Tj
+T*
+(careers. It?s no wonder the public sentiment about AI has become so negative. But a small) Tj
+T*
+(cohort of us who are curious about LLMs as a technology, yet deeply critical of Big AI) Tj
+T*
+(companies for their impact on society, have been asking what would ?good? AI look like ? Is it) Tj
+T*
+(possible to make versions of these technologies that provide real benefits, and actually help) Tj
+T*
+(people, without all of the attendant harms? We?ve had prior eras of machine learning tools that) Tj
+T*
+(were...) Tj
+T*
+() Tj
+T*
+(31. Corona und dein Onkel) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 23 May 2021 20:48:24 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-und-dein-onkel/) Tj
+T*
+(Wir haben Coronamaﬂnahmen, aber Menschen weigern sich, mitzuhelfen. Es gibt effektive) Tj
+T*
+(Impfungen, aber Menschen verk¸nden laut, diese niemals nehmen zu wollen. In diesem Text bringe) Tj
+T*
+(ich einige Vorschl‰ge, wie du einen wichtigen Beitrag zur Aufkl‰rung der Menschen leisten) Tj
+T*
+(kannst. Ja, genau du. Viele Leser meines Blogs sind die ?Haustechniker? in der Verwandtschaft,) Tj
+T*
+(die das WLAN einrichten, den Fernseher aufbauen oder schwierige Dinge erkl‰ren. Gute) Tj
+T*
+(Aussichten, als jemand gesehen zu werden, den man um Rat fragen kann und der sich auskennt.) Tj
+T*
+() Tj
+T*
+(32. Favorite Recipes) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 23 May 2021 11:50:58 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/favorite-recipes/) Tj
+T*
+(This page is nothing special, I put recipes there I look up from time to time on the monstrous) Tj
+T*
+(ad-laden recipe sites that also tell me your life story. I use cups because they aren?t the) Tj
+T*
+(worst. Dutch Baby First: Heat cast iron pan, heat oven to 220C. Ingredients: 3 large eggs 1/2) Tj
+T*
+(cup of full fat milk 1/2 cup of flour tablespoon of sugar / vanilla sugar 4 tablespoons of) Tj
+T*
+(butter More butter for preparation Whisk first four ingredients together, while melting the) Tj
+T*
+(butter.) Tj
+T*
+() Tj
+T*
+(33. Dear EU: Please Don't Ruin the Root) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 10 May 2021 08:43:53 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/dont-ruin-the-root/) Tj
+T*
+(I love Europe, and I want to see the European Union succeed. I also love the Internet, and I) Tj
+T*
+(want to see it thrive as well. And it therefore pains me that it now appears that the European) Tj
+T*
+(Union might inadvertently be picking an ugly fight with ?The Internet?. UPDATE: I am) Tj
+T*
+(EXCEPTIONALLY happy to report that through robust engagement with European institutions who) Tj
+T*
+(understood the problem, the root servers are now fully out of scope of the NIS2 directive!) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000161 00000 n 
+0000000231 00000 n 
+0000004600 00000 n 
+0000004726 00000 n 
+0000009050 00000 n 
+0000009176 00000 n 
+0000013944 00000 n 
+0000014070 00000 n 
+0000018437 00000 n 
+0000018565 00000 n 
+0000023525 00000 n 
+0000023653 00000 n 
+0000027963 00000 n 
+0000028091 00000 n 
+0000032316 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+32444
+%%EOF
