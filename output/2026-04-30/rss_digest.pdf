@@ -1,0 +1,596 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4496 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-04-30 09:40:39) Tj
+T*
+() Tj
+T*
+(1. Raspberry Pi Connect may control Windows soon) Tj
+T*
+(Source: Jeff Geerling | Published: Wed, 29 Apr 2026 12:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/) Tj
+T*
+(Support for remote controlling Windows PCs may be added to Raspberry Pi Connect , Raspberry) Tj
+T*
+(Pi's free remote access service. When they announced Pi Connect in 2024 , I speculated the) Tj
+T*
+(service was launched in response to RealVNC's sluggish adoption of Wayland, leading to Pi users) Tj
+T*
+(lacking a solid remote access solution after Pi OS 12 'Bookworm' was launched. The service was) Tj
+T*
+(helpful for those who had one or more Raspberry Pis to access, but the Pi Connect daemon didn't) Tj
+T*
+(run on Windows or macOS at the time, so a true competitor to RealVNC \(at least for basic use) Tj
+T*
+(cases\) it was not.) Tj
+T*
+() Tj
+T*
+(2. The Zig project's rationale for their firm anti-AI contribution policy) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-30T01:24:23+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything) Tj
+T*
+(Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs) Tj
+T*
+(for issues. No LLMs for pull requests. No LLMs for comments on the bug tracker, including) Tj
+T*
+(translation. English is encouraged, but not required. You are welcome to post in your native) Tj
+T*
+(language and rely on others to have their own translation tools of choice to interpret your) Tj
+T*
+(words. The most prominent project written in Zig may be the Bun JavaScript runtime, which was) Tj
+T*
+(acquired by Anthropic in December 2025 and, unsurprisingly, makes heavy use of AI assistance.) Tj
+T*
+(Bun operates its own fork of Zig, and recently achieved a 4x performance improvement on Bun) Tj
+T*
+(compile after adding "parallel semantic analysis and multiple codegen units to the llvm) Tj
+T*
+(backend". Here's that code . But @bunjavascript says : We do not currently plan to upstream) Tj
+T*
+(this, as Zig has a strict ban on LLM-authored contributions. In Contributor Poker and Zig's AI) Tj
+T*
+(Ban \( via Lobste.rs \) Zig Software Foundation VP of Community Loris Cro explains the rationale) Tj
+T*
+(for this strict ban. It's the best articulation I've seen yet for a blanket ban on LLM-assisted) Tj
+T*
+(contributions: In successful open source projects you eventually reach a point where...) Tj
+T*
+() Tj
+T*
+(3. llm 0.32a1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-29T23:52:50+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything) Tj
+T*
+(Release: llm 0.32a1 Fixed a bug in 0.32a0 where tool-calling conversations were not correctly) Tj
+T*
+(reinflated from SQLite. #1426 Tags: llm) Tj
+T*
+() Tj
+T*
+(4. LLM 0.32a0 is a major backwards-compatible refactor) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-29T19:01:47+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/29/llm/#atom-everything) Tj
+T*
+(I just released LLM 0.32a0 , an alpha release of my LLM Python library and CLI tool for) Tj
+T*
+(accessing LLMs, with some consequential changes that I've been working towards for quite a) Tj
+T*
+(while. Previous versions of LLM modeled the world in terms of prompts and responses. Send the) Tj
+T*
+(model a text prompt, get back a text response. import llm model = llm . get_model \( "gpt-5.5" \)) Tj
+T*
+(response = model . prompt \( "Capital of France?" \) print \( response . text \(\)\) This made sense) Tj
+T*
+(when I started working on the library back in April 2023. A lot has changed since then! LLM) Tj
+T*
+(provides an abstraction over thousands of different models via its plugin system . The original) Tj
+T*
+(abstraction - of text input that returns text output - was no longer able to represent) Tj
+T*
+(everything I needed it to. Over time LLM itself has grown attachments to handle image, audio,) Tj
+T*
+(and video input, then schemas for outputting structured JSON, then tools for executing tool) Tj
+T*
+(calls. Meanwhile LLMs kept evolving, adding reasoning support and the ability to return images) Tj
+T*
+(and all kinds of other interesting capabilities. LLM needs to evolve to better handle the) Tj
+T*
+(diversity of input and output types that can be processed by today's frontier models. The...) Tj
+T*
+() Tj
+T*
+(5. Oakland?s Airport Is Now Officially ?Oakland San Francisco Bay Airport?) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4931 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-04-29T21:24:06Z) Tj
+T*
+(Link: https://sfstandard.com/2026/04/28/oak-sfo-reach-naming-settlement/) Tj
+T*
+(Max Harrison-Caldwell, reporting for The San Francisco Standard: In 2024, the port ? which) Tj
+T*
+(manages the Oakland airport ? changed the name from Oakland International Airport to San) Tj
+T*
+(Francisco Bay Oakland International Airport, hoping to entice travelers by emphasizing the) Tj
+T*
+(hub?s proximity to SF. At the time, the number of people flying into Oakland was declining) Tj
+T*
+(after a brief post-pandemic rebound, and the airport was losing routes. The effort largely) Tj
+T*
+(failed , while having the secondary impact of annoying San Francisco leaders, who swiftly sued,) Tj
+T*
+(arguing that the name would confuse travelers. In 2025, the port swapped the two cities within) Tj
+T*
+(the name to produce ?Oakland San Francisco Bay Airport.? San Francisco didn?t like that either,) Tj
+T*
+(but the parties entered mediation in December and have now settled. The new name is fine, as) Tj
+T*
+(long as ?Oakland? always appears before ?San Francisco? in all materials and the airport does) Tj
+T*
+(not add the letters SF to its code, OAK. The Standard ran this under the cheeky headline) Tj
+T*
+(?Little-Known Bay Area City Will Keep San Francisco in Its Airport?s Name?, which is a little) Tj
+T*
+(funny, but I don?t see the need to punch down like this. Nobody calls the city ?San Franc...) Tj
+T*
+() Tj
+T*
+(6. ?Elon Musk Appeared More Petty Than Prepared?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-29T15:15:29Z) Tj
+T*
+(Link: https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day) Tj
+T*
+(-one?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InBrV1FGdGtlcEEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZW) Tj
+T*
+(xsaWdlbmNlLzkyMDE5MS9lbG9uLW11c2stc2FtLWFsdG1hbi10cmlhbC1kYXktb25lIiwiZXhwIjoxNzc3OTA1NDgxLCJpY) Tj
+T*
+(XQiOjE3Nzc0NzM0ODF9.FkMZ8-YRv8q3d7n6p8q_scJaERWtNumD9pK7kONpTE4) Tj
+T*
+(Elizabeth Lopatto, reporting on Musk v. Altman from the courtroom in Oakland \(gift link\): Today) Tj
+T*
+(the first witness was sworn in in *Musk v. Altman: *Elon Musk. I was surprised by how flat he) Tj
+T*
+(seemed. This is not the first time I?ve seen Musk in court. During his defamation suit, he) Tj
+T*
+(turned on the charm and the jury responded by finding him not guilty. Today he looked adrift) Tj
+T*
+(and unprepared. The only times he showed real animation were when he was bragging about how) Tj
+T*
+(much he?d done for OpenAI . [...] What did Musk do at OpenAI? ?I came up with the idea, the) Tj
+T*
+(name, recruited the key people, taught them everything I know, provided all the initial) Tj
+T*
+(funding. Besides that, nothing.? He paused for laughter, and one or two people obligingly) Tj
+T*
+(chuckled. But most of the courtroom was silent. I thought he sounded petulant. ?I could have) Tj
+T*
+(started it as a for-profit and I chose not to,? Musk said. Elon Musk petty, petulant, smug,) Tj
+T*
+(awkward, and unprepared? Where?s my fainting couch? At another point, Musk was asked to explain) Tj
+T*
+(who former OpenAI board member Shivon Zilis was. ?Shivon was the, um, my chief of staff and,) Tj
+T*
+(uh, you know,? Musk said. One person in the gallery ? presumably familiar with the fact t...) Tj
+T*
+() Tj
+T*
+(7. ?Sordid and Small?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-29T15:03:21Z) Tj
+T*
+(Link: https://www.theatlantic.com/technology/2026/04/openai-trial-elon-musk-sam-altman/686984/?) Tj
+T*
+(gift=iWa_iB9lkw4UuiWbIbrWGYJmg9p-llxzEAgykQekDFA) Tj
+T*
+(Matteo Wong, covering Musk v. Altman for The Atlantic \(gift link\): Musk is asking that Altman) Tj
+T*
+(be removed from OpenAI?s board, that the company convert back to a nonprofit, and for the) Tj
+T*
+(return of allegedly ?ill-gotten gains? ? some $150 billion ? which Musk says would go to) Tj
+T*
+(OpenAI?s charitable trust. Outside legal experts say that Musk is unlikely to win all or even) Tj
+T*
+(much of this. His argument is confusing: OpenAI has certainly evolved from a nonprofit lab to a) Tj
+T*
+(revenue-chasing, consumer behemoth, and a chorus of critics has alleged that it has deviated) Tj
+T*
+(from its original mission of ensuring that AGI benefits humanity. But Musk himself appears to) Tj
+T*
+(have insisted that OpenAI couldn?t keep up as a nonprofit ? for instance, in early 2018, he) Tj
+T*
+(wrote an email to OpenAI leadership saying that merging the firm with Tesla ?is the only path) Tj
+T*
+(that could even hope to hold a candle to Google.? And even before he sued, Musk launched a) Tj
+T*
+(rival for-profit company, xAI. ?Mr. Musk?s lawsuit is a pageant of hypocrisy,? William Savitt,) Tj
+T*
+(a lawyer for OpenAI, told the jury today, later adding that Musk had ?sour grapes.? [...] The) Tj
+T*
+(trial makes the AI boom seem sordid and small. In his sworn deposition , Altman wro...) Tj
+T*
+() Tj
+T*
+(8. Have You Seen the New Excel?) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4920 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: iDiallo.com | Published: Wed, 29 Apr 2026 23:40:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/have-you-seen-the-new-xl-ai-parody?src=feed) Tj
+T*
+(Stop coding. Stop hiring. Stop building. While the tech world obsesses over large language) Tj
+T*
+(models and neural networks, I discovered the real disruptor that has been hiding in plain) Tj
+T*
+(sight. Mine was originally installed on my desktop in 1992. And now, it's about to change) Tj
+T*
+(everything in the world. We are talking about Microsoft Excel, of course. If you haven't looked) Tj
+T*
+(at a spreadsheet lately, you are missing the most significant leap in enterprise capability) Tj
+T*
+(since the invention of the corporation itself. We are entering an era of No-Code where the code) Tj
+T*
+(was never needed in the first place. My own job as a software engineer is not safe, and I'm) Tj
+T*
+(looking forward to the future. Developers from every walk of life are afraid, and for good) Tj
+T*
+(reasons. You hear the complaints constantly: "How can I ensure the code works? I can't possibly) Tj
+T*
+(review a PR with a thousand files. It's unmaintainable." This is a crisis of confidence in the) Tj
+T*
+(software engineering sector. This specific anxiety has never existed in the Excel ecosystem.) Tj
+T*
+(Code is called code for a reason, it is meant for the machine to read, not people. In Excel, we) Tj
+T*
+(don't worry about "reviewing pull requests." We worry about results. The spreadsh...) Tj
+T*
+() Tj
+T*
+(9. If it's in JSON, it's not really a configuration file) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-29T02:15:22Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/JSONNotConfigurationFile) Tj
+T*
+(Over on the Fediverse, I said something : If your idea of a good configuration file format is) Tj
+T*
+(JSON, you are not a daemon I will ever run voluntarily. This is not very much of a subtoot of) Tj
+T*
+(ISC Kea. If we ever have to replace the traditional ISC DHCP server with anything, it will not) Tj
+T*
+(be with Kea. If your program's configuration file format is JSON, you're openly advertising) Tj
+T*
+(that you care far more about programming convenience in reading and loading your configuration) Tj
+T*
+(file than you do about the people operating your software. "You can generate our JSON with) Tj
+T*
+(software from something else", yeah, no. You've told me what your priorities are and I'm going) Tj
+T*
+(to believe you. I would rather run software that actually cares about the people running it.) Tj
+T*
+(JSON is a perfectly good format for your internal configuration data store, what you transform) Tj
+T*
+(a configuration file into and then save for your software's future convenience. It's not a) Tj
+T*
+(configuration file format, and if you use it as such, you're basically forcing people to write) Tj
+T*
+(your compiled configuration storage format themselves. The result is a configuration file only) Tj
+T*
+(in a narrow technical sense that it is a file you force people to supply t...) Tj
+T*
+() Tj
+T*
+(10. Let's Get Digging!) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 29 Apr 2026 11:34:23 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/04/lets-get-digging/) Tj
+T*
+(As part of my quest to try new things I decided to dig for treasure in my local park. The) Tj
+T*
+(wonderful folks at DigVentures allow members of the public to assist with archaeology projects) Tj
+T*
+(in their local area. We arrived on a sunny Thursday to find a couple of areas of Lesnes Abbey) Tj
+T*
+(cordoned off, with the turf taken up, and a set of tools waiting for us. After a suitable) Tj
+T*
+(health-and-safety briefing ?) Tj
+T*
+() Tj
+T*
+(11. 10Gb/s Ethernet: what I actually did to get it working in my home) Tj
+T*
+(Source: Giles' blog | Published: Wed, 29 Apr 2026 14:15:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did) Tj
+T*
+(Having learned enough about 10Gb/s Ethernet to be comfortable about setting it up in my house,) Tj
+T*
+(it was time to bite the bullet: order it from the ISP, buy some kit, and get started. I already) Tj
+T*
+(had 2.5Gb/s working. The apartment has structured cabling -- each room has one or more RJ45) Tj
+T*
+(sockets in the wall, and there's a patch panel downstairs by our front door that has a matching) Tj
+T*
+(patch socket for each wall socket. So when we moved in, I simply set things up so that there) Tj
+T*
+(was a 2.5Gb/s switch down by the patch panel, and wired everything together there. Most of our) Tj
+T*
+(stuff works over WiFi, of course, but I needed a wired backbone to connect the excessive number) Tj
+T*
+(of computers in my study both to each other, and to the outside world. What did I need to do?) Tj
+T*
+(Simplifying a bit, I had this 2.5Gb/s setup: The ISP connection came into the apartment in the) Tj
+T*
+(living room. It went through a router/firewall machine I'd set up myself \(more on that later\),) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4225 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(then via a 2.5Gb/s switch to the main WiFi AP and also to a wall socket. Down at the patch) Tj
+T*
+(panel, I had a 2.5Gb/s switch, which was connected to the patch socket corresponding to the) Tj
+T*
+(router's wall socket. Another connection from that switch went to the...) Tj
+T*
+() Tj
+T*
+(12. On wintering.) Tj
+T*
+(Source: Westenberg. | Published: Wed, 29 Apr 2026 01:54:43 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/on-wintering/) Tj
+T*
+(The winterer is out of the loop; they're not maintaining a position because they don't have a) Tj
+T*
+(position to maintain. They can do work that takes longer than a quarter, longer than a year,) Tj
+T*
+(longer than 5 years, because nobody is auditing the line item.) Tj
+T*
+() Tj
+T*
+(13. Multiple URLs in Git Remote) Tj
+T*
+(Source: Susam Pal | Published: Wed, 29 Apr 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/multiple-urls-in-git-remote.html) Tj
+T*
+(Typically a Git remote contains a single URL. For example, when we clone a repository, a remote) Tj
+T*
+(named origin is automatically created and its URL is set to the location of the upstream) Tj
+T*
+(repository. For example: $ git remote -v origin https://codeberg.org/spxy/spica.git \(fetch\)) Tj
+T*
+(origin https://codeberg.org/spxy/spica.git \(push\) $ sed '/remote/,$!d' .git/config [remote) Tj
+T*
+("origin"] url = https://codeberg.org/spxy/spica.git fetch = +refs/heads/*:refs/remotes/origin/*) Tj
+T*
+([branch "main"] remote = origin merge = refs/heads/main A perhaps less known detail is that we) Tj
+T*
+(can set multiple URLs for a remote. For example: $ git remote set-url origin --add) Tj
+T*
+(https://github.com/spxy/spica.git $ git remote -v origin https://codeberg.org/spxy/spica.git) Tj
+T*
+(\(fetch\) origin https://codeberg.org/spxy/spica.git \(push\) origin) Tj
+T*
+(https://github.com/spxy/spica.git \(push\) $ sed '/remote/,$!d' .git/config [remote "origin"] url) Tj
+T*
+(= https://codeberg.org/spxy/spica.git fetch = +refs/heads/*:refs/remotes/origin/* url =) Tj
+T*
+(https://github.com/spxy/spica.git [branch "main"] remote = origin merge = refs/heads/main As) Tj
+T*
+(evident from the above output, with multiple URLs for the same remote, the first one becomes) Tj
+T*
+(the fetch URL whereas all URL...) Tj
+T*
+() Tj
+T*
+(14. When The Bill Comes Due) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-04-29T03:30:00Z) Tj
+T*
+(Link:) Tj
+T*
+(https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives) Tj
+T*
+(Be wary of the cool new AI tools Anthropic and OpenAI are throwing?because you?ll eventually) Tj
+T*
+(get stuck with the bill. \(By the way, did you know there are cheaper options?\)) Tj
+T*
+() Tj
+T*
+(15. Reiner Pope ? The math behind how LLMs are trained and served) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Wed, 29 Apr 2026 17:07:03 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/reiner-pope) Tj
+T*
+(It's shocking how much you can deduce about what the labs are doing from a handful of equations) Tj
+T*
+(and a blackboard) Tj
+T*
+() Tj
+T*
+(16. Never Use the Confirm Dialog) Tj
+T*
+(Source: Daniel De Laney | Published: Tue, 08 Sep 2015 00:00:00 +0000) Tj
+T*
+(Link: https://danieldelaney.net/confirm/) Tj
+T*
+(It?s a standard function of all browsers, it?s everywhere, and it?s time to retire it. Here?s) Tj
+T*
+(an example from JIRA . Trying to ?Cancel? a comment brings up the confirm dialog : Even if we) Tj
+T*
+(assume confirmation is necessary, the standard confirm dialog is a bad way to get it: Most of) Tj
+T*
+(what?s shown is junk . The browser logo, the URL of the page, the paragraph that nobody) Tj
+T*
+(reads?none of it helps me cancel the comment. The buttons are what matter. ?OK? is ambiguous.) Tj
+T*
+(Buttons should say what they do. If an action is important enough to need confirmation, it?s) Tj
+T*
+(important enough to need a clear label. ?Cancel? is ambiguous. Clicking ?Cancel? doesn?t cancel) Tj
+T*
+(my comment. It cancels cancelation. Whoops. Forcing my hand isn?t nice. This dialog hijacks the) Tj
+T*
+(whole page. There?s a friendlier way to prevent errors. With little effort we can make the) Tj
+T*
+(dialog better. Let?s do it. We?ll use more thoughtful labeling to make the behavior clearer.) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 2468 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(For an added bonus, we can use color to highlight the riskier option: Already we?ve done better) Tj
+T*
+(than the confirm dialog. But let?s not open the champagne yet. We can do even better. We?re) Tj
+T*
+(still freezing the page every time the user clicks ?Cancel?. This interrupts t...) Tj
+T*
+() Tj
+T*
+(17. History of PowerDNS 2013-2020, part 3b: the business story) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 21 Apr 2021 18:07:06 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/history-of-powerdns-2013-2020-business/) Tj
+T*
+(This part of the history of PowerDNS is mostly about our business adventures & merger with) Tj
+T*
+(Open-Xchange. The technical history of this period is described in part 3a. Business In 2013,) Tj
+T*
+(PowerDNS was in a crucial phase. Existing business was going well, but we were receiving) Tj
+T*
+(pointed signals there was trouble on the horizon. Some existing customers were close to) Tj
+T*
+(deserting us, because we could not provide them with the top-down attention other vendors were) Tj
+T*
+(lavishing on them.) Tj
+T*
+() Tj
+T*
+(18. Useful Spy Books) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 18 Apr 2021 13:11:21 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/useful-spy-books/) Tj
+T*
+(Reading a good book is a great joy. And recommending a good book is almost as enjoyable. I?ve) Tj
+T*
+(long been fascinated by books on espionage, and this contributed in no small part to me) Tj
+T*
+(eventually joining the Dutch intelligence world, and later, rejoining it in some fashion. If) Tj
+T*
+(you have favorite books that should be on this page, please let me know on bert@hubertnet.nl!) Tj
+T*
+(I?m especially looking for books written from different perspectives.) Tj
+T*
+() Tj
+T*
+(19. Het gaat om de kerncentrales) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 11 Apr 2021 10:44:49 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/het-gaat-om-de-kerncentrales/) Tj
+T*
+(Er is in Nederland een levendige discussie gaande of we in moeten zetten op kernenergie of) Tj
+T*
+(niet. Afhankelijk van wie je spreekt is kernenergie een groene en noodzakelijke manier om onze) Tj
+T*
+(CO?-doelen te halen, of is het overbodige onzin. Ik ben een groot gelover in het idee van) Tj
+T*
+(kernenergie. Maar onze auto?s en huizen kunnen we niet aandrijven met ideeÎn. Die drijf je aan) Tj
+T*
+(met kerncentrales. En daar hebben we het nooit over, de kernindustrie.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004765 00000 n 
+0000004891 00000 n 
+0000009874 00000 n 
+0000010000 00000 n 
+0000014972 00000 n 
+0000015098 00000 n 
+0000019376 00000 n 
+0000019504 00000 n 
+0000022025 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+22153
+%%EOF
