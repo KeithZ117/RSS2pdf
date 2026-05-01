@@ -1,0 +1,620 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4404 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-01 09:40:51) Tj
+T*
+() Tj
+T*
+(1. Codex CLI 0.128.0 adds /goal) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-30T23:23:17+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything) Tj
+T*
+(Codex CLI 0.128.0 adds /goal The latest version of OpenAI's Codex CLI coding agent adds their) Tj
+T*
+(own version of the Ralph loop : you can now set a /goal and Codex will keep on looping until it) Tj
+T*
+(evaluates that the goal has been completed... or the configured token budget has been) Tj
+T*
+(exhausted. It looks like the feature is mainly implemented though the goals/continuation.md and) Tj
+T*
+(goals/budget_limit.md prompts, which are automatically injected at the end of a turn. Via) Tj
+T*
+(@fcoury Tags: ai , openai , prompt-engineering , generative-ai , llms , coding-agents ,) Tj
+T*
+(system-prompts , codex-cli , agentic-engineering) Tj
+T*
+() Tj
+T*
+(2. Our evaluation of OpenAI's GPT-5.5 cyber capabilities) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-30T23:03:24+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything) Tj
+T*
+(Our evaluation of OpenAI's GPT-5.5 cyber capabilities The UK's AI Security Institute previously) Tj
+T*
+(evaluated Claude Mythos : now they've evaluated GPT-5.5 for finding security vulnerability and) Tj
+T*
+(found it to be comparable to Mythos, but unlike Mythos it's generally available right now.) Tj
+T*
+(Tags: ai , openai , generative-ai , llms , anthropic , claude , ai-security-research , gpt) Tj
+T*
+() Tj
+T*
+(3. Quoting Andrew Kelley) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-30T21:24:55+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything) Tj
+T*
+(It's a common misconception that we can't tell who is using LLM and who is not. I'm sure we) Tj
+T*
+(didn't catch 100% of LLM-assisted PRs over the past few months, but the kind of mistakes humans) Tj
+T*
+(make are fundamentally different than LLM hallucinations, making them easy to spot.) Tj
+T*
+(Furthermore, people who come from the world of agentic coding have a certain digital smell that) Tj
+T*
+(is not obvious to them but is obvious to those who abstain. It's like when a smoker walks into) Tj
+T*
+(the room, everybody who doesn't smoke instantly knows it. I'm not telling you not to smoke, but) Tj
+T*
+(I am telling you not to smoke in my house. ? Andrew Kelley , Creator of Zig Tags: zig , llms ,) Tj
+T*
+(ai , generative-ai) Tj
+T*
+() Tj
+T*
+(4. Anti-DDoS Firm Heaped Attacks on Brazilian ISPs) Tj
+T*
+(Source: Krebs on Security | Published: Thu, 30 Apr 2026 14:04:26 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/) Tj
+T*
+(A Brazilian tech firm that specializes in protecting networks from distributed) Tj
+T*
+(denial-of-service \(DDoS\) attacks has been enabling a botnet responsible for an extended) Tj
+T*
+(campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has) Tj
+T*
+(learned. The firm's chief executive says the malicious activity resulted from a security breach) Tj
+T*
+(and was likely the work of a competitor trying to tarnish his company's public image.) Tj
+T*
+() Tj
+T*
+(5. Apple Q2 2026 Results) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-01T00:41:20Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/) Tj
+T*
+(Apple Newsroom: ?Today Apple is proud to report our best March quarter ever, with revenue of) Tj
+T*
+($111.2 billion and double-digit growth across every geographic segment,? said Tim Cook, Apple?s) Tj
+T*
+(CEO. ?iPhone achieved a March quarter revenue record, fueled by such extraordinary demand for) Tj
+T*
+(the iPhone 17 lineup. During the quarter, Services achieved yet another all-time record, and we) Tj
+T*
+(were excited to introduce remarkable new products to our strongest lineup ever. That included) Tj
+T*
+(the addition of the iPhone 17e and the M4-powered iPad Air, along with the launch of MacBook) Tj
+T*
+(Neo, which is captivating customers all around the world.? Record results for the January?March) Tj
+T*
+(quarter for revenue, profit, and iPhone revenue in particular. And iPhones were constrained by) Tj
+T*
+(supply. Tim Cook led the analyst conference call because he?s still CEO, but John Ternus joined) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4242 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(for the first time. Worth a listen to just their opening remarks. Over at Six Colors, Jason) Tj
+T*
+(Snell has the usual assortment of graphs charting Apple?s numbers. Spoiler: up, up, up. And he) Tj
+T*
+(has his usual transcript of the analyst call . From that transcript, this bit from Ternus?s) Tj
+T*
+(prepared statement made me smile: I want to echo Tim?s sentiment ab...) Tj
+T*
+() Tj
+T*
+(6. ? On the Future of Apple?s Vision Platform) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-01T00:11:15Z) Tj
+T*
+(Link: https://daringfireball.net/2026/04/on_the_future_of_apples_vision_platform) Tj
+T*
+(It?s certainly possible that this Vision thing isn?t going to work out and Apple *will* throw) Tj
+T*
+(in the towel on it. But that hasn?t happened, and if it does, it?s not going to come out of) Tj
+T*
+(nowhere as a story on MacRumors for the people in VPG working on it.) Tj
+T*
+() Tj
+T*
+(7. I?m Starting to Wonder What They?re Smoking Over There at MacRumors) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-30T15:16:12Z) Tj
+T*
+(Link: https://www.macrumors.com/2026/04/29/apple-questioning-iphone-magsafe/) Tj
+T*
+(600 words from Hartley Charlton at MacRumors expounding upon a wacko post on Weibo suggesting) Tj
+T*
+(that Apple is debating dropping MagSafe from all iPhones \( which post , translated to English,) Tj
+T*
+(is only 70-some words\). Given that last year?s 16e didn?t have MagSafe and this year?s 17e) Tj
+T*
+(does, you don?t need a pseudonymous Chinese weatherman to know which way the MagSafe wind is) Tj
+T*
+(blowing in Cupertino. ?) Tj
+T*
+() Tj
+T*
+(8. Developing a cross-process reader/writer lock with limited readers, part 3: Fairness) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 30 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260430-00/?p=112288) Tj
+T*
+(Let the exclusive acquisition have a fair chance against shared acquisitions. The post) Tj
+T*
+(Developing a cross-process reader/writer lock with limited readers, part 3: Fairness appeared) Tj
+T*
+(first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Developing a cross-process reader/writer lock with limited readers, part 2: Taking) Tj
+T*
+(turns when being grabby) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 29 Apr 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260429-00/?p=112286) Tj
+T*
+(Please, not everybody, everything all at once. The post Developing a cross-process) Tj
+T*
+(reader/writer lock with limited readers, part 2: Taking turns when being grabby appeared first) Tj
+T*
+(on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(10. You?re probably taking the wrong painkiller) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-04-30T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/painkillers/) Tj
+T*
+(This is an essay that recently appeared in Asterisk . Consider the rest of the risk issue for) Tj
+T*
+(all your risk needs. Lots of people die after overdosing on acetaminophen \(paracetamol,) Tj
+T*
+(Tylenol, Panadol\). In the U.S., it?s estimated to cause 56,000 emergency department visits,) Tj
+T*
+(2,600 hospitalizations, and 500 deaths per year. Acetaminophen has a scarily narrow therapeutic) Tj
+T*
+(window. The instructions on the package say it?s okay to take up to four grams per day. If you) Tj
+T*
+(take eight grams, your liver could fail and you could die. Meanwhile, it seems to be really) Tj
+T*
+(hard to kill yourself by overdosing on ibuprofen \(Advil, Nurofen, Motrin, Brufen\). In 2006,) Tj
+T*
+(Wood et al. searched the medical literature and found 10 documented cases in history. Nine of) Tj
+T*
+(those cases involved complicating factors, and in the 10th, a woman took the equivalent of more) Tj
+T*
+(than 500 standard \(200mg\) pills. So, for many years, if I needed a painkiller, I?d try to take) Tj
+T*
+(ibuprofen rather than acetaminophen. My logic was that if eight grams of acetaminophen could) Tj
+T*
+(kill my liver, then one gram was probably still hard on it. I?m fond of my liver and didn?t) Tj
+T*
+(want to cause it any unnecessary inconvenience. But guess what? My logic was wro...) Tj
+T*
+() Tj
+T*
+(11. Switching entirely to Corfu in my GNU Emacs configuration) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-04-30T02:24:23Z) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4612 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu) Tj
+T*
+(Somewhat recently I read this article on a modular completion framework for GNU Emacs \( via \)) Tj
+T*
+(and expressed a thought on the Fediverse : If lsp-mode in GNU Emacs supported corfu in addition) Tj
+T*
+(to \(or instead of\) company-mode, I would probably switch from company to corfu just to have a) Tj
+T*
+(unified completion environment. But I don't think as-you-type completion with LSP is supported) Tj
+T*
+(in anything except company-mode, and I'm not moving to eglot \(I looked once and rejected it\).) Tj
+T*
+(Oh well, maybe someday I can unify things a bit more. \(Or I will get annoyed with as-you-type) Tj
+T*
+(completion.\) \( I already use corfu for general completion , with company-mode only used in) Tj
+T*
+(lsp-mode buffers.\) I was wrong; corfu does support as you type completion . Corfu calls this) Tj
+T*
+(auto completion and doesn't enable it by default, but you can change that if you want, either) Tj
+T*
+(locally to specific buffers or generally. Today I gave things a try and after the dust has) Tj
+T*
+(settled, I've switched entirely to corfu , even in lsp-mode, with some additional changes. As I) Tj
+T*
+(discovered when I first explored as you type autocompletion in GNU Emacs , I like seeing the) Tj
+T*
+(completion information but what I don't want is to have my keystrokes stol...) Tj
+T*
+() Tj
+T*
+(12. Approximating even functions by powers of cosine) Tj
+T*
+(Source: John D. Cook | Published: Fri, 01 May 2026 00:06:12 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/30/burmanns-theorem/) Tj
+T*
+(A couple days ago I wrote a post about turning a trick into a technique, finding another use) Tj
+T*
+(for a clever way to construct simple, accurate approximations. I used as my example) Tj
+T*
+(approximating the Bessel function J\(x\) with \(1 + cos\(x\)\)/2. I learned via a helpful comment on) Tj
+T*
+(Mathstodon that my approximation was the first-order [?] The post Approximating even functions) Tj
+T*
+(by powers of cosine first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(13. Three ways to differentiate ReLU) Tj
+T*
+(Source: John D. Cook | Published: Thu, 30 Apr 2026 14:51:08 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/04/30/derivative-of-relu/) Tj
+T*
+(When a function is not differentiable in the classical sense there are multiple ways to compute) Tj
+T*
+(a generalized derivative. This post will look at three generalizations of the classical) Tj
+T*
+(derivative, each applied to the ReLU \(rectified linear unit\) function. The ReLU function is a) Tj
+T*
+(commonly used activation function for neural networks. It?s also called the [?] The post Three) Tj
+T*
+(ways to differentiate ReLU first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(14. Announcing the 2026 Open Source Fantasy Draft) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-04-30T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/04/30/open-source-fantasy-draft.html) Tj
+T*
+(Registration is now open for the sixth season of the Open Source Fantasy League. Twelve teams,) Tj
+T*
+(snake draft, standard scoring. The board goes live next Tuesday and as commissioner I?m) Tj
+T*
+(publishing the rule changes and some notes on this year?s class before everyone starts arguing) Tj
+T*
+(in the group chat. For anyone joining fresh: you draft a roster of maintainers, you score) Tj
+T*
+(points when their packages get downloaded, you lose points when their packages get a CVE, and) Tj
+T*
+(at the end of the season the winner chooses which charity receives the prize pool we forgot to) Tj
+T*
+(collect. It?s exactly like regular fantasy football except the players don?t know they?re) Tj
+T*
+(playing, aren?t paid, and can retire mid-season by archiving a repository. Roster slots One) Tj
+T*
+(BDFL, two Core, two Flex \(a Flex can be a maintainer or a bot, so yes, you can still start) Tj
+T*
+(Dependabot at Flex if you enjoy ninety pull requests and four points a week\), one Defence, one) Tj
+T*
+(Nebraska, four bench. The Nebraska slot is unchanged from last year: it must be filled by a) Tj
+T*
+(single individual nobody in your household has heard of whose project is a transitive) Tj
+T*
+(dependency of at least ten thousand other packages. Verification is on the honour system) Tj
+T*
+(because...) Tj
+T*
+() Tj
+T*
+(15. Notes from April 2026) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Thu, 30 Apr 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/notes-from-april-2026/) Tj
+T*
+(After a busy March , April was a little quieter. But don?t worry, I still have a bunch of) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4363 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(little links for you to click on. Things I published GitHub?s uptime hasn?t been great) Tj
+T*
+(recently. Even though I dislike the Microsoft subsidiary, I wrote ?In defense of GitHub?s poor) Tj
+T*
+(uptime? , which argues that it?s not as bad as folks seems to be saying. See this Lobsters) Tj
+T*
+(thread for some discussion. Published version 0.2.0 of setbigtimeout , my JavaScript library) Tj
+T*
+(for waiting a very long time . Like every month, I published a few articles over at Zelda) Tj
+T*
+(Dungeon . We had a slew of shitposts for April Fool?s this year. I think my favorite \(not) Tj
+T*
+(written by me\) was ?Daily Debate: Do You Think Old Man Was Once Young Man?? . Links I clicked) Tj
+T*
+(Ghost, my employer, was recognized as a digital public good . ?You can?t advertise people out) Tj
+T*
+(of reacting to their own experiences. This is a fundamental disconnect between how tech people) Tj
+T*
+(with software brains see the world and how regular people are living their lives.? From ?The) Tj
+T*
+(people do not yearn for automation? . I subscribed to the RSS feed for internet RFCs . Most of) Tj
+T*
+(this is over my head but it?s neat! This post argues that ?any gains we do realize [from LLM...) Tj
+T*
+() Tj
+T*
+(16. How an Oil Refinery Works) Tj
+T*
+(Source: Construction Physics | Published: Thu, 30 Apr 2026 12:03:35 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/how-an-oil-refinery-works) Tj
+T*
+(Though wind and solar continue to carve out larger and larger shares of world energy supply,) Tj
+T*
+(the modern world still runs on petroleum, and will continue to do so for the foreseeable) Tj
+T*
+(future.) Tj
+T*
+() Tj
+T*
+(17. Pluralistic: How not to ban surveillance pricing \(30 Apr 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 30 Apr 2026 14:38:35) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/04/30/something-must-be-done/) Tj
+T*
+(Today's links How not to ban surveillance pricing: Maryland's new consumer protection law is) Tj
+T*
+(all loophole. Hey look at this: Delights to delectate. Object permanence: Google's 8,000 Linux) Tj
+T*
+(servers; Battleshoe; Knitted potholes; Unpack the court; "Robot Artists and Black Swans";) Tj
+T*
+(Enshittifying tech jobs. Upcoming appearances: Berlin, NYC, Barcelona, Hay-on-Wye, London, NYC.) Tj
+T*
+(Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. How not to ban) Tj
+T*
+(surveillance pricing \(permalink\) If you want to piss me off, it's easy: just breezily assert) Tj
+T*
+(that our tech regulation problems are the result of the fast pace of technological change) Tj
+T*
+(racing ahead of the plodding speed of governmental action:) Tj
+T*
+(https://pluralistic.net/2026/04/22/uber-for-nurses/#go-meta While there have been some) Tj
+T*
+(instances in which this was true, it is far more often the case that there are blindingly) Tj
+T*
+(obvious answers to tech problems, which our lawmakers and regulators ignore, amidst a rising) Tj
+T*
+(chorus of warnings about the dire consequences of failing to act. Take the new Maryland bill) Tj
+T*
+(that \(supposedly\) outlaws surveill...) Tj
+T*
+() Tj
+T*
+(18. Thoughts on WebAssembly as a stack machine) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-04-29T19:28:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/) Tj
+T*
+(This week the article Wasm is not quite a stack machine has been making the rounds and has) Tj
+T*
+(caught my eye. The post claims that WASM is not a pure stack machine because it has locals and) Tj
+T*
+(is missing some stack manipulation operations like dup and swap . While I don't ?) Tj
+T*
+() Tj
+T*
+(19. If I Could Make My Own GitHub) Tj
+T*
+(Source: matduggan.com | Published: Thu, 30 Apr 2026 12:02:49 GMT) Tj
+T*
+(Link: https://matduggan.com/if-i-could-make-my-own-github/) Tj
+T*
+(My friend and I have a game where we talk about what we'd do if we were rich. Not rich like) Tj
+T*
+('paid off the mortgage' rich. Rich like a man who owns a submarine he's never been inside. Rich) Tj
+T*
+(like a man whose third) Tj
+T*
+() Tj
+T*
+(20. Sadly, You Can't Print Your Own \(safe\) mRNA Vaccine) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 30 Mar 2021 15:46:36 +0200) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3550 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://berthub.eu/articles/posts/sadly-you-cant-print-your-own-vaccine/) Tj
+T*
+(Brief post, in response to the many many many technical people that propose to print their own) Tj
+T*
+(mRNA vaccines ?now that the source is out there?. I?ve spent a lot of time individually) Tj
+T*
+(explaining why this is unlikely to happen any time soon, and I thought it a good idea to) Tj
+T*
+(explain it here as well. Mountains of details on how the vaccines are actually produced can be) Tj
+T*
+(found on this awesome page by Jonas Neubert and Cornelia Scheitz.) Tj
+T*
+() Tj
+T*
+(21. The Galileo Eccentric Satellite Surprise) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 21 Mar 2021 11:11:31 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/galileos-eccentric-satellites/) Tj
+T*
+(UPDATE: Back in December 2020 when this article was first posted, I noted that some receivers) Tj
+T*
+(might not be able to deal with the advent of production signals from the eccentric satellites.) Tj
+T*
+(This has indeed proved to be a problem for U-blox F9 series receivers in a specific) Tj
+T*
+(configuration. The application note links to this article \(thanks!\) and also \(correctly\) states) Tj
+T*
+(that the signals from the eccentric satellites do not in fact comply with the Galileo Open) Tj
+T*
+(Service ICD.) Tj
+T*
+() Tj
+T*
+(22. Corona Update: Licht aan het einde van de tunnel) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 14 Mar 2021 09:42:08 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-update-maart-2021/) Tj
+T*
+(En toen was het toch weer tijd voor een Corona Update, de eerste sinds november 2020. Doordat) Tj
+T*
+(er zoveel nieuws is geweest over varianten en vaccins is het zicht een beetje kwijt op waar we) Tj
+T*
+(nu zijn. En dat is des te vervelender nu de cijfers weer omhoog lijken te gaan. Daarom een) Tj
+T*
+(samenvatting die eigenlijk heel rooskleurig is, zelfs met de varianten. Dit betekent overigens) Tj
+T*
+(niet dat de maatregelen al opgeheven kunnen worden!) Tj
+T*
+() Tj
+T*
+(23. Why are the Artemis II photos on Flickr?) Tj
+T*
+(Source: Anil Dash | Published: 2026-04-30T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/04/30/artemis-photos-flickr/) Tj
+T*
+(If you followed along with the recent joyful celebrations of the Artemis cruise around the) Tj
+T*
+(moon, and took a moment to dive into the photographic archives of the mission, you might have) Tj
+T*
+(noticed that all of the original images were shared by NASA on the venerable photo sharing) Tj
+T*
+(service Flickr . What you might not know is? why? Here?s the TL;DR: Flickr comes from \(and) Tj
+T*
+(helped start!\) the Web 2.0 era, which was based on users having control over their data Tools) Tj
+T*
+(at that time began giving creators the power to decide what license they wanted to release) Tj
+T*
+(their content under, including permissions about how it could be shared, used, or remixed) Tj
+T*
+(Because the people who made platforms back then were users and creators themselves, they) Tj
+T*
+(thought about the long term and wanted to be able to preserve people?s work After lots of) Tj
+T*
+(corporate shuffling, Flickr ended up in the hands of a family-owned company, SmugMug, and they) Tj
+T*
+(made the Flickr Foundation to preserve public photos for the next 100 years NASA?s images) Tj
+T*
+(should only be on a service where they can be stored in full resolution, for the long term,) Tj
+T*
+(dedicated to the public domain ? which the other social media apps of today can?t do The) Tj
+T*
+(Photographic...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004673 00000 n 
+0000004799 00000 n 
+0000009093 00000 n 
+0000009219 00000 n 
+0000013883 00000 n 
+0000014009 00000 n 
+0000018425 00000 n 
+0000018553 00000 n 
+0000022156 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+22284
+%%EOF
