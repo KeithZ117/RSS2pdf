@@ -1,0 +1,632 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4316 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-02 09:39:18) Tj
+T*
+() Tj
+T*
+(1. iNaturalist Sightings) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-01T19:35:41+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything) Tj
+T*
+(Tool: iNaturalist Sightings I wanted to see my iNaturalist observations - across two separate) Tj
+T*
+(accounts - grouped by when they occurred. I'm camping this weekend so I built this entirely on) Tj
+T*
+(my phone using Claude Code for web. I started by building an inaturalist-clumper Python CLI for) Tj
+T*
+(fetching and "clumping" observations - by default clumps use observations within 2 hours and) Tj
+T*
+(5km of each other. Then I setup simonw/inaturalist-clumps as a Git scraping repository to run) Tj
+T*
+(that tool and record the result to clumps.json . That JSON file is hosted on GitHub, which) Tj
+T*
+(means it can be fetched by JavaScript using CORS. Finally I ran this prompt against my) Tj
+T*
+(simonw/tools repo: Build inat-sightings.html - an app that does a fetch\(\) against) Tj
+T*
+(https://raw.githubusercontent.com/simonw/inaturalist-clumps/refs/heads/main/clumps.json and) Tj
+T*
+(then displays all of the observations on one page using the) Tj
+T*
+(https://static.inaturalist.org/photos/538073008/small.jpg small.jpg URLs for the thumbnails -) Tj
+T*
+(with loading=lazy - but when a thumbnail is clicked showing the large.jpg in an HTML modal.) Tj
+T*
+(Both small and large should include the common species names if available Tags: tools ,) Tj
+T*
+(claude-code , inaturalist , generative-ai...) Tj
+T*
+() Tj
+T*
+(2. We need RSS for sharing abundant vibe-coded apps) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-30T18:38:48+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything) Tj
+T*
+(We need RSS for sharing abundant vibe-coded apps Matt Webb: I would love an RSS web feed for) Tj
+T*
+(all those various tools and apps pages, each item with an ?Install? button. \(But install to) Tj
+T*
+(where?\) The lesson here is that when vibe-coding accelerates app development, apps become more) Tj
+T*
+(personal, more situated, and more frequent. Shipping a tool or a micro-app is less like) Tj
+T*
+(launching a website and more like posting on a blog. This inspired me to have Claude add an) Tj
+T*
+(Atom feed \(and icon\) to my /elsewhere/tools/ page, which itself is populated by content from my) Tj
+T*
+(tools.simonwillison.net site. Tags: atom , matt-webb , rss , ai , vibe-coding) Tj
+T*
+() Tj
+T*
+(3. llm 0.32a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-29T18:57:47+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything) Tj
+T*
+(Release: llm 0.32a0 See the annotated release notes . Tags: llm) Tj
+T*
+() Tj
+T*
+(4. SBC Clusters are a terrible value, but they're fun anyway) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 01 May 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/) Tj
+T*
+(Pictured above is the new DeskPi Super4C installed in an 8U mini rack. The Super4C is a 4-node) Tj
+T*
+(Raspberry Pi CM5 cluster board that solves two pain points I had with the older Super6C . I was) Tj
+T*
+(testing this board around the same time I helped kick off the SBCC 2026 , the Single Board) Tj
+T*
+(Cluster Competition for students. A dozen or so university teams squared off to run the best) Tj
+T*
+(mini HPC cluster with a budget of $6,000, and a couple days to benchmark six HPC workloads .) Tj
+T*
+() Tj
+T*
+(5. More on Apple?s Logically Elegant Tariff Refund Puzzle Solution) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-02T01:06:31Z) Tj
+T*
+(Link: https://daringfireball.net/linked/2026/05/01/tim-cooks-clever-solution-to-the-tariff-refu) Tj
+T*
+(nd-puzzle) Tj
+T*
+(Regarding my earlier post about the cleverness of Tim Cook?s solution to Apple?s dilemma) Tj
+T*
+(regarding how to apply for, and accept, a potential tariff refund check without drawing the ire) Tj
+T*
+(of Donald ? Tariff Is My Favorite Word ? Trump, at least one reader asked why Tim Cook) Tj
+T*
+(committing to spending the refund check on ?U.S. innovation and advanced manufacturing? doesn?t) Tj
+T*
+(mean that Apple would ? if they get a tariff refund ? be spending more than they had previously) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4835 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(committed to. Cook even said yesterday , ?These would be new investments and would be in) Tj
+T*
+(addition to our prior commitments in the U.S.? But there?s never been any precise accounting) Tj
+T*
+(for these commitments. Apple committed to spend ?more than $500 billion?. ?More than $500) Tj
+T*
+(billion? plus their tariff refund check would still be ?more than $500 billion?. Here?s what I) Tj
+T*
+(wrote when Apple first made this current commitment in February 2025, just weeks after Trump?s) Tj
+T*
+(second term started : Apple announced a similar plan four years ago ? $430 billion and 20,000) Tj
+T*
+(jobs. In the announcement of that 2021 plan, Apple said , ?Over the past three years, Apple?s) Tj
+T*
+(contributions in the US have significantly outpaced the company?s original five-year...) Tj
+T*
+() Tj
+T*
+(6. Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers) Tj
+T*
+(on the Toilet) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-01T21:00:36Z) Tj
+T*
+(Link: https://www.bbc.com/news/articles/c5y7yvgy0w6o) Tj
+T*
+(Remember the appalling but utterly-unsurprising story two months ago where a team of) Tj
+T*
+(investigative reporters in Sweden uncovered a company in Kenya contracted by Meta to review) Tj
+T*
+(video content captured by Meta?s ?smart? glasses? They spoke to some of the workers , who told) Tj
+T*
+(tales of reviewing footage of Meta glasses users getting undressed, having sex, and taking) Tj
+T*
+(dumps. This is a rather seedy job, and a big surprise to most of the people wearing Meta?s AI) Tj
+T*
+(glasses, who are under the impression that ?AI? does not involve human beings in Kenya seeing) Tj
+T*
+(what their glasses capture. Well, Meta has fixed the problem. Chris Vallance reports for BBC) Tj
+T*
+(News : Meta is under pressure to explain why it cancelled a major contract with a company it) Tj
+T*
+(was using to train AI, shortly after some of its Kenya-based workers alleged they had to view) Tj
+T*
+(graphic content captured by Meta smart glasses. In February, workers at the company, Sama, told) Tj
+T*
+(two Swedish newspapers they had witnessed glasses users going to the toilet, and having sex .) Tj
+T*
+(Less than two months later, Meta ended its contract with Sama, which Sama said would result in) Tj
+T*
+(1,108 workers being made redundant. Meta says it?s because Sama did not meet its st...) Tj
+T*
+() Tj
+T*
+(7. Tim Cook?s Clever Solution to the Tariff Refund Puzzle) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-01T20:30:47Z) Tj
+T*
+(Link: https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/) Tj
+T*
+(One more from Jason Snell, from his analysis of Apple?s quarterly results: During a complicated) Tj
+T*
+(question from J.P. Morgan analyst Samik Chatterjee about product margins, Parekh unusually) Tj
+T*
+(half-answered the question and then stopped and ?turned it over to Tim? so that Cook could read) Tj
+T*
+(an obviously prepared statement about tariffs, which included this bit: In terms of applying) Tj
+T*
+(for a refund of tariffs paid, we?re following the established processes, and we plan to) Tj
+T*
+(reinvest any amount we receive back into U.S. innovation and advanced manufacturing. These) Tj
+T*
+(would be new investments and would be in addition to our prior commitments in the U.S. This is) Tj
+T*
+(the sort of politics Cook will continue to be plying from the boardroom. Sure, Apple?s going to) Tj
+T*
+(try to get its tariff money back. But it?s going to do so using the perfectly normal and) Tj
+T*
+(established process, and if it does get billions back from the U.S. government, it) Tj
+T*
+(double-promises to reinvest that money in the United States, above and beyond its already) Tj
+T*
+(stated commitments. Trump Administration, take note. The kind of logic puzzles I enjoy most are) Tj
+T*
+(ones where, when the puzzle is posed, there?s no obvious solution. But once you see the) Tj
+T*
+(solutio...) Tj
+T*
+() Tj
+T*
+(8. Disable Auto-Update) Tj
+T*
+(Source: iDiallo.com | Published: Fri, 01 May 2026 23:30:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/disable-auto-update?src=feed) Tj
+T*
+(How is it possible that a feature I use every day, in an app I rely on daily, entirely offline,) Tj
+T*
+(just disappeared from my phone? I use a fitness app. My metrics, such as steps, workout) Tj
+T*
+(routines, heart rate, are collected from a wearable device like a smartwatch and sent to the) Tj
+T*
+(app via Bluetooth. No third-party servers are involved in that transaction. The data lives on) Tj
+T*
+(the phone. It costs the developer nothing to maintain, because there's nothing to maintain on) Tj
+T*
+(their end. Then the app updates, just once, and that data is no longer accessible. Not because) Tj
+T*
+(it was deleted or corrupted. Because the developer decided you now need to create an account on) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4741 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(their servers to access information that already exists on your own device. That's why I have) Tj
+T*
+(auto-update disabled on every device I own. Some of the apps on my phone are older than my) Tj
+T*
+(children. You couldn't download them today even if you wanted to. The developer no longer) Tj
+T*
+(offers that version. One of my apps is a single screen that displays information based on GPS) Tj
+T*
+(data and compass orientation. I downloaded it in 2014. I've switched phones twice since then,) Tj
+T*
+(and each time I've made sure to carry that app with me. I didn't keep it out of...) Tj
+T*
+() Tj
+T*
+(9. Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 01 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291) Tj
+T*
+(Recovering from death of the owner. The post Developing a cross-process reader/writer lock with) Tj
+T*
+(limited readers, part 4: Abandonment appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(10. Learning my lesson that Python virtual environments aren't always movable) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-01T02:54:21Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/python/VenvsNotEntirelyMovable) Tj
+T*
+(I've said before that Python virtual environments can be moved around . Well, technically that) Tj
+T*
+(entry said 'usually', but in practice I don't remember the limitations I mentioned in that) Tj
+T*
+(entry. And that is how a while back I renamed the top level directory of a Django virtual) Tj
+T*
+(environment that I'd also installed the Python LSP server into , and then yesterday I was) Tj
+T*
+(rather puzzled when I tried some Django development and GNU Emacs gave me a weird error and) Tj
+T*
+(didn't start my LSP environment. \(Fortunately what I was really doing was seeing how my new) Tj
+T*
+(Corfu based lsp-mode completion would behave with some Python code.\) The issue is simple: every) Tj
+T*
+(\(Python\) program installed into your venv 's bin/ directory starts with ') Tj
+T*
+(#!/path/to/venv/bin/python3 ', including programs like pylsp , the Python LSP server . They) Tj
+T*
+(have to do this because they need to run the venv's Python, but that means that they're locked) Tj
+T*
+(to the original filesystem location of the venv. If you move the venv, either there will be no) Tj
+T*
+('python3' at that path for them to run or worse, you'll be pointing into and using a different) Tj
+T*
+(venv. Programs outside the venv aren't normally affected, because they're directly using the) Tj
+T*
+(venv's bi...) Tj
+T*
+() Tj
+T*
+(11. NHS Goes To War Against Open Source) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 01 May 2026 11:44:04 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/) Tj
+T*
+(The NHS is preparing to close nearly all of its Open Source repositories. Throughout my time) Tj
+T*
+(working for the UK Government - in GDS, NHSX, i.AI, and others - I championed Open Source. I) Tj
+T*
+(spoke to dozens of departments about it, wrote guidance still in use today, and briefed) Tj
+T*
+(Ministers on why it was so important. That's why I'm beyond disappointed at recent moves from) Tj
+T*
+(NHS England to backtrack on?) Tj
+T*
+() Tj
+T*
+(12. Offline command line translation with TranslateGemma + Ollama) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Fri, 01 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/offline-cli-translation-with-translategemma-and-ollama/) Tj
+T*
+(I wrote a simple script that translates text at the command line, completely offline. Here?s an) Tj
+T*
+(example of how it works on my computer: echo 'øCÛmo est·s?' | translate # => How are you? It) Tj
+T*
+(combines a few tools: TranslateGemma , a special-purpose language model for translation Ollama) Tj
+T*
+(, a tool for running language models locally Efficient Language Detector , a library that) Tj
+T*
+(detects the language for a piece of text Here?s the pseudocode of how it works: source =) Tj
+T*
+(read_stdin\(\) # Uses Efficient Language Detector source_language = detect_language\(source\) #) Tj
+T*
+(Uses JavaScript's `navigator.language` target_language = get_system_language\(\) # Uses Ollama +) Tj
+T*
+(TranslateGemma return translate\(source, source_language, target_language\) I built this because) Tj
+T*
+(I couldn?t find anyone else who had done it. It?s written in Deno for my specific needs?for) Tj
+T*
+(example, it only translates text into your system?s language?but could easily be adapted if you) Tj
+T*
+(need something else. I like that I can do offline, private, automatic translation. It?s) Tj
+T*
+(imperfect, but useful for me! Here?s the source code.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4708 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(13. Patching and forking in package managers) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-01T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html) Tj
+T*
+(When a dependency has a known vulnerability and no maintainer to release a fix, you have to fix) Tj
+T*
+(it yourself. Clone the source, apply the patch, get the patched version back into your) Tj
+T*
+(dependency tree. The volume of reported CVEs is going to rise, and many will land in packages) Tj
+T*
+(where nobody is around to cut a release. System package managers handled this a long time ago.) Tj
+T*
+(Debian?s debian/patches/ with quilt and DEP-3 headers, RPM?s Patch0: directives in spec files,) Tj
+T*
+(Gentoo?s /etc/portage/patches/ , Nix?s patches attribute in derivations, Homebrew?s patch do) Tj
+T*
+(... end blocks in formulae. Distribution maintainers are expected to carry deltas against) Tj
+T*
+(upstream, and the tooling is designed around that assumption. Language package managers were) Tj
+T*
+(designed around a different assumption: the registry version is authoritative, the user picks) Tj
+T*
+(which version they want, and nobody modifies what?s inside. When upstream can?t or won?t) Tj
+T*
+(release a fix, users hit tooling that wasn?t built for the situation they?re in. What you need) Tj
+T*
+(depends on the situation. Redirecting a dependency to a fork you control is the most common) Tj
+T*
+(workaround. Overriding what the resolver picks for a transitive dependency buried in y...) Tj
+T*
+() Tj
+T*
+(14. AI will create jobs) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-05-01T00:00:00-07:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/05/01/ai-will-create-jobs.html) Tj
+T*
+(It?s nice to see Jensen talk about this , and it?s super obvious when you think about it. AI) Tj
+T*
+(and immigration are fundamentally the same. There?s new people showing up, and hopefully) Tj
+T*
+(everyone understands how and why immigration creates jobs. Wants are effectively unlimited.) Tj
+T*
+(It?s classic Jevons paradox that if we make something more efficient, we end up using more of) Tj
+T*
+(it. Or a cool aphorism I learned at Facebook, if you make the site 10% faster, people spend 5%) Tj
+T*
+(more total time on it. Now, just like you get the wahh wahh crying people about how immigration) Tj
+T*
+(lowers wages for native born Americans and we gotta keep the hard working immigrants out) Tj
+T*
+(because you have some right to be lazy because of where you were born or something, you?ll get) Tj
+T*
+(this about AI. AI will outcompete some humans at some jobs. But protectionism is for losers.) Tj
+T*
+(The important thing is that the overall pie grows, and inequality stays somewhat in check, not) Tj
+T*
+(by redistribution but by design. There will be more to do than ever before.) Tj
+T*
+() Tj
+T*
+(15. Touch Typing Number Keys) Tj
+T*
+(Source: Susam Pal | Published: Fri, 01 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/touch-typing-number-keys.html) Tj
+T*
+(I learnt touch typing about two decades ago when I was still at university. Although I took) Tj
+T*
+(some typewriter lessons as a child, those lessons did not stick with me. It was at university,) Tj
+T*
+(when I found a Java applet-based touch typing tutor on the web, that I really learnt to touch) Tj
+T*
+(type. Since then, touch typing has been an important part of my computing life. I've sometimes) Tj
+T*
+(read arguments on the web downplaying touch typing as a skill, with claims like 'typing isn't) Tj
+T*
+(the bottleneck, thinking is'. While that may be true, I still consider touch typing a useful) Tj
+T*
+(skill, since it makes writing documents, code and email feel much more fluid and pleasant. It's) Tj
+T*
+(like playing a musical instrument with the correct technique, rather than simply getting by) Tj
+T*
+(without it. One feels smooth and expressive and the other feels raw and laboured. Later in) Tj
+T*
+(life, I also wrote a tool named QuickQWERTY so that I could share the joy of touch typing with) Tj
+T*
+(my friends. The tool teaches typing only with the QWERTY layout. I wrote it at a time when I) Tj
+T*
+(did not know much about the computing world, so I was not even aware that other keyboard) Tj
+T*
+(layouts existed. As a result, only QWERTY is supported. The tool is free and ope...) Tj
+T*
+() Tj
+T*
+(16. Apr '26 Notes) Tj
+T*
+(Source: Susam Pal | Published: Thu, 30 Apr 2026 00:00:00 +0000) Tj
+T*
+(Link: https://susam.net/26d.html) Tj
+T*
+(This is my fourth set of monthly notes for this year where I write down interesting facts and) Tj
+T*
+(ideas I have explored during my spare time. There were three things in particular that occupied) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4074 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(my leisure time this month. First, I managed to learn the proof of Tutte's famous theorem that) Tj
+T*
+(any \\\( s \\\)-arc-transitive finite cubic graph must satisfy \\\( s \\le 5. \\\) I learnt the proof) Tj
+T*
+(from Norman Biggs's book Algebraic Graph Theory . The original proof appears in Tutte's 1947) Tj
+T*
+(paper 'A family of cubical graphs' \( DOI \). Biggs's presentation differs considerably from) Tj
+T*
+(Tutte's original argument and relies heavily on the properties of stabiliser sequences of arcs.) Tj
+T*
+(I should say that Biggs's proof, while complete, is extremely condensed. The proof reads more) Tj
+T*
+(like a high-level outline that moves rapidly from one main result to the next without) Tj
+T*
+(sufficiently explaining the intermediate steps. As a result, it took considerable effort to) Tj
+T*
+(work out the proofs of the intermediate results. Biggs presents the proof in roughly nine pages) Tj
+T*
+(spread across two chapters. However, when I worked through it in full detail while ensuring) Tj
+T*
+(that every step is justified, my notes eventually grew to around 18 pages of A4 p...) Tj
+T*
+() Tj
+T*
+(17. The Mystery of Rennes-le-Ch‚teau, Part 5: The Man Behind the Curtain) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 01 May 2026 15:46:03 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the) Tj
+T*
+(-curtain/) Tj
+T*
+(This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3:) Tj
+T*
+(Blood of the Sacred, Blood of the Damned. It is possible to trace the Plantard family tree a) Tj
+T*
+(fair ways back without relying on the Lobineau dossier, but not as far back as the time when) Tj
+T*
+(the Merovingian kings ruled [?]) Tj
+T*
+() Tj
+T*
+(18. Hire Me - semi-popular science writing) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 09 Mar 2021 11:25:34 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/hire-me-semi-popular-science/) Tj
+T*
+(In short, if you need engaging in-depth articles on your scientific project, your research) Tj
+T*
+(breakthrough or the grand new technical/space/molecular/medical thing you are building, you can) Tj
+T*
+(hire me! \(Semi-\)Popular science writing I do a lot of what I call ?\(Semi-\)popular science) Tj
+T*
+(writing?. My recent article dissecting the BioNTech/Pfizer SARS-CoV-2 vaccine has racked up) Tj
+T*
+(over 1.5 million views \(so far\), and it has done the rounds of the pharmaceutical world where) Tj
+T*
+(it got favourable reviews.) Tj
+T*
+() Tj
+T*
+(19. The CureVac Vaccine, and a brief tour through some of the wonders of nature) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 08 Mar 2021 18:22:24 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/curevac-vaccine-and-wonders-of-biology/) Tj
+T*
+(In previous posts I described how the two currently approved mRNA vaccines both use ?modified) Tj
+T*
+(nucleosides? to enhance their efficiency. Meanwhile, a company called CureVac has created an) Tj
+T*
+(mRNA vaccine that uses regular, unmodified, RNA. It is currently being tested in large scale) Tj
+T*
+(trials. In this post I explain what the challenges are with this plain RNA approach, and we) Tj
+T*
+(reverse engineer quite closely what CureVac has done with regular RNA to \(hopefully\) deliver an) Tj
+T*
+(effective vaccine.) Tj
+T*
+() Tj
+T*
+(20. Stimulating Innovation with Money) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 07 Mar 2021 18:51:43 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/stimulating-innovation/) Tj
+T*
+(This article is part of a series on \(European\) innovation and capabilities. Periodically I read) Tj
+T*
+(about governments or institutions wanting to stimulate innovation, often to achieve a certain) Tj
+T*
+(\(worthy\) goal. Frequently, the far larger amounts of money that other countries or continents) Tj
+T*
+(are spending on innovation are then bandied about as justification. And I die a little inside) Tj
+T*
+(every time that happens. Money and innovation have a very intricate relation.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004585 00000 n 
+0000004711 00000 n 
+0000009598 00000 n 
+0000009724 00000 n 
+0000014517 00000 n 
+0000014643 00000 n 
+0000019404 00000 n 
+0000019532 00000 n 
+0000023659 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+23787
+%%EOF
