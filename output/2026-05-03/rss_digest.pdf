@@ -1,0 +1,506 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4565 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-03 09:39:23) Tj
+T*
+() Tj
+T*
+(1. Sightings) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-02T17:26:40+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/2/sightings/#atom-everything) Tj
+T*
+(/elsewhere/sightings/ I have a new camera \(a Canon R6 Mark II\) so I'm taking a lot more photos) Tj
+T*
+(of birds. I share my best wildlife photos on iNaturalist , and based on yesterday's successful) Tj
+T*
+(prototype I decided to add those to my blog. I built this feature on my phone using Claude Code) Tj
+T*
+(for web, as an extension of my beats system for syndicating external content. Here's the PR and) Tj
+T*
+(prompt. As with my other forms of incoming syndicated content sightings show up on the) Tj
+T*
+(homepage, the date archive pages, and in site search results. I back-populated over a decade of) Tj
+T*
+(iNaturalist sightings, which means you that if you search for lemur you'll see my lemur photos) Tj
+T*
+(from Madagascar in 2019! Tags: blogging , photography , wildlife , ai , inaturalist ,) Tj
+T*
+(generative-ai , llms , ai-assisted-programming , claude-code) Tj
+T*
+() Tj
+T*
+(2. Introducing talkie: a 13B vintage language model from 1930) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-28T02:47:42+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/28/talkie/#atom-everything) Tj
+T*
+(Introducing talkie: a 13B vintage language model from 1930 New project from Nick Levine , David) Tj
+T*
+(Duvenaud , and Alec Radford \(of GPT, GPT-2, Whisper fame\). talkie-1930-13b-base \(53.1 GB\) is a) Tj
+T*
+("13B language model trained on 260B tokens of historical pre-1931 English text".) Tj
+T*
+(talkie-1930-13b-it \(26.6 GB\) is a checkpoint "finetuned using a novel dataset of) Tj
+T*
+(instruction-response pairs extracted from pre-1931 reference works", designed to power a chat) Tj
+T*
+(interface. You can try that out here . Both models are Apache 2.0 licensed. Since the training) Tj
+T*
+(data for the base model is entirely out of copyright \(the USA copyright cutoff date is) Tj
+T*
+(currently January 1, 1931\), I'm hoping they later decide to release the training data as well.) Tj
+T*
+(Update on that: Nick Levine on Twitter : Will publish more on the corpus in the future \(and do) Tj
+T*
+(our best to share the data or at least scripts to reproduce it\). Their report suggests some) Tj
+T*
+(fascinating research objectives for this class of model, including: How good are these models) Tj
+T*
+(at predicting the future? "we calculated the surprisingness of short descriptions of historical) Tj
+T*
+(events to a 13B model trained on pre-1931 text" Can these models invent things that are past) Tj
+T*
+(their...) Tj
+T*
+() Tj
+T*
+(3. A pelican for GPT-5.5 via the semi-official Codex backdoor API) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-04-23T19:59:47+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything) Tj
+T*
+(GPT-5.5 is out . It's available in OpenAI Codex and is rolling out to paid ChatGPT subscribers.) Tj
+T*
+(I've had some preview access and found it to be a fast, effective and highly capable model. As) Tj
+T*
+(is usually the case these days, it's hard to put into words what's good about it - I ask it to) Tj
+T*
+(build things and it builds exactly what I ask for! There's one notable omission from today's) Tj
+T*
+(release - the API: API deployments require different safeguards and we are working closely with) Tj
+T*
+(partners and customers on the safety and security requirements for serving it at scale. We'll) Tj
+T*
+(bring GPT?5.5 and GPT?5.5 Pro to the API very soon. When I run my pelican benchmark I always) Tj
+T*
+(prefer to use an API, to avoid hidden system prompts in ChatGPT or other agent harnesses from) Tj
+T*
+(impacting the results. The OpenClaw backdoor One of the ongoing tension points in the AI world) Tj
+T*
+(over the past few months has concerned how agent harnesses like OpenClaw and Pi interact with) Tj
+T*
+(the APIs provided by the big providers. Both OpenAI and Anthropic offer popular monthly) Tj
+T*
+(subscriptions which provide access to their models at a significant discount to their raw API.) Tj
+T*
+(OpenClaw integrated directly with this mechanism, and was then blocked...) Tj
+T*
+() Tj
+T*
+(4. The Talk Show: ?Food and Beverage Director?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-01T02:58:44Z) Tj
+T*
+(Link: https://daringfireball.net/thetalkshow/2026/04/30/ep-446) Tj
+T*
+(MG Siegler returns to the show to discuss Apple?s announcement that Tim Cook is stepping aside) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4661 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(\(into the role of executive chairman\) and John Ternus will become CEO. Sponsored by:) Tj
+T*
+(Squarespace : Save 10% off your first purchase of a website or domain using code TALKSHOW .) Tj
+T*
+(Drafts : The Swiss Army knife for text on all your Apple devices. Act now to get your first) Tj
+T*
+(year of Drafts Pro for 50% off. Finalist : A daily planner for iPhone, iPad and Mac, built on) Tj
+T*
+(proven paper-based planning methods. Use this link to get six months free. ?) Tj
+T*
+() Tj
+T*
+(5. Scientology ?Speed Running? Trend) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-01T02:36:36Z) Tj
+T*
+(Link: https://www.theguardian.com/us-news/2026/apr/30/hollywood-church-of-scientology-speed-run) Tj
+T*
+(s?CMP=bsky_gu) Tj
+T*
+(Uwa Ede-Osifo, reporting for The Guardian: On any given day, Los Angeles?s Hollywood Boulevard) Tj
+T*
+(teems with tourists and street performers clustered near the area?s many landmarks. But in) Tj
+T*
+(recent months, the strip has been set abuzz for a new reason. Throngs of mostly adolescent boys) Tj
+T*
+(and young men have been rushing the Church of Scientology?s international headquarters on the) Tj
+T*
+(famed street. The so-called ?speed runs? appear to be bids for social media valor ? clips of) Tj
+T*
+(the raids have amassed millions of views on TikTok ? as much as they are an outgrowth of public) Tj
+T*
+(intrigue surrounding the church, which has previously drawn accusations of being a cult. Some) Tj
+T*
+(users have developed blueprints for the building based on information gathered from videos of) Tj
+T*
+(the raids. I?m not condoning it, of course, but this video of one guy doing it sure was fun to) Tj
+T*
+(watch. Update: Now the kids are speed running Palantir too . ?) Tj
+T*
+() Tj
+T*
+(6. New Banksy in London) Tj
+T*
+(Source: Daring Fireball | Published: 2026-04-30T14:25:27Z) Tj
+T*
+(Link: https://www.instagram.com/reel/DXwf7pis6KT/) Tj
+T*
+(Brilliant statue, hilarious intro video. The greatest artist of our age. ?) Tj
+T*
+() Tj
+T*
+(7. Editing my LLM assisted Articles) Tj
+T*
+(Source: iDiallo.com | Published: Sat, 02 May 2026 03:00:23 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed) Tj
+T*
+(Last year, I used AI to help me write articles. As I've mentioned before , it's convenient when) Tj
+T*
+(you are doing so because it saves you time. But the problem comes up when you try to quote) Tj
+T*
+(those articles back. Whatever you think you wrote is not what's in there. I always cringe when) Tj
+T*
+(I read them back. As I've said before, I'm rewriting those articles so that they capture my) Tj
+T*
+(voice, and so that I can actually quote the real thoughts I had in mind at the time of writing.) Tj
+T*
+(I will show you exactly what the article looked like before and after. From prompt, to the) Tj
+T*
+(final post, and the new edit. Prompt: Feb 4th, 2025 on DeepSeek I am writing a blog post, help) Tj
+T*
+(me refine it . It should be a fun read that helps convince readers that building useless tools) Tj
+T*
+(is part of the journey and career growth. Programmers don't use calculators, they build them) Tj
+T*
+(and abandon them 3 quarters completed. The start of a project is always exciting. You have an) Tj
+T*
+(brilliant idea, you have the skills to build it, and you have a blind spot. This blind spot) Tj
+T*
+(propels you into a journey of excitement, setting up the project, deciding on frameworks,) Tj
+T*
+(paying for AWS servers. You even get to test some of your ideas in a prototype...) Tj
+T*
+() Tj
+T*
+(8. How backups work depends on the goals of the people setting them up) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-02T20:14:00Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BackupsDependOnGoals) Tj
+T*
+(One of the recent commotions in my corner of the tech sphere was over an incident where a piece) Tj
+T*
+(of software deleted a company's production database and all of its backups. The software got) Tj
+T*
+(all of the backups too because, I'll quote: [Their SaaS provider] stores volume-level backups) Tj
+T*
+(in the same volume ? a fact buried in their own documentation that says "wiping a volume) Tj
+T*
+(deletes all backups" ? [...] A lot of people were horrified, but I had some sympathies with the) Tj
+T*
+(SaaS provider . An important thing about backups is how backups work depends on what you're) Tj
+T*
+(trying to recover from , and for certain sorts of disasters and recoveries, this decision is) Tj
+T*
+(perfectly sensible. For a SaaS company, they also depend on customer support needs and what) Tj
+T*
+(customers are going to want, and the decision can also make sense from that perspective. In) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4642 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(this case, the obvious question is whether the SaaS provider is trying to protect customers) Tj
+T*
+(from loss of data in the volume or from deliberate deletion of the volume. If what you're) Tj
+T*
+(protecting people from is an accidental 'DROP TABLE' or an accidental 'rm' \(or an accidental) Tj
+T*
+(overwrite of something important\), then in volume backups such as ZFS snapshots make pe...) Tj
+T*
+() Tj
+T*
+(9. Some of our servers revived themselves unexpectedly) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-02T03:55:18Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServersSurpriseRevival) Tj
+T*
+(We have a whole building, weekend long power shutdown in the building with our machine room) Tj
+T*
+(that officially starts tomorrow \(Saturday\) morning at 5am, which is the motivation for our) Tj
+T*
+(newly added temporary backup MX . Because we like to be in control of both the shutdown and the) Tj
+T*
+(startup of our machines, we turn machines off in advance for scheduled outages \(there's not) Tj
+T*
+(much we can do about unscheduled ones \). For various reasons we did the shutdown earlier this) Tj
+T*
+(evening. \(One reason to start machines under controlled circumstances is that sometimes) Tj
+T*
+(hardware fails , things go wrong , or you discover unfortunate aspects of your environment \() Tj
+T*
+(also \). At least these days we've mostly learned lessons from previous power shutdowns and) Tj
+T*
+(startups , although there are aspects I hadn't fully absorbed and will write about later.\)) Tj
+T*
+(During the shutdown, something surprising happened, which is that all of our ZFS fileservers) Tj
+T*
+(came back to life . We definitely ran ' poweroff ' on each of them and they were off the) Tj
+T*
+(network for some amount of time, but then my co-workers doing work in the machine room noticed) Tj
+T*
+(that they were all powered back on. We ran ' poweroff ' on the rebooted servers and they) Tj
+T*
+(shut...) Tj
+T*
+() Tj
+T*
+(10. A GitHub for maintainers) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-02T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/02/a-github-for-maintainers.html) Tj
+T*
+(Mat Duggan wrote up what he?d want from a GitHub replacement and it?s a reasonable list if) Tj
+T*
+(you?re the one at the keyboard. Stacked PRs, pre-push feedback, offline review, lazy history,) Tj
+T*
+(graduated approval states. Reading through it I kept noticing that almost every item is a) Tj
+T*
+(client problem, and the clients are already solving it. Jujutsu does stacked changes better) Tj
+T*
+(than any web UI is going to. Review is moving into editors. Pre-commit feedback wants to run on) Tj
+T*
+(your machine, where the files are. The things I want from a forge are the things that can?t) Tj
+T*
+(move to the client because they involve more than one party. Who depends on you, who you depend) Tj
+T*
+(on, what happened to that project you forked from three years ago, where the active development) Tj
+T*
+(moved to when the original went quiet. Almost none of that happens inside a single repository.) Tj
+T*
+(It happens in the relationships between them, and that?s the part GitHub has barely touched in) Tj
+T*
+(years and the part none of the would-be replacements are talking about either. So my version of) Tj
+T*
+(Mat?s list is mostly about coordination between projects. The only relationship between two) Tj
+T*
+(repos that GitHub actually models is the fork, because in 2008 the way you...) Tj
+T*
+() Tj
+T*
+(11. Reading List 05/02/2026) Tj
+T*
+(Source: Construction Physics | Published: Sat, 02 May 2026 12:01:30 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-05022026) Tj
+T*
+(Chilling effects in the build-to-rent sector, how fast could robot manufacturing scale up,) Tj
+T*
+(PJM?s new interconnection queue, the backlash against battery storage, and more.) Tj
+T*
+() Tj
+T*
+(12. Pluralistic: The prehistory of the Democratic Nuremberg Caucus \(02 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 02 May 2026 11:22:11) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/05/02/denazification/) Tj
+T*
+(Today's links The prehistory of the Democratic Nuremberg Caucus: Do bounties for ICE) Tj
+T*
+(whistleblowers next! Hey look at this: Delights to delectate. Object permanence: Colbert v GWB;) Tj
+T*
+(Wallaby milk; Jay Rosen's journalism precepts; Radical Media\(TM\); What is carried interest? TCP) Tj
+T*
+(over pigeon; BNL v copyright; RIP Joanna Russ; GOP forcing students to repay scam loans.) Tj
+T*
+(Upcoming appearances: Berlin, NYC, Barcelona, Hay-on-Wye, London, NYC. Recent appearances:) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3756 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like) Tj
+T*
+(I said, I'll keep writin' 'em. Colophon: All the rest. The prehistory of the Democratic) Tj
+T*
+(Nuremberg Caucus \(permalink\) Comrade Trump continues his unbroken streak of destroying the) Tj
+T*
+(American empire's grip on the world, hastening the renewables transition, de-dollarizing global) Tj
+T*
+(trade, and killing the world's suicidal habit of entrusting its digital life to America's) Tj
+T*
+(defective, enshittified tech exports: https://pluralistic.net/2026/04/20/praxis/#acceleration) Tj
+T*
+(But Comrade Trump's ambitious praxis knows no bounds. Now, he's helping to remake the) Tj
+T*
+(Democratic Party as a muscular opposition with a serious commitment to workers' interests over) Tj
+T*
+(billio...) Tj
+T*
+() Tj
+T*
+(13. callgraph analysis) Tj
+T*
+(Source: the website of jyn | Published: 2026-05-03T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/callgraph-analysis/) Tj
+T*
+(Writing custom Rust lints for fun and profit) Tj
+T*
+() Tj
+T*
+(14. Scaling, stretching and shifting sinusoids) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-05-02T07:17:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/scaling-stretching-and-shifting-sinusoids/) Tj
+T*
+(This is a brief and simple [1] explanation of how to adjust the standard sinusoid sin\(x\) to) Tj
+T*
+(change its amplitude, frequency and phase shift. More precisely, given the general function:) Tj
+T*
+(\\[s\(x\)=A\\cdot sin\(w\\cdot x+\\theta\)\\] We?ll see how adjusting the parameters , and affect the ?) Tj
+T*
+() Tj
+T*
+(15. Cybersecurity Is Like Food Safety: Digital HACCP) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 18 Feb 2021 09:31:12 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/cybersecurity-is-like-food-safety/) Tj
+T*
+(There are lots of calls to invest in improving cybersecurity. But it struck me that it doesn?t) Tj
+T*
+(work like that. Not getting hacked is not so much a question of buying the right stuff. It is a) Tj
+T*
+(question of doing the right things and understanding what you are doing. It is easy to demand) Tj
+T*
+(that people ?invest? in something. You can even supply them with the money to do so.) Tj
+T*
+() Tj
+T*
+(16. COVID-19 Scenarios and a Short Break) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 17 Jan 2021 14:15:50 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/covid-scenarios-and-a-short-break/) Tj
+T*
+(Hi everyone, With apologies for flooding the airwaves and timelines with way too many posts and) Tj
+T*
+(tweets, here?s one more post, the last COVID-19 related one for a while. I?ve been trying to) Tj
+T*
+(provide high quality answers to the many questions I receive via email and various social) Tj
+T*
+(media. I?ve also been trying to help many many people that found worrying news online & sent it) Tj
+T*
+(to me, either for reassurance or simply to challenge me.) Tj
+T*
+() Tj
+T*
+(17. How Tech Loses Out over at Companies, Countries and Continents) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 16 Jan 2021 20:13:17 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/how-tech-loses-out/) Tj
+T*
+(This article is part of a series on \(European\) innovation and capabilities. Hi everyone, This) Tj
+T*
+(is a transcript of my presentation over at the European Microwave Week 2020, actually held in) Tj
+T*
+(2021. You can find the video here and the slides here. I?d like to thank Frank van Vliet,) Tj
+T*
+(general chair of the EMW, for inviting me to do this talk. The words have only been edited) Tj
+T*
+(lightly - it is still presentation style, so here and there the sentences are not written like) Tj
+T*
+(how they?d be in a more formal piece of work.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004827 00000 n 
+0000004953 00000 n 
+0000009666 00000 n 
+0000009792 00000 n 
+0000014486 00000 n 
+0000014612 00000 n 
+0000018421 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+18549
+%%EOF
