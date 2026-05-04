@@ -1,0 +1,452 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4233 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-04 09:40:33) Tj
+T*
+() Tj
+T*
+(1. Why I don't like the "staff engineer archetypes") Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 03 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/staff-engineer-archetypes/) Tj
+T*
+(The most influential piece of writing about staff engineers in the last decade has to be Will) Tj
+T*
+(Larson?s Staff engineer archetypes . He argues that the ?staff engineer? title covers at least) Tj
+T*
+(four very different roles: the team lead, the architect, the solver, and the right hand. This) Tj
+T*
+(taxonomy gets cited a lot as advice for people who are trying to become effective staff) Tj
+T*
+(engineers. For both of my promotions to staff engineer, my manager at the time linked me to the) Tj
+T*
+(?staff engineer archetypes? and asked me to consider which of these archetypes I was aiming) Tj
+T*
+(towards. These archetypes definitely exist 1 . However, I think it?s bad practical advice to) Tj
+T*
+(tell engineers to try and target them. Archetypes do not make good goals To see why, let?s take) Tj
+T*
+(the ?team lead? archetype. Larson describes this as an informal technical leadership role: not) Tj
+T*
+(necessarily an explicit authority figure, but someone who?s good at scoping work, planning) Tj
+T*
+(projects, and maintaining the kind of relationships \(e.g. with other teams\) needed to) Tj
+T*
+(successfully ship . If you want to fill this role, shouldn?t you start trying to do these) Tj
+T*
+(things? No! You don?t become a technical leader by trying really hard to be a technical l...) Tj
+T*
+() Tj
+T*
+(2. X, the Platform of Free Speech) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-04T00:15:21Z) Tj
+T*
+(Link: https://bsky.app/profile/gilduran.com/post/3mky5taqg3222) Tj
+T*
+(Gil Durán, posting on Bluesky: It?s official! I?m permanently banned from X for tweeting ?TLDR:) Tj
+T*
+(Fascism.? \(appeal denied\) ?TLDR: Fascism? was Durán?s two-word response to this 1,000-word) Tj
+T*
+(essay from Palantir describing their vision for a ?Technological Republic?. \( Alternative link) Tj
+T*
+(to essay if you don?t want to visit x.com.\) Getting perma-banned from Twitter/X by Elon Musk) Tj
+T*
+(gives Durán a nice Streisand-effect boost to promote his upcoming new book, The Nerd Reich . If) Tj
+T*
+(the book is even half as good as its title it should be a bestseller. ?) Tj
+T*
+() Tj
+T*
+(3. ?2 Letters From Steve?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-03T23:47:11Z) Tj
+T*
+(Link: https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/) Tj
+T*
+(I don?t want to spoil any of this story from David Gelphman, which he wrote back in 2013, but) Tj
+T*
+(which I only came across this week. Go read it. But before you do, one bit of context you) Tj
+T*
+(should keep in mind is that the original iPad was unveiled at a special Apple event on 27) Tj
+T*
+(January 2010 , but it didn?t ship until early April . Gelphman?s story takes place in that) Tj
+T*
+(interregnum. ?) Tj
+T*
+() Tj
+T*
+(4. ? Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-03T23:25:41Z) Tj
+T*
+(Link: https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes) Tj
+T*
+(_against_the_law) Tj
+T*
+(There is no point getting any more outraged or disgusted at Meta for firing the Kenyan) Tj
+T*
+(contractors who exposed the privacy fiasco of AI Glasses than you already were in the first) Tj
+T*
+(place. They had to fire them.) Tj
+T*
+() Tj
+T*
+(5. Quoting Anthropic) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-03T15:13:23+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/3/anthropic/#atom-everything) Tj
+T*
+(We used an automatic classifier which judged sycophancy by looking at whether Claude showed a) Tj
+T*
+(willingness to push back, maintain positions when challenged, give praise proportional to the) Tj
+T*
+(merit of ideas, and speak frankly regardless of what a person wants to hear. Most of the time) Tj
+T*
+(in these situations, Claude expressed no sycophancy?only 9% of conversations included) Tj
+T*
+(sycophantic behavior \(Figure 2\). But two domains were exceptions: we saw sycophantic behavior) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4286 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(in 38% of conversations focused on spirituality, and 25% of conversations on relationships. ?) Tj
+T*
+(Anthropic , How people ask Claude for personal guidance Tags: ai-ethics , anthropic , claude ,) Tj
+T*
+(ai-personality , generative-ai , ai , llms , sycophancy) Tj
+T*
+() Tj
+T*
+(6. Minimal Viable Zig Error Contexts) Tj
+T*
+(Source: matklad | Published: 2026-05-03T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/05/03/zig-error-context.html) Tj
+T*
+(Out of the box, Zig provides minimal and sufficient facilities for error handling ---) Tj
+T*
+(strongly-typed error codes. Error reporting is left to the user. Idiomatic solution is to pass) Tj
+T*
+(a Diagnostics out parameter \(sink\) to materialize human-readable strings as needed.) Tj
+T*
+() Tj
+T*
+(7. The shape of a guitar pick) Tj
+T*
+(Source: John D. Cook | Published: Sun, 03 May 2026 20:49:41 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/03/guitar-pick/) Tj
+T*
+(I saw a post on X that plotted the function \(log x\)² + \(log y\)² = 1. Of course the plot of x² +) Tj
+T*
+(y² = 1 is a circle, but I never thought what taking logs would do to the shape. Here?s what the) Tj
+T*
+(contours look like setting the right hand side equal to 1, 2, [?] The post The shape of a) Tj
+T*
+(guitar pick first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(8. png-cmp: like cmp for PNGs) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Sun, 03 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/) Tj
+T*
+(png-cmp is a program I built that checks if two PNGs are visually equivalent. It?s inspired by) Tj
+T*
+(the cmp command . Here?s how you use it: png-cmp a.png b.png Like cmp , it silently exits if) Tj
+T*
+(the images are identical, and gives an error if they?re different. Unlike cmp , it checks pixel) Tj
+T*
+(data, not binary data. PNGs can look the same but be stored differently. For example, png-cmp) Tj
+T*
+(ignores text metadata. I was recently doing an experiment where I wanted to check if two PNGs) Tj
+T*
+(were visually identical, so I built a tool for it! Grab the source code here.) Tj
+T*
+() Tj
+T*
+(9. Vertically Aligning Roman Numerals in Code) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 03 May 2026 11:34:59 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/) Tj
+T*
+(I have a PHP function which uses Roman Numerals. It looks like this: $romanNumerals = [ "?" =>) Tj
+T*
+(1000, "??" => 900, "?" => 500, "??" => 400, "?" => 100, "?C" => 90, "?" => 50, "??" => 40, "?") Tj
+T*
+(=> 10, "?" => 9, "?" => 8, "?" => 7, "?" => 6, "?" => 5, "?" => 4, "?" => 3, "?" => 2, "?" => 1) Tj
+T*
+(]; The problem is, the?) Tj
+T*
+() Tj
+T*
+(10. Punk, or why I don?t stream anymore) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-05-03T00:00:00-07:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html) Tj
+T*
+(If you?re the sun, I?m a black hole ? The Stephen Hawking, Say Anything What killed the hacker) Tj
+T*
+(culture I grew up in was spectacle. You can consume it without participating, and even worse it) Tj
+T*
+(has signaling value. I never did CTFs to put them on my resume. I don?t even have a resume I) Tj
+T*
+(take seriously. Just a battle between me and a machine and the glorification of my ego,) Tj
+T*
+(sometimes public, but never performative. There was no purpose beyond the thing. The streams by) Tj
+T*
+(their nature became no longer any truthful reflection of self, just a prediction of what you) Tj
+T*
+(want on them, and you can?t stop this because we are permeable. I?ve been scraping dating sites) Tj
+T*
+(and feeding them to ChatGPT, and it?s amazing how few of the profiles still say anything about) Tj
+T*
+(the person. There are no rough edges, it?s basically marketing copy. Reflected back and forth) Tj
+T*
+(in their heads with this ?society? mirror so many times that there?s no identity or coherence) Tj
+T*
+(left, just a mush of diffuse monochrome light. The streams are wireheading, aka ?felt) Tj
+T*
+(completion without world contact.? You watch and you feel a version of what I feel. But the) Tj
+T*
+(difference is that you didn?t do anything. And in so much as there is a you, it i...) Tj
+T*
+() Tj
+T*
+(11. QuickQWERTY 1.2.3) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4586 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Susam Pal | Published: 2026-05-03T00:00:00Z) Tj
+T*
+(Link: https://susam.net/code/news/quickqwerty/1.2.3.html) Tj
+T*
+(QuickQWERTY 1.2.3 is now available. QuickQWERTY is a web-based touch typing tutor for QWERTY) Tj
+T*
+(keyboards that runs directly in the browser. This release includes two small bug fixes. In the) Tj
+T*
+(previous release , QuickQWERTY source code management moved from GitHub to Codeberg. During) Tj
+T*
+(that update, the licence link in the footer was updated incorrectly. The broken licence link) Tj
+T*
+(has now been fixed. Further, there was a minor bug that caused a redundant dialog box to appear) Tj
+T*
+(while switching between 6-7 split and 5-6 split. Units 16 to 20 contain two links labeled '6-7) Tj
+T*
+(split' and '5-6 split' which allow you to select how you want to split the number keys between) Tj
+T*
+(left and right hands. Clicking either of those links brings up a dialog that explains what the) Tj
+T*
+(two splits mean and prompts you to confirm in order to make the switch. Say, the '6-7 split') Tj
+T*
+(was already the chosen split. Clicking the '6-7 split' label triggered the dialog box) Tj
+T*
+(unnecessarily. A dialog was unnecessary in that case since if you were already on the '6-7) Tj
+T*
+(split', clicking the '6-7 split' label resulted in no switch. This unnecessary dialog has now) Tj
+T*
+(been eliminated. To try out QuickQWERTY, please visit quickqwerty.html . The sour...) Tj
+T*
+() Tj
+T*
+(12. Reinventing the Wheel) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-05-03T13:41:32Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history) Tj
+T*
+(You?ve probably heard it?s futile, but that hasn?t stopped plenty from trying?some) Tj
+T*
+(successfully, shockingly.) Tj
+T*
+() Tj
+T*
+(13. Testing MacOS on the Apple Network Server 2.0 ROMs) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-05-02T23:44:00.000-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html) Tj
+T*
+(It's time for another save point in the continuing saga of the various ROMs for the Apple) Tj
+T*
+(Network Server , Apple's first through-and-through Unix server \( previously , previously \). The) Tj
+T*
+(Apple Network Server was only ever officially able to boot AIX, IBM's proprietary Power) Tj
+T*
+(ISA-specific Unix, though it was originally intended to run Novell NetWare and was demonstrated) Tj
+T*
+(booting Mac OS with early pre-production ROMs. However, much to industry surprise, late in its) Tj
+T*
+(life cycle then-CTO Ellen Hancock announced that the ANS would be able to boot Mac OS and even) Tj
+T*
+(Windows NT as well using ROM upgrades. Neither ROM was officially released before Steve Jobs) Tj
+T*
+(convinced Gil Amelio to cancel the line, and for many years they were believed to be) Tj
+T*
+(vapourware. But they've started to surface, first with an ex-Apple employee who had both the) Tj
+T*
+(preproduction ROM and the Mac OS ROM on a flash ROM SIMM, and later another employee turned up) Tj
+T*
+(with the NT ROM, though sadly more is needed to make it actually run NT. It turned out that I) Tj
+T*
+(also had the preproduction ROM in a box gathering dust, and a couple months ago we put both the) Tj
+T*
+(preproduction ROMs and NT ROMs through their paces . Well, thanks to Jeff Walther w...) Tj
+T*
+() Tj
+T*
+(14. 29th August 2026: a scenario) Tj
+T*
+(Source: Martin Alderson | Published: Mon, 04 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&utm_medium=rss) Tj
+T*
+(&utm_campaign=feed) Tj
+T*
+(A fictional scenario about what AI changes for cloud security, written because the technical) Tj
+T*
+(version of the argument doesn't land with anyone except engineers.) Tj
+T*
+() Tj
+T*
+(15. The Genetic Code and Proteins of the Other Covid-19 Vaccines) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 12 Jan 2021 13:47:18 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/genetic-code-of-covid-19-vaccines/) Tj
+T*
+(Translations: ??, ??? As a followup to Reverse Engineering the source code of the) Tj
+T*
+(BioNTech/Pfizer SARS-CoV-2 Vaccine, here is a look at the genetic code behind some of the other) Tj
+T*
+(vaccines. I recommend at least skimming the earlier post before delving into this one, unless) Tj
+T*
+(you are already fluent in modified mRNA bases and protein expression mechanics. To get an) Tj
+T*
+(extremely full background on all vaccine work, I kindly refer you to excellent posts from Derek) Tj
+T*
+(Lowe and Hilda Bastian.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1627 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(16. Analiza izvornog kôda vakcine BioNTech-Pfizer SARS-CoV-2) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 10 Jan 2021 21:12:20 +0100) Tj
+T*
+(Link:) Tj
+T*
+(https://berthub.eu/articles/posts/naliza-izvornog-k%C3%B4da-vakcine-biontech-pfizer-sars-cov-2/) Tj
+T*
+(Translations: ???????? / ???? / ?? \(Weixin video, Youtube video\) / ?? / bahasa Indonesia /) Tj
+T*
+(?eský / Català / ?eský / Deutsch / Español / 2????? / ????? / Français / ??????? / Hrvatski /) Tj
+T*
+(Italiano / Nederlands / ??? / ??? 2 / ?????? / Polskie / ??????? / Português / Român? /) Tj
+T*
+(Slovensky / Sloven??ina / Türk / ??????????? / Markdown for translating Dobro do?li! U ovom) Tj
+T*
+(postu ?emo, znak po znak, ispitati izvorni kôd vakcine mRNA BioNTech / Pfizer SARS-CoV-2.) Tj
+T*
+() Tj
+T*
+(17. DNA seen through the eyes of a coder \(or, If you are a hammer, everything looks like a) Tj
+T*
+(nail\)) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 09 Jan 2021 13:33:46 +0000) Tj
+T*
+(Link: https://berthub.eu/articles/posts/amazing-dna/) Tj
+T*
+(Updates: 12th of September 2021: I?m writing a book on DNA! If you want to become a beta) Tj
+T*
+(reader, or have suggestions, I?d love to hear from you! 8th of January 2021: This article has) Tj
+T*
+(been revised and updated, scientifically and in terms of dead links. Revision made by Tomás) Tj
+T*
+(Simões \(@putadagravidade / tomasprsimoes@gmail.com\). Feel free to contact me if I made a) Tj
+T*
+(mistake. 25th of August 2017: This page has led to a two-hour presentation called DNA: The code) Tj
+T*
+(of Life as presented at SHA 2017.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004495 00000 n 
+0000004621 00000 n 
+0000008959 00000 n 
+0000009085 00000 n 
+0000013723 00000 n 
+0000013849 00000 n 
+0000015529 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15657
+%%EOF
