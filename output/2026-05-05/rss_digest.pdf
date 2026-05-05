@@ -1,0 +1,634 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4242 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-05 09:39:37) Tj
+T*
+() Tj
+T*
+(1. Quoting John Gruber) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-05T00:46:29+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/5/john-gruber/#atom-everything) Tj
+T*
+(So it?s well known that Y Combinator owns some stake in OpenAI. But how big is that stake? This) Tj
+T*
+(seems like devilishly difficult information to obtain. I asked around and a little birdie who) Tj
+T*
+(knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of) Tj
+T*
+(OpenAI. At OpenAI?s current $852 billion valuation , that?s worth over $5 billion. ? John) Tj
+T*
+(Gruber , Y Combinator?s Stake in OpenAI Tags: openai , y-combinator , ai , john-gruber) Tj
+T*
+() Tj
+T*
+(2. Granite 4.1 3B SVG Pelican Gallery) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-04T23:49:24+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything) Tj
+T*
+(Granite 4.1 3B SVG Pelican Gallery IBM released their Granite 4.1 family of LLMs a few days) Tj
+T*
+(ago. They're Apache 2.0 licensed and come in 3B, 8B and 30B sizes. Granite 4.1 LLMs: How) Tj
+T*
+(They?re Built by Granite team member Yousaf Shah describes the training process in detail.) Tj
+T*
+(Unsloth released the unsloth/granite-4.1-3b-GGUF collection of GGUF encoded quantized variants) Tj
+T*
+(of the 3B model - 21 different model files ranging in size from 1.2GB to 6.34GB. All 21 of) Tj
+T*
+(those Unsloth files add up to 51.3GB, which inspired me to finally try an experiment I've been) Tj
+T*
+(wanting to run for ages: prompting "Generate an SVG of a pelican riding a bicycle" against) Tj
+T*
+(different sized quantized variants of the same model to see what the results would look like.) Tj
+T*
+(Honestly, the results are less interesting than I expected. There's no distinguishable pattern) Tj
+T*
+(relating quality to size - they're all pretty terrible! I'll likely try this again in the) Tj
+T*
+(future with a model that's better at drawing pelicans. Tags: ibm , ai , generative-ai , llms ,) Tj
+T*
+(pelican-riding-a-bicycle , llm-release) Tj
+T*
+() Tj
+T*
+(3. Quoting Andy Masley) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-04T22:51:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/4/andy-masley/#atom-everything) Tj
+T*
+([...] Between 2000 and 2024, farmers sold in total a Colorado-sized chunk of land all on their) Tj
+T*
+(own, 77 times all land on data center property in 2028, and grew more food than ever on what) Tj
+T*
+(was left. None of this caused any problems for US food access. And then, in the middle of all) Tj
+T*
+(this, a farmer in Loudoun County sells a few acres of mediocre hay field to a hyperscaler for) Tj
+T*
+(ten times its agricultural value, and the response is that we?re running out of farmland. ?) Tj
+T*
+(Andy Masley , pushing back against the "land use" argument against data center construction) Tj
+T*
+(Tags: ai-ethics , ai , generative-ai , andy-masley) Tj
+T*
+() Tj
+T*
+(4. Paul Thurrott Might Write a Book on Markdown) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-04T22:58:40Z) Tj
+T*
+(Link: https://www.thurrott.com/paul/334577/the-markdown-book-on-writing?utm_source=dlvr.it&utm_) Tj
+T*
+(medium=mastodon) Tj
+T*
+(Paul Thurrott: I may or may not write and publish a short e-book about Markdown sometime this) Tj
+T*
+(year, most likely as part of a monthly focus. But l?ve written small parts of it already, as I) Tj
+T*
+(do, and I figured it might be interesting for at least some readers. And so here?s an early) Tj
+T*
+(draft of an introductory chapter that may or my not be called ?On writing.? We?ll see. It?s odd) Tj
+T*
+(how things turn out in life. Thurrott?s and my careers are almost uniquely parallel, but have) Tj
+T*
+(seldom intersected. This book would have been a very surprising outcome to me, if you?d told me) Tj
+T*
+(about it 20 years ago. Sort of a fun outcome, though, and I must admit to being curious what) Tj
+T*
+(comes of it. ?) Tj
+T*
+() Tj
+T*
+(5. ? Y Combinator?s Stake in OpenAI) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-04T22:47:01Z) Tj
+T*
+(Link: https://daringfireball.net/2026/05/y_combinators_stake_in_openai) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4611 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn?t mean) Tj
+T*
+(that his public opinion on Sam Altman?s trustworthiness and leadership is invalid. But it) Tj
+T*
+(certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an) Tj
+T*
+(Altman character reference.) Tj
+T*
+() Tj
+T*
+(6. Google Owns a Big Chunk of Anthropic) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-04T21:40:32Z) Tj
+T*
+(Link: https://www.nytimes.com/2025/03/11/technology/google-investment-anthropic.html?unlocked_a) Tj
+T*
+(rticle_code=1.f1A.eSTf.D5ECvk6f4DZ7) Tj
+T*
+(The New York Times, back in March last year \(gift link\): To win the artificial intelligence) Tj
+T*
+(race, Google not only has developed its own technologies , but has also pumped money into) Tj
+T*
+(prominent A.I. start-ups . And to preserve its competitive edge, Google has kept its ownership) Tj
+T*
+(stakes in those start-ups a secret. Court documents recently obtained by The New York Times) Tj
+T*
+(reveal Google?s stake in one of those start-ups, Anthropic, as well as how its investment in) Tj
+T*
+(the young company is set to change. Google owns 14 percent of Anthropic, according to legal) Tj
+T*
+(filings that the A.I. start-up submitted as part of a Google antitrust case. But that) Tj
+T*
+(investment gives Google little control over the company. The internet giant can own only up to) Tj
+T*
+(15 percent of Anthropic, according to the filings, and Google holds no voting rights, no board) Tj
+T*
+(seats and no board observer rights at the start-up. Still, Google is set to invest an) Tj
+T*
+(additional $750 million in Anthropic in September through a type of loan known as convertible) Tj
+T*
+(debt, according to the filings. The companies agreed to the convertible note in 2023. In total,) Tj
+T*
+(Google has invested more than $3 billion in the A.I. company. Anthropic?s latest funding) Tj
+T*
+(roun...) Tj
+T*
+() Tj
+T*
+(7. How do I inform Windows that I?m writing a binary file?) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 04 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296) Tj
+T*
+(You don't. All files are binary at the file system level. The post How do I inform Windows that) Tj
+T*
+(I?m writing a binary file? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Content for Content?s Sake) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-05-04T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/) Tj
+T*
+(Language is constantly evolving, particularly in some communities. Not everybody is ready for) Tj
+T*
+(it at all times. I, for instance, cannot stand that my community is now constantly ?cooking? or) Tj
+T*
+(?cooked?, that people in it are ?locked in? or ?cracked.? I don?t like it, because the use of) Tj
+T*
+(the words primarily signals membership of a group rather than one?s individuality. But some of) Tj
+T*
+(the changes to that language might now be coming from ? machines? Or maybe not. I don?t know.) Tj
+T*
+(I, like many others, noticed that some words keep showing up more than before, and the obvious) Tj
+T*
+(assumption is that LLMs are at fault. What I did was take 90 days? worth of my local coding) Tj
+T*
+(sessions and look for medium-frequency words where their use is inflated compared to what) Tj
+T*
+(wordfreq would assume their frequency should be. Then I looked for the more common of these) Tj
+T*
+(words and did a Google Trends search \(filtered to the US\). Note that some words like) Tj
+T*
+(?capability? are more likely going to show up in coding sessions just because of the nature of) Tj
+T*
+(the problem, so the actual increase is much more pronounced than you would expect. You can) Tj
+T*
+(click through it; this is what the change over time looks like. Note that these are al...) Tj
+T*
+() Tj
+T*
+(9. AI didn't delete your database, you did) Tj
+T*
+(Source: iDiallo.com | Published: Mon, 04 May 2026 22:25:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?src=feed) Tj
+T*
+(Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his) Tj
+T*
+(company's production database . We watched from the sidelines as he tried to get a confession) Tj
+T*
+(from the agent: "Why did you delete it when you were told never to perform this action?" Then) Tj
+T*
+(he tried to parse the answer to either learn from his mistake or warn us about the dangers of) Tj
+T*
+(AI agents. I have a question too: why do you have an API endpoint that deletes your entire) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4721 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(production database? His post rambled on about false marketing in AI, bad customer support, and) Tj
+T*
+(so on. What was missing was accountability. I'm not one to blindly defend AI, I always err on) Tj
+T*
+(the side of caution. But I also know you can't blame a tool for your own mistakes. In 2010, I) Tj
+T*
+(worked with a company that had a very manual deployment process. We used SVN for version) Tj
+T*
+(control. To deploy, we had to copy trunk, the equivalent of the master branch, into a release) Tj
+T*
+(folder labeled with a release date. Then we made a second copy of that release and called it) Tj
+T*
+("current." That way, pulling the current folder always gave you the latest release. One day,) Tj
+T*
+(while deploying, I accidentally copied trunk twice. To fix it via the CLI, I edit...) Tj
+T*
+() Tj
+T*
+(10. Some views on Eglot and lsp-mode in GNU Emacs) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-04T02:41:40Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsEglotAndLspMode) Tj
+T*
+(Not content with blowing up my in-buffer LSP completion , I decided to follow it up by first) Tj
+T*
+(trying out Eglot and then more or less switching from my relatively long standing use of) Tj
+T*
+(lsp-mode . In the process I've wound up with some opinions on the contrast between lsp-mode and) Tj
+T*
+(Eglot . I will give you the summary up front. If you're just starting out with GNU Emacs and) Tj
+T*
+(you want to have a functional, nice LSP based development environment without going through a) Tj
+T*
+(long voyage of discovery, install and use lsp-mode , company-mode , and probably lsp-ui-mode) Tj
+T*
+(\(it comes with lsp-mode\). If you stick with GNU Emacs you'll eventually want to move to Eglot ,) Tj
+T*
+(but that's for later. To understand why I say this requires a voyage into the history of GNU) Tj
+T*
+(Emacs, at least as I understand it. GNU Emacs has always been in part a programming environment) Tj
+T*
+(for creating UIs for editing text, especially code. However, for a long time many of the basic) Tj
+T*
+(native ELisp pieces involved in doing this were relatively monolithic and weren't designed to) Tj
+T*
+(be extensively modified and customized. If you wanted a modified version of something that GNU) Tj
+T*
+(Emacs had a basic ELisp version of, you usually didn't hook into the nat...) Tj
+T*
+() Tj
+T*
+(11. [RSS Club] Where are you from?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 04 May 2026 11:34:40 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/rss-club-where-are-you-from/) Tj
+T*
+(Psssst! This top secret post is only available to RSS subscribers! A little while ago I added) Tj
+T*
+(some locally hosted, privacy first stats to my blog. Using an offline GeoIP service I can get a) Tj
+T*
+(very rough idea of where visitors are from. It doesn't deal with people using a VPN, or their) Tj
+T*
+(mobile roaming to a different country, or rapid changes in IP allocation - but it's good enough) Tj
+T*
+(for my purposes. ?) Tj
+T*
+() Tj
+T*
+(12. Package Manager CWEs) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-04T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/04/package-manager-cwes.html) Tj
+T*
+(I went through every public CVE and security advisory I could find that was filed against a) Tj
+T*
+(package manager itself. Clients and registries both: language package managers, system package) Tj
+T*
+(managers, self-hosted registry servers, the lot. The same dozen or so failure modes appear) Tj
+T*
+(independently in tool after tool, often years apart, because the people building package) Tj
+T*
+(manager number nineteen don?t always know what bit package managers one through eighteen. If) Tj
+T*
+(you?re building or maintaining one of these things, this is the list of places to look. I?ve) Tj
+T*
+(deliberately not organised it by tool. Most of these were fixed quickly, several were found by) Tj
+T*
+(the projects themselves, and which project hit which bug matters much less than the pattern.) Tj
+T*
+(One caveat. CVE counts measure what got reported and assigned an ID, which is a different thing) Tj
+T*
+(from risk. Some projects run bug bounties and file a CVE for every ANSI escape. Others fix) Tj
+T*
+(things in a point release with a changelog line. And the design-level weaknesses where most) Tj
+T*
+(real-world compromise actually happens \(install scripts running as the user, trust carrying) Tj
+T*
+(across maintainer changes, first-come namespaces\) are out of scope here precisely becau...) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: Demand destruction vs fuel-superseding infrastructure \(04 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 04 May 2026 09:39:28) Tj
+T*
+(+0000) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4739 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://pluralistic.net/2026/05/04/hope-in-the-dark/) Tj
+T*
+(Today's links Demand destruction vs fuel-superceding infrastructure: Will Trump hormuz us into) Tj
+T*
+(the full Gretacene? Hey look at this: Delights to delectate. Object permanence: Beck,) Tj
+T*
+(Scientologist; Citizen journalism; Podcast-killing treaty; US x Kiwi copyright; Apple did a) Tj
+T*
+(crime; DeCSS v civilian aviation; Navy x SF's queering; Micosoft v FLOSS; Sony-BMG needs a new) Tj
+T*
+(DRM czar; Lossy copying sculpture; AI and the fatfinger economy. Upcoming appearances: Guelph,) Tj
+T*
+(Barcelona, Berlin, Hay-on-Wye, London, NYC, Edinburgh. Recent appearances: Where I've been.) Tj
+T*
+(Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll) Tj
+T*
+(keep writin' 'em. Colophon: All the rest. Demand destruction vs fuel-superceding infrastructure) Tj
+T*
+(\(permalink\) No one is better at keeping hope alive than Rebecca Solnit, the historian and) Tj
+T*
+(essayist whose Hope in the Dark got me through the first Trump administration and whose A) Tj
+T*
+(Paradise Built In Hell inspired my novel Walkaway:) Tj
+T*
+(https://www.penguinrandomhouse.com/books/301070/a-paradise-built-in-hell-by-rebecca-solnit/ In) Tj
+T*
+(her latest, "Truth, Consequences, Climate, and Demand Destruction," Solnit is nothing short of) Tj
+T*
+(inspirational ? not because she dow...) Tj
+T*
+() Tj
+T*
+(14. Premium: The AI Compute Demand Story Is A Lie) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Mon, 04 May 2026 14:09:22 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-the-ai-compute-demand-story-is-a-lie/) Tj
+T*
+(Everyone, it?s time to talk about AI demand and the capacity constraint issues across the) Tj
+T*
+(industry. These constraints are not a result of ?incredible demand? for AI, but the desperation) Tj
+T*
+(of hyperscalers and the avariciousness of two near-trillion-dollar failsons living off their) Tj
+T*
+(parents? welfare. Just) Tj
+T*
+() Tj
+T*
+(15. From RSS to Atom) Tj
+T*
+(Source: Susam Pal | Published: 2026-05-04T00:00:00Z) Tj
+T*
+(Link: https://susam.net/from-rss-to-atom.html) Tj
+T*
+(Yesterday, I switched my website from RSS feeds to Atom feeds. In case you are wondering) Tj
+T*
+(whether you have somehow landed on an ancient post from 2010, no, you have not. Yes, this is) Tj
+T*
+(the year 2026, and I have finally switched from RSS feeds to Atom feeds. Yes, I am fifteen, or) Tj
+T*
+(perhaps twenty, years too late. Contents Impulse Coding Atom Entries Temporary Workaround Does) Tj
+T*
+(It Matter? References Impulse Coding I have always wanted to do this but could never make the) Tj
+T*
+(time for it. Finally, it happened while I was giving my brain some rest from my ongoing) Tj
+T*
+(algebraic graph theory studies. That's when I felt like spending a little time on my website) Tj
+T*
+(and doing a little Lisp to change the feeds from RSS to Atom. I suppose this was impulse coding) Tj
+T*
+(, a bit like impulse buying, except that I ended up with an Atom feed instead of a new book. I) Tj
+T*
+(find it quite surprising that when I have plenty of time, it usually does not occur to me to do) Tj
+T*
+(these things, but when I am too busy and really short of time, these little ideas possess me) Tj
+T*
+(during the short breaks I take. My personal website is one of my passion projects. Common Lisp) Tj
+T*
+(is one of my favourite programming languages. So any time spent on this passi...) Tj
+T*
+() Tj
+T*
+(16. Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For) Tj
+T*
+(Interactions) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 03 May 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/small-html-pages/) Tj
+T*
+(I wrote about building websites with LLMs ? \(L\)ots of \(L\)ittle ht\(M\)l page\(s\) ? and I think) Tj
+T*
+(it?s time for a post-mortem on that approach: I like it. I?ve tweaked a few things from that) Tj
+T*
+(original post but the underlying idea is still the same, which I would describe as: Avoid) Tj
+T*
+(in-page interactions that require JavaScript in favor of multi-page navigations that rely on) Tj
+T*
+(HTML and are enhanced with CSS view transitions \(and a dash of JS if/where prudent\). As an) Tj
+T*
+(example, on my blog I have a ?Menu?. It doesn?t ?expand? or ?slide out? or ?pop in? or whatever) Tj
+T*
+(else you can do with JS. Instead, it navigates to an entirely-new page that is focused on just) Tj
+T*
+(the menu options of my site. I say ?navigates? because it?s just a link ? ? and it functions) Tj
+T*
+(like a link, but the navigation interaction is enhanced by CSS view transitions. Have a newer) Tj
+T*
+(device with a modern browser? Great, you get a nicer effect. Have an older device, or an older) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4043 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(browser, or JS disabled, Et al.? It?ll still work. If you can follow a link ? which is the most) Tj
+T*
+(fundamental thing a browser can do ? it will work. So how?s it all work under the hood? In) Tj
+T*
+(essence, all the pages have a link to the menu \(except the menu page\). When you...) Tj
+T*
+() Tj
+T*
+(17. Redis array type: short story of a long development) Tj
+T*
+(Source: antirez.com | Published: Mon, 04 May 2026 16:21:45 +0200) Tj
+T*
+(Link: http://antirez.com/news/164) Tj
+T*
+(I started working on the new Array data type for Redis in the first days of January. The PR) Tj
+T*
+(landed the repository only now, so this code was cooked for four months. I worked at the) Tj
+T*
+(implementation kinda part time \(kinda because many weeks were actually full time, sometimes to) Tj
+T*
+(detach yourself from the keyboard is complicated\), and even before LLMs the implementation was) Tj
+T*
+(likely something I could do in four months. What changed is that in the same time span, I was) Tj
+T*
+(able to do a lot more. This is the short story of what happened. In the first month I just) Tj
+T*
+(wrote the specification document. The rationale for the new data type, the C structures, the) Tj
+T*
+(sparse representation used, the exact semantics of the array cursor for ring buffer and) Tj
+T*
+(ARINSERT. I started writing for days a long specification by hand, then I paired with Opus) Tj
+T*
+(initially, then GPT 5.3 was released and I switched all the design and development with Codex.) Tj
+T*
+(Since then I use only GPT 5.x for system programming tasks. Thanks to AI, the specification) Tj
+T*
+(evolved a lot, via back and forth of feedback, intellectual challenges about what was the best) Tj
+T*
+(design, what was the right compromise, what was too engineered and what not. Starting fro...) Tj
+T*
+() Tj
+T*
+(18. Reverzni in?eniring izvorne kode cepiva BioNTech/Pfizer proti SARS-CoV-2) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 08 Jan 2021 20:12:20 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/reverzni-in%C5%BEeniring-izvorne-kode-cepiva-biontech-p) Tj
+T*
+(fizer-proti-sars-cov-2/) Tj
+T*
+(Translations: ???????? / ???? / ?? \(Weixin video, Youtube video\) / ?? / bahasa Indonesia /) Tj
+T*
+(?eský / Català / ?eský / Deutsch / English / Español / 2????? / ????? / Français / ??????? /) Tj
+T*
+(Hrvatski / Italiano / Nederlands / ??? / ??? 2 / ?????? / Polskie / ??????? / Português /) Tj
+T*
+(Român? / Slovensky / Türk / ??????????? / Markdown for translating Pozdravljeni! V tem ?lanku) Tj
+T*
+(bomo ?rko po ?rko pregledali izvorno kodo cepiva BioNTech/Pfizer SARS-CoV-2 mRNA.) Tj
+T*
+() Tj
+T*
+(19. Corona en je oom) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 07 Jan 2021 15:10:49 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-en-je-oom/) Tj
+T*
+(UPDATE: Deze post was ooit geschreven voor de toenmalige Corona\(vaccin\) situatie. Maar, hij is) Tj
+T*
+(inzetbaar voor ieder ontspoord of ontsporend familielid of contact. De grote lijn blijft) Tj
+T*
+(hetzelfde - iemand roept allemaal rare dingen en beïnvloedt zo de rest. Onderstaand verhaal) Tj
+T*
+(gaat over hoe je dit nuttig om kan draaien. We hebben Coronamaatregelen, en men houdt zich er) Tj
+T*
+(niet aan. Er zijn prachtige Coronavaccins, en mensen melden luidruchtig deze nooit te gaan) Tj
+T*
+(nemen.) Tj
+T*
+() Tj
+T*
+(20. Talking about Corona) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 07 Jan 2021 15:10:49 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/talking-about-covid/) Tj
+T*
+(In this page I want to offer some guidance how you can be useful in spreading good Corona) Tj
+T*
+(information, specifically about vaccines. Importantly, many readers of my blog are the) Tj
+T*
+(technology help desk for their families - the people that help fixing the wifi, install new) Tj
+T*
+(computers and generally are useful for solving complex problems. That makes you, the reader) Tj
+T*
+(very imporant. Your family and friends see you as someone who knows what they are talking) Tj
+T*
+(about.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004511 00000 n 
+0000004637 00000 n 
+0000009300 00000 n 
+0000009426 00000 n 
+0000014199 00000 n 
+0000014325 00000 n 
+0000019117 00000 n 
+0000019245 00000 n 
+0000023341 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+23469
+%%EOF
