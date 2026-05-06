@@ -1,0 +1,560 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4324 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-06 09:39:51) Tj
+T*
+() Tj
+T*
+(1. datasette-referrer-policy 0.1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-05T23:44:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything) Tj
+T*
+(Release: datasette-referrer-policy 0.1 The OpenStreetMap tiles on the Datasette) Tj
+T*
+(global-power-plants demo weren't displaying correctly. This turned out to be caused by two) Tj
+T*
+(bugs. The first is that the CAPTCHA I added to that site a few weeks ago was triggering for the) Tj
+T*
+(.json fetch requests used by the map plugin, and since those weren't HTML the user was not) Tj
+T*
+(being asked to solve them. Here's the fix . The second was that OpenStreetMap quite reasonably) Tj
+T*
+(block tile requests from sites that use a Referrer-Policy: no-referrer header. Datasette does) Tj
+T*
+(this by default, and I didn't want to change that default on people without warning - so I had) Tj
+T*
+(Codex + GPT-5.5 build me a new plugin to help set that header to another value. Tags:) Tj
+T*
+(openstreetmap , http , datasette) Tj
+T*
+() Tj
+T*
+(2. Our AI started a cafe in Stockholm) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-05T22:14:21+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything) Tj
+T*
+(Our AI started a cafe in Stockholm Andon Labs previously started an AI-run retail store in San) Tj
+T*
+(Francisco. Now they're running a similar experiment in Stockholm, Sweden, only this time it's a) Tj
+T*
+(cafe. These experiments are interesting, and often throw out amusing anecdotes: During the) Tj
+T*
+(first week of inventory, Mona ordered 120 eggs even though the café has no stove. When the) Tj
+T*
+(staff told her they couldn?t cook them, she suggested using the high-speed oven, until they) Tj
+T*
+(pointed out the eggs would likely explode. She also tried to solve the problem of fresh) Tj
+T*
+(tomatoes being spoiled too fast by ordering 22.5 kg of canned tomatoes for the fresh) Tj
+T*
+(sandwiches. The baristas eventually started a ?Hall of Shame?, a shelf visible to customers) Tj
+T*
+(with all the weird things Mona ordered, including 6,000 napkins, 3,000 nitrile gloves, 9L) Tj
+T*
+(coconut milk, and industrial-sized trash bags. Where they lose their shine is when these AI) Tj
+T*
+(managers start wasting the time of human beings who have not opted into the experiment: She) Tj
+T*
+(also successfully applied for an outdoor seating permit through the Police e-service, which) Tj
+T*
+(didn?t require BankID. Her first submission included a sketch she had generated herself,) Tj
+T*
+(despite having...) Tj
+T*
+() Tj
+T*
+(3. datasette-llm 0.1a7) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-05T01:56:55+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything) Tj
+T*
+(Release: datasette-llm 0.1a7 Mechanism for configuring default options for specific models.) Tj
+T*
+(Part of Datasette's evolving support mechanism for plugins that use LLMs. It's now possible to) Tj
+T*
+(configure a model with default options, e.g. to say all enrichment operations should use a) Tj
+T*
+(specific model with temperature set to 0.5. Tags: llm , datasette) Tj
+T*
+() Tj
+T*
+(4. Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-06T00:36:29Z) Tj
+T*
+(Link: https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/) Tj
+T*
+(Juli Clover, MacRumors: Apple has removed more desktop Macs from its online store as the global) Tj
+T*
+(memory shortage continues. Mac mini models with 32GB and 64GB of RAM are no longer available) Tj
+T*
+(for purchase, nor is the M3 Ultra Mac Studio with 256GB RAM. The M3 Ultra Mac Studio is now) Tj
+T*
+(available only in a 96GB RAM configuration, with higher-tier options eliminated. Both M3 Mac) Tj
+T*
+(Studio and M4 Max Mac Studio models have delivery estimates of 9 to 10 weeks. ?) Tj
+T*
+() Tj
+T*
+(5. Apple Settles Class Action Lawsuit Over AI Features That Were Advertised but Didn?t) Tj
+T*
+(Ship for $250 Million) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-06T00:29:22Z) Tj
+T*
+(Link: https://9to5mac.com/2026/05/05/apple-reaches-250m-settlement-over-siri-delays-users-could) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4955 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(-get-up-to-95-per-device/) Tj
+T*
+(Chance Miller, 9to5Mac: Last March, Apple was hit with a class action lawsuit after delaying) Tj
+T*
+(the launch of the ?more personalized Siri? that was first announced at WWDC 2024. Apple agreed) Tj
+T*
+(to settle the case in December, and the full settlement terms are now available. Apple is set) Tj
+T*
+(to pay $250 million to settle the lawsuit, equating to an estimated $25 per device. That number) Tj
+T*
+(could reach up to $95 per device, depending on how many users submit claims. [...] As part of) Tj
+T*
+(the settlement, Apple is not admitting any wrongdoing. The company continues to assert that ?it) Tj
+T*
+(acted in good faith and in a manner reasonably believed to be in accordance with all applicable) Tj
+T*
+(rules, regulations, and laws.? In a statement to 9to5Mac, an Apple spokesperson said: Since the) Tj
+T*
+(launch of Apple Intelligence, we have introduced dozens of features across many languages that) Tj
+T*
+(are integrated across Apple?s platforms, relevant to what users do every day, and built with) Tj
+T*
+(privacy protections at every step. These include Visual Intelligence, Live Translation, Writing) Tj
+T*
+(Tools, Genmoji, Clean Up and many more. Apple has reached a settlement to resolve claims) Tj
+T*
+(related to the availability of two additional features. We resolve...) Tj
+T*
+() Tj
+T*
+(6. The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-05T21:55:53Z) Tj
+T*
+(Link: https://politicalwire.com/2026/04/29/iran-war-has-cost-25-billion-so-far/) Tj
+T*
+(Taegan Goddard, quoting the Financial Times last week: The Pentagon said President Trump?s Iran) Tj
+T*
+(war has cost the United States at least $25 billion, driven primarily by the military?s use of) Tj
+T*
+(munitions, the Financial Times reports . The New York Times had an interesting piece trying to) Tj
+T*
+(put that number in context \(gift link\): $25 billion is similar to: The annual budget of NASA.) Tj
+T*
+(Spending on military aid to Israel after Oct. 7. Spending by U.S.A.I.D. before it was) Tj
+T*
+(disbanded. The cost to expand Obamacare subsidies for one year. These are all comparisons to) Tj
+T*
+(other aspects of the U.S. federal budget. It?s interesting also to use this in comparison with) Tj
+T*
+(the current moment in tech: OpenAI?s latest valuation of $852 billion \(I love the 2\) equals 34) Tj
+T*
+(Iran Wars. Anthropic?s $380 billion valuation equals 15 Iran Wars. Apple?s current four-year) Tj
+T*
+(U.S. manufacturing commitment of ?more than $500 billion? equals 20 Iran Wars. Google expects) Tj
+T*
+(to spend between $91?93 billion in capital expenditures this calendar year, mostly related to) Tj
+T*
+(AI infrastructure. That?s a little over 3 Iran Wars this year. Larry Ellison currently has a) Tj
+T*
+(net worth of $220 billion . That?s just short of 9 Iran Wars. But since the...) Tj
+T*
+() Tj
+T*
+(7. A dispute over the TAB key highlights a mismatch between Microsoft and IBM) Tj
+T*
+(organizational structures) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 05 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298) Tj
+T*
+(I want to speak to your manager. The post A dispute over the TAB key highlights a mismatch) Tj
+T*
+(between Microsoft and IBM organizational structures appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Straightforward checklists don't fit every situation) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-05T03:29:23Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsDontFitEverything) Tj
+T*
+(We had a weekend long power shutdown this past weekend in the building with our main machine) Tj
+T*
+(room. As is our custom, we powered off the servers before hand \(on Friday evening, with some) Tj
+T*
+(surprises \), and then turned them back on this morning. This isn't the first time we've gone) Tj
+T*
+(through such a power shutdown \(although usually they're shorter\), and over time we've written) Tj
+T*
+(checklists and lessons learned for these things . This time was no exception, so I wrote) Tj
+T*
+(checklists for both powering down everything and powering it back up \(well in advance for) Tj
+T*
+(once\). Then we collectively looked at my nice, detailed, step by step power on checklist and) Tj
+T*
+(ripped it up. The issue is that powering things up in our environment is not really an orderly,) Tj
+T*
+(step by step process. A lot of our systems are both core things and relatively independent of) Tj
+T*
+(each other, and while there are ordering dependencies \( our fileservers have to be up before) Tj
+T*
+(any NFS client, for example, and the DNS resolvers need to be up before the fileservers\),) Tj
+T*
+(they're small and at the start. Even in the ordering there's a lot that can be done at once,) Tj
+T*
+(such as booting up all of the fileservers at once. This structure, or lack of it, doesn'...) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4251 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(9. Changing one character in a PDF) Tj
+T*
+(Source: John D. Cook | Published: Tue, 05 May 2026 22:45:26 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/05/changing-one-character-in-a-pdf/) Tj
+T*
+(I saw a post on X saying Changing a hyphen to an en-dash increases your PDF file size by ~10) Tj
+T*
+(bytes. My first thought was that it had something to do with hyphen being an ASCII character) Tj
+T*
+(and an en-dash not. Changing a hyphen to an en-dash would make a UTF-8 encoded text file a [?]) Tj
+T*
+(The post Changing one character in a PDF first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. RSS Feeds Send Me More Traffic Than Google) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 05 May 2026 11:34:12 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/) Tj
+T*
+(Yeah yeah, I know, data-point of 1. I recently read Susam's blog post where they said that) Tj
+T*
+("most of the traffic to my personal website still comes from web feeds" - I wondered if that) Tj
+T*
+(was true for my site. I've been writing this blog for a while. I've never much bothered with) Tj
+T*
+("aggressive" SEO - I have a fairly semantic layout, all my reviews have metadata, and stuff) Tj
+T*
+(like that - but I'm not?) Tj
+T*
+() Tj
+T*
+(11. Package Manager Threat Models) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-05T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/05/package-manager-threat-models.html) Tj
+T*
+(The previous post catalogued the bugs that get filed against package managers: path traversal) Tj
+T*
+(in the extractor, argument injection in the git driver, XSS in the registry?s README renderer.) Tj
+T*
+(Things you can find by reading code, point at a line number, and patch. This post is the other) Tj
+T*
+(half. The properties below are working as designed, so nobody files a CVE for them. They?re) Tj
+T*
+(also where almost every supply-chain incident with a name actually came from. In event-stream ,) Tj
+T*
+(ua-parser-js , left-pad , and xz , the package manager did exactly what it was built to do. If) Tj
+T*
+(the first post was a list of patterns to grep for, this one is a list of questions to answer in) Tj
+T*
+(prose. The output of working through it is a few paragraphs per heading describing what the) Tj
+T*
+(tool actually does, because the answers differ a lot from one tool to the next and most of them) Tj
+T*
+(aren?t written down anywhere except the source. Client Code execution at install time The) Tj
+T*
+(single biggest design decision a package manager makes, and the one most of the incident record) Tj
+T*
+(hangs off, is whether install runs code from the package: on the user?s machine, with their) Tj
+T*
+(privileges, with access to their environment, before they?ve seen a li...) Tj
+T*
+() Tj
+T*
+(12. Emotional regulation is a dying art.) Tj
+T*
+(Source: Westenberg. | Published: Wed, 06 May 2026 00:21:50 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/) Tj
+T*
+(There was a time when adults could feel something without screaming at you about it. We could) Tj
+T*
+(disagree, hard, in a meeting and walk out with our faces still attached. Bad news arrived at) Tj
+T*
+(the dinner table and the meal finished anyway. Call it discipline: the capacity to feel a) Tj
+T*
+() Tj
+T*
+(13. Outrage is letting someone else set the frame) Tj
+T*
+(Source: Westenberg. | Published: Tue, 05 May 2026 06:20:33 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/outrag/) Tj
+T*
+(William Randolph Hearst bought the New York Morning Journal in 1895 - and immediately started) Tj
+T*
+(running stories designed to make his readers furious before they?d finished their breakfast.) Tj
+T*
+(The pages manufactured a mood, and that mood sold papers. Three years later, when his) Tj
+T*
+(correspondent Frederic Remington cabled from) Tj
+T*
+() Tj
+T*
+(14. Pluralistic: The three armies fighting for the post-American world \(05 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 05 May 2026 12:31:41) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/05/05/three-is-a-magic-number/) Tj
+T*
+(Today's links The three armies fighting for the post-American world: Hippies, investors and) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4365 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(hawks. Hey look at this: Delights to delectate. Object permanence: NK dictator's son v Tokyo) Tj
+T*
+(Disneyland; Mainstream press and Bushies v Colbert; Taliban v Pakistan's first McDonald's;) Tj
+T*
+(Norwegian sovereign wealth fund v exec compensation; Copyright v cheerleader uniforms;) Tj
+T*
+(Dishwashers are Iphones. Upcoming appearances: Guelph, Barcelona, Berlin, Hay-on-Wye, London,) Tj
+T*
+(NYC, Edinburgh. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll) Tj
+T*
+(keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest.) Tj
+T*
+(The three armies fighting for the post-American world \(permalink\) Political change is) Tj
+T*
+(downstream of coalition building, and coalitions are fragile things, because by definition they) Tj
+T*
+(are not fully aligned; they share some goals but often violently disagree about others. A) Tj
+T*
+(coalition forms when groups set aside their differences to pursue the common elements of their) Tj
+T*
+(agenda. Trump is a master coalition builder. He wouldn't have been able to seize and wield so) Tj
+T*
+(much power without a coalition that includes people who absolutely hate each other and want) Tj
+T*
+(ea...) Tj
+T*
+() Tj
+T*
+(15. Fizz Buzz Through Monoids) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 05 May 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/fizzbuzz-through-monoids) Tj
+T*
+(Some decade ago I read a good implementation of fizzbuzz. What set it apart was its excellent) Tj
+T*
+(modularity. The original article is no longer on the web, but this is my reconstruction: module) Tj
+T*
+(Main where import Control.Monad \(guard\) import Data.Foldable \(for_\) import Data.Maybe) Tj
+T*
+(\(fromMaybe\) fizzbuzz i = fromMaybe \(show i\) . mconcat $ [ "fizz" The great thing about this) Tj
+T*
+(implementation is that when we get the natural change in requirements ? that we are supposed to) Tj
+T*
+(print ?zork? for multiples of seven ? we can accommodate that change by simply adding the line) Tj
+T*
+(that does so :) Tj
+T*
+() Tj
+T*
+(16. Weekly Update 502) Tj
+T*
+(Source: Troy Hunt | Published: Wed, 06 May 2026 00:14:13 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-502/) Tj
+T*
+(It's a fascinating display of leverage: the ShinyHunters folks, with very limited resources and) Tj
+T*
+(experience \(their demographic will be teenagers to their early 20s\), consistently gaining) Tj
+T*
+(access to the data of massive brands. Not through technical ingenuity alone \(although I'm sure) Tj
+T*
+(there's a portion) Tj
+T*
+() Tj
+T*
+(17. The Impossible Things We Have to Believe) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 05 May 2026 17:09:12 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/) Tj
+T*
+(?Alice laughed. ?There?s no use trying,? she said. ?One can?t believe impossible things.? I) Tj
+T*
+(daresay you haven?t had much practice,? said the Queen. ?When I was your age, I always did it) Tj
+T*
+(for half-an-hour a day. Why, sometimes I?ve believed as many as six impossible things before) Tj
+T*
+(breakfast. ? Through the looking-glass, Lewis Carrol To stay sane, we have to accept that our) Tj
+T*
+(climate is going completely haywire, but that it is ok to mostly ignore that since saving) Tj
+T*
+(ourselves is apparently not cost-effective.) Tj
+T*
+() Tj
+T*
+(18. Bu yaz?da, BioNTech/Pfizer SARS-CoV-2 mRNA a??s?n?n kaynak kodunu karakter karakter) Tj
+T*
+(inceleyece?iz) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 02 Jan 2021 08:12:20 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/biontech-pfizer-mrna-a%C5%9F%C4%B1lar%C4%B1n%C4%B1n-kay) Tj
+T*
+(nak-kodu/) Tj
+T*
+(NOT Bu yaz?, https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-) Tj
+T*
+(pfizer-vaccine/ adresindeki yaz?n?n Türkçe çevirisidir.) Tj
+T*
+(https://gist.github.com/ugurkoltuk/2f87d8038d4fd42f4c6ad13472966797 Ho?geldiniz! Bu yaz?da,) Tj
+T*
+(BioNTech/Pfizer SARS-CoV-2 mRNA a??s?n?n kaynak kodunu karakter karakter inceleyece?iz. Bu) Tj
+T*
+(yaz?y? anla??l?rl?k ve do?ruluk aç?s?ndan gözden geçiren pek çok insana te?ekkür ederim. Tüm) Tj
+T*
+(hatalar yine de benim hatalar?md?r ve hatalar? h?zla bert@hubertnet.nl ya da @bert_hu_bert) Tj
+T*
+(adreslerinden birine bildirmenizi rica ederim \(Çevirmenin notu: çeviri ya da Türkçe dil) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1089 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(hatalar?n? da a?a??daki yorum bölümünü kullanarak bildirmenizi rica ederim.\) Kula?a yanl??) Tj
+T*
+(geliyor olabilir - sonuçta a??, kolunuzdan damar?n?za enjekte edilen bir s?v?.) Tj
+T*
+() Tj
+T*
+(19. Reverse Engineering Source Code of the Biontech Pfizer Vaccine: Part 2) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 31 Dec 2020 12:22:03 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-) Tj
+T*
+(pfizer-vaccine/) Tj
+T*
+(All BNT162b2 vaccine data on this page is sourced from this World Health Organization document.) Tj
+T*
+(This is a living page, shared already so people can get going! But check back frequently for) Tj
+T*
+(updates. Translation: Français / ??? In short: the vaccine mRNA has been optimized by the) Tj
+T*
+(manufacturer by changing bits of RNA from \(say\) UUU to UUC, and people would like to understand) Tj
+T*
+(the logic behind these changes. This challenge is quite close to what cryptologists and reverse) Tj
+T*
+(engineering people encounter regularly.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004593 00000 n 
+0000004719 00000 n 
+0000009726 00000 n 
+0000009852 00000 n 
+0000014155 00000 n 
+0000014281 00000 n 
+0000018699 00000 n 
+0000018827 00000 n 
+0000019969 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20097
+%%EOF
