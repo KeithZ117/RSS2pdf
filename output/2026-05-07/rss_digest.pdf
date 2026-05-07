@@ -1,0 +1,636 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4443 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-07 09:40:20) Tj
+T*
+() Tj
+T*
+(1. Asimov's three laws are merely a suggestion) Tj
+T*
+(Source: iDiallo.com | Published: Wed, 06 May 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed) Tj
+T*
+(Asimov's Three Laws of Robotics were designed as universal constraints for any thinking machine) Tj
+T*
+(powerful enough to harm us: A robot may not injure a human being or, through inaction, allow a) Tj
+T*
+(human being to come to harm. A robot must obey the orders given it by human beings except where) Tj
+T*
+(such orders would conflict with the First Law. A robot must protect its own existence as long) Tj
+T*
+(as such protection does not conflict with the First or Second Law. On paper, the logic is) Tj
+T*
+(flawless. You could even express it as a function: func isAsimovCompliant\(willAllowHarmToHuman) Tj
+T*
+(bool, ...\) bool { if willAllowHarmToHuman { return false } ... return true } The main property) Tj
+T*
+(of this function is that it is a hard constraint. No matter what input you feed the system, the) Tj
+T*
+(law either permits or forbids the action deterministically, every time. The rules don't bend.) Tj
+T*
+(We don't have humanoids walking among us just yet, despite Elon's promises. But we have modern) Tj
+T*
+(generative AI. Our guardrails are delivered as system prompts, text prepended to every) Tj
+T*
+(conversation before you type a word. They might say "be helpful," "don't produce harmful) Tj
+T*
+(content," or even "follow Asimov's Three Laws." The problem is that these ins...) Tj
+T*
+() Tj
+T*
+(2. Live blog: Code w/ Claude 2026) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-06T15:58:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything) Tj
+T*
+(I'm at Anthropic's Code w/ Claude event today. Here's my live blog of the morning keynote) Tj
+T*
+(sessions. Tags: ai , generative-ai , llms , anthropic , claude , claude-code , live-blog) Tj
+T*
+() Tj
+T*
+(3. Vibe coding and agentic engineering are getting closer than I'd like) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-06T14:24:08+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything) Tj
+T*
+(I recently talked with Joseph Ruscio about AI coding tools for Heavybit's High Leverage) Tj
+T*
+(podcast: Ep. #9, The AI Coding Paradigm Shift with Simon Willison . Here are some of my) Tj
+T*
+(highlights, including my disturbing realization that vibe coding and agentic engineering have) Tj
+T*
+(started to converge in my own work. One thing I really enjoy about podcasts is that they) Tj
+T*
+(sometimes push me to think out loud in a way that exposes an idea I've not previously been able) Tj
+T*
+(to put into words. Vibe coding and agentic engineering are starting to overlap A few weeks) Tj
+T*
+(after vibe coding was first coined I published Not all AI-assisted programming is vibe coding) Tj
+T*
+(\(but vibe coding rocks\) , where I firmly staked out my belief that "vibe coding" is a very) Tj
+T*
+(different beast from responsible use of AI to write code, which I've since started to call) Tj
+T*
+(agentic engineering . When Joseph brought up the distinction between the two I had a sudden) Tj
+T*
+(realization that they're not nearly as distinct for me as they used to be: Weirdly though,) Tj
+T*
+(those things have started to blur for me already, which is quite upsetting. I thought we had a) Tj
+T*
+(very clear delineation where vibe coding is the thing where you're not looking at the code at) Tj
+T*
+(all....) Tj
+T*
+() Tj
+T*
+(4. llm-echo 0.5a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-05T01:31:54+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/5/llm-echo/#atom-everything) Tj
+T*
+(Release: llm-echo 0.5a0 New -o thinking 1 option to help test against LLM 0.32a0 and higher.) Tj
+T*
+(This plugin provides a fake model called "echo" for LLM which doesn't run an LLM at all - it's) Tj
+T*
+(useful for writing automated tests. You can now do this: uvx --with llm==0.32a1 --with) Tj
+T*
+(llm-echo==0.5a0 llm -m echo hi -o thinking 1 This will fake a reasoning block to standard error) Tj
+T*
+(before returning JSON echoing the prompt. Tags: llm) Tj
+T*
+() Tj
+T*
+(5. Why not have changes in API behavior depend on the SDK you link against?) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 06 May 2026 14:00:00 +0000) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4762 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://devblogs.microsoft.com/oldnewthing/20260506-00/?p=112303) Tj
+T*
+(Static libraries don't stand a chance. The post Why not have changes in API behavior depend on) Tj
+T*
+(the SDK you link against? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(6. Broadcast Booths Around Baseball Tip Their Caps to John Sterling) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-06T20:33:51Z) Tj
+T*
+(Link:) Tj
+T*
+(https://www.mlb.com/news/broadcast-booths-around-baseball-mirror-john-sterling-signature-calls) Tj
+T*
+(Great stuff around MLB: Those around the league quickly honored that legacy during Monday) Tj
+T*
+(night?s slate of games. Tributes rolled in from across the league, with various play-by-play) Tj
+T*
+(announcers deviating from their typical routines to give a nod to Sterling?s distinct style. It) Tj
+T*
+(started with the Yankees and TV man Michael Kay, who called Aaron Judge?s first-inning home run) Tj
+T*
+(exactly as Sterling would have: ?It is high, it is far, it is gone!? Kay said, continuing:) Tj
+T*
+(?Aaron Judge, a Judgian blast! Here comes the Judge!? The Yankees also tipped the cap to) Tj
+T*
+(Sterling by playing a recording of his iconic post-win call over the loudspeakers in Yankee) Tj
+T*
+(Stadium once New York wrapped up a 12-1 win over the Orioles ? ? Yankees win, theeee Yankees) Tj
+T*
+(win! ? ? something Judge and manager Aaron Boone each said they hoped could continue to be done) Tj
+T*
+(moving forward. The Yankees will wear a commemorative patch for the remainder of the season.) Tj
+T*
+(I?ve got my beefs with Hal Steinbrenner, but the organization still knows how to do stuff like) Tj
+T*
+(this right . Sterling called 5,426 regular-season Yankees games and 225 postseason games.) Tj
+T*
+(According to this tally , there are only three teams that have even played in at leas...) Tj
+T*
+() Tj
+T*
+(7. Claris CEO Ryan McCann on FileMaker in the Age of Agentic Coding) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-06T19:41:36Z) Tj
+T*
+(Link: https://www.claris.com/blog/2026/how-claris-is-building-for-what-comes-next) Tj
+T*
+(That previous item led me to look at Claris?s website for the first time in a while. And, lo,) Tj
+T*
+(there?s a banner promoting a message from CEO Ryan McCann that was posted just yesterday, under) Tj
+T*
+(the headline ? How Claris Is Building for What?s Next ?: Every AI-generated application creates) Tj
+T*
+(the same problems: Where does it run, and how is it deployed, secured, and managed? The app) Tj
+T*
+(needs a database. It needs user authentication, role-based permissions, and audit logging. It) Tj
+T*
+(needs backup and recovery. It needs to work on Mac, Windows, iPad, iPhone, and the web. It) Tj
+T*
+(needs to run on infrastructure your organization controls, whether that is in the cloud or on) Tj
+T*
+(your own hardware. This is what FileMaker already is. One unified platform with data, logic,) Tj
+T*
+(interface, security, and cross-platform delivery, built together from the start. We?ve been) Tj
+T*
+(solving this problem at scale for over 40 years. ?Mac, Windows, iPad, iPhone, and the web?,) Tj
+T*
+(huh? Feels like there?s a somewhat popular platform missing from that list. Can?t quite put my) Tj
+T*
+(finger on it. Oh yeah . FileMaker 2026 is coming soon. This release focuses on resiliency,) Tj
+T*
+(productivity, and infrastructure, including native disaster recovery and busine...) Tj
+T*
+() Tj
+T*
+(8. Luca Maestri Runs the Cafeteria) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-06T19:29:08Z) Tj
+T*
+(Link: https://www.apple.com/leadership/luca-maestri/) Tj
+T*
+(Apple Newsroom, back in August 2024 : Apple today announced that Chief Financial Officer Luca) Tj
+T*
+(Maestri will transition from his role on January 1, 2025. Maestri will continue to lead the) Tj
+T*
+(Corporate Services teams, including information systems and technology, information security,) Tj
+T*
+(and real estate and development, reporting to Apple CEO Tim Cook. As part of a planned) Tj
+T*
+(succession, Kevan Parekh, Apple?s Vice President of Financial Planning and Analysis, will) Tj
+T*
+(become Chief Financial Officer and join the executive team. That continued leadership role) Tj
+T*
+(wasn?t ceremonial. Maestri still has an executive page , which reads: Luca Maestri is Apple?s) Tj
+T*
+(vice president of Corporate Services, reporting to CEO Tim Cook. In this role, he oversees a) Tj
+T*
+(range of functions, including information systems and technology, information security, real) Tj
+T*
+(estate and development, Caffè Macs, and Claris. I find the mention of Caffè Macs to be utterly) Tj
+T*
+(charming. \(And the mention of Claris to be at least a little interesting.\) ?) Tj
+T*
+() Tj
+T*
+(9. Splitting up my .emacs, or "use-package doesn't solve all problems") Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4558 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Chris's Wiki :: blog | Published: 2026-05-06T02:42:27Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSplittingMyInitFile) Tj
+T*
+(Over on the Fediverse, I shared a little story : The current state of my GNU Emacs yak shaving:) Tj
+T*
+(; wc -l .emacs 1550 .emacs Some of that is comments. Some of that is personal functions that I) Tj
+T*
+(should move out to other files so I can have only use-package stuff in my .emacs. And some of) Tj
+T*
+(it is large blocks for lsp-mode and company and some other stuff I'm probably never going to) Tj
+T*
+(use again, which I should drop. I got into my .emacs situation despite using use-package ,) Tj
+T*
+(which is the usual way people recommend to tame your Emacs configuration. Today I dealt with) Tj
+T*
+(the whole thing by splitting my .emacs up into separate files , which is much better in general) Tj
+T*
+(even if it's a bit more annoying in some ways. My .emacs had accumulated a number of things) Tj
+T*
+(over time, probably like many long term Emacs users. Besides infrastructure for use-package, it) Tj
+T*
+(also had general Emacs settings I want, little personal commands and functions, simple) Tj
+T*
+(use-package declarations, and a number of large, complex use-package declarations for packages) Tj
+T*
+(that I need to significantly customize and tweak \(and where I had lots of comments about the) Tj
+T*
+(situation, written for my future self\). Plus it also had commented out remains...) Tj
+T*
+() Tj
+T*
+(10. Triangular analog of the squircle) Tj
+T*
+(Source: John D. Cook | Published: Wed, 06 May 2026 19:53:29 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/06/triangular-analog-of-the-squircle/) Tj
+T*
+(TimF left a comment on my guitar pick post saying the image was a ?squircle-ish analog for an) Tj
+T*
+(isosceles triangle.? That made me wonder what a more direct analog of the squircle might be for) Tj
+T*
+(a triangle. A squircle is not exactly a square with rounded corners. The sides are continuously) Tj
+T*
+(curved, but curved most [?] The post Triangular analog of the squircle first appeared on John) Tj
+T*
+(D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Unified config files) Tj
+T*
+(Source: John D. Cook | Published: Wed, 06 May 2026 16:32:20 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/06/unified-config-files/) Tj
+T*
+(I try to maintain a consistent work environment across computers that I use. The computers) Tj
+T*
+(differ for important reasons, but I?d rather they not differ for unimportant reasons. Unified) Tj
+T*
+(keys One thing I do is remap keys so that the same key does the same thing everywhere, to the) Tj
+T*
+(extent that?s practical. This requires remapping [?] The post Unified config files first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. The mythology of category theory) Tj
+T*
+(Source: John D. Cook | Published: Wed, 06 May 2026 11:37:42 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/06/category-mythology/) Tj
+T*
+(Yesterday a friend and I had a conversation about category theory, how it can be a useful) Tj
+T*
+(pattern description language, but also about how people have unrealistic expectations for it,) Tj
+T*
+(believing category theory can deliver something for nothing. Later I ran across the following) Tj
+T*
+(post from Qiaochu Yuan. It felt as if he had overheard [?] The post The mythology of category) Tj
+T*
+(theory first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(13. Revisiting the 2015 Open Source Census) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-06T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/06/revisiting-the-2015-open-source-census.html) Tj
+T*
+(In July 2015, a year after Heartbleed, the Linux Foundation?s Core Infrastructure Initiative) Tj
+T*
+(published a census of open source projects . The idea was to find the next OpenSSL before it) Tj
+T*
+(found us: take every package in Debian?s popularity contest, score it for risk, and produce a) Tj
+T*
+(ranked list of where to send help. David Wheeler designed the scoring, a small team did manual) Tj
+T*
+(review, and the output was a CSV of 428 projects sorted by a risk_index from 1 to 13. I?d) Tj
+T*
+(forgotten it existed until Daniel Stenberg posted a ten-years-on reminder on Mastodon this) Tj
+T*
+(week, linking back to his 2016 write-up . I was about nine months into building Libraries.io) Tj
+T*
+(when the census came out. At the time I thought I was building a discovery engine, a way to) Tj
+T*
+(find packages across registries, and it took a few more years to notice that the dependency) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4608 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(graph I?d accumulated was more useful for sustainability and security questions than for) Tj
+T*
+(search. So I remember reading the census results and then, like most people, not thinking about) Tj
+T*
+(them again. The data is still there, untouched since 2016. Reading it now is an odd experience) Tj
+T*
+(because you know how the next ten years went and the people filling in the spreadsheet...) Tj
+T*
+() Tj
+T*
+(14. Pluralistic: In praise of vultures \(06 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 06 May 2026 10:15:36) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/05/06/champerty-loves-company/) Tj
+T*
+(Today's links In praise of vultures: They screw you because they can. Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: Linus v MSFT; Argentina v MSFT; Danny Hillis on theme) Tj
+T*
+(parks v games; Smartfilter v Distributed Boing Boing; Rental laptops filled with spyware;) Tj
+T*
+(Torture didn't help capture bin Laden; Massively parallel Apple //e; Stephen Harper v election) Tj
+T*
+(law; John Deere v Iowa cartoonist; Qualia. Upcoming appearances: Guelph, Barcelona, Berlin,) Tj
+T*
+(Hay-on-Wye, London, NYC, Edinburgh. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. In praise of vultures \(permalink\) One of my bedrock beliefs is that) Tj
+T*
+(capitalists really hate capitalism. They may name their beloved institutes after the likes of) Tj
+T*
+(Adam Smith, but they ignore everything Smith had to say about the necessity of competition to) Tj
+T*
+(keep markets from turning into monopolies:) Tj
+T*
+(https://pluralistic.net/2023/06/09/commissar-merck/#price-giver The theory of capitalism holds) Tj
+T*
+(that markets are a kind of distributed computer that aggregates trillions of decisions from) Tj
+T*
+(billions of market participants in order to o...) Tj
+T*
+() Tj
+T*
+(15. New Logic for Programmers \(and the future of this newsletter\)) Tj
+T*
+(Source: Computer Things | Published: Wed, 06 May 2026 17:03:46 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://buttondown.com/hillelwayne/archive/new-logic-for-programmers-and-the-future-of-this/) Tj
+T*
+(So first the immediate news: I just released version 0.14 of Logic for Programmers ! This) Tj
+T*
+(release is pretty similar to 0.13. There are a few rewrites but the vast majority of the) Tj
+T*
+(changes are layout, copyediting, and technical editing. Full notes here . In related news, I've) Tj
+T*
+(started doing test prints of the book: There's not a whole lot left to be done. I've gotta fix) Tj
+T*
+(up some diagrams, do more formatting and proofreading, incorporate some fixes raised by) Tj
+T*
+(readers, and make a website and back cover. After that, the book should be ready for 1.0. I'm) Tj
+T*
+(aiming to have print copies purchasable by the end of June! Now the big news: starting August,) Tj
+T*
+(I'll be a full-time employee of Antithesis , a generative testing platform. Officially my role) Tj
+T*
+(is "developer educator", and I'll be tasked with making "property-based testing, fuzzing, fault) Tj
+T*
+(injection, Hegel , Bombadil , and the Antithesis platform understandable to everyday) Tj
+T*
+(engineers". So the same kind of work I do now, except with far more support and a matching) Tj
+T*
+(401\(k\). I already have three pages of topic ideas you have no idea how excited I am about this) Tj
+T*
+(So how is this going to affect the newsletter? First, I want to make clear that this is no...) Tj
+T*
+() Tj
+T*
+(16. Am I Meant To Be Impressed?) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Wed, 06 May 2026 15:13:07 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/am-i-meant-to-be-impressed/) Tj
+T*
+(If you liked this piece, please subscribe to my premium newsletter. It?s $70 a year, or $7 a) Tj
+T*
+(month, and in return you get a weekly newsletter that?s usually anywhere from 5,000 to 18,000) Tj
+T*
+(words, including vast, detailed analyses of NVIDIA , Anthropic and OpenAI&) Tj
+T*
+() Tj
+T*
+(17. The war between fast and legitimate is here) Tj
+T*
+(Source: Westenberg. | Published: Thu, 07 May 2026 01:18:04 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/) Tj
+T*
+(The European Union spent four years drafting the AI Act, with OpenAI shipping GPT-4 to a) Tj
+T*
+(hundred million users in two months. By the time Brussels finalised its definitions of) Tj
+T*
+("high-risk" systems, the systems in question had moved twice and grown various new appendages.) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3869 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(The regulators were neither) Tj
+T*
+() Tj
+T*
+(18. Open weights are quietly closing up - and that's a problem) Tj
+T*
+(Source: Martin Alderson | Published: Wed, 06 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/open-weights-are-quietly-closing-up/?utm_source=rss&utm_) Tj
+T*
+(medium=rss&utm_campaign=feed) Tj
+T*
+(Open weights models keep frontier labs honest on price. If they disappear, we end up with a) Tj
+T*
+(handful of oligopolists extracting consumer surplus.) Tj
+T*
+() Tj
+T*
+(19. Ingeniería inversa del código fuente de la vacuna de BioNTech/Pfizer para el) Tj
+T*
+(SARS-CoV-2) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 29 Dec 2020 14:12:20 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/ingenieria_inversa_del_codigo_fuente_de_la_vacuna_de_bi) Tj
+T*
+(ontech_pfizer_para_el_sars-cov-2/) Tj
+T*
+(Translations: ???????? / ?? / Deutsch / Français / Hrvatski / Italiano / ?????? / Polskie /) Tj
+T*
+(Português ¡Bienvenidos! En esta publicación daremos una mirada carácter por carácter al código) Tj
+T*
+(fuente de la vacuna de ARNm de BioNTech/Pfizer al SARS-CoV-2. Quiero agradecer a la gran) Tj
+T*
+(cantidad de personas que se tomaron el tiempo de revisar que este artículo sea legible y) Tj
+T*
+(correcto. Todos los errores, sin embargo, continúan siendo míos,> pero me encantaría poder) Tj
+T*
+(escuchar sobre ellos rápidamente en bert@hubertnet.) Tj
+T*
+() Tj
+T*
+(20. Een inkijkje in de broncode van het BioNTech/Pfizer SARS-CoV-2-vaccin) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 29 Dec 2020 11:12:20 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/dutch-reverse-engineering-source-code-of-the-biontech-p) Tj
+T*
+(fizer-vaccine/) Tj
+T*
+(Vertalingen: ???????? / ???? / ?? / ?? / bahasa Indonesia / Català / ?eský / Deutsch / English) Tj
+T*
+(/ Español / Français / ??????? / ???????2 / Hrvatski / Italiano / ?????? / Polskie / ??????? /) Tj
+T*
+(Português. / Român? / Markdown for translating Mogelijk ook interessant, en minder technisch:) Tj
+T*
+(Hoe werken de nieuwe \(mRNA\) Corona Vaccins, of dit item op BNR waar ik het ook uitleg. De) Tj
+T*
+(Belgische podcast Nerdland bespreekt deze pagina ook op heel leuke wijze \(vanaf minuut 7\).) Tj
+T*
+() Tj
+T*
+(21. Een inkijkje in de broncode van het BioNTech/Pfizer SARS-CoV-2-vaccin) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 29 Dec 2020 11:12:20 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/een-inkijkje-in-de-broncode-van-het-biontech-pfizer-sar) Tj
+T*
+(s-cov-2-vaccin/) Tj
+T*
+(Vertalingen: ???????? / ???? / ?? / ?? / bahasa Indonesia / Català / ?eský / Deutsch / English) Tj
+T*
+(/ Español / Français / ??????? / ???????2 / Hrvatski / Italiano / ?????? / Polskie / ??????? /) Tj
+T*
+(Português. / Român? / Markdown for translating Mogelijk ook interessant, en minder technisch:) Tj
+T*
+(Hoe werken de nieuwe \(mRNA\) Corona Vaccins, of dit item op BNR waar ik het ook uitleg. De) Tj
+T*
+(Belgische podcast Nerdland bespreekt deze pagina ook op heel leuke wijze \(vanaf minuut 7\).) Tj
+T*
+() Tj
+T*
+(22. SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Wed, 06 May 2026 21:49:20 GMT) Tj
+T*
+(Link: https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sq) Tj
+T*
+(lalchemy) Tj
+T*
+(This is the seventh chapter of my SQLAlchemy 2 in Practice book. If you'd like to support my) Tj
+T*
+(work, I encourage you to buy this book, either directly from my store or on Amazon . Thank you!) Tj
+T*
+(Starting with release 1.4, SQLAlchemy includes support for asynchronous programming with the) Tj
+T*
+(asyncio package, for both the Core and ORM modules. This is an exciting improvement that brings) Tj
+T*
+(the power of SQLAlchemy to modern applications such as those written with the FastAPI web) Tj
+T*
+(framework.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004712 00000 n 
+0000004838 00000 n 
+0000009652 00000 n 
+0000009778 00000 n 
+0000014388 00000 n 
+0000014514 00000 n 
+0000019175 00000 n 
+0000019303 00000 n 
+0000023225 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+23353
+%%EOF
