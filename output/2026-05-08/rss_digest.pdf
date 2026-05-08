@@ -1,0 +1,606 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4184 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-08 09:40:57) Tj
+T*
+() Tj
+T*
+(1. Prolost Watches 1.0) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-07T21:27:27Z) Tj
+T*
+(Link: https://prolost.com/blog/prolostwatches) Tj
+T*
+(Stu Maschwitz: Prolost Watches is an iPhone app for managing your watch collection. It?s part) Tj
+T*
+(database, part journal; designed for the detail-obsessed mind of the watch fanatic. As you log) Tj
+T*
+(each day?s choice of watch, insights are revealed. Wear logs trace a path on the map. Events) Tj
+T*
+(from the past are resurfaced at opportune times. Finances mange themselves as you buy and sell.) Tj
+T*
+(Your entire collection lives in your pocket, and you get to enjoy all your watches, even the) Tj
+T*
+(ones you?re not wearing. [...] Prolost Watches is a one-time purchase. There?s no subscription,) Tj
+T*
+(no ads, no account, and no server. Your data is secure and private, and never leaves your) Tj
+T*
+(device. Pre-order now for US$14.99, with expected release on June 16 at US$19.99. I?m friends) Tj
+T*
+(with Stu, I have my own little obsessively curated watch collection, and, for some of my) Tj
+T*
+(interests in life, I love keeping a log of activity. So I jumped at the chance to beta test) Tj
+T*
+(Prolost Watches. And it turns out, my watches are not one of those things I want to track in a) Tj
+T*
+(log or database. I just want to continue doing what I?ve been doing ever since I went from) Tj
+T*
+(owning only one watch to two: I pick the one I?m in the mood for that morning and...) Tj
+T*
+() Tj
+T*
+(2. The Greatest Match Cut in Cinematic History, Improved by Amazon Prime) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-07T15:21:34Z) Tj
+T*
+(Link: https://bsky.app/profile/gethill.bsky.social/post/3ml6fyfv7kc2l) Tj
+T*
+(I?m sure there?s a scene marker right at the cut, so that?s why an ad got inserted there. But,) Tj
+T*
+(my god. Someone at Amazon should go to prison for this. \(I think it?s a total coincidence that) Tj
+T*
+(the Febreze ad seems roughly color-matched to the sky. But scroll down in the Bluesky thread) Tj
+T*
+(for some links to the absolute genius campaign from Cerveza Cristal beer, with spots) Tj
+T*
+(specifically designed to integrate into Star Wars when it was broadcast on commercial TV in) Tj
+T*
+(Chile. ? Your father wanted you to have this when you were old enough ? might be the funniest) Tj
+T*
+(TV commercial ever made.\) Update: Here?s Todd Vaziri?s 2026 HD remaster of the original jump) Tj
+T*
+(cut , for your comparison. Enjoy. ?) Tj
+T*
+() Tj
+T*
+(3. ? Software as the Product of Obsession Times Voice) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-05T21:01:05Z) Tj
+T*
+(Link: https://daringfireball.net/2026/05/software_as_the_product_of_obsession_times_voice) Tj
+T*
+(You might think it counterintuitive that a movement obsessed with software would be) Tj
+T*
+(spearheading a severe decline in the design quality of software, but in Patel?s definition,) Tj
+T*
+(there?s no concept of software as art, as a practice, as a craft. Software brain is purely an) Tj
+T*
+(obsession with software as a medium in and of itself. A means with no consideration for the) Tj
+T*
+(end.) Tj
+T*
+() Tj
+T*
+(4. llm-gemini 0.31) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-07T19:57:06+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything) Tj
+T*
+(Release: llm-gemini 0.31 gemini-3.1-flash-lite is no longer a preview . Here's my write-up of) Tj
+T*
+(the Gemini 3.1 Flash-Lite Preview model back in March. I don't believe this new non-preview) Tj
+T*
+(model has changed since then. Tags: llm-release , gemini , llm , google , generative-ai , ai ,) Tj
+T*
+(llms) Tj
+T*
+() Tj
+T*
+(5. Big Words) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-07T18:47:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/7/big-words/#atom-everything) Tj
+T*
+(Tool: Big Words I'm using my vibe coded macOS presentations tool to put together a talk, and I) Tj
+T*
+(wanted to add a slide with some text on it. The tool only accepts URLs, so I put together a) Tj
+T*
+(quick page that accepts query string arguments and turns them into a simple slide. Here's an) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4626 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(example: https://tools.simonwillison.net/big-words?text=simonwillison.net&gradient=1&size=9.5) Tj
+T*
+(Double click or double tap the page to access a form for modifying the different options. Tags:) Tj
+T*
+(vibe-coding , tools) Tj
+T*
+() Tj
+T*
+(6. Behind the Scenes Hardening Firefox with Claude Mythos Preview) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-07T17:56:25+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything) Tj
+T*
+(Behind the Scenes Hardening Firefox with Claude Mythos Preview Fascinating, in-depth details on) Tj
+T*
+(how Mozilla used their access to the Claude Mythos preview to locate and then fix hundreds of) Tj
+T*
+(vulnerabilities in Firefox: Suddenly, the bugs are very good Just a few months ago,) Tj
+T*
+(AI-generated security bug reports to open source projects were mostly known for being unwanted) Tj
+T*
+(slop. Dealing with reports that look plausibly correct but are wrong imposes an asymmetric cost) Tj
+T*
+(on project maintainers: it?s cheap and easy to prompt an LLM to find a ?problem? in code, but) Tj
+T*
+(slow and expensive to respond to it. It is difficult to overstate how much this dynamic changed) Tj
+T*
+(for us over a few short months. This was due to a combination of two main factors. First, the) Tj
+T*
+(models got a lot more capable. Second, we dramatically improved our techniques for harnessing) Tj
+T*
+(these models ? steering them, scaling them, and stacking them to generate large amounts of) Tj
+T*
+(signal and filter out the noise. They include some detailed bug descriptions too, including a) Tj
+T*
+(20-year old XSLT bug and a 15-year-old bug in the element. A lot of the attempts made by the) Tj
+T*
+(harness were blocked by Firefox's existing defense-in-depth measures, which is...) Tj
+T*
+() Tj
+T*
+(7. Why hasn't longer-horizon training slowed AI progress?) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Thu, 07 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/) Tj
+T*
+(Dwarkesh Patel 1 recently posted an award for the best answers to four key questions about AI.) Tj
+T*
+(It?s partly a challenge and partly a job interview, since some of the winners will get offered) Tj
+T*
+(a role as a ?research collaborator?. I don?t want the job, but I do want to write down my) Tj
+T*
+(answer to his first question: why hasn?t AI progress slowed down more? There are a few reasons) Tj
+T*
+(we might think AI progress would slow down. The particular reason Dwarkesh is interested in) Tj
+T*
+(goes like this. Training a model \(specifically reinforcement learning\) requires the model to) Tj
+T*
+(perform a task and then get ?graded? on the output. As models get more powerful and tasks) Tj
+T*
+(become harder, they take longer and require more FLOPs 2 to complete, and thus more FLOPs to) Tj
+T*
+(train: thus training harder models will take longer. But intuitively, AI progress hasn?t slowed) Tj
+T*
+(down that much. The famous METR horizon-length graph shows that AI systems are capable of more) Tj
+T*
+(and more complex tasks over time, and that this process is accelerating, not slowing down. Why) Tj
+T*
+(would that be? What?s in a FLOP? Firstly, it might just be the case that newer models are) Tj
+T*
+(benefiting from orders of magnitude more FLOPs . Of course, AI labs aren?t stand...) Tj
+T*
+() Tj
+T*
+(8. When you upgrade your resource strings to Unicode, don?t forget to specify the L prefix) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 07 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260507-00/?p=112307) Tj
+T*
+(Otherwise, it'll get mapped back down to the 8-bit code page. The post When you upgrade your) Tj
+T*
+(resource strings to Unicode, don?t forget to specify the L prefix appeared first on The Old New) Tj
+T*
+(Thing .) Tj
+T*
+() Tj
+T*
+(9. Smoothed polygons) Tj
+T*
+(Source: John D. Cook | Published: Thu, 07 May 2026 18:19:24 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/07/smoothed-polygons/) Tj
+T*
+(The previous post constructed a triangular analog of the squircle, the unit circle in the) Tj
+T*
+(p-norm where p is typically around 4. The case p = 2 is a Euclidean circle and the limit as p ?) Tj
+T*
+(? is a Euclidean square. The previous post introduced three functions Li\(x, y\) such the level) Tj
+T*
+(set of each function forms a [?] The post Smoothed polygons first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Your Linux distribution may no longer auto-generate new SSH host keys) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-07T14:30:47Z) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4334 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/SSHHostKeysAndAutogeneration) Tj
+T*
+(All Linux distributions \(and all systems\) face the need to generate SSH host keys when your) Tj
+T*
+(system gets installed. One traditional way this was done was if the system started and) Tj
+T*
+(discovered it had no SSH host keys, it would generate new ones. One way this was handy was that) Tj
+T*
+(if you wanted to generate new SSH host keys for some reason, you could remove the existing ones) Tj
+T*
+(and either reboot or restart the SSH daemon \(which would usually trigger this\). As I found out) Tj
+T*
+(the hard way the other day, some Linux distributions don't do this any more. In particular,) Tj
+T*
+(Ubuntu doesn't. If you remove your SSH host keys, your SSH daemon will refuse to \(re\)start, and) Tj
+T*
+(as far as I know there's no convenient, simple way to regenerate the necessary keys. If you) Tj
+T*
+(make this mistake \(as I did\), you'll get to have fun looking up the ssh-keygen arguments you) Tj
+T*
+(need \(and then typing them in on the system console or a serial connection\). Before I started) Tj
+T*
+(writing this entry, I would have guessed that this was common behavior across multiple) Tj
+T*
+(distributions, because in this day and age it makes sense for your SSH keys to be set up in the) Tj
+T*
+(installer rather than \(possibly\) on system boot, in a situation where the kernel's...) Tj
+T*
+() Tj
+T*
+(11. Maybe you shouldn't install new software for a bit) Tj
+T*
+(Source: Xe Iaso's blog | Published: Thu, 07 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/blog/2026/abstain-from-install/) Tj
+T*
+(Oh boy yet more linux kernel vulns) Tj
+T*
+() Tj
+T*
+(12. I've found just the right paper for my Bottom Hole problem) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 07 May 2026 11:34:54 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/) Tj
+T*
+(A few weeks ago, I went on a mad quest to find the newspaper used in 1995's Bottom Hole TV) Tj
+T*
+(show. During the episode, Eddie starts reading this newspaper: Obviously, the "Hammersmith) Tj
+T*
+(Bugle" is not a real paper and they never ran a headline "No News Shocker". But judging from) Tj
+T*
+(all the other shots, the prop is based on a real newspaper. So I decided to rip off Dirty) Tj
+T*
+(Feed's shtick and find out?) Tj
+T*
+() Tj
+T*
+(13. Free as in Tribbles) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-07T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/07/free-as-in-tribbles.html) Tj
+T*
+(The free software movement gave us two prepositions to argue over. Free as in beer : it costs) Tj
+T*
+(you nothing. Free as in speech : you can do what you like with it. Stallman spent decades) Tj
+T*
+(insisting the second was the one that mattered and the first was nearly a distraction, which is) Tj
+T*
+(why the FSF ended up maintaining a page about the word ?free? that runs longer than most) Tj
+T*
+(licences. Somewhere around the time open source started turning up in procurement meetings, a) Tj
+T*
+(third variant appeared: free as in puppy . The software costs nothing to take home, but now it) Tj
+T*
+(needs feeding, walking, and trips to the vet, and someone has to look after it when you?re on) Tj
+T*
+(holiday. It was the total-cost-of-ownership argument with fur on, and it was a useful) Tj
+T*
+(corrective because it moved the conversation from the licence to the lifecycle. I liked it) Tj
+T*
+(enough to give a whole talk under that title at Bath Ruby in 2018, so consider what follows me) Tj
+T*
+(retiring my own metaphor rather than picking a fight with someone else?s. The puppy metaphor) Tj
+T*
+(fit the era it came from, and I think it fit the point I was making then. You?d bring in one) Tj
+T*
+(big open source thing, a database or an application server or a CMS, and your ops team wo...) Tj
+T*
+() Tj
+T*
+(14. How Long Do We Wait for New Inventions?) Tj
+T*
+(Source: Construction Physics | Published: Thu, 07 May 2026 15:23:28 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/how-long-do-we-wait-for-new-inventions) Tj
+T*
+(Mostly not very long) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: Bubbles are REALLY evil \(07 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 07 May 2026 08:08:49) Tj
+T*
+(+0000) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4622 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://pluralistic.net/2026/05/07/dump-the-pumpers/) Tj
+T*
+(Today's links Bubbles are REALLY evil: Bernie Ebbers got what was coming to him. Hey look at) Tj
+T*
+(this: Delights to delectate. Object permanence: Mozilla v DHS wiretaps; Judge v FCC's internet) Tj
+T*
+(wiretaps; Foxconn workers must promise not to kill themselves; "Shannon's Law"; How to) Tj
+T*
+(password; Stimmies killed the McJob; "Little Bosses Everywhere." Upcoming appearances: Guelph,) Tj
+T*
+(Barcelona, Berlin, Hay-on-Wye, London, NYC, Edinburgh. Recent appearances: Where I've been.) Tj
+T*
+(Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll) Tj
+T*
+(keep writin' 'em. Colophon: All the rest. Bubbles are REALLY evil \(permalink\) I am on record as) Tj
+T*
+(saying that every economic bubble is terrible, but some bubbles do at least leave behind a) Tj
+T*
+(salvageable productive residue while others leave behind nothing but ashes; indeed, this is the) Tj
+T*
+(thesis of my next book, The Reverse Centaur's Guide to Life After AI:) Tj
+T*
+(https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/ Here's a) Tj
+T*
+(historical comparison that's illuminating: Enron vs Worldcom. Both were monumental frauds, the) Tj
+T*
+(CEOs of both companies died shortly after the frauds were discovered, but they have very) Tj
+T*
+(different legaci...) Tj
+T*
+() Tj
+T*
+(16. Notes on the Hantavirus Outbreak) Tj
+T*
+(Source: Fernando Borretti | Published: Fri, 08 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://borretti.me/article/notes-on-the-hantavirus-outbreak) Tj
+T*
+(Cruise ships are bad for the world.) Tj
+T*
+() Tj
+T*
+(17. Article previews in RSS) Tj
+T*
+(Source: Entropic Thoughts | Published: Thu, 07 May 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/article-previews-in-rss) Tj
+T*
+(Since about three years past time immemorial, the RSS feed for this site has been very anaemic.) Tj
+T*
+(It had article titles and dates, and that was it. Many readers have requested that I include) Tj
+T*
+(the full article in the feed, or at least a preview, but I?ve always put it off because it has) Tj
+T*
+(sounded difficult to accomplish technically. The way the RSS feed for this site is generated is) Tj
+T*
+(in two steps: First a little loop in Emacs Lisp runs through the first few items of a sorted) Tj
+T*
+(and filtered list of files belonging to this project. This loop constructs an org-element) Tj
+T*
+(syntax tree for the RSS feed, and renders it out to a temporary file as an Org mode file. Then) Tj
+T*
+(the regular Org exporting framework takes over and exports that file as an RSS file using the) Tj
+T*
+(ox-rss backend. \(Continue reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(18. Monitor your devices with LibreNMS on FreeBSD) Tj
+T*
+(Source: IT Notes | Published: Thu, 07 May 2026 10:45:00 +0000) Tj
+T*
+(Link: https://it-notes.dragas.net/2026/05/07/monitor-your-services-with-librenms-on-freebsd/) Tj
+T*
+(LibreNMS has been a faithful companion for years now. It quietly handles the monitoring of my) Tj
+T*
+(servers, devices, and services without demanding much in return - exactly what you want from a) Tj
+T*
+(tool whose job is to watch over everything else. It's a solid alternative to heavier solutions) Tj
+T*
+(like Zabbix, and it gives you alerts, data, and graphs on virtually anything reachable over) Tj
+T*
+(SNMP. I usually install it on a host that is not reachable from the outside, then let it poll) Tj
+T*
+(all the devices through a VPN: a single observation point, clean perimeter. The ability to) Tj
+T*
+(create multiple dashboards - and to filter them by user - has also let me give clients a) Tj
+T*
+(transparent window onto their own servers. Transparency, in my experience, is always the better) Tj
+T*
+(long-term bet. Together with Uptime-Kuma \(and the good old Nagios/Munin pair\), LibreNMS lives) Tj
+T*
+(in a FreeBSD jail on my monitoring servers and just does its job. This post walks through a) Tj
+T*
+(plain installation of LibreNMS on FreeBSD: package-based, no reverse proxy, no HTTPS, no fancy) Tj
+T*
+(hardening. The goal is to get to a working setup you can build on top of. Assumptions FreeBSD) Tj
+T*
+(15.0-RELEASE, in a jail or on a dedicated VM/host nginx + php-fpm + MySQL 8.4...) Tj
+T*
+() Tj
+T*
+(19. The Intolerable Hypocrisy of Cyberlibertarianism) Tj
+T*
+(Source: matduggan.com | Published: Thu, 07 May 2026 09:43:28 GMT) Tj
+T*
+(Link: https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/) Tj
+T*
+(I like the Internet. I am old enough to remember the pre-Internet era and despite the younger) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 2905 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(generations pining for those simpler days, I was there. Paper maps were absolutely horrible,) Tj
+T*
+(just you and a compass in your car on the side of the road in the middle of the) Tj
+T*
+() Tj
+T*
+(20. Merekayasa Balik Kode Sumber Vaksin SARS-CoV-2 BioNTech/Pfizer) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 29 Dec 2020 11:12:20 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/merekayasa-balik-kode-sumber-vaksin-sars-cov-2-biontech) Tj
+T*
+(-pfizer/) Tj
+T*
+(\(artikel asli ditulis oleh Bert Hubert\) Selamat datang! Pada artikel ini, kita akan mengamati) Tj
+T*
+(kode sumber dari vaksin mRNA BioNTech/Pfizer SARS-CoV-2 berdasarkan ciri-ciri. Saya) Tj
+T*
+(menghaturkan terima kasih banyak kepada sejumlah besar orang yang meluangkan waktu untuk) Tj
+T*
+(mempratinjau artikel ini untuk memastikan keterbacaan dan ketepatan. Seluruh kesalahan tetaplah) Tj
+T*
+(milik saya, namun saya akan dengan senang hati menerima tanggapan Anda segera pada) Tj
+T*
+(bert@hubertnet.nl atau @bert_hu_bert* Pernyataan ini mungkin agak mengejutkan - vaksin adalah) Tj
+T*
+(sebuah cairan yang disuntikkan ke lengan.) Tj
+T*
+() Tj
+T*
+(21. Ingegnerizzazione inversa del Codice Sorgente del Vaccino BioNTech/Pfizer) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 28 Dec 2020 01:43:20 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/italian-reverse-engineering-source-code-of-the-biontech) Tj
+T*
+(-pfizer-vaccine/) Tj
+T*
+(Benvenuti! In questo post daremo uno sguardo, carattere per carattere, al codice sorgente del) Tj
+T*
+(vaccino a mRNA BioNTech/Pfizer contro il SARS-CoV-2. Vorrei ringraziare le molte persone che) Tj
+T*
+(hanno donato il proprio tempo a rivedere le bozze di questo articolo per migliorarne la) Tj
+T*
+(leggibilit‡ e la correttezza. Tutti gli errori sono miei, ma vorrei esserne informato prima) Tj
+T*
+(possibile a bert@hubertnet.nl o @bert_hu_bert Ora, questi termini potrebbero sembrare in) Tj
+T*
+(contrasto - il vaccino Ë un liquido, che viene iniettato nel braccio.) Tj
+T*
+() Tj
+T*
+(22. ????????????????? ??? ?????? ?????? ??? ???????? ???? ??? ?????????) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 26 Dec 2020 20:09:13 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/greek-reverse-engineering-source-code-of-the-biontech-p) Tj
+T*
+(fizer-vaccine/) Tj
+T*
+(????????????????? ??? ?????? ?????? ??? ???????? ???? ??? ????????? \(BioNTech/Pfizer SARS-CoV-2) Tj
+T*
+(Vaccine\) ????? ??????! ?? ????? ??? ????????, ?? ??????? ??? ????? ?????????-????-?????????) Tj
+T*
+(???? ?????? ?????? ??? ???????? BioNTech / Pfizer SARS-CoV-2 mRNA. ???? ?? ??????????? ???) Tj
+T*
+(?????? ?????? ???????? ??? ????????? ????? ???? ????????????? ????? ??? ?????? ??? ???) Tj
+T*
+(?????????????? ??? ??? ????????. ??????, ??? ?? ???? ?????????? ???? ???, ???? ?? ????? ?? ??) Tj
+T*
+(?????? ??????? ??? bert@hubertnet.nl ? ??? @PowerDNS_Bert) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004453 00000 n 
+0000004579 00000 n 
+0000009257 00000 n 
+0000009383 00000 n 
+0000013769 00000 n 
+0000013895 00000 n 
+0000018570 00000 n 
+0000018698 00000 n 
+0000021656 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+21784
+%%EOF
