@@ -1,0 +1,766 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4660 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-09 09:40:03) Tj
+T*
+() Tj
+T*
+(1. Quoting Luke Curley) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-09T01:03:58+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/9/luke-curley/#atom-everything) Tj
+T*
+(WebRTC is designed to degrade and drop my prompt during poor network conditions. wtf my dude) Tj
+T*
+(WebRTC aggressively drops audio packets to keep latency low. If you?ve ever heard distorted) Tj
+T*
+(audio on a conference call, that?s WebRTC baybee. The idea is that conference calls depend on) Tj
+T*
+(rapid back-and-forth, so pausing to wait for audio is unacceptable. ?but as a user, I would) Tj
+T*
+(much rather wait an extra 200ms for my slow/expensive prompt to be accurate. After all, I?m) Tj
+T*
+(paying good money to boil the ocean, and a garbage prompt means a garbage response. It?s not) Tj
+T*
+(like LLMs are particularly responsive anyway. But I?m not allowed to wait . It?s impossible to) Tj
+T*
+(even retransmit a WebRTC audio packet within a browser; we tried at Discord. The implementation) Tj
+T*
+(is hard-coded for real-time latency or else . ? Luke Curley , OpenAI?s WebRTC Problem, in) Tj
+T*
+(response to How OpenAI delivers low-latency voice AI at scale Tags: webrtc , openai) Tj
+T*
+() Tj
+T*
+(2. Using Claude Code: The Unreasonable Effectiveness of HTML) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-08T21:00:11+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything) Tj
+T*
+(Using Claude Code: The Unreasonable Effectiveness of HTML Thought-provoking piece by Thariq) Tj
+T*
+(Shihipar \(on the Claude Code team at Anthropic\) advocating for HTML over Markdown as an output) Tj
+T*
+(format to request from Claude. The article is crammed with interesting examples \(collected on) Tj
+T*
+(this site \) and prompt suggestions like this one: Help me review this PR by creating an HTML) Tj
+T*
+(artifact that describes it. I'm not very familiar with the streaming/backpressure logic so) Tj
+T*
+(focus on that. Render the actual diff with inline margin annotations, color-code findings by) Tj
+T*
+(severity and whatever else might be needed to convey the concept well. I've been defaulting to) Tj
+T*
+(asking for most things in Markdown since the GPT-4 days, when the 8,192 token limit meant that) Tj
+T*
+(Markdown's token-efficiency over HTML was extremely worthwhile. Thariq's piece here has caused) Tj
+T*
+(me to reconsider that, especially for output. Asking Claude for an explanation in HTML means it) Tj
+T*
+(can drop in SVG diagrams, interactive widgets, in-page navigation and all sorts of other neat) Tj
+T*
+(ways of making the information more pleasant to navigate. I wrote about Useful patterns for) Tj
+T*
+(building HTML tools last December, but that was focused very much on inter...) Tj
+T*
+() Tj
+T*
+(3. Notes on the xAI/Anthropic data center deal) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-07T17:09:28+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything) Tj
+T*
+(There weren't a lot of big new announcements from Anthropic at yesterday's Code w/ Claude) Tj
+T*
+(event, but the biggest by far was the deal they've struck with SpaceX/xAI to use "all of the) Tj
+T*
+(capacity of their Colossus data center". As I mentioned in my live blog of the keynote , that's) Tj
+T*
+(the one with the particularly bad environmental record . The gas turbines installed to power) Tj
+T*
+(the facility initially ran without Clean Air Act permits or pollution control devices, which) Tj
+T*
+(they got away with by classifying them as "temporary". Credible reports link it to increases in) Tj
+T*
+(hospital admissions relating to low air quality. Andy Masley, one of the most prolific voices) Tj
+T*
+(pushing back against misleading rhetoric about data centers \(see The AI water issue is fake and) Tj
+T*
+(Data center land issues are fake \), had this to say about Colossus: I would simply not run my) Tj
+T*
+(computing out of this specific data center I get that Anthropic are severely) Tj
+T*
+(compute-constrained, but in a world where the very existence of "AI data centers" is a red-hot) Tj
+T*
+(political issue \(see recent news out of Utah for a fresh example\), signing up with this) Tj
+T*
+(particular data center is a really bad look. There was a lot of initial chatter about how) Tj
+T*
+(this...) Tj
+T*
+() Tj
+T*
+(4. HomePod mini feels like magic, but it's just good timing) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 08 May 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4603 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(timing/) Tj
+T*
+(Apple introduced the HomePod mini six years ago , in 2020. I'm not one into smart speakers, but) Tj
+T*
+(the feature that made me take a closer look was their ability to form stereo pairs, without any) Tj
+T*
+(direct wired connection. I know there are other speaker manufacturers with wireless speakers,) Tj
+T*
+(but to my knowledge, Apple was just using AirPlay over WiFi... so how does it work? Through the) Tj
+T*
+(magic of buying two HomePods mini \(pictured above\), I found out. A video detailing the process) Tj
+T*
+(is embedded below:) Tj
+T*
+() Tj
+T*
+(5. AI makes weak engineers less harmful) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sat, 09 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/) Tj
+T*
+(Like other kinds of puzzle-solving, software engineering ability is strongly heavy-tailed. The) Tj
+T*
+(strongest engineers produce way more useful output than the average, and the weakest engineers) Tj
+T*
+(often are actively net-negative: instead of moving projects along, they create problems that) Tj
+T*
+(their colleagues have to spend time solving. That?s why many tech companies try to build a) Tj
+T*
+(small, ludicrously well-paid team instead of a large team of more average engineers, and why so) Tj
+T*
+(far this seems to be a winning strategy. Being effective in a large tech company is often about) Tj
+T*
+(managing this phenomenon: trying to arrange things so that the most competent people land on) Tj
+T*
+(projects you want to succeed, and the least competent are shunted out of the way 1 . For) Tj
+T*
+(instance, if you?re technical lead on a project, you more or less have to ensure 2 that the) Tj
+T*
+(most critical pieces are in the hands of people who won?t screw them up \(whether by directly) Tj
+T*
+(assigning the work, or by making sure someone can ?sit on the shoulder? of the engineer who) Tj
+T*
+(you?re worried about\). Claude Code changed this. Frontier LLMs don?t have the taste or the) Tj
+T*
+(system familiarity of a strong engineer, but they have absolutely raised the floor...) Tj
+T*
+() Tj
+T*
+(6. Notes on incidents) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Fri, 08 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/notes-on-incidents/) Tj
+T*
+(Incidents are boring. Most of what you actually do during an incident is wait: for some other) Tj
+T*
+(team to investigate, or for a deploy to finish, or for the result of some change to become) Tj
+T*
+(apparent, or for someone else who?s been paged to come online. It?s stressful, but there?s) Tj
+T*
+(often just not that much to do. Most incidents resolve on their own. People love to share war) Tj
+T*
+(stories about incidents where some hero engineer improvised a clever fix that instantly) Tj
+T*
+(repaired the system. That rarely happens. Well-designed software systems tend to come good by) Tj
+T*
+(themselves, and many modern systems are at least partly well-designed, by virtue of being built) Tj
+T*
+(out of really solid pieces. If a server process is crashing or leaking memory, Kubernetes will) Tj
+T*
+(kill the pod and bring it back up. If a service is overloaded and jammed up, clients will) Tj
+T*
+(\(hopefully\) trigger circuit breakers and back off until it can recover. Temporary spikes in) Tj
+T*
+(expensive operations will often just fill up a queue instead of taking the entire system down.) Tj
+T*
+(Most incident calls I?ve been on - well over half - would have come good by themselves in) Tj
+T*
+(roughly the same time without any human intervention. Most incident-resolving actions mak...) Tj
+T*
+() Tj
+T*
+(7. Developing more confidence when tracking renames via Read­Directory­ChangesW) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 08 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310) Tj
+T*
+(You can track the file ID. The post Developing more confidence when tracking renames via) Tj
+T*
+(Read­Directory­ChangesW appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Pedometer++ 8.0) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-05T18:12:44Z) Tj
+T*
+(Link: https://david-smith.org/blog/2026/04/29/maps-on-watchos/) Tj
+T*
+(David Smith, ?Six Years Perfecting Maps on watchOS?: I love going on wilderness adventures. I) Tj
+T*
+(am rarely happier than when I am far off into the mountains without a soul in sight. As a) Tj
+T*
+(result, I have spent a lot of time learning how to safely explore and navigate when I?m away) Tj
+T*
+(from civilization. The most important habit I?ve found for not getting lost is to be very) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4576 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(regular in checking your location as you go, and the best way I?ve found to do that is to have) Tj
+T*
+(a map on my wrist. For more than six years I?ve been working towards creating the best possible) Tj
+T*
+(mapping experience on the Apple Watch. With yesterday?s launch of Pedometer++ 8 , I feel like) Tj
+T*
+(this design journey has reached a meaningful destination. I would contend that Pedometer++?s) Tj
+T*
+(watchOS mapping support is the absolute best available on the App Store. So I wanted to walk) Tj
+T*
+(through the journey it took to get here. ?I love going on wilderness adventures? is how you) Tj
+T*
+(start a post about an app update. Or at least my type of update to my type of app. I don?t have) Tj
+T*
+(any desire for maps on my watch, but reading this makes me want it anyway. Enthusiasm is) Tj
+T*
+(contagious. \(See also: the Pedometer++ blog , and Stephen Hackett at 512 Pixels .\) ?) Tj
+T*
+() Tj
+T*
+(9. [Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth) Tj
+T*
+(Infrastructure Isn?t.) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-05T02:28:25Z) Tj
+T*
+(Link: https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) Tj
+T*
+(If you?re building B2B SaaS, especially AI, you quickly need enterprise features like SSO,) Tj
+T*
+(SCIM, and audit logs. Your developers shouldn?t waste cycles rebuilding that infrastructure.) Tj
+T*
+(Free them to focus on what sets you apart. WorkOS gives you production-ready APIs for auth and) Tj
+T*
+(access control that integrate directly into your product. Trusted by over 2,000 companies,) Tj
+T*
+(including OpenAI, Anthropic, Cursor, and Vercel. Build faster with WorkOS ? ?) Tj
+T*
+() Tj
+T*
+(10. Chess Peace) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-05T02:18:00Z) Tj
+T*
+(Link: https://chesspeace.app/) Tj
+T*
+(Chess Peace ? a new iOS game by Sam Shepherd ? is my kind of logic puzzle. Each puzzle is a) Tj
+T*
+(board with a few unplaced chess pieces. To solve you need to place all the pieces so that none) Tj
+T*
+(of them attack each other. There?s a timer if you care, but I don?t. \(And you can hide the) Tj
+T*
+(clock.\) Clever name too: the pieces need to be ... at peace with each other. You can download) Tj
+T*
+(Chess Peace and try it out free of charge, and it?s just a one-time payment of $7 to unlock) Tj
+T*
+(everything. Great simple premise, really well implemented. ?) Tj
+T*
+() Tj
+T*
+(11. Pushing Local Models With Focus And Polish) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-05-08T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/5/8/local-models/) Tj
+T*
+(I really, really want local models to work. I want them to work in the very practical sense) Tj
+T*
+(that I can open my coding agent, pick a local model, and get something that feels competitive) Tj
+T*
+(enough that I do not immediately switch back to a hosted API after five minutes. There are a) Tj
+T*
+(lot of reasons why I want this, but the biggest quite frankly is that we?re so early with this) Tj
+T*
+(stuff, and the thought of locking all the experimentation away from the average developer) Tj
+T*
+(really upsets me. Frustratingly, right now that is still much harder than it should be but for) Tj
+T*
+(reasons that have little to do with the complexity of the task or the quality of the models. We) Tj
+T*
+(have an enormous amount of activity around local inference, which is great. We have good) Tj
+T*
+(projects, fast kernels, and people are doing great quantization work. A lot of very smart) Tj
+T*
+(people are making all of this better, and yet the experience for someone trying to make this) Tj
+T*
+(work with a coding agent is worse than it has any right to be. Putting an API key into Pi and) Tj
+T*
+(using a hosted model is a very boring operation. You select the provider, paste the key and) Tj
+T*
+(then you are done thinking about how to get tokens. Doing the same thing locally, even...) Tj
+T*
+() Tj
+T*
+(12. Calculating curvature) Tj
+T*
+(Source: John D. Cook | Published: Fri, 08 May 2026 13:54:18 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/08/calculating-curvature/) Tj
+T*
+(Curvature is conceptually simple but usually difficult to calculate. For a level set curve f\(x,) Tj
+T*
+(y\) = c, such as in the previous couple posts, the equation for curvature is Even when f has a) Tj
+T*
+(fairly simple expression, the expression for ? can be complicated. If we define then the level) Tj
+T*
+(set of f\(x, y\) = c is [?] The post Calculating curvature first appeared on John D. Cook .) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4513 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(13. Hi stranger) Tj
+T*
+(Source: iDiallo.com | Published: Fri, 08 May 2026 14:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/hi?src=feed) Tj
+T*
+(I'm at home, sitting on the kitchen table. I just took my boys to school and I'm about to start) Tj
+T*
+(my work. I'm writing this message directly to you. And you are reading it. Hello! Isn't that) Tj
+T*
+(funny? I've been trying to write consistently, and it gives the impression that I am this) Tj
+T*
+(serious person with some serious insights. But no, I'm just writing. Sometimes you respond, you) Tj
+T*
+(send a nice email, other times it's complete silence. It ends up being like an entry in a) Tj
+T*
+(journal, for me to stumble upon at a later date and reflect: "Oh yeah, that's what I was) Tj
+T*
+(thinking that day." My job is a 2 hour drive away, so I rent an office close by. There I can) Tj
+T*
+(focus and clearly delineate work time from home time. I don't like working when I'm home with) Tj
+T*
+(my family. So I have some time to talk to you. Last year, I spent some time digging through my) Tj
+T*
+(server logs to find who is reading me. I wanted to know who you are, and why you are interested) Tj
+T*
+(in reading me? But I can't get an answer from just reading the logs. Instead what I found is) Tj
+T*
+(that you and most other people come here via RSS. My rough count shows that there are 10,000 of) Tj
+T*
+(you, or at least 10,000 unique IP addresses that ping the websites whenever I...) Tj
+T*
+() Tj
+T*
+(14. Steering Zig Fmt) Tj
+T*
+(Source: matklad | Published: 2026-05-08T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/05/08/steering-zig-fmt.html) Tj
+T*
+(Two tips on using zig fmt effectively. Read this if you are writing Zig, or if you are) Tj
+T*
+(implementing a code formatter.) Tj
+T*
+() Tj
+T*
+(15. Detecting \(or not\) the use of -l and -c together in Bourne shells) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-08T03:32:19Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellLoginWithCommand) Tj
+T*
+(Many Bourne shells go slightly beyond the POSIX sh specification to also support a '-l' option) Tj
+T*
+(that makes the shell act as a 'login shell'. POSIX's omission of -l isn't only because it) Tj
+T*
+(doesn't really talk about login shells at all, it's also because Unix has a special way of) Tj
+T*
+(marking login shells that goes back very far in its history . The -l option isn't necessarily) Tj
+T*
+(what login and sshd and so on use, it's something that you can use if you specifically want to) Tj
+T*
+(get a login shell in an unusual circumstance. Bourne shells also have a '-c ' option that) Tj
+T*
+(causes the shell to execute the command string rather than be interactive \(this is a long) Tj
+T*
+(standing option that is in POSIX\). It may surprise you to hear that most or all Bourne shells) Tj
+T*
+(that support -l also allow you to use -l and -c together. Basically all Bourne shells interpret) Tj
+T*
+(this as first executing your .profile and so on, then executing the command string instead of) Tj
+T*
+(going interactive. One use for this is to non-interactively run a command line in the context) Tj
+T*
+(of your fully set up shell, with $PATH and other environment variables ready for use. Now,) Tj
+T*
+(suppose \(not hypothetically\) that you have some things in your .profile that you woul...) Tj
+T*
+() Tj
+T*
+(16. Canvas Breach Disrupts Schools & Colleges Nationwide) Tj
+T*
+(Source: Krebs on Security | Published: Fri, 08 May 2026 02:58:46 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/) Tj
+T*
+(An ongoing data extortion attack targeting the widely-used education technology platform Canvas) Tj
+T*
+(disrupted classes and coursework at school districts and universities across the United States) Tj
+T*
+(today, after a cybercrime group defaced the service's login page with a ransom demand that) Tj
+T*
+(threatened to leak data from 275 million students and faculty across nearly 9,000 educational) Tj
+T*
+(institutions.) Tj
+T*
+() Tj
+T*
+(17. Weekend at Bernie?s) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-08T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/08/weekend-at-bernies.html) Tj
+T*
+(In the 1989 film , two junior employees turn up at their boss?s beach house to find him dead,) Tj
+T*
+(and spend the rest of the weekend wheeling him around the party with sunglasses on so nobody) Tj
+T*
+(notices. The other guests keep slapping him on the back and putting drinks in his hand. It) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4392 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(works because nobody looks too closely and because everyone has a strong incentive for Bernie) Tj
+T*
+(to still be alive. I have spent the last couple of weeks trying to work out how many of the) Tj
+T*
+(open source packages we all depend on are in roughly that condition: resolving in every) Tj
+T*
+(install, pulling millions of downloads a week, accepting new issues, with nobody behind the) Tj
+T*
+(sunglasses. I?m asking now rather than a few years ago because AI-assisted vulnerability) Tj
+T*
+(discovery is changing how often somebody actually checks for a pulse. This matters most at the) Tj
+T*
+(point where one of those packages gets a security report. Sometimes nobody responds at all, the) Tj
+T*
+(embargo expires, and a CVE is published with no fixed version to point at. Sometimes a fix does) Tj
+T*
+(get written, often by the reporter or a drive-by contributor, and it lands in git or sits in an) Tj
+T*
+(open PR, but the one account with publish rights on the registry has gone and the p...) Tj
+T*
+() Tj
+T*
+(18. Premium: AI's Circular Psychosis) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 08 May 2026 14:40:45 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-ais-circular-psychosis/) Tj
+T*
+(In this week?s free newsletter, I explained how bad the circular AI economy is in the) Tj
+T*
+(simplest-possible terms : Anthropic not have money to pay big cloud bills, because Anthropic) Tj
+T*
+(company cost lots of money, more money than Anthropic make! So Anthropic only PAY cloud bills) Tj
+T*
+(if OTHERS) Tj
+T*
+() Tj
+T*
+(19. Pluralistic: Lee Lai's "Cannon" \(08 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 08 May 2026 12:19:36) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/05/08/gung-gung/) Tj
+T*
+(Today's links Lee Lai's "Cannon": A beautiful, subtle, long-lingering tale of duty, sex, and) Tj
+T*
+(working for a shitty restaurant boss. Hey look at this: Delights to delectate. Object) Tj
+T*
+(permanence: Ebay paying to run newspaper classifieds; Chuck Tingle v Sad Puppies; FBI v TOR;) Tj
+T*
+(Daycare v Goldman Sachs; Scammers re-used covid nose-swabs; "The Adventures of Mary Darling.") Tj
+T*
+(Upcoming appearances: Guelph, Barcelona, Berlin, Hay-on-Wye, London, NYC, Edinburgh. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Lee Lai's "Cannon") Tj
+T*
+(\(permalink\) Lee Lai's Cannon is an extraordinary graphic novel that turns out a beautifully) Tj
+T*
+(told, subtle and ambiguous tale about Lucy \(Lucy -> "Loose" -> "Loose Cannon" -> "Cannon"\), a) Tj
+T*
+(queer Chinese-Canadian chef at a Montreal restaurant whose messy family, work, personal and sex) Tj
+T*
+(life are all falling apart in ways that are powerfully engrossing:) Tj
+T*
+(https://drawnandquarterly.com/books/cannon/ This is the second outing from Lee Lai, whose) Tj
+T*
+(debut, Stone Fruit, swept many of the field's awards and won major critical acclaim. When a) Tj
+T*
+(debut comes out that strong...) Tj
+T*
+() Tj
+T*
+(20. Flower: an SSG with a Clojure template language) Tj
+T*
+(Source: the website of jyn | Published: 2026-05-08T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/talks/flower/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(21. Wander Console 0.6.0) Tj
+T*
+(Source: Susam Pal | Published: 2026-05-08T00:00:00Z) Tj
+T*
+(Link: https://susam.net/code/news/wander/0.6.0.html) Tj
+T*
+(Wander Console 0.6.0 is now available. This is the sixth release of Wander, a small,) Tj
+T*
+(decentralised, self-hosted web console that lets visitors to your website discover interesting) Tj
+T*
+(websites and pages recommended by a community of independent website owners. To try it, go to) Tj
+T*
+(susam.net/wander/ . To learn how it works and how to set it up on your own website, see the) Tj
+T*
+(project README . The main change in this release is the removal of support for the via referral) Tj
+T*
+(query parameter, which was added to recommended URLs so that website owners could identify) Tj
+T*
+(visits coming from a Wander Console in their access logs. The via query parameter was) Tj
+T*
+(introduced in version 0.4.0 in response to community demand , but it turned out to be a) Tj
+T*
+(misfeature. Some websites refuse to serve web pages when arbitrary query parameters are added) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4148 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(to URLs. Although it was possible to turn this feature off via configuration, I would rather) Tj
+T*
+(not keep a dubious feature that may prevent some pages from loading successfully. This feature) Tj
+T*
+(has now been completely removed. See this excellent article by Chris Morgan to learn more about) Tj
+T*
+(why adding arbitrary query parameters to URLs is a bad idea. Commit b26d77c has more details) Tj
+T*
+(a...) Tj
+T*
+() Tj
+T*
+(22. David Reich ? Why the Bronze Age was an inflection point in human evolution) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Fri, 08 May 2026 16:38:22 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/david-reich-2) Tj
+T*
+("Instead of being quiescent, natural selection is everywhere.") Tj
+T*
+() Tj
+T*
+(23. The Bold Ones Win) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-05-08T00:13:15Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets) Tj
+T*
+(We lost Ted Turner, a patron saint of Tedium, just as an entrepreneur made an audacious) Tj
+T*
+(Turner-style bet. What can we learn from that?) Tj
+T*
+() Tj
+T*
+(24. This Week on The Analog Antiquarian) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 08 May 2026 16:11:33 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/) Tj
+T*
+(Opus 1: The Comedy of Errors In other news, I?m afraid there will be no article next week, as) Tj
+T*
+(my wife and I do some much-needed springtime home-and-garden work. I?ll see you in two weeks) Tj
+T*
+(with some piping-hot fresh content ? dealing very directly with games this time, I promise.) Tj
+T*
+() Tj
+T*
+(25. George Orwell's review of Russel's Power: A New Social Analysis) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 08 May 2026 22:35:10 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/orwell-review-bertrand-russells-power/) Tj
+T*
+(I had previously learned a lot from this book review by George Orwell, which is actually a lot) Tj
+T*
+(more than a book review. Recently I had cause to look it up again and found it had vanished) Tj
+T*
+(from the searchable internet. With some sleuthing I have recovered a copy of the review from) Tj
+T*
+(the internet archive. Orwell?s review was first published in The Adelphi in January 1939. The) Tj
+T*
+(review can also be found in its original \(scanned\) form, also on the internet archive.) Tj
+T*
+() Tj
+T*
+(26. Dekonstruktion des Programmcodes des BioNTech/Pfizer SARS-CoV-2 Impfstoffes) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 25 Dec 2020 20:12:20 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/german-reverse-engineering-source-code-of-the-biontech-) Tj
+T*
+(pfizer-vaccine/) Tj
+T*
+(Willkommen! In diesem Artikel werden wir einen Blick auf den Programmcode des BioNTech/Pfizer) Tj
+T*
+(SARS-CoV-2 mRNA Impfstoffes werfen, und zwar Zeichen für Zeichen. Ich möchte Allen danken, die) Tj
+T*
+(zur Korrektheit und Lesbarkeit dieses Artikels beigetragen haben. Für alle Fehler zeige ich) Tj
+T*
+(mich trotzdem selbst verantwortlich, und würde von ihnen gern schnellstmöglich hören: Via) Tj
+T*
+(bert@hubertnet.nl oder @bert_hu_bert Hinweise zur deutschen Übersetzung bitte an) Tj
+T*
+(f.zahn@mailbox.org oder @zahnstein Nun, diese Worte wirken zunächst etwas verstörend - ein) Tj
+T*
+(Impfstoff ist eine Flüssigkeit, die in meinen Arm injiziert wird.) Tj
+T*
+() Tj
+T*
+(27. Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 25 Dec 2020 20:12:20 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-) Tj
+T*
+(vaccine/) Tj
+T*
+(Translations: ???????? / ???? / ?? \(Weixin video, Youtube video\) / ?? / bahasa Indonesia /) Tj
+T*
+(?eský / Català / ?eský / Deutsch / Español / 2????? / ????? / Français / ??????? / Hrvatski /) Tj
+T*
+(Italiano / Magyar / Nederlands / ??? / ??? 2 / ?????? / Polskie / ??????? / Português / Român?) Tj
+T*
+(/ Slovensky / Sloven??ina / Srpski / Türk / ??????????? / Markdown for translating / Fun video) Tj
+T*
+(by LlamaExplains / Video version by Giff Ransom) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004936 00000 n 
+0000005062 00000 n 
+0000009717 00000 n 
+0000009843 00000 n 
+0000014471 00000 n 
+0000014597 00000 n 
+0000019163 00000 n 
+0000019291 00000 n 
+0000023736 00000 n 
+0000023864 00000 n 
+0000028065 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+28193
+%%EOF
