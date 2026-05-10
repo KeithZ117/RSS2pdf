@@ -1,0 +1,590 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4288 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-10 09:39:32) Tj
+T*
+() Tj
+T*
+(1. GitHub Repo Stats) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-07T07:25:14+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything) Tj
+T*
+(Tool: GitHub Repo Stats One of the things I always look for when evaluating a new GitHub) Tj
+T*
+(repository is the number of commits it has... but that number isn't visible on GitHub's mobile) Tj
+T*
+(site layout. I built this tool to fix that, using this prompt: Given a GitHub repo URL or) Tj
+T*
+(foo/bar repo ID show information about that repo absorbed via wither REST or graphql CORS) Tj
+T*
+(fetch\(\) including the number of commits in the repo and other useful stats Example output for) Tj
+T*
+(simonw/datasette and simonw/llm . Tags: github) Tj
+T*
+() Tj
+T*
+(2. April 2026 newsletter) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-04T22:38:36+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything) Tj
+T*
+(I just sent out the April edition of my sponsors-only monthly newsletter . If you are a sponsor) Tj
+T*
+(\(or if you start a sponsorship now\) you can access it here . In this month's newsletter: Opus) Tj
+T*
+(4.7 and GPT-5.5, both with price increases Claude Mythos and LLM security research ChatGPT) Tj
+T*
+(Images 2.0 More model releases Other highlights from my blog What I'm using, April 2026 edition) Tj
+T*
+(Here's a copy of the March newsletter as a preview of what you'll get. Pay $10/month to stay a) Tj
+T*
+(month ahead of the free copy! Tags: newsletter) Tj
+T*
+() Tj
+T*
+(3. TRE Python binding ? ReDoS robustness demo) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-04T17:52:00+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything) Tj
+T*
+(Research: TRE Python binding ? ReDoS robustness demo If it's good enough for antirez to add to) Tj
+T*
+(Redis I figured Ville Laurikari's TRE regular expression engine was worth exploring in a little) Tj
+T*
+(more detail. I had Claude Code build an experimental Python binding \(it used ctypes \) and try) Tj
+T*
+(some malicious regular expression attacks against the library. TRE handles those much better) Tj
+T*
+(than Python's standard library implementation, thanks mainly to the lack of support for) Tj
+T*
+(backtracking. Tags: security , python , regular-expressions , c , ctypes) Tj
+T*
+() Tj
+T*
+(4. Adobe?s ?Modern? User Interface Is Just Webpages) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-05T02:17:00Z) Tj
+T*
+(Link: https://pxlnv.com/linklog/adobe-modern-user-interface/) Tj
+T*
+(Nick Heer: If you do a little poking around in Adobe?s application bundles, a key reason for) Tj
+T*
+(the jankiness of these user interfaces becomes apparent: it is because they are little) Tj
+T*
+(webpages. These dialog boxes are HTML files that reference a chunky CSS file and oodles of) Tj
+T*
+(JavaScript, and appear to be built with React. [...] I was going to write about how this stuff) Tj
+T*
+(should have been tried with people who actually use Adobe?s apps in a high-pressure) Tj
+T*
+(environment, but I am sure it was and, also, it does not matter. Wichary has it right. These) Tj
+T*
+(are fundamental principles of user interface design that Adobe is ignoring because its internal) Tj
+T*
+(tooling has taken precedence. I will quibble only with this line from Heer?s post: Also,) Tj
+T*
+(Adobe?s interface has always been unique and not quite at home on either MacOS or Windows. You) Tj
+T*
+(have to go back to the 1990s and classic Mac OS, but Adobe?s best apps used to have exemplary) Tj
+T*
+(native UIs. Apps like Photoshop helped push the state of the art in Mac UI forward. Tabbed) Tj
+T*
+(palettes were a revelation. Fire up, say, Photoshop 3.0 on MacOS 7.6 and see what I mean. Also) Tj
+T*
+(worth noting is how much this new ?modern? UI isn?t just subjectively ugly, it?s objectively) Tj
+T*
+(bre...) Tj
+T*
+() Tj
+T*
+(5. App Store Search Ads and the Slippery Slope) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-04T21:09:21Z) Tj
+T*
+(Link: https://blog.thinktapwork.com/post/812803664980967425/ios-app-store-search-is-rotten) Tj
+T*
+(Jeremy Provost, on the blog for Think Tap Work, his mobile app development company: iOS App) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 5085 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Store search is no longer about relevance. It?s about ad inventory. With Apple?s introduction) Tj
+T*
+(of a second search ad, for any query where we weren?t #1, we?ve effectively moved down one) Tj
+T*
+(position. [...] If you?re counting at home, roughly 70% of the interface is covered in ads. A) Tj
+T*
+(casino ad, to boot. That was a month ago. Two weeks later, he posted a follow-up , showing the) Tj
+T*
+(effect on Think Tap Work?s apps in the App Store: I wanted to share some updated numbers from) Tj
+T*
+(our own apps. To isolate the impact, these numbers only include App Store Search impressions) Tj
+T*
+(from iOS devices , comparing Mar 26?Apr 8 to the prior two weeks. In other words: how much) Tj
+T*
+(visibility we?ve lost in search. Morpho Converter : 26% decrease Pop Out Timer : 23% decrease) Tj
+T*
+(Attendant for Zoom : 30% decrease Participant : 3% increase. As previously mentioned, we) Tj
+T*
+(advertise Participant using Search Ads. It?s not surprising that it might be getting a bump) Tj
+T*
+(from this change. The screenshot in his follow-up shows another casino ad, this time in a) Tj
+T*
+(search for ?Roblox?. Kinda gross. Here?s Wikipedia on the ? Zero-One-Infinity Rule ?: The...) Tj
+T*
+() Tj
+T*
+(6. ?Noir, Japan?s Hard-Boiled Bittersweet Answer to Oreos?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-04T19:48:48Z) Tj
+T*
+(Link: https://tokyopaladin.substack.com/p/the-japanese-oreo-noir-kills-the) Tj
+T*
+(Jake Adelstein \(author of Tokyo Vice \) on his blog Tokyo Paladin: For decades, Japan?s Oreos) Tj
+T*
+(weren?t made by Nabisco at all. They were produced domestically by Yamazaki Biscuits, under a) Tj
+T*
+(licensing arrangement with what eventually became Mondelez International. This was, by most) Tj
+T*
+(accounts, a reasonable arrangement. The cookies were local. The quality was consistent. Nobody) Tj
+T*
+(was complaining. Then Mondelez did what corporations do when things are working fine. The) Tj
+T*
+(license expired, and Mondelez moved production of the Oreos it sells in Japan to China,) Tj
+T*
+(exporting them to Japanese wholesalers and retailers. A cost decision. A spreadsheet decision.) Tj
+T*
+(The kind of decision made in a room with no windows and a very good projector. Sensitive) Tj
+T*
+(Japanese consumers noticed quickly ? the taste had changed. Into that opening stepped the Noir,) Tj
+T*
+(inheriting the flavor the old Oreo had left behind. Yamazaki Biscuits launched Noir in December) Tj
+T*
+(2017 as the successor nobody had officially asked for and everybody apparently wanted. I have a) Tj
+T*
+(great affinity for Newman-O?s , which I?ve previously described as ?the cookies Oreos pretend) Tj
+T*
+(to be?. Turns out though I?ve mostly sung the praises of Newman-O?s on my podcast...) Tj
+T*
+() Tj
+T*
+(7. Using a Python 3 LSP server with Python 2 code works \(more or less\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-09T21:58:36Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/python/Python2WithPython3LSP) Tj
+T*
+(I still have a certain amount of Python 2 code, both for work and for personal projects \(for) Tj
+T*
+(example, DWiki , the wiki software behind this blog ; it will be Python 3 someday, but not so) Tj
+T*
+(far \). For a long time, I've preferred to do any significant editing of Python code in GNU) Tj
+T*
+(Emacs, my normal choice for a superintelligent editor, and for a while, I've used LSP based) Tj
+T*
+(Python editing. There's a very old LSP server for Python 2, but all of the Python LSP servers) Tj
+T*
+(you actually want to use are specifically for Python 3, and recently I hit a problem that made) Tj
+T*
+(me turn off the Python 2 LSP server . Since then I've been editing my Python 2 code) Tj
+T*
+(\(cautiously\) with pylsp \(my normal Python 3 LSP server\) and recently, a little bit with 'ruff'.) Tj
+T*
+(Somewhat to my surprise, this has more or less worked. My minimum standard for more or less) Tj
+T*
+(working is that the LSP doesn't malfunction obviously or deluge me with errors and other) Tj
+T*
+(diagnostics that aren't applicable because it's applying Python 3 rules to Python 2 code. It's) Tj
+T*
+(even better if the LSP can actually identify real problems, such as misspelled variable names) Tj
+T*
+(or function names, and recently I've had pylsp do that for some of my code \(code that was...) Tj
+T*
+() Tj
+T*
+(8. Notes on using GNU Emacs' Tramp system in an unusual shell environment) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-09T02:10:47Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes) Tj
+T*
+(Tramp is a famous and often praised GNU Emacs system for editing remote files; lots of people) Tj
+T*
+(will call it one of Emacs' compelling features. I've always had a decidedly different view of) Tj
+T*
+(Tramp because Tramp has mostly not worked for me in opaque ways. I recently took another run at) Tj
+T*
+(getting Tramp working \(so I could have an informed opinion on why I'm not a fan\), and in the) Tj
+T*
+(process I've learned a bunch of things that I don't want to forget. Although Tramp has a bunch) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4717 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(of ways to get access to files remotely \('methods' in Tramp jargon\), the dominant way is for) Tj
+T*
+(Tramp to SSH in to the remote system and do stuff. In order to work with your remote shell,) Tj
+T*
+(Tramp really wants your login on the remote system to have a conventional shell environment,) Tj
+T*
+(ideally one that uses the Bourne shell \(especially Bash\). \(But see Remote shell setup hints and) Tj
+T*
+(the Tramp FAQ .\) In specific, Tramp has requirements for its ssh method in a stock setup: Your) Tj
+T*
+(shell must have a relatively conventional shell prompt. Defining this is beyond the scope of) Tj
+T*
+(this entry; see the definition of tramp-shell-prompt-pattern in tramp.el . Your shell must) Tj
+T*
+(accept and use backslash quoting of more or less arbitrary characters in c...) Tj
+T*
+() Tj
+T*
+(9. Book Review: The Names by Florence Knapp ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 09 May 2026 11:34:20 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/book-review-the-names-by-florence-knapp/) Tj
+T*
+(This has an excellent narrative structure, some beautiful prose, and I just didn't enjoy it.) Tj
+T*
+(The story is Sliding Doors meets Same Time Next Year mixed with a distressing amount of) Tj
+T*
+(domestic violence. A mother faces a difficult choice. Should she name her child after her) Tj
+T*
+(abusive and violent husband? In one strand she does, in another she doesn't, and in the third) Tj
+T*
+(she makes a compromise. We?) Tj
+T*
+() Tj
+T*
+(10. The Mismeasure of Open Source) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-09T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html) Tj
+T*
+(Every attempt to score open source projects for criticality, risk, or funding need ends up) Tj
+T*
+(built on roughly the same dozen signals, because those are the dozen signals you can get from a) Tj
+T*
+(registry API and the GitHub REST endpoints in an afternoon. I wrote earlier this week about the) Tj
+T*
+(2015 CII census, whose formula scored xz-utils a 6 out of 13 and let it sink to row 254, and) Tj
+T*
+(which nonetheless got more right than it?s usually given credit for. Ten years on there are) Tj
+T*
+(several successor efforts running, from foundations, academics, and funders, and I?ve) Tj
+T*
+(contributed data to most of them. With far more data and far more people working on the problem) Tj
+T*
+(they are still largely built on the same inputs, so they inherit most of the same blind spots) Tj
+T*
+(plus a few new ones, and I wanted to write those down in one place without picking on any) Tj
+T*
+(single model. Missing read as zero The most consequential mistake is treating the absence of a) Tj
+T*
+(signal as a low value of that signal. Go modules are fetched from version control via a proxy) Tj
+T*
+(that publishes no per-module download counts. C libraries reach machines through apt, dnf, apk,) Tj
+T*
+(vendoring, and static linking, none of which report to anyone. If a model?s entr...) Tj
+T*
+() Tj
+T*
+(11. Pluralistic: Trump's fruitless search for a goreable ox \(09 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 09 May 2026 12:51:02) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/05/09/cossie-livvie-crissie/) Tj
+T*
+(Today's links Trump's fruitless search for a goreable ox: You can keep billionaires happy, or) Tj
+T*
+(you can fight the cost of living crisis, but not both. Hey look at this: Delights to delectate.) Tj
+T*
+(Object permanence: Typewriter bust; Phrack's new issue; Panama Papers whistleblower speaks; The) Tj
+T*
+(PRO Act; Zuck's new mind-control ray. Upcoming appearances: Barcelona, Berlin, Hay-on-Wye,) Tj
+T*
+(London, NYC, Edinburgh. Recent appearances: Where I've been. Latest books: You keep readin' em,) Tj
+T*
+(I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the) Tj
+T*
+(rest. Trump's fruitless search for a goreable ox \(permalink\) I've got good news and bad news) Tj
+T*
+(for Trump. The good news: you can get elected by promising to do something about the cost of) Tj
+T*
+(living crisis, and the president actually has a lot of ways to improve people's daily costs.) Tj
+T*
+(The bad news: everything you could do to fix working people's cost of living will make an) Tj
+T*
+(oligarch worse off. This is the essential conundrum of Trumpismo: to keep his base happy, he) Tj
+T*
+(needs to make their lives better; but to make their lives better, he'll have to make oligarchs) Tj
+T*
+(angry. The oligarchs' wealth bonanza caused the cost of living crisis. Oliga...) Tj
+T*
+() Tj
+T*
+(12. Reading List 05/09/2026) Tj
+T*
+(Source: Construction Physics | Published: Sat, 09 May 2026 12:02:50 GMT) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4629 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.construction-physics.com/p/reading-list-05092026) Tj
+T*
+(Trapped buildings, in-home data centers, cardboard military drones, Brightline?s potential) Tj
+T*
+(bankruptcy, and more.) Tj
+T*
+() Tj
+T*
+(13. The Real Singularity is the Friends We Made Along the Way) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-05-09T00:00:00-07:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/05/09/real-singularity.html) Tj
+T*
+(This was in the Financial Times. I don?t have a subscription, so I don?t know what article it) Tj
+T*
+(was in, or what context, or if they are in on the joke of the general absurdity of the graph or) Tj
+T*
+(not. In case it?s not super obvious which one will happen, I will bet everything I have on it) Tj
+T*
+(basically being the blue line. The graph has a log scale, that?s already exponential growth.) Tj
+T*
+(There were old Yudkowsky / Hanson debates about FOOM, and I?m curious how I felt about them at) Tj
+T*
+(the time. Looking back on it it?s kind of embarrassing to ever have believed in the machine God) Tj
+T*
+(at all, but there?s still believers out there, and this post is aimed at you. Kind of like a) Tj
+T*
+(getting people out of Scientology thing. I heard once that the Singularity was just the rapture) Tj
+T*
+(for 150+ IQ people and I dismissed it as some weird envy of 150-IQ-nerds-are-right thing. Umm) Tj
+T*
+(yea, the people saying the rapture thing were right, and belief in the rapture for nerds is now) Tj
+T*
+(migrating down the IQ slide. There?s a bunch of ways this belief manifests. There?s insane) Tj
+T*
+(hyperscaler spend on infrastructure, which is actually pretty cool and will have good effects) Tj
+T*
+(long term when the bubble pops. The hyperscalers aren?t even wrong...) Tj
+T*
+() Tj
+T*
+(14. I Will Not Add Query Strings to Your URLs) Tj
+T*
+(Source: Susam Pal | Published: 2026-05-09T00:00:00Z) Tj
+T*
+(Link: https://susam.net/no-query-strings.html) Tj
+T*
+(Last evening, a short blog post appeared in my feed reader that felt as if it spoke directly to) Tj
+T*
+(me. It is Chris Morgan's excellent post I've banned query strings . Contents Wisdom on the Web) Tj
+T*
+(Wander on the Web Misfeature Broken URLs Qualms Conclusion Wisdom on the Web Chris is someone) Tj
+T*
+(whose Internet comments I have been reading for about half a decade now. I first stumbled upon) Tj
+T*
+(his comments on Hacker News, where he left very detailed feedback on a small collection of) Tj
+T*
+(boilerplate CSS rules I had shared there. I am by no means a web developer. I have spent most) Tj
+T*
+(of my professional life doing systems programming in C and C++. However, developing websites) Tj
+T*
+(and writing small HTML tools has been a long-time hobby for me. I have learnt most of my web) Tj
+T*
+(development skills as a hobbyist by studying what other people do: first by viewing the source) Tj
+T*
+(of websites I liked in the early 2000s, and later by occasionally getting possessed by the urge) Tj
+T*
+(to implement a new game or tool and searching MDN Web Docs to learn whatever I needed to make) Tj
+T*
+(it work. One problem with learning a skill this way is that you sometimes pick up habits and) Tj
+T*
+(practices that are fashionable but not necessarily optimal or correct....) Tj
+T*
+() Tj
+T*
+(15. History of PowerDNS: 2013-2020 \(Technology\)) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 21 Dec 2020 20:32:58 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/history-of-powerdns-2013-2020/) Tj
+T*
+(In this part of the history of PowerDNS, I talk about the technical developments from 2013 to) Tj
+T*
+(2020. Over these years many fascinating business & hiring developments also happened, but these) Tj
+T*
+(are described in a separate post, part 3B of the PowerDNS History. Here are the earlier parts:) Tj
+T*
+(Part 1, Part 2 For context, the 2013-2020 era is what I would describe as ?PowerDNS 3.0? - how) Tj
+T*
+(we grew from a one \(or two\) person company to a healthy and thriving department of) Tj
+T*
+(Open-Xchange.) Tj
+T*
+() Tj
+T*
+(16. Kerstdiner in Maart) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 12 Dec 2020 15:44:11 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/kerstdiner-in-maart/) Tj
+T*
+(Kerstdiner met de familie, moeten we dat nou wel of niet doen dit jaar? Ooit studeerde ik in) Tj
+T*
+(Delft. Niet dat ik m?n studie daar afgemaakt heb, maar ik heb er toch nog wat geleerd. Een van) Tj
+T*
+(de dingen die ik daar opgestoken heb is dat je een kerstdiner prima in maart kan houden.) Tj
+T*
+(Studentenhuizen, jaarclubs, disputen en dergelijke ontdekten met regelmaat dat het moeilijk is) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 2346 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(om een moment te vinden dat iedereen kan voor het kerstdiner.) Tj
+T*
+() Tj
+T*
+(17. COVID-19: Things We're Not Even Trying) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 08 Dec 2020 10:13:31 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/covid-things-were-not-even-trying/) Tj
+T*
+(As COVID-19 drags on, I?ve tried to stay optimistic about scientific and medical developments.) Tj
+T*
+(By highlighting research, I have hoped to explain \(in Dutch and English\) how various things) Tj
+T*
+(will work to defeat COVID-19, and how to look out for your health. But all this time I?ve been) Tj
+T*
+(frustrated about the things we are not doing, or are not doing enough of. 10th of January 2021) Tj
+T*
+(update: The advent of new highly transmissible variants makes this all even worse.) Tj
+T*
+() Tj
+T*
+(18. extremely low frequencies) Tj
+T*
+(Source: computers are bad | Published: 09 May 2026 00:00:00 UT) Tj
+T*
+(Link: https://computer.rip/2026-05-09-extremely-low-frequencies.html) Tj
+T*
+(The submarine is a surprisingly ancient technology?at least in its early, primitive forms. The) Tj
+T*
+(idea is quite simple, that a well-enough-sealed boat ought to be able to submerge and) Tj
+T*
+(resurface. It's the practicalities that make the whole thing difficult. It is generally) Tj
+T*
+(considered that the US Civil War was the first use of submarines in combat; these were) Tj
+T*
+(primitive machines with very limited operating endurance and navigational capabilities. These) Tj
+T*
+(submarines were more like torpedoes: you pointed them in the right direction and hoped they) Tj
+T*
+(went straight. The First World War benefited from tremendous advances in submarine technology.) Tj
+T*
+(A number of experimental designs during the 19th century had built practical experience,) Tj
+T*
+(especially in Germany, and the Germans apt use of the first modern "U-boats" had a significant) Tj
+T*
+(military impact. British and US designs made similar advances, and submarine warfare was born.) Tj
+T*
+(The chief advantage of the submarine is its ability to submerge and maneuver while hidden. WW1) Tj
+T*
+(submarines were diesel-electric or gasoline, so their submerged endurance was limited by the) Tj
+T*
+(power supply stored onboard. Still, these submarines could operate underwater longer than any) Tj
+T*
+(b...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004557 00000 n 
+0000004683 00000 n 
+0000009820 00000 n 
+0000009946 00000 n 
+0000014715 00000 n 
+0000014841 00000 n 
+0000019523 00000 n 
+0000019651 00000 n 
+0000022050 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+22178
+%%EOF
