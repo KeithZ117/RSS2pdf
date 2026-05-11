@@ -1,0 +1,474 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4497 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-11 09:41:42) Tj
+T*
+() Tj
+T*
+(1. Quoting New York Times Editors? Note) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-10T23:58:49+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything) Tj
+T*
+(This article was updated after The Times learned that a remark attributed to Pierre Poilievre,) Tj
+T*
+(the Conservative leader, was in fact an A.I.-generated summary of his views about Canadian) Tj
+T*
+(politics that A.I. rendered as a quotation. The reporter should have checked the accuracy of) Tj
+T*
+(what the A.I. tool returned. The article now accurately quotes from a speech delivered by Mr.) Tj
+T*
+(Poilievre in April. [...] He did not refer to politicians who changed allegiances as turncoats) Tj
+T*
+(in that speech. ? New York Times Editors? Note Tags: ai-ethics , hallucinations , generative-ai) Tj
+T*
+(, new-york-times , journalism , ai , llms) Tj
+T*
+() Tj
+T*
+(2. Quoting Andrew Quinn) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-10T14:59:17+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything) Tj
+T*
+(One could say in the first quarter-century of my life, that while I was always fascinated by) Tj
+T*
+(programming, I could never overcome the guilt of not really knowing whether the tool I am) Tj
+T*
+(building right now isn?t already superceded by some much better implementation someone else has) Tj
+T*
+(already written 30 or 40 years ago; I could write a TSV-aware search and replace, or I could) Tj
+T*
+(find out about awk and solve that entire class of problems in one fell swoop, for example. My) Tj
+T*
+(central conceit is that this is a trap . You need to reinvent a couple of wheels to get to the) Tj
+T*
+(edge of what we know about wheel-making, not a thousand wheels, and not zero; probably four or) Tj
+T*
+(five is sufficient in most domains, maybe closer to twenty or thirty in the most epistemically) Tj
+T*
+(rigorous and developed fields like mathematics or computer science. Each wheel you reinvent,) Tj
+T*
+(and every directed question you ask along the way, will propel you faster to the true frontier) Tj
+T*
+(than that same amount of time spend in idle study, or even five times that amount. ? Andrew) Tj
+T*
+(Quinn , footnote on Replacing a 3 GB SQLite database with a 10 MB FST \(finite state transducer\)) Tj
+T*
+(binary Tags: careers , sqlite) Tj
+T*
+() Tj
+T*
+(3. Redis Array Playground) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-04T15:53:57+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/4/redis-array/#atom-everything) Tj
+T*
+(Tool: Redis Array Playground Salvatore Sanfilippo submitted a PR adding a new data type -) Tj
+T*
+(arrays - to Redis. The new commands are ARCOUNT , ARDEL , ARDELRANGE , ARGET , ARGETRANGE ,) Tj
+T*
+(ARGREP , ARINFO , ARINSERT , ARLASTITEMS , ARLEN , ARMGET , ARMSET , ARNEXT , AROP , ARRING ,) Tj
+T*
+(ARSCAN , ARSEEK , ARSET . The implementation is currently available in a branch, so I had) Tj
+T*
+(Claude Code for web build this interactive playground for trying out the new commands in a) Tj
+T*
+(WASM-compiled build of a subset of Redis running in the browser. The most interesting new) Tj
+T*
+(command is ARGREP which can run a server-side grep against a range of values in the array using) Tj
+T*
+(the newly vendored TRE regex library . Salvatore wrote more about the AI-assisted development) Tj
+T*
+(process for the array type in Redis array type: short story of a long development . Tags:) Tj
+T*
+(salvatore-sanfilippo , webassembly , generative-ai , agentic-engineering , ai , redis , llms ,) Tj
+T*
+(regular-expressions , c) Tj
+T*
+() Tj
+T*
+(4. The left-wing case for AI) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 10 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/the-left-wing-case-for-ai/) Tj
+T*
+(In Many anti-AI arguments are conservative arguments I argued that left-wing anti-AI sentiment) Tj
+T*
+(1 is partly a backlash to two unrelated events around the rise of ChatGPT: the crypto mania of) Tj
+T*
+(2022 and the pro-Donald-Trump push many big tech CEOs made in 2024. If the timing had been) Tj
+T*
+(different, we could have had a real pro-AI faction on the left. What would that look like? I?m) Tj
+T*
+(not going to respond to any of the popular anti-AI arguments \(I?ve already done that here \). I) Tj
+T*
+(think it?s more interesting to outline some explicitly left-wing pro-AI arguments. Disability) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4869 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(The left wing has \(correctly\) taken a broad view on what can be an acceptable disability aid.) Tj
+T*
+(When criticizing potentially-exploitative companies - for instance, food delivery apps like) Tj
+T*
+(DoorDash - they often stop to acknowledge that some people have few alternatives to those) Tj
+T*
+(services, and that they have meaningfully improved the lives of the disabled or chronically) Tj
+T*
+(ill. I think it?s obvious that LLMs are a powerful disability aid. Like any technology that) Tj
+T*
+(makes it easier to interact with a computer, they?re useful to people who are trying to) Tj
+T*
+(overcome all kinds of barriers. Almost every video online is now automatically caption...) Tj
+T*
+() Tj
+T*
+(5. WorkOS) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-10T14:05:00Z) Tj
+T*
+(Link: https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) Tj
+T*
+(My thanks for WorkOS for, once again, sponsoring Daring Fireball for the last week. If you?re) Tj
+T*
+(ready to sell to enterprise customers, your product may be ready ? but is your auth) Tj
+T*
+(infrastructure? If you?re building B2B SaaS, especially AI, you quickly need enterprise) Tj
+T*
+(features like SSO, SCIM, and audit logs. Your developers shouldn?t waste cycles rebuilding that) Tj
+T*
+(infrastructure. Free them to focus on what sets you apart. WorkOS gives you production-ready) Tj
+T*
+(APIs for auth and access control that integrate directly into your product. Trusted by over) Tj
+T*
+(2,000 companies, including OpenAI, Anthropic, Cursor, and Vercel. Build faster with WorkOS . ?) Tj
+T*
+() Tj
+T*
+(6. Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training Data) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-10T14:04:19Z) Tj
+T*
+(Link: https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-empl) Tj
+T*
+(oyee-mouse-movements-keystrokes-ai-training-data-2026-04-21/) Tj
+T*
+(Katie Paul and Jeff Horwitz, reporting for Reuters in late April: Meta is installing new) Tj
+T*
+(tracking software on U.S.-based employees? computers to capture mouse movements, clicks and) Tj
+T*
+(?keystrokes for use in training its artificial intelligence models, part of a broad initiative) Tj
+T*
+(to build AI agents that can perform work tasks autonomously, the company told staffers in) Tj
+T*
+(internal memos seen by Reuters. The tool, called Model Capability Initiative \(MCI\), will run on) Tj
+T*
+(work-related apps and websites and will also take occasional snapshots of the content on) Tj
+T*
+(employees? screens, according to one of the memos, posted by a staff AI research scientist on) Tj
+T*
+(Tuesday in a channel for the company?s model-building Meta SuperIntelligence Labs team. I love) Tj
+T*
+(this. Anyone who works at Meta knows who they?re working for. I hope they?re all as creeped out) Tj
+T*
+(by this as I would be. What I?d really like to know is how far up the chain does this go? If) Tj
+T*
+(they have any honor, every single employee at the company, right up to Zuckerberg, would get) Tj
+T*
+(this MCI spyware. What?s good for the goose is good for the gander. I presume that?s not the) Tj
+T*
+(case, and there?s a two-class system where if you?re high enough in the org chart, y...) Tj
+T*
+() Tj
+T*
+(7. Photoshop?s ?Modern User Interface? Sucks \(and Doesn?t Feel Modern\)) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-04T19:13:06Z) Tj
+T*
+(Link: https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/) Tj
+T*
+(Marcin Wichary at Unsung: I?m angry. \(Clearly.\) We should all be angry in face of stuff like) Tj
+T*
+(this. This is how people get fed up with software ? because it feels unstable and deteriorates) Tj
+T*
+(on its own without needing to . I know I brought up that an existing power user base can be a) Tj
+T*
+(huge pain in the ass, and I am a decades-old Photoshop power user. But this is different than) Tj
+T*
+(other examples where the product needs or at least wants to evolve past its core audience or) Tj
+T*
+(toward a different market. For Photoshop here, nothing I see indicates any change in course or) Tj
+T*
+(clientele ? and yet all of these good moments in UI that used to help me out no longer exist.) Tj
+T*
+(Plus, all those transgressions are solved problems. Those issues are not buried in pages of) Tj
+T*
+(heavily litigated patents, or in seven collective brains of world-class interface designers) Tj
+T*
+(whose driveways are presently occupied by cash-filled trucks sent over by frontier companies.) Tj
+T*
+(This isn?t some long lost art that requires archaeologists to decipher. This feels like) Tj
+T*
+(carelessness and laziness in face of basic UI engineering; in a likely internally-motivated) Tj
+T*
+(effort to refresh the interface, the team threw an entire nursery worth of babies w...) Tj
+T*
+() Tj
+T*
+(8. The linear algebra of bit twiddling) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4372 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: John D. Cook | Published: Sun, 10 May 2026 18:51:40 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/) Tj
+T*
+(The previous post looked at the tempering step of the Mersenne Twister, formulating a sequence) Tj
+T*
+(of bit operations as multiplication by a matrix mod 2. This post will look at the components) Tj
+T*
+(more closely. The theorems of linear algebra generally hold independent of the field of) Tj
+T*
+(scalars. Typically the field is ? or ?, but [?] The post The linear algebra of bit twiddling) Tj
+T*
+(first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Reverse engineering Mersenne Twister with Linear Algebra) Tj
+T*
+(Source: John D. Cook | Published: Sun, 10 May 2026 17:32:02 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/) Tj
+T*
+(The Mersenne Twister \(MT\) is a random number generator with good statistical properties but bad) Tj
+T*
+(cryptographic properties. In buzzwords, it?s a PRNG but not a CSPRNG. This post will show how) Tj
+T*
+(the internal state of a MT generator can be recovered from its output. We?ll do this using) Tj
+T*
+(linear algebra. The bit twiddling approach is [?] The post Reverse engineering Mersenne Twister) Tj
+T*
+(with Linear Algebra first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Madame Semver Will See You Now) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-10T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html) Tj
+T*
+(The tent is at the back of the fairground, past the fudge stall. The velvet over the entrance) Tj
+T*
+(is the exact red of a failed CI badge. Madame Semver is already shuffling when you sit. She) Tj
+T*
+(does not ask your question. She turns the first card and it says ^1.0.0 , just that, black ink) Tj
+T*
+(on cream. ?The caret. It permits everything that comes after, and you put it there yourself,) Tj
+T*
+(which is the part people forget.? She sets it down. ?You came here to ask if you should archive) Tj
+T*
+(the repository. You will not. We both know you will not. So let me tell you what happens) Tj
+T*
+(instead.? ? She turns three cards in a row and barely glances at them. ?In June you receive a) Tj
+T*
+(pull request. It is polite. It has tests. The tests pass. The code is wrong in a way that costs) Tj
+T*
+(you most of a Saturday, and at the bottom of the description there is a co-author you cannot) Tj
+T*
+(find a photograph of. You will merge two more from him before you learn to check.? ?In August a) Tj
+T*
+(stranger opens an issue explaining what your library does. He is mistaken but very sure, and) Tj
+T*
+(cites a source you cannot argue with. The next week somebody else publishes the package he was) Tj
+T*
+(describing, under a name one letter from yours, and by September it has t...) Tj
+T*
+() Tj
+T*
+(11. [RSS Club] A Sneak Preview of Upcoming Posts) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 10 May 2026 11:34:38 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/) Tj
+T*
+(Psssst! This top secret post is only available to RSS subscribers! As a little thank-you for) Tj
+T*
+(being a member of RSS Club I thought I'd show you some trailers for upcoming blog posts. I use) Tj
+T*
+(the brilliant Editorial Calendar Plugin to organise all my scheduled blog posts. Here's what) Tj
+T*
+(you can expect over the next month: I tend to write in bursts - rather than once per day - and) Tj
+T*
+(then spread the?) Tj
+T*
+() Tj
+T*
+(12. Welcoming the Costa Rican Government to Have I Been Pwned) Tj
+T*
+(Source: Troy Hunt | Published: Mon, 11 May 2026 00:24:17 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/) Tj
+T*
+(Today, we welcome the 42nd government onboarded to Have I Been Pwned?s free gov service: Costa) Tj
+T*
+(Rica. The CSIRT of the Government of Costa Rica now has access to monitor government domains) Tj
+T*
+(against the data in HIBP. This enables their national cybersecurity incident response team to) Tj
+T*
+(identify exposure) Tj
+T*
+() Tj
+T*
+(13. Weekly Update 503) Tj
+T*
+(Source: Troy Hunt | Published: Sun, 10 May 2026 23:52:52 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-503/) Tj
+T*
+(Well, it's the day before the Instructure "pay or leak" deadline \(at least by my Aussie watch\),) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2528 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(and the company remains removed from the ShinyHunters website. In its place sits a press) Tj
+T*
+(statement that amounts to "we're not making any statements". So) Tj
+T*
+() Tj
+T*
+(14. History of PowerDNS: 2003-2013) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 29 Nov 2020 16:24:11 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/history-of-powerdns-2003-2013/) Tj
+T*
+(This is part two of the PowerDNS history as I recall it. As noted in part one, some of this) Tj
+T*
+(stuff is rather old, and it is entirely possible I am misremembering things. Please do let me) Tj
+T*
+(know if you find any important omissions or mistakes! At the end of 2002, beginning of 2003,) Tj
+T*
+(PowerDNS as a going concern was gone. There were no more employees, there were no paying) Tj
+T*
+(customers.) Tj
+T*
+() Tj
+T*
+(15. Mijn nieuwe part-time baan) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 27 Nov 2020 13:00:22 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/mijn-nieuwe-part-time-baan/) Tj
+T*
+(Dit is waarschijnlijk de laatste keer dat ik zal bloggen over mijn nieuwe \(part-time\) baan. Met) Tj
+T*
+(ingang van 1 december ben ik ÈÈn van de drie leden van de commissie die lasten voor de) Tj
+T*
+(Nederlandse inlichtingen- en veiligheidsdiensten toetst, de Toetsingscommissie Inzet) Tj
+T*
+(Bevoegdheden \(TIB\). Als een van de civiele of militaire inlichtingen- en veiligheidsdiensten) Tj
+T*
+(van Nederland gebruik wil maken van hun bevoegdheden tot aftappen, afluisteren, SIGINT- of) Tj
+T*
+(hacking moeten ze eerst hun eigen juristen overtuigen, dan hun ministerie en tenslotte de TIB.) Tj
+T*
+() Tj
+T*
+(16. My New Part Time Job) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 27 Nov 2020 12:55:54 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/my-new-part-time-job/) Tj
+T*
+(So this is likely the last time you see me blog about my new \(part time\) job. Update: I have) Tj
+T*
+(left this post in September 2022 \(Nederlandse versie hier\). Starting December 1st, I am one of) Tj
+T*
+(the three members of the board that checks warrants for the Dutch intelligence and security) Tj
+T*
+(services. This board is called ?Toetsingscommissie Inzet Bevoegdheden? or TIB. If either of the) Tj
+T*
+(civil or the military intelligence and security services of The Netherlands want to use their) Tj
+T*
+(lawful intercept, SIGINT or hacking \(& some other\) legal powers, they have to first convince) Tj
+T*
+(their own jurists, then their ministry and finally the TIB.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004759 00000 n 
+0000004885 00000 n 
+0000009806 00000 n 
+0000009932 00000 n 
+0000014356 00000 n 
+0000014482 00000 n 
+0000017063 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+17191
+%%EOF
