@@ -1,0 +1,744 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4484 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-12 09:40:44) Tj
+T*
+() Tj
+T*
+(1. Thoughts on GitLab's workforce reduction" and "structural and strategic decisions") Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-11T23:58:55+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything) Tj
+T*
+(GitLab Act 2 There's a lot going on in this announcement from GitLab about the "workforce) Tj
+T*
+(reduction" and "structural and strategic decisions" they are making with respect to the agentic) Tj
+T*
+(era. They're "planning to reduce the number of countries by up to 30% where we have small) Tj
+T*
+(teams". One of the most interesting things about GitLab is that they have employees spread) Tj
+T*
+(across a large number of countries - 18 are listed in their public employee handbook but this) Tj
+T*
+(post says they are "operating in nearly 60 countries". That handbook used to document their) Tj
+T*
+(payroll workflows for those countries too - they stopped publishing that in 2023 but the last) Tj
+T*
+(public version \(hooray for version control\) remains a fascinating read. Since we don't know) Tj
+T*
+(which of those 60 countries have small teams, we can't calculate how many countries that 30%) Tj
+T*
+(applies to. "We're planning to flatten the organization, removing up to three layers of) Tj
+T*
+(management in some functions so leaders are closer to the work." - this isn't the first) Tj
+T*
+(announcement of this type I've seen that's trimming management. Coinbase recently announced a) Tj
+T*
+(much more aggressive version of this: they were "flattening our org structure to 5 layers max) Tj
+T*
+(bel...) Tj
+T*
+() Tj
+T*
+(2. Quoting James Shore) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-11T19:48:32+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/11/james-shore/#atom-everything) Tj
+T*
+(Your AI coding agent, the one you use to write code, needs to reduce your maintenance costs.) Tj
+T*
+(Not by a little bit, either. You write code twice as quick now? Better hope you?ve halved your) Tj
+T*
+(maintenance costs. Three times as productive? One third the maintenance costs. Otherwise,) Tj
+T*
+(you?re screwed. You?re trading a temporary speed boost for permanent indenture. [...] The math) Tj
+T*
+(only works if the LLM decreases your maintenance costs, and by exactly the inverse of the rate) Tj
+T*
+(it adds code. If you double your output and your cost of maintaining that output, two times two) Tj
+T*
+(means you?ve quadrupled your maintenance costs. If you double your output and hold your) Tj
+T*
+(maintenance costs steady, two times one means you?ve still doubled your maintenance costs. ?) Tj
+T*
+(James Shore , You Need AI That Reduces Maintenance Costs Tags: coding-agents ,) Tj
+T*
+(ai-assisted-programming , generative-ai , agentic-engineering , ai , llms) Tj
+T*
+() Tj
+T*
+(3. Your AI Use Is Breaking My Brain) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-11T19:21:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything) Tj
+T*
+(Your AI Use Is Breaking My Brain Excellent, angry piece by Jason Koebler on how AI writing) Tj
+T*
+(online is becoming impossible to avoid, filtering it is mentally exhausting and it's even) Tj
+T*
+(starting to distort regular human writing styles. I particularly liked his use of the term) Tj
+T*
+("Zombie Internet" to define a different, more insidious alternative to the "Dead Internet") Tj
+T*
+(\(which is just bots talking to each other\): I called it the Zombie Internet because the truth) Tj
+T*
+(is that large parts of the internet are not just bots talking to bots or bots talking to) Tj
+T*
+(people. It?s people talking to bots, people talking to people, people creating ?AI agents? and) Tj
+T*
+(then instructing them to interact with people. It?s people using AI talking to people who are) Tj
+T*
+(not using AI, and it?s people using AI talking to other people who are using AI. It?s) Tj
+T*
+(influencer hustlebros who are teaching each other how to make AI influencers and have spun up) Tj
+T*
+(automated YouTube channels and blogs and social media accounts that are spamming the internet) Tj
+T*
+(for the sole purpose of making money. It is whatever the fuck ?Moltbook? is and whatever the) Tj
+T*
+(fuck X and LinkedIn have become. It?s AI summaries of real books being sold as the book itself) Tj
+T*
+(an...) Tj
+T*
+() Tj
+T*
+(4. [Sponsor] Drata) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-12T00:54:08Z) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4569 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://drata.com/daring) Tj
+T*
+(Leverage autonomous AI agents to automate compliance, manage internal and third-party risk, and) Tj
+T*
+(continuously prove your security posture. ?) Tj
+T*
+() Tj
+T*
+(5. iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-11T22:57:00Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/05/end-to-end-encrypted-rcs-messaging-begins-rolling-) Tj
+T*
+(out-today-in-beta/) Tj
+T*
+(Apple Newsroom: Starting today, end-to-end encrypted RCS messaging begins rolling out in beta) Tj
+T*
+(for iPhone users running iOS 26.5 with supported carriers and Android users on the latest) Tj
+T*
+(version of Google Messages. When RCS messages are end-to-end encrypted, they can?t be read) Tj
+T*
+(while they?re sent between devices. Users will know that a conversation is end-to-end encrypted) Tj
+T*
+(when they see a new lock icon in their RCS chats. Encryption is on by default and will be) Tj
+T*
+(automatically enabled over time for new and existing RCS conversations. I hope this leads to a) Tj
+T*
+(future where all RCS messages are end-to-end encrypted, but I doubt it. Currently this E2EE RCS) Tj
+T*
+(depends both on the carriers \(of both parties\) in a direct chat, and the software running on) Tj
+T*
+(their devices. The carrier list is pretty broad, but as far as I can tell, it still doesn?t) Tj
+T*
+(include Google?s own Google Fi . But the indication for this is subtle. You have to read the) Tj
+T*
+(small print metadata in each chat to see if it?s encrypted. The message text remains the same) Tj
+T*
+(shade of green. If it?s a group chat and even one single member isn?t on a phone and carrier) Tj
+T*
+(that supports E2EE RCS, the entire chat will not be encrypted. With iMessage, all...) Tj
+T*
+() Tj
+T*
+(6. iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint?s List of 10 Bestselling) Tj
+T*
+(Phones Worldwide in Q1 2026) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-11T20:48:05Z) Tj
+T*
+(Link: https://appleworld.today/2026/05/apples-iphone-17-was-the-worlds-best-selling-smartphone-) Tj
+T*
+(in-quarter-one-of-2026/) Tj
+T*
+(Samsung phones took spots 4, 5, 7, 8, and 9. The one phone not from Apple or Samsung in the top) Tj
+T*
+(10 was the Xiaomi Redmi A5 at #10. As I always say , take these numbers with a grain of salt,) Tj
+T*
+(but according to Counterpoint, the bestselling phones, in order, are: iPhone 17 iPhone 17 Pro) Tj
+T*
+(Max iPhone 17 Pro And Apple?s phone in spot #6 was not the iPhone Air, alas, but the year-old) Tj
+T*
+(iPhone 16. \( Via Horace Dediu .\) ?) Tj
+T*
+() Tj
+T*
+(7. Additional notes on controlling which handles are inherited by Create­Process) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 11 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260511-00/?p=112313) Tj
+T*
+(Putting the handles in a private container. The post Additional notes on controlling which) Tj
+T*
+(handles are inherited by Create­Process appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. We Are Not Going to Agree on AI) Tj
+T*
+(Source: iDiallo.com | Published: Mon, 11 May 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed) Tj
+T*
+(On one hand, I know a developer producing 30,000 lines of code a month. On the other, I know a) Tj
+T*
+(developer who says AI is stupid. Each swears by their stance and has evidence to back it up.) Tj
+T*
+(One has a working product and the other has a broken one. The New York Times profiled Medvi and) Tj
+T*
+(reported they're on track to make $1.8 billion this year. Clearly AI worked for them... if you) Tj
+T*
+(ignore the alleged fraud for just a second. And while Microsoft now claims that at least 30% of) Tj
+T*
+(their code is AI-generated , GitHub logged 89 incidents in 90 days \( as of this writing \). That) Tj
+T*
+(doesn't exactly paint a bright picture of a technology firing on all cylinders. If you're) Tj
+T*
+(sitting on the sidelines trying to decide whether AI works or not, you're not going to get a) Tj
+T*
+(clean answer. But it's still the right question to be asking. I don't think we'll ever reach a) Tj
+T*
+(consensus, because after all the hype, what we're left with is a capable tool. And apparently,) Tj
+T*
+(that's not enough. For AI companies, it's supposed to be the alpha and the omega. Something) Tj
+T*
+(that will both kill us and save us , take all our jobs and liberate us at the same time. For) Tj
+T*
+(the rest of us, if we're not afraid, it's proof we don't understand it...) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4434 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(9. Thinking Machines and interaction models) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Tue, 12 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/interaction-models/) Tj
+T*
+(Thinking Machines just released Interaction Models . This is their first real AI model release) Tj
+T*
+(1 after a year of work and two billion dollars of capital. What is an ?interaction model??) Tj
+T*
+(First, it?s not a frontier model . Thinking Machines is not yet competing with OpenAI,) Tj
+T*
+(Anthropic and Google. Instead, they?re working on the problem of better real-time interaction) Tj
+T*
+(with models. Some parts of what they?re doing are not new at all, other parts are) Tj
+T*
+(slightly-questionable benchmark gaming, and still other parts represent a genuine technological) Tj
+T*
+(advancement. I?ll try to lay it all out. Fully-duplex voice models If you?ve used ChatGPT in) Tj
+T*
+(audio mode, you know that you can?t talk to it exactly how you?d talk to a human. There?s a big) Tj
+T*
+(latency gap between when you finish talking and when the model jumps in. The model won?t) Tj
+T*
+(interrupt you like a human, and doesn?t react to you interrupting it like a human would either.) Tj
+T*
+(And of course you can?t give the model visual feedback like facial expressions. That?s because) Tj
+T*
+(ChatGPT is either speaking or listening at any given time . When you?re talking, it?s in) Tj
+T*
+(?listening? mode; when it?s talking, it?s in ?speaking? mode, and isn?t absorbing any) Tj
+T*
+(informatio...) Tj
+T*
+() Tj
+T*
+(10. Moving from lsp-mode in GNU Emacs to Eglot) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-11T03:16:42Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot) Tj
+T*
+(Recently, I decided to take my long standing , perfectly good GNU Emacs lsp-mode setup and) Tj
+T*
+(completely replace it with Eglot, the now built in GNU Emacs LSP solution. At one level I) Tj
+T*
+(didn't have any particularly strong specific reason to switch; I started by trying out Eglot) Tj
+T*
+(after switching entirely to Corfu then just kept going to see how far I could get towards a) Tj
+T*
+(good Eglot environment. The result is perfectly good and some things work better \(Eglot will do) Tj
+T*
+('complete to common prefix' in Go and Python modes\) but it took more than a little bit of yak) Tj
+T*
+(shaving to get here. At another level, lsp-mode with lsp-ui is what I'd call a busy interface,) Tj
+T*
+(with all sorts of things going on, and these days I've decided that I want a quieter LSP) Tj
+T*
+(experience. Eglot is famously more minimal and quiet than lsp-mode, although you can and should) Tj
+T*
+(augment Eglot's interface with additional packages . I could have tamed lsp-ui more with) Tj
+T*
+(additional settings and fiddling, but switching to Eglot took care of all of that all at once,) Tj
+T*
+(with other benefits. Overall I'm happy to have switched, although it was more work than I was) Tj
+T*
+(entirely expecting. \(Should you switch? I don't know, but if you stick with GNU Emacs...) Tj
+T*
+() Tj
+T*
+(11. Euler function) Tj
+T*
+(Source: John D. Cook | Published: Tue, 12 May 2026 00:49:41 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/11/euler-function/) Tj
+T*
+(This morning I wrote a post about the probability that a random matrix over a finite field is) Tj
+T*
+(invertible. If the field has q elements and the matrix has dimensions n × n then the) Tj
+T*
+(probability is In that post I made observation that p\(q, n\) converges very quickly as a) Tj
+T*
+(function of n [1]. [?] The post Euler function first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Inverse shift) Tj
+T*
+(Source: John D. Cook | Published: Mon, 11 May 2026 15:30:30 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/11/inverse-shift/) Tj
+T*
+(What is the inverse of shifting a sequence to the right? Shifting it to the left, obviously.) Tj
+T*
+(But wait a minute. Suppose you have a sequence of eight bits abcdefgh and you shift it to the) Tj
+T*
+(right. You get 0abcdefg. If you shift this sequence to the left you get abcdefg0 You can?t) Tj
+T*
+(recover the [?] The post Inverse shift first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(13. Probability that a random binary matrix is invertible) Tj
+T*
+(Source: John D. Cook | Published: Mon, 11 May 2026 13:25:13 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/11/random-binary-matrices/) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4459 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(The two latest posts have involved invertible matrices with 0 and 1 entries. If you fill an n ×) Tj
+T*
+(n matrix with 0s and 1s randomly, how likely is it to be invertible? What kind of inverse?) Tj
+T*
+(There are a couple ways to find the probability that a binary matrix is invertible, depending) Tj
+T*
+(on what [?] The post Probability that a random binary matrix is invertible first appeared on) Tj
+T*
+(John D. Cook .) Tj
+T*
+() Tj
+T*
+(14. Hosting a website on an 8-bit microcontroller.) Tj
+T*
+(Source: Maurycy's Blog | Published: Mon, 11 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/projects/mcusite/) Tj
+T*
+(In today's episode of "dumb things to do with an AVR microcontroller": Does your server come) Tj
+T*
+(with real wood? MCU website demo \(may go down if this gets posted to HN\) My victim is the) Tj
+T*
+(AVR64DD32 which is quite similar to the Atmega328 of Arduino fame. Compared to the older) Tj
+T*
+(Atmega, these are cheaper for the same memory, use a single programming pin and have nicer) Tj
+T*
+(peripherals: CPU: Single 8-bit AVR core @ 24 MHz \(max\) RAM: 8 kB \(static RAM\) Flash: 64 kB) Tj
+T*
+(EEPROM: 256 bytes Voltage: 1.8 - 5.5 Volts Cost: $1 So that's the computer \(and a rather) Tj
+T*
+(spacious one at that\) but it'll need an internet connection to host a website. The obvious) Tj
+T*
+(choice is Ethernet , but even the slowest version \(10BASE-T\) still runs at 10 megabits/second.) Tj
+T*
+(Worse, it uses Manchester encoding: a zero is sent as "10" and a one as "01", so 10 megabits of) Tj
+T*
+(data is actually 20 megabits at the wire. This is simply too fast for the AVR to generate.) Tj
+T*
+(While it's processor can run at 24 MHz, but all the peripherals and IO pins max out at 12 MHz.) Tj
+T*
+(\(although some other 8-bit chips can manage it\) The proper solution is to buy a dedicated) Tj
+T*
+(ethernet chip from DigiKey, but then I'd be waiting weeks to finish this project. ... and) Tj
+T*
+(ethernet...) Tj
+T*
+() Tj
+T*
+(15. I'm really frustrated that GitLab is doing layoffs) Tj
+T*
+(Source: Xe Iaso's blog | Published: Mon, 11 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/notes/2026/gitlab-layoffs/) Tj
+T*
+(Winning at this could have been so easy) Tj
+T*
+() Tj
+T*
+(16. Find blog posts with missing featured images - and missing alt text - without a plugin) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 11 May 2026 11:34:39 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/find-blog-posts-with-missing-featured-images-and-missing) Tj
+T*
+(-alt-text-without-a-plugin/) Tj
+T*
+(WordPress has the concept of "Featured Images". They are the images which show up when you) Tj
+T*
+(share a blog post on social media or, on some themes, as the "hero" image. How can you quickly) Tj
+T*
+(and easily find any posts which don't have a featured image? For this, I use WP CLI - it allows) Tj
+T*
+(you to run complex WordPress actions and queries using the command line. After you have) Tj
+T*
+(installed WP CLI you can?) Tj
+T*
+() Tj
+T*
+(17. proxy) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-11T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/11/proxy.html) Tj
+T*
+(Building tools that talk to package registries means making thousands of requests to npm,) Tj
+T*
+(RubyGems, PyPI, and crates.io while you iterate, and at some point you start to feel bad about) Tj
+T*
+(it. Recorded HTTP fixtures go stale, mocking sixteen different registry protocols by hand is) Tj
+T*
+(its own project, and pointing the test suite at the real thing means every red-green cycle is a) Tj
+T*
+(few hundred more requests to infrastructure other people are paying for. I wanted something I) Tj
+T*
+(could point git-pkgs and brief at locally that would answer like the real registries do but) Tj
+T*
+(only fetch from upstream once. proxy is a single Go binary that speaks the wire protocols of) Tj
+T*
+(npm, PyPI, RubyGems, Cargo, Go modules, Maven, NuGet, Composer, Hex, pub.dev, Conan, Conda,) Tj
+T*
+(CRAN, Debian, RPM, and the OCI container registry. Start it, point a package manager at) Tj
+T*
+(localhost:8080 , and the first install fetches from upstream and writes the artifact to local) Tj
+T*
+(storage; every install after that is served from the cache. Metadata responses are rewritten on) Tj
+T*
+(the way through so tarball URLs point back at the proxy rather than the origin, which is the) Tj
+T*
+(part most simple HTTP caches get wrong. proxy & npm_config_registry = http://localh...) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4518 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(18. The Problem of Pedagogy in Advanced Mathematics) Tj
+T*
+(Source: Susam Pal | Published: 2026-05-11T00:00:00Z) Tj
+T*
+(Link: https://susam.net/advanced-mathematics-pedagogy.html) Tj
+T*
+(It is a commonly held opinion that educational institutions could do more to improve the) Tj
+T*
+(pedagogy of mathematics. This is especially true in school, when students are first exposed to) Tj
+T*
+(new subjects. Poor exposition can turn students away from mathematics for a lifetime. Only the) Tj
+T*
+(highly motivated ones continue to engage with the subject. This is very unfortunate because) Tj
+T*
+(mathematics is a beautiful subject and it is filled with wonder. It also teaches rigour in) Tj
+T*
+(reasoning, clarity of thought and the discipline of constructing arguments from first) Tj
+T*
+(principles to obtain intricate and often beautiful results. What is perhaps less known is that) Tj
+T*
+(pedagogy is a problem even for graduate-level mathematics students and professional) Tj
+T*
+(mathematicians. The proofs in many graduate-level mathematics textbooks are, in my humble) Tj
+T*
+(opinion, not really proofs at all. They are closer to high-level outlines of proofs. The) Tj
+T*
+(authors simply do not show their work. The student then has to put in an extraordinary amount) Tj
+T*
+(of effort to understand and justify each line. Sometimes a 10-line argument in a textbook might) Tj
+T*
+(expand into a 10-page proof if the student really wants to convince themselves that the) Tj
+T*
+(argument works....) Tj
+T*
+() Tj
+T*
+(19. Pluralistic: 2024 \(apart from the obvious\) \(11 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 11 May 2026 09:43:59) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/05/11/postmortem/) Tj
+T*
+(Today's links 2024 \(apart from the obvious\): Some unforced errors. Hey look at this: Delights) Tj
+T*
+(to delectate. Object permanence: Denmark legalizing music trading; Babysuit; Patent Office) Tj
+T*
+(invites "peer review"; DRM protest at the Bastille; Scientology's "super powers"; Banana Dalek;) Tj
+T*
+(Florida v pediatricians' gun safety advice; Copyright filters and wage theft; "Who Broke the) Tj
+T*
+(Internet?" Vatican astronomer v Creationism; Teens, privacy and Facebook; ?apek's graveside) Tj
+T*
+(robot; Save iTunes; NZ laundered money for Latinamerica's looters; Memex Method. Upcoming) Tj
+T*
+(appearances: Barcelona, Berlin, Hay-on-Wye, London, NYC, Edinburgh. Recent appearances: Where) Tj
+T*
+(I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I) Tj
+T*
+(said, I'll keep writin' 'em. Colophon: All the rest. 2024 \(apart from the obvious\) \(permalink\)) Tj
+T*
+(Just as Hillary Clinton positioned her run as a third term for Obama \("America is already) Tj
+T*
+(great"\), so did Biden \(and then Harris\) position their campaigns as a second Biden term. As) Tj
+T*
+(Biden said \(in 2019\): "Nothing would fundamentally change": https://www.salon.com/2019/06/19/jo) Tj
+T*
+(e-biden-to-rich-donors-nothing-would-fundamentally-change-if-hes-elected/ So a vote f...) Tj
+T*
+() Tj
+T*
+(20. Fear is information.) Tj
+T*
+(Source: Westenberg. | Published: Mon, 11 May 2026 03:52:45 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/fear-is-information/) Tj
+T*
+(The motivational industry has built any number of small empires on the notion that fear is a) Tj
+T*
+(problem to be either managed, suppressed or out-manoeuvred. Fight the fear, etc. The language) Tj
+T*
+(is typically martial - as if fear were a hostile enemy, camped at the gates of your better) Tj
+T*
+(self.) Tj
+T*
+() Tj
+T*
+(21. Out With the JS, In With the HTML) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 10 May 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/) Tj
+T*
+(I?ve been posting about how you can make lots of HTML pages and leverage navigations over) Tj
+T*
+(in-page, JS-dependent interactions . Now I?m gonna post another example. On my icon sites, I) Tj
+T*
+(have a little widget that allows you to resize the icons you?re looking at. Previously, I) Tj
+T*
+(implemented this functionality as a web component that looked something like this: icon-list) Tj
+T*
+(size = "md" > a href = "" > img src = "" width = "128" height = "128" /> a > a href = "" > img) Tj
+T*
+(src = "" width = "128" height = "128" /> a > icon-list > The size attribute corresponded to an) Tj
+T*
+(enumeration like sm | md | lg | xl which mapped to actual pixel dimensions like 64×64 or) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3383 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(512×512. When the little widget was clicked to render icons at a different size, JavaScript) Tj
+T*
+(changed the size attribute on the custom element. From there, the web component?s JS took over) Tj
+T*
+(changing the dimensions of the children elements, their src attributes, etc. It all worked) Tj
+T*
+(pretty well. However, because that was a client-side solution to my otherwise entirely) Tj
+T*
+(pre-rendered static site, it required some templating logic and data be duplicated and sent) Tj
+T*
+(over the wire to every client. I didn?t love that for various reasons ? like ?Crap, I updated) Tj
+T*
+(thi...) Tj
+T*
+() Tj
+T*
+(22. Welcoming the Bangladesh Government to Have I Been Pwned) Tj
+T*
+(Source: Troy Hunt | Published: Mon, 11 May 2026 22:27:32 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/welcoming-the-bangladesh-government-to-have-i-been-pwned/) Tj
+T*
+(Today, we welcome the 43rd government onboarded to Have I Been Pwned's free gov service,) Tj
+T*
+(Bangladesh. The BGD e-GOV CIRT department now has full access to query all their government) Tj
+T*
+(domains via API, and monitor them against future breaches. Bangladesh joins a growing list of) Tj
+T*
+(national governments using) Tj
+T*
+() Tj
+T*
+(23. History of PowerDNS: 1999-2003) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 27 Nov 2020 12:29:55 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/history-of-powerdns-1999-2003/) Tj
+T*
+(Hi everyone, I have often told the history of PowerDNS, or at least how I recall it, during) Tj
+T*
+(talks and presentations. As I am about to truly leave DNS and PowerDNS, I thought it was high) Tj
+T*
+(time to document my recollections. Since this is a 20+ year old story right now, it is very) Tj
+T*
+(possible I have forgotten or misremembered important things. Do let me know if you miss) Tj
+T*
+(important things, or if you recall things differently!) Tj
+T*
+() Tj
+T*
+(24. IKEA TRÅDFRI for Rebooting a Server or Modem) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 25 Nov 2020 12:20:33 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/ikea-tradfri-for-rebooting-serve-or-modem/) Tj
+T*
+(Recently I revamped my home internet, and \(hopefully\) temporarily ended up with a modem that) Tj
+T*
+(needs to be power cycled from time to time. We?re working on getting it fixed, but in the) Tj
+T*
+(meantime I needed a solution for automated power cycling. There are various ways to turn the) Tj
+T*
+(power off or on from a Linux computer, and some of these are very karmic. You can get a zigbee) Tj
+T*
+(USB stick and ditto power plugs, and I am sure this is a lot of fun.) Tj
+T*
+() Tj
+T*
+(25. Regulatory Capture, of de 'Gevangen Regelgever') Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 24 Nov 2020 14:44:40 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/gevangen-regelgevers/) Tj
+T*
+(Op verzoek van iemand uit de elektriciteitswereld, een stukje over de ?Gevangen Regelgever?,) Tj
+T*
+(beter bekend als ?Regulatory Capture?. Heel in het kort is dit een zeer veel voorkomende) Tj
+T*
+(situatie waarbij een toezichthouder \(of regelgever\) langzaam maar zeker de wereld gaat zien) Tj
+T*
+(door de ogen van de sector waar toezicht op wordt gehouden. Dit leidt dan tot toezicht wat) Tj
+T*
+(behulpzaam is voor die industrie, maar niet efficiënt bijdraagt aan een betere samenleving of) Tj
+T*
+(verbeterde veiligheid.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004760 00000 n 
+0000004886 00000 n 
+0000009507 00000 n 
+0000009633 00000 n 
+0000014119 00000 n 
+0000014245 00000 n 
+0000018757 00000 n 
+0000018885 00000 n 
+0000023456 00000 n 
+0000023584 00000 n 
+0000027020 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+27148
+%%EOF
