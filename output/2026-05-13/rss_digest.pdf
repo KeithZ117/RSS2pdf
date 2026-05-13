@@ -1,0 +1,690 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4399 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-13 09:41:58) Tj
+T*
+() Tj
+T*
+(1. Patch Tuesday, May 2026 Edition) Tj
+T*
+(Source: Krebs on Security | Published: Tue, 12 May 2026 21:46:45 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/) Tj
+T*
+(Artificial intelligence platforms may be just as susceptible to social engineering as human) Tj
+T*
+(beings, but they are proving remarkably good at finding security vulnerabilities in human-made) Tj
+T*
+(computer code. That reality is on full display this month with some of the more widely-used) Tj
+T*
+(software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record) Tj
+T*
+(volumes of security bugs, and/or quickening the tempo of their patch releases.) Tj
+T*
+() Tj
+T*
+(2. Bambu Lab is abusing the open source social contract) Tj
+T*
+(Source: Jeff Geerling | Published: Tue, 12 May 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/) Tj
+T*
+(Last year I said I'd probably never recommend another Bambu Lab printer again . I still use my) Tj
+T*
+(P1S, but after Bambu Lab started pushing their always-connected cloud solution as the new) Tj
+T*
+(default: I blocked the printer from the Internet via my OPNsense Firewall I stopped updating) Tj
+T*
+(the firmware I locked the printer into Developer mode I deleted Bambu Studio and started using) Tj
+T*
+(OrcaSlicer I had to do that to keep it under my control, instead of Bambu's.) Tj
+T*
+() Tj
+T*
+(3. datasette 1.0a29) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-12T23:41:06+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/12/datasette/#atom-everything) Tj
+T*
+(Release: datasette 1.0a29 New TokenRestrictions.abbreviated\(datasette\) utility method for) Tj
+T*
+(creating "_r" dictionaries. #2695 Table headers and column options are now visible even if a) Tj
+T*
+(table contains zero rows. #2701 Fixed bug with display of column actions dialog on Mobile) Tj
+T*
+(Safari. #2708 Fixed bug where tests could crash with a segfault due to a race condition between) Tj
+T*
+(Datasette.close\(\) and Datasette.close\(\) . #2709 That segfault bug was gnarly . I added a) Tj
+T*
+(mechanism to Datasette recently that would automatically close connections at the end of each) Tj
+T*
+(test, but it turned out that introduced a race condition where an in-flight query could) Tj
+T*
+(sometimes be executing in a thread against a connection while it was being closed. I ended up) Tj
+T*
+(solving that by having Codex CLI \(with GPT-5.5 xhigh\) create a minimal Dockerfile that) Tj
+T*
+(recreated the bug. Tags: projects , datasette) Tj
+T*
+() Tj
+T*
+(4. Quoting Mo Bitar) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-12T22:59:58+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything) Tj
+T*
+(Now, if your CEO has never heard the phrase Ralph Loop, oh man, you are less than 30 days away) Tj
+T*
+(from your next promotion. I'm not even exaggerating. Walk into his office, close the door, and) Tj
+T*
+(say, hey chief, been experimenting with something. It's called Ralph Loops. And I think it) Tj
+T*
+(could change literally everything. And he's gonna say, what's a Ralph loop? And you will say,) Tj
+T*
+(give me $18,000 worth of API credits and I'll show you. Now you won't actually do anything,) Tj
+T*
+(because you can't do anything. Because nobody can, because nobody knows what they're doing. But) Tj
+T*
+(by the time he figures that out, you'll have a new title, and equity bump. [...] Talk about) Tj
+T*
+(automation constantly. Nothing arouses the slumbering capitalists than the mention of) Tj
+T*
+(automation. Drop names too, bro. Like talk about specific team members you can automate out of) Tj
+T*
+(existence. Be like, yo, I automated Gary, bro. Tag Gary in the message. Tag him in Slack in a) Tj
+T*
+(very public channel. Be like, yo, I just automated @Gary. His function has been Ralph Looped.) Tj
+T*
+(And tag your CEO in the same message. You think you're getting laid off after that? ? Mo Bitar) Tj
+T*
+(, The Unethical Guide to Surviving AI Layoffs, TikTok Tags: ai-ethics , tiktok ,...) Tj
+T*
+() Tj
+T*
+(5. Quoting Mitchell Hashimoto) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-12T22:21:51+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4808 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(The thing about 90% of TDMs [Technical Decision Makers] is that they're motivated primarily by) Tj
+T*
+(NOT GETTING FIRED. These aren't people who browser Lobsters or push to GH on the weekend. These) Tj
+T*
+(are people that work 9 to 5, get paid, go home, and NEVER THINK ABOUT WORK AGAIN. So to achieve) Tj
+T*
+(all that, they follow secular trends supported by analysts and broad public sentiment. Oh,) Tj
+T*
+(Gartner said that "AI strategy" is most important? McKinsey said "context" needs to be managed?) Tj
+T*
+(Well, "Context Engine for AI Apps" is going to be defensible. Buy it. ? Mitchell Hashimoto , in) Tj
+T*
+(a conversation about the design of the Redis homepage Tags: marketing , mitchell-hashimoto ,) Tj
+T*
+(redis) Tj
+T*
+() Tj
+T*
+(6. Kagi Snaps) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-12T21:06:21Z) Tj
+T*
+(Link: https://help.kagi.com/kagi/features/snaps.html) Tj
+T*
+(Kagi?s documentation: Typing @r headphones will search for ?headphones? but limit the results) Tj
+T*
+(to reddit.com \( r is the short code for Reddit\). This allows you to quickly find relevant) Tj
+T*
+(content on a specific site using Kagi?s powerful index. It is effectively the same as doing) Tj
+T*
+(headphones site:old.reddit.com . Its relative, Bangs feature, invoked by using ?!r headphones?,) Tj
+T*
+(would redirect the user to Reddit?s internal search. I learned about the snaps feature from a) Tj
+T*
+(Kagi blog post a few months ago, and I?ve been loving it ever since. From that post: You can) Tj
+T*
+(also use Snaps to quickly search within Kagi?s knowledgeable. For example, the @help snap) Tj
+T*
+(searches the Kagi help docs, handy for when you want to quickly look into a feature. User tip:) Tj
+T*
+(?I recommend combining Snaps with the ?I?m feeling lucky? bang: ! with no short code. Like) Tj
+T*
+(searching @gh curl ! to go to the curl repo. I?ve never actually looked any of these up. I just) Tj
+T*
+(guessed at the ones I most want to use and they all worked on the first try. @nyt returns) Tj
+T*
+(results from The New York Times; @wsj is for The Wall Street Journal. Take a guess what @df) Tj
+T*
+(does. And you can add your own custom bangs/snaps in Kagi?s settings. It?s easy. In fa...) Tj
+T*
+() Tj
+T*
+(7. Seriously, Give Kagi a Try) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-12T20:31:49Z) Tj
+T*
+(Link: https://daringfireball.net/2025/04/try_switching_to_kagi) Tj
+T*
+(Quoting from a post I wrote a year ago: Like, even if I use the magic &udm=14 parameter with) Tj
+T*
+(Google search, to get ?disenshittified? results from Google , I find I get better results from) Tj
+T*
+(Kagi. When I know there?s one right answer \(say, a specific article I remember reading and want) Tj
+T*
+(to find again\), Kagi is more likely than Google to list it first. If it?s a years-old article,) Tj
+T*
+(Kagi is way more likely than Google to find it at all. For me, Google \(and, alas, DuckDuckGo) Tj
+T*
+(too\) have largely stopped working reliably for finding not-recent stuff on the web. Not true) Tj
+T*
+(with Kagi. I used DuckDuckGo for years as my default search, and for those years, I found it) Tj
+T*
+(largely on par with Google. But it felt like every once in a while ? maybe, say, once or twice) Tj
+T*
+(a month ? DuckDuckGo would come up dry in its results. DuckDuckGo pioneered a trick they call) Tj
+T*
+(Bangs . Include !g to any search terms, and instead of performing the search itself, DuckDuckGo) Tj
+T*
+(will redirect that search to Google. They have a whole bunch of these Bangs ? ?!a? for Amazon) Tj
+T*
+(search, ?!nf? for Netflix. There are literally thousands of them \(which of course they allow) Tj
+T*
+(you to search for\). The only one I ever really used though was !g , f...) Tj
+T*
+() Tj
+T*
+(8. Search Ads as a Vector for Travel Scams) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-12T20:22:20Z) Tj
+T*
+(Link: https://www.wsj.com/lifestyle/travel/the-simple-travel-scam-that-cost-a-seasoned-traveler) Tj
+T*
+(-over-12-000-7d317f20?st=WDTpv5) Tj
+T*
+(Dawn Gilbertson, writing for The Wall Street Journal \(gift link\): Calder says that he tried to) Tj
+T*
+(rebook at the given link a few times but that it wouldn?t work. He became worried new flight) Tj
+T*
+(options were dwindling, so he googled the airline?s customer-service number. \(There was a link) Tj
+T*
+(to customer-service contacts way down in the email that he initially overlooked.\) The rest of) Tj
+T*
+(the story is sadly familiar to the Better Business Bureau, Federal Trade Commission, airlines) Tj
+T*
+(and consumer advocates. It?s called an impostor scam. This can occur when a company) Tj
+T*
+(impersonates an airline?s customer-service number or site, often by buying a sponsored ad on a) Tj
+T*
+(search platform. The company is hoping that panicked consumers trying, say, to rebook a flight) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4338 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(will click on the first link they see, bringing them to unscrupulous parties that try to charge) Tj
+T*
+(exorbitant fees. I?ve written before about such tactics , and they are only becoming more) Tj
+T*
+(sophisticated with AI. ?Scammers thrive on that sense of urgency,? says John Breyault, a vice) Tj
+T*
+(president at the National Consumers League whose coverage area includes fraud. The person who) Tj
+T*
+(answered Calder?s call identified himself as a Lufthansa representative and aske...) Tj
+T*
+() Tj
+T*
+(9. Initialize and print 128-bit integers in C) Tj
+T*
+(Source: John D. Cook | Published: Tue, 12 May 2026 12:20:20 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/) Tj
+T*
+(If you look very closely at my previous post, you?ll notice that I initialize a 128-bit integer) Tj
+T*
+(with a 64-bit value. The 128-bit unsigned integer represents the internal state of a random) Tj
+T*
+(number generator. Why not initialize it to a 128-bit value? I was trying to keep the code) Tj
+T*
+(simple. A surprising feature of C [?] The post Initialize and print 128-bit integers in C first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Hacking the lehmer64 RNG) Tj
+T*
+(Source: John D. Cook | Published: Tue, 12 May 2026 11:07:31 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/) Tj
+T*
+(A couple days ago I wrote about hacking the Mersenne Twister. I explained how to recover the) Tj
+T*
+(random number generator?s internal state from a stream of 640 outputs. This post will do) Tj
+T*
+(something similar with the lehmer64 random number generator. This generator is very simple to) Tj
+T*
+(implement. Daniel Lemire found it to be ?the fastest [?] The post Hacking the lehmer64 RNG) Tj
+T*
+(first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Learning Software Architecture) Tj
+T*
+(Source: matklad | Published: 2026-05-12T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/05/12/software-architecture.html) Tj
+T*
+(In reply to an email asking about learning software design skills as a researcher physicist:) Tj
+T*
+() Tj
+T*
+(12. Pluralistic: A fascist paradigm \(12 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 12 May 2026 07:22:17) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/05/12/donella-meadows/) Tj
+T*
+(Today's links A fascist paradigm: The change that changed everything. Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: Openstreetmap x Isle of Wight; Found grocery lists;) Tj
+T*
+(Mayor wants to pray away potholes; Designing a D120; "Too Like the Lightning." Upcoming) Tj
+T*
+(appearances: Barcelona, Berlin, Hay-on-Wye, London, NYC, Edinburgh. Recent appearances: Where) Tj
+T*
+(I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I) Tj
+T*
+(said, I'll keep writin' 'em. Colophon: All the rest. A fascist paradigm \(permalink\) Yesterday,) Tj
+T*
+(I attended a workshop on systems thinking and political change, which included a presentation) Tj
+T*
+(on the work of Donella Meadows, whose Thinking in Systems is a canonical work on the subject:) Tj
+T*
+(https://en.wikipedia.org/wiki/Thinking_In_Systems:_A_Primer "Systems thinking" is an analytical) Tj
+T*
+(framework that treats the world as a mesh of interconnected, nonlinear components and) Tj
+T*
+(relationships that can't be easily understood or steered. A complex system isn't merely) Tj
+T*
+("complicated." A mechanical watch is complicated, in that it has many parts that work together) Tj
+T*
+(in ways that require training and specialized knowledge to understand. But it isn't "complex") Tj
+T*
+(b...) Tj
+T*
+() Tj
+T*
+(13. In praise of the Linux kernel netconsole \(in the right circumstances\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-13T00:30:34Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/NetconsoleForDesktopPanics) Tj
+T*
+(The Linux kernel's netconsole is a kernel module that will "log kernel printk messages over) Tj
+T*
+(UDP" to a remote system, which makes it another form of kernel \(message\) console . These days) Tj
+T*
+(it can be activated either on boot or after boot, and in the past I've had mixed views of it .) Tj
+T*
+(However, I recently had a nice experience with netconsole that's left me more well inclined to) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4722 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(it in specific situations. A while back, my home desktop started locking up every once in a) Tj
+T*
+(while . Several years ago my home desktop had a somewhat similar problem that was due to) Tj
+T*
+(hardware issues , but the lockups this time were different, in that the machine would lock up) Tj
+T*
+(for a bit and then reboot on its own. Local logs showed nothing, but I happen to have another) Tj
+T*
+(machine sitting around so I thought I might as well try netconsole again. These days netconsole) Tj
+T*
+(can be enabled on the fly: modprobe netconsole cd /sys/kernel/config/netconsole mkdir heedra cd) Tj
+T*
+(heedra echo em0 >dev_name echo 192.168.X.Y >remote_ip echo 1 >enabled \(This other machine is) Tj
+T*
+(called heedra for obscure reasons.\) On the other machine I ran a simple script to capture) Tj
+T*
+(output inside a screen session: #!/bin/sh while :; do nc --recv-only -u -l 6666...) Tj
+T*
+() Tj
+T*
+(14. A code \(reformatting\) conundrum in Python, and heuristics) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-12T02:27:54Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/python/CodeFormattingBlockHeuristics) Tj
+T*
+(Suppose that you are a Python code reformatter, and someone hands you the following snippet of) Tj
+T*
+(Python code to act on: if something: blah blah blah [...] final-line some-statement [... more) Tj
+T*
+(statements ...] Here's the question: should you reindent 'some-statement' so that it's part of) Tj
+T*
+(the ' if ' block? One answer is that you absolutely should not. The current code is valid) Tj
+T*
+(Python code, and you are a reformatter for style, not to correct \(presumed\) errors. Since this) Tj
+T*
+(is valid code, you should re-flow line wrapping and so on within blocks, but not change what) Tj
+T*
+(block valid code is part of. Another answer is that maybe the person writing this code made a) Tj
+T*
+(mistake. Style wise, it's common to add a blank line between the end of an indented block and) Tj
+T*
+(following code; the lack of a blank line suggests that a mistake was made. So maybe you should) Tj
+T*
+(reindent 'some-statement' to where it properly should be, especially if you have a style rule) Tj
+T*
+(that says that there should be blank lines in this sort of situation. \(Of course, you could) Tj
+T*
+(also opt to add the blank line that your style guide says should be there and not change what) Tj
+T*
+(block a statement goes in. But we're in heuristics territory here.\) If you...) Tj
+T*
+() Tj
+T*
+(15. Not a Security Issue) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-12T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/12/not-a-security-issue.html) Tj
+T*
+(Daniel Stenberg wrote yesterday about Mythos finding a real curl vulnerability, which sent me) Tj
+T*
+(poking around the curl tree with a couple of AI-assisted scanners to see what else turned up in) Tj
+T*
+(a codebase that has already had every fuzzer and auditor on earth pointed at it. The findings) Tj
+T*
+(were better than expected, and one reason stood out: the scanners had read) Tj
+T*
+(docs/VULN-DISCLOSURE-POLICY.md and applied it. A whole class of results came back labelled in) Tj
+T*
+(effect ?real bug, worth fixing, but not a security issue per the project?s own policy?:) Tj
+T*
+(server-triggered NULL dereferences, small leaks, things that only fire if you can already) Tj
+T*
+(control the command line. The tool had found them, checked them against curl?s published list) Tj
+T*
+(of what doesn?t count, and demoted them before I had to. One example from the demoted pile: the) Tj
+T*
+(scanner found that tool_formparse.c walks a linked list of -F form parts recursively with no) Tj
+T*
+(depth limit, built a 150k-line config file to prove it, and got an ASan stack-overflow trace) Tj
+T*
+(out the other end. It then wrote, in its own summary, ?trigger requires user to run curl with) Tj
+T*
+(attacker-supplied config or args, so excluded by policy,? filed it under quality bugs, and) Tj
+T*
+(moved o...) Tj
+T*
+() Tj
+T*
+(16. Position or Perish: The Narrative Blueprint) Tj
+T*
+(Source: Westenberg. | Published: Tue, 12 May 2026 10:15:17 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/) Tj
+T*
+(Avis was losing $3.2 million a year; and they'd been unprofitable for thirteen straight. In) Tj
+T*
+(1962, they sat at number two in American car rental, well behind Hertz, with no plausible path) Tj
+T*
+(to catching up. Robert Townsend, the new president, hired Doyle Dane Bernbach and asked) Tj
+T*
+() Tj
+T*
+(17. Where Are All The Data Centers?) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 12 May 2026 16:17:30 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/where-are-all-the-data-centers/) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4484 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(If you liked this piece, please subscribe to my premium newsletter. It?s $70 a year, or $7 a) Tj
+T*
+(month, and in return you get a weekly newsletter that?s usually anywhere from 5,000 to 18,000) Tj
+T*
+(words, including vast, detailed analyses of NVIDIA , Anthropic and OpenAI&) Tj
+T*
+() Tj
+T*
+(18. Regatta Starting Stations ? Chi-squared Continued) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 12 May 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/regatta-starting-stations) Tj
+T*
+(In the Henley Royal Regatta two teams at a time propel their boats up a river and compete to be) Tj
+T*
+(first to go a distance. Teams get assigned to their starting stations ? Berkshire or) Tj
+T*
+(Buckinghamshire ? at random. From there, it is a straight shot up the river, with the lane from) Tj
+T*
+(each starting station being seemingly identical. I didn?t know any of this, but a reader) Tj
+T*
+(reached out some time ago because they had noticed something odd about this, and they wanted to) Tj
+T*
+(borrow me as a sounding board. Here?s the odd thing: the team that starts from the Berkshire) Tj
+T*
+(station has won 53.5 % of the 7555 races in the historic data this reader looked at. This is) Tj
+T*
+(highly unexpected. If teams are assigned at random, and the starting stations are practically) Tj
+T*
+(equal, then the starting station of the winning team should be a coin flip. If we flip 7555) Tj
+T*
+(coins, we would never have as many as 53.5 % come up heads. \(Continue reading the full article) Tj
+T*
+(on the web.\)) Tj
+T*
+() Tj
+T*
+(19. Building Software Requires Digestion) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Tue, 12 May 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/software-requires-digestion/) Tj
+T*
+(Here?s Scott Jenson in his insightful piece ?The Ma of a New Machine? : the chatbot interface) Tj
+T*
+([makes us] feel like deep cognitive work is happening. But the interface is fundamentally) Tj
+T*
+(reactive. It spits complex text at you, you skim it quickly, and you immediately type a) Tj
+T*
+(reaction to keep the momentum going. My hypothesis is that the very structure of the chatbot) Tj
+T*
+(interface \(type, read, type again\) actively discourages reflection. When you are moving too) Tj
+T*
+(fast, you get stuck in a groove. You literally need to take a break, step back, and basically) Tj
+T*
+(step out of this groove so you can view the problem from a new angle. We?ve all walked away) Tj
+T*
+(from a tough problem only to have the solution arrive unbidden into our thoughts later in the) Tj
+T*
+(day. In my decades+ experience designing and developing software, I can?t count the number of) Tj
+T*
+(times I?ve stepped away from a problem at the computer only to return and find the problem) Tj
+T*
+(magically resolved in my brain. But the human-computer interaction of prompting doesn?t) Tj
+T*
+(encourage the use of that skill in our subconscious. In fact, I think it actively discourages) Tj
+T*
+(it \(our tools shape us\). Scott talks about this Japanese concept called ?Ma? which is about) Tj
+T*
+(del...) Tj
+T*
+() Tj
+T*
+(20. Shame them, shun them, ban them, beat them!) Tj
+T*
+(Source: Experimental History | Published: Tue, 12 May 2026 13:23:30 GMT) Tj
+T*
+(Link: https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat) Tj
+T*
+(OR: crock pots and lightning bolts) Tj
+T*
+() Tj
+T*
+(21. Hoe werken de nieuwe \(mRNA\) Corona Vaccins) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 21 Nov 2020 19:05:02 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/hoe-werken-de-nieuwe-corona-vaccins/) Tj
+T*
+(Er zijn nu twee vaccins die meer dan 90% effectief lijken te zijn tegen Corona. Dit is heel) Tj
+T*
+(hard gegaan, maar dat is goed te verklaren. Universitair Hoofddocent en kinderarts Patricia) Tj
+T*
+(Bruijning heeft het hier heel duidelijk uitgelegd. In het kort, we hebben zo snel vaccins want:) Tj
+T*
+(Het SARS-CoV-2 virus is een relatief makkelijk doelwit om een vaccin tegen te ontwikkelen. \(het) Tj
+T*
+(is geen griep\) De coronavaccins worden ontwikkeld met nieuwe en veel snellere technologie Geld) Tj
+T*
+(was geen probleem Toelatingsinstanties voor vaccins waren vanaf het begin nauw betrokken.) Tj
+T*
+() Tj
+T*
+(22. Patricia Bruijning: Hoe kan het dat we zo snel een coronavaccin hebben?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 20 Nov 2020 20:32:29 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/patricia-bruijning-over-corona-vaccins/) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 1378 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Ik heb hier een Twitter-draadje van Patricia Bruijning omgezet naar een webpagina, waardoor het) Tj
+T*
+(verhaal wat makkelijker te lezen is voor mensen zonder Twitter. Dr Bruijning is Universitair) Tj
+T*
+(Hoofddocent epidemiologie bij UMC Utrecht maar is ook kinderarts. Ze weet dus goed waar ze het) Tj
+T*
+(over heeft en ook hoe de praktijk werkt. En ik ben erg blij dat ze de tijd heeft genomen ons) Tj
+T*
+(goed voor te lichten! Hier haar uitleg hoe het komt dat we zo snel een coronavaccin krijgen, en) Tj
+T*
+(waarom het veilig zal zijn:) Tj
+T*
+() Tj
+T*
+(23. Corona-Update november: Twee vaccins en sneltests!) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 16 Nov 2020 12:42:49 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-update-november/) Tj
+T*
+(Ja, daar zijn we weer! Voor het eerst [sinds) Tj
+T*
+(juli]\(https://berthub.eu/articles/posts/corona-update-eind-juli/\) weer een Corona Update. Er is) Tj
+T*
+(inmiddels weer genoeg te melden: vaccins, tests, cijfers, medicijnen en vitamine D. Vaccins Om) Tj
+T*
+(te beginnen, wow. En nog een keer wow. SINDS VANDAAG ER ZIJN TWEE WERKENDE VACCINS! En nog) Tj
+T*
+(gekker, ze zijn in februari 2020 al ontworpen, toen het RNA \(de broncode\) van het virus pas net) Tj
+T*
+(bekend was. Vergeleken met zelfs maar een paar jaar geleden is dit pure science fiction.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004675 00000 n 
+0000004801 00000 n 
+0000009661 00000 n 
+0000009787 00000 n 
+0000014177 00000 n 
+0000014303 00000 n 
+0000019078 00000 n 
+0000019206 00000 n 
+0000023743 00000 n 
+0000023871 00000 n 
+0000025302 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+25430
+%%EOF
