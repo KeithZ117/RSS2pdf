@@ -1,0 +1,680 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4165 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-14 09:44:36) Tj
+T*
+() Tj
+T*
+(1. Welcome to the Datasette blog) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-13T23:59:39+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything) Tj
+T*
+(Welcome to the Datasette blog We have a bunch of neat Datasette announcements in the pipeline) Tj
+T*
+(so we decided it was time the project grew an official blog. I built this using OpenAI Codex) Tj
+T*
+(desktop, which turns out to have the Markdown session transcript export feature I've always) Tj
+T*
+(wanted. Here's the session that built the blog . See also issue 179 . Tags: ai , datasette ,) Tj
+T*
+(generative-ai , llms , ai-assisted-programming , codex) Tj
+T*
+() Tj
+T*
+(2. Quoting Boris Mann) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-13T16:15:50+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/13/boris-mann/#atom-everything) Tj
+T*
+(?11 AI agents? is meaningless as a phrase. If I said ?I have 11 spreadsheets? or ?I have 11) Tj
+T*
+(browser tabs? to do my work, it means about the same thing. ? Boris Mann Tags: ai-agents , ai ,) Tj
+T*
+(agent-definitions) Tj
+T*
+() Tj
+T*
+(3. CSP Allow-list Experiment) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-13T04:50:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/13/csp-allow/#atom-everything) Tj
+T*
+(Tool: CSP Allow-list Experiment An experiment that shows that you can load an app in a) Tj
+T*
+(CSP-protected sandboxed iframe \(see previous note \) and have a custom fetch\(\) that intercepts) Tj
+T*
+(CSP errors and passes them up to the parent window... which can then prompt the user to add) Tj
+T*
+(that domain to an allow-list and then refresh the page. . Right panel shows Preview with CSP) Tj
+T*
+(header default-src 'none'; script-src 'unsafe-inline'; style-s... and heading "Sandbox fetch) Tj
+T*
+(test". A modal dialog from tools.simonwillison.net is overlaid reading: "The sandbox tried to) Tj
+T*
+(connect to: https://api.inaturalist.org Add this origin to the CSP connect-src allow-list and) Tj
+T*
+(refresh the page?" with an unchecked checkbox "Don't allow tools.simonwillison.net to prompt) Tj
+T*
+(you again" and Cancel and OK buttons. Below is "Messages from sandbox" showing fetch-catch) Tj
+T*
+(blocked https://api.inaturalist.org/v1/observations?per... connect-src ·) Tj
+T*
+(https://api.inaturalist.org. At the bottom left is "Allowed fetch\(\) origins" with an input) Tj
+T*
+(field containing https://api.github.com, an Add button, and a tag https://api.github.com x.") Tj
+T*
+(src="https://static.simonwillison.net/static/2026/csp-allow.jpg" /> I built this one with) Tj
+T*
+(GPT-5.5 xhigh running...) Tj
+T*
+() Tj
+T*
+(4. ? Nextpad++) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-13T02:22:16Z) Tj
+T*
+(Link: https://daringfireball.net/2026/05/nextpad) Tj
+T*
+(Nextpad++ feels like a fever dream. Like what Mac apps would be if the Nazis had won WWII.) Tj
+T*
+() Tj
+T*
+(5. Teresa Ribera Visited the U.S. and No One Noticed) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-12T20:05:28Z) Tj
+T*
+(Link: https://www.politico.eu/article/eu-big-tech-rulebook-shifting-digital-economy-ribera-dma-) Tj
+T*
+(pulse-forum/) Tj
+T*
+(Jacob Parry and Laura Greenhalgh, reporting for Politico, one month ago: The EU?s landmark tech) Tj
+T*
+(regulations are a ?success story? that are beginning to level the playing field between Silicon) Tj
+T*
+(Valley?s giants and their digital competitors in Europe, said European Competition Commissioner) Tj
+T*
+(Teresa Ribera on Friday. [...] Ribera?s comments come as Brussels prepares for a formal review) Tj
+T*
+(of the DMA to determine what is working and where the law may need to be reformed. The) Tj
+T*
+(regulation aims to prevent ?gatekeeper? firms, including Apple, Alphabet and Meta, from using) Tj
+T*
+(their dominant positions to stifle competition from smaller players. The EU?s top antitrust) Tj
+T*
+(official pushed back against criticism that enforcement has been too slow, arguing that the) Tj
+T*
+(?rule of law? requires a methodical approach based on evidence and due process. [...] Ribera) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4767 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(recently returned from a diplomatic mission to Washington and Silicon Valley where she met with) Tj
+T*
+(U.S. officials and tech executives. She said there is a surprising degree of alignment between) Tj
+T*
+(European and American priorities, despite the differing political climates. In particular,) Tj
+T*
+(Ribera highlighted a ?consistent? dialogue with the U.S. Department of Justi...) Tj
+T*
+() Tj
+T*
+(6. Broadcasters Urge EU to Use the DMA to Go After Smart TV Platforms, None of Which Are) Tj
+T*
+(From European Companies) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-12T19:34:00Z) Tj
+T*
+(Link: https://www.reuters.com/sustainability/boards-policy-regulation/eu-digital-rules-should-a) Tj
+T*
+(pply-big-techs-smart-tvs-broadcasters-tell-antitrust-2026-03-23/) Tj
+T*
+(Foo Yun Chee, reporting for Reuters back on March 23: Google, Amazon, Apple and Samsung?s smart) Tj
+T*
+(TVs and virtual assistants should fall under the EU?s toughest tech rules because of their) Tj
+T*
+(growing market power, the world?s largest broadcasters told EU antitrust chief Teresa Ribera on) Tj
+T*
+(Monday. The call by the Association of Commercial Television and Video on Demand Services in) Tj
+T*
+(Europe \(ACT\) whose members include Canal+, RTL, Mediaset, ITV, Paramount+, NBCUniversal, Walt) Tj
+T*
+(Disney, Warner Bros Discovery, Sky and TF1 Groupe underscores the battle between ?broadcasters) Tj
+T*
+(and Big Tech for market share in a lucrative industry. Android TV, which increased its market) Tj
+T*
+(share from 16% to ?23% from 2019 to 2024, Amazon Fire OS whose market share rose from 5% to 12%) Tj
+T*
+(in the same period and Samsung?s Tizen OS with its 24% market share should be designated as) Tj
+T*
+(gatekeepers under the EU?s ?Digital Markets Act, the broadcasters said, citing data from a 2025) Tj
+T*
+(market study. Apple is mentioned only in the context of voice assistants, not Apple TV 4K: The) Tj
+T*
+(broadcasters also voiced concerns about virtual assistants, the most ?well known of which are) Tj
+T*
+(Amazon?s ?Alexa and Apple?s Siri, while OpenAI entered the field la...) Tj
+T*
+() Tj
+T*
+(7. AI datacenters in space do not have a cooling problem) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Wed, 13 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/) Tj
+T*
+(This year Elon Musk has started banging the drum about building AI datacenters in space. As the) Tj
+T*
+(only person who owns a successful space company and a \(moderately\) successful AI company, this) Tj
+T*
+(is a sensible way to boost his profile and net worth. Is it a sensible way to build) Tj
+T*
+(datacenters? The cooling problem The first comment underneath most discussions of this always) Tj
+T*
+(goes along these lines: ?you obviously can?t build AI datacenters in space, because heat) Tj
+T*
+(dissipation is really hard in space, and AI datacenters generate a lot of heat?. In general I) Tj
+T*
+(am distrustful of snappy answers like these. It reminds me of the ?AI datacenters obviously) Tj
+T*
+(don?t use a lot of water, because cooling fluid circulates in a closed-loop system? argument:) Tj
+T*
+(if it were true, there wouldn?t be a debate at all, just one side who understand the obvious) Tj
+T*
+(point and another side who are stupid. Some arguments are like this! However, more often) Tj
+T*
+(there?s a complicating factor that makes the snappy answer incorrect. In the water-use case,) Tj
+T*
+(it?s that the closed-loop system has to itself be cooled by an open-loop evaporative chiller.) Tj
+T*
+(What about the space datacenter case? Why cooling is possible in space First, let?s give the...) Tj
+T*
+() Tj
+T*
+(8. The case of the hang when the user changed keyboard layouts) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 13 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260513-00/?p=112318) Tj
+T*
+(Keeping things moving. The post The case of the hang when the user changed keyboard layouts) Tj
+T*
+(appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Software Engineers are Obsolete) Tj
+T*
+(Source: iDiallo.com | Published: Wed, 13 May 2026 22:40:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/everyone-is-better-than-you?src=feed) Tj
+T*
+(In my first interview for a developer position, I shared a link to my personal project with the) Tj
+T*
+(interviewer. It was a website for learning how to program. I created it from the ground up. I) Tj
+T*
+(built the PHP app, designed the database schema, made a nice design to tie it all together. I) Tj
+T*
+(wrote down my process, and it became the first tutorial on the site. Then I collected tutorials) Tj
+T*
+(from all over the web and displayed them on my website, which acted as a portal. There was a) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4590 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(section for PHP tutorials, for Ruby on Rails, for .NET, etc. Each one individually curated by) Tj
+T*
+(me. My interviewer was so impressed. I got the job. Later, I added a section where anyone could) Tj
+T*
+(submit their own tutorials. It was fascinating how quickly people found my website and started) Tj
+T*
+(submitting links. The tutorials were coming in so fast that I removed the verification system) Tj
+T*
+(and let people upload links directly. But then my mind wandered. What if I start a blog? Yes, I) Tj
+T*
+(had another blog before this one. I built an entire blog engine from scratch. A colleague found) Tj
+T*
+(my blog. He was so excited that he shared his own with me. At lunch, we would discuss ideas,) Tj
+T*
+(and that same evening after work, we would buy a domain name a...) Tj
+T*
+() Tj
+T*
+(10. What?s with all the slide decks?) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-05-13T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/slides/) Tj
+T*
+(News from the world of real jobs: Apparently, sometime between 10 and 20 years ago, it became) Tj
+T*
+(standard for people to communicate by sending slide decks around. These slides are never) Tj
+T*
+(presented. They aren?t intended to be presented. They?re born, they?re sent around, and they) Tj
+T*
+(die. What? I stress, the question is not why \(or if\) people give bad presentations . The) Tj
+T*
+(mystery is why everyone is using presentation software for communication that is not a) Tj
+T*
+(presentation. Theory 1: Everybody dumb Is it because we?re all dummies? I?m putting this theory) Tj
+T*
+(first because I suspect that you, beloved readers, will favor it. True, if you ask people why) Tj
+T*
+(they make slides instead of writing, they?ll usually say, ?because nobody wants to read?. So) Tj
+T*
+(there?s that. But I don?t consider this much of an explanation. Dummies though we may be, we?ve) Tj
+T*
+(been like that a long time. If we entered the Slideocene 15 years ago, why then? Why not) Tj
+T*
+(before? Theory 2: The decline of reading Did we get worse at reading? The Discourse seems to) Tj
+T*
+(have decided this is true, but is it true, or just moral panic? Since 1971, the US has tested) Tj
+T*
+(13-year-olds to measure long-term trends in reading ability. This shows a slow improvement u...) Tj
+T*
+() Tj
+T*
+(11. Stupidly Simple SVG Sparklines) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 13 May 2026 11:34:01 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/stupidly-simple-svg-sparklines/) Tj
+T*
+(A sparkline is a little line-graph with no axes or other unnecessary details. They're useful) Tj
+T*
+(for getting quick understanding of what the data is showing. They're also really easy to create) Tj
+T*
+(programmatically. This uses the SVG "polyline" which takes a list of x,y co-ordinate pairs. But) Tj
+T*
+(can you spot the small problem? <polyline ?) Tj
+T*
+() Tj
+T*
+(12. Showing Our Work) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-13T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/13/showing-our-work.html) Tj
+T*
+(A preprint went up on arXiv this week from Alexandros Tsakpinis, Emil Schwenger and Alexander) Tj
+T*
+(Pretschner at fortiss and TU Munich: Modeling Dependency-Propagated Ecosystem Impact of Changes) Tj
+T*
+(in Maintenance Activities . They built a model of how maintenance changes propagate through the) Tj
+T*
+(Python dependency graph, ran it over 718,750 PyPI packages and two million dependency edges,) Tj
+T*
+(and then benchmarked three real-world support mechanisms against it to see how well each one?s) Tj
+T*
+(package selection lined up with where the model says support would do the most good. The three) Tj
+T*
+(were Tidelift?s lifted packages, GitHub Sponsors, and the ecosyste.ms Python fund . The fund is) Tj
+T*
+(something we run with Open Source Collective : organisations put money in for a language) Tj
+T*
+(ecosystem as a whole rather than picking individual projects, and we distribute it across the) Tj
+T*
+(packages our dependency data says are most critical, paying out through whatever funding) Tj
+T*
+(channel each maintainer already has set up. At 97 packages, that selection accounted for 25.9%) Tj
+T*
+(of the total modelled improvement impact and 38.0% of the total modelled regression impact) Tj
+T*
+(across all of PyPI. From the paper: ?Ecosyste.ms shows comparatively strong...) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: Billionaire solipsism, dictator solipsism, AI, and the fascist paradigm) Tj
+T*
+(\(13 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 13 May 2026 15:47:35) Tj
+T*
+(+0000) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4791 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://pluralistic.net/2026/05/13/vibe-governance/) Tj
+T*
+(Today's links Billionaire solipsism, dictator solipsism, AI, and the fascist paradigm: AGI) Tj
+T*
+(works best in a K-hole. Hey look at this: Delights to delectate. Object permanence: Woz's) Tj
+T*
+(remotes; Furbeowulf; Vinge on AR; Oligarch buys FSU; DNC x GOP megadonors; John Key v Panama) Tj
+T*
+(Papers; Two elevators, one shaft; Save Firefox! "Cyclopedia Exotica"; Eat the brood. Upcoming) Tj
+T*
+(appearances: Barcelona, Berlin, Hay-on-Wye, London, NYC, Edinburgh. Recent appearances: Where) Tj
+T*
+(I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I) Tj
+T*
+(said, I'll keep writin' 'em. Colophon: All the rest. Billionaire solipsism, dictator solipsism,) Tj
+T*
+(AI, and the fascist paradigm \(permalink\) With great power comes great solipsism: the more power) Tj
+T*
+(you wield over other people, the less real they become to you. To rule is to see people as) Tj
+T*
+(aggregates, statistical artifacts, as a means to an end. It's how people seem when you're at) Tj
+T*
+(the bottom of a k-hole. Per Granny Weatherwax, this is the root of all evil: "Sin is when you) Tj
+T*
+(treat people like things":) Tj
+T*
+(https://brer-powerofbabel.blogspot.com/2009/02/granny-weatherwax-on-sin-favorite.html The) Tj
+T*
+(problem \(for powerful people\) is that other people aren't...) Tj
+T*
+() Tj
+T*
+(14. Open Link in Unloaded Tab, a little Firefox extension) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Wed, 13 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/) Tj
+T*
+(In short: I just published Open Link in Unloaded Tab , a little Firefox extension that adds) Tj
+T*
+(?Open Link in Unloaded Tab? to the right-click context menu. In Firefox, you can unload tabs to) Tj
+T*
+(save system resources. But there?s no way to open a new tab in the unloaded state?until now! I) Tj
+T*
+(built a very simple extension that adds a new option to do this. \(It even has a cute icon which) Tj
+T*
+(I paid ~$15 for.\) I?ve built one-off extensions before, but this is the first one I?ve) Tj
+T*
+(submitted to the Firefox Add-ons directory. Download the extension here or check out the source) Tj
+T*
+(code .) Tj
+T*
+() Tj
+T*
+(15. Commenting Guidelines) Tj
+T*
+(Source: Susam Pal | Published: 2026-05-14T00:00:00Z) Tj
+T*
+(Link: https://susam.net/commenting.html) Tj
+T*
+(Commenting Guidelines This website has an active comments section , carefully maintained and) Tj
+T*
+(curated by the author of this website. When commenting on this website, please keep the) Tj
+T*
+(following points in mind: You may include HTML or Markdown in your comment. Comments are) Tj
+T*
+(converted to HTML and sanitised before they are published on this website. All submitted) Tj
+T*
+(comments are held for review. Whether a comment is published or not is at the discretion of the) Tj
+T*
+(author of this website. Typically, only the following types of comments are published: Comments) Tj
+T*
+(that add new information to the topic discussed in an article. Comments that offer new insight) Tj
+T*
+(on a topic. Comments that provide a neutral, supporting or opposing viewpoint. Comments that) Tj
+T*
+(report typos, errors or bugs on the website. Comments that contain good humour. Comments that) Tj
+T*
+(express appreciation. Generally, rants are not published, even when the post you are commenting) Tj
+T*
+(on is itself a rant. This website is the author's place to rant. It is not your place to rant.) Tj
+T*
+(If you really need to rant, please do so on your own website. This guideline exists to maintain) Tj
+T*
+(a high signal-to-noise ratio in the comments section. Similarly, comments conta...) Tj
+T*
+() Tj
+T*
+(16. Points are a weird and inconsistent unit of measure) Tj
+T*
+(Source: Computer Things | Published: Wed, 13 May 2026 15:56:37 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/) Tj
+T*
+(I'm in the middle of redoing the Logic for Programmers diagrams and this has surfaced a really) Tj
+T*
+(annoying problem. The book is formatted in LaTeX using a pseudo-grid of 10.8pt × 7.2pt. The) Tj
+T*
+(diagrams are done in Inkscape using a 10.8pt × 7.2pt. Last week I found out that these are not) Tj
+T*
+(the same points. Latex defines a point as 1/72.27 inches \(0.3515 millimeters\). Inkscape instead) Tj
+T*
+(uses 1/72 inches \(0.3528 mm\). It's only a difference of 0.4% but it still floors me that two) Tj
+T*
+(widespread digital technologies would be different! So, uh, what happened? A few hours of) Tj
+T*
+(reading articles later, this is what I found, caveat that I didn't spend all that much time) Tj
+T*
+(researching this and this is only initial impressions. what even is a point A point is a) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4763 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(typographic measure, coming from 1517, that is supposedly the smallest interesting size for a) Tj
+T*
+(printer. This was notably not a standardized measure- different companies in times used) Tj
+T*
+(different point sizes depending on their equipment. Over time it was standardized, but each) Tj
+T*
+(country picked a different standard: the German and Japanese point is 0.250 mm, the French) Tj
+T*
+(point is allegedly 0.399 mm, etc. But early computer history is super Americentric so that's...) Tj
+T*
+() Tj
+T*
+(17. Ideal failures) Tj
+T*
+(Source: Daniel De Laney | Published: Wed, 13 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://danieldelaney.net/ideal-failures/) Tj
+T*
+(The way I used to design UI was to sit with paper sketches, or Figma, or a React prototype with) Tj
+T*
+(no back end. Imagine every failure mode. Design beautiful flows for each. I slipped into this) Tj
+T*
+(mistake while working on LanWhisper , a voice dictation app. I designed for the failure modes I) Tj
+T*
+(could imagine, drew the flows, and shipped the app. Then real users hit failure modes that I) Tj
+T*
+(hadn?t anticipated. For example, the AI transcription model can return hallucinated text even) Tj
+T*
+(if the input audio is empty. I had imagined that if the model returned text at all then the app) Tj
+T*
+(was working. This failure wasn?t in my carefully designed list of ideal failures . Whoops. The) Tj
+T*
+(problem is that a representation of a system only contains what you put into it. The failure) Tj
+T*
+(modes it shows you are exclusively the ones you already thought of. This is the same mistake as) Tj
+T*
+(designing for users you?ve never talked to. Designers know that?s a trap. The same logic) Tj
+T*
+(applies to the systems we design: imagined systems aren?t a substitute for real ones. When) Tj
+T*
+(designing non-trivial systems, imagination is no longer your best source of truth. The system) Tj
+T*
+(itself is. And increasingly, designers can build it themselves. Do. Buil...) Tj
+T*
+() Tj
+T*
+(18. Partial static single information form) Tj
+T*
+(Source: Max Bernstein's Blog | Published: Tue, 12 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://bernsteinbear.com/blog/partial-ssi/?utm_source=rss) Tj
+T*
+(In compilers, static single information form \(SSI\) is a common extension to static single) Tj
+T*
+(assignment form \(SSA\). It was introduced by C. Scott Ananian in 1999 in his MS thesis \(PDF\) 1 .) Tj
+T*
+(SSI extends your existing SSA intermediate representation by discovering facts from your) Tj
+T*
+(existing program and reifying them as path-dependent/flow-sensitive IR nodes. That might sound) Tj
+T*
+(complicated, but at least the basic idea is pretty natural. I talk a little bit about it in) Tj
+T*
+(What I talk about when I talk about IRs and I?ll rehash here in more depth, starting with some) Tj
+T*
+(motivating examples. Consider this admittedly contrived example: v0 : Integer = ... if v0 > 0 :) Tj
+T*
+(# ... v1 : PositiveInteger = AbsoluteValue v0 # ... We should be able to learn from the) Tj
+T*
+(comparison that in some branches in the IR, v0 is positive. In that region, we can add a new IR) Tj
+T*
+(instruction v2 that attaches that knowledge right in the instruction?s type field \(yay,) Tj
+T*
+(sparseness!\) and then rewrite uses of v0 to now use v2 . v0 : Integer = ... if v0 > 0 : v2 :) Tj
+T*
+(PositiveInteger = RefineType v0 , Positive # ... v1 : PositiveInteger = AbsoluteValue v2 # ...) Tj
+T*
+(Because we?ve done that, our \(imaginary\) optimization rule that gets rid of AbsoluteVa...) Tj
+T*
+() Tj
+T*
+(19. Dutch COVID-19 Data Sources & Their Interpretation) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 14 Nov 2020 09:04:20 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/dutch-covid-19-data-sources/) Tj
+T*
+(As the world focuses on the terrible \(but improving\) Dutch COVID-19 numbers, I also see a lot) Tj
+T*
+(of people interpreting the numbers badly. But we can hardly blame folks since most data is only) Tj
+T*
+(described in Dutch. And even in Dutch the descriptions can be very confusing. So here goes.) Tj
+T*
+(NOTE: Corrections and additional links & sources are very welcome on bert@hubertnet.nl or) Tj
+T*
+(@bert_hu_bert. The main sources The RIVM is the ?Dutch CDC?.) Tj
+T*
+() Tj
+T*
+(20. Some animated Dutch COVID-19 Figures) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 12 Nov 2020 14:23:24 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/some-dutch-covid-19-figures/) Tj
+T*
+(Don?t take this too seriously. As part of my coping mechanisms, I try to understand the latest) Tj
+T*
+(\(Dutch\) COVID-19 figures. I documented where to get the raw data and what they mean in an) Tj
+T*
+(earlier post. Please note I am not trying to make any kind of point with this data, not) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 979 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(positive, not negative. I have no agenda, please do not read this as me trying to argue things) Tj
+T*
+(aren?t that bad or that they are terrible.) Tj
+T*
+() Tj
+T*
+(21. End to End Encryption: Talk for the European Internet Forum at the European Parliament) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 09 Nov 2020 11:03:55 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/end-to-end-encryption-european-internet-forum/) Tj
+T*
+(Around a million years ago \(it feels like\) but actually 9 months ago I delivered a brief talk) Tj
+T*
+(on end to end encryption for the European Internet Forum at the European Parliament. Update: in) Tj
+T*
+(February 2024, the European Court of Human Rights ruled in rather strong words that forcing) Tj
+T*
+(providers to break end to end encryption violates human rights. Sorry, your browser doesn't) Tj
+T*
+(support embedded videos. If you can spare 9 minutes, I recommend watching the video.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004441 00000 n 
+0000004567 00000 n 
+0000009386 00000 n 
+0000009512 00000 n 
+0000014154 00000 n 
+0000014280 00000 n 
+0000019124 00000 n 
+0000019252 00000 n 
+0000024068 00000 n 
+0000024196 00000 n 
+0000025227 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+25355
+%%EOF
