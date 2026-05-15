@@ -1,0 +1,704 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4529 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-15 09:42:32) Tj
+T*
+() Tj
+T*
+(1. Not so locked in any more) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-14T22:53:49+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything) Tj
+T*
+(This Mitchell Hashimoto quote about Bun migrating from Zig to Rust reminded me of a similar) Tj
+T*
+(conversation I had at a conference last week. I was talking to someone who worked for a medium) Tj
+T*
+(sized technology company with a pair of legacy/ legendary iPhone and Android apps. They told me) Tj
+T*
+(they had just completed a coding-agent driven rewrite of both apps to React Native. I asked why) Tj
+T*
+(they chose that, given that coding agents presumably drive down the cost of maintaining) Tj
+T*
+(separate iPhone and Android apps. They said that React Native has improved a lot over the past) Tj
+T*
+(few years and covered everything their apps needed to do. And... if it turned out to be the) Tj
+T*
+(wrong decision, they could just port back to native in the future. Like Mitchell said:) Tj
+T*
+(Programming languages used to be LOCK IN, and they're increasingly not so. Tags: react ,) Tj
+T*
+(coding-agents , ai-assisted-programming , generative-ai , ai , llms) Tj
+T*
+() Tj
+T*
+(2. Quoting Mitchell Hashimoto) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-14T22:31:20+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything) Tj
+T*
+([...] On the interesting side is how fungible programming languages are nowadays. Programming) Tj
+T*
+(languages used to be LOCK IN, and they're increasingly not so. You think the Bun rewrite in) Tj
+T*
+(Rust is good for Rust? Bun has shown they can be in probably any language they want in roughly) Tj
+T*
+(a week or two. Rust is expendable. Its useful until its not then it can be thrown out. That's) Tj
+T*
+(interesting! ? Mitchell Hashimoto , on Bun porting from Zig to Rust Tags: zig , ai ,) Tj
+T*
+(mitchell-hashimoto , llms , rust , generative-ai , agentic-engineering , bun) Tj
+T*
+() Tj
+T*
+(3. datasette-ip-rate-limit 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-14T04:10:23+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything) Tj
+T*
+(Release: datasette-ip-rate-limit 0.1a0 The datasette.io site was being hammered by) Tj
+T*
+(poorly-behaved crawlers, so I had Codex \(GPT-5.5 xhigh\) build a configurable rate limiting) Tj
+T*
+(plugin to block IPs that were hammering specific areas of the site too quickly. Here's the) Tj
+T*
+(production configuration I'm using on that site for the new plugin: datasette-ip-rate-limit :) Tj
+T*
+(header : Fly-Client-IP max_keys : 10000 exempt_paths : - " /static/* " - " /-/turnstile* ") Tj
+T*
+(rules : - name : demo-databases paths : - " /global-power-plants/* " - " /legislators/* ") Tj
+T*
+(window_seconds : 60 max_requests : 60 block_seconds : 20 Tags: datasette , rate-limiting ,) Tj
+T*
+(codex) Tj
+T*
+() Tj
+T*
+(4. ?Musk v. Altman? Closing Arguments) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-15T00:57:38Z) Tj
+T*
+(Link: https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-argument) Tj
+T*
+(s-analysis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImhxZzBnTXFpSk8iLCJwIjoiL2FpLWFydGlmaWNpYWwt) Tj
+T*
+(aW50ZWxsaWdlbmNlLzkzMTAwNi9tdXNrLXYtYWx0bWFuLWNsb3NpbmctYXJndW1lbnRzLWFuYWx5c2lzIiwiZXhwIjoxNzc) Tj
+T*
+(5MjM2OTUwLCJpYXQiOjE3Nzg4MDQ5NTB9.TXQtcV9vkuuKyqcrMaKtSqqoL9_wGWeSYgUyO6ZzK-Y) Tj
+T*
+(Elizabeth Lopatto, reporting for The Verge \(gift link\): Today was closing arguments in the Musk) Tj
+T*
+(v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just) Tj
+T*
+(witnessed. Steven Molo, Musk?s lawyer, stumbled over his words. He at one point called Greg) Tj
+T*
+(Brockman ? a co-defendant ? Greg Altman. He erroneously claimed that Musk wasn?t asking for) Tj
+T*
+(money and had to be corrected by the judge. He made it clear we?ve heard from many liars over) Tj
+T*
+(the past few weeks, but offered little evidence for Musk?s actual legal claims. OpenAI?s) Tj
+T*
+(lawyer, Sarah Eddy, countered this by simply arranging the mountain of evidence that the) Tj
+T*
+(company introduced in chronological order. She didn?t spend time trying to pretend anyone in) Tj
+T*
+(this trial is especially reliable. She did, however, get the zinger of the day, about Musk:) Tj
+T*
+(?Even the mother of his children can?t back his story.? William Savitt, who took the defendant) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4480 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(baton after her presentation, demonstrated the number of times Musk ?didn?t recall? some) Tj
+T*
+(critical detail ? and wondered how a sophisticated businessman couldn?t understand or read a) Tj
+T*
+(four-page term sheet OpenAI had sent to him. I found myself wondering, again, why we were a...) Tj
+T*
+() Tj
+T*
+(5. Let?s Run a Neologism Poll) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-15T00:53:54Z) Tj
+T*
+(Link: https://mastodon.social/@gruber/116575825801893849) Tj
+T*
+(After posting the previous item referencing dickpanels , a term I?ve been using since 2022 , it) Tj
+T*
+(occurred me that they could also be called dickovers \(like popovers, but dickheaded\). The) Tj
+T*
+(latter sounds more clever, but I worry it?s less clear. I?m seldom so indecisive, so I?m) Tj
+T*
+(running a Mastodon poll. ?) Tj
+T*
+() Tj
+T*
+(6. The Youth AI Safety Institute Has Margrethe Vestager?s Backing) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-15T00:03:13Z) Tj
+T*
+(Link: https://www.euronews.com/next/2026/05/12/margrethe-vestager-backs-new-ai-safety-institute) Tj
+T*
+(-for-children-after-decade-regulating-big-) Tj
+T*
+(Una Hajdari, reporting for Euronews: A new independent institute dedicated to making artificial) Tj
+T*
+(intelligence safer for children will beformally [ sic ] presented at the Danish Parliament on) Tj
+T*
+(Tuesday, with former European Commission executive vice-president Margrethe Vestager among) Tj
+T*
+(those co-hosting the event. The institute?s approach, as explained in a statement before the) Tj
+T*
+(launch, is ?modelled on independent crash-test ratings? for cars. The idea, ostensibly, is that) Tj
+T*
+(just as consumers can check whether a vehicle is safe before buying it, parents should be able) Tj
+T*
+(to do the same for the AI their children use. Quite what a crash test looks like for a chatbot,) Tj
+T*
+(the institute does not yet say. Hopefully their AI crash testing winds up more effective than) Tj
+T*
+(the GDPR ?cookie? initiative overseen by Vestager, which led to the nonsense that required me) Tj
+T*
+(to click through this ridiculous full-window dickpanel just to read the story. \(I love that the) Tj
+T*
+(dickpanel is titled ?We value your privacy? and then begins with the sentence, ?With your) Tj
+T*
+(agreement, we and our 399 partners use cookies or similar technologies to store, access, and) Tj
+T*
+(process personal data like your visit on this website, IP addresses and...) Tj
+T*
+() Tj
+T*
+(7. A constant-space linear-time algorithm for deleting all but the 10 most recent files in) Tj
+T*
+(a directory) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 14 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260514-00/?p=112322) Tj
+T*
+(Using data structures you already knew. The post A constant-space linear-time algorithm for) Tj
+T*
+(deleting all but the 10 most recent files in a directory appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Why do Windows client editions on 32-bit x86 systems artificially limit RAM to 4 GB?) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 12 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316) Tj
+T*
+(Compatibility, of course. The post Why do Windows client editions on 32-bit x86 systems) Tj
+T*
+(artificially limit RAM to 4 GB? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. It's funny because it's true) Tj
+T*
+(Source: iDiallo.com | Published: Thu, 14 May 2026 07:13:34 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/its-funny-because-its-true?src=feed) Tj
+T*
+(I made a joke online. Based on Internet upvote points, it was pretty funny. OK, I didn't come) Tj
+T*
+(up with the joke, but it was a perfectly timed reference. A few days back, Cliff Stoll, of the) Tj
+T*
+(Klein bottles, submitted a post on hackernews titled: Rumors of my death are slightly) Tj
+T*
+(exaggerated First of all, I was surprised that Cliff frequents hackernews. Second, I didn't) Tj
+T*
+(know that he was supposed to be dead. Yet, he wasn't since he is writing to say that he isn't) Tj
+T*
+(dead. Apparently, there was a post on facebook that told his story and claimed that he had died) Tj
+T*
+(in May of 2024. I was shocked to hear it. I've always admired Cliff and his work. But then) Tj
+T*
+(again, he was the one who posted it on HN. Large language models learn facts by scraping the) Tj
+T*
+(web, including facebook. So an LLM had ingested this information and regurgitated the) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4980 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(information as fact. Wikipedia also used the facebook post as reference for his death. AI) Tj
+T*
+(hallucinations are getting ambitious. A couple people recently emailed, asking whether the) Tj
+T*
+(Klein bottle business was still operating after my death. ?Huh?? I thought. ?I ain?t dead yet.?) Tj
+T*
+(After some digging, I discovered the source: an AI-generated review of The Cuckoo?s Egg) Tj
+T*
+(circula...) Tj
+T*
+() Tj
+T*
+(10. I've finally ported DWiki from Python 2 to Python 3) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-15T00:18:27Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/python/DWikiPython3Now) Tj
+T*
+(DWiki is the pile of code that underlies Wandering Thoughts . It started out many years ago as) Tj
+T*
+(a Python 2 program \(partly because there was no Python 3 at the time\), and it stayed that way) Tj
+T*
+(for a long time , making it the most significant and by far the most substantial Python 2) Tj
+T*
+(program I still cared deeply about. Years ago I said I'd port it to Python 3 someday and) Tj
+T*
+(somewhat to my surprise, that day has now come \(well, it came yesterday\). The direct trigger) Tj
+T*
+(was discovering that Python 3.13 had dropped 2to3 , which made me feel that I should run 2to3) Tj
+T*
+(over DWiki 's current Python 2 code base while I still could \( I had an old conversion from) Tj
+T*
+(many years ago , but that converted code base was very out of date\). One thing led to another,) Tj
+T*
+(as it often does with me, and I wound up doing a full port and then putting it into production,) Tj
+T*
+(which is to say serving this blog . I suspect that part of me just felt it was time. \( The 2to3) Tj
+T*
+(removal is in the Python 3.13 release notes , and it comes after 2to3 and its infrastructure) Tj
+T*
+(were deprecated in 3.11 for reasonable reasons.\) As I expected years ago , the stuff that 2to3) Tj
+T*
+(could handle was the easy part. Much of the actual work of the port was sorti...) Tj
+T*
+() Tj
+T*
+(11. A GNU Emacs learning experience with text-mode hooks) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-14T17:53:00Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTextModeHooksGotcha) Tj
+T*
+(For a while, one of my little irritations with my Emacs environment was that sometimes, when I) Tj
+T*
+(fired up Emacs to edit some code and then quit out of it, Emacs would complain that there was) Tj
+T*
+(still an ispell process running and ask me what to do with it. This was especially mysterious) Tj
+T*
+(to me as I don't normally use flyspell-prog-mode \(I find it too irritating for general use\).) Tj
+T*
+(Recently I got sufficiently irritated to use a combination of the ELisp debugger and strategic) Tj
+T*
+(' \(message ...\) ' usage to track this down, which initially looked like one issue and actually) Tj
+T*
+(turned out to be another one that I discovered only as part of writing this entry. One of the) Tj
+T*
+(major modes in GNU Emacs is text-mode. I have a text-mode hook, probably like many people, and) Tj
+T*
+(one of the things it does is turn on flyspell-mode in that buffer, which causes flyspell to) Tj
+T*
+(invoke ispell and thus start an ispell process. It's also my custom from long ago to set the) Tj
+T*
+(default major mode of buffers to text-mode \(the out of the box default is fundamental-mode\). If) Tj
+T*
+(I'm editing something and it's not program source code, it's almost always text and having to) Tj
+T*
+(say 'M-x text-mode' all the time is the kind of annoyance GNU Emacs i...) Tj
+T*
+() Tj
+T*
+(12. Going from a ZFS object ID to its path the easier way) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-14T02:53:39Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSObjectIdToPath) Tj
+T*
+(It's not uncommon that people using filesystems want to map from an internal object number \(an) Tj
+T*
+('inode number' for normal filesystems, an object id or object number in ZFS\) to a path. ZFS) Tj
+T*
+(itself wants to do this efficiently for things like ' zfs diff ' and the ' zpool status ') Tj
+T*
+(report on what files are damaged. To help with this, ZFS stores the likely parent object for) Tj
+T*
+(every normal filesystem object . If you use zdb to do a sufficiently verbose dump of any) Tj
+T*
+(particular object, you can find this as the 'parent' attribute. If you want to do this mapping) Tj
+T*
+(yourself, you can use zdb or something like it to manually follow these 'parent' pointers \(and) Tj
+T*
+(also look up the name of everything in its parent directory\). However, that would require high) Tj
+T*
+(privileges, and ZFS doesn't want to make things like ' zpool status ' require that, so the) Tj
+T*
+(kernel and libzfs expose an API for this. In libzfs, this is ' zpool_obj_to_path\(\) ', which) Tj
+T*
+(uses the kernel's ZFS_IOC_OBJ_TO_PATH ioctl\(\). Because it's intended for internal usage, this) Tj
+T*
+(API doesn't take a pool and filesystem name \(in addition to the object ID\); instead it takes a) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4338 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(pool handle and a dataset ID. It's up to callers, such as ' zpool status ', to do t...) Tj
+T*
+() Tj
+T*
+(13. Catch Flakes On Main) Tj
+T*
+(Source: matklad | Published: 2026-05-14T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/05/14/catch-flakes-on-main.html) Tj
+T*
+(A small Mechanical Habit today:) Tj
+T*
+() Tj
+T*
+(14. Building a clock from salvaged Vacuum Fluorescent Displays) Tj
+T*
+(Source: Maurycy's Blog | Published: Thu, 14 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/projects/tubeclock/) Tj
+T*
+(When was disassembling an old calculator \(as you do\) I found these cool VFD tubes: Normally, a) Tj
+T*
+(whole display is built into a single flat package, which doesn't look particularly interesting.) Tj
+T*
+(These ones have the individual digits inside a standard vacuum-tube housing, which gives them a) Tj
+T*
+(cool nixie-esque look. Because vacuum tubes are rather archaic components , they deserve some) Tj
+T*
+(introduction. The simplest tube has two electrodes: A filament and anode plate. Similar to an) Tj
+T*
+(old-school lightbulb, the filament is a tungsten wire that heats up when a current passes) Tj
+T*
+(through it. On a microscopic scale, heat is vibration of atoms ? which knocks some \(negatively) Tj
+T*
+(charged\) electrons out of the wire and into the surrounding space. If the plate has a positive) Tj
+T*
+(voltage, it attracts some free electrons which allows a current to flow. If the plate is) Tj
+T*
+(negative, the electrons are repelled and the tube doesn't conduct. This diode configuration is) Tj
+T*
+(useful for power supplies, but most tubes added a wire mesh or "grid" between the other) Tj
+T*
+(electrodes. The grid shields the electric field of the plate, so the electrons near the) Tj
+T*
+(filament only feel the grid's voltage. However, because the grid has a very small ar...) Tj
+T*
+() Tj
+T*
+(15. Amazonbot is finally respecting robots.txt) Tj
+T*
+(Source: Xe Iaso's blog | Published: Thu, 14 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/) Tj
+T*
+(Thanks for giving me a viable business model Amazon!) Tj
+T*
+() Tj
+T*
+(16. Centrality is not vitality) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-14T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/14/centrality-is-not-vitality.html) Tj
+T*
+(Working through the data behind Weekend at Bernie?s and The Mismeasure of Open Source these) Tj
+T*
+(past couple of weeks, I?ve been running into the same metric again and again: PageRank applied) Tj
+T*
+(to package dependency graphs. It turns up in almost every academic paper that wants to say) Tj
+T*
+(something quantitative about a dependency graph, often as the entire definition of) Tj
+T*
+(?criticality? or ?importance? or ?centrality?. It?s in every graph library, it produces one) Tj
+T*
+(number per node, and the graph looks superficially like the web that PageRank was designed for,) Tj
+T*
+(so it tends to be picked up as the default centrality measure when someone needs one.) Tj
+T*
+(Pfeiffer?s MSR 2021 paper on PageRank and truck factor, Mujahid et al.?s ASE 2023 paper on) Tj
+T*
+(recommending alternatives to declining npm packages, Tsakpinis and Pretschner?s 2024 study of) Tj
+T*
+(repository accessibility, Chowdhury and Abdalkareem?s npm trivial-packages paper , and the) Tj
+T*
+(recent Maven Central topology analysis all reach for it as a first-class signal, and a great) Tj
+T*
+(deal of other ecosystem-graph work from the last five years sits in the same territory.) Tj
+T*
+(Dependency graphs are the strongest structure available for mapping how open source ecosystems) Tj
+T*
+(actually con...) Tj
+T*
+() Tj
+T*
+(17. Pluralistic: Kickstarting "The Reverse Centaur's Guide to Life After AI" \(14 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 14 May 2026 11:04:43) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/05/14/who-it-does-it-for/) Tj
+T*
+(Today's links Kickstarting "The Reverse Centaur's Guide to Life After AI": How to be a better) Tj
+T*
+(AI critic. Hey look at this: Delights to delectate. Object permanence: RIP Douglas Adams;) Tj
+T*
+(R2-trashcan; EFF v W3C; RIP shonky Disneyland; Stolen oligarch forks; Anal fisting site) Tj
+T*
+(breached; "Reading With Pictures"; "Napier's Bones"; Trump v his base's welfare. Upcoming) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4358 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(appearances: Berlin, Hay-on-Wye, London, NYC, Edinburgh. Recent appearances: Where I've been.) Tj
+T*
+(Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll) Tj
+T*
+(keep writin' 'em. Colophon: All the rest. Kickstarting "The Reverse Centaur's Guide to Life) Tj
+T*
+(After AI" \(permalink\) My next book, The Reverse Centaur's Guide to Life After AI, will be out) Tj
+T*
+(in about a month ? and \(once again\) Amazon's monopoly audiobook platform refuses to carry it,) Tj
+T*
+(and so \(once again\) I'm pre-selling the audio, ebook and print edition in a Kickstarter) Tj
+T*
+(campaign that proves that DRM-free isn't just the right way to reach an audience, it's also the) Tj
+T*
+(best way to reach them:) Tj
+T*
+(https://www.kickstarter.com/projects/doctorow/the-reverse-centaurs-guide-to-life-after-ai) Tj
+T*
+(Reverse Centaur is a book about the realpolitik and the political economy...) Tj
+T*
+() Tj
+T*
+(18. A few words on DS4) Tj
+T*
+(Source: antirez.com | Published: Fri, 15 May 2026 00:22:45 +0200) Tj
+T*
+(Link: http://antirez.com/news/165) Tj
+T*
+(I didn?t expect DwarfStar 4 \(https://github.com/antirez/ds4\) to become so popular so fast. It) Tj
+T*
+(is clear that there was a need for single-model integration focused local AI experience, and) Tj
+T*
+(that a few things happened together: the release of a quasi-frontier model that is large and) Tj
+T*
+(fast enough to change the game of local inference, and the fact that it works extremely well) Tj
+T*
+(with an extremely asymmetric quants recipe of 2/8 bit, so that 96 or 128GB of RAM are enough to) Tj
+T*
+(run it. And, of course: all the experience produced by the local AI movement in the latest) Tj
+T*
+(years, that can be leveraged more promptly because of GPT 5.5 \(otherwise you can?t build DS4 in) Tj
+T*
+(one week ? and even with all this help you need to know how to gently talk to LLMs\). The last) Tj
+T*
+(week was funny and also tiring, I worked 14 hours per day on average. My normal average is 4/6) Tj
+T*
+(since early Redis times, but the first few months of Redis were like that. So, what?s next? Is) Tj
+T*
+(this a project that starts and ends with DeepSeek v4 Flash? Nope, the model can change over) Tj
+T*
+(time. The space will be occupied, in my vision, by the best current open weights model that is) Tj
+T*
+(*practically fast* on a high end Mac or ?GPU in a box? gear \(like the DG...) Tj
+T*
+() Tj
+T*
+(19. The Biz Reaper) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-05-14T03:50:47Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis) Tj
+T*
+(If Byron Allen shows up at your door, you did something wrong with your media business. And) Tj
+T*
+(BuzzFeed has a visitor. Also: I built a thing.) Tj
+T*
+() Tj
+T*
+(20. Welcoming the Bahamian Government to Have I Been Pwned) Tj
+T*
+(Source: Troy Hunt | Published: Thu, 14 May 2026 03:49:29 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/) Tj
+T*
+(Today, we welcome the 44th government onboarded to Have I Been Pwned?s free gov service: The) Tj
+T*
+(Bahamas. The National Computer Incident Response Team of The Bahamas, CIRT-BS, now has access) Tj
+T*
+(to monitor government domains against the data in HIBP. As the national CIRT, CIRT-BS is) Tj
+T*
+(responsible for coordinating) Tj
+T*
+() Tj
+T*
+(21. Managed agents are the new Lambda) Tj
+T*
+(Source: Martin Alderson | Published: Thu, 14 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/managed-agents-are-the-new-lambda/?utm_source=rss&utm_me) Tj
+T*
+(dium=rss&utm_campaign=feed) Tj
+T*
+(Managed agents \(cloud-hosted agent harnesses\) are powerful, but locking yourself into a) Tj
+T*
+(frontier lab's platform now is risky - here's why and what to do instead.) Tj
+T*
+() Tj
+T*
+(22. The First Democratic Tech Alliance Assembly) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 14 May 2026 16:17:12 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/democratic-tech-alliance-may-2026/) Tj
+T*
+(Yesterday I attended the first assembly of the Democratic Tech Alliance \(DTA\), which gathered) Tj
+T*
+(in the European Parliament. Membership of the alliance includes European political groups like) Tj
+T*
+(the Greens/EFA, the liberal/center right Renew Europe, the European People?s Party of Christian) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 1928 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(democratic, conservative and liberal-conservative persuasion and also the Progressive Alliance) Tj
+T*
+(of Socialists and Democrats. This is a broad, quite sane and actually impressive collection of) Tj
+T*
+(political groups, which gives me some hope.) Tj
+T*
+() Tj
+T*
+(23. Galileo's Ground Segment Problem) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 19 Oct 2020 13:55:02 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/galileos-ground-segment-problem/) Tj
+T*
+(The European Global Navigation Satellite System Galileo has recently been suffering from) Tj
+T*
+(frequent "almost disruptions", most likely partially due to Corona, and possibly also due to) Tj
+T*
+(Brexit, but in any case due to some historical stinginess. Before I explain what is going on, I) Tj
+T*
+(should hasten to say that most days of the week, Galileo is working well for most users. But) Tj
+T*
+(for example, Monday the 28th of September, one satellite was off by a stunning 5 meters.) Tj
+T*
+() Tj
+T*
+(24. GNSS Jamming and Spoofing, aka Galileo's Authentication Algorithm Part 3) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 13 Sep 2020 11:49:53 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-3/) Tj
+T*
+(Welcome to part 3 of my series on OSNMA, the proposed Galileo Navigation Message Authentication) Tj
+T*
+(protocol. This part can be read independently from part 1 and part 2, but it might be useful to) Tj
+T*
+(read the introduction to part 1. This post attempts to explain GPS \(GNSS\) jamming and spoofing,) Tj
+T*
+(so it might be a useful read even if you don?t care about Galileo or its authentication. As) Tj
+T*
+(usual, I?ve been helped tremendously by Daniel EstÈvez & many other researchers and Galileo) Tj
+T*
+(professionals, and again I am very greatful for all the links, corrections, suggestions and) Tj
+T*
+(knowledge you provided.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004805 00000 n 
+0000004931 00000 n 
+0000009463 00000 n 
+0000009589 00000 n 
+0000014621 00000 n 
+0000014747 00000 n 
+0000019138 00000 n 
+0000019266 00000 n 
+0000023677 00000 n 
+0000023805 00000 n 
+0000025786 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+25914
+%%EOF
