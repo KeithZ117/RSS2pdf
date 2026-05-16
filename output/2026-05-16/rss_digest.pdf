@@ -1,0 +1,430 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 3941 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-16 09:39:58) Tj
+T*
+() Tj
+T*
+(1. inaturalist-clumper 0.1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-15T23:53:11+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything) Tj
+T*
+(Release: inaturalist-clumper 0.1 Part of the infrastructure I use for publishing my iNaturalist) Tj
+T*
+(sightings on my blog . I've been running this in production for a few weeks now, inspiring some) Tj
+T*
+(iterations on how it works, so I decided to ship a 0.1 release. You can see an example of the) Tj
+T*
+(output in this JSON file . Tags: projects , inaturalist) Tj
+T*
+() Tj
+T*
+(2. Western Gull, Rock Pigeon) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-15T14:42:00+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything) Tj
+T*
+(Western Gull, Rock Pigeon, in Los Angeles Area \(custom\), CA, US I went for a bird walk in the) Tj
+T*
+(morning before PyCon, and we spotted a local seagull enjoying a Starbucks.) Tj
+T*
+() Tj
+T*
+(3. QR code generator) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-15T04:00:49+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything) Tj
+T*
+(Tool: QR code generator Claude helped me build this tool for creating QR codes, for both) Tj
+T*
+(text/URLs and for connecting to WiFi networks. Tags: vibe-coding , tools , generative-ai , ai ,) Tj
+T*
+(llms) Tj
+T*
+() Tj
+T*
+(4. The Talk Show: ?A Sociopathic Father?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-16T01:38:00Z) Tj
+T*
+(Link: https://daringfireball.net/thetalkshow/2026/05/15/ep-447) Tj
+T*
+(Adam Lisagor returns to the show to talk about Hovercraft , his new virtual presentation camera) Tj
+T*
+(app for Mac, and how he?s developing it with AI coding tools. Also, delicious Japanese spite) Tj
+T*
+(sandwich cookies. Sponsored by: Parcel : Track your packages in one place, with native apps for) Tj
+T*
+(iPhone, iPad, Apple Watch, and Mac. Scribe : Instantly capture and optimize workflows so your) Tj
+T*
+(teams and AI agents do their best work. Squarespace : Save 10% off your first purchase of a) Tj
+T*
+(website or domain using code TALKSHOW . ?) Tj
+T*
+() Tj
+T*
+(5. Greg Brockman Officially Takes Control of Products at OpenAI, a Very Stable Well-Run) Tj
+T*
+(Company) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-16T01:37:57Z) Tj
+T*
+(Link: https://www.wired.com/story/openai-reorg-greg-brockman-product/) Tj
+T*
+(Maxwell Zeff, reporting for Wired \(News+ link\): OpenAI told staff on Friday that it would) Tj
+T*
+(reorganize the company as part of an ongoing effort to unify its product offerings, Wired has) Tj
+T*
+(learned. OpenAI cofounder and president Greg Brockman will now lead the company?s product) Tj
+T*
+(strategy, in addition to his work on AI infrastructure, OpenAI confirms to Wired. Brockman was) Tj
+T*
+(previously assigned to oversee OpenAI products on an interim basis while the CEO of AGI) Tj
+T*
+(deployment, Fidji Simo, was on medical leave; the change is now official. [...] The company) Tj
+T*
+(tells Wired that Simo remains on medical leave, and expects her return, noting that she worked) Tj
+T*
+(directly with Brockman on these organizational changes. Yours truly, last month : OpenAI?s work) Tj
+T*
+(environment seems not merely overwhelming, but torturous. I have no reason to believe Simo?s) Tj
+T*
+(medical leave is anything but a legitimate medical leave, but I wouldn?t be surprised if she) Tj
+T*
+(never comes back. \(What?s the point of being CEO of AGI deployment when there is no AGI to) Tj
+T*
+(deploy?\) Her title might as well be ?CEO of Technology That Doesn?t Exist?. ?) Tj
+T*
+() Tj
+T*
+(6. Wanton Destruction of CBS Property) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-15T20:12:09Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=eBKWKu2Rqxc) Tj
+T*
+(?Good night and good luck, motherfuckers.? ?) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4531 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(7. The case of the Create≠File≠Mapping that always reported ERROR_ALREADY_EXISTS) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 15 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260515-00/?p=112327) Tj
+T*
+(Maybe because it already exists? The post The case of the Create≠File≠Mapping that always) Tj
+T*
+(reported ERROR_ ALREADY_ EXISTS appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Recovering the state of xorshift128) Tj
+T*
+(Source: John D. Cook | Published: Fri, 15 May 2026 12:34:29 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/15/xorshift128-state/) Tj
+T*
+(I?ve written a couple posts lately about reverse engineering the internal state of a random) Tj
+T*
+(number generator, first Mersenne Twister then lehmer64. This post will look at xorshift128,) Tj
+T*
+(implemented below. import random # Seed the generator state a: int = random.getrandbits\(32\) b:) Tj
+T*
+(int = random.getrandbits\(32\) c: int = random.getrandbits\(32\) d: int = random.getrandbits\(32\)) Tj
+T*
+(MASK = [?] The post Recovering the state of xorshift128 first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Language Registries Are Unstable by Default) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-15T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html) Tj
+T*
+(Running pip install requests or npm install react against the public registry is the same) Tj
+T*
+(operation, structurally, as running apt install -t unstable against Debian sid , and nobody) Tj
+T*
+(involved talks about it that way. I don?t mean ?unstable? as a synonym for buggy, I mean it in) Tj
+T*
+(the specific sense Debian has used since the late nineties: a pool of packages where new) Tj
+T*
+(versions land the moment a maintainer uploads them, with no promotion gate, no minimum) Tj
+T*
+(residency time, and no quality bar between the upload and your machine. On a language registry) Tj
+T*
+(any authenticated publisher can push any version at any time, the index updates within seconds,) Tj
+T*
+(and any resolver that hasn?t been deliberately configured otherwise will start selecting it on) Tj
+T*
+(the next run. The path from a maintainer pressing enter to an enterprise CI pipeline executing) Tj
+T*
+(the result has nothing in it except whatever the consumer remembered to set up, and most) Tj
+T*
+(consumers haven?t set up anything. Debian sid exists on the explicit understanding that you) Tj
+T*
+(don?t point production at it. The default sources.list on a Debian install points at stable ,) Tj
+T*
+(where packages have spent months in testing , which they only entered after a mandatory st...) Tj
+T*
+() Tj
+T*
+(10. Search engine results are truly terrible) Tj
+T*
+(Source: Maurycy's Blog | Published: Fri, 15 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/misc/search/) Tj
+T*
+(A few months ago, I had the displeasure of trying to use the modern web without an ad-blocker.) Tj
+T*
+(Even though it's is ubiquitous among computer nerds, ad blocking is quite rare even in other) Tj
+T*
+(technical fields. This got me wondering how search engines perform without all the tricks) Tj
+T*
+(people do to get better results. As a test, I wrote a few queries for... common software: ad) Tj
+T*
+(blocker ... obscure, but easy to find information: What is the lowest K-alpha emission energy) Tj
+T*
+(of Molybdenum? ... and few normal\(-ish\) questions: What photodiode circuit should I use? How do) Tj
+T*
+(airplane wings work? Why are brushed motors most efficient at high speeds? Asking a search) Tj
+T*
+(engine questions is almost never the best way to find good information, but it's what I've seen) Tj
+T*
+(a lot of people do. To replicate the experience of a normie/victim I made sure to include the) Tj
+T*
+(AI summary, sponsored results and info boxes: .good {background-color: #050;} .ok) Tj
+T*
+({background-color: #440;} .bad {background-color: #520;} .crap {background-color: #700;} td {) Tj
+T*
+(width: 17%; } li::marker { color: var\(--em-color\); } li { margin-top: 1em; } Ad blocker) Tj
+T*
+(Molybdenum Photodiode Wings Motors Google Bad Ok Crap Ok Crap Bing Bad Ok Crap Ok Crap Kagi) Tj
+T*
+(C...) Tj
+T*
+() Tj
+T*
+(11. UK Government Kicks Out Palantir) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 15 May 2026 05:34:03 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/) Tj
+T*
+(The UK Government, for all its faults, is pretty good at publishing contracts it has awarded.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4325 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(That's why I get depressed when I see rage-bait nonsense about how companies have been award) Tj
+T*
+("Top Secret" deals. Right now you can go to https://www.contractsfinder.service.gov.uk and) Tj
+T*
+(search for whichever bÍte noire has you riled up. You might want to argue that the company is) Tj
+T*
+(corrupt, incompetent, or ?) Tj
+T*
+() Tj
+T*
+(12. Premium: What If...We're In An AI Bubble? \(Part 1\)) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 15 May 2026 16:44:27 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-1/) Tj
+T*
+(Every day I read some sort of wrongheaded extrapolation about the future of AI ? that today?s) Tj
+T*
+(models are somehow indicative of AGI creating a ? permanent underclass ? of people that stops) Tj
+T*
+(people from building software companies, or really doing any kind of job on the computer:) Tj
+T*
+() Tj
+T*
+(13. Eric Jang ? Building AlphaGo from scratch) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Fri, 15 May 2026 16:04:58 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/eric-jang) Tj
+T*
+(AlphaGo is still the cleanest worked example of the primitives of intelligence: search,) Tj
+T*
+(learning from experience, and self-play.) Tj
+T*
+() Tj
+T*
+(14. Pluralistic: No one wants a permanent gerontocracy \(15 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 15 May 2026 12:38:04) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/05/15/not-ok-boomer/) Tj
+T*
+(Today's links No one wants a permanent gerontocracy: The one policy everyone agrees on. Hey) Tj
+T*
+(look at this: Delights to delectate. Object permanence: Wolfengitmo; Facebook condemns Google) Tj
+T*
+(privacy invasion; Michael Moore on bin Laden; TSA v babies; Tendril perversion; "Buy now"; Uber) Tj
+T*
+(Ch\(eats\); Who Broke the Internet \(II\)? Upcoming appearances: Berlin, Hay-on-Wye, London, NYC,) Tj
+T*
+(Edinburgh. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. No one) Tj
+T*
+(wants a permanent gerontocracy \(permalink\) Perhaps the most demoralizing part of Trumpismo is) Tj
+T*
+(the fear that the people around you are so cruel and senseless that they approve of the) Tj
+T*
+(violence, the racism, the pig-ignorant lies and rampant theft:) Tj
+T*
+(https://www.techdirt.com/2025/07/08/who-goes-maga/ One of the things keeping me going in these) Tj
+T*
+(dark days is the pollster G Elliot Morris, whose "Strength in Numbers" newsletter is a) Tj
+T*
+(reliable, robust and nuanced source of information about the way other people ? including) Tj
+T*
+(Trump's base ? feel about him from moment to moment. Reading items like "A reminder: Very few) Tj
+T*
+(people support Donald T...) Tj
+T*
+() Tj
+T*
+(15. Vitamine D: De motorolie voor ons afweersysteem) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 13 Sep 2020 10:43:38 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/vitamine-d-de-motorolie-covid-19/) Tj
+T*
+(We horen veel over hoeveel mensen er nu besmet raken met COVID-19. Tegelijk viel het tot begin) Tj
+T*
+(oktober erg mee met de ziekenhuisopnames en sterfgevallen. Ik kan ook niet verklaren hoe dat) Tj
+T*
+(precies komt \(het is niet alleen leeftijd\), maar ik wil het in dit artikel wel hebben over ?de) Tj
+T*
+(zonlichtvitamine?, vitamine D. Want nu in september hebben we net een zomer lang zon gehad, en) Tj
+T*
+(in maart kwamen we vers uit de winter.) Tj
+T*
+() Tj
+T*
+(16. Galileo's Proposed Authentication Algorithm: Part 2) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 26 Aug 2020 10:43:09 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-2/) Tj
+T*
+(Recapping from part 1: Galileo will soon add cryptographic signatures to the navigation) Tj
+T*
+(messages. These cryptographic signatures are made with symmetric cryptography, which means) Tj
+T*
+(clever techniques are required to prevent receivers from impersonating the network. The key to) Tj
+T*
+(the technique is first signing messages, and only later disclosing the key used for the) Tj
+T*
+(signatures, thus invalidating it for further use. Receivers can however verify that earlier) Tj
+T*
+(signatures were indeed made with that key.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 832 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(17. Galileo's Proposed Authentication Algorithm: Part 1) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 13 Aug 2020 20:50:09 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/) Tj
+T*
+(Position, velocity and time \(PVT\) information can be a ?nice to have?, but in other) Tj
+T*
+(circumstances knowing place and time has legal or military importance as well. Heavy vehicles) Tj
+T*
+(for example are typically outfitted with tachographs that track driver speed and/or location.) Tj
+T*
+(This has importance for rest regulations, but also to check if loads are actually from where) Tj
+T*
+(they say they are. Our Global Navigation Satellite Systems so far are broadcasting) Tj
+T*
+(unauthenticated data, at least to civilian users.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004203 00000 n 
+0000004329 00000 n 
+0000008912 00000 n 
+0000009038 00000 n 
+0000013415 00000 n 
+0000013541 00000 n 
+0000014425 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14553
+%%EOF
