@@ -1,0 +1,638 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4413 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-17 09:40:32) Tj
+T*
+() Tj
+T*
+(1. Warelay -> OpenClaw) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-16T20:23:30+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything) Tj
+T*
+(In preparation for a lightning talk I'm giving at PyCon US this afternoon I decided to figure) Tj
+T*
+(out how many names OpenClaw has actually had since that first commit back in November. Thanks) Tj
+T*
+(to this first_line_history.py tool \( code here \) the answer, according to the Git history of) Tj
+T*
+(the OpenClaw README, is: Warelay ? CLAWDIS ? CLAWDBOT ? Clawdbot ? Moltbot ?? OpenClaw Or in) Tj
+T*
+(detail \(the output from the tool\): 2025-11-24T11:23:15+01:00 16dfc1a # Warelay ? WhatsApp Relay) Tj
+T*
+(CLI \(Twilio\) 2025-11-24T11:41:37+01:00 d4153da # ? Warelay ? WhatsApp Relay CLI \(Twilio\)) Tj
+T*
+(2025-11-24T17:47:57+01:00 343ef9b # ? warelay ? WhatsApp Relay CLI \(Twilio\)) Tj
+T*
+(2025-11-25T04:44:10+01:00 14b3c6f # ? warelay ? WhatsApp Relay CLI 2025-11-25T12:48:40+01:00) Tj
+T*
+(4814021 # ? warelay ? Send, receive, and auto-reply on WhatsApp?Twilio-backed or QR-linked.) Tj
+T*
+(2025-11-25T13:50:18+01:00 d51a3e9 # warelay ? - Send, receive, and auto-reply on WhatsApp via) Tj
+T*
+(Twilio or QR-linked WhatsApp Web; webhook setup in one command 2025-11-25T13:51:13+01:00) Tj
+T*
+(4d2a8a8 # ? warelay ? Send, receive, and auto-reply on WhatsApp?Twilio-backed or QR-linked.) Tj
+T*
+(2025-11-25T14:52:43+01:00 1ef7f4d # ? warelay ? Send, receive, and auto-reply on WhatsApp.) Tj
+T*
+(2025-12-03T15...) Tj
+T*
+() Tj
+T*
+(2. Quoting Julia Evans) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-16T16:45:37+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/16/julia-evans/#atom-everything) Tj
+T*
+([...] in the last 10 years I?ve learned to really love and respect CSS as a technology. So I) Tj
+T*
+(decided years ago that I wanted to react to ?CSS is hard? by getting better at CSS and taking) Tj
+T*
+(it seriously as a technology, instead of devaluing it. Doing that changed everything for me: I) Tj
+T*
+(learned that so many of my frustrations \(?centering is impossible?\) had been addressed in CSS a) Tj
+T*
+(long time ago, and that also what ?centering? means is not always straightforward and it makes) Tj
+T*
+(sense that there are many ways to do it. CSS is hard because it?s solving a hard problem! ?) Tj
+T*
+(Julia Evans , Moving away from Tailwind, and learning to structure my CSS Tags: css ,) Tj
+T*
+(julia-evans) Tj
+T*
+() Tj
+T*
+(3. datasette-llm-limits 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-15T00:42:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything) Tj
+T*
+(Release: datasette-llm-limits 0.1a0 This plugin works in conjunction with datasette-llm and) Tj
+T*
+(datasette-llm-accountant to let you configure a per-user \(or global\) spending limit for LLM) Tj
+T*
+(usage inside of Datasette. Configuration looks something like this: plugins :) Tj
+T*
+(datasette-llm-limits : limits : per-user-daily : scope : actor window : rolling-24h amount_usd) Tj
+T*
+(: 1.00 Tags: llm , datasette) Tj
+T*
+() Tj
+T*
+(4. How I use LLMs as a staff engineer in 2026) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 17 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/how-i-use-llms-in-2026/) Tj
+T*
+(A bit over a year ago I wrote How I use LLMs as a staff engineer . Here?s a brief summary of) Tj
+T*
+(what I used AI for last year: Smart autocomplete with Copilot Short tactical changes in areas I) Tj
+T*
+(don?t know well \(always reviewed by a SME\) Writing lots of use-once-and-throwaway research code) Tj
+T*
+(Asking lots of questions to learn about new topics \(e.g. the Unity game engine\) Last-resort) Tj
+T*
+(bugfixes, just in case it can figure it out immediately Big-picture proofreading for long-form) Tj
+T*
+(English communication Here are some tasks I explicitly didn?t use AI for last year: Writing) Tj
+T*
+(whole PRs for me in areas I?m familiar with Writing ADRs or other technical communications) Tj
+T*
+(Research in large codebases and finding out how things are done February 2025 was a long time) Tj
+T*
+(ago. Back then the best model was the first reasoning model, OpenAI?s o1. Agents sort of) Tj
+T*
+(worked, but would often get stuck or thrown off by compaction. What?s changed since then?) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4934 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Agents are good now The biggest change is that I now use LLMs to produce entire PRs in areas) Tj
+T*
+(I?m familiar with . A year ago I would very occasionally ask an agent to make changes to a) Tj
+T*
+(single file if it was a simple change I couldn?t be bothered typing out. Sometimes I wo...) Tj
+T*
+() Tj
+T*
+(5. DeepSeek-V4-Flash means LLM steering is interesting again) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sat, 16 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/steering-vectors/) Tj
+T*
+(Ever since Golden Gate Claude I?ve been fascinated with ?steering?: the idea that you can guide) Tj
+T*
+(LLM outputs by directly manipulating the activations of the model mid-flight. DeepSeek V4 Flash) Tj
+T*
+(I was inspired to write this post by antirez?s recent project DwarfStar 4 , which is a version) Tj
+T*
+(of llama.cpp that?s been stripped down to run only DeepSeek-V4-Flash. What?s so special about) Tj
+T*
+(this model? It might be what many engineers have been waiting for: a local model good enough to) Tj
+T*
+(compete with at least the low end of frontier model agentic coding. Since steering requires a) Tj
+T*
+(local model, it?s now practical for many engineers to try it out for the first time. And) Tj
+T*
+(indeed, antirez has baked steering into DwarfStar 4 as a first-class citizen. Right now it?s) Tj
+T*
+(very rudimentary \(basically just the toy ?verbosity? example you can replicate via prompting\),) Tj
+T*
+(but the initial release was only eight days ago . I plan to follow this project closely. How) Tj
+T*
+(steering works The basic idea behind steering is extracting a concept \(like ?respond tersely?\)) Tj
+T*
+(from the model?s internal brain state, then reaching in during inference and boosting the) Tj
+T*
+(numerical activations that form that concept. One way you might do this i...) Tj
+T*
+() Tj
+T*
+(6. Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-16T21:22:38Z) Tj
+T*
+(Link: https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-) Tj
+T*
+(to-its-mobile-website/) Tj
+T*
+(Nate Anderson, writing at Ars Technica: But I was surprised this weekend to suddenly find) Tj
+T*
+(myself cut off; Reddit simply would not let me visit the site on my mobile phone. Instead, a) Tj
+T*
+(new overlay popped up, saying, ?Get the app to keep using Reddit.? There was no way to skip,) Tj
+T*
+(bypass, or close the overlay. It did not provide any instructions or alternatives for) Tj
+T*
+(continuing to use the mobile web version. What it did offer was a large button I could press to) Tj
+T*
+(get the app. If I did so, the overlay told me, I would be able to ?search better? and) Tj
+T*
+(?personalize your feed? ? two things I don?t care to do. [...] I reached out to the company to) Tj
+T*
+(ask what was going on. According to a spokesperson, ?We recently started running a test for a) Tj
+T*
+(small subset of frequent logged-out mobile users that prompts them to download the app after) Tj
+T*
+(visiting the site. These users are already familiar with Reddit and we?ve seen that the) Tj
+T*
+(experience is much better for them in the app. The app offers a more personalized experience) Tj
+T*
+(and users can more easily find communities that match their interests.? Yes, they?re doing this) Tj
+T*
+(for the users? benefit. Sure. ?) Tj
+T*
+() Tj
+T*
+(7. Santa Clara County Sues Meta Over Alleged Scam Ads) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-16T21:17:15Z) Tj
+T*
+(Link: https://sanjosespotlight.com/santa-clara-county-sues-meta-over-alleged-scam-ads/) Tj
+T*
+(Brandon Pho, reporting for San Jose Spotlight: The lawsuit filed Monday alleges that instead of) Tj
+T*
+(cracking down on deceptive ads designed to trick users out of their money, Meta has hamstrung) Tj
+T*
+(its own fraud prevention teams and helped fake companies bypass its filters to enable the tech) Tj
+T*
+(powerhouse to enjoy an estimated $7 billion in ad revenue from the scams every year. [...] The) Tj
+T*
+(county lawsuit seeks attorney fees and a ruling barring Meta from further alleged violations of) Tj
+T*
+(false advertising and unfair competition laws. Much of the lawsuit?s allegations stem from a) Tj
+T*
+(2025 Reuters investigation suggesting Meta was at one point involved in one-third of all) Tj
+T*
+(successful Internet scams in the U.S. The company has vowed to fight the lawsuit. ?This claim) Tj
+T*
+(relies on Reuters reporting that distorts our motives and ignores the full range of actions we) Tj
+T*
+(take to combat scams every day,? a spokesperson for the company told San JosÈ Spotlight. ?We) Tj
+T*
+(aggressively fight scams on and off our platforms because they?re not good for us or the people) Tj
+T*
+(and businesses that rely on our services.? Reuters?s Jeff Horwitz and Engen Tham were awarded) Tj
+T*
+(the Pulitzer Prize for Beat Reporting for their reporting on this sto...) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4454 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(8. ? AI Is Technology, Not a Product) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-16T20:32:51Z) Tj
+T*
+(Link: https://daringfireball.net/2026/05/ai_is_technology_not_a_product) Tj
+T*
+(It?s not even a feature. It?s just technology.) Tj
+T*
+() Tj
+T*
+(9. Getting C code navigation even for Debian \(or Ubuntu\) packages) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-16T02:06:07Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/CCodeIntelligenceForDebs) Tj
+T*
+(Every so often, I want \(or need\) to make modifications to programs in an Ubuntu package, and) Tj
+T*
+(often the programs are written in C \(and these days I'm using dgit to manipulate the package \).) Tj
+T*
+(One of my challenges when I do this is that I generally don't start out knowing where and how) Tj
+T*
+(to change the code to do what I want; instead, I have to navigate around an unfamiliar code) Tj
+T*
+(base and work out enough of its structure to find the specific bit of code I need to change.) Tj
+T*
+(These days, the dominant way to get smart code navigation and other code knowledge things is) Tj
+T*
+(through LSP servers and clients . A variety of modern and semi-modern languages have LSP) Tj
+T*
+(servers that you can immediately use in your editor of choice and then navigate around random) Tj
+T*
+(code bases with handy features like 'find definition' and 'find references' \(for example, Go,) Tj
+T*
+(Python, and Rust\). Unfortunately, C isn't such a language. In the general case, understanding C) Tj
+T*
+(code requires knowing how it's compiled, and that means you often have to tell C LSP servers) Tj
+T*
+(this information. Well, specifically you have to tell this stuff to clangd , the dominant LSP) Tj
+T*
+(server for C and C++. \(There's also ccls , which may work out part of this inf...) Tj
+T*
+() Tj
+T*
+(10. Make ZIP files smaller with ZIP Shrinker) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Sat, 16 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/) Tj
+T*
+(I built ZIP Shrinker, a little browser tool to shrink ZIP files. It also works with formats) Tj
+T*
+(that are secretly ZIPs underneath, like APK, EPUB, JAR, and many more. Try it out! How does it) Tj
+T*
+(work? At a high level, this tool \(1\) re-compresses every file in the ZIP archive with higher) Tj
+T*
+(compression \(2\) removes all metadata \(3\) removes entries for directories. Re-compressing ZIP) Tj
+T*
+(files are typically compressed with an algorithm called Deflate . There are a few tools that) Tj
+T*
+(can re-compress Deflate data and make it smaller, usually by spending more time on the) Tj
+T*
+(computation. I took one of these tools, libdeflate , and applied it to each compressed entry in) Tj
+T*
+(the ZIP. I chose libdeflate because of its performance; alternatives like Zopfli can achieve) Tj
+T*
+(marginally smaller results but take much longer. I created libdeflate.js , a WebAssembly) Tj
+T*
+(wrapper for libdeflate, as part of this work. \(I always relish my time working with WASM!\)) Tj
+T*
+(Removing metadata and directories Each entry in a ZIP file can contain additional metadata like) Tj
+T*
+(comments. These aren?t typically used, and if they?re there, my shrinker removes them. This) Tj
+T*
+(usually doesn?t save too many bytes, but it doesn?t hurt. Removing directories is a sligh...) Tj
+T*
+() Tj
+T*
+(11. Reading List 05/16/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 16 May 2026 12:01:26 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-051626) Tj
+T*
+(Tokyo?s cheap housing and expensive land, the House response to the Senate housing bill, an IED) Tj
+T*
+(near an Alabama dam, Fervo?s IPO, and more.) Tj
+T*
+() Tj
+T*
+(12. Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the) Tj
+T*
+(American empire \(16 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 16 May 2026 08:35:41) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/05/16/technopoly/) Tj
+T*
+(Today's links Making sense of Trump's unscheduled sudden midair disassembly of the American) Tj
+T*
+(empire: Don't mistake "powerful" for "durable." Hey look at this: Delights to delectate. Object) Tj
+T*
+(permanence: Copyrighted law; Viral videos v cops; Crooked banker v tiny bat; "Infested"; Can) Tj
+T*
+(the means of computation be seized? Upcoming appearances: Berlin, Hay-on-Wye, London, LA, Menlo) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4315 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Park, NYC, Edinburgh. Recent appearances: Where I've been. Latest books: You keep readin' em,) Tj
+T*
+(I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the) Tj
+T*
+(rest. Making sense of Trump's unscheduled sudden midair disassembly of the American empire) Tj
+T*
+(\(permalink\) For generations, the American empire was the most powerful force on earth, and so) Tj
+T*
+(we tended to assume that it was the most durable force on earth ? surely anything so powerful) Tj
+T*
+(must also be eternal? But power and durability aren't the same thing, as Le Guin reminded us) Tj
+T*
+(with her oft-quoted maxim that "We live in capitalism, its power seems inescapable ? but then,) Tj
+T*
+(so did the divine right of kings": https://www.ursulakleguin.com/nbf-medal Monarchs may be) Tj
+T*
+(powerful, but that power is derived from a manifestly incorrect belief in spe...) Tj
+T*
+() Tj
+T*
+(13. The Applicability of Spaced Repetition) Tj
+T*
+(Source: Fernando Borretti | Published: Sun, 17 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://borretti.me/article/the-applicability-of-spaced-repetition) Tj
+T*
+(On factual vs. conceptual knowledge.) Tj
+T*
+() Tj
+T*
+(14. Five Minutes of Prime Time) Tj
+T*
+(Source: Susam Pal | Published: 2026-05-16T00:00:00Z) Tj
+T*
+(Link: https://susam.net/five-minutes-of-prime-time.html) Tj
+T*
+(Let me share a very silly story from roughly 18 years ago! In 2008, I joined RSA , the network) Tj
+T*
+(security company named after the initials of the inventors of the RSA algorithm, Rivest, Shamir) Tj
+T*
+(and Adleman, who were also the founders of RSA, the company. There was a bit of a nerd culture) Tj
+T*
+(in the workplace where topics like prime numbers, combinatorics, probability theory, etc. were) Tj
+T*
+(discussed fervently. A prime-number employee number was considered a lucky charm. I had a) Tj
+T*
+(rather nice large five-digit prime number as my employee number, which I remember being quite) Tj
+T*
+(pleased about. There were internal forums for almost all kinds of topics. A few I remember) Tj
+T*
+(fondly were a mathematics forum where colleagues would challenge each other with mathematical) Tj
+T*
+(puzzles and a similar physics forum where, for some reason, crafting contrived paradoxes using) Tj
+T*
+(special and general relativity and putting them up for debate was a common activity. The) Tj
+T*
+(participants would analyse each paradox to determine if it truly was one or if it could be) Tj
+T*
+(resolved into something that was no longer a paradox. I loved hanging out on those forums and) Tj
+T*
+(made many friends there. The mathematics forum, in particular, gave me plenty of...) Tj
+T*
+() Tj
+T*
+(15. The mistake of conflating intelligence and power) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Sat, 16 May 2026 19:04:16 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence) Tj
+T*
+(f this is your definition of intelligence is the ability to achieve your goals across a wide) Tj
+T*
+(variety of domains, then Stalin was the most intelligent person who ever lived.) Tj
+T*
+() Tj
+T*
+(16. Notes on pretraining parallelisms and failed training runs.) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Sat, 16 May 2026 19:01:16 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/notes-on-pretraining-parallelisms) Tj
+T*
+(Deeply researched interviews) Tj
+T*
+() Tj
+T*
+(17. RLVR might be disproportionately bad at science) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Sat, 16 May 2026 19:00:59 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/rlvr-might-be-disproportionately) Tj
+T*
+(the verification loop for theories can be on the order of decades and centuries, and even then) Tj
+T*
+(we know today as the better theory can often actually make worse predictions) Tj
+T*
+() Tj
+T*
+(18. The Tomy Tutor and the state of 1983 home computers) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-05-16T18:09:46.083-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/05/the-tomy-tutor-and-state-of-1983-home.html) Tj
+T*
+(The Tomy Tutor was my first computer, in late 1983. I was seven and we got it at Federated .) Tj
+T*
+(I've acquired several more since then, but this is the actual one I used and it still works) Tj
+T*
+(perfectly. Using a design modeled on the doomed Texas Instruments 99/8, one of several) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4367 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(unreleased successors to the TI 99/4A, the Tomy Tutor and its overseas siblings, the Japanese) Tj
+T*
+(Pyuuta \(????\) series, promised an easy kid-friendly introduction to computers with a durable) Tj
+T*
+(case, nice graphics and sound, games on cartridge, and two, count 'em, two internal dialects of) Tj
+T*
+(BASIC \(one on early systems\). It had 16K of RAM, though this was entirely tied up in the 9918A) Tj
+T*
+(video display processor with only 256 bytes of RAM directly addressible by its 2.7MHz TMS 9995) Tj
+T*
+(CPU, and of Tomy's promised peripherals only game controllers and a tape deck were ever) Tj
+T*
+(offered. Still, despite the bowdlerized operating system and bupkis contemporary expansion) Tj
+T*
+(options, the Tutor was nevertheless one of the first true 16-bit home computers, and as part of) Tj
+T*
+(the 1983 low-end home system cavalcade, an inexpensive choice as well. Another thing the Tomy) Tj
+T*
+(doesn't have much of is history: the story of its development is rather murky, and mo...) Tj
+T*
+() Tj
+T*
+(19. SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Sat, 16 May 2026 13:35:14 GMT) Tj
+T*
+(Link: https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-) Tj
+T*
+(the-web) Tj
+T*
+(This is the eighth and final chapter of my SQLAlchemy 2 in Practice book. If you'd like to) Tj
+T*
+(support my work, I encourage you to buy this book, either directly from my store or on Amazon .) Tj
+T*
+(Thank you! Whether you are building a traditional web application, or a web API that works) Tj
+T*
+(alongside a web front end or smartphone app, SQLAlchemy is one of the best choices to add) Tj
+T*
+(database support to a Python web server. In this chapter two example integrations with Flask) Tj
+T*
+(and FastAPI will be demonstrated. These are two of the most popular Python web frameworks and) Tj
+T*
+(should serve as examples even if you use another web framework.) Tj
+T*
+() Tj
+T*
+(20. Corona-update Eind Juli) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 25 Jul 2020 14:42:06 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-update-eind-juli/) Tj
+T*
+(Toch weer een kleine Corona-update, vrij snel na de vorige van 1 juli. Want poeh, gaat het nou) Tj
+T*
+(ineens weer mis in Nederland? Of valt het mee? Moeten we allemaal aan de maskers en komt het) Tj
+T*
+(dan goed? En gaan de vaccins en medicijnen ons redden voor de winter? In tegenstelling tot vele) Tj
+T*
+(roeptoeters heb ik daar ook allemaal geen zekere antwoorden op, maar hier toch een set updates) Tj
+T*
+(over de meest recente ontwikkelingen.) Tj
+T*
+() Tj
+T*
+(21. Multi-Signal GNSS & the Curious Case of Galileo E24: Part 1) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 18 Jul 2020 09:07:23 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/the-curious-case-of-galileo-e24/) Tj
+T*
+(GPS, GLONASS, Galileo, BeiDou \(Global Navigational Satellite Systems, GNSS\) are miracles of) Tj
+T*
+(engineering. And within any complex system hide surprises and unsuspected complications. In) Tj
+T*
+(this post I go over how we resolved an odd observation: that everyone \(including major) Tj
+T*
+(institutions\) reported that one of the Galileo satellites \(E24\) appeared to be off by 1.5) Tj
+T*
+(meters, while actual positioning equipment \(like phones\) showed no problems at all. Through the) Tj
+T*
+(explanation, we?ll casually learn a thing or two about the cool concept of multi-frequency) Tj
+T*
+(GNSS.) Tj
+T*
+() Tj
+T*
+(22. Review of the Uputronics GPS/RTC Raspberry Pi Expansion Board) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 09 Jul 2020 13:38:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/uputronics-gps-rtc-expansion-board/) Tj
+T*
+(Hi everyone, Disclaimer: this is a review of a free sample I got sent by Uputronics. I recently) Tj
+T*
+(spotted on Twitter that Uputronics had launched a GPS/RTS Raspberry Pi Expansion Board, and) Tj
+T*
+(that they were looking for worthy projects to test it. I thought our Galileo/GPS/BeiDou/GLONASS) Tj
+T*
+(monitoring project galmon.eu might be worthy and Uputronics agreed. Relevant for our purposes,) Tj
+T*
+(this is an actual ?timing receiver?. Any GNSS chip will get you a location, but some of them go) Tj
+T*
+(the extra mile to also deliver a very stable clock signal.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004682 00000 n 
+0000004808 00000 n 
+0000009794 00000 n 
+0000009920 00000 n 
+0000014426 00000 n 
+0000014552 00000 n 
+0000018920 00000 n 
+0000019048 00000 n 
+0000023468 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+23596
+%%EOF
