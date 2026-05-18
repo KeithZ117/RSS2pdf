@@ -1,0 +1,416 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4410 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-18 09:46:40) Tj
+T*
+() Tj
+T*
+(1. GDS weighs in on the NHS's decision to retreat from Open Source) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-17T15:59:41+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything) Tj
+T*
+(GDS weighs in on the NHS's decision to retreat from Open Source Terence Eden continues his) Tj
+T*
+(coverage of the NHS' poorly considered decision to close down access to their open source) Tj
+T*
+(repositories in response to vulnerabilities reported to them as part of Project Glasswing . Now) Tj
+T*
+(the Government Digital Service have joined the conversation with AI, open code and) Tj
+T*
+(vulnerability risk in the public sector , published May 14th. Their key recommendation: Keep) Tj
+T*
+(open by default. Making everything private adds additional delivery and policy costs, and can) Tj
+T*
+(reduce reuse and scrutiny. Openness should remain the default posture, with closure used) Tj
+T*
+(sparingly and deliberately. While they don't mention the NHS by name, Terence speaks the) Tj
+T*
+(language of the civil service and interprets this as a major escalation: Within the UK's Civil) Tj
+T*
+(Service you occasionally hear the expression "being invited to a meeting without biscuits ". It) Tj
+T*
+(implies a rather frosty discussion without any of the polite niceties of a normal meeting. In) Tj
+T*
+(general though, even when people have severe disagreements, it is rare for tempers to fray. It) Tj
+T*
+(is even rarer for those internal disagreements to spill over into public. Tags: open-source) Tj
+T*
+(,...) Tj
+T*
+() Tj
+T*
+(2. llm 0.32a2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-12T17:45:07+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/12/llm/#atom-everything) Tj
+T*
+(Release: llm 0.32a2 A bunch of useful stuff in this LLM alpha, but the most important detail is) Tj
+T*
+(this one: Most reasoning-capable OpenAI models now use the /v1/responses endpoint instead of) Tj
+T*
+(/v1/chat/completions . This enables interleaved reasoning across tool calls for GPT-5 class) Tj
+T*
+(models. #1435 This means you can now see the summarized reasoning tokens when you run prompts) Tj
+T*
+(against an OpenAI model, displayed in a different color to standard error. Use the -R or) Tj
+T*
+(--hide-reasoning flags if you don't want to see that. Tags: llm , projects , openai ,) Tj
+T*
+(generative-ai , annotated-release-notes , ai , llms) Tj
+T*
+() Tj
+T*
+(3. Using LLM in the shebang line of a script) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-11T18:48:57+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything) Tj
+T*
+(TIL: Using LLM in the shebang line of a script Kim_Bruning on Hacker News : But seriously, you) Tj
+T*
+(can put a shebang on an english text file now \(if you're sufficiently brave\) [...] This) Tj
+T*
+(inspired me to look at patterns for doing exactly that with LLM . Here's the simplest, which) Tj
+T*
+(takes advantage of LLM fragments : #!/usr/bin/env -S llm -f Generate an SVG of a pelican riding) Tj
+T*
+(a bicycle But you can also incorporate tool calls using the -T name_of_tool option:) Tj
+T*
+(#!/usr/bin/env -S llm -T llm_time -f Write a haiku that mentions the exact current time Or even) Tj
+T*
+(execute YAML templates directly that define extra tools as Python functions: # !/usr/bin/env -S) Tj
+T*
+(llm -t model : gpt-5.4-mini system : | Use tools to run calculations functions : | def add\(a:) Tj
+T*
+(int, b: int\) -> int: return a + b def multiply\(a: int, b: int\) -> int: return a * b Then:) Tj
+T*
+(./calc.sh 'what is 2344 * 5252 + 134' --td Which outputs \(thanks to that --td tools debug) Tj
+T*
+(option\): Tool call: multiply\({'a': 2344, 'b': 5252}\) 12310688 Tool call: add\({'a': 12310688,) Tj
+T*
+('b': 134}\) 12310822 2344 ◊ 5252 + 134 = **12,310,822** Read the full TIL for a more complex) Tj
+T*
+(example that uses the Datasette SQL API to answer questions about content on my blog. Tags:...) Tj
+T*
+() Tj
+T*
+(4. Drata) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-17T17:59:15Z) Tj
+T*
+(Link: https://drata.com/daring) Tj
+T*
+(My thanks to Drata for sponsoring last week at DF. Their message is short and sweet: Leverage) Tj
+T*
+(autonomous AI agents to automate compliance, manage internal and third-party risk, and) Tj
+T*
+(continuously prove your security posture. ?) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4667 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(5. ArXiv to Ban Researchers for a Year if They Submit AI Slop) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-16T19:27:34Z) Tj
+T*
+(Link: https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/) Tj
+T*
+(Samantha Cole, writing for 404 Media: Late Thursday evening, Thomas Dietterich, chair of the) Tj
+T*
+(computer science section of ArXiv, wrote on X : ?If generative AI tools generate inappropriate) Tj
+T*
+(language, plagiarized content, biased content, errors, mistakes, incorrect references, or) Tj
+T*
+(misleading content, and that output is included in scientific works, it is the responsibility) Tj
+T*
+(of the author\(s\). We have recently clarified our penalties for this. If a submission contains) Tj
+T*
+(incontrovertible evidence that the authors did not check the results of LLM generation, this) Tj
+T*
+(means we can?t trust anything in the paper.? [...] ?The penalty is a 1-year ban from arXiv) Tj
+T*
+(followed by the requirement that subsequent arXiv submissions must first be accepted at a) Tj
+T*
+(reputable peer-reviewed venue,? Dietterich wrote. Dietterich told me in an email on Friday) Tj
+T*
+(morning that this is a one-strike rule ? meaning authors caught just once including AI slop in) Tj
+T*
+(submissions will be banned ? but that decisions will be open to appeal. I see no cognitive) Tj
+T*
+(dissonance in being pro-AI, in general, but vehemently anti-slop. ?) Tj
+T*
+() Tj
+T*
+(6. Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-15T19:24:10Z) Tj
+T*
+(Link: https://dropoverapp.com/) Tj
+T*
+(Yesterday, regarding the ?Magic Cursor? feature Google teased for its upcoming) Tj
+T*
+(Googlebook/Aluminium OS platform, I wrote : Shaking your cursor over something is an) Tj
+T*
+(interesting gesture. The only feature I?m aware of that uses that gesture is MacOS?s feature) Tj
+T*
+(that makes your cursor bigger when you shake it, to help spot it on the display. Then, last) Tj
+T*
+(evening, I selected a few files on my desktop, started dragging them, and shook my mouse cursor) Tj
+T*
+(to conjure a drop shelf from Dropover , a Mac utility by developer Damir Tursunovi? that I?ve) Tj
+T*
+(been using for about two years. As soon I shook my mouse, I smiled and thought, ?Well, I should) Tj
+T*
+(mention that.? So here I am, mentioning the gesture and Dropover. Years ago I recommended Yoink) Tj
+T*
+(, which is very much a direct competitor to Dropover. The basic idea with both apps is that) Tj
+T*
+(sometimes you want a temporary ?shelf? on which to drop items ? a way station between where) Tj
+T*
+(you?re dragging the items from and where you want to drop them. Yoink has options to appear) Tj
+T*
+(only when you drag to the left edge of the screen, or to appear as soon as you start dragging) Tj
+T*
+(anything. I have always used Yoink with it configured to show its shelf at the edge of the) Tj
+T*
+(screen,...) Tj
+T*
+() Tj
+T*
+(7. In the Empire's Defense) Tj
+T*
+(Source: iDiallo.com | Published: Sun, 17 May 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/the-empire-won?src=feed) Tj
+T*
+(I didn't watch Star Wars when it was released. I wasn't even born. By the time we popped the) Tj
+T*
+(cassette tape in the VCR, it was at least 15 years old. But I liked the movie all the same. It) Tj
+T*
+(was not my favorite film by any means, but it was memorable. The first time you see Darth Vader) Tj
+T*
+(appear on screen, you know this villain is not going to be easy to defeat. "Villain" because no) Tj
+T*
+(one needs to tell you who the good guys and bad guys are in this movie. The visuals, the) Tj
+T*
+(voices, the music, everything tells you that Darth Vader and the Empire are up to no good. Now) Tj
+T*
+(I get to watch the movie with my kids. I quickly pointed out to my sons that this is the bad) Tj
+T*
+(guy. Stating the obvious. One of them asked, "Why is he the bad guy?" I had to pause for a) Tj
+T*
+(second to come up with an explanation. I didn't have an answer. Instead I said, "Because he is) Tj
+T*
+(mean as hell!" They fell asleep before the movie ended. I think they enjoyed it. But I really) Tj
+T*
+(couldn't tell you exactly why Darth Vader was the bad guy. This is just a thought experiment,) Tj
+T*
+(don't go telling the world that I am pro-Galactic Empire, OK? I'm not digging into the lore of) Tj
+T*
+(Star Wars. I did that already with the Galactic Timezones piece and it wa...) Tj
+T*
+() Tj
+T*
+(8. Our servers seem to have surprisingly low power consumption) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-17T03:04:44Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowPowerConsumption) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4377 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(For reasons beyond the scope of this entry, today I was curious how much power our servers were) Tj
+T*
+(using. If you have sufficiently fancy PDUs , I think you can get per-outlet measurements that) Tj
+T*
+(are trustworthy, but we don't have such PDUs. Instead, the best I can do is look at the) Tj
+T*
+(information that some of our servers report through IPMI . I'm not sure how accurate the IPMI) Tj
+T*
+(information is, but at least some of the numbers seem plausible, so I'll assume that it's not) Tj
+T*
+(massively off. The results surprise me with how low they were. Most of our servers are basic 1U) Tj
+T*
+(servers with a pair of SATA SSDs. They're typically not very active, and the not particularly) Tj
+T*
+(active servers that report IPMI power usage are reporting anything from 22 watts to 26 watts) Tj
+T*
+(right now. A few servers also have a pair of HDDs, and one has four SSDs and is typically) Tj
+T*
+(active; all of them report 44 watts right now. Our NFS fileservers currently have 24 SSDs in) Tj
+T*
+(each and are reporting a range of power usage from 47 watts to 62 watts. One interesting case) Tj
+T*
+(is our perimeter firewall, where we have the active server and an identical running hot spare,) Tj
+T*
+(both 1U servers. The active server is at 52 watts \(and handling about 40 Mbyte...) Tj
+T*
+() Tj
+T*
+(9. GDS weighs in on the NHS's decision to retreat from Open Source) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 17 May 2026 11:34:30 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-) Tj
+T*
+(source/) Tj
+T*
+(Within the UK's Civil Service you occasionally hear the expression "being invited to a meeting) Tj
+T*
+(without biscuits". It implies a rather frosty discussion without any of the polite niceties of) Tj
+T*
+(a normal meeting. In general though, even when people have severe disagreements, it is rare for) Tj
+T*
+(tempers to fray. It is even rarer for those internal disagreements to spill over into public.) Tj
+T*
+(Which is what?) Tj
+T*
+() Tj
+T*
+(10. How to be inspired without copying) Tj
+T*
+(Source: Westenberg. | Published: Sun, 17 May 2026 22:33:32 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/how-to-be-inspired-without-copying/) Tj
+T*
+(In 1713, Johann Sebastian Bach sat down at his desk in Weimar and began copying out concertos) Tj
+T*
+(by Antonio Vivaldi. He transcribed them note for note, in his own hand, working through at) Tj
+T*
+(least nine of the L'estro armonico concertos like a medical student dissecting a cadaver. The) Tj
+T*
+() Tj
+T*
+(11. The new Galmon.eu Weekly Galileo Report) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 07 Jul 2020 11:54:59 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/briefly-on-the-galmon-weekly-report/) Tj
+T*
+(I have a longer story brewing, but in this post I want to briefly announce the ?Galmon.eu) Tj
+T*
+(unofficial Weekly Performance Report?. This is a blog post version of an earlier Twitter) Tj
+T*
+(thread. I?m very proud to present the first full Galmon.eu Weekly Galileo Report! And the good) Tj
+T*
+(news is: it was a good week with very little to report. The email has just gone out, but you) Tj
+T*
+(can also find it here.) Tj
+T*
+() Tj
+T*
+(12. Corona Update: Juli) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 01 Jul 2020 17:37:17 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-update-juli/) Tj
+T*
+(Nu het RIVM gestopt is met dagelijkse updates vond ik dat het tijd was dat gat dan maar te) Tj
+T*
+(vullen, al is het maar voor een dag. Een nieuwe Corona Update ?hoe gaat het nu met?. De vorige) Tj
+T*
+(was alweer van 21 april! De ?Ik ben geen expert, maar toch?-factor Een boel dansleraren en) Tj
+T*
+(opiniepeilers zijn inmiddels COVID-19 experts. In deze post heb ik erg mijn best gedaan alleen) Tj
+T*
+(dingen te melden die we heel zeker weten.) Tj
+T*
+() Tj
+T*
+(13. COVID-19: The T Cell Story) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 05 Jun 2020 18:52:24 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/covid-19-t-cells/) Tj
+T*
+(When COVID-19 burst on to the scene, tests quickly showed that the everyone was susceptible -) Tj
+T*
+(no pre-existing antibodies were found that bound to the SARS-CoV-2 virus. This led to dire) Tj
+T*
+(predictions that over 80% of the population might eventually fall ill. Now more than six months) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 305 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(in, this has not happened, and it does not appear to be close to happening. A few months ago,) Tj
+T*
+(noted virologist Christian Drosten mused in his \(German\) podcast that some people might have a) Tj
+T*
+(level of immunity after all, but he wasn?t yet sure.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004672 00000 n 
+0000004798 00000 n 
+0000009517 00000 n 
+0000009643 00000 n 
+0000014072 00000 n 
+0000014198 00000 n 
+0000014555 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14683
+%%EOF
