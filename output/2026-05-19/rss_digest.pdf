@@ -1,0 +1,640 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4403 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-19 09:45:22) Tj
+T*
+() Tj
+T*
+(1. The last six months in LLMs in five minutes) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-19T01:09:44+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything) Tj
+T*
+(I put together these annotated slides from my five minute lightning talk at PyCon US 2026,) Tj
+T*
+(using the latest iteration of my annotated presentation tool . # I presented this lightning) Tj
+T*
+(talk at PyCon US 2026, attempting to summarize the last six months of developments in LLMs in) Tj
+T*
+(five minutes. # Six months is a pretty convenient time period to cover, because it captures) Tj
+T*
+(what I've been calling the November 2025 inflection point . November was a critical month in) Tj
+T*
+(LLMs, especially for coding. # For one thing, the supposedly "best" model \(depending mostly on) Tj
+T*
+(vibes\) changed hands five times between the three big providers. # As always, I'm using my) Tj
+T*
+(Generate an SVG of a pelican riding a bicycle test to help illustrate the differences between) Tj
+T*
+(the models. Why this test? Because pelicans are hard to draw, bicycles are hard to draw,) Tj
+T*
+(pelicans can't ride bicycles ... and there's zero chance any AI lab would train a model for) Tj
+T*
+(such a ridiculous task. # At the start of November the widely acknowledged "best" model was) Tj
+T*
+(Claude Sonnet 4.5, released on 29th September . It drew me this pelican. In November it was) Tj
+T*
+(overtaken by GPT-5.1 , then Gemini 3 , then GPT-5.1 Codex Max , and then Anthropic took the...) Tj
+T*
+() Tj
+T*
+(2. Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-18T14:51:00+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything) Tj
+T*
+(Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose, in Los Angeles River, CA, US) Tj
+T*
+(I'm heading home from PyCon US today so I went on a last morning walk to try and spot a) Tj
+T*
+(pelican. I saw one! Didn't get a great photo of that, but I did see some goslings down by the) Tj
+T*
+(swan boat lake.) Tj
+T*
+() Tj
+T*
+(3. Learning on the Shop floor) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-11T15:46:36+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything) Tj
+T*
+(Learning on the Shop floor Tobias L¸tke describes Shopify's internal coding agent tool, River,) Tj
+T*
+(which operates entirely in public on their Slack: River does not respond to direct messages.) Tj
+T*
+(She politely declines and suggests to create a public channel for you and her to start working) Tj
+T*
+(in. I myself work with river in #tobi_river channel and many followed this pattern. Every) Tj
+T*
+(conversation is therefore searchable. Anyone at Shopify can jump in. In my own channel, there) Tj
+T*
+(are over 100 people who, react to threads, add color and add context, pick up the torch, help) Tj
+T*
+(with the reviews, remind me how rusty I am, and importantly, learn from watching. [...] As so) Tj
+T*
+(often with German, there is a word for the kind of environment: Lehrwerkstatt . Literally: A) Tj
+T*
+(teaching workshop . The whole shop floor is the classroom. You learn by being near the work.) Tj
+T*
+(Being a constant learner is one of the core values of the firm. Shopify wants to be a) Tj
+T*
+(Lehrwerkstatt at scale and River has now gotten us closer to this ideal than ever. It?s osmosis) Tj
+T*
+(learning , because it does not require a curriculum, a training plan, or a manager. It just) Tj
+T*
+(requires everyone's work to be visible to the maximum extent possible. Everyone lear...) Tj
+T*
+() Tj
+T*
+(4. How I Use My Index 01 + Production Update) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Mon, 18 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://repebble.com/blog/how-i-use-my-index-01-production-update) Tj
+T*
+(TL;DR Production Update - behind schedule but on track How I use my Index 01 - watch the video) Tj
+T*
+(for demos! Product design philosophy - why?) Tj
+T*
+() Tj
+T*
+(5. [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them.) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-19T01:27:00Z) Tj
+T*
+(Link: https://workos.com/docs/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaig) Tj
+T*
+(n=q22026) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4620 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(The context that actually matters isn?t in your database. It?s in the tools your users live in) Tj
+T*
+(every day. Multi-stage agents stall the moment they hit a step they can?t see. And every) Tj
+T*
+(missing integration is a different OAuth flow, a different token lifecycle, weeks of plumbing) Tj
+T*
+(before the agent reads a single record. WorkOS Pipes connects your agent to the tools your) Tj
+T*
+(users live in. Pre-built connectors for GitHub, Slack, Salesforce, Google Drive, and more.) Tj
+T*
+(Pipes handles OAuth, token refresh, and credential storage. You call the real provider API with) Tj
+T*
+(a fresh token, every time. Your agent pulls context at every step, for as long as the task) Tj
+T*
+(runs. Give your agent context ? ?) Tj
+T*
+() Tj
+T*
+(6. Jury Rejects Elon Musk?s Claim Against Sam Altman in Unanimous Verdict) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-18T17:53:33Z) Tj
+T*
+(Link: https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk?unloc) Tj
+T*
+(ked_article_code=1.jVA.Cc2V.IwYuu2r4SJfQ) Tj
+T*
+(Cade Metz and Mike Isaac, reporting for The New York Times \(gift link\): A nine-person jury) Tj
+T*
+(found that Elon Musk did not bring his lawsuit against OpenAI and Sam Altman until after the) Tj
+T*
+(expiration of the three-year statute of limitations. Mr. Musk filed his suit against the $730) Tj
+T*
+(billion artificial intelligence start-up in the summer of 2024, but the jury found that he was) Tj
+T*
+(aware of the behavior discussed in his complaint against OpenAI as far back as 2021. This) Tj
+T*
+(update quoting Judge Yvonne Gonzalez Rogers?s ?poetic? jury instructions is just lovely: ?A) Tj
+T*
+(jury reflects the attitudes and mores of the community from which it is drawn,? she said,) Tj
+T*
+(paraphrasing another judge. ?It lives only for the day and does justice according to its) Tj
+T*
+(limits. The group of jurors who are drawn to hear a case make a decision and then melt away. It) Tj
+T*
+(is not present the next day to be criticized. It is the one governmental agency that has no) Tj
+T*
+(ambition. It is as human as the people who make it up.? ?) Tj
+T*
+() Tj
+T*
+(7. ?John Appleseed?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-18T17:34:46Z) Tj
+T*
+(Link: https://om.co/2026/04/20/john-appleseed/) Tj
+T*
+(Here?s a great take from last month re: the Cook/Ternus transition, from Om Malik: When he took) Tj
+T*
+(over from Steve Jobs in August 2011, Apple?s market capitalization was around $350 billion. As) Tj
+T*
+(of this morning, it sits near $4 trillion. That is more than a 1,000 percent increase. Revenue) Tj
+T*
+(went from $108 billion in fiscal 2011 to over $416 billion in fiscal 2025, almost four times) Tj
+T*
+(bigger. Apple under Cook became the most valuable company in human history, multiple times) Tj
+T*
+(over. It built Services into a $100-billion-a-year business. Sure, Cook inherited the greatest) Tj
+T*
+(product portfolio and the greatest brand in modern business. How many times have we seen people) Tj
+T*
+(screw it up? He ran it with operational ruthlessness. He is no product visionary, and neither) Tj
+T*
+(is Ternus. They are not Steve. Tim has run Apple for fifteen years, through a pandemic, two) Tj
+T*
+(trade wars, a supply chain reordering, and the slow grinding shift from hardware-only to) Tj
+T*
+(hardware-plus-services-plus-silicon. Most importantly, he didn?t mess it up. Services, as a) Tj
+T*
+(whole, is now as big a business for Apple as the entirety of the company was when Cook took the) Tj
+T*
+(helm. And ?not screwing it up? is an enormous accomplishment. Success is al...) Tj
+T*
+() Tj
+T*
+(8. CISA Admin Leaked AWS GovCloud Keys on Github) Tj
+T*
+(Source: Krebs on Security | Published: Mon, 18 May 2026 20:48:21 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/) Tj
+T*
+(Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency) Tj
+T*
+(\(CISA\) maintained a public GitHub repository that exposed credentials to several highly) Tj
+T*
+(privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts) Tj
+T*
+(said the public archive included files detailing how CISA builds, tests and deploys software) Tj
+T*
+(internally, and that it represents one of the most egregious government data leaks in recent) Tj
+T*
+(history.) Tj
+T*
+() Tj
+T*
+(9. The just-say-no engineer was a ZIRP phenomenon) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Mon, 18 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4708 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(The engineer who says no all the time is a real archetype among senior and staff engineers.) Tj
+T*
+(Their role is to slow things down, to block the development of features that add complexity,) Tj
+T*
+(and to ensure that as little code gets written as possible \(since code is a liability\). We can) Tj
+T*
+(think of this as the just-say-no engineer 1 , as opposed to the just-say-yes engineer. The) Tj
+T*
+(just-say-yes engineer is obsessed with moving fast, approves code changes by default, values) Tj
+T*
+(MTTR over MTBF , and tends to ship a lot of code. The just-say-no engineer is obsessed with) Tj
+T*
+(quality, is happy to move slowly, and blocks code changes by default. Most engineers are) Tj
+T*
+(somewhere in the middle of the spectrum. By ?just-say-no engineer?, I?m talking about the group) Tj
+T*
+(of engineers who most strongly identify with that archetype. The just-say-no engineer is having) Tj
+T*
+(a hard time in the era of AI. It used to be that they only had to say no to more junior) Tj
+T*
+(engineers? handwritten PRs, but now they have to say no to a barrage of AI-generated code, some) Tj
+T*
+(of it generated by managers and VPs who are politically difficult to say no to. For the first) Tj
+T*
+(time in their careers, they?re under a lot of pressure to lower their standards and...) Tj
+T*
+() Tj
+T*
+(10. Don't call yourself a Software Engineer, you are an AI Enabled Engineer.) Tj
+T*
+(Source: iDiallo.com | Published: Mon, 18 May 2026 12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed) Tj
+T*
+(I can only imagine what it's like learning the skill of programming in this day and age. What) Tj
+T*
+(does an average college class look like? What is the CS professor teaching? And students, how) Tj
+T*
+(do you reconcile what you are learning vs the current job market? I know if I was a student) Tj
+T*
+(today, I would at least attempt to make connections on LinkedIn to prepare for a future where I) Tj
+T*
+(would need those connections to get a job . But LinkedIn is not a real place. It might have) Tj
+T*
+(been at one point. But it certainly isn't today. Everybody is an AI) Tj
+T*
+(Engineer/Leverager/Prompter/Professional. If I wasn't in the industry, it would be real) Tj
+T*
+(confusing. I see my ex-colleagues right there on LinkedIn, gainfully employed, yet still felt) Tj
+T*
+(the need to update their titles. We've worked together, I know their current role. Or at least) Tj
+T*
+(I thought I knew. Now, that same role leverages AI in a way that has "enabled" them. The) Tj
+T*
+(software engineers though, their role has remained the same while the entire marketing) Tj
+T*
+(department has switched to AI first. The software engineer is being left behind . The whole) Tj
+T*
+(company is moving fast, yet the person writing the code using Claude, Cursor, Codex, Copilot,) Tj
+T*
+(that person remains a me...) Tj
+T*
+() Tj
+T*
+(11. Always Be Blaming) Tj
+T*
+(Source: matklad | Published: 2026-05-18T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/05/18/always-be-blaming.html) Tj
+T*
+(A few tips on 4D-ing your code comprehension skills.) Tj
+T*
+() Tj
+T*
+(12. Unicode and Emoji in terminals, or my simple but difficult wish) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-18T03:13:25Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/UnicodeEmojiInTerminals) Tj
+T*
+(On the Fediverse, I had a simple sounding wish : This is my face that I need a simple) Tj
+T*
+(pagination program for Unix \(show a page, pause, hit CR to show the next page\) that is Unicode) Tj
+T*
+(and emoji aware, so that it knows how long lines with them are. AFAIK less can't be used for) Tj
+T*
+(this when I don't want it to ever clear the screen, just to keep printing the next page for) Tj
+T*
+(however long. \(... because you have to know how long lines of text are so that you know when) Tj
+T*
+(you've printed a full page.\) \(So what I'd like is 'cat, but paginated'.\) This sounds like a) Tj
+T*
+(simple, easy wish. Some of my readers are now laughing flatly, because it's not. In fact I) Tj
+T*
+(believe it's impossible to write a simple general program to do this; you need either terminal) Tj
+T*
+(program specific knowledge or to do some relatively extreme tricks as you print text. Once upon) Tj
+T*
+(a time, physical terminals and thus terminal programs were simple. They showed a set of) Tj
+T*
+(characters in a monospaced grid, commonly with bytes mapping one to one to displayed characters) Tj
+T*
+(\(I'm ignoring DEC's double-sized character escape sequences\). In this world, 'cat but) Tj
+T*
+(paginated' is relatively simple, and indeed I have a program that does exactly this job; the) Tj
+T*
+(onl...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4787 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(13. Human Bottlenecks) Tj
+T*
+(Source: Fernando Borretti | Published: Mon, 18 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://borretti.me/article/human-bottlenecks) Tj
+T*
+(Why AI won't augment human capabilities much.) Tj
+T*
+() Tj
+T*
+(14. Something?s Rotten in the State of macOS Icon Design) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Mon, 18 May 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/) Tj
+T*
+(This is an iconic observation : If you put the Apple icons in reverse it looks like the) Tj
+T*
+(portfolio of someone getting really really good at icon design This isn?t, however, just the) Tj
+T*
+(story of Apple?s Creator Studio icons. It?s the unfolding story of icon design across the) Tj
+T*
+(entire macOS platform. For example, take a look at some of Apple?s other apps like iMovie : Or) Tj
+T*
+(Remote Desktop : Apple sets the standard \(and the rules\) for how icons look on the Mac.) Tj
+T*
+(Wherever they go, so goes the ecosystem ? and they?re taking the entire ecosystem along down) Tj
+T*
+(with them. It?s fast becoming the case that if you put any Mac app?s icons in reverse, it looks) Tj
+T*
+(like the portfolio of someone getting really, really good at icon design. Even Microsoft ? not) Tj
+T*
+(exactly a bastion of design ? starts to look pretty decent with their icons the further back) Tj
+T*
+(you go. For example, with OneNote , the app icon?s progression looks like it went something) Tj
+T*
+(like this: ?I made this with AI? ?I tried to make the AI one, but by hand myself? ?I don?t need) Tj
+T*
+(to be constrained by this squircle? ?Hey, I?m getting better at this? Some 3rd-party apps) Tj
+T*
+(continue to fight a good fight, even as Apple?s definition of what an icon should be ? or...) Tj
+T*
+() Tj
+T*
+(15. 10Gb/s Ethernet: using mini-heatsinks with a 10GBASE-T SFP+ module) Tj
+T*
+(Source: Giles' blog | Published: Mon, 18 May 2026 19:15:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/05/10g-ethernet-sfpplus-mini-heatsinks) Tj
+T*
+(In my last post I showed the somewhat-scary temperatures I was getting on the MikroTik) Tj
+T*
+(10GBASE-T SFP+ module I have plugged into nigel , the 10Gb/s switch I have in my study. As I) Tj
+T*
+(mentioned then, the plan was to try using some of the mini-heatsinks that people use on) Tj
+T*
+(Raspberry Pis, to see if that would help. Here's how it went. I bought a 40-piece set of) Tj
+T*
+(heatsinks made by the improbably-named VooGenzek on Amazon for ?8 , and attached two of them) Tj
+T*
+(like this -- see the bottom module, with the yellow cable: That was 24 hours ago, and here's a) Tj
+T*
+(chart of temperatures from that module showing the 24 hours before and after: You can see the) Tj
+T*
+(big drop-off in the middle of the chart; it even overshot a bit \(I'm guessing because the) Tj
+T*
+(heatsinks absorbed a bunch of heat initially when I put them on\). The difference looks more) Tj
+T*
+(dramatic than it is! See where the Y-axis starts. But given that the weather has been pretty) Tj
+T*
+(much the same today as it was yesterday, that looks like a 3.5∞C improvement. Not great, but) Tj
+T*
+(not nothing either. In the copious discussion about the last post on Hacker News , one of the) Tj
+T*
+(most popular comments -- from xxpor -- was that there are two generations of SFP+ modules for) Tj
+T*
+(this...) Tj
+T*
+() Tj
+T*
+(16. Travel notes: RubyKaigi Hakodate) Tj
+T*
+(Source: Max Bernstein's Blog | Published: Mon, 18 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://bernsteinbear.com/blog/travel-notes-rubykaigi-hakodate/?utm_source=rss) Tj
+T*
+(I just got back from a three and a half week trip to Japan. It was the longest trip I have ever) Tj
+T*
+(been on \(aside from studying abroad in Germany, which felt different\). I made the following) Tj
+T*
+(wild circuit with only a backpack and a duffel: Tokyo Toyama Kanazawa Nara ish Ito Hakodate) Tj
+T*
+(Nikko Mashiko Karuizawa Tokyo This trip was split into three parts: time with my immediate) Tj
+T*
+(family, going to a conference, and then time with my partner. They were all great and also I am) Tj
+T*
+(glad to be home. I?ll post my abbreviated travel notes here, including activity and food) Tj
+T*
+(recommendations. Part one We started in Tokyo but we were only there for about 40 hours. We) Tj
+T*
+(focused our time mostly on arts and crafts: we did a kintsugi workshop, spent time at an) Tj
+T*
+(artists cooperative, and then did a lot of walking around. This was a good intro to the trip,) Tj
+T*
+(because everyone kept waking up at 4am and crashing at 7pm due to the jet lag. 4am wakeup makes) Tj
+T*
+(for nice morning walks to 7-Eleven. I brought my family to T?s Tantan in Tokyo Station because) Tj
+T*
+(I?m vegetarian and it?s otherwise hard to find ramen that approaches kosher in Japan. It) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4280 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(continues to be great and I really appreciate having a steady vegetarian option availabl...) Tj
+T*
+() Tj
+T*
+(17. Weekly Update 504) Tj
+T*
+(Source: Troy Hunt | Published: Mon, 18 May 2026 03:46:55 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-504/) Tj
+T*
+(It's a hot topic, the old "pay or don't pay" for hackers not to leak your data. Since recording) Tj
+T*
+(this a few days ago, we've had Grafana go with the "no pay" approach , and I've seen a raft) Tj
+T*
+() Tj
+T*
+(18. FediMeteo, HAProxy, and the art of not wasting snac threads) Tj
+T*
+(Source: IT Notes | Published: Mon, 18 May 2026 09:44:00 +0000) Tj
+T*
+(Link: https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-) Tj
+T*
+(threads/) Tj
+T*
+(When I wrote about FediMeteo for the first time, I told the story from the beginning: the idea) Tj
+T*
+(born almost by chance while checking the weather for a holiday, the memory of my grandfather,) Tj
+T*
+(who for years had been my personal meteorologist, the decision to build something small and) Tj
+T*
+(useful, and then the surprise of seeing people actually use it. What began as a personal) Tj
+T*
+(experiment quickly became a small global service, still running with the same philosophy:) Tj
+T*
+(FreeBSD, jails, simple scripts, snac, text, emoji, and a lot of small pieces doing their work) Tj
+T*
+(quietly. That article was mostly about the birth and growth of the project. This one is about) Tj
+T*
+(one of the less romantic parts of the same story, although I have to admit that I find a) Tj
+T*
+(certain beauty in it too: keeping the service light as it grows. FediMeteo is still) Tj
+T*
+(intentionally simple from the outside. A homepage, some numbers, a list of countries, and many) Tj
+T*
+(ActivityPub accounts publishing weather forecasts. The posts are text and emoji. There is no) Tj
+T*
+(JavaScript requirement to read the pages, no heavy frontend, no unnecessary media attached to) Tj
+T*
+(every forecast, and no dynamic homepage recalculated at every visit just to show the same) Tj
+T*
+(number...) Tj
+T*
+() Tj
+T*
+(19. Vitamin D: the New COVID-19 Chloroquine?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 30 May 2020 17:52:44 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/vitamin-d-the-new-covid-19-chloroquine/) Tj
+T*
+(Welcome to this post, in which we?ll be taking a trip through the wild and bumpy ride that has) Tj
+T*
+(been Vitamin D & sunlight research over the past few decades, and what it might mean for) Tj
+T*
+(COVID-19. As with my previous post, before any non-specialist attempts to write something on) Tj
+T*
+(COVID-19, we should wonder: are any actual experts already writing on this, and if not, why) Tj
+T*
+(not. Enough badly informed stuff has already been published by amateurs that before posting we) Tj
+T*
+(should be certain we are actually being helpful.) Tj
+T*
+() Tj
+T*
+(20. COVID-19 Predictions & Rampant Speculation: May 2020) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 24 May 2020 10:49:02 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/covid-19-rampant-speculation-may-2020/) Tj
+T*
+(It turns out that so far, I have written over 44000 words on COVID-19. I?ve tried very hard to) Tj
+T*
+(only report the best and most trustworthy science, but I did strive to include interesting new) Tj
+T*
+(insights that were not yet mainstream. As an example, I spoke about vitamin D and sunlight real) Tj
+T*
+(early, which now indeed appears to be a thing. No guarantees yet, but it definitely is a thing.) Tj
+T*
+() Tj
+T*
+(21. How COVID-19 is diagnosed: bacterium assisted DNA searching) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 22 May 2020 17:18:33 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/dna-grep-2019-ncov/) Tj
+T*
+(This post is dedicated to lab technicians everywhere doing the difficult work institutes and) Tj
+T*
+(hospitals rely on to investigate disease and keep us healthy. Lab work requires high precision,) Tj
+T*
+(deep understanding, is physically demanding, and can even be dangerous. Although our healthcare) Tj
+T*
+(systems & universities would come to a grinding halt without lab technicians, they are often) Tj
+T*
+(almost literally invisible somewhere far away. Thank you all for your hard work!) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004672 00000 n 
+0000004798 00000 n 
+0000009470 00000 n 
+0000009596 00000 n 
+0000014356 00000 n 
+0000014482 00000 n 
+0000019322 00000 n 
+0000019450 00000 n 
+0000023783 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+23911
+%%EOF
