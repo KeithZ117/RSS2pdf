@@ -1,0 +1,558 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4323 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-20 09:46:12) Tj
+T*
+() Tj
+T*
+(1. llm-gemini 0.32) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-19T23:46:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything) Tj
+T*
+(Release: llm-gemini 0.32 New model gemini-3.5-flash for Gemini 3.5 Flash . See also my notes on) Tj
+T*
+(Gemini 3.5 Flash , and the pelican I drew using this upgrade to the plugin. Tags: gemini , llm) Tj
+T*
+() Tj
+T*
+(2. Gemini 3.5 Flash: more expensive, but Google plan to use it for everything) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-19T22:40:25+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything) Tj
+T*
+(Today at Google I/O, Google released Gemini 3.5 Flash . This one skipped the -preview modifier) Tj
+T*
+(and went straight to general availability, and Google appear to be using it for a whole lot of) Tj
+T*
+(their key products: 3.5 Flash is available today to billions of people globally: For everyone) Tj
+T*
+(via the Gemini app and AI Mode in Google Search For developers in our agent-first development) Tj
+T*
+(platform Google Antigravity and Gemini API in Google AI Studio and Android Studio For) Tj
+T*
+(enterprises in Gemini Enterprise Agent Platform and Gemini Enterprise. As usual with Gemini,) Tj
+T*
+(the most interesting details are tucked away in the What's new in Gemini 3.5 Flash developer) Tj
+T*
+(documentation. It mostly has the same set of platform features as the previous Gemini 3.x) Tj
+T*
+(series, albeit with no computer use . The model ID is gemini-3.5-flash . The knowledge cut-off) Tj
+T*
+(is January 2025, and it supports 1,048,576 input tokens and 65,536 maximum output tokens.) Tj
+T*
+(Google are also pushing a new Interactions API , currently in beta, which looks to me like) Tj
+T*
+(their version of the patterns introduced by OpenAI Responses - in particular server-side) Tj
+T*
+(history management. The price has gone up Gemini 3.5 Flash is accompanied by a notable price) Tj
+T*
+(b...) Tj
+T*
+() Tj
+T*
+(3. datasette-llm-accountant 0.1a4) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-19T20:45:43+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything) Tj
+T*
+(Release: datasette-llm-accountant 0.1a4 Fixed bug tracking chains of responses. Refs) Tj
+T*
+(datasette-llm#7 Tags: llm , datasette) Tj
+T*
+() Tj
+T*
+(4. Andrej Karpathy Joined Anthropic) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-19T15:42:38Z) Tj
+T*
+(Link: https://x.com/karpathy/status/2056753169888334312) Tj
+T*
+(Andrej Karpathy, on Twitter/X \( XCancel link \): Personal update: I?ve joined Anthropic. I think) Tj
+T*
+(the next few years at the frontier of LLMs will be especially formative. I am very excited to) Tj
+T*
+(join the team here and get back to R&D. I remain deeply passionate about education and plan to) Tj
+T*
+(resume my work on it in time. Karpathy is, to say the least, a star in the AI research field.) Tj
+T*
+(He co-founded OpenAI in 2015, was director of AI at Tesla \(reporting directly to Elon Musk\)) Tj
+T*
+(from 2017?2022, went back to OpenAI in 2023, and then left again in 2024 to start an AI) Tj
+T*
+(education company named Eureka Labs . He coined the term ?vibe coding? in February last year. ?) Tj
+T*
+() Tj
+T*
+(5. Define ?Boom? Please) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-18T17:17:02Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/04/21/business/how-apple-became-a-4-trillion-company-under-t) Tj
+T*
+(im-cook.html?unlocked_article_code=1.jVA.MV8m.0JfUOJOME5WH) Tj
+T*
+(While I?m linking to pieces on Apple?s CEO transition, here?s an annoying tidbit from Tripp) Tj
+T*
+(Mickle and Karl Russell?s piece for The New York Times, under the headline ?Tim Cook Was Very,) Tj
+T*
+(Very Good at Making Money? \(gift link\): Even though it has largely missed out on the artificial) Tj
+T*
+(intelligence boom now lifting the sales of its technology peers, the company?s profits and) Tj
+T*
+(stock value continue to grow. Which peers have had their ?sales lifted? by AI? There?s Nvidia) Tj
+T*
+(\(now the most valuable company in the world\). But Apple doesn?t compete directly with Nvidia.) Tj
+T*
+(What makes Apple different from its peer companies isn?t that the others are profiting from AI) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4086 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(while Apple is not, but rather that Apple, seemingly alone, is not funnelling its free cash) Tj
+T*
+(flow to Nvidia to build out massive AI datacenters. Apple might wind up missing out on) Tj
+T*
+(something huge as a result of its decision to stay out of this race. But it?s nonsense to say) Tj
+T*
+(they?ve already missed out on a boom. To date it?s a money pit. ?) Tj
+T*
+() Tj
+T*
+(6. Ted Turner?s Small Apartment Above the Former CNN Center) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-18T16:52:03Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=OUIVs58oyPI) Tj
+T*
+(Simultaneously audacious and humble, a combination that epitomizes Ted Turner?s entire life .) Tj
+T*
+(\(Shades, too, of Walt Disney?s apartment above the fire department at Disneyland.\) ?) Tj
+T*
+() Tj
+T*
+(7. Just shows that nobody cares about debugging the parity flag any more) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 18 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260518-00/?p=112334) Tj
+T*
+(Reported incorrectly since the day it was written. The post Just shows that nobody cares about) Tj
+T*
+(debugging the parity flag any more appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Wi-Wi Is Wireless Time Sync at 1 nanosecond) Tj
+T*
+(Source: Jeff Geerling | Published: Tue, 19 May 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/) Tj
+T*
+(At NAB, I found a demo of Wi-Wi STAMP , a wireless time synchronization protocol that came out) Tj
+T*
+(of Japan's NICT . Wi-Wi stands for Wireless 2Way interferometry, and it uses the 900 MHz band) Tj
+T*
+(for picosecond-level time sync, and mm-level distance accuracy, in a tiny box, currently the) Tj
+T*
+(size of a smartphone. The system is still in development, but existing prototypes have 20ps of) Tj
+T*
+(phase synchronization jitter, and time synchronization down to 30ns. The next generation will) Tj
+T*
+(have time down to 5ns in real-world use.) Tj
+T*
+() Tj
+T*
+(9. Square root of x² ? 1) Tj
+T*
+(Source: John D. Cook | Published: Wed, 20 May 2026 00:49:50 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/) Tj
+T*
+(How should we define ?\(z² ? 1\)? Well, you could square z, subtract 1, and take the square root.) Tj
+T*
+(What else would you do?! The question turns out to be more subtle than it looks. When x is a) Tj
+T*
+(non-negative real number, ?x is defined to be the non-negative real number whose square is x.) Tj
+T*
+(When x is [?] The post Square root of x² ? 1 first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Closer look at an identity) Tj
+T*
+(Source: John D. Cook | Published: Tue, 19 May 2026 23:37:31 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/19/closer-look-at-an-identity/) Tj
+T*
+(The previous post derived the identity and said in a footnote that the identity holds at least) Tj
+T*
+(for x > 1 and y > 1. That?s true, but let?s see why the footnote is necessary. Let?s have) Tj
+T*
+(Mathematica plot The plot will be 0 where the identity above holds. The plot is indeed flat for) Tj
+T*
+(x > 1 [?] The post Closer look at an identity first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Approximating Markov?s equation) Tj
+T*
+(Source: John D. Cook | Published: Tue, 19 May 2026 12:09:54 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/19/zagiers-equation/) Tj
+T*
+(Markov numbers are integer solutions to x² + y² + z² = 3xyz. The Wikipedia article on Markov) Tj
+T*
+(numbers mentions that Don Zagier studied Markov numbers by looking the approximating equation) Tj
+T*
+(x² + y² + z² = 3xyz + 4/9 which is equivalent to f\(x\) + f\(y\) = f\(z\) where f\(t\) is defined as) Tj
+T*
+(arccosh\(3t/2\). It wasn?t clear to me why the [?] The post Approximating Markov?s equation first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Pluralistic: There's no such thing as "age verification" \(19 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 19 May 2026 07:17:09) Tj
+T*
+(+0000) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4898 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://pluralistic.net/2026/05/19/shes-dead-of-course/) Tj
+T*
+(Today's links There's no such thing as "age verification": The foreseeable and foreseen) Tj
+T*
+(consequences of "something must be done"/"there, I've done something." Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: Apple Stores exist; Responsible spam; Australia loves) Tj
+T*
+(Hollywood\('s copyright\); TCP over Syrian donkey; Icelandic Pirate get funded; Algorithmic) Tj
+T*
+(cruelty; Trump loves data brokers; Douglas Adams, vindicated; Blog history; Sex names; Flickr's) Tj
+T*
+(Gamma; "Fuzzy Nation"; The Intercept publishes Snowden docs; Software version of CIA sabotage) Tj
+T*
+(manual; Who owns covid vaccines? Anal clenching v depression; Web is 10; Danish birds x) Tj
+T*
+(ringtones; Office-supply X-wing; Nintendo 3DS license sucks is unbelievably bad; Public) Tj
+T*
+(Interest Internet. Upcoming appearances: Berlin, Hay-on-Wye, London, Kansas City, LA, Menlo) Tj
+T*
+(Park, Toronto, NYC, Edinburgh. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. There's no such thing as "age verification" \(permalink\) "Object) Tj
+T*
+(permanence" is the ability to understand that even if you can't see something, it still exists.) Tj
+T*
+(Most toddlers ac...) Tj
+T*
+() Tj
+T*
+(13. The hardware needs of our mail system \(as of mid 2026\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-19T21:21:46Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurMailSystemHardware) Tj
+T*
+(In a comment on my entry on universities, email, and the issues of running things in house , I) Tj
+T*
+(mentioned that our departmental email system has a non-trivial cost in hardware alone to keep) Tj
+T*
+(going. To better illustrate that, I'll describe all of the servers that our email system) Tj
+T*
+(currently requires \(because it's more than one\). Some of these servers exist for historical) Tj
+T*
+(reasons and may go away at some point, but many of them don't. Currently, we have: A server as) Tj
+T*
+(our external mail gateway \(our DNS MX target\). This is separate from other mail servers because) Tj
+T*
+(it's much simpler to configure and operate this way. A server for the \(FOSS\) anti-spam and) Tj
+T*
+(anti-virus software we use \(and everyone needs some version of\). This could be folded into the) Tj
+T*
+(mail gateway server \(and it was in our recent backup MX , but we weren't sure about the) Tj
+T*
+(software's resource usage and system impact when we set it up. Keeping it separate also means) Tj
+T*
+(we can move it to a new OS version for more up to date software without having to worry about) Tj
+T*
+(any changes in new versions of the mailer that the mail gateway runs. A server for our central) Tj
+T*
+(mail machine that handles all aspects of email to local addresses, which for vari...) Tj
+T*
+() Tj
+T*
+(14. Dumb Ways for an Open Source Project to Die) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-19T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html) Tj
+T*
+(Weekend at Bernie?s showed that a good chunk of the most-depended-on open source packages are) Tj
+T*
+(dead, and there are a lot of different ways for a project to end up that way. The maintainer) Tj
+T*
+(left Ghost maintainer. The simplest and most common case: last human commit some years back,) Tj
+T*
+(issues accumulating unanswered, the repo not archived so it doesn?t show up in any filter that) Tj
+T*
+(would flag it. Usually the maintainer just moved on to other things and the project wasn?t) Tj
+T*
+(important enough to them to formally hand over or shut down, though the same silence covers) Tj
+T*
+(everything up to and including the maintainer having died, which neither the registry nor the) Tj
+T*
+(repo has any way to represent. From outside it?s indistinguishable from a long holiday until) Tj
+T*
+(enough unanswered issues have piled up to make the silence unambiguous, and the npm utilities) Tj
+T*
+(at the top of the Bernie?s dead list are mostly this. Corporate orphan. A company built and) Tj
+T*
+(open-sourced it with a team to run it, then a pivot or a layoff round took the team out and) Tj
+T*
+(nobody updated the README. The GitHub org persists with the company logo and the last people) Tj
+T*
+(who had admin rights have left, so often nobody still at the company knows the proj...) Tj
+T*
+() Tj
+T*
+(15. Book Review: Terrible Worlds: Destinations by Adrian Tchaikovsky ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 19 May 2026 11:34:17 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchai) Tj
+T*
+(kovsky/) Tj
+T*
+(What's better than one Adrian Tchaikovsky novella? Three Adrian Tchaikovsky novellæ! Or is it) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4342 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+("novellii"? Either way, a delightful triptych of stories on a common theme. On the surface,) Tj
+T*
+(they're about travelling to a new destination \(Space! The Future! For-Copyright-Reasons Not) Tj
+T*
+(Narnia!\) Except, deep down, they're about loneliness. No matter how far or fast we run, no) Tj
+T*
+(matter where or when we go, ?) Tj
+T*
+() Tj
+T*
+(16. AI Is Too Expensive) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 19 May 2026 15:48:42 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/ai-is-too-expensive/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter. It?s $70 a year, or $7) Tj
+T*
+(a month, and in return you get a weekly newsletter that?s usually anywhere from 5,000 to 18,000) Tj
+T*
+(words, including vast, detailed analyses of NVIDIA , Anthropic and) Tj
+T*
+() Tj
+T*
+(17. Pythagorean Addition) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 19 May 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/pythagorean-addition) Tj
+T*
+(TL;DR: Instead of labouriously computing \\\(c = \\sqrt{a^2 + b^2}\\\), we can mentally calculate) Tj
+T*
+(using the alpha-max plus beta-min algorithm, by estimating \\[\\hat{c} = \\mathrm{max}\\left\(a,) Tj
+T*
+(0.9a + 0.5b \\right\)\\] and this will be very close to the actual \\\(c\\\). This is useful for) Tj
+T*
+(adding up sources of variance, or figuring out radiuses, or other such things. \(Continue) Tj
+T*
+(reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(18. Alternatives for the EDIT tool of LLM agents) Tj
+T*
+(Source: antirez.com | Published: Tue, 19 May 2026 09:26:03 +0200) Tj
+T*
+(Link: http://antirez.com/news/166) Tj
+T*
+(EDIT: of course this was already done in the past! I had little doubts but people just) Tj
+T*
+(confirmed me about it on Twitter :\) But, keep reading: the CRC32 compromise at the end is an) Tj
+T*
+(interesting tradeoff, and this is a good discussion to have in general. Right now I'm working) Tj
+T*
+(to an agent for my DS4 project. Local inference is token-poor, it's a battlefield where) Tj
+T*
+(optimizations count. I was quite surprised by the fact the EDIT tool everybody is using right) Tj
+T*
+(now forces the LLM to emit the old version of the text verbatim. This CAS \(check and set\) mode) Tj
+T*
+(of operation, where I say EDIT old="foo" new="bar", is needed because there are often colliding) Tj
+T*
+(edits \(the user is editing as well, or checked out a different branch, and so forth\) and) Tj
+T*
+(because the LLM can just hallucinate that a given line had a given content. This means,) Tj
+T*
+(basically, that just using line numbers is very fragile: to say, change line 22 with) Tj
+T*
+(new="foobar" is not good. Yet I don't want my local LLM to throw away tokens rewriting the old) Tj
+T*
+(text each time, also because certain times the old text has a lot of special chars and spaces) Tj
+T*
+(that the model may get wrong; in this case the tool would fail, forcing the LLM to do the same) Tj
+T*
+(edit a...) Tj
+T*
+() Tj
+T*
+(19. RETRACTED: R and the Herd: Why we could be nearer to community immunity than we think) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 14 May 2020 15:27:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/r-and-the-herd/) Tj
+T*
+(Before any non-specialist attempts to write something on COVID-19, we should wonder: are any) Tj
+T*
+(actual experts already writing on this, and if not, why not. Enough badly informed stuff has) Tj
+T*
+(already been published by amateurs that before posting we should be certain we are actually) Tj
+T*
+(being helpful. October 2022 UPDATE: I've removed the rest of this post. Turns out everyone) Tj
+T*
+(\(including me\) was wrong, and we didn't understand pandemics of respiratory diseases very well.) Tj
+T*
+() Tj
+T*
+(20. Mitochondriën op Moederdag) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 10 May 2020 17:15:46 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/mitochondrien/) Tj
+T*
+(Een spontane wetenschapsupdate, omdat het Moederdag is, en speciaal voor iedereen die het nu) Tj
+T*
+(zonder zijn of haar moeder moet doen. Want, we dragen allemaal letterlijk een beetje onze) Tj
+T*
+(moeder bij ons! Deze post is dankbaar geïnspireerd door deze Twitter thread van Efra) Tj
+T*
+(Rivera-Serrano, PhD. Bron: Efra Rivera-Serrano, link Ons DNA is een mix van dat van onze beide) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 937 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(ouders. Maar, in vrijwel al onze cellen leeft een wonderlijk wezentje wat we echt alleen van) Tj
+T*
+(onze moeder geërfd hebben.) Tj
+T*
+() Tj
+T*
+(21. COVID-19: het belang van ventileren) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 09 May 2020 09:25:07 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-binnen/) Tj
+T*
+(Het RIVM, het ?Outbreak Management Team? en het kabinet werken samen aan gedegen adviezen.) Tj
+T*
+(Uiteindelijk worden dit ook wel de juiste adviezen, al blijft men soms lang aan oude dingen) Tj
+T*
+(hangen: mensen zonder symptomen zijn niet besmettelijk \(oeps, toch wel\), maskers hebben geen) Tj
+T*
+(zin \(oeps, ze helpen wel voorkomen dat je andere mensen besmet\). Uiteindelijk maakt men de) Tj
+T*
+(draai wel, maar het kost even. Nu de scholen weer opengaan vroeg ik me af, wat weten we) Tj
+T*
+(eigenlijk over hoe mensen besmet raken met COVID-19?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004592 00000 n 
+0000004718 00000 n 
+0000008856 00000 n 
+0000008982 00000 n 
+0000013932 00000 n 
+0000014058 00000 n 
+0000018453 00000 n 
+0000018581 00000 n 
+0000019570 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+19698
+%%EOF
