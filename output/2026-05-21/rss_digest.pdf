@@ -1,0 +1,616 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4591 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-21 09:44:58) Tj
+T*
+() Tj
+T*
+(1. Quoting SpaceX S-1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-20T22:26:36+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything) Tj
+T*
+(We have the ability to use compute resources to support our proprietary AI applications \(such) Tj
+T*
+(as Grok 5, which is currently being trained at COLOSSUS II\), while also providing access to) Tj
+T*
+(select compute capacity to third-party customers. For example, in May 2026, we entered into) Tj
+T*
+(Cloud Services Agreements with Anthropic PBC \(?Anthropic?\), an AI research and development) Tj
+T*
+(public benefit corporation, with respect to access to compute capacity across COLOSSUS and) Tj
+T*
+(COLOSSUS II . Pursuant to these agreements, the customer has agreed to pay us $1.25 billion per) Tj
+T*
+(month through May 2029, with capacity ramping in May and June 2026 at a reduced fee. The) Tj
+T*
+(agreements may be terminated by either party upon 90 days? notice. ? SpaceX S-1 , highlights) Tj
+T*
+(mine Tags: anthropic , grok , generative-ai , ai , llms) Tj
+T*
+() Tj
+T*
+(2. How fast is 10 tokens per second really?) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-20T17:57:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything) Tj
+T*
+(How fast is 10 tokens per second really? Neat little HTML app by Mike Veerman \( source code) Tj
+T*
+(here \) which simulates LLM token output speeds from 5/second to 800/second. Useful if you see a) Tj
+T*
+(model advertised as "30 tokens/second" and want to get a feel for what that actually looks) Tj
+T*
+(like. Via Hacker News Tags: ai , generative-ai , llms) Tj
+T*
+() Tj
+T*
+(3. Google I/O, Gemini Spark, Antigravity) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-20T15:32:17+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/20/google-io/#atom-everything) Tj
+T*
+(It's hard to find much to write about Google I/O this year because I have a policy of not) Tj
+T*
+(writing about anything that I can't try out myself, and a lot of the big announcements are) Tj
+T*
+("coming soon". I actually prefer to write about things that are in general availability,) Tj
+T*
+(because I've had instances in the past where the previews didn't match what was released to the) Tj
+T*
+(general public later on. Aside from Gemini 3.5 Flash the most interesting announcement looks to) Tj
+T*
+(be Google's upcoming OpenClaw competitor Gemini Spark , described as "your personal AI agent") Tj
+T*
+(which can "connect natively with your favorite Google apps like Gmail, Calendar, Drive, Docs,) Tj
+T*
+(Sheets, Slides, YouTube, and Google Maps". The FAQ for that also includes this confusing) Tj
+T*
+(detail: What Gemini model does Gemini Spark run on? Gemini Spark runs on Gemini 3.5 Flash and) Tj
+T*
+(Antigravity. The antigravity.google website currently lists Antigravity as a desktop app, a CLI) Tj
+T*
+(agent tool \(written in Go\), the Antigravity SDK \(an open source Python wrapper around a bundled) Tj
+T*
+(closed source Go binary\), and the original Antigravity IDE \(a VS Code fork\). I guess Gemini) Tj
+T*
+(Spark, the user-facing hosted agent product, might be running on that Go binary, b...) Tj
+T*
+() Tj
+T*
+(4. Prompts are technical debt too) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Wed, 20 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/prompts-are-technical-debt-too/) Tj
+T*
+(It?s common and correct to say that ?all code is technical debt?. Adding code is a necessary) Tj
+T*
+(evil for developing new features: you almost always have to do it, but each line of code adds) Tj
+T*
+(to the complexity and maintenance burden of the system. All future changes to the system have) Tj
+T*
+(to work with the existing code, or at least avoid breaking it. Once systems accumulate enough) Tj
+T*
+(code, they become impossible for a single person to understand: instead of reading the code and) Tj
+T*
+(understanding what it does, you must rely on guesses, theories and heuristics 1 . Sensible) Tj
+T*
+(engineers write as little code as possible. They write a lot of prompts, though! Many large) Tj
+T*
+(projects now have a set of codebase-specific prompt files: AGENTS.md, CLAUDE.md, those same) Tj
+T*
+(files in sub-directories, and skills . If you?re building a program that uses AI 2 , you?ll) Tj
+T*
+(have separate prompts for capabilities and for each tool , as well as a whole set of system) Tj
+T*
+(prompts . Prompts are important. Minor tweaks to a LLM?s prompt can unlock significant) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4848 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(performance improvements. If the same model feels different across Codex, Cursor, OpenCode, and) Tj
+T*
+(Copilot, it?s almost certainly due to subtle differences in prompting. AI companies sp...) Tj
+T*
+() Tj
+T*
+(5. WSJ: ?Google Unveils New Gemini AI Agent for Personal Tasks?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-21T01:05:14Z) Tj
+T*
+(Link: https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b809319) Tj
+T*
+(7?st=BFmPev) Tj
+T*
+(Katherine Blunt and Rolfe Winkler, reporting for The Wall Street Journal from Google I/O \(gift) Tj
+T*
+(link\): Google is supercharging its Gemini artificial-intelligence model to become more) Tj
+T*
+(competitive in the era of agentic AI. The company has started rolling out what it calls Gemini) Tj
+T*
+(Spark, a personal agent it says is capable of navigating a user?s digital life and acting on) Tj
+T*
+(his or her behalf. The agent will work across many of Google?s products and run on the) Tj
+T*
+(company?s cloud infrastructure. [...] The company has been testing Spark with a limited number) Tj
+T*
+(of users and plans to make it available next week to those who pay for AI Ultra, a new) Tj
+T*
+(subscription tier that costs $100 a month. A different top-level takeaway than the NYT?s ,) Tj
+T*
+(which in turn was different from Bloomberg?s . Ben Thompson, in a subscriber-only update at) Tj
+T*
+(Stratechery , sums it up: Indeed, if you wanted a positive spin on Google?s plethora of) Tj
+T*
+(announcements, it?s that the company is clearly fully committed to putting AI into anything and) Tj
+T*
+(everything; if you want to put a negative spin, well, it?s the exact same thing. One of the) Tj
+T*
+(enduring critiques of Google is that the company is unfocused and unmanageable, which, to the) Tj
+T*
+(extent...) Tj
+T*
+() Tj
+T*
+(6. NYT: ?Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-20T21:20:23Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_arti) Tj
+T*
+(cle_code=1.jlA.95yh.ptfBUHf-rBtB&smid=url-share) Tj
+T*
+(Tripp Mickle, Kate Conger, and Brian X. Chen, opening The New York Times?s report on) Tj
+T*
+(yesterday?s Google I/O keynote \(gift link\): For 25 years, Google?s iconic search box was a) Tj
+T*
+(long, slender bar where people typed in keywords like ?World Cup.? But over the past three) Tj
+T*
+(years, artificial intelligence allowed people to type in longer, more complex questions like) Tj
+T*
+(?Who are the top 24 teams in the World Cup and what chance does the United States have of) Tj
+T*
+(advancing?? On Tuesday, Google said the A.I. shift had inspired it to overhaul the dimensions) Tj
+T*
+(of its search bar for the first time since 2001. The box is getting bigger and more interactive) Tj
+T*
+(so that people can ask even longer questions and upload photographs and videos into queries.) Tj
+T*
+(Interesting to me that this is the Times?s biggest takeaway. But it speaks to how unchanged the) Tj
+T*
+(google.com homepage has been since its earliest days . In addition, people can ask follow-up) Tj
+T*
+(questions with a chatbot on Google?s main search page. The company will also offer digital) Tj
+T*
+(assistants, known as agents, to automate searches so that someone who may be apartment hunting) Tj
+T*
+(can be notified of a new listing without opening a real estate site like Zillow. Odd, to me...) Tj
+T*
+() Tj
+T*
+(7. ?You Do Not Need Fancy Equipment, You Do Not Need a Degree, to Make Money and to Do) Tj
+T*
+(This as Your Job?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-20T20:53:22Z) Tj
+T*
+(Link: https://www.tiktok.com/@brye.shhh/video/7641047549758934285) Tj
+T*
+(22-year-old pop singer-songwriter Brye , on TikTok: ?Lemons?, my biggest song ever, that went) Tj
+T*
+(like super viral during quarantine back in 2020, was actually produced, if you can believe it,) Tj
+T*
+(in GarageBand on my school iPad. My high school gave us all iPads and I produced ?Lemons? on) Tj
+T*
+(there. I used to just like make beats on GarageBand in high school. I wrote musicals for my) Tj
+T*
+(school with GarageBand on my iPad. And then I made that little demo for ?Lemons?, recorded it) Tj
+T*
+(... on my iPad ... with my horrible little plug-in mic, posted it to spite a guy who was being) Tj
+T*
+(horrible to me, and it blew up. I love this, to say, how crazy is it that a song that could be) Tj
+T*
+(on Sirius XM radio ? streamed a hundred million times, literally charted on the global top like) Tj
+T*
+(viral 50 or whatever ? it was literally made on GarageBand. You do not need fancy equipment,) Tj
+T*
+(you do not need a degree, to make money and to do this as your job. Obviously it?s good to) Tj
+T*
+(learn. It?s fun to upgrade. But if you are working on a budget, GarageBand?s free on any Apple) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4522 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(device. If Brye?s story isn?t exactly what Steve Jobs was talking about when he introduced) Tj
+T*
+(GarageBand in 2004 and GarageBand for iPad in 2011 , well, I don?t know wha...) Tj
+T*
+() Tj
+T*
+(8. What is the history of the ERROR_ARENA_TRASHED error code?) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 19 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339) Tj
+T*
+(The storage control blocks were destroyed. The post What is the history of the ERROR_ ARENA_) Tj
+T*
+(TRASHED error code? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. "No way to prevent this" say users of only language where this regularly happens) Tj
+T*
+(Source: Xe Iaso's blog | Published: Wed, 20 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/) Tj
+T*
+(In the hours following the release of CVE-2026-45584 for the project Microsoft Windows , site) Tj
+T*
+(reliability workers and systems administrators scrambled to desperately rebuild and patch all) Tj
+T*
+(their systems to fix a memory safety vulnerability resulting in arbitrary code execution inside) Tj
+T*
+(the virus scanner Windows Defender. This is due to the affected components being written in) Tj
+T*
+(C++, the only programming language where these vulnerabilities regularly happen. "This was a) Tj
+T*
+(terrible tragedy, but sometimes these things just happen and there's nothing anyone can do to) Tj
+T*
+(stop them," said programmer Dr. Annabelle Connelly, echoing statements expressed by hundreds of) Tj
+T*
+(thousands of programmers who use the only language where 90% of the world's memory safety) Tj
+T*
+(vulnerabilities have occurred in the last 50 years, and whose projects are 20 times more likely) Tj
+T*
+(to have security vulnerabilities. "It's a shame, but what can we do? There really isn't) Tj
+T*
+(anything we can do to prevent memory safety vulnerabilities from happening if the programmer) Tj
+T*
+(doesn't want to write their code in a robust manner." At press time, users of the only) Tj
+T*
+(programming language in the world where these vulnerabilities regularly happen once or...) Tj
+T*
+() Tj
+T*
+(10. Notes about reading messages with the Python email packages) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-20T03:02:04Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes) Tj
+T*
+(I have a long standing personal program to display MIME formatted email messages in the) Tj
+T*
+(terminal in a sensible way \(it was mentioned in this old entry on my email tools and its) Tj
+T*
+(comments \). For a long time this was a Python 2 program, using the Python 2 version of the) Tj
+T*
+(email package . Recently, I moved this program to Python 3 as part of my sudden enthusiasm for) Tj
+T*
+(Python 3 conversions , using the Python 3 version of email and its sub-packages. In the process) Tj
+T*
+(I have wound up with some notes and opinions on practical use of the Python 3 email packages.) Tj
+T*
+(\(The Python 2 version of email had its own quirks and oddities, but I worked all of those out) Tj
+T*
+(that hard way years ago, have mostly forgotten them since, and they're not interesting any more) Tj
+T*
+(now that the era of Python 2 is over.\) The Python 3 email documentation will tell you that the) Tj
+T*
+(modern interface for email messages is email.message.EmailMessage . The older) Tj
+T*
+(email.message.Message is \(theoretically\) only there for Python 3.2 compatibility and you should) Tj
+T*
+(ignore its methods and use only the EmailMessage methods. This is not entirely the case. If you) Tj
+T*
+(look behind the curtain, you'll discover that many of the EmailMessage APIs for reading mes...) Tj
+T*
+() Tj
+T*
+(11. Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital) Tj
+T*
+(Surveillance) Tj
+T*
+(Source: micahflee | Published: Wed, 20 May 2026 22:36:13 GMT) Tj
+T*
+(Link: https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-ag) Tj
+T*
+(ainst-digital-surveillance/) Tj
+T*
+(I just finished reading Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance ,) Tj
+T*
+(by my friend Cindy Cohn. It's excellent and you should buy a copy. Cindy is the Executive) Tj
+T*
+(Director of the Electronic Frontier Foundation, and this memoir/legal history goes over three) Tj
+T*
+(major legal battles) Tj
+T*
+() Tj
+T*
+(12. Nobody is destined for greatness.) Tj
+T*
+(Source: Westenberg. | Published: Thu, 21 May 2026 01:31:20 GMT) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4629 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.joanwestenberg.com/nobody-is-destined-for-greatness/) Tj
+T*
+(Demosthenes lost his first appearance before the Athenian assembly. His voice came out thin and) Tj
+T*
+(failed him mid-sentence, and the crowd laughed him off the platform. Plutarch tells us he) Tj
+T*
+(walked home with his cloak pulled over his face, certain his public life had ended before it) Tj
+T*
+(started. What he) Tj
+T*
+() Tj
+T*
+(13. [RSS Club] Let's meet up AFK) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 20 May 2026 11:34:04 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/) Tj
+T*
+(Shhhh! This post is only available to RSS subscribers like you ? My wife and I are preparing) Tj
+T*
+(for a big Interrail journey through Europe. Whenever we go on holiday, we like to meet up with) Tj
+T*
+(friendly locals to have a drink and chat. We did this on our last journey and it was great. So,) Tj
+T*
+(if you're a member of RSS club and fancy showing some tourists a cool bar, awesome restaurant) Tj
+T*
+(\(with vegan op?) Tj
+T*
+() Tj
+T*
+(14. Assumptions weaken properties) Tj
+T*
+(Source: Computer Things | Published: Wed, 20 May 2026 15:13:16 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/) Tj
+T*
+(In some tests are stronger than others , I defined STRONG => WEAK to mean "any system passing) Tj
+T*
+(test STRONG is also guaranteed to pass WEAK". This uses the logical implication operator,) Tj
+T*
+(defined as P => Q = !P || \(P && Q\) . Implication may be the most overworked operator in logic.) Tj
+T*
+(Among other things, it's also used in formal specification, where Spec => Prop means "any) Tj
+T*
+(system satisfying Spec has property Prop " and ASSUME => Spec means "The assumption ASSUME must) Tj
+T*
+(hold in order for the system to satisfy Spec ." Now let's mush these all together and do some) Tj
+T*
+(math. To start, "the system has property Prop " is the same as "the system passes the test that) Tj
+T*
+(checks Prop ", so test strength is also property strength. Now let " ASSUME => Prop " mean "the) Tj
+T*
+(system passes Prop assuming ASSUME is true." In classic logic, if P is true, then obviously !Q) Tj
+T*
+(|| P is true. Further, that is equivalent \(just draw the truth table!\) to !Q || \(P && Q\) . So) Tj
+T*
+(for any propositions P and Q , P => \(Q => P\) . In other words, Prop => \(ASSUME => Prop\) . In) Tj
+T*
+(other other words, "the system passes Prop " is a stronger property than "the system passes) Tj
+T*
+(Prop whenever our assumptions hold." In other other other words, any assum...) Tj
+T*
+() Tj
+T*
+(15. What will better AI mean?) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-05-20T00:00:00-07:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html) Tj
+T*
+(I thought about posting this paper but rebranding it as the Claude Mythos technical report. As) Tj
+T*
+(far as I can tell, there?s no secret tricks the US frontier labs have, and that basically) Tj
+T*
+(describes how Mythos was trained. What?s in that paper just works, and for verifiable domains,) Tj
+T*
+(it?s only a matter of fixing bugs and scaling up. That?s why Anthropic is so desperate for) Tj
+T*
+(regulatory capture, AI has no moat. AI \(and any form of search\) has this property where you) Tj
+T*
+(spend exponentially more money to get linear returns. So for a bit we?ll live in an era where) Tj
+T*
+(AI can in theory solve very hard problems, but it?s very expensive to do so. The Internet has) Tj
+T*
+(been fully mined, and it yielded 20T good tokens. For a Chinchilla optimal model, that?s only) Tj
+T*
+(1T weights \(1e26 training run if dense\). 500 GB gets you all of human knowledge in a simple to) Tj
+T*
+(query archive. For comparison, Wikipedia is 24 GB with mediocre compression. Technology) Tj
+T*
+(proceeds in terms of S-curves, and AI has gone through a few of them already. I know I?m quite) Tj
+T*
+(late to this, but I?m feeling optimistic that scaling will mostly stop yielding results. GPT) Tj
+T*
+(5.5 is to a point where it?s really hard for me to stump it with any problem. What...) Tj
+T*
+() Tj
+T*
+(16. The Fourth Era of Computing) Tj
+T*
+(Source: Daniel De Laney | Published: Tue, 19 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://danieldelaney.net/fourth-era/) Tj
+T*
+(The polarity of hard and easy in computing is inverting. Raw configuration files, exposed APIs,) Tj
+T*
+(terminal-first applications; these have all become easy. They are the hooks agents want, and we) Tj
+T*
+(don?t have to think about them. Polished GUIs are now becoming the hard path by comparison,) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3494 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(because we have to use them ourselves. This change has sparked the fourth era in the evolution) Tj
+T*
+(of computing. By describing it and how we got here, I will overturn most of the things I?ve) Tj
+T*
+(ever said about user interface design. I?ve always advocated for simple GUIs that normal people) Tj
+T*
+(can use, but that argument is losing its potency. Ugly exposed wiring is exactly what makes) Tj
+T*
+(something the right choice now. Era I: Terminal In the first era of computing, everything was) Tj
+T*
+(hard. You memorized a specialized language and you typed it at a prompt. If you hadn?t read the) Tj
+T*
+(fine manual, the computer was entirely opaque to you. ` prompt that waits for a command and) Tj
+T*
+(offers no hint about what to type" class="bordered" loading="lazy" /> Era II: Early GUI In the) Tj
+T*
+(second era, we defended ourselves from the inhumanity of the CLI with the GUI. Functionality) Tj
+T*
+(was behind discoverable buttons rather than typed commands. This was p...) Tj
+T*
+() Tj
+T*
+(17. Corona: Hoe en waar krijgen we het? Niemand die het weet.) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 27 Apr 2020 08:49:38 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-hoe-en-wat/) Tj
+T*
+(Ik blog al maanden over SARS-CoV-2 aka COVID-19 aka ?het coronavirus?, waarbij ik grotendeels) Tj
+T*
+(dingen uitleg en verwijs naar positieve ontwikkelingen. Ook zijn er stukjes over medische) Tj
+T*
+(experimenten, over ons immuunsysteem en recent iets korts over het vermoedelijke belang van) Tj
+T*
+(goede ventilatie om COVID-19 besmettingen tegen te gaan. Ik houd van de wetenschap en ben trots) Tj
+T*
+(op het mooie onderzoek wat hier in internationale samenwerking verricht wordt. Maar nu dan toch) Tj
+T*
+(een zeurstuk: waarom weten we niet waar en hoe mensen in Nederland besmet raken?) Tj
+T*
+() Tj
+T*
+(18. Corona Update 21 April) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 21 Apr 2020 14:30:40 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-update-21-april/) Tj
+T*
+(Ja, daar zijn we weer. Bij het beÎindigen van de serie dagelijkse Corona updates had ik) Tj
+T*
+(aangekondigd nog terug te komen als er weer wat te melden was. Bij deze een aflevering ?hoe) Tj
+T*
+(gaat het nu met?, met daarin nieuws over hoe het verder gaat met eerder gemelde ontwikkelingen.) Tj
+T*
+(Daarnaast twee stukjes op veler verzoek: hoe gaat het met het testen en kan de economie al weer) Tj
+T*
+(open. Om te beginnen, op 25 maart zei ik ?De samenvatting is dat als iedereen zich aan de) Tj
+T*
+(regels houdt \(BLIJF THUIS, HOUD AFSTAND\) we het waarschijnlijk net binnen de capaciteit gaan) Tj
+T*
+(houden in Nederland?, en dat bleek dus te kloppen.) Tj
+T*
+() Tj
+T*
+(19. Tracing App Backend Development) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 14 Apr 2020 20:00:22 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/tracing-app-backend/) Tj
+T*
+(bert@hubertnet.nl / @bert_hu_bert / LinkedIn Very quick post. The Dutch government just) Tj
+T*
+(launched a tender for ?digital technologies that can help with Corona?. The tender includes) Tj
+T*
+(words on privacy sensitive contact tracing, it explicitly refers to PEPP-PT, the Pan-European) Tj
+T*
+(Privacy-Preserving Proximity Tracing project. Responses are due on Tuesday the 14th of April,) Tj
+T*
+(12:00 \(noon\). The question/answer form asks if you can do a demo on the 18th of April and have) Tj
+T*
+(something that could be rolled out on the 28th.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004860 00000 n 
+0000004986 00000 n 
+0000009886 00000 n 
+0000010012 00000 n 
+0000014586 00000 n 
+0000014712 00000 n 
+0000019394 00000 n 
+0000019522 00000 n 
+0000023069 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+23197
+%%EOF
