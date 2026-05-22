@@ -1,0 +1,838 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 7 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4305 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-22 09:45:37) Tj
+T*
+() Tj
+T*
+(1. Datasette Agent) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-21T19:52:19+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything) Tj
+T*
+(We just announced the first release of Datasette Agent , a new extensible AI assistant for) Tj
+T*
+(Datasette. I've been working on my LLM Python library for just over three years now, and) Tj
+T*
+(Datasette Agent represents the moment that LLM and Datasette finally come together. I'm really) Tj
+T*
+(excited about it! Datasette Agent provides a conversational interface for asking questions of) Tj
+T*
+(the data you have stored in Datasette. Add the datasette-agent-charts plugin and it can) Tj
+T*
+(generate charts of your data as well. The demo The announcement post \(on the new Datasette) Tj
+T*
+(project blog\) includes this demo video : I recorded the video against the new) Tj
+T*
+(agent.datasette.io live demo instance, which runs Datasette Agent against example databases) Tj
+T*
+(including the classic global-power-plants by WRI , and a copy of the Datasette backup of my) Tj
+T*
+(blog. The live demo runs on Gemini 3.1 Flash-Lite - it's cheap, fast and has no trouble writing) Tj
+T*
+(SQLite queries. A question I asked in the demo was: when did Simon most recently see a pelican?) Tj
+T*
+(Which ran this SQL query : SELECT title, commentary, created FROM blog_beat WHERE beat_type = ') Tj
+T*
+(sighting ' AND \(title LIKE ' %pelican% ' OR commentary LIKE ' %pelican% ' \) ORDER BY created) Tj
+T*
+(DESC LIM...) Tj
+T*
+() Tj
+T*
+(2. datasette-agent-sprites 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-21T18:21:07+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything) Tj
+T*
+(Release: datasette-agent-sprites 0.1a0 A Datasette Agent plugin for running commands in a Fly) Tj
+T*
+(Sprites sandbox. Tags: sandboxing , datasette , fly , datasette-agent) Tj
+T*
+() Tj
+T*
+(3. datasette-agent-charts 0.1a2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-21T15:15:58+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything) Tj
+T*
+(Release: datasette-agent-charts 0.1a2 "View SQL query" buttons below rendered charts. Tags:) Tj
+T*
+(datasette , datasette-agent) Tj
+T*
+() Tj
+T*
+(4. Alleged Kimwolf Botmaster ?Dort? Arrested, Charged in U.S. and Canada) Tj
+T*
+(Source: Krebs on Security | Published: Thu, 21 May 2026 21:50:25 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-) Tj
+T*
+(s-and-canada/) Tj
+T*
+(Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building) Tj
+T*
+(and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of) Tj
+T*
+(devices for use in a series of massive distributed denial-of-service \(DDoS\) attacks over the) Tj
+T*
+(past six months. KrebsOnSecurity publicly named the suspect in February 2026 after the accused) Tj
+T*
+(launched a volley of DDoS, doxing and swatting campaigns against this author and a security) Tj
+T*
+(researcher. He now faces criminal hacking charges in both Canada and the United States.) Tj
+T*
+() Tj
+T*
+(5. The famous o3 "GeoGuessr" prompt did not work) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Thu, 21 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/) Tj
+T*
+(In April last year, Kelsey Piper discovered that OpenAI?s o3 model was surprisingly good at) Tj
+T*
+(figuring out where a photo was taken from. Like human ?geoguessr? pros , o3 could sometimes) Tj
+T*
+(take a nondescript photo of a beach and tell you exactly where it is. Here?s the example Kelsey) Tj
+T*
+(gave: Several people reproduced this with good results: not a 100% success rate, but clearly) Tj
+T*
+(far better than you?d do with a random human guess. The lesson here is that model capabilities) Tj
+T*
+(can surprise us . The o3 model had been released for two weeks before Kelsey?s tweet without) Tj
+T*
+(anyone noticing how good it was at geolocation. What obscure capabilities did we never find?) Tj
+T*
+(What capabilities of current models are we missing today? Some people drew another lesson from) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4847 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(this: that ?prompt engineering? can unlock brand-new capabilities. This is because Kelsey had a) Tj
+T*
+(magic prompt that she built over time. When o3 got something wrong, she would ask it how it) Tj
+T*
+(could have avoided the mistake, and then included that in the prompt. Here?s the first 10% of) Tj
+T*
+(that prompt, so you get the idea: You are playing a one-round game of GeoGuessr. Your task:) Tj
+T*
+(from a single still image, infer the most likely real-world location. Note t...) Tj
+T*
+() Tj
+T*
+(6. Apple Seeks Supreme Court Review of Contempt Finding and Injunction Scope in Epic Games) Tj
+T*
+(Case) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-22T01:00:47Z) Tj
+T*
+(Link: https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-i) Tj
+T*
+(njunction-scope-in-epic-games-case/) Tj
+T*
+(Marcus Mendes, reporting for 9to5Mac: Apple today filed a request with the Supreme Court in an) Tj
+T*
+(attempt to reverse key lower court rulings over the App Store injunction in its long-running) Tj
+T*
+(legal battle with Epic Games. [...] In its petition, Apple is asking the Supreme Court to) Tj
+T*
+(review two questions. The first is whether Apple should have been held in contempt for charging) Tj
+T*
+(a commission on purchases made outside the App Store. The second is about the scope of the) Tj
+T*
+(injunction. On the first point, Apple argues that the original injunction did not specifically) Tj
+T*
+(address commissions. Instead, it says the order only prevented Apple from blocking developers) Tj
+T*
+(from including buttons, external links, or other calls to action directing users to external) Tj
+T*
+(purchasing options. According to Apple, that is not the same as saying the company could not) Tj
+T*
+(charge a commission on those purchases. The Ninth Circuit acknowledged that the text of the) Tj
+T*
+(injunction did not address commissions, but still upheld the contempt finding by relying on the) Tj
+T*
+(idea that a party can violate the ?spirit? of an injunction, even when the injunction does not) Tj
+T*
+(specifically prohibit the conduct at issue. Apple?s argument here is that on...) Tj
+T*
+() Tj
+T*
+(7. Apple TV to Broadcast Entire MLS Match Shot Using iPhones) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-21T23:59:07Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/05/apple-tv-to-air-first-major-live-pro-sports-event-) Tj
+T*
+(shot-on-iphone-17-pro/) Tj
+T*
+(Speaking of Apple and sports, here?s another one from Apple Newsroom: This Saturday, May 23,) Tj
+T*
+(Apple TV will present a special live Major League Soccer match captured exclusively on iPhone) Tj
+T*
+(17 Pro ? marking the first time iPhone will be used to capture the entirety of a major) Tj
+T*
+(professional live sporting event broadcast. Developed in partnership with MLS, the milestone) Tj
+T*
+(broadcast will feature the LA Galaxy vs. Houston Dynamo FC, streaming live on Apple TV from) Tj
+T*
+(Dignity Health Sports Park in Carson, California, during the final weekend of MLS play before) Tj
+T*
+(the regular season pauses for the FIFA World Cup 2026 in North America. The word ?major? is) Tj
+T*
+(doing a bit of work in the phrase ?major professional live sporting event? here, but it?s still) Tj
+T*
+(quite a moment for iPhone photography. Apple started using iPhone 17 Pro cameras during Friday) Tj
+T*
+(Night Baseball games last year , but this will be the first event to use them exclusively. ?) Tj
+T*
+() Tj
+T*
+(8. Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-21T19:13:56Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/05/apple-sports-expands-to-more-than-90-new-countries) Tj
+T*
+(-and-regions/) Tj
+T*
+(Apple Newsroom: Apple Sports ? the free app for iPhone that gives fans access to real-time) Tj
+T*
+(scores, stats, and more ? is now available to download on the App Store in more than 170) Tj
+T*
+(countries and regions around the world, including more than 90 newly added markets. Designed) Tj
+T*
+(for speed and simplicity, the app delivers a personalized experience, putting fans? favorite) Tj
+T*
+(teams and leagues front and center with a simple, intuitive interface designed by Apple. Apple) Tj
+T*
+(Sports is helping fans get ready for the World Cup by allowing them to explore tournament) Tj
+T*
+(groupings and customize their scoreboards simply by following the entire tournament or their) Tj
+T*
+(favorite national teams ? making it easier to stay on top of key moments when the tournament) Tj
+T*
+(kicks off in June. Following a team also enables Live Activities on a user?s iPhone Lock Screen) Tj
+T*
+(or Apple Watch, letting them follow every moment of a match with just a quick glance. I?ve got) Tj
+T*
+(some gripes about certain specific aspects of Apple Sports. Like, where does one even start to) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4584 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(explain how much is wrong with their zero-sum visualization of team stats ? Has anyone ever) Tj
+T*
+(even seen a presentation like that before? Anyone ? But overall it really is a good...) Tj
+T*
+() Tj
+T*
+(9. The classic TreeView control lets me sort by name or by lParam, but why not both?) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 20 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260520-00/?p=112343) Tj
+T*
+(You need to arrange to get one from the other. The post The classic TreeView control lets me) Tj
+T*
+(sort by name or by lParam, but why not both? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(10. Notes on respectfully getting a personal copy of a website's contents) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-21T22:46:35Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/RespectfulPersonalArchiving) Tj
+T*
+(Suppose, hypothetically, that you want to have a personal copy of the content of some website) Tj
+T*
+(that you feel is important \(to you\). There are perfectly good reasons to want such a copy;) Tj
+T*
+(websites go away all the time on the Internet, and not everyone is online all of the time. It's) Tj
+T*
+(generally possible to do this \(and it's certainly possible to do this with Wandering Thoughts) Tj
+T*
+(\), but there's some things the hypothetical you is going to more or less need to do. These) Tj
+T*
+(things will be work, but that's the difference between successfully getting a personal copy and) Tj
+T*
+(turning a brute force crawler lose and then getting ratelimited and blocked. It's also the) Tj
+T*
+(difference between being polite and being rude , and hopefully you care about that. \(With the) Tj
+T*
+(increasing decay of Internet search engines, you might also want to build your own personal) Tj
+T*
+(index of useful website content.\) First, you need to work out the URLs for the real content of) Tj
+T*
+(the website. Many websites of interest have some mixture of real pages and various sorts of) Tj
+T*
+(indexes and other aggregations of those real pages, and it's not uncommon for the index pages) Tj
+T*
+(to outnumber the real pages , sometimes vastly. Your personal copy of the websi...) Tj
+T*
+() Tj
+T*
+(11. Unix has been changing, but in places where I don't see it) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-21T01:58:32Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/unix/UnixChangingQuietly) Tj
+T*
+(For reasons beyond the scope of this entry , I've wound up thinking about how stable or) Tj
+T*
+(unstable the Unix landscape has been 'recently' \(which means for more than a decade, and) Tj
+T*
+(especially as compared with the 1990s and early 00s\). I've written about aspects of this) Tj
+T*
+(before, such as the fading out of multi-architecture Unix environments . In thinking about it) Tj
+T*
+(more after my Fediverse post, I've come to feel that the Unix environment has still been) Tj
+T*
+(changing but in places where I'm not as conscious of it. The biggest change is probably the) Tj
+T*
+(growth of cloud Unix, which I could characterize as "Unix machines on demand". In practice,) Tj
+T*
+(cloud Unix is a whole new Unix environment that is quite different from traditional Unix, with) Tj
+T*
+(different tools and especially different practices. Some of the practices are \(sort of\)) Tj
+T*
+(extensions from old fashioned large scale Unix administration but many aren't really. I'm aware) Tj
+T*
+(of cloud Unix and this gulf between operating it and what we do if I think about it, but I) Tj
+T*
+(don't usually. Cloud Unix practices spill over into what people want to do outside of the) Tj
+T*
+(cloud, in the form of things like containers. Operating software through containers is quite) Tj
+T*
+(different fro...) Tj
+T*
+() Tj
+T*
+(12. Couth and uncouth function pairs) Tj
+T*
+(Source: John D. Cook | Published: Thu, 21 May 2026 17:31:13 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/21/couth-and-uncouth-function-pairs/) Tj
+T*
+(?You can?t always get what you want. But sometimes you get what you need.? ? The Rolling Stones) Tj
+T*
+(Circular functions and hyperbolic functions aren?t invertible, but we invert them anyway. These) Tj
+T*
+(functions map many points in the domain to each point in the range, and we invert them by) Tj
+T*
+(mapping a point in the range [?] The post Couth and uncouth function pairs first appeared on) Tj
+T*
+(John D. Cook .) Tj
+T*
+() Tj
+T*
+(13. Circular and hyperbolic functions differ by rotations) Tj
+T*
+(Source: John D. Cook | Published: Thu, 21 May 2026 15:53:56 +0000) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4638 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.johndcook.com/blog/2026/05/21/circular-hyperbolic-rotations/) Tj
+T*
+(The difference between a circular function and a hyperbolic function is a rotation or two. For) Tj
+T*
+(example, cosh\(z\) = cos\(iz\). You can read that as saying that to find the hyperbolic cosine of) Tj
+T*
+(z, first you rotate z a quarter turn to the left \(i.e. multiply by i\) and then take the cosine.) Tj
+T*
+(For another example, [?] The post Circular and hyperbolic functions differ by rotations first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(14. "No way to prevent this" say users of only package manager where this regularly) Tj
+T*
+(happens) Tj
+T*
+(Source: Xe Iaso's blog | Published: Thu, 21 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/) Tj
+T*
+(In the hours following the news that art-template fell victim to a supply chain attack via NPM,) Tj
+T*
+(developers and systems administrators scrambled ensure all of their projects were unaffected) Tj
+T*
+(from a supply chain attack where attackers have controlled the repository since 2025 and are) Tj
+T*
+(using it to load unauthorized JavaScript from third party domains, including but not limited to) Tj
+T*
+(Baidu Analytics. This is is due to the affected dependencies being distributed via NPM , the) Tj
+T*
+(only package manager where these supply-chain attacks regularly happen. "This was a terrible) Tj
+T*
+(tragedy, but sometimes these things just happen and there's nothing anyone can do to stop) Tj
+T*
+(them," said programmer Mrs. Macy Von, echoing statements expressed by hundreds of thousands of) Tj
+T*
+(programmers who use the only package manager where 90% of the world's supply-chain attacks have) Tj
+T*
+(occurred in the last decade, and whose projects are 20 times more likely to fall victim to) Tj
+T*
+(supply chain attacks. "It's a shame, but what can we do? There really isn't anything we can do) Tj
+T*
+(to prevent supply-chain attacks from happening if the maintainers don't want to secure access) Tj
+T*
+(to their accounts in a robust manner". At press time, users of the only pa...) Tj
+T*
+() Tj
+T*
+(15. "No way to prevent this" say users of only language where this regularly happens) Tj
+T*
+(Source: Xe Iaso's blog | Published: Thu, 21 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45250/) Tj
+T*
+(In the hours following the release of CVE-2026-45250 for the project FreeBSD , site reliability) Tj
+T*
+(workers and systems administrators scrambled to desperately rebuild and patch all their systems) Tj
+T*
+(to fix a kernel stack overflow when validating permissions of the setcred\(2\) system call,) Tj
+T*
+(allowing arbitrary code execution in the context of the kernel. This is due to the affected) Tj
+T*
+(components being written in C, the only programming language where these vulnerabilities) Tj
+T*
+(regularly happen. "This was a terrible tragedy, but sometimes these things just happen and) Tj
+T*
+(there's nothing anyone can do to stop them," said programmer Mrs. Gregoria Doyle, echoing) Tj
+T*
+(statements expressed by hundreds of thousands of programmers who use the only language where) Tj
+T*
+(90% of the world's memory safety vulnerabilities have occurred in the last 50 years, and whose) Tj
+T*
+(projects are 20 times more likely to have security vulnerabilities. "It's a shame, but what can) Tj
+T*
+(we do? There really isn't anything we can do to prevent memory safety vulnerabilities from) Tj
+T*
+(happening if the programmer doesn't want to write their code in a robust manner." At press) Tj
+T*
+(time, users of the only programming language in the world where these vulnerabilities reg...) Tj
+T*
+() Tj
+T*
+(16. Whale Fall) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 21 May 2026 11:34:15 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/whale-fall/) Tj
+T*
+(Somewhere, in the endless blue ocean, a gigantic mammal shudders as it takes its last breath.) Tj
+T*
+(Thanks to science, we know that all dogs go to heaven, but all whales descend through the murky) Tj
+T*
+(depths until their carcasses litter the seabed. Imagine a giant dying. You can't. They are huge) Tj
+T*
+(and endless. A towering presence which, so it seems, has always been part of our world. They) Tj
+T*
+(dominate and are?) Tj
+T*
+() Tj
+T*
+(17. TIL: Symlinking NixOS Dotfiles) Tj
+T*
+(Source: matklad | Published: 2026-05-21T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html) Tj
+T*
+(The standard answer to managing dotfiles on NixOS is home-manager. I've never used it, due to) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4425 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(two aesthetic and one practical objection:) Tj
+T*
+() Tj
+T*
+(18. NGC 4236) Tj
+T*
+(Source: Maurycy's Blog | Published: Tue, 12 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/astro/ngc4236/) Tj
+T*
+(North is left, mirrored. 0.33 arcsec/pixel \(16' by 11'\) Total exposure time : 457 * 30 seconds) Tj
+T*
+(= 3.8 hours. Exposure used in stack : 187 * 30 seconds = 1.5 hours. Telescope : C9.25 \(230mm) Tj
+T*
+(aperture, f/10, fl=2300mm\) Camera : IMX533 \(16 mm diagonal, square, OSC\) Processing : \(no) Tj
+T*
+(software sharpening used\) Callibration stacking \(average w/ rejection\) White balance and) Tj
+T*
+(blackground subtraction Asinh stretch Light denoising Tone curve Crop There's not too much to) Tj
+T*
+(say about this: it's barred spriral galaxy with uneven arms. Because of it's fairly low surface) Tj
+T*
+(brightness \(as galaxies go\), the image uses data collected across nights. However, it's still) Tj
+T*
+(not very much because of the vanish≠ingly small amount of darkness this time of year, and) Tj
+T*
+(because I forgot the dew shield on during the second night. However, there is a nearby galaxy) Tj
+T*
+(cluster at 12h15m37s +69∞32'30": I don't think this has any names or catalog designations.) Tj
+T*
+(Hubble hasn't imaged it, so the best references avalable are ground-based sky surveys. Raw) Tj
+T*
+(stacks: 32-bits compressed.) Tj
+T*
+() Tj
+T*
+(19. RFC: Artificial Contributors to Open Source) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-21T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/21/rfc-artificial-contributors-to-open-source.html) Tj
+T*
+(Open Source Working Group A. Nesbitt Internet-Draft Independent Intended status: Best Current) Tj
+T*
+(Practice 21 May 2026 Expires: 22 November 2026 Abstract This document specifies disclosure,) Tj
+T*
+(quality, and behavioural requirements for non-human contributors to open source software) Tj
+T*
+(projects. Distribution of this memo is unlimited. 1. Introduction Open source projects) Tj
+T*
+(increasingly receive contributions whose authorship is undeclared and whose volume exceeds the) Tj
+T*
+(project?s review capacity. Existing contribution guidelines were written on the assumption that) Tj
+T*
+(the contributor could experience embarrassment. This document updates that guidance for cases) Tj
+T*
+(where the assumption does not hold. 2. Terminology The key words ?MUST?, ?MUST NOT?, ?SHOULD?,) Tj
+T*
+(?SHOULD NOT?, and ?MAY? in this document are to be interpreted as described in BCP 14 [ RFC2119) Tj
+T*
+(] [ RFC8174 ] when, and only when, they appear in all capitals as shown here. Artificial) Tj
+T*
+(Contributor \(AC\) : A system that produces contributions to a software project other than by) Tj
+T*
+(direct human authorship, or a human submitting the output of such a system without having read) Tj
+T*
+(it. Operator : The human, if any, on whose behalf an AC acts and in whose name its co...) Tj
+T*
+() Tj
+T*
+(20. The Rise of Build-to-Rent Housing) Tj
+T*
+(Source: Construction Physics | Published: Thu, 21 May 2026 12:03:24 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/the-rise-of-build-to-rent-housing) Tj
+T*
+(A major shift in the housing market in the last several years is the rapidly increasing) Tj
+T*
+(popularity of ?build-to-rent? homes ? single-family homes that are built specifically for the) Tj
+T*
+(purpose of being rented out.) Tj
+T*
+() Tj
+T*
+(21. Anthropic's "Profitability" Swindle) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Thu, 21 May 2026 17:08:19 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/anthropics-profitability-swindle/) Tj
+T*
+(Yesterday, the Wall Street Journal ran a story about how Anthropic is ?about to have its first) Tj
+T*
+(profitable quarter,? specifically an operating profit, or EBITDA profitability: Anthropic?s) Tj
+T*
+(revenue is set to more than double to $10.9 billion in the second quarter, an explosive rate of) Tj
+T*
+() Tj
+T*
+(22. Book Notes: ?Poor Charlie?s Almanack?) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Thu, 21 May 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/book-notes-charlie-munger/) Tj
+T*
+(I?ve been slowly listening to Poor Charlie?s Almanack: The Essential Wit and Wisdom of Charles) Tj
+T*
+(T. Munger . I like his practicality. He?s never trying to be overly academic, as if he needs to) Tj
+T*
+(prove how smart he is. He says Berkshire?s success doesn?t come from them solving hard) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4593 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(problems, but from spending their time knowing what a simple solution looks like ? and acting) Tj
+T*
+(on it when they see it! We?ve succeeded by making the world easy for us, not by solving the) Tj
+T*
+(world?s hard problems. Munger analogizes their approach to investing like jumping a fence. They) Tj
+T*
+(don?t spend all their time trying to figure out how to jump a seven-foot tall fence. Instead,) Tj
+T*
+(they find a spot where the fence is only a foot tall, jump it, and take the reward on the other) Tj
+T*
+(side. The approach he articulates for investing, in fact, seems broadly applicable to any kind) Tj
+T*
+(of problem solving: Quickly eliminate the universe of what not to do. Follow up with a) Tj
+T*
+(multi-disciplinary attack on what remains. Act decisively when ? and only when ? the right) Tj
+T*
+(circumstances appear. Whenever people ask him for advice \(as if somehow he could bestow upon) Tj
+T*
+(them some kind of knowledge that will save them the pain and hardship of experience...) Tj
+T*
+() Tj
+T*
+(23. The stock market returns 4 %) Tj
+T*
+(Source: Entropic Thoughts | Published: Thu, 21 May 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/stock-market-returns-4-percent) Tj
+T*
+(People assume all sorts of wild stock market returns when they make their financial) Tj
+T*
+(calculations. Here are some numbers that show up on web searches: 6 % 8.4 % 10 % 10.1 % 11.3 %) Tj
+T*
+(11.5 % 13.6 % 16 % These are all correctly computed under their respective assumptions, but) Tj
+T*
+(they are very misleading because whatever those assumptions were, they?re not relevant for most) Tj
+T*
+(calculations. You should assume 4 % in your calculations. Here?s one way to arrive at that: The) Tj
+T*
+(S&P 500 has historically yielded 12 % per year before inflation. But that?s the arithmetic) Tj
+T*
+(mean. Returns compound geometrically, so what we actually want is the compound annual growth) Tj
+T*
+(rate . The typical rule of thumb is to remove half the squared volatility from the arithmetic) Tj
+T*
+(mean. Volatility is notoriously hard to estimate, but let?s put it at 15?30 %. This leaves us) Tj
+T*
+(with a CAGR of 8?11 % . During the same period, inflation has been 3?4 % depending on which) Tj
+T*
+(source you trust. This brings the real \(inflation-adjusted\) returns down to 4?8 % . On top of) Tj
+T*
+(that, we have holding costs, transaction costs \(e.g. rebalancing\), and taxes. These are) Tj
+T*
+(different in different localities and vary by investment strategy, but let?s say they remo...) Tj
+T*
+() Tj
+T*
+(24. The $500 Price Increase) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-05-21T15:03:44Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17345764/plex-price-increase-self-hosting) Tj
+T*
+(Plex sends a message to the self-hosting community with a massive upcharge targeted at the very) Tj
+T*
+(people who hate monthly fees.) Tj
+T*
+() Tj
+T*
+(25. Magic the Gathering format: Fun 40) Tj
+T*
+(Source: Fabien Sanglard | Published: 20 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/mtg/fun//index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(26. Pluralistic: Shopping isn't politics \(21 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 21 May 2026 15:03:37) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/05/21/purity-culture/) Tj
+T*
+(Today's links Shopping isn't politics: The personal isn't political. Hey look at this: Delights) Tj
+T*
+(to delectate. Object permanence: Neither arphid nor RFID; Gor novel sex slave cult; Violent) Tj
+T*
+(economist sex criminals; Vade et caca in pilleum et ipse traheatur super aures tuo; "We Stand) Tj
+T*
+(on Guard"; Healthy FLOSS; Lawsuits 2.0; CDC v zombie apocalypse; Gandhi's speeches; Apple v) Tj
+T*
+(games about Palestine; Second Life chuds v Bernie; UK was never a "white" country; Dead, broke;) Tj
+T*
+(Who Broke the Internet? \(III\) Upcoming appearances: Hay-on-Wye, London, Kansas City, LA, Menlo) Tj
+T*
+(Park, Toronto, NYC, Edinburgh. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Shopping isn't politics \(permalink\) I've written before about the) Tj
+T*
+(futility of "voting with your wallet." Billionaires love it when you try to vote with your) Tj
+T*
+(wallet, because while billionaires only represent 0.00004% of the population, their wallets are) Tj
+T*
+(100,000 times larger than average, which means that when we vote with wallets, a billionaire's) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 2255 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(vote counts 100,000 times more than yours: https://pluralistic.net/2025/09/13/consum...) Tj
+T*
+() Tj
+T*
+(27. Digitale autonomie: wat kunnen organisaties NU doen) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 21 May 2026 13:30:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/digitale-autonomie-wat-kunnen-organisaties-nu-doen/) Tj
+T*
+(De zorgen over digitale autonomie nemen toe, en steeds vaker krijg ik van \(grote\) organisaties) Tj
+T*
+(de vraag: wat kunnen we NU doen? Nou heb ik wel een lijstje, maar voor we beginnen, besef dat) Tj
+T*
+(we 15 jaar lang alles naar Amerika hebben geschoffeld. Of, we hebben het uitbesteed, en DIE) Tj
+T*
+(mensen stuurden het naar Amerika. 15 jaar is een lange tijd, en we zijn niet 1 2 3 weer ?in) Tj
+T*
+(vorm? om de zaken weer anders aan te pakken.) Tj
+T*
+() Tj
+T*
+(28. Tracing App Thoughts and Links) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 11 Apr 2020 13:46:27 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/tracing-app-thoughts-and-links/) Tj
+T*
+(As many countries are now managing to drive down their COVID-19 epidemic, thoughts are turning) Tj
+T*
+(to how to manage the outbreak beyond the ?lockdown?. The restrictions we live under now do) Tj
+T*
+(appear to work, but for multiple reasons, they?ll be hard to maintain. When the epidemic was) Tj
+T*
+(small, it was possible to trace every new infection and isolate potential new cases. This did) Tj
+T*
+(buy time, but for most countries, ?the cat was out the bag already?.) Tj
+T*
+() Tj
+T*
+(29. Corona Updates: hoopgevende ontwikkelingen realistisch bekeken) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 06 Apr 2020 13:31:55 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/de-dagelijkse-corona-update/) Tj
+T*
+(Ik heb op Facebook beloofd iedere dag een "Corona Update" te sturen met ontwikkelingen die) Tj
+T*
+(hoopgevend zijn, terwijl ik het wel realistisch houd. Hier verzamel ik de updates zodat ze ook) Tj
+T*
+(buiten Facebook te bekijken zijn. Er is genoeg nieuws om je zorgen over te maken dat ik het) Tj
+T*
+(nodig vind ook dingen die kunnen helpen te belichten. Mensen die me kennen weten dat ik geen) Tj
+T*
+(optimist ben, het is geen ?goed nieuws show? hier.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000161 00000 n 
+0000000231 00000 n 
+0000004588 00000 n 
+0000004714 00000 n 
+0000009613 00000 n 
+0000009739 00000 n 
+0000014375 00000 n 
+0000014501 00000 n 
+0000019192 00000 n 
+0000019320 00000 n 
+0000023798 00000 n 
+0000023926 00000 n 
+0000028572 00000 n 
+0000028700 00000 n 
+0000031008 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+31136
+%%EOF
