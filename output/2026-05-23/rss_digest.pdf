@@ -1,0 +1,562 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4451 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-23 09:40:59) Tj
+T*
+() Tj
+T*
+(1. The memory shortage is causing a repricing of consumer electronics) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-22T22:01:31+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything) Tj
+T*
+(The memory shortage is causing a repricing of consumer electronics David Oks provides the) Tj
+T*
+(clearest explanation I've seen yet of why consumer products that use memory are likely to get) Tj
+T*
+(significantly more expensive over the next few years. The short version is that memory) Tj
+T*
+(manufacturers - of which there are just three remaining large companies - have a fixed capacity) Tj
+T*
+(in terms of how many wafers they can process at any one time. This fixed wafer capacity is then) Tj
+T*
+(split between DDR - used in desktops and servers, LPDDR - used in mobile phones and low-energy) Tj
+T*
+(devices, and HBM - used with GPUs. Until recently, HBM got just 2% of that wafer allocation.) Tj
+T*
+(The enormous growth in AI data centers has pushed that up to an expected 20% by the end of) Tj
+T*
+(2026, and "a single gigabyte of HBM consumes more than three times the wafer capacity that a) Tj
+T*
+(gigabyte of DDR or LPDDR does". Memory companies have learned from the extinction of their) Tj
+T*
+(rivals that you should always under-provision rather than over-provision your fabricator) Tj
+T*
+(capacity. The profit margins and demand for HBM \(high-bandwidth memory\) will constrain the) Tj
+T*
+(production of consumer-device RAM for several years. This is already being felt in the) Tj
+T*
+(sub-$1...) Tj
+T*
+() Tj
+T*
+(2. FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle) Tj
+T*
+(Charges They Deceived Customers About ?Active Listening? AI-Powered Marketing Service) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-22T04:48:32+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything) Tj
+T*
+(FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They) Tj
+T*
+(Deceived Customers About ?Active Listening? AI-Powered Marketing Service Back in 2024 Cox Media) Tj
+T*
+(Group were caught trying to sell advertisers packages based on "active listening", with this) Tj
+T*
+(deck which claimed: Smart devices capture real-time intent data by listening to our) Tj
+T*
+(conversations Advertisers can pair this voice-data with behavioral data to target in-market) Tj
+T*
+(consumers I wrote about this in September 2024 . My theory: I think active listening is the) Tj
+T*
+(term that the team came up with for ?something that sounds fancy but really just means the way) Tj
+T*
+(ad targeting platforms work already?. Then they got over-excited about the new metaphor and) Tj
+T*
+(added that first couple of slides that talk about ?voice data?, without really understanding) Tj
+T*
+(how the tech works or what kind of a shitstorm that could kick off when people who DID) Tj
+T*
+(understand technology started paying attention to their marketing. This FTC press release) Tj
+T*
+(appears to confirm that's pretty much what happened: CMG, MindSift and 1010 Digital Works) Tj
+T*
+(claimed their ?Active Listening? branded marketing service listened in on consumers?) Tj
+T*
+(conversations...) Tj
+T*
+() Tj
+T*
+(3. datasette-agent 0.1a3) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-21T15:04:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything) Tj
+T*
+(Release: datasette-agent 0.1a3 "View SQL query" buttons for both visible tables and collapsed) Tj
+T*
+(SQL result tool calls. Don't display empty reasoning chunks Improved handling of truncated) Tj
+T*
+(responses - table still displays to the user even if the SQL results were truncated when) Tj
+T*
+(showing the agent. See Datasette Agent, an extensible AI assistant for Datasette . Tags:) Tj
+T*
+(datasette , datasette-agent) Tj
+T*
+() Tj
+T*
+(4. News about Raspberry Pi 6 and Microcontroller Development) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 22 May 2026 15:15:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-deve) Tj
+T*
+(lopment/) Tj
+T*
+(On Thursday, three of the lead Raspberry Pi engineers hosted an AMA on the r/engineering) Tj
+T*
+(subreddit . Raspberry Pi 6 One of the most interesting tidbits was on the Pi 6. Looking back at) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4172 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(previous launches: 2012: Raspberry Pi 2015: Raspberry Pi 2 \(+3 years\) 2016: Raspberry Pi 3 \(+1) Tj
+T*
+(year\) 2019: Raspberry Pi 4 \(+3 years\) 2023: Raspberry Pi 5 \(+4 years\) Following that cycle, one) Tj
+T*
+(would expect a Pi 6 3-4 years after the Pi 5, which would put it in 2026 or 2027.) Tj
+T*
+() Tj
+T*
+(5. ? The Fonts of the U.S. Federal Courts) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-22T20:30:18Z) Tj
+T*
+(Link: https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts) Tj
+T*
+(The Supreme Court?s typographic style has been stunningly consistent for ? no pun intended ?) Tj
+T*
+(well over a century.) Tj
+T*
+() Tj
+T*
+(6. The Ninth Circuit Appeal Ruling in ?Epic v. Apple? That Apple Is Seeking to Overturn at) Tj
+T*
+(the Supreme Court \(PDF\)) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-22T17:39:05Z) Tj
+T*
+(Link: https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/11/25-2935.pdf) Tj
+T*
+(Following up on yesterday?s item re: Apple?s petition to the Supreme Court, here?s the Ninth) Tj
+T*
+(Circuit ruling. It starts with a ?Summary? that is specifically intended for the convenience of) Tj
+T*
+(the reader. Page 50 is where it covers Apple?s argument regarding Trump v. CASA as precedent) Tj
+T*
+(that an injunction on commissions should apply only to Epic Games, not to all developers in the) Tj
+T*
+(U.S. App Store. ?) Tj
+T*
+() Tj
+T*
+(7. Zero Sum Problems and Apple Sports) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-22T17:15:00Z) Tj
+T*
+(Link: https://kieranhealy.org/blog/archives/2026/05/21/zero-sum-problems/) Tj
+T*
+(Kieran Healy kindly accepted my implicit homework assignment yesterday , and wrote a piece on) Tj
+T*
+(Apple Sports?s bizarre ?zero sum? team stats visualization: It also doesn?t do away with the) Tj
+T*
+(core problem. That problem is principally one of information design rather than data) Tj
+T*
+(visualization. What I mean is that what we?re trying to organize is, in effect, fifteen pairs) Tj
+T*
+(of related but fundamentally distinct numbers. If we had fifteen cases and two variables things) Tj
+T*
+(would be simple. But with fifteen variables and two cases ? well, this is not the kind of thing) Tj
+T*
+(you can make a single effective and non-confusing graph out of. That?s why I kind of sympathize) Tj
+T*
+(with the designer. In a constrained space they have to show thirty numbers \(thirty two,) Tj
+T*
+(including the score\). Lots of information. A straight table seems like it would be boring.) Tj
+T*
+(Surely there?s some way to thematically integrate the numbers in a visually appealing manner) Tj
+T*
+(that brings out some of the relationships across the rows. That?s what graphs do; it seems like) Tj
+T*
+(the right thing to reach for. But at its heart this information is not a graph. It just sort of) Tj
+T*
+(looks like one, and that ends up confusing people. Just a crackerjack explanation...) Tj
+T*
+() Tj
+T*
+(8. Why do you say that a COM STA thread must pump messages if I see sample code creating) Tj
+T*
+(STA threads and not pumping messages?) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 22 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260522-00/?p=112348) Tj
+T*
+(You need to pump messages when idle, but maybe you are never idle. The post Why do you say that) Tj
+T*
+(a COM STA thread must pump messages if I see sample code creating STA threads and not pumping) Tj
+T*
+(messages? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. How do I use Win32 structures from the Windows Runtime?) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 21 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260521-00/?p=112345) Tj
+T*
+(Trick question: You can't. But maybe you can fake it. The post How do I use Win32 structures) Tj
+T*
+(from the Windows Runtime? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(10. Lawmakers Demand Answers as CISA Tries to Contain Data Leak) Tj
+T*
+(Source: Krebs on Security | Published: Fri, 22 May 2026 16:34:24 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-dat) Tj
+T*
+(a-leak/) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4928 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &) Tj
+T*
+(Infrastructure Security Agency \(CISA\) after KrebsOnSecurity reported this week that a CISA) Tj
+T*
+(contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets) Tj
+T*
+(on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach) Tj
+T*
+(and invalidate the leaked credentials.) Tj
+T*
+() Tj
+T*
+(11. The commencement speech that shook the world) Tj
+T*
+(Source: iDiallo.com | Published: Sat, 23 May 2026 01:14:24 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed) Tj
+T*
+(There he was, the man at the helm of innovation. Eric Schmidt, the former CEO of Google. The) Tj
+T*
+(man who once said, google doesn't need to record your conversation, it already knows everything) Tj
+T*
+(about you. Yet he didn't see this one coming. In his speech, he looked clear-eyed into the) Tj
+T*
+(crowd of graduates and told them that AI is inevitable. There was a group of people who will) Tj
+T*
+(have a hard time joining the workforce. Companies keep using AI as the excuse for laying off) Tj
+T*
+(workers. Dario keeps telling us by next year, AI will take over all jobs and there is nothing) Tj
+T*
+(we can do. They will have nothing, and they better embrace it and be happy. Well, they will) Tj
+T*
+(have a school loan, but that?s it. If you were an external observer, maybe an alien watching) Tj
+T*
+(humanity from a distance, you would think that AI is a new species that emerged from a lake and) Tj
+T*
+(is taking over the world. You would never tell that the people spreading this fear are also the) Tj
+T*
+(ones selling the tool that they swear will turn us all into gods. It's not just a capable tool) Tj
+T*
+(that can be useful for coding, writing, and retrieving existing information. No. It's the word) Tj
+T*
+(itself. The all or nothing. The alpha and the omega. And it comes as a m...) Tj
+T*
+() Tj
+T*
+(12. How to Talk to Your Coworkers) Tj
+T*
+(Source: iDiallo.com | Published: Fri, 22 May 2026 19:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed) Tj
+T*
+(You know you explained the same issue before in two or three different places, yet here they) Tj
+T*
+(are asking again. Why don't they understand you? Why do they ask the same question when you've) Tj
+T*
+(already given them the answer right there on Jira? Are they stupid? Lazy, maybe? Do they not) Tj
+T*
+(take the time to read? I often hear this from developers. They write clear documentation and) Tj
+T*
+(instructions, and people still bother them to hop on a call. This happens so frequently that I) Tj
+T*
+(think it is worth addressing. An over-abundance of information is just as confusing as too) Tj
+T*
+(little. But something I should add is that repetition is normal. In fact, repetition should be) Tj
+T*
+(a tool you use frequently. To do our jobs as developers, we read instructions. Our tasks are) Tj
+T*
+(usually carefully written and specced out as a document we can implement and check off. There) Tj
+T*
+(are usually bullet points, requirements, and acceptance criteria. Sometimes, you could) Tj
+T*
+(implement a feature by following the instructions without even knowing or understanding what) Tj
+T*
+(the feature actually does. In other jobs, non-technical ones, people derive their work from) Tj
+T*
+(conversation. A lossy format. For example, when a non-technical manager wants a new f...) Tj
+T*
+() Tj
+T*
+(13. Dependency Pruning) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-22T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/22/dependency-pruning.html) Tj
+T*
+(The best time to prune your dependency tree was three years ago. The second best time is right) Tj
+T*
+(now. Every package in your lockfile is a door someone else holds the key to. Install scripts) Tj
+T*
+(run on your CI with whatever credentials your CI has, the maintainer?s account can be phished) Tj
+T*
+(or the registry entry handed to a new owner, and the next patch release can be something quite) Tj
+T*
+(different from the last one. A dependency you stopped calling two refactors ago is exposed to) Tj
+T*
+(all of that exactly as much as one you hit on every request, and you still get paged when a CVE) Tj
+T*
+(lands in it. The cheapest supply-chain hardening you can do is to stop supplying yourself with) Tj
+T*
+(things you don?t use. Lately my first response to a Dependabot CVE alert, and a fair few of the) Tj
+T*
+(routine version bumps, has been to check whether I still need the dependency at all before) Tj
+T*
+(looking at what changed in it. A CVE in something I barely use is a better reason to delete it) Tj
+T*
+(than to patch it, and ripping it out closes that alert and all the future ones at the same) Tj
+T*
+(time. You don?t need any tooling for that beyond the alert itself. Most of the existing writing) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3919 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(about trimming dependencies is aimed at frontend bundle size, tree-s...) Tj
+T*
+() Tj
+T*
+(14. Premium: What If...We're In An AI Bubble? \(Part 2\)) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 22 May 2026 16:21:32 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-2/) Tj
+T*
+(Last week I ran the first part of my What If?We?re In An AI Bubble? Series, where I asked) Tj
+T*
+(questions and posed scenarios as to the consequences of the many, many questions I?ve asked) Tj
+T*
+(over the last few years. It quickly became one of) Tj
+T*
+() Tj
+T*
+(15. News: OpenAI Had A Negative 122% Non-GAAP Operating Margin In Q1 2026, and ChatGPT) Tj
+T*
+(Growth Has Stalled) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 22 May 2026 14:21:18 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/news-openai-had-a-negative-122-operating-margin-in-q1-2026-an) Tj
+T*
+(d-chatgpt-growth-has-stalled/) Tj
+T*
+(Executive Summary: The Information reports that OpenAI generated $5.7bn in revenue for the) Tj
+T*
+(first quarter of 2026 based on discussions with sources familiar with its financials. With) Tj
+T*
+(adjusted negative margins of -122%, this means that for every dollar of revenue OpenAI made, it) Tj
+T*
+(lost an additional $1.22, or) Tj
+T*
+() Tj
+T*
+(16. StubZero: $148,337 RCE in Google Cloud Production) Tj
+T*
+(Source: Brutecat ∑ Research | Published: Mon, 01 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://brutecat.com/articles/google-cloud-rce) Tj
+T*
+(A chance Discord message, two missing pieces, and one hour before the window closed: From info) Tj
+T*
+(leak to RCE on Google Cloud. Three months later, it happened again.) Tj
+T*
+() Tj
+T*
+(17. Reiner Pope ? Chip design from the bottom up) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Fri, 22 May 2026 15:38:34 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/reiner-pope-2) Tj
+T*
+(Working up from basic logic gates to why GPUs, TPUs, FPGAs, and the human brain each look the) Tj
+T*
+(way they do.) Tj
+T*
+() Tj
+T*
+(18. Planescape: Torment, Part 1: From the Tabletop?) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 22 May 2026 16:27:41 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/) Tj
+T*
+(This article tells part of the general story of Dungeons & Dragons on the tabletop and on) Tj
+T*
+(computers, which includes the more specific one of the Infinity Engine games. My power fantasy) Tj
+T*
+(when playing a role-playing game is to confront a villain, explain point by point why his) Tj
+T*
+(master plan is flawed, and then get [?]) Tj
+T*
+() Tj
+T*
+(19. Why no breakthrough yet? Or, why is it 'taking so long' to test COVID-19 treatments?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 04 Apr 2020 13:27:10 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-trial-math/) Tj
+T*
+(Many many possible medicines are being touted as possibly being helpful in fighting COVID-19.) Tj
+T*
+(Here?s a small list where we have some initial results or at least anecdotes:) Tj
+T*
+(\(hydroxy\)chloroquine, with azithromycin or zinc: This is the ?tech-bro? favorite right now,) Tj
+T*
+(partially based on recommendations from Elon Musk and Donald Trump, two noted medical) Tj
+T*
+(professionals. There have been a few reports on this working or not working. This article) Tj
+T*
+(argues that an alternation of negative and positive results actually is to be expected, even if) Tj
+T*
+(the treatment is fairly effective, which it might be.) Tj
+T*
+() Tj
+T*
+(20. Our amazing immune system) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 01 Apr 2020 22:27:10 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/immune-system/) Tj
+T*
+(\(On this page in Dutch I post daily bits of realistic but hopeful Corona news. Here is a) Tj
+T*
+(somehat rough translation of an article on our immune system I posted there, because I think it) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1153 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(might also be useful for people that don?t speak Dutch\). Wednesday, April 1st COVID-19 can only) Tj
+T*
+(live thanks to us. Viruses cannot reproduce independently, they need our help. And our immune) Tj
+T*
+(system makes this very hard, as aptly explained in this excellent xkcd comic:) Tj
+T*
+() Tj
+T*
+(21. Corona Science Journal) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 30 Mar 2020 11:09:45 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-science/) Tj
+T*
+(Hello and welcome to this stream of consciousness I dare to call "the Corona Science Journal".) Tj
+T*
+(Latest update: 30th of March 11:34 UTC. View history of this page [on) Tj
+T*
+(GitHub]\(https://github.com/ahupowerdns/corona-science/commits/master\)) Tj
+T*
+(\([RSS]\(https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom\)\),) Tj
+T*
+(where you can also submit changes, fixes and updates. Note: I have been unable to keep up with) Tj
+T*
+(the latest developments as I have shifted my efforts to a Dutch-language daily blog about) Tj
+T*
+(positive COVID-19 developments, while keeping it real.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004720 00000 n 
+0000004846 00000 n 
+0000009070 00000 n 
+0000009196 00000 n 
+0000014176 00000 n 
+0000014302 00000 n 
+0000018274 00000 n 
+0000018402 00000 n 
+0000019608 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+19736
+%%EOF
