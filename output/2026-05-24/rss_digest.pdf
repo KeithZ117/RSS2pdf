@@ -1,0 +1,560 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4018 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-24 09:44:52) Tj
+T*
+() Tj
+T*
+(1. On the) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-23T20:24:48+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything) Tj
+T*
+(On the I learned a few new-to-me things about the element from this article by Ben Meyer: A can) Tj
+T*
+(be followed by multiple You can optionally group the and elements in a for styling - but only a) Tj
+T*
+(. You can label them using ARIA. They've been called "description lists", not "definition) Tj
+T*
+(lists", since an HTML5 draft in 2008 . So this is valid: h2 id =" credits " > Credits h2 > dl) Tj
+T*
+(aria-labelledby =" credits " > div > dt > Author dt > dd > Jeffrey Zeldman dd > dd > Ethan) Tj
+T*
+(Marcotte dd > div > dl > Here's a useful note from Adrian Roselli on screen reader support for) Tj
+T*
+(description lists . Via Hacker News Tags: css , html , screen-readers , web-standards) Tj
+T*
+() Tj
+T*
+(2. datasette-agent-charts 0.1a1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-20T14:52:16+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/20/datasette-agent-charts/#atom-everything) Tj
+T*
+(Release: datasette-agent-charts 0.1a1 More color! Bar and waffle charts without a color column) Tj
+T*
+(are shaded by magnitude with a sequential color scheme; color columns holding text values use) Tj
+T*
+(the observable10 categorical scheme. #2 Now checks execute-sql permission before running the) Tj
+T*
+(query to find the column names. Charts now display interactive tooltips. Fixed a bug where) Tj
+T*
+(waffleY charts were not described to the agent. Tags: datasette , datasette-agent) Tj
+T*
+() Tj
+T*
+(3. llm-gemini 0.32a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-19T20:36:23+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything) Tj
+T*
+(Release: llm-gemini 0.32a0 Compatible with llm>=0.32a0 alpha - adds the ability to stream) Tj
+T*
+(reasoning tokens. Tags: llm , gemini) Tj
+T*
+() Tj
+T*
+(4. Stephen Colbert?s ?The Late Show? Finale) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-22T17:12:10Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html?unlocked_a) Tj
+T*
+(rticle_code=1.kVA.GO3I.gVq9KeUrHEyM) Tj
+T*
+(James Poniewozik, writing for The New York Times \(gift link\): He didn?t land the pope, but he) Tj
+T*
+(got a Beatle. He didn?t have a new project to announce, but he left us with a song \(in fact) Tj
+T*
+(two\). He didn?t choose to end his show, but he ended it his own weird, wonderful way. Stephen) Tj
+T*
+(Colbert hosted his final ?Late Show? on Thursday night, completing the story of the TV year?s) Tj
+T*
+(most notorious and rancorous cancellation. But his final hour-plus ? an emotional and) Tj
+T*
+(delightfully bizarre wake for a comedy institution ? turned it into a cancellebration. [...] In) Tj
+T*
+(fact, the episode gradually revealed a story arc, more like the closing episode of a surreal) Tj
+T*
+(comedy than of a talk show. Series finales are so difficult to do well. I find them compelling) Tj
+T*
+(even when they fall a little flat. Colbert?s finale last night was just amazingly good. Good) Tj
+T*
+(and fun and surprising and perfectly on-brand. And what a song to end on. Perfect. ?) Tj
+T*
+() Tj
+T*
+(5. Google I/O Keynote in 54 Seconds) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-21T15:31:54Z) Tj
+T*
+(Link: https://x.com/ArtemR/status/2056961743142957143) Tj
+T*
+(Tight edit but covers the whole thing. \( XCancel link ; Threads link .\) ?) Tj
+T*
+() Tj
+T*
+(6. ?Geography Is Four-Dimensional?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-21T14:39:19Z) Tj
+T*
+(Link: https://sive.rs/4d) Tj
+T*
+(Derek Sivers: When someone speaks of a place, you have to ask, ?When?? Geography is) Tj
+T*
+(four-dimensional. You can?t know a place ? only a place as it was at a time. Where is bound to) Tj
+T*
+(when. Unless you are in a place right now, you can only speak of it in past-tense. ?) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4642 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(7. Hilbert transform as an infinite matrix) Tj
+T*
+(Source: John D. Cook | Published: Sat, 23 May 2026 15:09:34 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/) Tj
+T*
+(The previous post linked to a post I wrote a few years ago about the Hilbert transform and) Tj
+T*
+(Fourier series. That post says that if the Fourier series of a function is then the Fourier) Tj
+T*
+(series of its Hilbert transform is When I looked back at that post I thought about how if you) Tj
+T*
+(thought [?] The post Hilbert transform as an infinite matrix first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(8. Real and imaginary parts) Tj
+T*
+(Source: John D. Cook | Published: Sat, 23 May 2026 13:57:21 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/) Tj
+T*
+(The previous post announced some notes I wrote up based on an article by Henry Baker) Tj
+T*
+(implementing functions of a complex variable in terms of functions of a real variable. That is,) Tj
+T*
+(it finds functions u\(x, y\) and v\(x, y\) such that f\(x + iy\) = u\(x, y\) + i v\(x, y\) where x, y, u,) Tj
+T*
+(and v are [?] The post Real and imaginary parts first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Building complex functions out of real parts) Tj
+T*
+(Source: John D. Cook | Published: Sat, 23 May 2026 03:24:10 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/) Tj
+T*
+(A couple months ago I wrote about how to compute the sine and cosine of a complex number using) Tj
+T*
+(only real functions of real variables using the equations You can do something analogous for) Tj
+T*
+(all the elementary functions, though some of the equations are quite a bit more complicated) Tj
+T*
+(than the ones above. See the [?] The post Building complex functions out of real parts first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Reverse engineering circuitry in a Spacelab computer from 1980) Tj
+T*
+(Source: Ken Shirriff's blog | Published: 2026-05-23T09:17:44.885-07:00) Tj
+T*
+(Link: http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html) Tj
+T*
+(Spacelab was a reusable laboratory that could be carried in the cargo bay of the Space Shuttle,) Tj
+T*
+(providing lab space for astronauts and experiments. Spacelab was controlled by a French-built) Tj
+T*
+(minicomputer, called the Mitra 125 MS . Unlike modern computers, this computer didn't contain a) Tj
+T*
+(microprocessor chip. Instead, its 16-bit processor was constructed from several boards of) Tj
+T*
+(chips. In this article, I reverse-engineer one of the processor boards, shown below, part of) Tj
+T*
+(the computer's Arithmetic/Logic Unit \(ALU\). The Mitra 125 MS computer, built by CIMSA, with one) Tj
+T*
+(of the ALU/register cards shown. Spacelab consisted of a pressurized cylindrical laboratory) Tj
+T*
+(that held experiments, computers, and work areas for researchers. A tunnel connected the) Tj
+T*
+(laboratory to the Shuttle, allowing researchers to move between the Shuttle and Spacelab.) Tj
+T*
+(Spacelab also supported up to five unpressurized "pallets" that were exposed to space, holding) Tj
+T*
+(experiments such as telescopes and sensors. The illustration below shows the tunnel, the) Tj
+T*
+(Spacelab laboratory, and a pallet installed in the Shuttle's cargo bay. 1 Illustration of the) Tj
+T*
+(Spacelab-3 mission. From NASA . Because Spacelab was a European project, it used a Eu...) Tj
+T*
+() Tj
+T*
+(11. How our environment still needs the security boundary of Unix logins) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-23T23:30:39Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyWeNeedUnixLoginSecurity) Tj
+T*
+(In a comment on this recent entry , I was asked if we still considered Unix logins to be a) Tj
+T*
+(serious security boundary. This is a sensible question; there are a horde of Linux local) Tj
+T*
+(privilege escalation vulnerabilities going around right now \(and one FreeBSD one for spice\),) Tj
+T*
+(and in general \(some\) security people have been saying for years that once an attacker had) Tj
+T*
+(local code execution, the game was over. Our answer is that yes, we consider it a serious) Tj
+T*
+(security boundary, and if that situation ever changed we'd need a drastically different system) Tj
+T*
+(environment from our current environment . Our current environment has shared NFS fileservers) Tj
+T*
+(where people keep all their files and data , shared login servers for both general usage and) Tj
+T*
+(compute, a \(shared\) SLURM computer cluster , and a reasonably flexible shared web server) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4591 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(environment where people can run programs . While some people are still using our login servers) Tj
+T*
+(interactively, others are running software \(such as VSCode\) that connects to them somewhat) Tj
+T*
+(behind the scenes and uses them to run tools. All of this is critically dependent on the) Tj
+T*
+(security provided by Unix logins; if Unix logins weren't a real security boundary any more,) Tj
+T*
+(anyone...) Tj
+T*
+() Tj
+T*
+(12. My views on Flymake and Flycheck in GNU Emacs \(as of mid 2026\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-23T02:58:54Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsFlymakeFlycheck) Tj
+T*
+(One of the divisions in GNU Emacs people is between using Flymake , which is built into GNU) Tj
+T*
+(Emacs and is well supported by other standard GNU Emacs packages such as Eglot , and using) Tj
+T*
+(Flycheck . I've used Flycheck for a long time \( cf \) and recently tried using Flymake , which) Tj
+T*
+(has given me some pragmatic opinions for my own usage. \(For non GNU Emacs people, Flymake and) Tj
+T*
+(Flycheck both exist to present \(and to some extent detect\) 'diagnostics' about your code or) Tj
+T*
+(whatever file you're editing.\) For me, Flymake and Flycheck are about as good as each other, at) Tj
+T*
+(least in LSP based environments and Emacs Lisp. Flymake is better integrated into Eglot and can) Tj
+T*
+(make errors more visible, Flycheck comes with more keybindings by default, and I go back and) Tj
+T*
+(forth about how I feel about their modelines \(after I diminished Flymake's verbose modeline) Tj
+T*
+(name down to 'FlyM' and changed the colours a bit\). Why I prefer Flycheck is that it's more) Tj
+T*
+(flexible in one way that matters to me. My particular taste with checkers is that by default I) Tj
+T*
+(only want to see actual errors \(or relatively strong style issues\), but I want to have access) Tj
+T*
+(to linters that express views I may not agree with in order to see what they s...) Tj
+T*
+() Tj
+T*
+(13. Which age-gates should be skill-gates and vice-versa?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 23 May 2026 11:34:31 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/) Tj
+T*
+(In the UK, it is illegal to buy alcohol if you are under 18. Similarly, in most countries, you) Tj
+T*
+(cannot vote until you have reached a specific age. These are age-gates. You do not need to) Tj
+T*
+(prove your competence to drink, vote, smoke, or get married; you just need to be old enough.) Tj
+T*
+(Some things have skill-gates. If you want an amateur radio licence in the UK, you need to pass) Tj
+T*
+(an exam. You can be?) Tj
+T*
+() Tj
+T*
+(14. This Week in Package Management: 23 May 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-23T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/23/this-week-in-package-management.html) Tj
+T*
+(I?m trying out a weekly roundup built from the package manager OPML feed collection and) Tj
+T*
+(whatever I?ve posted or boosted on Mastodon . npm is removing npm-shrinkwrap.json entirely in) Tj
+T*
+(the v12 prereleases. The command, the config alias, and the loader all gone; project-root) Tj
+T*
+(shrinkwraps need renaming to package-lock.json and shipping a locked tree inside a tarball now) Tj
+T*
+(means bundleDependencies . Security uv 0.11.15 fixes two issues worth patching for: a TAR) Tj
+T*
+(parser differential and entry points escaping the scripts directory . 0.11.16 followed with uv) Tj
+T*
+(audit now refusing locked installs that match known-malware records. Ruby 4.0.5 shipped with a) Tj
+T*
+(fix for CVE-2026-46727; anyone on 4.0.0 through 4.0.4 should update. GitHub confirmed that) Tj
+T*
+(around 4,000 of its own internal repositories were exfiltrated this week. The Register reports) Tj
+T*
+(the entry point was a poisoned VS Code extension and attributes it to TeamPCP, the group behind) Tj
+T*
+(the Shai-Hulud worm. The Nx team published a postmortem of the Nx Console v18.95.0 compromise ,) Tj
+T*
+(another poisoned VS Code extension. The detail that stands out: the affected contributor had) Tj
+T*
+(minimum-release-age set in .npmrc , but their pnpm was old enough to silently ign...) Tj
+T*
+() Tj
+T*
+(15. Reading List 05/23/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 23 May 2026 12:02:39 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-052326) Tj
+T*
+(Squatter removal services, Apple finding uses for defective chips, process heat use in) Tj
+T*
+(California, the brewing Colorado River crisis, and more.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4500 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(16. There is only one bad AI scenario) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-05-23T00:00:00-07:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/05/23/one-bad-scenario.html) Tj
+T*
+(I?ve pushed AI doomers on how exactly the AI kills us, and I?ve never heard a good answer. I) Tj
+T*
+(think Skynet style scenarios where humanity is largely opposed to an out of control AI are) Tj
+T*
+(science fiction domination fantasies, along with Gray goo bottom-up scenarios. Both of these) Tj
+T*
+(assume a major continuity break with current reality, too bizarre to be true . But) Tj
+T*
+(unfortunately, you don?t need this for humanity to end as an open-ended evolutionary process. I) Tj
+T*
+(think the danger is that AI continues to optimize the current societal loss function of) Tj
+T*
+(domestication. Humans have endured terrible systems, but fundamentally, humans are evolutionary) Tj
+T*
+(creatures. Any system of totalitarian control must be able to reproduce generationally. It) Tj
+T*
+(cannot merely dominate adults; it has to produce children who can live inside it, maintain it,) Tj
+T*
+(and continue it. And because of how humans reproduce, there?s always evolutionary randomness.) Tj
+T*
+(Entropy locally asserts itself, and reality cannot be perfectly controlled. I?m not sure it?s) Tj
+T*
+(possible, but if there is a bad scenario with AI, it?s a singleton with nothing that can) Tj
+T*
+(substantially impact reality outside of it. And this won?t happen through Hitlerian language,) Tj
+T*
+(it...) Tj
+T*
+() Tj
+T*
+(17. Don't Roll Your Own ...) Tj
+T*
+(Source: Susam Pal | Published: 2026-05-23T00:00:00Z) Tj
+T*
+(Link: https://susam.net/do-not-roll-your-own.html) Tj
+T*
+(This is going to be a rant about modern web design practices. But before I get to that, let me) Tj
+T*
+(begin with a familiar principle from the world of cryptography. Among software developers, and) Tj
+T*
+(especially among those who work on security-sensitive systems, there is a well-known maxim:) Tj
+T*
+(Don't roll your own crypto. This does not mean that nobody is allowed to write cryptographic) Tj
+T*
+(code. Someone has to. It means that, for ordinary production software that protects sensitive) Tj
+T*
+(data of users, we should not rely on a private, unreviewed implementation that has not been) Tj
+T*
+(vetted by the wider software development community. We should use established, vetted software) Tj
+T*
+(packages or tools wherever possible. Fortunately, it is now standard industry practice to avoid) Tj
+T*
+(rolling your own crypto and instead use cryptographic algorithms and packages that have been) Tj
+T*
+(peer reviewed and stood the test of time. It wasn't so some twenty years ago. I have seen) Tj
+T*
+(several flawed home-grown RC4 implementations early in my career, with issues like improper) Tj
+T*
+(initialisation vectors, predictable keystreams and partial leakage of plaintext into) Tj
+T*
+(ciphertext, putting sensitive data of users at risk. But today, major e-commerce websit...) Tj
+T*
+() Tj
+T*
+(18. Weekly Update 505) Tj
+T*
+(Source: Troy Hunt | Published: Sun, 24 May 2026 01:34:54 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-505/) Tj
+T*
+(Well, that didn't last long! Recording this on Saturday morning my time, I observed) Tj
+T*
+(ShinyHunters having gone quiet since the massive haul that would have been the Instructure) Tj
+T*
+(ransom. It was two weeks almost to the hour since I'd first heard rumour of payment being made,) Tj
+T*
+() Tj
+T*
+(19. Some notes on how we ended up with Palantir & how to replace it) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 23 May 2026 10:30:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/some-notes-on-palantir/) Tj
+T*
+(There is justified anger about governments relying on Palantir software. There are also calls) Tj
+T*
+(to write replacement software, perhaps imbued with European values, and with less fascism. And) Tj
+T*
+(I?d love for that to happen pronto, but first we need to understand a few things. It is not) Tj
+T*
+(just the software. Image by Mariia Shalabaieva on Unsplash ?Palantir is often called a data) Tj
+T*
+(broker, a data miner, or a giant database of personal information.) Tj
+T*
+() Tj
+T*
+(20. Antibodies on command?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 27 Mar 2020 17:56:22 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/antibodies/) Tj
+T*
+(\(On this page in Dutch I post daily bits of realistic but hopeful Corona news. Here is a) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1109 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(somehat rough translation of an article on antibodies I posted there, because I think it might) Tj
+T*
+(also be useful for people that don?t speak Dutch\). Friday March 27: antibodies on demand? Those) Tj
+T*
+(who have read the previous posts will recall that antibodies from people who have already been) Tj
+T*
+(cured can help us to be vaccinated temporarily, or even heal us faster from disease.) Tj
+T*
+() Tj
+T*
+(21. Corona/COVID-19 Selftest Warning) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 21 Mar 2020 14:12:11 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/corona-selftest-warning/) Tj
+T*
+(Several sites are now shipping ?COVID-19 self test kits? or perhaps ?Coronavirus self test) Tj
+T*
+(kits?. These claim to detect the virus in 10 minutes based on a drop of blood. These rapid) Tj
+T*
+(self-test kits are currently: Likely fake Even if not fake, they do NOT test for the virus,) Tj
+T*
+(they do NOT do what you think they do Even if they do what they are supposed to, these tests) Tj
+T*
+(have not been validated and could be wrong a lot.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004287 00000 n 
+0000004413 00000 n 
+0000009107 00000 n 
+0000009233 00000 n 
+0000013876 00000 n 
+0000014002 00000 n 
+0000018555 00000 n 
+0000018683 00000 n 
+0000019845 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+19973
+%%EOF
