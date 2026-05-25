@@ -1,0 +1,546 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4475 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-25 09:48:11) Tj
+T*
+() Tj
+T*
+(1. datasette 1.0a30) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-24T23:52:37+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/24/datasette/#atom-everything) Tj
+T*
+(Release: datasette 1.0a30 The big new feature in this alpha is a new customizable "Jump to...") Tj
+T*
+(menu, described in detail in The extensible "Jump to" menu in Datasette 1.0a30 on the Datasette) Tj
+T*
+(blog. You can try it out by hitting / on latest.datasette.io - it looks like this: The new) Tj
+T*
+(jump_items_sql\(\) plugin hook allows plugins to add their own items to the set that's searched) Tj
+T*
+(by the plugin. Tags: projects , datasette , annotated-release-notes) Tj
+T*
+() Tj
+T*
+(2. datasette-agent 0.1a4) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-24T23:19:34+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything) Tj
+T*
+(Release: datasette-agent 0.1a4 Taking advantage of the new makeJumpSections\(\) JavaScript plugin) Tj
+T*
+(hook added in Datasette 1.0a30 , datasette-agent now presents this "Start a new agent chat") Tj
+T*
+(interface as part of the Jump to menu, any time you hit / : You can try this out by signing) Tj
+T*
+(into agent.datasette.io using your GitHub account. Tags: datasette , datasette-agent) Tj
+T*
+() Tj
+T*
+(3. datasette-fixtures 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-24T21:38:32+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything) Tj
+T*
+(Release: datasette-fixtures 0.1a0 One of the smaller features in Datasette 1.0a30 is this: New) Tj
+T*
+(documented datasette.fixtures.populate_fixture_database\(conn\) helper for creating the fixture) Tj
+T*
+(database tables used by Datasette's own tests, intended for plugin test suites. This new plugin) Tj
+T*
+(takes advantage of that API. You can try it out using uvx without even installing Datasette) Tj
+T*
+(like this: uvx --prerelease=allow \\ --with datasette-fixtures datasette \\ --get) Tj
+T*
+(/fixtures/roadside_attractions.json Which outputs: { "ok" : true , "next" : null , "rows" : [ {) Tj
+T*
+("pk" : 1 , "name" : " The Mystery Spot " , "address" : " 465 Mystery Spot Road, Santa Cruz, CA) Tj
+T*
+(95065 " , "url" : " https://www.mysteryspot.com/ " , "latitude" : 37.0167 , "longitude" :) Tj
+T*
+(-122.0024 }, { "pk" : 2 , "name" : " Winchester Mystery House " , "address" : " 525 South) Tj
+T*
+(Winchester Boulevard, San Jose, CA 95128 " , "url" : " https://winchestermysteryhouse.com/ " ,) Tj
+T*
+("latitude" : 37.3184 , "longitude" : -121.9511 }, { "pk" : 3 , "name" : " Burlingame Museum of) Tj
+T*
+(PEZ Memorabilia " , "address" : " 214 California Drive, Burlingame, CA 94010 " , "url" : null ,) Tj
+T*
+("latitude" : 37.5793 , "longitude" : -122.3442 }, { "pk" : 4 , "name" : " Bigfoot Dis...) Tj
+T*
+() Tj
+T*
+(4. Why Steve Kerr Stayed With the Warriors) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-24T17:27:24Z) Tj
+T*
+(Link: https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-stat) Tj
+T*
+(e-warriors-steph-curry) Tj
+T*
+(Terrific, poignant profile of Warriors head coach Steve Kerr by Wright Thompson for ESPN: Kerr) Tj
+T*
+(doesn?t want the Warriors to end up like the New England Patriots, marred by grudges and) Tj
+T*
+(grievances. He watched Michael Jordan retire, then unretire, then retire, then unretire. His) Tj
+T*
+(friends used to grill him about MJ. ?Why doesn?t he go out on top?? ?Because he can?t,? Kerr) Tj
+T*
+(told them. For the past few years, Kerr has watched his mentor, San Antonio Spurs coach Gregg) Tj
+T*
+(Popovich, struggle through this same decision. Pop once called Steve to tell him he?d finally) Tj
+T*
+(decided to retire. Steve congratulated him on a Hall of Fame career. A week later Pop signed an) Tj
+T*
+(extension with San Antonio. Popovich finally officially quit six weeks before our lunch, six) Tj
+T*
+(months after a stroke diminished him physically. People who loved him had to show him the door,) Tj
+T*
+(as gently as possible. That hurt Steve. He respects Popovich so much. He loved playing for him) Tj
+T*
+(and coaching with him. He once told Gregg he was the finest man he?d ever known and thanked him) Tj
+T*
+(for all he?d done for him. Pop smiled and said his feet were made of clay like everyone else?s.) Tj
+T*
+(Steve didn?t believe it then. Now he does. ?I realized he couldn?t do...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4899 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(5. The Verge: ?The 13 Biggest Announcements at Google I/O 2026?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-21T01:47:24Z) Tj
+T*
+(Link: https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini?view_) Tj
+T*
+(token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik5tNTBSc0hxRXQiLCJwIjoiL3RlY2gvOTMzNDE1L2dvb2dsZS1pby0yMDI2) Tj
+T*
+(LWJpZ2dlc3QtYW5ub3VuY2VtZW50cy1haS1nZW1pbmkiLCJleHAiOjE3Nzk3NTk5MjQsImlhdCI6MTc3OTMyNzkyNH0.g_J) Tj
+T*
+(iqbJBfi9YcDT1re8aofzmpb3tcZNwY2jQybgwJL0) Tj
+T*
+(Andrew Liszewski and Stevie Bonifield, writing for The Verge \(gift link\): Google?s I/O 2026) Tj
+T*
+(keynote today was once again full of AI-related announcements including a new family of Gemini) Tj
+T*
+(3.5 AI models, new features for Search and Gmail, and updates about its Project Aura smart) Tj
+T*
+(glasses. If you weren?t able to tune into the event?s livestream today or follow along with our) Tj
+T*
+(live blog , you can catch up on everything you missed in our roundup below. This roundup was) Tj
+T*
+(the only way I could really make sense out of Google I/O. ?) Tj
+T*
+() Tj
+T*
+(6. Existing Stakeholders Have a Say in the Future) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-18T16:47:08Z) Tj
+T*
+(Link: https://daringfireball.net/2026/05/ai_is_technology_not_a_product) Tj
+T*
+(A follow-up point on my ? AI Is Technology, Not a Product ? column over the weekend. Here?s a) Tj
+T*
+(repeat of Steven Levy?s argument that John Ternus must direct Apple towards building ?a killer) Tj
+T*
+(AI product?: By the end of this decade, it?s unlikely that people will swipe on their phones to) Tj
+T*
+(tap on Uber or Lyft. They will just tell their always-on AI agent to get them home. Or that) Tj
+T*
+(agent will have already figured out where they need to go, and the car will be waiting without) Tj
+T*
+(the friction of a request. ?There?s an app for that,? may be replaced by ?Let the agent do) Tj
+T*
+(that.? Putting aside whether this is technically feasible or psychologically comfortable, what) Tj
+T*
+(Levy is arguing here is yadda-yadda-yadda-ing over Uber and Lyft?s say in the matter. Those two) Tj
+T*
+(companies are now deeply entrenched. They might get disrupted. \(Google?s Waymo isn?t operating) Tj
+T*
+(here in Philly yet, but I see their vehicles around the city all the time now. You can?t miss) Tj
+T*
+(them .\) But I think it?s a good bet that most ride shares at the end of this decade \(which is) Tj
+T*
+(Levy?s own timeline\) will largely be Ubers and Lyfts. Uber and Lyft get to decide the terms of) Tj
+T*
+(which platforms they?re hail-able from. Here?s a note a friend sent...) Tj
+T*
+() Tj
+T*
+(7. An idea: user level WireGuard for UDP based encryption and authentication) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-24T14:26:01Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardForUDPAuthEncryption) Tj
+T*
+(In some environments, you want to connect programs together with mutual authentication and) Tj
+T*
+(encryption of their traffic \(so each end can trust the other and the traffic is immune to easy) Tj
+T*
+(eavesdropping\). If the programs are talking to each other over TCP, there's a well developed) Tj
+T*
+(solution for this in the form of mutual TLS \(mTLS\) \(although you'll probably get to enjoy the) Tj
+T*
+(fun of running your own private Certificate Authority\). But if you're using UDP, things are) Tj
+T*
+(less clear. When this came up recently in a Fediverse discussion I was a peripheral part of, it) Tj
+T*
+(occurred to me that we already have an existing, well regarded, UDP-based mechanism for) Tj
+T*
+(authentication and encryption in the form of WireGuard. \(Yes, there's QUIC , but that still) Tj
+T*
+(leaves you with TLS and it gives you a reliable stream model instead of a UDP model.\) WireGuard) Tj
+T*
+(is normally used to create general networking connections between two machines, a connection) Tj
+T*
+(that other programs can use to pass whatever traffic they want. But in theory it doesn't have) Tj
+T*
+(to be used this way. There are purely user-level WireGuard libraries, and if you have a) Tj
+T*
+(suitable library, you can have the program it's embedded in receive and handle the pack...) Tj
+T*
+() Tj
+T*
+(8. Building Pi With Pi) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-05-24T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/5/24/pi-oss/) Tj
+T*
+(Pi is now part of Earendil, but in the important sense it is still Mario?s project. He has been) Tj
+T*
+(living with its issue tracker longer than I have, and he has been exposed to the weirdness of) Tj
+T*
+(the new form of agent traffic in Open Source projects for longer too. This post is mostly a) Tj
+T*
+(reflection of my own experience after spending more time in the tracker, using Pi to work on) Tj
+T*
+(Pi, and watching what I have learned about it so far. Slop Issues Unsurprisingly, we are using) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4668 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Pi to build Pi. That sounds like a cute dogfooding thing but it really helps understand what we) Tj
+T*
+(do. An interesting effect of building with agents is that it changes the role of the issue) Tj
+T*
+(tracker a tiny bit. The issue descriptions are not just messages from a user to a maintainer) Tj
+T*
+(because we also use them as inputs for prompts in Pi sessions. It is something I might hand to) Tj
+T*
+(my clanker 1 and say: ?understand this, reproduce it, inspect the code, and propose a fix.?) Tj
+T*
+(That means the shape of the issue matters in a new way. A bad issue was always annoying, but at) Tj
+T*
+(least a lot of issues were vague. Now we are also dealing with a class of issues that are 5%) Tj
+T*
+(human and 95% clanker-generated and largely inaccurate shit. A bad issue...) Tj
+T*
+() Tj
+T*
+(9. Walking the dog with Claude) Tj
+T*
+(Source: Matt Godbolt?s blog | Published: 2026-05-24T16:55:00Z) Tj
+T*
+(Link: http://xania.org/202605/walking-the-dog?utm_source=feed&utm_medium=rss) Tj
+T*
+(An AI interview about explaining hard things simply, conducted on a dog walk) Tj
+T*
+() Tj
+T*
+(10. Signing is for the bad days) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-24T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/24/signing-is-for-the-bad-days.html) Tj
+T*
+(I have had roughly the same conversation four or five times in the last month. I?m explaining) Tj
+T*
+(why a registry should adopt Sigstore, or why a build pipeline should emit in-toto attestations,) Tj
+T*
+(and the person across the table says some version of: we already use TLS to the registry, the) Tj
+T*
+(registry already hashes the tarballs, the lockfile already pins the hash, what does a signature) Tj
+T*
+(add? And on a Tuesday afternoon when nothing has gone wrong, the honest answer is that it adds) Tj
+T*
+(a bit of CPU on publish and a bit of YAML in the workflow and not much else you can see. That) Tj
+T*
+(answer is also why we keep having supply chain incidents, because a hash in a lockfile tells) Tj
+T*
+(you the bytes haven?t changed since you locked them; it can?t tell you whether they were ever) Tj
+T*
+(the right bytes, and the whole point of this class of tooling is to answer that second) Tj
+T*
+(question. It does nothing visible until the day someone compromises a build server or swaps a) Tj
+T*
+(tarball on a mirror, and on that day it?s the difference between ?the client refused to install) Tj
+T*
+(it? and a blog post that starts with the word ?incident?. I want to walk through the three) Tj
+T*
+(projects that most of this work sits on and what each one actually defends...) Tj
+T*
+() Tj
+T*
+(11. The Eternal Sloptember) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-05-24T00:00:00-07:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html) Tj
+T*
+(I?m calling it now, the adoption of AI agents into software development will be one of the most) Tj
+T*
+(costly mistakes in the field?s history. Agents cannot program, and it?s taking longer and) Tj
+T*
+(longer to realize that they can?t. They are a highly sophisticated statistical model designed) Tj
+T*
+(to mimic the distribution of programming. The output is broken, but in a way that?s getting) Tj
+T*
+(harder and harder to detect. Which is exactly what you?d expect from an increasingly accurate) Tj
+T*
+(statistical model. At first, I rejected this. I bought into the Twitter explanation of status) Tj
+T*
+(anxiety. I define some of my self worth by my programming abilities, so wouldn?t it make sense) Tj
+T*
+(to get defensive around that loss? Deny the models can code for as long as I could to preserve) Tj
+T*
+(my ego? I mean, it?s very clear they can solve math problems I couldn?t hope to solve if I) Tj
+T*
+(devoted my life to it. So why can?t they program? Maybe I?m just not good enough of a) Tj
+T*
+(programmer to recognize their genius. I really tried for the last 6 months. I wrote some parts) Tj
+T*
+(of tinygrad with agents. I reversed a USB PCIe chip with agents. But each time I suspected I) Tj
+T*
+(could have done it better and faster manually. The agent frontloads all the progress...) Tj
+T*
+() Tj
+T*
+(12. Why I can't stand the word "driven") Tj
+T*
+(Source: Westenberg. | Published: Mon, 25 May 2026 00:08:34 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/) Tj
+T*
+(A man named Harry Readford once stole close to 1,000 head of cattle from Bowen Downs station in) Tj
+T*
+(central Queensland and drove them south, down through the Channel Country and along the) Tj
+T*
+(Strzelecki Track into South Australia - across a stretch of desert the squatters swore no herd) Tj
+T*
+(could) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4427 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(13. Childhood Computing) Tj
+T*
+(Source: Susam Pal | Published: 2026-05-24T00:00:00Z) Tj
+T*
+(Link: https://susam.net/childhood-computing.html) Tj
+T*
+(I recently stumbled upon a nice blog post titled Childhood Computing . It made me think about) Tj
+T*
+(my own childhood computing experience. I am much older than the author of the aforementioned) Tj
+T*
+(post, but like them, I too love computers. I have for most of my life. In 1992, when I was) Tj
+T*
+(eight years old, my parents decided to transfer me to a new school because of its curriculum.) Tj
+T*
+(They did not know it then, and it probably did not even matter to them, but this new school had) Tj
+T*
+(a computer lab. That was quite remarkable for its time. I grew up in a very tiny industrial) Tj
+T*
+(town. The computers in the lab were hand-me-downs from the silica factory around which the town) Tj
+T*
+(was built. We got only about two hours of time per month in the computer lab, but the little) Tj
+T*
+(time I got there opened up a whole new world for me. Before entering the lab, we had to leave) Tj
+T*
+(our shoes at the door. 'These are expensive machines. We must keep them free of dust', our) Tj
+T*
+(teacher would say. It was a ritual. The computers were very old IBM PC compatible machines,) Tj
+T*
+(mostly with monochrome cathode-ray tube \(CRT\) monitors. They had no hard disks at all. They had) Tj
+T*
+(a few hundred kilobytes of RAM. Every time, we performed the same ritual. Ins...) Tj
+T*
+() Tj
+T*
+(14. ICT van levensbelang: kantoorautomatisering is geen leidraad) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 14 Feb 2020 09:00:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/ict-van-levensbelang/) Tj
+T*
+(Gisteren verscheen het rapport ?PatiÎntveiligheid bij ICT-uitval in ziekenhuizen? van de) Tj
+T*
+(Onderzoeksraad voor veiligheid. Omdat ik een bescheiden bijdrage heb geleverd aan dit rapport) Tj
+T*
+(voel ik me geroepen een stukje te schrijven over wat in het rapport het ?ICT-fundament? wordt) Tj
+T*
+(genoemd. Voor de volledige duidelijkheid, wat ik hier schrijf heeft niets te maken met de) Tj
+T*
+(Onderzoeksraad en ook niet specifiek met de inhoud van het rapport. Zie het als een overdenking) Tj
+T*
+(over bedrijfskritische ICT.) Tj
+T*
+() Tj
+T*
+(15. Amateur SARS/2019-NCoV RNA Comparison) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 24 Jan 2020 13:42:01 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/sars-ncov-comparison/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(16. 5G: The outsourced elephant in the room) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 20 Jan 2020 15:00:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/5g-elephant-in-the-room/) Tj
+T*
+(This article is part of a series on \(European\) innovation and capabilities. In a break from the) Tj
+T*
+(usual GPS/Galileo, DNA and C++ posts, here is a bit on 5G and national security. It turns out) Tj
+T*
+(that through PowerDNS and its parent company Open-Xchange, we know a lot about how large scale) Tj
+T*
+(European communication service providers work - most of whom are our customers in some way. In) Tj
+T*
+(addition, in a previous life I worked in national security and because of that I have relevant) Tj
+T*
+(knowledge of how governments \(your own and foreign ones\) ?interact? with telecommunication) Tj
+T*
+(providers.) Tj
+T*
+() Tj
+T*
+(17. How my minimal, memory-safe Go rsync steers clear of vulnerabilities) Tj
+T*
+(Source: Michael Stapelbergs Website | Published: 2026-05-24T16:20:22+02:00) Tj
+T*
+(Link: https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/) Tj
+T*
+(Back in January 2025, multiple different security researchers published a total of 6 security) Tj
+T*
+(vulnerabilities in rsync , some of which allow arbitrary code execution and file leaks, so) Tj
+T*
+(naturally I was wondering whether/how my gokrazy/rsync implementation was affected. Did) Tj
+T*
+(implementing my own \(compatible, but minimal\) rsync in Go, a modern and memory-safe programming) Tj
+T*
+(language, really rule out entire classes of security vulnerabilities? This deep dive article) Tj
+T*
+(was in the making since January 2025, but was delayed because we uncovered more unpublished) Tj
+T*
+(vulnerabilities in the process! The ?Security Vulnerabilities? section now covers all 12) Tj
+T*
+(vulnerabilities from the January 2025 batch and the May 2026 batch. If you are running) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 562 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(\(upstream, samba\) rsync in production, upgrade to version 3.4.3 or newer. If you are running) Tj
+T*
+(gokrazy/rsync in production, upgrade to version v0.3.3 or newer. Feel free to skip over the) Tj
+T*
+(nitty-gritty security issue details and jump directly to: The verdict on whether using Go has) Tj
+T*
+(helped . The verdict on whether a minimal re-implementation like gokrazy/rsync helps . My) Tj
+T*
+(comparison with OpenBSD?s openrsync \(written in C\). Defense in depth mechanisms one can use on) Tj
+T*
+(Linux...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004744 00000 n 
+0000004870 00000 n 
+0000009821 00000 n 
+0000009947 00000 n 
+0000014667 00000 n 
+0000014793 00000 n 
+0000019273 00000 n 
+0000019401 00000 n 
+0000020015 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20143
+%%EOF
