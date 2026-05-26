@@ -1,0 +1,618 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4467 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-26 09:43:19) Tj
+T*
+() Tj
+T*
+(1. Notes on Pope Leo XIV's encyclical on AI) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-25T23:58:17+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything) Tj
+T*
+(Dropped this morning by the Vatican: Magnifica Humanitas of His Holiness Pope Leo XIV on) Tj
+T*
+(Safeguarding the Human Person in the Time of Artificial Intelligence . This is a very) Tj
+T*
+(interesting document. It's some of the clearest writing I've seen on the ethics of integrating) Tj
+T*
+(AI into modern society. Pope Leo XIV chose the name Leo in honor of Pope Leo XIII, who is known) Tj
+T*
+(for his 1891 Rerum novarum encyclical on "Rights and Duties of Capital and Labor". This story) Tj
+T*
+(on Vatican News further clarifies the significance of that decision: Meeting with the College) Tj
+T*
+(of Cardinals for their first formal encounter after his election, Pope Leo XIV explained part) Tj
+T*
+(of the reason for the choice of his papal name. "There are different reasons for this," he) Tj
+T*
+(said, before going on to explain that he chose the name Leo "mainly because Pope Leo XIII, in) Tj
+T*
+(his historic encyclical Rerum novarum addressed the social question in the context of the first) Tj
+T*
+(great industrial revolution." "In our own day," he continued, "the Church offers to everyone) Tj
+T*
+(the treasury of her social teaching in response to another industrial revolution and to) Tj
+T*
+(developments in the field of artificial intelligence that pose new challenges for the def...) Tj
+T*
+() Tj
+T*
+(2. Quoting Armin Ronacher) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-24T18:46:53+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything) Tj
+T*
+(The most frustrating failure mode right now is that people submit issues that are not in their) Tj
+T*
+(own voice. They contain an observed problem somewhere, but it has been thrown into a clanker) Tj
+T*
+(and the clanker reworded it and made a huge mess of it. Typically, it was prompted so badly) Tj
+T*
+(that the conclusions produced are more often than not inaccurate but always full of confidence.) Tj
+T*
+(The result is complete guesswork on root causes, fake-minimal repros, suggested implementation) Tj
+T*
+(strategies, analogies to adjacent but often the wrong code, and long lists of error classes) Tj
+T*
+(that might or might not matter. [...] So at least personally, I increasingly want issue reports) Tj
+T*
+(to be condensed to what the human actually observed: I ran this command. I expected this to) Tj
+T*
+(happen. This happened instead. Here is the exact error or log. ? Armin Ronacher , on slop) Tj
+T*
+(issues filed against Pi Tags: ai , github-issues , llms , ai-ethics , open-source ,) Tj
+T*
+(coding-agents , generative-ai , armin-ronacher , pi , slop) Tj
+T*
+() Tj
+T*
+(3. Mad House ? Usborne Creepy Computer Games) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-24T17:14:11+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything) Tj
+T*
+(Tool: Mad House ? Usborne Creepy Computer Games Via Hacker News I learned that UK publisher) Tj
+T*
+(Usborne published free PDFs of their 1980s Computer Books , some of which I remember working) Tj
+T*
+(through on my Commodore 64 as a child. These were so great! Beautifully illustrated books with) Tj
+T*
+(fun projects made up of code you could type into your own machine. I remember playing "Mad) Tj
+T*
+(House" typed in from the 1983 book "Creepy Computer Games", so I fed that PDF into Claude and) Tj
+T*
+(had it build an interactive version of that game in JavaScript and HTML: Build a vanilla JS) Tj
+T*
+(artifact that exactly recreates the game Mad House from this book, make sure it's mobile) Tj
+T*
+(friendly and has a suitable retro aesthetic Credit the book title and link to) Tj
+T*
+(https://usborne.com/us/books/computer-and-coding-books " and " Tags: computer-history , games ,) Tj
+T*
+(tools) Tj
+T*
+() Tj
+T*
+(4. [Sponsor] exe.dev) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-25T23:57:24Z) Tj
+T*
+(Link: https://exe.dev/?df) Tj
+T*
+(A cloud for the agent era. Use exe.dev to get a pool of VMs with SSH, root, and web auth by) Tj
+T*
+(default. Secrets injected at the network edge stay out of the LLM?s hands. Persistent servers,) Tj
+T*
+(internal tools, vibe coding, disposable devboxes, whatever. It?s just a computer. ?) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4646 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(5. Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in) Tj
+T*
+(Market Cap) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-25T20:32:29Z) Tj
+T*
+(Link: https://daringfireball.net/linked/2014/01/29/haynes-aapl) Tj
+T*
+(Here?s a fun one. Back in 2014 I linked to a post by Jay Haynes in which he projected that with) Tj
+T*
+(a very reasonable level of annual growth, Apple ought to reach a $3 trillion market cap within) Tj
+T*
+(10 years. At the time of his writing, Apple?s market cap was ?just? $450 billion, and no) Tj
+T*
+(company had hit the $1 trillion market. So projecting a $3 trillion valuation in 10 years was a) Tj
+T*
+(bold prediction. Apple hit $3 trillion in just 8 years . Haynes?s original blog went belly-up,) Tj
+T*
+(alas, but he republished the piece on Medium , with a bit of additional commentary up front, in) Tj
+T*
+(2016. Re-reading Haynes?s piece today, it holds up extremely well, including his case that the) Tj
+T*
+(iPhone and iPad are almost textbook examples of Clayton Christensen?s disruption theory \(yet) Tj
+T*
+(Christensen himself got it wrong \). \(Thanks to Nathan Peretic, longtime DF reader and owner of) Tj
+T*
+(a perfect personal homepage , for prompting me to revisit this and award Haynes his well-earned) Tj
+T*
+(Being Right Points.\) ?) Tj
+T*
+() Tj
+T*
+(6. Thieves Are Texting Threats to Victims of iPhone Theft in London) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-25T19:23:32Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html?unlocked_) Tj
+T*
+(article_code=1.lFA.OUt7.VJ_FoDpINr0L) Tj
+T*
+(Lizzie Dearden and Amelia Nierenberg, reporting for The New York Times \(gift link\): The crime) Tj
+T*
+(Alex Pikula reported to the police was one they had heard before: An e-bike rider had zoomed) Tj
+T*
+(past as Mr. Pikula left a theater in London?s West End, ripping his phone from his hands. It) Tj
+T*
+(was frustrating, Mr. Pikula thought, but that was that. He was wrong. His mother soon started) Tj
+T*
+(receiving strange texts, claiming to have her son?s emails and bank information. Then she) Tj
+T*
+(received a video of a man brandishing a gun. Then came threats of sexual assault and death. ?I) Tj
+T*
+(know who you are and where you live,? read one, full of obscenities and typos. ?I?ve killed or) Tj
+T*
+([ sic ] far less than a phone before,? it went on. ?We will see if you value your life over) Tj
+T*
+(this phone.? All of the messages wanted her to do one thing: unlink her son?s Apple ID from his) Tj
+T*
+(stolen phone. The story only mentions the word iPhone twice, but phone appears over 30 times.) Tj
+T*
+(?Apple ID? appears four times. There?s zero mention of Android or Google. It?s just implicitly) Tj
+T*
+(assumed that the only phones worth stealing or threatening victims about are iPhones. The story) Tj
+T*
+(makes no mention of Apple?s Stolen Device Protection , which Apple recen...) Tj
+T*
+() Tj
+T*
+(7. Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks) Tj
+T*
+(Source: Krebs on Security | Published: Mon, 25 May 2026 13:21:49 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-c) Tj
+T*
+(yberattacks/) Tj
+T*
+(Authorities in the Netherlands have arrested the co-owners of two related Internet hosting) Tj
+T*
+(companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence) Tj
+T*
+(operations and disinformation campaigns inside the European Union. The two men were the focus) Tj
+T*
+(of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the) Tj
+T*
+(technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned) Tj
+T*
+(last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence) Tj
+T*
+(agencies.) Tj
+T*
+() Tj
+T*
+(8. Anti-robot techniques can be nice but the problem is, they're not static) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-25T17:14:15Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/RobotsVsLowAttentionWebsites) Tj
+T*
+(I've recently come up with what I expect would be a quite good anti-robot, anti-crawler tactic,) Tj
+T*
+(which I will give the snappy label and summary of "robots don't POST". Simply require a HTTP) Tj
+T*
+(cookie to see your web pages and then if visitors don't have the cookie, put up an interstitial) Tj
+T*
+(page with a HTML form that requires them to POST it to get the cookie. All the form need is a) Tj
+T*
+("click me to get your entrance cookie", because right now, few or no robots or crawlers will) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4683 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(make that HTTP POST request; they only do HTTP GETs. To distract bad crawlers you might need) Tj
+T*
+(some other links on the interstitial page, optionally going to content tarpits. \(If you're) Tj
+T*
+(going to do this in practice you'll want to exempt syndication feed requests and perhaps) Tj
+T*
+(requests from bingbot, Googlebot, and so on. Although maybe not Googlebot any more .\) The) Tj
+T*
+(obvious problem with this technique is that if people start doing it in any quantity, the) Tj
+T*
+("robots don't POST" thing won't last. Bad crawlers will start hitting POST endpoints for forms) Tj
+T*
+(that just have a "click me" button, and then POST endpoints for forms that have an "I am human") Tj
+T*
+(tick box to mark or a field to fill in or whatever the elaboration people come with...) Tj
+T*
+() Tj
+T*
+(9. GitHub Actions security in Python packages) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-25T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/25/github-actions-security-in-python-packages.html) Tj
+T*
+(This is a written version of a talk I gave at PyCon US 2026 in Long Beach. Slides \(PDF\) ,) Tj
+T*
+(scripts, and datasets are at github.com/andrew/pycon . Of the roughly 864,000 packages PyPI) Tj
+T*
+(lists, about 387,000 declare a repository URL on GitHub, mapping to 343,000 distinct) Tj
+T*
+(repositories once you collapse the monorepos. 152,000 of those have something in) Tj
+T*
+(.github/workflows/ , and for practical purposes open source Python has one CI system: Travis) Tj
+T*
+(CI, the previous default, accounts for 11% of the same population and stopped offering free) Tj
+T*
+(open source builds in 2023, with everything else below 2%. Around 56,000 of those repositories) Tj
+T*
+(reference pypa/gh-action-pypi-publish somewhere in a workflow file, which is to say they tag a) Tj
+T*
+(commit, a runner spins up, a wheel gets built, and twine upload puts it on PyPI. About 22% of) Tj
+T*
+(them have migrated to trusted publishing , where PyPI accepts a short-lived OIDC token minted) Tj
+T*
+(by the workflow instead of a stored API key, and the publisher configuration on PyPI?s side) Tj
+T*
+(names the repository, the workflow file, and optionally a deployment environment. The other) Tj
+T*
+(44,000 or so still have a PYPI_API_TOKEN sitting in repository secrets. I think trusted) Tj
+T*
+(publishing is on...) Tj
+T*
+() Tj
+T*
+(10. PHP - simple way to send HTTP headers before a script ends) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 25 May 2026 11:34:38 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/) Tj
+T*
+(Suppose you want PHP to keep processing after it has sent back an HTTP response. Normally, this) Tj
+T*
+(doesn't work: <?php header\( "Location: https://example.com/" \); // Long operation. sleep\(10\);) Tj
+T*
+(die\(\); Try it yourself. You'll have to wait 10 seconds before you get back < HTTP/2 302 <) Tj
+T*
+(location: https://example.com/ There are some complex ways to fix this - they usually involve?) Tj
+T*
+() Tj
+T*
+(11. Pluralistic: No honor among \(ad-tech\) thieves \(25 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 25 May 2026 08:21:45) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/05/25/lying-spies/) Tj
+T*
+(Today's links No honor among \(ad-tech\) thieves: Including "and" and "the." Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: Budweiser nunchuks; GOP vote-suppressor voted) Tj
+T*
+(illegally; Airbnb enshittifies; Oculus enshittifies; Nintendo copyfrauds its fans; Meritocracy) Tj
+T*
+(to eugenics pipeline; Ultima Online crisis management; SNES cartridge urinal; JJ Abrams x) Tj
+T*
+(Axanar, "Sex Criminals"; Beating school filters for fun; Orphan works; Japanese ATM heist; How) Tj
+T*
+(the Sacklers rigged the game. Upcoming appearances: London, Kansas City, LA, Menlo Park,) Tj
+T*
+(Toronto, NYC, Edinburgh. Recent appearances: Where I've been. Latest books: You keep readin') Tj
+T*
+(em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All) Tj
+T*
+(the rest. No honor among \(ad-tech\) thieves \(permalink\) It shouldn't come as a surprise to learn) Tj
+T*
+(that a company that uses dishonest tactics to spy on you for profit will also use dishonest) Tj
+T*
+(tactics to sell the resulting surveillance data. The only reason this wouldn't be obvious is if) Tj
+T*
+(you've fallen into the trap of thinking "if you're not paying for the product, you're the) Tj
+T*
+(product." Companies that cheat when the opportunity arises will cheat everyone: customers...) Tj
+T*
+() Tj
+T*
+(12. Games Are the Art Form of Our Time) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4441 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Dr Paris Buttfield-Addison | Published: Sun, 24 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/ncp-submission/) Tj
+T*
+(Submissions for Australia?s next National Cultural Policy closed in May 2026. I wrote one, on) Tj
+T*
+(behalf of Tasmanian Game Makers , because I want games taken seriously as what they are: the) Tj
+T*
+(art form most of us actually play. Read the full submission on Tas Game Makers Here are the) Tj
+T*
+(highlights. Games are the art form of our time. In 2025, 82% of Australians played them, the) Tj
+T*
+(average player was 35, and women now make up just over half of all players. On the government?s) Tj
+T*
+(own data, digital games development has been the fastest-growing of all cultural and creative) Tj
+T*
+(activities in the country over the past decade. Games are also one of our most export-heavy) Tj
+T*
+(creative industries: 93% of the Australian sector?s revenue comes from overseas.) Tj
+T*
+() Tj
+T*
+(13. Leo wouldn't stand still) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Thu, 21 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/leo-sprite-alignment/) Tj
+T*
+(We?re working on an adventure game, Leonardo?s Moon Ship . The player character, Leo, has the) Tj
+T*
+(usual pile of animations: idle left and right, walk in four directions, a couple of stair) Tj
+T*
+(anims. Since implementing the basics of the character, Leo has had this slightly cursed) Tj
+T*
+(behaviour where he?d grow about 3% taller the moment he started walking, then shrink back when) Tj
+T*
+(he stopped. His feet would also lift off the ground by up to 27 pixels depending on which way) Tj
+T*
+(he was facing. Not enough to be obviously broken in a screenshot. Exactly enough to make the) Tj
+T*
+(game feel wrong.) Tj
+T*
+() Tj
+T*
+(14. Welcoming the Bhutanese Government to Have I Been Pwned) Tj
+T*
+(Source: Troy Hunt | Published: Mon, 25 May 2026 22:52:15 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/) Tj
+T*
+(Today, we welcome the 45th government onboarded to Have I Been Pwned?s free gov service:) Tj
+T*
+(Bhutan. The Bhutan Computer Incident Response Team, BtCIRT, now has access to monitor Bhutanese) Tj
+T*
+(government domains against the data in HIBP. As Bhutan?s national CIRT, BtCIRT is responsible) Tj
+T*
+(for consuming threat) Tj
+T*
+() Tj
+T*
+(15. FediMeteo, timezones, and the art of not breaking what already works) Tj
+T*
+(Source: IT Notes | Published: Mon, 25 May 2026 09:14:00 +0000) Tj
+T*
+(Link: https://it-notes.dragas.net/2026/05/25/fedimeteo-timezones-and-the-art-of-not-breaking-wh) Tj
+T*
+(at-already-works/) Tj
+T*
+(I have already written about how FediMeteo was born , and about how HAProxy helps reduce the) Tj
+T*
+(number of requests that reach snac . Seen from the outside, FediMeteo almost seems still. There) Tj
+T*
+(is a static homepage, regenerated every hour. There are the city pages, with their forecasts.) Tj
+T*
+(There are RSS feeds waiting to be fetched, JSON objects waiting to be requested, Fediverse) Tj
+T*
+(instances refreshing data, subscribing, unsubscribing, retrieving profiles, and reading notes.) Tj
+T*
+(That is the visible part. Behind it, however, FediMeteo is much more than a homepage, a few) Tj
+T*
+(ActivityPub accounts, and a well-behaved reverse proxy. It is a chain of small pieces, in) Tj
+T*
+(proper Unix style, each trying to do one thing and do it as well as possible. That chain,) Tj
+T*
+(although almost invisible from the outside, was not born already tidy. It changed, was) Tj
+T*
+(rewritten, adapted to new countries, timezones, ambiguous city names, external service limits,) Tj
+T*
+(and also to my own mistakes. Some mistakes were small. Others were much less so. Because) Tj
+T*
+(FediMeteo is a human project and, as such, imperfect. Imperfect in the way humans are) Tj
+T*
+(imperfect, which today almost seems unfashionable. I like that. The first version of the bot) Tj
+T*
+(was almo...) Tj
+T*
+() Tj
+T*
+(16. Distributing LLM inference in DwarfStar) Tj
+T*
+(Source: antirez.com | Published: Mon, 25 May 2026 16:54:59 +0200) Tj
+T*
+(Link: http://antirez.com/news/167) Tj
+T*
+(High end NVIDIA cards, and the server and power needed to run them, cost a lot of money,) Tj
+T*
+(especially if you plan to reach enough VRAM to run massive models. The alternative, so far, has) Tj
+T*
+(been Apple hardware, or the DGX Spark that, even if severely limited because of memory) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3406 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(bandwidth, still allows to run LLMs prompt processing \(prefill\) fast enough. The Mac Studio) Tj
+T*
+(provided up to 512GB unified memory, a solution with modest memory bandwidth \(but much better) Tj
+T*
+(than the Spark\) and compute at a price that was, after all, given the current situation,) Tj
+T*
+(relatively fair. For instance, with DwarfStar the Mac Studio M3 Ultra 512GB can run DeepSeek v4) Tj
+T*
+(PRO at 150 t/s prefill and ~10-13 t/s decoding, not great but at a level that is usable for) Tj
+T*
+(certain use cases. Even 2-bit quantized, DeepSeek v4 PRO resists very well, like Flash at the) Tj
+T*
+(same quantization \(today I made PRO write a C compiler, I'll publish the video soon\). I would) Tj
+T*
+(not consider a trivial fact to run a frontier model at home, with a ~12k total spending. One) Tj
+T*
+(could expect this to get better and better, but the situation at the horizon appears cloudy.) Tj
+T*
+(There is almost zero hope that NVIDIA setups will get less expensive, and even a small com...) Tj
+T*
+() Tj
+T*
+(17. Solving the board game Quoridor) Tj
+T*
+(Source: Grant Slatton's Blog | Published: Mon, 25 May 2026 20:01:38 +0000) Tj
+T*
+(Link: https://grantslatton.com/solving-quoridor) Tj
+T*
+(Algorithmic and optimization playtime) Tj
+T*
+() Tj
+T*
+(18. The Galmon GNSS Monitoring Project) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 08 Jan 2020 13:53:08 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/galmon-project/) Tj
+T*
+(Welcome to the Galmon project! Our goals are to monitor the major Global Navigation Satellite) Tj
+T*
+(Systems, including GPS, GLONASS, Galileo and BeiDou, but also Space Base Augmentation Systems) Tj
+T*
+(like WAAS, EGNOS and GAGAN. Galmon is an open source & open data project with a community of) Tj
+T*
+(over 30 station operators running more than 50 receivers. Some history of the project may be) Tj
+T*
+(found in the second part of this blog post, and on this page on the big Galileo 2019 outage.) Tj
+T*
+() Tj
+T*
+(19. A 2019 update on PowerDNS, Galileo, DoH and other things) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 01 Jan 2020 15:37:52 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/update-2019-powerdns-galileo-ripe-doh/) Tj
+T*
+(Last year I wrote a post listing what I had been doing in 2018, because it turned out it was a) Tj
+T*
+(lot, so much that it was useful to summarise it somewhat. This year there is less to report,) Tj
+T*
+(but people have wondered what I?ve been up to. And I?ve learned that if you leave room for) Tj
+T*
+(speculation about your intentions, wrong answers tend to come up. This \(professional\) year for) Tj
+T*
+(me mostly consisted of two things: DNS over HTTPS and Galileo.) Tj
+T*
+() Tj
+T*
+(20. What Is Life?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 30 Dec 2019 14:44:26 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/what-is-life/) Tj
+T*
+(What is life? This question keeps many people awake at night and has led to rafts of) Tj
+T*
+(definitions, some involving features \(procreation, metabolism and so forth\), some involving) Tj
+T*
+(chemistry, entropy or energy flux and some are of a more philosophical bent. A BBC article) Tj
+T*
+(noted there are over 100 definitions of life and it claims all are wrong. And indeed it does) Tj
+T*
+(appear to be quite a challenge - every hard and fast rule is violated somewhere in biology.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004736 00000 n 
+0000004862 00000 n 
+0000009560 00000 n 
+0000009686 00000 n 
+0000014421 00000 n 
+0000014547 00000 n 
+0000019041 00000 n 
+0000019169 00000 n 
+0000022628 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+22756
+%%EOF
