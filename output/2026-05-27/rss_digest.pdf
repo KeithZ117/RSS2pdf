@@ -1,0 +1,752 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4516 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-27 09:47:27) Tj
+T*
+() Tj
+T*
+(1. I patched iozone for better disk benchmarks on modern macOS) Tj
+T*
+(Source: Jeff Geerling | Published: Tue, 26 May 2026 20:32:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/i-patched-iozone-for-better-disk-benchmarks-on-mod) Tj
+T*
+(ern-macos/) Tj
+T*
+(A decade ago, I settled on iozone for disk benchmarking on all my systems. Tools like fio) Tj
+T*
+(\('Flexible IO' tester\) are a little more capable for raw disk performance testing, and other) Tj
+T*
+(tools test network-scale filesystems better, but iozone gives me an easy overview of real-world) Tj
+T*
+(disk performance across hard drives and SSDs, and runs on Mac, Windows, and Linux \(and a) Tj
+T*
+(smattering of other OSes\). It's been around since 1991 , and is still updated today?in fact,) Tj
+T*
+(the two latest updates \(version 509 and 510\) contain patches I sent in to get iozone to compile) Tj
+T*
+(on Apple Silicon Macs running newer releases of macOS.) Tj
+T*
+() Tj
+T*
+(2. The pressure) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-26T23:48:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/26/the-pressure/#atom-everything) Tj
+T*
+(The pressure Daniel Stenberg on the unprecedented level of pressure the curl team are facing) Tj
+T*
+(right now thanks to the deluge of \(credible\) AI-assisted security issues being reported. The) Tj
+T*
+(rate of incoming security reports is 4-5 times higher than it was in 2024 and double the speed) Tj
+T*
+(of 2025 -- meaning that on average we now get more than one report per day . The quality is way) Tj
+T*
+(higher than ever before. The reports are typically very detailed and long. [...] For the first) Tj
+T*
+(time in my life, my wife voiced concerns about my work hours and my imbalanced work/life) Tj
+T*
+(situation. I work more than I?ve done before, but the flood keeps coming. [...] This is a) Tj
+T*
+(never-before seen or experienced pressure on the curl project and its security team members. An) Tj
+T*
+(avalanche of high priority work that trumps all other things in the project that is primarily) Tj
+T*
+(mental because we certainly could ignore them all if we wanted, but we feel a responsibility,) Tj
+T*
+(we have a conscience and we are proud about our work. The good news is that curl is a very) Tj
+T*
+(solid piece of software, so the vulnerabilities people are finding tend not to be of high) Tj
+T*
+(severity: What is also a good trend: almost no one finds terrible vulnerabilities....) Tj
+T*
+() Tj
+T*
+(3. Microsoft Copilot Cowork Exfiltrates Files) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-26T15:36:48+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything) Tj
+T*
+(Microsoft Copilot Cowork Exfiltrates Files The biggest challenge in designing agentic systems) Tj
+T*
+(continues to be preventing them from enabling attackers to exfiltrate data. In this case) Tj
+T*
+(Microsoft Copilot Cowork \(yes, that's a real product name \) was allowing agents to send emails) Tj
+T*
+(to the user's own inbox without approval... but those messages were then displayed in a way) Tj
+T*
+(that could leak data to an attacker via rendered images: Because these messages can contain) Tj
+T*
+(external images that trigger network requests to external websites, data can be exfiltrated) Tj
+T*
+(when a user opens a compromised message sent by the agent. Since OneDrive can create) Tj
+T*
+(pre-authenticated download links, a successful prompt injection could cause those links to be) Tj
+T*
+(leaked, allowing files to be downloaded by the attacker. Via Hacker News Tags: microsoft ,) Tj
+T*
+(security , ai , prompt-injection , generative-ai , llms , exfiltration-attacks ,) Tj
+T*
+(lethal-trifecta) Tj
+T*
+() Tj
+T*
+(4. Quoting Paul Graham) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-26T15:02:30+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/26/paul-graham/#atom-everything) Tj
+T*
+(A lot of the emails I get from founders are now written in a hard-hitting journalistic style. I) Tj
+T*
+(know they're written by AI, because no founder ever wrote this way before. And once you realize) Tj
+T*
+(something is written by AI, it's hard not to ignore it. I have never knowingly finished reading) Tj
+T*
+(an email signed by a human but written by AI. It feels like being lied to, and who would stand) Tj
+T*
+(for that? [ ... ] It makes me think less of the author. It means they can't write well unaided) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4782 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(\(or feel they can't\), and that they're trying to trick me. It's not impressive to use AI to) Tj
+T*
+(write stuff for you; any teenager can do that. ? Paul Graham Tags: writing , ai-misuse ,) Tj
+T*
+(paul-graham , generative-ai , ai , llms) Tj
+T*
+() Tj
+T*
+(5. How Many Tokens Did You Burn Today) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Wed, 27 May 2026) Tj
+T*
+(00:31:22 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/how-many-tokens-did-you-burn-today?src=feed) Tj
+T*
+(Early in my career, a manager at one of the big firms where I worked made a request so absurd) Tj
+T*
+(it remains etched in my memory. I walked back to the team, repeated what he had asked, and) Tj
+T*
+(couldn't finish the story without laughing. He wanted me to create a pie chart, of lines of) Tj
+T*
+(code, per developer, per week. We all lost it. Our lead developer asked if, by any chance, the) Tj
+T*
+(manager's eyes looked glassy. We laughed even harder. Because yes. Yes, they did. He was always) Tj
+T*
+(high. That was twenty years ago. I've repeated that story countless times, and it always drew) Tj
+T*
+(chuckles as we discussed the disconnect between software teams and management. Any software) Tj
+T*
+(engineer could relate. We all knew that lines of code were a meaningless metric. A junior could) Tj
+T*
+(write a thousand lines of spaghetti. A senior could fix the same problem with forty elegant) Tj
+T*
+(ones. But then, last week, I found my name at the top of a leaderboard. My employer had been) Tj
+T*
+(exploring productivity tools and trialed one they thought would be useful. After the trial,) Tj
+T*
+(they were quoted $500k a year. The tool tracked developer productivity and integrated with) Tj
+T*
+(Atlassian products, Microsoft, and many other services we used. The price was too...) Tj
+T*
+() Tj
+T*
+(6. Amber Alert sends Spam URL?) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Tue, 26 May 2026) Tj
+T*
+(03:25:17 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/amber-alert-with-spam-link?src=feed) Tj
+T*
+(Well that was weird. I just received an Amber Alert and the link led to a spammy looking) Tj
+T*
+(website. Spam? The link leads to a 3gp file converter which is highly unusual. But the more I) Tj
+T*
+(look at it, I have the impression it's a mistake. Most likely, they have exceeded the maximum) Tj
+T*
+(number of characters for the Emergency Service alert. Here is the message: AN AMBER ALERT HAS) Tj
+T*
+(BEEN ACTIVATED BY THE CALIFORNIA HIGHWAY PATROL. DALEZA FREGOSO WAS LAST SEEN ON MAY 24, 2026) Tj
+T*
+(AT 0400 HOURS IN LOS ANGELES COUNTY. THE SUSPECT VEHICLE IS A WHITE 2019 WHITE LAND ROVER) Tj
+T*
+(DISCOVERY CA 9DAW715. CLICK ON THE LINK FOR ADDITIONAL INFORMATION. https://bit.ly/A0 It seems) Tj
+T*
+(like the total character count is 288. I'm not sure if the title should be included but if I) Tj
+T*
+(add Child abduction \(Amber alert\) and the double space after, then we have 320 characters. Is) Tj
+T*
+(this the character limit for emergency services? When I clicked on it, it took me to the bitly) Tj
+T*
+(preview page: And clicking on the continue to destination button, I'm taken here: Suspicious) Tj
+T*
+(Link I was starting to wonder if this was even a real Amber alert, and if somehow this was a) Tj
+T*
+(spam message that was sent through. But unfortunately, it is a real amber alert,...) Tj
+T*
+() Tj
+T*
+(7. Trump Mobile Website Exposed the Number of Pre-Orders ? Both Completed and Abandoned ?) Tj
+T*
+(and the Associated Customer Information) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-25T18:54:37Z) Tj
+T*
+(Link: https://www.theguardian.com/us-news/2026/may/23/trump-mobile-investigating-potential-expo) Tj
+T*
+(sure-of-would-be-customers-personal-information) Tj
+T*
+(Catie McLeod, The Guardian: Trump Mobile said in a statement that it was investigating the) Tj
+T*
+(issue ? ?with the assistance of independent cybersecurity professionals? ? in which the full) Tj
+T*
+(names, addresses and phone numbers of people who filled out preorder forms appeared to be) Tj
+T*
+(exposed. [...] Jonathan Soma, a programmer and professor at New York?s Columbia University,) Tj
+T*
+(reviewed the code that the Australian had uncovered and copied from the Trump Mobile website.) Tj
+T*
+(Soma said the website used a common e-commerce model, in which every potential order added) Tj
+T*
+(another ?1? to a list, the total of which had reached 27,224 possible pre-orders on the) Tj
+T*
+(available information. But he said the code reflected the last step before payment, meaning) Tj
+T*
+(those who didn?t proceed with the purchase were also recorded in the data, even those people) Tj
+T*
+(who have abandoned their carts without paying the deposit, so the true number of preorders was) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4498 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(likely to be even lower. ?I probably started three phone purchases and didn?t buy any of them,?) Tj
+T*
+(he said. Auric Goldfinger is surely rolling over in his grave. ?) Tj
+T*
+() Tj
+T*
+(8. The History of ?OK?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-25T17:18:56Z) Tj
+T*
+(Link: https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay) Tj
+T*
+(Merriam-Webster: The 1820s and 1830s shared another linguistic fad with today: an appreciation) Tj
+T*
+(for deliberate misspellings. \(Kewl, rite?\) This trend, which had humorists adopting now-cringey) Tj
+T*
+(bumpkin personas with ignorance manifested in uneducated spellings, turned no go into know go) Tj
+T*
+(and no use into know yuse \(lol\). Abbreviations were not immune, and no go became K.G. . So too) Tj
+T*
+(all right became O.W. , as an abbreviation for oll wright . And all correct became o.k. , as an) Tj
+T*
+(abbreviation for oll korrect . Although OK became one of the more commonly used initialisms, it) Tj
+T*
+(might have passed into oblivion when the linguistic fad had passed if not for the presidential) Tj
+T*
+(election of 1840, when Martin Van Buren was given the nickname of ?Old Kinderhook? because of) Tj
+T*
+(his hometown of Kinderhook, NY. The Van Buren stans who joined ?OK Clubs? nationwide were) Tj
+T*
+(themselves, they proclaimed, ?OK.? Their campaign was memorable enough to have both popularized) Tj
+T*
+(the word and to have hijacked the story of its origin: there are today still those who believe) Tj
+T*
+(that ?Old Kinderhook? is the original meaning of OK . I have a strong preference for OK) Tj
+T*
+(\(perhaps infused by the classic Macintosh Human Interface Guidelines...) Tj
+T*
+() Tj
+T*
+(9. WorkOS: ?Agents Need Context. Ship the Integrations That Give It to Them.?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-25T15:09:17Z) Tj
+T*
+(Link: https://workos.com/docs/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaig) Tj
+T*
+(n=q22026) Tj
+T*
+(My thanks to WorkOS for once again sponsoring DF last week. The context that actually matters) Tj
+T*
+(isn?t in your database. It?s in the tools your users live in every day. Multi-stage agents) Tj
+T*
+(stall the moment they hit a step they can?t see. And every missing integration is a different) Tj
+T*
+(OAuth flow, a different token lifecycle, weeks of plumbing before the agent reads a single) Tj
+T*
+(record. WorkOS Pipes connects your agent to the tools your users live in. Pre-built connectors) Tj
+T*
+(for GitHub, Slack, Salesforce, Google Drive, and more. Pipes handles OAuth, token refresh, and) Tj
+T*
+(credential storage. You call the real provider API with a fresh token, every time. Your agent) Tj
+T*
+(pulls context at every step, for as long as the task runs. Give your agent context. ?) Tj
+T*
+() Tj
+T*
+(10. If C# and JavaScript lets me await a Windows Runtime asynchronous operation more than) Tj
+T*
+(once, why not C++/WinRT?) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 26 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260526-00/?p=112354) Tj
+T*
+(A difference in philosophy. The post If C# and JavaScript lets me await a Windows Runtime) Tj
+T*
+(asynchronous operation more than once, why not C++/WinRT? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(11. A hypothetical redesign of System.Diagnostics.Process to avoid confusion over) Tj
+T*
+(properties that are valid only when you are the one who called Start) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 25 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260525-00/?p=112351) Tj
+T*
+(Putting them in a place that can access only if you call Start . The post A hypothetical) Tj
+T*
+(redesign of System. Diagnostics. Process to avoid confusion over properties that are valid only) Tj
+T*
+(when you are the one who called Start appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(12. Is ?colorectal cancer? rising in ?young people??) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-05-26T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/crc-rates/) Tj
+T*
+(\(Yes, but.\) Over the past few years, I?ve seen many articles about mysterious rise in) Tj
+T*
+(colorectal cancer \(CRC\) in young people. There are various stories for why this might be) Tj
+T*
+(happening: General health. Maybe modern people are unhealthy \(obesity, low physical activity,) Tj
+T*
+(diabetes, poor sleep\), leading to insulin resistance and chronic inflammation, meaning faster) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4564 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(epithelial cell proliferation and a miscalibrated immune system that fails to stop early) Tj
+T*
+(cancers? Ultra-processed food. Maybe people are eating more ultra-processed foods that contain) Tj
+T*
+(additives \(like emulsifiers\) that degrade colon mucus, allowing bacteria to contact epithelial) Tj
+T*
+(cells and drive inflammation? Or maybe ultra-processed food has low fiber and glycemic load,) Tj
+T*
+(leading to insulin resistance and chronic inflammation, with the problems mentioned above? Bad) Tj
+T*
+(meat. Maybe people are eating more red and/or processed meats, which expose the colon to) Tj
+T*
+(nitrites and secondary bile acids, which inflame the epithelium and promote chronic) Tj
+T*
+(inflammation? The microbiome. Maybe it?s the microbiome. For example, maybe people?s guts are) Tj
+T*
+(getting colonized by strains of E. coli that produce genotoxic colibactin . Or maybe overuse of) Tj
+T*
+(antibi...) Tj
+T*
+() Tj
+T*
+(13. Clanker: A Word For The Machine) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-05-26T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/5/26/clankers/) Tj
+T*
+(In my last post I used the word ?clanker? as an alternative to ?agent? quite consistently and) Tj
+T*
+(probably excessively. That choice ended up attracting a lot more attention than I expected in) Tj
+T*
+(the Hacker News comment section of that post and a number of folks had a very strong reaction:) Tj
+T*
+(to them it sounded like a slur, in one case even something adjacent to the n-word. That) Tj
+T*
+(reaction surprised me somewhat, but it also made me realize that I should write down what I) Tj
+T*
+(mean by the word for future reference. For me ?clanker? is useful because it creates distance) Tj
+T*
+(from the machine and that is a quality which is important to me. The machine is not a person,) Tj
+T*
+(not a co-worker, not a friend, not a little spirit in the terminal. It is just a machine, a) Tj
+T*
+(tool, and nothing more. Why Not Agent? I dislike the word ?agent? for these LLM based tool) Tj
+T*
+(loops with a UI attached. In everyday use an agent is someone who acts on behalf of someone) Tj
+T*
+(else and it has agency and more importantly: responsibility. An agent decides, represents,) Tj
+T*
+(negotiates, acts, and can be blamed. In the current AI discourse we increasingly do a lot of) Tj
+T*
+(anthropomorphizing and the term ?agent? is now frequently being used to put blame on an a...) Tj
+T*
+() Tj
+T*
+(14. Calculating the expected range of normal samples) Tj
+T*
+(Source: John D. Cook | Published: Tue, 26 May 2026 17:59:53 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/26/calculating-expected-normal-range/) Tj
+T*
+(The previous post looked at the expected IQ range in a jury of 12. This post will look more) Tj
+T*
+(generally at computing the expected range of n samples from a N\(0, 1\) random variable. This) Tj
+T*
+(will give the expected range in units of ?, i.e. multiply the results by ? if your ? isn?t 1.) Tj
+T*
+(As mentioned [?] The post Calculating the expected range of normal samples first appeared on) Tj
+T*
+(John D. Cook .) Tj
+T*
+() Tj
+T*
+(15. Expected IQ spread on a jury) Tj
+T*
+(Source: John D. Cook | Published: Tue, 26 May 2026 13:50:51 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/26/expected-iq-spread-on-a-jury/) Tj
+T*
+(There?s been some discussion online lately about how a large difference in IQ makes it) Tj
+T*
+(difficult for two people to communicate. There have been studies that confirm this effect. The) Tj
+T*
+(difficulty is not insurmountable, but it takes deliberate effort to overcome. Someone dismissed) Tj
+T*
+(this communication difficulty by pointing out that the expected difference in IQ [?] The post) Tj
+T*
+(Expected IQ spread on a jury first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(16. The Great Depopulation) Tj
+T*
+(Source: Derek Thompson | The Atlantic | Published: 2026-05-26T07:00:00-04:00) Tj
+T*
+(Link:) Tj
+T*
+(https://www.theatlantic.com/ideas/2026/05/global-birthrate-decline/687297/?utm_source=feed) Tj
+T*
+(This article was featured in the One Story to Read Today newsletter. Sign up for it here. Why) Tj
+T*
+(has the number of births declined everywhere, all at once? Some blame technology, particularly) Tj
+T*
+(smartphones and social media. Others blame a kind of 21st-century weltschmerz ?a sadness about) Tj
+T*
+(the state of the world and our uncertain future in it. A long essay in The New York Times by) Tj
+T*
+(Anna Louie Sussman, titled ? Why So Few Babies? We Might Have Overlooked the Biggest Reason of) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4339 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(All ,? argues that today?s generation is too anxious about the future to make the irreversible) Tj
+T*
+(commitment of having a child. So who is right? Is this about phones and technology, or is it a) Tj
+T*
+(reflection of modern anxiety about the world? Or, perhaps, both? Birth rates have been) Tj
+T*
+(declining in developed countries for a long time, as child mortality has declined, as women?s) Tj
+T*
+(education has increased, as female labor-force participation has soared, as contraception use) Tj
+T*
+(has proliferated, and as modern notions of feminism have empowered women to take more control) Tj
+T*
+(over their bodies and their economic futures. And birth rates have continued to decline as) Tj
+T*
+(smartphone usage has surged, as housing prices have increased, as time spent...) Tj
+T*
+() Tj
+T*
+(17. Pluralistic: The AI bubble isn't like the internet bubble \(26 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 26 May 2026 09:45:37) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/05/26/the-ai-will-continue/) Tj
+T*
+(Today's links The AI bubble isn't like the internet bubble: No one had to force-feed the web to) Tj
+T*
+(workers. Hey look at this: Delights to delectate. Object permanence: Website graveyard;) Tj
+T*
+(Anti-librarian witch-hunt; Denmark v Marmite; The unnecessariat. Upcoming appearances: London,) Tj
+T*
+(Kansas City, LA, Menlo Park, Toronto, NYC, Edinburgh. Recent appearances: Where I've been.) Tj
+T*
+(Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll) Tj
+T*
+(keep writin' 'em. Colophon: All the rest. The AI bubble isn't like the internet bubble) Tj
+T*
+(\(permalink\) One of the surprise breakout software products of the early web was Lotus Notes, a) Tj
+T*
+(kind of primitive precursor to all-in-one office productivity suites like GDocs, Office365,) Tj
+T*
+(etc. It was so important that its creator, Ray Ozzie, was promoted to Microsoft's Chief) Tj
+T*
+(Software Architect, succeeding Bill Gates himself: https://knowledge.wharton.upenn.edu/podcast/) Tj
+T*
+(knowledge-at-wharton-podcast/the-man-who-would-change-microsoft-ray-ozzies-vision-for-connected) Tj
+T*
+(-software/ People who remember Notes tend to deride it for its clunky user interface and) Tj
+T*
+(demi-functional administrative tools. But what made Notes so central to Microsoft wasn't its) Tj
+T*
+(pol...) Tj
+T*
+() Tj
+T*
+(18. The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin) Tj
+T*
+(Source: Max Woolf's Blog | Published: Tue, 26 May 2026 08:30:00 -0700) Tj
+T*
+(Link: https://minimaxir.com/2026/05/openrouter-hy3/) Tj
+T*
+(Why Hy3?) Tj
+T*
+() Tj
+T*
+(19. Revenge of The Business Idiot) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 26 May 2026 16:47:30 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/the-revenge-of-the-business-idiot/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter. It?s $70 a year, or $7) Tj
+T*
+(a month, and in return you get a weekly newsletter that?s usually anywhere from 5,000 to 18,000) Tj
+T*
+(words, including vast, detailed analyses of NVIDIA , Anthropic and) Tj
+T*
+() Tj
+T*
+(20. 90 % of the t distribution) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 26 May 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/ninety-percent-of-the-t-distribution) Tj
+T*
+(William Sealy Gosset was great. He improved beer at Guinness by using the statistics that) Tj
+T*
+(existed at the time. Not happy with that, he invented new statistics to brew even better beer.) Tj
+T*
+(The things he invented are used all over the place now, but Guinness wanted to keep him a) Tj
+T*
+(secret weapon, so they made him publish his results under the fake name Student . One thing) Tj
+T*
+(Gosset realised is that it is wrong to compute 90 % confidence intervals for the mean by taking) Tj
+T*
+(the standard deviation of the sample, and assume a normal distribution , like-a-so: \\[\\hat{\\mu}) Tj
+T*
+(\\pm 1.645 \\hat{\\sigma}\\] \(Continue reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(21. Copying Remote Command Output to Your macOS Clipboard) Tj
+T*
+(Source: IT Notes | Published: Tue, 26 May 2026 09:00:00 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://it-notes.dragas.net/2026/05/26/copying-remote-command-output-to-your-macos-clipboard/) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3800 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(I use Apple devices very often. Overall, I like macOS. Certainly more than Windows. One of the) Tj
+T*
+(things I find extremely useful is a command I discovered not too long ago: pbcopy . pbcopy can) Tj
+T*
+(be used to copy to the clipboard whatever it receives from standard input. For example, when I) Tj
+T*
+(am in a shell, I often use a command like this: cat filename.md | pbcopy At that point I know) Tj
+T*
+(that the content of the file is in the clipboard, and I can paste it wherever I need, calmly) Tj
+T*
+(and without any additional steps. There is one limitation, though: this only works locally. It) Tj
+T*
+(works when I am using my Mac and I want to copy something from the macOS shell. When I connect) Tj
+T*
+(to a remote \(*BSD, Linux, illumos based\) server via ssh, pbcopy is not available. Or, more) Tj
+T*
+(precisely, even if I create a command with the same name on the server, that command cannot) Tj
+T*
+(directly talk to the clipboard of my Mac in the usual way. Luckily, modern terminal emulators) Tj
+T*
+(have a few tricks available. I use iTerm2 for most of my ssh sessions and, once I realised how) Tj
+T*
+(useful it would be to have something similar to pbcopy in remote sessions too, I created a) Tj
+T*
+(small script that works both on Linux, the BSDs and illumox based OSes. Th...) Tj
+T*
+() Tj
+T*
+(22. Only insane people use the internet) Tj
+T*
+(Source: Experimental History | Published: Tue, 26 May 2026 16:02:14 GMT) Tj
+T*
+(Link: https://www.experimental-history.com/p/only-insane-people-use-the-internet) Tj
+T*
+(OR: hit me with your Honda) Tj
+T*
+() Tj
+T*
+(23. Is biology too complex to ever understand?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 07 Dec 2019 14:53:42 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/biologists-physics-envy/) Tj
+T*
+(Note: This article covers a lot of well-trodden ground, although this post has the benefit of) Tj
+T*
+(1\) being rather brief and 2\) advancing slightly on from earlier work. Noam Chomsky wrote 39) Tj
+T*
+(dense pages of philosophy on this subject in ?Mysteries of Nature: How Deeply Hidden?.) Tj
+T*
+(Evolutionary?s leading light Ernst Meyr wrote a whole book called ?What makes biology unique?.) Tj
+T*
+(Finally, a lot of this thinking is also covered in the quite philosophical work ?The way of the) Tj
+T*
+(Cell? by Franklin M.) Tj
+T*
+() Tj
+T*
+(24. Dear anonymous internet user asking for help..) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 02 Dec 2019 13:09:45 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/anonymous-help/) Tj
+T*
+(Dear anonymous internet user, dear corporate employee hiding behind a gmail.com address, dear) Tj
+T*
+(?GitHub account with a single issue?, Thank you for your interest in my free software, my) Tj
+T*
+(project or the documentation I wrote for you. I am happy to hear you want to ask a question,) Tj
+T*
+(have a problem, or perhaps even inform me of a new requirement you have. But with some small) Tj
+T*
+(exceptions \(do read on\), I?m afraid I will not be able to help you.) Tj
+T*
+() Tj
+T*
+(25. State of the world: The Real Data) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 24 Nov 2019 13:57:21 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/the-real-data/) Tj
+T*
+(This page collects links to raw and live sources on how well the planet, including its vital) Tj
+T*
+(infrastructure, is doing right now, potentially visualised attractively. But the key thing is,) Tj
+T*
+(we want Real Data, from the most direct sources. Sources are expected to be realtime or at) Tj
+T*
+(least updated frequently. Mere estimates of things based on questionable inputs are explicitly) Tj
+T*
+(not welcome, no matter how pretty their output. Please submit new links or fixes to) Tj
+T*
+(@bert_hu_bert or bert@hubertnet.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004792 00000 n 
+0000004918 00000 n 
+0000009752 00000 n 
+0000009878 00000 n 
+0000014428 00000 n 
+0000014554 00000 n 
+0000019171 00000 n 
+0000019299 00000 n 
+0000023691 00000 n 
+0000023819 00000 n 
+0000027672 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+27800
+%%EOF
