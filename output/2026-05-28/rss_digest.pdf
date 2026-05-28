@@ -1,0 +1,582 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4562 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-28 09:39:48) Tj
+T*
+() Tj
+T*
+(1. sqlite AGENTS.md) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-27T23:44:37+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything) Tj
+T*
+(sqlite AGENTS.md SQLite gained an AGENTS.md file five days ago - but it's not intended for) Tj
+T*
+(their own development, it's presumably aimed at people who are pointing agents at the SQLite) Tj
+T*
+(codebase. It includes: SQLite does not accept pull requests without prior agreement and/or) Tj
+T*
+(accompanying legal paperwork that places the pull request in the public domain. However, the) Tj
+T*
+(human SQLite developers will review a concise and well-written pull request as a) Tj
+T*
+(proof-of-concept prior to reimplementing the changes themselves. SQLite does not accept agentic) Tj
+T*
+(code. However the project will accept agentic bug reports that include a reproducible test) Tj
+T*
+(case. Patches or pull requests demonstrating a possible fix, for documentation purposes, are) Tj
+T*
+(welcomed. The most recent commit to that file removed the word "\(currently\)" from "SQLite does) Tj
+T*
+(not accept agentic code, with the commit message "Strengthen the statement about not accepting) Tj
+T*
+(agentic code". Meanwhile the SQLite forum was being flooded with so many AI-generated bug) Tj
+T*
+(reports - of varying quality - that they've now split those off into a new SQLite Bug Forum .) Tj
+T*
+(D. Richard Hipp is resolving issues on there with a flurry of commits to the codebase. Via) Tj
+T*
+(Alex...) Tj
+T*
+() Tj
+T*
+(2. I think Anthropic and OpenAI have found product-market fit) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-27T16:38:35+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything) Tj
+T*
+(Anthropic are strongly rumored to be about to have their first profitable quarter. Stories are) Tj
+T*
+(circulating of companies surprised at how expensive their LLM bills are becoming from usage by) Tj
+T*
+(their staff. I think this is because OpenAI and Anthropic have both found product-market fit.) Tj
+T*
+(Enterprise customers are now paying API prices I think they've found product-market fit And) Tj
+T*
+(they're ramping up The AI-failure stories around this are pretty thin We also know the labs are) Tj
+T*
+(spending a lot API revenue is becoming less important April is a new inflection point) Tj
+T*
+(Enterprise customers are now paying API prices I currently subscribe to the $100/month Max plan) Tj
+T*
+(from Anthropic and the $100/month Pro plan from OpenAI. If you are a heavy user of coding) Tj
+T*
+(agents these plans are a fantastic deal. I just ran the ccusage tool on my laptop to get an) Tj
+T*
+(estimate of how much I would have spent if I were to pay for API tokens in the past 30 days and) Tj
+T*
+(got: $1,199.79 for Anthropic Claude Code $980.37 for OpenAI Codex That's $2,180.16 worth of) Tj
+T*
+(tokens for $200 - not bad at all! I'm a moderately heavy user of these tools, but I'm certainly) Tj
+T*
+(not running agents every hour of the day and night. I had assumed that companie...) Tj
+T*
+() Tj
+T*
+(3. Quoting Kyle Ferrana) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-27T06:41:43+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything) Tj
+T*
+(PICARD: Data, shields up DATA: Brilliant! Shields can reduce damage we sustain. Not immunity.) Tj
+T*
+(Not hubris. Just prudence. It's not precaution?it's strategy. [camera shakes] WORF: HULL) Tj
+T*
+(BREACHES ON NINE DECKS DATA: Here's what happened: you told me to raise shields, and I didn't ?) Tj
+T*
+(Kyle Ferrana , @KyleTrainEmoji Tags: ai-misuse , coding-agents , ai , llms) Tj
+T*
+() Tj
+T*
+(4. ?AI, ?Humanity?, and Dr. Manhattan Syndrome?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-18T16:21:35Z) Tj
+T*
+(Link: https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome) Tj
+T*
+(Jim Prosser, back in February: Let me be clear about causation, because the AI parallel only) Tj
+T*
+(works if we?re honest about it. The communications failures didn?t kill nuclear power. The) Tj
+T*
+(disasters did. But two decades of talking over the public meant the industry had built) Tj
+T*
+(precisely zero reservoir of human-scale trust to draw on when the real crises hit. Nuclear) Tj
+T*
+(pioneer Alvin Weinberg admitted in 1976 \(three years before Three Mile Island\) that ?the public) Tj
+T*
+(perception and acceptance of nuclear energy appears to be the question that we missed rather) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4636 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(badly.? After TMI and Chernobyl confirmed the public?s worst suspicions, over a hundred planned) Tj
+T*
+(U.S. reactors were cancelled. The entire essay is very good, quite thought provoking. But it) Tj
+T*
+(really shines in drawing the parallels to nuclear power a generation ago, and the need to) Tj
+T*
+(communicate the benefits to ordinary people in ways that they actually care about. Regarding) Tj
+T*
+(OpenAI co-founder Greg Brockman: But think about what the people behind those numbers are) Tj
+T*
+(actually worried about. They?re not anxious about AI in the abstract, per se , but its) Tj
+T*
+(implications. They?re anxious about their job, their kid?s homework, their creative work) Tj
+T*
+(getting sc...) Tj
+T*
+() Tj
+T*
+(5. The Alaska Permanent Fund as Loose Precedent for AI Data Center ?UBI? Payments) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-18T15:34:47Z) Tj
+T*
+(Link: https://en.wikipedia.org/wiki/Alaska_Permanent_Fund) Tj
+T*
+(Wikipedia: The Alaska Permanent Fund \(APF\) is a constitutionally established permanent fund and) Tj
+T*
+(sovereign wealth fund managed by a state-owned corporation, the Alaska Permanent Fund) Tj
+T*
+(Corporation \(APFC\). It was established in Alaska in 1976 by Article 9, Section 15 of the Alaska) Tj
+T*
+(State Constitution under Governor Jay Hammond and Attorney General Avrum Gross. [...] As of) Tj
+T*
+(2019, the fund was worth approximately $64 billion that has been funded by oil and mining) Tj
+T*
+(revenues and has paid out an average of approximately $1,600 annually per resident \(adjusted to) Tj
+T*
+(2019 dollars\). The main use for the fund?s revenue has been to pay out the Permanent Fund) Tj
+T*
+(Dividend \(PFD\), which many authors portray as the only example of a basic income in practice.) Tj
+T*
+([...] The PFD is a Basic Income in the form of a resource dividend. Some researchers argue, ?It) Tj
+T*
+(has helped Alaska attain the highest economic equality of any state in the United States...) Tj
+T*
+(And, seemingly unnoticed, it has provided unconditional cash assistance to needy Alaskans at a) Tj
+T*
+(time when most states have scaled back aid and increased conditionality.? Alaska is not exactly) Tj
+T*
+(a left-wing state. Again , money talks. ?) Tj
+T*
+() Tj
+T*
+(6. AI Data Centers Are Deeply Unpopular, Across the Political Spectrum) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-18T14:59:59Z) Tj
+T*
+(Link: https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx) Tj
+T*
+(Jeffrey M. Jones, Gallup: Seven in 10 Americans oppose constructing data centers for artificial) Tj
+T*
+(intelligence in their local area, including nearly half, 48%, who are strongly opposed. Barely) Tj
+T*
+(a quarter favor these projects, with 7% strongly in favor. [...] The data center question) Tj
+T*
+(parallels the wording Gallup uses to ask about local nuclear power plant construction . In the) Tj
+T*
+(same March survey, 53% of Americans say they oppose building a nuclear energy plant in their) Tj
+T*
+(area, far less than the 71% opposed to data center construction. Since Gallup first asked the) Tj
+T*
+(nuclear power plant question in 2001, the high point in opposition has been 63%. It?s hard to) Tj
+T*
+(overstate how unpopular this polling paints AI data centers. It?s just an absolute messaging) Tj
+T*
+(and marketing disaster for the entire tech industry. Tellingly, the anti-AI-data-center) Tj
+T*
+(sentiment is bipartisan: There are partisan differences, but only in slight degree. A savvy) Tj
+T*
+(politician or party could grab this issue and carve out a broadly bipartisan anti-data-center,) Tj
+T*
+(anti-AI message. US politics is so polarized in today?s era that the salience of this issue) Tj
+T*
+(will not go unnoticed. The only thing the hyperscalers have on their side is money...) Tj
+T*
+() Tj
+T*
+(7. Sharing the result of a single Windows Runtime IAsyncOperation among multiple) Tj
+T*
+(coroutines, part 1) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 27 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260527-00/?p=112361) Tj
+T*
+(Caching the result and knowing when the cache is valid. The post Sharing the result of a single) Tj
+T*
+(Windows Runtime IAsyncOperation among multiple coroutines, part 1 appeared first on The Old New) Tj
+T*
+(Thing .) Tj
+T*
+() Tj
+T*
+(8. The Meta logo and fitting Besace curves) Tj
+T*
+(Source: John D. Cook | Published: Wed, 27 May 2026 15:15:51 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/) Tj
+T*
+(I saw a post yesterday saying that the Meta logo is a Besace curve. A Besace curve has the) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4587 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(implicit form and the parametric form where t ranges over [0, 2?]. So given a Besace curve,) Tj
+T*
+(such as the Meta logo, how do you find the parameters a and b to fit the curve? We can rewrite) Tj
+T*
+([?] The post The Meta logo and fitting Besace curves first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Pluralistic: AI and a world without migrants \(27 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 27 May 2026 07:57:41) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/05/27/unnecessariat/) Tj
+T*
+(Today's links AI and a world without migrants: It's solipsism all the way down. Hey look at) Tj
+T*
+(this: Delights to delectate. Object permanence: Manuscript rabbits; "What Will Come After";) Tj
+T*
+(Pastejacking; Terrorism phrenology; Vaccine waivers were promised 20 years ago. Upcoming) Tj
+T*
+(appearances: London, Kansas City, LA, Menlo Park, Toronto, NYC, Edinburgh. Recent appearances:) Tj
+T*
+(Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like) Tj
+T*
+(I said, I'll keep writin' 'em. Colophon: All the rest. AI and a world without migrants) Tj
+T*
+(\(permalink\) I don't care who you are, there will always be times when hell is other people. Not) Tj
+T*
+(because other people are horrible ? quite the opposite! Other people are wonderful, but boy are) Tj
+T*
+(they ever stubborn. From boardgames to romance, team sports to movement politics, business) Tj
+T*
+(ideas to construction projects, there's so much important, enjoyable and essential stuff you) Tj
+T*
+(can't do alone. But other people insist on having their own priorities and goals, and they) Tj
+T*
+(mulishly refuse to organize their lives to suit your priorities. Our species has put a lot of) Tj
+T*
+(work into resolving this conundrum. Not only did we evolve a whole brain structure ? th...) Tj
+T*
+() Tj
+T*
+(10. Using My Fucking Brain) Tj
+T*
+(Source: Terrible Software | Published: Wed, 27 May 2026 12:38:57 +0000) Tj
+T*
+(Link: https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/) Tj
+T*
+(AI is great when it extends your brain. It gets dangerous when it quietly replaces the part) Tj
+T*
+(that was supposed to think.) Tj
+T*
+() Tj
+T*
+(11. CHAOSS Metrics in 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-27T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/27/chaoss-metrics-in-2026.html) Tj
+T*
+(The CHAOSS project has spent the last eight years writing down careful, implementation-agnostic) Tj
+T*
+(definitions for the things people measure about open source projects: how many issues get) Tj
+T*
+(opened, how long they take to close, how many distinct people commit, how stale the) Tj
+T*
+(dependencies are. The point of writing them down is that two dashboards computing ?issue) Tj
+T*
+(response time? should at least be computing the same thing, and the released metric set has) Tj
+T*
+(become the closest thing the field has to a shared vocabulary. Most of those definitions were) Tj
+T*
+(drafted between roughly 2018 and 2023, against a background where contributions were produced) Tj
+T*
+(at human speed, security advisories arrived a few times a year per ecosystem, and a maintainer) Tj
+T*
+(who stopped maintaining usually stopped committing too. All three of those conditions are) Tj
+T*
+(changing, and a lot of the metric definitions encode them without saying so. The common thread) Tj
+T*
+(is that most of the catalogue counts repository events, and event counts were informative) Tj
+T*
+(because producing an event used to cost a person something. An issue cost someone ten minutes) Tj
+T*
+(to write up, a PR cost someone an afternoon. That cost is being removed from one side of the) Tj
+T*
+(int...) Tj
+T*
+() Tj
+T*
+(12. My views on some Python LSP servers in GNU Emacs \(as of mid 2026\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-27T02:07:26Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/python/PythonLSPServersInEmacs-2026) Tj
+T*
+(Some languages have to make do with one LSP server. By contrast, Python has an embarrassment of) Tj
+T*
+(riches; I know of at least five modern LSP servers for it. I've recently been experimenting) Tj
+T*
+(with some of them in GNU Emacs, specifically Eglot , so before I forget I want to note down my) Tj
+T*
+(views. The five Python things with LSP servers that I believe are modern and current are) Tj
+T*
+(python-lsp-server \('pylsp'\), Facebook's pyrefly , Astral's ty , Microsoft's pyright, and) Tj
+T*
+(technically Astral's ruff . The easiest to talk about is ruff , because it's not intended as a) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4468 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(full-featured LSP server that does everything; instead it only does code diagnostics and) Tj
+T*
+(formatting, and you need another LSP server for code navigation. Currently Eglot doesn't easily) Tj
+T*
+(support multiple LSP servers and code navigation is a lot of what I care about, so direct use) Tj
+T*
+(of ruff is off the table for me. Also off the table is pyright, since I don't have any interest) Tj
+T*
+(in touching a Microsoft Python project or finding out how badly it works with anything other) Tj
+T*
+(than VS Code \(although there's basedpyright as a less-Microsofted pyright option\).) Tj
+T*
+(Python-lsp-server is my default choice and is a solid basic LSP server with the code navigat...) Tj
+T*
+() Tj
+T*
+(13. Gadget Review: Chuwi Minibook X N150 + Linux ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 27 May 2026 11:34:36 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/) Tj
+T*
+(I needed a small and light laptop to take travelling. Something with a larger screen than my) Tj
+T*
+(phone so I can use the Big Internet?. Nothing too expensive and something that uses the same) Tj
+T*
+(USB-C charger as everything else. So I settled on the Chuwi Minibook N150. It's literally small) Tj
+T*
+(enough to fit in my cargo-short pockets. For the price \(around £300ish\) it is basically fine.) Tj
+T*
+(There are a few ni?) Tj
+T*
+() Tj
+T*
+(14. The Costco theory of the internet) Tj
+T*
+(Source: Westenberg. | Published: Thu, 28 May 2026 01:29:39 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/the-costco-theory-of-the-internet/) Tj
+T*
+(At FedMart, the discount chain Sol Price built in 1950s San Diego, you could buy a can of WD-40) Tj
+T*
+(in one size, the big one, and that was the end of the conversation. Anyone who wanted the small) Tj
+T*
+(can went without. Price called it the intelligent loss of sales: carry) Tj
+T*
+() Tj
+T*
+(15. Resurfacing posts) Tj
+T*
+(Source: Herman's blog | Published: 2026-05-27T06:50:30.820218+00:00) Tj
+T*
+(Link: https://herman.bearblog.dev/resurfacing-posts/) Tj
+T*
+(One of the things I like best about blogs is that posts stick around \(or at least they should\).) Tj
+T*
+(I enjoy scrolling through historic posts of bloggers and reading about what they were thinking) Tj
+T*
+(about 1, 5, or even 10 years ago?if I'm lucky. I've noticed that my most recent posts get the) Tj
+T*
+(more attention than the rest of my blog. This makes sense, as I have the most recent 5 posts on) Tj
+T*
+(my homepage, alongside the fact that newer posts go out to my email subscribers and are more) Tj
+T*
+(likely to find themselves on link aggregators, Twitter feeds, and RSS readers. I'd like to take) Tj
+T*
+(this opportunity to resurface some posts you may have missed, or may enjoy revisiting. I also) Tj
+T*
+(encourage you, if you happen to be a blogger, to do the same. There's so much great writing) Tj
+T*
+(buried by more recent posts that could do with some additional attention. This is also the) Tj
+T*
+(reason I've added a Random tab to the discovery feed. I recently got back from a month-long) Tj
+T*
+(trip to Japan where Emma and I visited some of the big cities, but spent most of our time in) Tj
+T*
+(rural Japan and hiked a well-preserved portion of the Nakasendo trail. While in Japan, I had) Tj
+T*
+(the privilege of meeting up with some bloggers: Seio for some tea in a lov...) Tj
+T*
+() Tj
+T*
+(16. SQLAlchemy 2 In Practice - Solutions to the Exercises) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Wed, 27 May 2026 19:22:35 GMT) Tj
+T*
+(Link:) Tj
+T*
+(https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises) Tj
+T*
+(To conclude with my SQLAlchemy 2 in Practice series, this article contains the solutions to all) Tj
+T*
+(the exercises. If you'd like to support my work, I encourage you to buy this book, either) Tj
+T*
+(directly from my store or on Amazon . Thank you!) Tj
+T*
+() Tj
+T*
+(17. Het Solvinity besluit in detail, en de mogelijke gevolgen) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 27 May 2026 10:00:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/het-solvinity-besluit-gevolgen/) Tj
+T*
+(Gisteren verscheen de brief waarmee de staatssecretaris van Economische Zaken en Klimaat liet) Tj
+T*
+(weten dat ze de overname van Solvinity door Kyndryl ging verbieden. Een forse cast mensen,) Tj
+T*
+(waaronder 200.000 ondertekenaars van een petitie, hebben geholpen de zorgen over deze overname) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1968 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(bovenop de stapel te krijgen. Ook heeft de nieuwe stichting The Firewall juridisch van zich) Tj
+T*
+(laten horen. Ik schreef ook wat stukjes en mocht er in de Tweede Kamer over komen vertellen \(en) Tj
+T*
+(toen kwamen er zoveel mensen dat er vier overflowzalen nodig waren!) Tj
+T*
+() Tj
+T*
+(18. The July Galileo Outage: What happened and why) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 07 Nov 2019 09:48:53 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/galileo-accident/) Tj
+T*
+(By bert hubert / bert@hubertnet.nl This post is an excerpt of a far longer post on Galileo, its) Tj
+T*
+(structures and the cause of the outage. Here we?ll only focus on the outage - the potential) Tj
+T*
+(underlying reasons behind it are described in the full article. Since the week-long outage in) Tj
+T*
+(July I?ve been fascinated by Galileo and, together with a wonderful crew of developers, experts) Tj
+T*
+(and receiver operators, have learned so much about what I now know are called ?Global) Tj
+T*
+(Navigation Satellite Systems? or GNSS.) Tj
+T*
+() Tj
+T*
+(19. The State of Galileo as seen by an outsider) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 07 Nov 2019 09:47:53 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/state-of-galileo-and-accident/) Tj
+T*
+(By bert hubert / bert@hubertnet.nl In this post I want to document some mostly non-technical) Tj
+T*
+(aspects of the EU?s Galileo Satellite Navigation Network. I will also share some observations) Tj
+T*
+(on how things are going, and perhaps how they could be improved. NOTE: A shorter version of) Tj
+T*
+(this article, focusing only on the July outage, can be found here. Since the week-long outage) Tj
+T*
+(in July I?ve been fascinated by Galileo and, together with a wonderful crew of developers,) Tj
+T*
+(experts and receiver operators, have learned so much about what I now know are called ?Global) Tj
+T*
+(Navigation Satellite Systems? or GNSS.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004831 00000 n 
+0000004957 00000 n 
+0000009645 00000 n 
+0000009771 00000 n 
+0000014410 00000 n 
+0000014536 00000 n 
+0000019057 00000 n 
+0000019185 00000 n 
+0000021206 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+21334
+%%EOF
