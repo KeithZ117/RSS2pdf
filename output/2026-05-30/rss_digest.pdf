@@ -1,0 +1,424 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4006 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-30 09:41:43) Tj
+T*
+() Tj
+T*
+(1. It's hard to justify buying a Framework 12) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 29 May 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/) Tj
+T*
+(My nephew just graduated high school, and wants a laptop. When he decides what computer to buy,) Tj
+T*
+(price \(or more precisely, value \) is the most important attribute. Apple's MacBook Neo upended) Tj
+T*
+(the 'value laptop' equation?Apple's not supposed to be both the cheapest option and the best) Tj
+T*
+(value... but it seems like that's squarely where the Neo landed for the good-but-cheap laptop) Tj
+T*
+(category. My nephew is also my godson, and to kick off his computing journey, I thought I'd let) Tj
+T*
+(him choose from a Framework 12 I bought to test, or the MacBook Neo I bought a couple months) Tj
+T*
+(ago to use around the studio.) Tj
+T*
+() Tj
+T*
+(2. datasette 1.0a31) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-29T03:32:02+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/29/datasette/#atom-everything) Tj
+T*
+(Release: datasette 1.0a31 Another significant alpha release, with two new headline features.) Tj
+T*
+(Datasette now offers users with the necessary permissions the ability to both execute write) Tj
+T*
+(queries against their database and to save stored queries \(renamed from "canned queries"\) both) Tj
+T*
+(privately and for use by other members of their Datasette instance. There's more detail in SQL) Tj
+T*
+(write queries and stored queries in Datasette 1.0a31 on the Datasette blog, which now has three) Tj
+T*
+(posts introducing new features since the blog launched two weeks ago. Here's an animated demo) Tj
+T*
+(from the blog post showing how the new execute query interface lets people get started with) Tj
+T*
+(templated insert/update/delete queries from tables they have permission to edit: Tags: projects) Tj
+T*
+(, sql , sqlite , datasette , annotated-release-notes) Tj
+T*
+() Tj
+T*
+(3. markdown-svg-renderer) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-28T19:45:14+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything) Tj
+T*
+(Tool: markdown-svg-renderer A slightly customized Markdown rendering tool with special) Tj
+T*
+(treatment for fenced code SVG blocks - it both renders the image and provides a tab for) Tj
+T*
+(switching to the code view. You can paste in Markdown or give it a URL to a CORS-enabled) Tj
+T*
+(Markdown file or Gist. Here's an example where it loads a Markdown file full of LLM pelican) Tj
+T*
+(logs for Opus 4.8 . Tags: svg , tools , markdown , cors) Tj
+T*
+() Tj
+T*
+(4. Quoting Corey Quinn) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-26T02:28:54+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything) Tj
+T*
+(I cannot believe I'm saying this, but getting the literal Pope to canonize your product's) Tj
+T*
+(specific technical limitations as a spiritual treatise is the single greatest act of vendor) Tj
+T*
+(lobbying I have ever seen. ? Corey Quinn , on Anthropic co-founder Christopher Olah's influence) Tj
+T*
+(on Magnifica Humanitas Tags: ai-ethics , corey-quinn , anthropic , ai) Tj
+T*
+() Tj
+T*
+(5. ? What Is a Dickover?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-29T20:58:56Z) Tj
+T*
+(Link: https://daringfireball.net/2026/05/what_is_a_dickover) Tj
+T*
+(dickover ? a modal panel, popover, or curtain presented by a website or app, deliberately) Tj
+T*
+(obscuring its own content to frustrate the user with an unwanted, unnecessary, mandatory) Tj
+T*
+(interaction; e.g. asking the user to accept ?cookies?, subscribe to a newsletter, install the) Tj
+T*
+(website?s mobile app, agree to terms of service, or anything else that the user couldn?t give) Tj
+T*
+(two shits about.) Tj
+T*
+() Tj
+T*
+(6. One Group, Clearly, Is Deranged) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-29T16:22:10Z) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4707 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://paulkrugman.substack.com/p/whos-deranged-exactly) Tj
+T*
+(Paul Krugman, describing a few striking data visualizations: YouGov?s surveys subdivide) Tj
+T*
+(Republicans into those who do and those who don?t support MAGA ? and the economic views of) Tj
+T*
+(these two groups are very different. A remarkable 65 percent of non-MAGA Republicans say that) Tj
+T*
+(the economy is getting worse, while only 11 percent say that it is getting better. [...] Aside) Tj
+T*
+(from MAGA Republicans, Americans are bunched at the upper left, with few people seeing the) Tj
+T*
+(economy getting better and the vast majority seeing it as getting worse. Non-MAGA Republicans) Tj
+T*
+(are much more similar in their views to independents, and even to Democrats, than they are to) Tj
+T*
+(MAGA. So how big is the group that believes that we have a good economy? Only 19 percent of) Tj
+T*
+(Americans. The MAGA/non-MAGA split amongst self-identifying Republicans is striking. Non-MAGA) Tj
+T*
+(Republicans have views on the economy that almost exactly mirror those of independents ?) Tj
+T*
+(neither of which are that far from those of Democrats. And let?s face it, ?MAGA? is a euphemism) Tj
+T*
+(for the Donald Trump cult of personality. These are the people who think it?s fine, just fine) Tj
+T*
+(for him to be putting his name on buildings , his signature \(and perhaps face \) on curr...) Tj
+T*
+() Tj
+T*
+(7. The Go language server can do some impressive code navigation) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-29T01:38:37Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation) Tj
+T*
+(For reasons outside the scope of this entry, I recently dug into how the Go runtime did \(Unix\)) Tj
+T*
+(signal handling on 64-bit x86 Linux . When I undertook this quest, I decided that the easiest) Tj
+T*
+(way to navigate through the code of the Go runtime was to use the code navigation features) Tj
+T*
+(exposed by the standard Go language server, gopls . In the process I was surprised by just how) Tj
+T*
+(good its code navigation was, even in the Go runtime. On Linux, Go's signal handling talks) Tj
+T*
+(directly to the Linux kernel rather than going through the C library. As you can imagine, this) Tj
+T*
+(is relatively architecture and Linux specific, as well as being relatively specific to Unix.) Tj
+T*
+(The result is a tangle of OS and architecture specific code in a variety of signal related) Tj
+T*
+(files in src/runtime . The first challenge for code navigation is picking out the right ones) Tj
+T*
+(that apply to the environment you're interested with; in Go this is handled through build tags,) Tj
+T*
+(which gopls understand. So gopls had no problem navigating from general Unix signal handling to) Tj
+T*
+(setsig\(\) in Linux-specific code and the 64-bit x86 Linux definition of the struct involved .) Tj
+T*
+(But that was only half the puzzle, because I was looking into how the Go run...) Tj
+T*
+() Tj
+T*
+(8. Online \(one-pass\) algorithms) Tj
+T*
+(Source: John D. Cook | Published: Fri, 29 May 2026 12:24:30 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/) Tj
+T*
+(Canonical example The sample variance of a set of numbers is defined in terms of the sum of the) Tj
+T*
+(squared distances from each point to the mean. So it would seem that you first need to) Tj
+T*
+(calculate the mean, then go back and compute the squared differences from the mean. And yet) Tj
+T*
+(sample variance can [?] The post Online \(one-pass\) algorithms first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. The UK Government's Low Value Purchase System is a Waste of Time) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 29 May 2026 11:34:54 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-) Tj
+T*
+(of-time/) Tj
+T*
+(It can be hard running a small business. If you want to sell to a large organisation like the) Tj
+T*
+(UK Government, there are forms to fill in, checks to comply with, tenders to bid on, and a) Tj
+T*
+(hundred other things. Luckily, there's the RM6237 Low Value Purchase System to make everything) Tj
+T*
+(better. If a department wants to buy something below a certain threshold, they can contact any) Tj
+T*
+(of the registered?) Tj
+T*
+() Tj
+T*
+(10. Composer?s dependency policies) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-29T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/29/composer-dependency-policies.html) Tj
+T*
+(Composer 2.10 ships a new config.policy block that puts security advisories, malware reports,) Tj
+T*
+(abandoned packages, and arbitrary custom blocklists under a single configuration object. Each) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4101 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(list has the same three knobs: block \(remove matching versions from the resolver pool\), audit \() Tj
+T*
+(ignore / report / fail \), and ignore \(per-package exemptions with optional version) Tj
+T*
+(constraints\). The model is the one uBlock Origin and other ad blockers use for their filter) Tj
+T*
+(lists: named lists published at URLs by whoever maintains them, with a default set enabled and) Tj
+T*
+(a config slot to subscribe to more or drop any. The malware list is on by default and, unlike) Tj
+T*
+(the others, also blocks during composer install from a lockfile. A version that was clean when) Tj
+T*
+(you locked it and has been flagged since is blocked at install, which is a stronger guarantee) Tj
+T*
+(than composer audit reporting it after the fact. A Composer repository advertises support by) Tj
+T*
+(setting filter.metadata: true in its packages.json alongside the names of the lists it serves,) Tj
+T*
+(and Packagist.org currently advertises one, malware , fed by Aikido?s feed via) Tj
+T*
+(composer/packagist#1681 . The per-package metadata files that Composer already fetches during) Tj
+T*
+(r...) Tj
+T*
+() Tj
+T*
+(11. Premium: What If...We're In An AI Bubble? \(Part 3\)) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 29 May 2026 16:58:10 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/) Tj
+T*
+(Last week I ran the second part of my three-part ?What If?We?re In An AI Bubble?? series where) Tj
+T*
+(I have been covering the scenarios that I believe could lead to the bubble popping. Here?s what) Tj
+T*
+(I?ve discussed so far: What) Tj
+T*
+() Tj
+T*
+(12. This Week on The Analog Antiquarian) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 29 May 2026 16:34:30 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/) Tj
+T*
+(A Portrait of the Bard as a Young Man) Tj
+T*
+() Tj
+T*
+(13. What's going on with Gemini?) Tj
+T*
+(Source: Martin Alderson | Published: Fri, 29 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/whats-going-on-with-gemini/?utm_source=rss&utm_medium=rs) Tj
+T*
+(s&utm_campaign=feed) Tj
+T*
+(Google's Gemini 3.5 Flash was the headline model at I/O - fast, but expensive and middling at) Tj
+T*
+(coding. Why it makes more sense as a model built for Google itself, the TPU advantage, and) Tj
+T*
+(Google's real weakness in coding agents.) Tj
+T*
+() Tj
+T*
+(14. Economist Job: my sample articles) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 05 Oct 2019 12:52:08 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/economist-job/) Tj
+T*
+(Over the holiday, I ran into this job advertisement from The Economist: The Economist is) Tj
+T*
+(looking for a new Science and Technology correspondent. Knowledge of the field, an ability to) Tj
+T*
+(write informatively, succinctly and wittily, and an insatiable curiosity are more important) Tj
+T*
+(attributes than prior journalistic experience. Please send a CV, a brief letter introducing) Tj
+T*
+(yourself, and an article of 600 words suitable for publication to xxxx@economist.com. The) Tj
+T*
+(closing date for applications is August 23rd.) Tj
+T*
+() Tj
+T*
+(15. GPS, Galileo & More: How do they work & what happened during the big outage?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 30 Sep 2019 20:05:33 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/gps-gnss-how-do-they-work/) Tj
+T*
+(By bert hubert bert@hubertnet.nl / @bert_hu_bert / https://galmon.eu/ Late July 2019, Galileo,) Tj
+T*
+(?the European GPS? suffered from a week long outage. I?m a proud European, and I think we) Tj
+T*
+(should have our own well-functioning navigation system, so I tried to figure out what was going) Tj
+T*
+(on. Surely someone was monitoring this stuff in public? I come from the internet where we) Tj
+T*
+(monitor all the things, if someone asked for it or not.) Tj
+T*
+() Tj
+T*
+(16. Beidou Satellites Misclassification) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 02 Sep 2019 08:37:13 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/beidou-satellites/) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 655 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Hi everyone, As noted previously I?ve gone all in on GNSS monitoring. GNSS is the generic term) Tj
+T*
+(for GPS, Galileo, GLONASS and BeiDou satellites. Eventually a big blog post will come out, but) Tj
+T*
+(meanwhile you can see the results on galmon.eu. A few days ago, an unknown GLONASS satellite) Tj
+T*
+(started transmitting signals on slot R26 and I tried to figure out which one it was. By) Tj
+T*
+(definition, GNSS satellites broadcast their own very precise location & speed, which makes it) Tj
+T*
+(possible to match up their orbit to published ?TLEs?, which document where objects in space) Tj
+T*
+(are.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004268 00000 n 
+0000004394 00000 n 
+0000009153 00000 n 
+0000009279 00000 n 
+0000013432 00000 n 
+0000013558 00000 n 
+0000014265 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14393
+%%EOF
