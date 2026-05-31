@@ -1,0 +1,634 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4796 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-05-31 09:46:58) Tj
+T*
+() Tj
+T*
+(1. How we contain Claude across products) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-30T21:36:24+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything) Tj
+T*
+(How we contain Claude across products A complaint I often have about sandboxing products is) Tj
+T*
+(that they are rarely thoroughly documented , and in the absence of detailed documentation it's) Tj
+T*
+(hard to know how much I can trust them. Anthropic just published a fantastic overview of how) Tj
+T*
+(their various sandbox techniques work across Claude.ai , Claude Code, and Cowork. We constrain) Tj
+T*
+(where and how an agent can act with process sandboxes, VMs, filesystem boundaries, and egress) Tj
+T*
+(controls. The goal is to set a hard boundary on what an agent can reach. For example, if) Tj
+T*
+(credentials never enter the sandbox, they can't be exfiltrated, regardless of whether the cause) Tj
+T*
+(is a user, a model finding a ?creative? path, or an attacker. Claude.ai uses gVisor. Claude) Tj
+T*
+(Code, run locally, uses Seatbelt on macOS and Bubblewrap on Linux. Claude Cowork runs a full VM) Tj
+T*
+(\(Apple's Virtualization framework on macOS, HCS on Windows\). There's a lot in here, including) Tj
+T*
+(some interesting stories of risks they missed such as the api.anthropic.com/v1/files) Tj
+T*
+(exfiltration vector covered here previously . This reminded me it's time I took another look at) Tj
+T*
+(Anthropic's open source srt \(Anthropic Sandbox Runtime\) tool - it's mature enough...) Tj
+T*
+() Tj
+T*
+(2. Running Python ASGI apps in the browser via Pyodide + a service worker) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-30T21:02:16+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything) Tj
+T*
+(Research: Running Python ASGI apps in the browser via Pyodide + a service worker Datasette Lite) Tj
+T*
+(is my version of Datasette that runs entirely in the browser using Pyodide in WebAssembly. When) Tj
+T*
+(I first built it four years ago I used Web Workers and code that intercepts navigation) Tj
+T*
+(operations and fetches the generated HTML by running the Python app. This worked, but had the) Tj
+T*
+(disadvantage that any JavaScript in tags would not be executed - breaking some Datasette) Tj
+T*
+(functionality and a whole lot of Datasette plugins. This morning I set Claude Opus 4.8 the task) Tj
+T*
+(\(in Claude Code for web\) of figuring out how to run Python ASGI apps in Pyodide using Service) Tj
+T*
+(Workers instead, and it seems to work! Here's a basic ASGI FastCGI demo and here's a demo that) Tj
+T*
+(runs Datasette 1.0a31 . I'm still getting my head around exactly how it works, but once I've) Tj
+T*
+(done that I plan to upgrade Datasette Lite itself. Tags: javascript , python , datasette , asgi) Tj
+T*
+(, service-workers , pyodide , datasette-lite , claude-code) Tj
+T*
+() Tj
+T*
+(3. I Am Retiring from Tech to Live Offline) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-30T19:39:08+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything) Tj
+T*
+(I Am Retiring from Tech to Live Offline I've seen a lot of posts on forums from people) Tj
+T*
+(threatening to quit their careers over AI. This is not one of those: Chad Whitacre is taking) Tj
+T*
+(concrete steps, starting with this typewritten, scanned letter I'm retiring from tech. Well,) Tj
+T*
+("retiring" is euphemistic. I'm stepping away from tech, and that includes Open Source. [...] AI) Tj
+T*
+(was the last straw. Have you heard of that island off India where the indigenous population) Tj
+T*
+(kills any outsiders fool-hardy enough to land? They are doing the rest of us a favor by) Tj
+T*
+(preserving a way of life we may need again someday, or at the very least should not want to see) Tj
+T*
+(completely extinguished. A reminder. Never forget your roots. Here in Pennsylvania we have the) Tj
+T*
+(Amish performing a similar function. Significantly less hostile, though still set apart, they) Tj
+T*
+(bear witness to what was normal for all of us a couple short centuries ago: horse and buggy,) Tj
+T*
+(wood stoves and lanterns. My intent is to be AI Amish, which means Internet Amish. Not 1780,) Tj
+T*
+(but 1980. Neo-Amish. I'm fine driving a car and flipping a lightswitch, by which I mean that) Tj
+T*
+(they don't make me into something I hate, which AI and [struck through: social media]...) Tj
+T*
+() Tj
+T*
+(4. Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ?Fun Features?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-30T15:34:02Z) Tj
+T*
+(Link: https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsap) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4462 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(p-subscriptions-with-more-to-come-including-ai-plans/) Tj
+T*
+(Sarah Perez, reporting for TechCrunch: Meta is doubling down on its subscription offerings. On) Tj
+T*
+(Wednesday, the social networking giant announced it?s now rolling out its consumer subscription) Tj
+T*
+(plans globally for its flagship apps, Instagram, Facebook, and WhatsApp, and beginning tests of) Tj
+T*
+(new subscriptions for businesses, creators, and Meta AI users. For a few dollars per month,) Tj
+T*
+(consumers subscribing to Instagram Plus \($3.99/mo\), Facebook Plus \($3.99/mo\), or WhatsApp Plus) Tj
+T*
+(\($2.99/mo\) will gain access to extra features, like profile customization, super reactions, and) Tj
+T*
+(story insights, among other things. In an announcement , Meta?s head of product, Naomi Gleit,) Tj
+T*
+(noted that ?more fun features? will be added in the future. My first question about this was) Tj
+T*
+(whether Meta would be using IAP on iOS and Android. On the one hand, Zuckerberg really resents) Tj
+T*
+(Meta?s subservient position to Apple and Google in the mobile ecosystem ? that?s what drove him) Tj
+T*
+(to make a big wrong bet on the ?metaverse? as the Next Big Thing. But on the other hand, what) Tj
+T*
+(else are they going to do? Most people only use Meta?s platforms via the phone apps, and if) Tj
+T*
+(they?re going to allow subscriptions via the apps, they have to p...) Tj
+T*
+() Tj
+T*
+(5. Daniel Jalkut on AI) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-30T15:27:20Z) Tj
+T*
+(Link: https://mastodon.social/@danielpunkass/116639318125898071) Tj
+T*
+(Daniel Jalkut, on Mastodon \(cross-posted to Bluesky and Threads \): My take on AI is,) Tj
+T*
+(essentially, everybody who?s against it is too against it and everybody who?s for it is too for) Tj
+T*
+(it. I concur with this take completely. \( Sidenote: The different reply threads on the three) Tj
+T*
+(networks speak loudly to the cultural and algorithmic differences between them. Good lord has) Tj
+T*
+(Meta steered Threads into ?make people argumentative? engagement.\) ?) Tj
+T*
+() Tj
+T*
+(6. Yours Truly on TBPN Yesterday) Tj
+T*
+(Source: Daring Fireball | Published: 2026-05-30T12:28:10Z) Tj
+T*
+(Link: https://www.youtube.com/live/sQVwLUxFdMY?t=1997) Tj
+T*
+(Fun show, good questions I thought. ?) Tj
+T*
+() Tj
+T*
+(7. Sharing the result of a single Windows Runtime IAsyncOperation among multiple) Tj
+T*
+(coroutines, part 3) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 29 May 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368) Tj
+T*
+(A variation where we try only once. The post Sharing the result of a single Windows Runtime) Tj
+T*
+(IAsyncOperation among multiple coroutines, part 3 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Microcode inside the Intel 8087 floating-point chip: register exchange) Tj
+T*
+(Source: Ken Shirriff's blog | Published: 2026-05-30T10:09:35.056-07:00) Tj
+T*
+(Link: http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html) Tj
+T*
+(In 1980, Intel introduced the 8087 floating-point chip, a co-processor that made floating-point) Tj
+T*
+(operations up to 100 times faster. This chip was highly influential, and today most processors) Tj
+T*
+(use the floating-point standard introduced by the 8087. The 8087 uses complicated algorithms to) Tj
+T*
+(accurately compute functions such as square roots, tangents, and exponentials. These algorithms) Tj
+T*
+(are implemented inside the chip in low-level code called microcode. I'm part of a group, the) Tj
+T*
+(Opcode Collective, that is reverse-engineering this microcode. In this post, I take a close) Tj
+T*
+(look at the microcode for one of the 8087's instructions? FXCH ?and explain how the microcode) Tj
+T*
+(works. The FXCH \(Floating-point Exchange\) instruction exchanges two floating-point registers.) Tj
+T*
+(You might expect this instruction to be trivial, but there's more going on than you might) Tj
+T*
+(expect; the microcode uses 14 micro-instructions to implement the exchange instruction. The) Tj
+T*
+(Intel 8087 chip is packaged in a 40-pin DIP \(dual in-line package\). To explore the microcode, I) Tj
+T*
+(opened up an 8087 chip and created a high-resolution image with a microscope. The large) Tj
+T*
+(microcode ROM occupies a central position, holding the micro-instructions tha...) Tj
+T*
+() Tj
+T*
+(9. Spot checking polynomial identities) Tj
+T*
+(Source: John D. Cook | Published: Sat, 30 May 2026 21:06:49 +0000) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4898 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/) Tj
+T*
+(If a polynomial identity holds at a few random points, it?s very like true. We?ll make this) Tj
+T*
+(statement more precise, but first let?s look at some applications. You may want to test an) Tj
+T*
+(identity that naturally presents itself as a statement that two polynomials are equal. Or you) Tj
+T*
+(might use something like the binomial coefficient [?] The post Spot checking polynomial) Tj
+T*
+(identities first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Our unusual system of "web home directories" for people) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-30T23:51:13Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurWebHomeDirectories) Tj
+T*
+(One of the things we operate for the research side of the department is an old fashioned) Tj
+T*
+(general purpose web server, where everyone has a home page area of their own in the traditional) Tj
+T*
+('/~ /' style \( cf \). This web server has been there for a very long time, and one of the) Tj
+T*
+(decisions that was made very early on was that for security reasons, the web server would not) Tj
+T*
+(NFS mount people's regular home directories from our fileservers . The traditional Apache way) Tj
+T*
+(to do '/~ /' home pages is to have some location under your home directory that's exposed as) Tj
+T*
+(your web home page area ; the traditional name for this is ' public_html '. One alternative is) Tj
+T*
+(to relocate this to a separate directory tree, but this directory tree is flat, which makes it) Tj
+T*
+(awkward to have different pools of disk space for different people \( which is absolutely) Tj
+T*
+(required for us \). Since we didn't want to use people's regular home directories for security) Tj
+T*
+(reasons and we couldn't put everyone in one directory, we did the obvious hack: people have a) Tj
+T*
+(different, special home directory on the web server. These home directories are in special) Tj
+T*
+('webdir' filesystems on our fileservers , and these webdir filesystems are the only NF...) Tj
+T*
+() Tj
+T*
+(11. Our servers mostly don't seem to have high peak power usage) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-05-30T03:35:58Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowMaxPowerConsumption) Tj
+T*
+(I wrote a bit ago about how our servers seem to have surprisingly low power consumption , where) Tj
+T*
+(I looked at IPMI based power consumption information to look at their current, typical power) Tj
+T*
+(usage and found that several of them were sitting at lower power usage than my desktops. I'm) Tj
+T*
+(still interested in typical or average power usage for reasons beyond the scope of this entry,) Tj
+T*
+(but now I'm also interested in maximum power usage that we've observed. One reason to be) Tj
+T*
+(interested in maximum power usage is that servers are often given relatively high capacity) Tj
+T*
+(power supplies. A 600 watt power supply is on the small side for even a 1U server, and my) Tj
+T*
+(impression is that 800 watt and even 1200 watt PSUs are reasonably normal in basic servers. On) Tj
+T*
+(the one hand, the vendors building servers don't know what they're going to be used for, so) Tj
+T*
+(they're likely to be conservative. On the other hand, that's a lot of spare power for a system) Tj
+T*
+(that is typically using, say, 24 watts. A PSU that is that far under its rating may not be all) Tj
+T*
+(that efficient \(although the one 600 watt server PSU I looked at had a 'platinum' rating\).) Tj
+T*
+(Obviously a server's PSU has to support not just its typical power draw but also its...) Tj
+T*
+() Tj
+T*
+(12. Pluralistic: Carneyism without Carney \(30 May 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 30 May 2026 09:31:41) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/05/30/rupture/) Tj
+T*
+(Today's links Carneyism without Carney: Eh? Hey look at this: Delights to delectate. Object) Tj
+T*
+(permanence: Replacing pharma patents with bounties; USTR v cheap leukemia meds; Plutocrats x) Tj
+T*
+(wealth segregation; Anonymous Analytics; Scott Walker sells off donors; Anonymization v) Tj
+T*
+(metadata; Probably; Amazon warehouse workers are the future of Amazon coders; Warcraft eggs;) Tj
+T*
+(Brainwashing school; People who don't know The Onion is satire; "Company Town"; America is a) Tj
+T*
+(scam. Upcoming appearances: London, Kansas City, LA, Menlo Park, Toronto, NYC, Edinburgh, South) Tj
+T*
+(Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin') Tj
+T*
+('em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Carneyism) Tj
+T*
+(without Carney \(permalink\) The "Third Way" in liberal politics involves saying things that) Tj
+T*
+(working people love, but doing things that sociopathic plutocrats love. It works ?right up) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4642 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(until voters notice that you're not doing the things. That realisation breeds cynicism and fury) Tj
+T*
+(and paves the way for fascist strongmen. It's really ugly, and no one does it uglier than) Tj
+T*
+(Canada's Liberal Party. Remember that time Prime Minister Justin Trudeau marched with Gre...) Tj
+T*
+() Tj
+T*
+(13. Notes from May 2026) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Sat, 30 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/notes-from-may-2026/) Tj
+T*
+(My blog turned 16 this month! I did nothing to celebrate, but made some little tools and) Tj
+T*
+(clicked some links about tech ethics. Things from me this month I published four little tools) Tj
+T*
+(this month: ZIP Shrinker , a web app that shrinks ZIP files with higher compression ratios A) Tj
+T*
+(command line tool to do \(completely offline\) translation Open Link in Unloaded Tab , a Firefox) Tj
+T*
+(extension to open links without loading them png-cmp , a command line tool to compare PNG pixel) Tj
+T*
+(data I also did some work on Helmet, my open source project: After over a year of quiet) Tj
+T*
+(maintenance, I released version 8.2.0 with some small new features and documentation updates.) Tj
+T*
+(In a step toward dropping GitHub, I moved the docs from a GitHub URL to helmet.js.org . And) Tj
+T*
+(like every month, I wrote a few articles at Zelda Dungeon . I don?t feel I wrote anything) Tj
+T*
+(special this month, but my colleagues put together a feature about Zelda and mental health) Tj
+T*
+(which was very affecting! Links to click on ?The vast majority of tech workers, at least those) Tj
+T*
+(who I have encountered in my many years of reporting, are not vampiric Silicon Valley tech bro) Tj
+T*
+(caricatures [? They] both like working with tech and ultimately want to see it serve th...) Tj
+T*
+() Tj
+T*
+(14. Arp 114:) Tj
+T*
+(Source: Maurycy's Blog | Published: Sat, 30 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/astro/arp114/) Tj
+T*
+(North is left. \(mirrored\). 26x18 arcmin \(0.3 arcsec/pixel\) dt {color: var\(--em-color\)} Total) Tj
+T*
+(exposure time: 393 * 30 seconds = 3.2 hours. \(across 2 nights\) Exposure used in stack: 241 * 30) Tj
+T*
+(seconds = 2 hours. Telescope: C9.25 \(230mm, f/10, fl=2300mm\) Camera: IMX533 \(16mm diagonal,) Tj
+T*
+(square, color\) Processing: \(no software sharpening used\) Callibration \(dark + flats\) Stacking) Tj
+T*
+(\(average w/ rejection\) White balance and background subtraction Asinh stretch Light denoising) Tj
+T*
+(Tone curve Crop This one has two entries in the Altas of Peculiar Galaxies : Once as Arp 25) Tj
+T*
+(under "one heavy arm" and again as Arp 114 under "ellipticals close to and perturbing spirals".) Tj
+T*
+(The spiral structure of NGC 2276 is somewhat unusual looking, although it's not an obvious case) Tj
+T*
+(of tidal interaction. Hubble data suggests it's actually moving quite fast \(950 km/sec\) through) Tj
+T*
+(space, which causes the lob-sided arms as it interacts with sparse gas clouds. If this is) Tj
+T*
+(correct, the galaxy is not actually head-on as seen from earth: It tilts toward us on the) Tj
+T*
+(eastern \(top\) side and away on the western \(bottom\) edge. This would require the galaxy to be) Tj
+T*
+(stretched by the gravity of NGC 2300, so it's still an interacting galaxy, b...) Tj
+T*
+() Tj
+T*
+(15. Reading List 05/30/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 30 May 2026 12:02:52 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-053026) Tj
+T*
+(A California chemical leak, weapons-grade plutonium for nuclear reactor startups, a startup) Tj
+T*
+(that will clean your house to get robot training data, Blue Origin?s rocket explosion, and) Tj
+T*
+(more.) Tj
+T*
+() Tj
+T*
+(16. This Week in Package Management: 30 May 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-05-30T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/05/30/this-week-in-package-management.html) Tj
+T*
+(Back for a second week, built from the package manager OPML feed collection and whatever I?ve) Tj
+T*
+(posted or boosted on Mastodon . Security npm invalidated every granular access token with write) Tj
+T*
+(access that bypassed 2FA following another Shai-Hulud-pattern attack, so CI pipelines that) Tj
+T*
+(publish with one need to mint a new token. npm 11.16.0 ships phase one of the allowScripts) Tj
+T*
+(install-script policy , an opt-in allowlist in package.json naming which dependencies may run) Tj
+T*
+(lifecycle scripts; in this phase scripts outside the list still run but trigger a warning. pnpm) Tj
+T*
+(10.34.0 and 11.4.0 land the same security set on both maintained lines: a tarball-integrity) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4186 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(mismatch is now a hard failure instead of quietly re-resolving and overwriting the locked hash,) Tj
+T*
+(unscoped _authToken is bound to the registry from the same config source so a workspace .npmrc) Tj
+T*
+(can?t redirect a credential set in ~/.npmrc , git-resolution commit values must be a 40-char) Tj
+T*
+(SHA to block --upload-pack injection from a hostile lockfile, and patch files can?t reference) Tj
+T*
+(paths outside the patched package. 10.34.1 followed by rejecting lockfile entries whose) Tj
+T*
+(resolution: block has no integrity field at all, closing a path where a PR that...) Tj
+T*
+() Tj
+T*
+(17. On first looking into JAX) Tj
+T*
+(Source: Giles' blog | Published: Sat, 30 May 2026 18:45:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/05/on-first-looking-into-jax) Tj
+T*
+(Much have I travell'd in the realms of gold, And many goodly states and kingdoms seen; Round) Tj
+T*
+(many western islands have I been Which bards in fealty to Apollo hold. Oft of one wide expanse) Tj
+T*
+(had I been told That deep-brow'd Homer ruled as his demesne; Yet did I never breathe its pure) Tj
+T*
+(serene Till I heard Chapman speak out loud and bold: Then felt I like some watcher of the skies) Tj
+T*
+(When a new planet swims into his ken; Or like stout Cortez when with eagle eyes He star'd at) Tj
+T*
+(the Pacific -- and all his men Look'd at each other with a wild surmise -- Silent, upon a peak) Tj
+T*
+(in Darien. John Keats, On First Looking into Chapman's Homer I've been working with PyTorch) Tj
+T*
+(quite a lot for the last couple of years, and feel like I've come to a reasonably solid) Tj
+T*
+(understanding of how it all fits together. Working through Sebastian Raschka 's book " Build a) Tj
+T*
+(Large Language Model \(from Scratch\) ", training my own LLMs locally and in the cloud ,) Tj
+T*
+(rebuilding Andrej Karpathy's 2015-vintage RNNs -- over time, it all adds up! But, of course,) Tj
+T*
+(there are other frameworks, and one I kept hearing about was JAX . While it's less dominant) Tj
+T*
+(than PyTorch, it has a reputation for a certain cleanliness, a certain purity. And hav...) Tj
+T*
+() Tj
+T*
+(18. Galileo Notes: Ephemeris, Anomalies, I/NAV, SFRBX) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 30 Jul 2019 15:35:10 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/galileo-notes/) Tj
+T*
+(I?ve recently been spending quite some time on the EU?s Galileo Navigation Satellite System. In) Tj
+T*
+(this post you?ll find some rough notes on things I?ve found out, both about how to receive data) Tj
+T*
+(& how to understand the Galileo ephemeris parameters. Feedback is very welcome on) Tj
+T*
+(bert@hubertnet.nl or @bert_hu_bert! I?m no Galileo specialist, so I am sure this page could be) Tj
+T*
+(better. Please also let me know if this page has been useful to you.) Tj
+T*
+() Tj
+T*
+(19. On the Pan-Genome) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 12 Jul 2019 09:10:21 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/on-the-pan-genome/) Tj
+T*
+(In this post I want to shine a light on an important development within the world of DNA which) Tj
+T*
+(shows how much DNA and the world of computing are now intertwined. It turns out we share) Tj
+T*
+(important problems, like in this case: file formats. Note: I expect to be posting more DNA) Tj
+T*
+(material as part of my efforts to write a book on this fascinating subject. If you enjoy) Tj
+T*
+(reading about DNA, you might like the links/presentations/videos found on this page.) Tj
+T*
+() Tj
+T*
+(20. From gnuplot to Matplotlib & Pandas) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 01 Apr 2019 09:59:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/from-gnuplot-to-matplotlib-pandas/) Tj
+T*
+(I?ve been using gnuplot since.. like forever. It is one of my best friends in plotting data and) Tj
+T*
+(discovering what is going on. But for all its greatness, you do tend to run into a wall - once) Tj
+T*
+(you step outside the things gnuplot is good at, suddenly large heaps of awk, sort, unique and) Tj
+T*
+(odd shell scripts are required to get to the next level. This is no criticism of gnuplot - it) Tj
+T*
+(is great for what it is for.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000005065 00000 n 
+0000005191 00000 n 
+0000009705 00000 n 
+0000009831 00000 n 
+0000014781 00000 n 
+0000014907 00000 n 
+0000019602 00000 n 
+0000019730 00000 n 
+0000023969 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+24097
+%%EOF
