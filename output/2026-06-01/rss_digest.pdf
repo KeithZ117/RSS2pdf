@@ -1,0 +1,480 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4198 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-01 09:52:09) Tj
+T*
+() Tj
+T*
+(1. datasette 1.0a32) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-31T23:23:38+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/31/datasette/#atom-everything) Tj
+T*
+(Release: datasette 1.0a32 A minor bugfix release. Fixes a bug with INSERT ... RETURNING queries) Tj
+T*
+(via the new /db/-/execute-write endpoint and a bunch of base_url issues which showed up when I) Tj
+T*
+(was experimenting with Service Workers yesterday. Tags: datasette , annotated-release-notes) Tj
+T*
+() Tj
+T*
+(2. The solution might be cancelling my AI subscription) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-31T16:31:32+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription) Tj
+T*
+(/#atom-everything) Tj
+T*
+(The solution might be cancelling my AI subscription I find this post by David Wilson very) Tj
+T*
+(relatable. David lists 16+ projects he's spun up with AI tooling, and concludes: I didn't mean) Tj
+T*
+(to build most of these things. Usually the Claude session started with something like " write a) Tj
+T*
+(quick script for X ", and one hour later the result is not a quick script for X , nor in the) Tj
+T*
+(usual case is my problem solved, whatever the original itch happened to be. On that last point,) Tj
+T*
+(this technology is horrific for attention. It's a thermonuclear ADHD amplifier and I have seen) Tj
+T*
+(the same effect in every single one of my adult friends. Folk running 3 screens simultaneously) Tj
+T*
+(working on totally unrelated "projects" they have little hope of maintaining, and such little) Tj
+T*
+(commitment to the outcome that the time is obviously wasted. This is a very real problem. I'm) Tj
+T*
+(finding that coding agents can take me from a vague idea to a working solution, one with tests) Tj
+T*
+(and documentation and that looks like a carefully considered project evolved over the course of) Tj
+T*
+(many weeks... in less than an hour. Even if the code is rock solid, there's a limit to how many) Tj
+T*
+(projects like that I can sensibly care for - and if they're inst...) Tj
+T*
+() Tj
+T*
+(3. Quoting Karen Kwok for Reuters Breakingviews) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-05-31T01:48:12+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything) Tj
+T*
+(Anthropic defines ?run-rate revenue? in two parts. Use the last 28 days of sales ?from) Tj
+T*
+(customers charged on a consumption basis and multiply it by 13. Then, multiply the monthly) Tj
+T*
+(subscription take by 12, ?and add the two together. ? Karen Kwok for Reuters Breakingviews ,) Tj
+T*
+(citing "a person familiar with the matter" Tags: anthropic , ai) Tj
+T*
+() Tj
+T*
+(4. The Talk Show Live From WWDC 2026: Tuesday June 9) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-01T01:33:14Z) Tj
+T*
+(Link: https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026) Tj
+T*
+(Location: The California Theatre, San Jose Showtime: Tuesday, 9 June 2026, 7pm PT \(Doors open) Tj
+T*
+(6pm\) Special Guest\(s\): For sure Price: $45 The annual live audience episode of The Talk Show) Tj
+T*
+(during the week of WWDC. If you can make it, you should come. You?ll even enjoy the prelude,) Tj
+T*
+(mingling with fellow DF readers and listeners. Also: at least one sponsorship slot is still) Tj
+T*
+(available. If you?ve got a product or service you?d like to see me promote at the start of the) Tj
+T*
+(show, shoot me an email . ?) Tj
+T*
+() Tj
+T*
+(5. Take Two) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-01T00:15:44Z) Tj
+T*
+(Link: https://x.com/markgurman/status/2061236259843182813) Tj
+T*
+(Mark Gurman, on Twitter/X \( XCancel link \) Kelsey Peterson, the Apple AI employee who) Tj
+T*
+(introduced the never-launched Siri revamp in 2024, just started at OpenAI ? so we?ll be getting) Tj
+T*
+(someone new next month for Attempt 2 at WWDC. Pretty sure we were going to get someone) Tj
+T*
+(different for the second crack at a next-gen Siri introduction at WWDC no matter what. If they) Tj
+T*
+(had made a Titanic II, they would have hired someone new to host the christening. ?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4491 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(6. Build agents, not pipelines) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 31 May 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/build-agents-not-pipelines/) Tj
+T*
+(There are only two ways to use LLMs in a computer program: as part of a pipeline, or as an) Tj
+T*
+(agent. In other words, either you express the control flow of the program in code, or you give) Tj
+T*
+(a LLM tools and allow it to manage the control flow itself 1 . Here?s how you might structure a) Tj
+T*
+(trivial ?summarize a bunch of information and email it to me? program as a pipeline: context =) Tj
+T*
+(gather_context \( various , data , sources \) llm_response = llm_summarize \( context \) summary =) Tj
+T*
+(parse \( llm_response \) email_me \( summary , my_email \) And here?s how you?d do it as an agent:) Tj
+T*
+(read_data_tool = build_read_data_tool \( various , data , sources \) email_tool =) Tj
+T*
+(build_email_tool \( my_email \) run_agent \( tools : [ read_data_tool , email_tool ] \) It?s like) Tj
+T*
+(the difference between a library and a framework. When you use a library, you define the) Tj
+T*
+(structure of the program yourself, and call out to various library helpers along the way. When) Tj
+T*
+(you use a framework, the main structure of the program lives in the framework, and it calls) Tj
+T*
+(your code at various points. There are tradeoffs involved in both approaches. Frameworks let) Tj
+T*
+(you get started more quickly and typically give you features ?for free?, but can be diffi...) Tj
+T*
+() Tj
+T*
+(7. Another Gaussian approximation) Tj
+T*
+(Source: John D. Cook | Published: Sun, 31 May 2026 16:15:49 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/) Tj
+T*
+(The function \(1 + cos\(x\)\)/2 gives a fair approximation to the Gaussian density exp\(?x≤\) You can) Tj
+T*
+(make the approximation much better by raising it to a power. The function \(\(1 + cos\(x\)\)/2\)4) Tj
+T*
+(gives a good lower bound and \(\(1 + cos\(x\)\)/2\)3.5597 gives a good upper bound. More on that) Tj
+T*
+(here. There are other ways of [?] The post Another Gaussian approximation first appeared on) Tj
+T*
+(John D. Cook .) Tj
+T*
+() Tj
+T*
+(8. Please don't mess with links:) Tj
+T*
+(Source: Maurycy's Blog | Published: Sun, 31 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/misc/real_links/) Tj
+T*
+(A link is just a button that takes you somewhere when you click it right? style > span {) Tj
+T*
+(text-decoration : underline ; color : #44EEEE ; } style > span onclick =) Tj
+T*
+("window.location='https://xkcd.com/'" >100% legit link span > span.link { text-decoration:) Tj
+T*
+(underline; color: var\(--link-color1\); } 100% legit link Except that's a pale, shallow imitation) Tj
+T*
+(of a link. A real link can be: Opened in a new tab. \(ctrl\) ... or a fresh window. \(shift\) ...) Tj
+T*
+(or saved as a file \(alt\). Copied as a URL \(right click\) Used with the keyboard \(tab + enter\)) Tj
+T*
+(Seen by tools like search engines and screen readers. Hovered over to see the URL. ... none of) Tj
+T*
+(which work with a button. Another common offense is to use a real link, but hook the click) Tj
+T*
+(event to open a popup. However, with a real link, I can: See the loading progress... ... or/and) Tj
+T*
+(cancel it. ... see descriptive error pages and retry if needed. Open multiple at once. Read the) Tj
+T*
+(original page while it loads. Use my browser's tabs or/and window manager to organize them.) Tj
+T*
+(Bookmark the page. Copy the URL and send it to a friend. ... and above all, they are) Tj
+T*
+(consistent: I've long lost count of how many times I've accidentally closed the whole site) Tj
+T*
+(while trying to c...) Tj
+T*
+() Tj
+T*
+(9. Who are the actors in the UK's 2015 passport?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 31 May 2026 11:34:08 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/) Tj
+T*
+(I got nerdsniped by a bloody Reddit post! In 2015, the UK Government launched a new passport) Tj
+T*
+(design. It immediately attracted negative press for its designers' "sexist" decision to feature) Tj
+T*
+(more men than women. The government has been accused of sexism over the new UK passport design,) Tj
+T*
+(which commemorates the achievements of two women but seven men. It's true that there are only) Tj
+T*
+(two named women - ?) Tj
+T*
+() Tj
+T*
+(10. Be thou not pilled) Tj
+T*
+(Source: Westenberg. | Published: Sun, 31 May 2026 23:21:45 GMT) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4420 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.joanwestenberg.com/be-thou-not-pilled/) Tj
+T*
+(A Scottish journalist named Charles Mackay published a book about the way crowds lose their) Tj
+T*
+(minds. Extraordinary Popular Delusions and the Madness of Crowds \(1841\) catalogued tulip) Tj
+T*
+(speculation, alchemy, the South Sea Bubble, witch hunts, and the slow-burn lunacy of people who) Tj
+T*
+(grow so attached to an idea that they) Tj
+T*
+() Tj
+T*
+(11. Ahoy, DECmate II! the little PDP-8 that could) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-05-30T19:19:49.552-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html) Tj
+T*
+(In 1982, as we mentioned at length with our history of the DEC Professional , Digital Equipment) Tj
+T*
+(Corporation attempted to keep their PDP-11 minicomputer market-relevant by turning the) Tj
+T*
+(venerable architecture into a largely incompatible desktop microcomputer. But that wasn't the) Tj
+T*
+(only PDP-series mini it happened to, and it wasn't even the first: the PDP-8 actually got the) Tj
+T*
+(shrink-ray treatment several years before, and not content to merely make it into a smaller) Tj
+T*
+(general purpose computer, DEC turned it into a word processor. Thus emerged the DECmates,) Tj
+T*
+(descended from the 1977 DECstation VT78; arguably the zenith of the line was this one, the) Tj
+T*
+(DECmate II, which rolled off the assembly line in 1982 simultaneously with the first DEC) Tj
+T*
+(Professional models and the DEC Rainbow. Advertised aggressively to offices new to computers,) Tj
+T*
+(take the two floppy disk drives built-in, add a printer, monitor and keyboard, and right away) Tj
+T*
+(you had a simple office system for basic needs. With a Z80 or an 8086 processor card, you could) Tj
+T*
+(turn it into an overgrown CP/M machine or a rather limited MS-DOS one. You could stick two more) Tj
+T*
+(floppy drives in it. You could even add a hard disk or a graphics card, as long as you...) Tj
+T*
+() Tj
+T*
+(12. One &udm After Another) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-05-31T00:43:46Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17351430/google-ai-udm14-reflection) Tj
+T*
+(Google made everyone mad again, so another wave of people just learned about &udm=14. Maybe we) Tj
+T*
+(should all take the hint.) Tj
+T*
+() Tj
+T*
+(13. Micro Instrumentation and Telemetry Systems) Tj
+T*
+(Source: Abort Retry Fail | Published: Mon, 01 Jun 2026 01:28:37 GMT) Tj
+T*
+(Link: https://www.abortretry.fail/p/micro-instrumentation-and-telemetry) Tj
+T*
+(Rockets, calculators, and personal computers at MITS) Tj
+T*
+() Tj
+T*
+(14. A day in the threatened forests of the Central Highlands) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Sun, 31 May 2026 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/threatened-forests/) Tj
+T*
+(We spent today in some of the forests up in lutruwita/Tasmania?s Central Highlands that are) Tj
+T*
+(being logged, or are about to be. It was a Bob Brown Foundation Threatened Forest Open Day . It) Tj
+T*
+(was sobering and a bit sad. Also fascinating, and the forest is beautiful. The marquee, set up) Tj
+T*
+(in the forest. It rained pretty much all day. The marquee was up in the middle of the forest) Tj
+T*
+(and we stood under it while a few people talked. They went through what?s happening to these) Tj
+T*
+(forests and what?s scheduled to be cut. I got a lot out of it.) Tj
+T*
+() Tj
+T*
+(15. the totalisator) Tj
+T*
+(Source: computers are bad | Published: 31 May 2026 00:00:00 UT) Tj
+T*
+(Link: https://computer.rip/2026-05-31-totalisator.html) Tj
+T*
+(It has been an unfortunate turn in the software industry, one of many as of late, that gambling) Tj
+T*
+(is once again one of its primary engines. With the rise of almost nationwide online sports) Tj
+T*
+(betting, not to mention prediction markets, making odds on real-world events and extracting the) Tj
+T*
+(money of suckers is no longer limited to island nations. It is a great American pursuit, or at) Tj
+T*
+(least, that's what modern television sports coverage leads you to believe. There has always) Tj
+T*
+(been an uncomfortable relationship between software and the manipulation of marks. Techniques) Tj
+T*
+(developed by casinos became a fundamental part of consumer software, while the software) Tj
+T*
+(industry wholeheartedly embraced "gaming" as a market \(the older meaning of the term here,) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2891 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(meaning gambling\). We can readily point to a couple of reasons: first, gambling is profitable,) Tj
+T*
+(and technology is first and foremost a means of accumulation. Second, gambling is mathematical,) Tj
+T*
+(or at least arithmetical, in nature. Most forms of gambling involve some sort of complex) Tj
+T*
+(calculation with real-world stakes. Gambling predates history, or it might be better to say) Tj
+T*
+(that gambling has been around for as long as recorded history has been able to obser...) Tj
+T*
+() Tj
+T*
+(16. C++ iostreams: Unexpected but legal multithreaded behaviour) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 17 Mar 2019 17:46:37 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/iostreams-unexpected/) Tj
+T*
+(In previous articles, I?ve waxed rhapsodic about how great C++ is. I also noted there however) Tj
+T*
+(that every language, C++ included, has its dark sides. Some languages have an unavoidable) Tj
+T*
+(pervasive dark side, like being slow or hard to multithread, for C++ that dark side is mostly) Tj
+T*
+(its complexity. In this post I want to zoom in on a specific ?gotcha? that recently took me) Tj
+T*
+(several hours to resolve. I wrote this piece so anyone running into the same issue might find) Tj
+T*
+(out about it if they search the web.) Tj
+T*
+() Tj
+T*
+(17. What I Did in 2018) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 30 Dec 2018 14:26:04 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/what-i-did-in-2018/) Tj
+T*
+(This is a more personal post than I usually write, and it was prompted by several people asking) Tj
+T*
+(what I had been up to lately. It turns out that it is somewhat of a story. It is a long story) Tj
+T*
+(too. Since the beginning of 2018 day to day management of PowerDNS is now truly in the hands of) Tj
+T*
+(professionals. I?m very proud to report that PowerDNS has not only survived the transition to) Tj
+T*
+(Open-Xchange but is actually thriving & has achieved sufficient revenues & talented staff that) Tj
+T*
+(we?ve solved the famous open source ?what if Bert gets hit by a bus? problem.) Tj
+T*
+() Tj
+T*
+(18. Liveblog: a Mars landing watch party with school kids) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 27 Nov 2018 12:26:28 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/liveblog/) Tj
+T*
+(Yesterday, NASA landed its InSight mission on Mars, and it all worked! The landing happened) Tj
+T*
+(between 8 and 9PM local time, but I wanted to share the excitement with my kids? classmates) Tj
+T*
+(from school \(aged between around 9 and 10\), so I needed something that worked remotely. NASA) Tj
+T*
+(provided a wonderful webcast in English, and although many children here in The Netherlands can) Tj
+T*
+(follow that, I expected the stream to need more narration for the kids to truly experience the) Tj
+T*
+(excitement of landing on another planet.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004460 00000 n 
+0000004586 00000 n 
+0000009129 00000 n 
+0000009255 00000 n 
+0000013727 00000 n 
+0000013853 00000 n 
+0000016797 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16925
+%%EOF
