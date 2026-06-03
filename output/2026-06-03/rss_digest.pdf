@@ -1,0 +1,448 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4288 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-03 09:58:13) Tj
+T*
+() Tj
+T*
+(1. Microsoft's new MAI models) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-02T22:21:52+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything) Tj
+T*
+(Microsoft announced two new text LLMs this morning - MAI-Thinking-1 \(reasoning, 1T parameters,) Tj
+T*
+(35B active, available to "select early partners"\) and MAI-Code-1-Flash \(137B Parameters, 5B) Tj
+T*
+(active, "purpose-built for GitHub Copilot and VS Code to deliver high performance and lower) Tj
+T*
+(cost [...] rolling out to GitHub Copilot individual users in Visual Studio Code"\). I've not) Tj
+T*
+(been able to try either of them just yet. It's very interesting to see Microsoft releasing) Tj
+T*
+(models with such low parameter counts, especially given how expensive larger models are to) Tj
+T*
+(access right now. They claim MAI-Thinking-1 "is preferred to Sonnet 4.6 in our blind human) Tj
+T*
+(side-by-side evaluations", which is impressive for a 35B model seeing as I frequently run) Tj
+T*
+(models larger than that on my own laptop. \(UPDATE: I got this entirely wrong, see note below.\)) Tj
+T*
+(Also of note : We trained [MAI-Thinking-1] from the ground up on enterprise grade, clean and) Tj
+T*
+(commercially licensed data, without distillation from third-party models. And for) Tj
+T*
+(MAI-Code-1-Flash as well: It is built end-to-end by Microsoft using clean and appropriately) Tj
+T*
+(licensed data. I would very much like to learn more about this "appropriately licensed" data!) Tj
+T*
+(Could the...) Tj
+T*
+() Tj
+T*
+(2. datasette-agent-micropython 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-02T19:28:36+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything) Tj
+T*
+(Release: datasette-agent-micropython 0.1a0 I want Datasette Agent to be able to generate and) Tj
+T*
+(execute Python code safely. This alpha is looking promising so far. GPT-5.5 has so far failed) Tj
+T*
+(to break out of the sandbox! Tags: python , sandboxing , datasette , webassembly ,) Tj
+T*
+(datasette-agent) Tj
+T*
+() Tj
+T*
+(3. micropython-wasm 0.1a1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-02T19:20:47+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything) Tj
+T*
+(Release: micropython-wasm 0.1a1 Fixes for some limitations that emerged while I was trying to) Tj
+T*
+(use this to build datasette-agent-micropython . Tags: python , sandboxing , webassembly) Tj
+T*
+() Tj
+T*
+(4. Meta Reportedly Has a Slew of New Smart Glasses Planned for This Year) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-02T21:54:43Z) Tj
+T*
+(Link: https://gizmodo.com/meta-has-a-ridiculous-amount-of-smart-glasses-planned-for-this-year-2) Tj
+T*
+(000765741) Tj
+T*
+(James Pero, summarizing for Gizmodo this paywalled report by Jyoti Mann for The Information:) Tj
+T*
+(But, wait, there?s more: in addition to the fall releases, The Information reports that Meta) Tj
+T*
+(also has a pair slated for December, codenamed ?Mojito VIP.? There are also two prototypes) Tj
+T*
+(being tested in the fall, according to the report, including one called ?Artemis? and another) Tj
+T*
+(called ?SSG,? which is short for ?supersensing glasses.? The Information previously reported) Tj
+T*
+(that the ?supersensing? pair would have always-on cameras capable of looking at your) Tj
+T*
+(surroundings without you having to prompt the voice assistant or activate the camera with a) Tj
+T*
+(button. The idea here is that, with a constant stream of visual information, the smart glasses) Tj
+T*
+(could be a kind of ambient virtual assistant that remembers where you left your keys or other) Tj
+T*
+(vision-based reminders. Spitball: Meta?s entire business is predicated on knowing as much about) Tj
+T*
+(people as possible. Their interest in building out a virtual ?metaverse? world was motivated by) Tj
+T*
+(the fact they could track everything people do, see, say, and hear there. That didn?t play out) Tj
+T*
+(so they?re pivoting to building out devices that will let them track everything pe...) Tj
+T*
+() Tj
+T*
+(5. Apple, the Anti-?Metaverse? VR Company) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-02T20:48:08Z) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4873 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://daringfireball.net/2025/12/meta_says_fuck_that_metaverse_shit) Tj
+T*
+(One more bit of ? metaverse fever dream ? follow-up. The one company in the field that Nick) Tj
+T*
+(Heer doesn?t mention is Apple, makers of the best-known \(albeit not best-selling\) virtual) Tj
+T*
+(reality headset. Think and say what you want about the Vision platform \( I still think it?s the) Tj
+T*
+(first inning of a long game\), but no one at Apple ever once gave a hint of endorsing) Tj
+T*
+(?metaverse? hype. In fact, as I?ve noted before , at a 2022 WSJ event, seven months before) Tj
+T*
+(Vision Pro was announced and over a year before it was released, Joanna Stern asked Greg) Tj
+T*
+(Joswiak and Craig Federighi : Stern: You have to finish this sentence, both of you. The) Tj
+T*
+(metaverse is... Joz: A word I?ll never use. ?Fever dream? is right. ?) Tj
+T*
+() Tj
+T*
+(6. The Metaverse Was Snake Oil for Isolation) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-02T20:42:33Z) Tj
+T*
+(Link: https://daringfireball.net/linked/2026/06/01/the-metaverse-fever-dream) Tj
+T*
+(A follow-up point from my post yesterday linking to Nick Heer?s blockbuster ? The Metaverse) Tj
+T*
+(Fever Dream ?. In particular, the connection Heer draws between the rise of ?metaverse? hype) Tj
+T*
+(and the pandemic. I always sort of knew that metaverse hype roughly coincided with the Covid) Tj
+T*
+(lockdown and our collective period of isolation and loneliness, a year-plus stretch when we) Tj
+T*
+(relied mostly on computer platforms for nearly all socializing. But here in 2026 it?s now clear) Tj
+T*
+(that metaverse hype and lockdown-induced isolation exactly coincided. They didn?t roughly) Tj
+T*
+(overlap; they exactly overlapped. So much so that I?m now wondering if any of the ?metaverse?) Tj
+T*
+(hype would have happened if Covid hadn?t happened. Facebook still likely would?ve renamed) Tj
+T*
+(itself, because they?d so poisoned the ?Facebook? brand itself , but maybe to something other) Tj
+T*
+(than ?Meta? . We allowed the necessary initial emergency lockdown to extend indefinitely) Tj
+T*
+(because it seemed like maybe we could get by for a long stretch using technology. The extended) Tj
+T*
+(lockdown never would have happened if the Covid pandemic had broken out 20 or more years) Tj
+T*
+(earlier. In 2020 and 2021, we could squint and say, sure, maybe kids can ?go to school? via...) Tj
+T*
+() Tj
+T*
+(7. Logic for Programmers extra credits) Tj
+T*
+(Source: Computer Things | Published: Tue, 02 Jun 2026 14:48:48 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/logic-for-programmers-extra-credits/) Tj
+T*
+(So I said there wasn?t a proper newsletter this week, since I?m in Budapest prepping for a) Tj
+T*
+(conference. But I still got a thing for y?all. There?s a lot of interesting topics I wanted to) Tj
+T*
+(cover for Logic for Programmers , but the book is dense enough as it is and many of these were) Tj
+T*
+(too tangential or technical to fit in well. So I?ve been writing some supplements and uploading) Tj
+T*
+(them here . I?ve got four so far: How we compute the number of orderings of multiple concurrent) Tj
+T*
+(processes How first-order logic can quantify over ?a set of functions?, what a ?set of) Tj
+T*
+(functions? looks like, and how functions can be defined in terms of sets \(plus a bit on) Tj
+T*
+(currying and type theory\) Barbara Liskov?s ?history rule? in subtyping Total and partial orders) Tj
+T*
+(on sets. Now I?m going to caveat that these were written off the cuff and haven?t gone through) Tj
+T*
+(the obsessive editing of the book itself, so they may be rough and there might be errors in) Tj
+T*
+(them. Still, it?s like 2-3000 words of math content, so hopefully covers not having a proper) Tj
+T*
+(newsletter this time. Seeya next week!) Tj
+T*
+() Tj
+T*
+(8. Pluralistic: The tedious power of storytelling \(02 Jun 2026\) must-we-pretend) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 02 Jun 2026 09:18:16) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/02/must-we-pretend/) Tj
+T*
+(Today's links The tedious power of storytelling: "Excitement" is to art as "falsifiablilty" is) Tj
+T*
+(to science. Hey look at this: Delights to delectate. Object permanence: Lost Marx Bros musical;) Tj
+T*
+(USPTO v Drumpf trademark; 3D scans v copyright; Giving worse internet to people with bad credit) Tj
+T*
+(ratings; Class action over royalty theft; Trusbusting Prime; Trustbusting Google. Upcoming) Tj
+T*
+(appearances: London, Kansas City, LA, Menlo Park, Toronto, NYC, Edinburgh, South Bend. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The tedious power) Tj
+T*
+(of storytelling \(permalink\) Yesterday, I attended a Brian Eno talk about the nature of) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4442 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(creativity and art based on What Art Does, the short book he published with Bette Adriaanse) Tj
+T*
+(last year: https://www.faber.co.uk/product/9780571395514-what-art-does-an-unfinished-theory/ I) Tj
+T*
+(haven't read the book \(yet ? I just ordered a copy\), but the talk really got me fizzing. The) Tj
+T*
+(subject matter \(not just what art does, but also what art is\) is one I've given a lot of) Tj
+T*
+(thought to, and Eno's characteristic mix of gnomic koans and deceptively plainspoken asse...) Tj
+T*
+() Tj
+T*
+(9. An Ode to the Exacting Pedantry of Computers) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Tue, 02 Jun 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/pedantry-of-computing/) Tj
+T*
+(The very first computer programming class I ever took introduced me to the idea of there being) Tj
+T*
+(different kinds of numbers, like integers, floats, and doubles \(it was a C++ course\). ?You) Tj
+T*
+(mean, when I assign a variable, I have to say up front what kind of number this is?? It was) Tj
+T*
+(such an odd concept to me. A number is a number. Why do I have to say it?s this kind of number) Tj
+T*
+(or that kind of number? I dropped out of that class. A few years later, I decided I wanted to) Tj
+T*
+(try programming again. So I took another intro class. This time they were teaching with Python) Tj
+T*
+(instead of C++, so you can imagine my excitement to learn that I didn?t have to think of) Tj
+T*
+(numbers in this way anymore! It felt like the computer was meeting me partway. Over time, I) Tj
+T*
+(came to learn how pedantic computers are. They require a kind of exacting precision in saying) Tj
+T*
+(what you want them to do. And they?ll only ever do exactly what you tell them to do, nothing) Tj
+T*
+(more, nothing less. If there was a bug in your program, that wasn?t because the computer was) Tj
+T*
+(doing something you told it not to. The computer was only ever doing exactly what you told it) Tj
+T*
+(to do. A ?bug? was very likely a flaw in your conception of how the program should...) Tj
+T*
+() Tj
+T*
+(10. AI Doesn't Have ROI) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 02 Jun 2026 14:04:43 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/ai-doesnt-have-roi/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter. It?s $70 a year, or $7) Tj
+T*
+(a month, and in return you get a weekly newsletter that?s usually anywhere from 5,000 to 18,000) Tj
+T*
+(words, including vast, detailed analyses of NVIDIA , Anthropic and) Tj
+T*
+() Tj
+T*
+(11. Is the Monaco Grand Prix decided at qualifying?) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 02 Jun 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/is-monaco-decided-at-qualifying) Tj
+T*
+(A Formula One driver triggered my fact-checkitis. They claimed that Winning the Monaco Grand) Tj
+T*
+(Prix in Monte Carlo is determined nine out of ten times by which position one starts in. That) Tj
+T*
+(makes intuitive sense, because the Monte Carlo track is a narrow street track with few) Tj
+T*
+(opportunities for overtakes. But ? really? Is that an off-the-cuff remark or an accurate) Tj
+T*
+(statistical prediction of the race? \(Continue reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(12. I went on the Built for Turbulence podcast) Tj
+T*
+(Source: Martin Alderson | Published: Tue, 02 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/built-for-turbulence-podcast/?utm_source=rss&utm_medium=) Tj
+T*
+(rss&utm_campaign=feed) Tj
+T*
+(I joined Radical's Built for Turbulence podcast to talk about what AI agents are doing to the) Tj
+T*
+(economics of software, the Figma Trap, and why running human-written code without AI audit is) Tj
+T*
+(going to start looking reckless.) Tj
+T*
+() Tj
+T*
+(13. Should C Programmers learn C++, Go or Rust?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 30 Jul 2018 14:35:51 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/cpp-rust-go/) Tj
+T*
+(I recently wrote a series of posts called ?Modern C++ for C Programmers?. I mentioned in the) Tj
+T*
+(introduction: ?I hope to convince C programmers to give ?2017 era C++? \(which is entirely) Tj
+T*
+(unlike 2003 C++\) another good look. \(?\) My goal is that when you go look for a new language to) Tj
+T*
+(learn \(say, Go or Rust\), you will hopefully consider modern C++ as well.? Over the weeks as I) Tj
+T*
+(posted new parts, I was blown away by the interest.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1482 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(14. Modern C++ for C Programmers: introduction) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 28 Jul 2018 13:29:55 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/cpp-intro/) Tj
+T*
+(2018 is an exciting time to be a programmer, with so many good ?full service? programming) Tj
+T*
+(languages to choose from: C, C++ 2017, Go, Python, Rust and who knows Swift too. Programming) Tj
+T*
+(languages are complicated beasts - even the simplest languages have specifications that run \(or) Tj
+T*
+(would run\) in the hundreds of pages, and once you include everything, no serious language is) Tj
+T*
+(likely to clock in under a thousand. With this comes the fact that every programming language) Tj
+T*
+(has good parts, and frequently even more bad parts.) Tj
+T*
+() Tj
+T*
+(15. Modern C++ for C Programmers: Part 5) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 25 Jul 2018 11:26:51 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/cpp-5/) Tj
+T*
+(Welcome back! In part 4 we went over the nitty-gritty of lambdas and how to store them, we) Tj
+T*
+(explored the relation between the various C++ algorithms and containers, plus we took a stroll) Tj
+T*
+(through some non-standard containers with exceptional capabilities. Note: part 1 is here. In) Tj
+T*
+(this probably final part 5, we?ll be going over some of the most powerful stuff in modern C++:) Tj
+T*
+(?perfect? reference counting and the concept of std::move.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004550 00000 n 
+0000004676 00000 n 
+0000009601 00000 n 
+0000009727 00000 n 
+0000014221 00000 n 
+0000014347 00000 n 
+0000015882 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16010
+%%EOF
