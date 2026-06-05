@@ -1,0 +1,664 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4490 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-05 09:48:49) Tj
+T*
+() Tj
+T*
+(1. AI enthusiasts are in a race against time, AI skeptics are in a race against entropy) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-04T23:55:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything) Tj
+T*
+(AI enthusiasts are in a race against time, AI skeptics are in a race against entropy Charity) Tj
+T*
+(Majors neatly captures the dynamic between AI enthusiasts and AI skeptics, both of whom are) Tj
+T*
+(trying to build great software, often in the same teams: The enthusiasts are not wrong . We are) Tj
+T*
+(starting to see real, non-imaginary, discontinuous leaps in capabilities from teams that lean) Tj
+T*
+(in hard to working with AI. And this does not feel like a normal technology cycle where you can) Tj
+T*
+(wait for the dust to settle; teams that sit this out while competitors are hustling could be) Tj
+T*
+(out of business before the dust settles. That?s a real, existential threat. The skeptics are) Tj
+T*
+(also not wrong . When you ship code faster than engineers can read it, in domains where nobody) Tj
+T*
+(has full context, you are making withdrawals from a trust account that took years to build.) Tj
+T*
+(Reliability degrades, institutional knowledge evaporates. You end up with systems nobody) Tj
+T*
+(understands, products burbling into incoherence, and on-call rotations that grind people up and) Tj
+T*
+(spit them out. That is ALSO a real existential threat. Charity recommends treating this as both) Tj
+T*
+(a leadership challenge and an engineering challenge. The key issue: There...) Tj
+T*
+() Tj
+T*
+(2. Quoting Emanuel Maiberg, 404 Media) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-04T16:38:29+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything) Tj
+T*
+(After this story was published Google's spokesperson reached out and asked us to publish a) Tj
+T*
+(slightly different version of that statement. The new statement no longer stated that "it's) Tj
+T*
+(critical that we maintain humans in the loop." ? Emanuel Maiberg, 404 Media , Google Employees) Tj
+T*
+(Internally Share Memes About How Its AI Sucks Tags: ai-ethics , journalism , ai , google) Tj
+T*
+() Tj
+T*
+(3. micropython-wasm 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-02T03:43:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/2/micropython-wasm-2/#atom-everything) Tj
+T*
+(Release: micropython-wasm 0.1a0 My latest sandboxing experiment: This alpha package bundles a) Tj
+T*
+(lightly customized WASM build of MicroPython with a wrapper to execute code in it via wasmtime) Tj
+T*
+(. Tags: python , sandboxing , webassembly) Tj
+T*
+() Tj
+T*
+(4. Some People Rooted for The Empire in ?Star Wars?, Too) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-05T00:43:33Z) Tj
+T*
+(Link: https://hotair.com/ed-morrissey/2026/06/03/cbs-fires-scott-pelley-after-trying-very-hard-) Tj
+T*
+(to-get-fired-n3815553) Tj
+T*
+(Ed Morrissey, writing for Hot Air, thinks Scott Pelley got what he deserved and Bari Weiss is) Tj
+T*
+(doing a good job running CBS News: And Pelley forgot the Golden Rule: He who has the gold makes) Tj
+T*
+(the rules . Instead, Pelley convinced himself of his own virtue and torched his own position ?) Tj
+T*
+(and if Bilton?s letter is accurate, in as mean-spirited and conceited a manner as possible.) Tj
+T*
+(Pelley could have chosen a dignified resignation under protest, but instead pulled a power move) Tj
+T*
+(in an attempt to intimidate Bilton, Weiss, and Ellison, only to discover that no one feared his) Tj
+T*
+(absence. In fact, they?re probably happy to cut him loose. There?s always at least one person) Tj
+T*
+(in these situations who thinks they?re untouchable. A wise executive knows to start by making) Tj
+T*
+(an example of that person, and then see how many other people think they?re indispensable. It?s) Tj
+T*
+(not as if TV news jobs are expanding these days, after all. Pelley?s going to find out the hard) Tj
+T*
+(way that no one?s paying $5 million a year to emote into a camera from other people?s copy. It) Tj
+T*
+(doesn?t even enter this man?s little mind that Pelley wasn?t concerned about his job, wasn?t) Tj
+T*
+(concerned about his salary, but was concerned only with the in...) Tj
+T*
+() Tj
+T*
+(5. The Talk Show Live From WWDC 2026: Tuesday in San Jose) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-04T22:05:05Z) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4439 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026) Tj
+T*
+(Location: The California Theatre, San Jose Showtime: Tuesday, 9 June 2026, 7pm PT \(Doors open) Tj
+T*
+(6pm\) Special Guest\(s\): For sure Price: $45 The annual live audience episode of The Talk Show) Tj
+T*
+(during the week of WWDC. If you can make it, you should come. You?ll even enjoy the prelude,) Tj
+T*
+(mingling with fellow DF readers and listeners. ?) Tj
+T*
+() Tj
+T*
+(6. ?The Insider?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-04T20:42:35Z) Tj
+T*
+(Link: https://letterboxd.com/film/the-insider/) Tj
+T*
+(All this Sturm und Drang surrounding 60 Minutes has me thinking about a re-watch of The Insider) Tj
+T*
+(, Michael Mann?s great 1999 movie. Letterboxd?s synopsis: ?A research chemist comes under) Tj
+T*
+(personal and professional attack when he decides to appear in a 60 Minutes exposÈ on Big) Tj
+T*
+(Tobacco.? It?s a great movie, and feels apt AF at the moment. Here?s the original segment on 60) Tj
+T*
+(Minutes , which ran an entire half hour. What?s going on today is like if ? instead of getting) Tj
+T*
+(shady, threatening, and litigious ? the tobacco companies had just purchased CBS, purged the) Tj
+T*
+(staff at 60 Minutes, and hired a bunch of pro-cigarette stooges to replace them. ?) Tj
+T*
+() Tj
+T*
+(7. Anti-AI nostalgia and the cult of the past) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Thu, 04 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/anti-ai-nostalgia/) Tj
+T*
+(Programmers were better back in the day, weren?t they? Back when we had real programmers. Not) Tj
+T*
+(just people who got paid to write code, but people who lived it, who were obsessed with their) Tj
+T*
+(craft, and whose code was a lively expression of themselves. Hackers were hackers in those days) Tj
+T*
+(before money took over the industry. Don?t even get me started on LLMs. Could there be a better) Tj
+T*
+(example of today?s degenerate spirit? A machine to mass-produce software \(not good software,) Tj
+T*
+(just barely good enough\), so that the weak minds that dominate the industry can indulge their) Tj
+T*
+(obsession with quantity : of slop code, of features, and ultimately of money, which is the only) Tj
+T*
+(way they can understand value. If they weren?t destroying our way of life, they would be) Tj
+T*
+(pitiable. All of them together don?t have a fraction of the spiritual integrity of someone like) Tj
+T*
+(Mel . But as it is, we must band together to crush them and drive them from our industry like) Tj
+T*
+(the parasites they are. Returning to the past Okay, that?s not actually what I believe. But) Tj
+T*
+(there sure are a lot of posts 1 and comments on the internet that sound a bit like the) Tj
+T*
+(paragraph above. Here are some older quotes that might sound similar: ?the thi...) Tj
+T*
+() Tj
+T*
+(8. Rotation revisited: A shocking discovery about gcc?s unidirectional rotation algorithm) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 03 Jun 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378) Tj
+T*
+(We've seen this before. The post Rotation revisited: A shocking discovery about gcc?s) Tj
+T*
+(unidirectional rotation algorithm appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. The Latin of Linux) Tj
+T*
+(Source: John D. Cook | Published: Thu, 04 Jun 2026 20:12:11 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/) Tj
+T*
+(One reason people study Latin is that it is the ancestor of many modern languages. English) Tj
+T*
+(derives from West Germanic languages, not from Latin, but much of English vocabulary, perhaps) Tj
+T*
+(as much as 60%, derives from Latin, either directly or indirectly through French. Knowing a bit) Tj
+T*
+(of Latin makes sense of many things that would [?] The post The Latin of Linux first appeared) Tj
+T*
+(on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Integrating smooth periodic functions) Tj
+T*
+(Source: John D. Cook | Published: Thu, 04 Jun 2026 17:18:40 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/04/integrating-smooth-periodic-functions/) Tj
+T*
+(Several posts lately have looked at the function f\(x\) = cos\(sin\(x\) + x\). This post will look at) Tj
+T*
+(the function from a different angle. It?s a smooth function with period 2?, and it?s very flat) Tj
+T*
+(at odd multiples of ?, i.e. the first five derivatives are zero. For reasons I wrote about) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4035 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(here, this means that [?] The post Integrating smooth periodic functions first appeared on John) Tj
+T*
+(D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Partitions over permutations) Tj
+T*
+(Source: John D. Cook | Published: Thu, 04 Jun 2026 13:48:56 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/04/partitions-over-permutations/) Tj
+T*
+(I was thinking more about the cosine approximation to the Gaussian exp\(?z≤\) ? \(1 + cos\(sin\(z\) +) Tj
+T*
+(z\)\)/2 that I wrote about last week. The two expressions above are close along the real axis but) Tj
+T*
+(not along the imaginary axis. If z = iy, the right side grows much faster than the left,) Tj
+T*
+(behaving like exp\(exp\(y\)\). This led to [?] The post Partitions over permutations first appeared) Tj
+T*
+(on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Giving your Go apps Tigris superpowers) Tj
+T*
+(Source: Xe Iaso's blog | Published: Tue, 09 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://www.tigrisdata.com/blog/storage-sdk-go/) Tj
+T*
+(Tigris is S3-compatible, which means you can point the AWS SDK at it and most things just work.) Tj
+T*
+(The catch is that the Tigris-exclusive features?bucket forking, snapshots, object renaming, and) Tj
+T*
+(the like?need verbose workarounds because the AWS SDK doesn't know they exist. So we wrote a Go) Tj
+T*
+(SDK that does. It comes in two flavors: the storage package is a drop-in replacement for the) Tj
+T*
+(standard S3 client with first-class methods for the Tigris-specific operations, and) Tj
+T*
+(simplestorage is a higher-level client for the common single-bucket case that infers its) Tj
+T*
+(configuration from the environment so you stop passing the same parameters over and over. You) Tj
+T*
+(can adopt the Tigris features incrementally without refactoring your existing S3 code, and the) Tj
+T*
+(simpler API still works against other S3-compatible providers. I wrote up how it works and why) Tj
+T*
+(we built it over on the Tigris blog.) Tj
+T*
+() Tj
+T*
+(13. IPv6 zones in URLs are a mistake) Tj
+T*
+(Source: Xe Iaso's blog | Published: Fri, 05 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/notes/2026/ipv6-zones-go-url/) Tj
+T*
+(Run away while you still can, it's not too late for you to avoid the curse of knowledge.) Tj
+T*
+() Tj
+T*
+(14. Book Review: Accessible Communications by Lisa Riemers and Matisse Hamel-Nelis ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 04 Jun 2026 11:34:53 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-an) Tj
+T*
+(d-matisse-hamel-nelis/) Tj
+T*
+(My mate Lisa has written a book! Along with her pal Matisse, she takes us through the) Tj
+T*
+(practicalities of publishing communications which are accessible to all. This isn't just about) Tj
+T*
+(the theory - it takes us across multiple legal jurisdictions, ethical frameworks, and business) Tj
+T*
+(cases. Once it is done convincing you of the necessity of the work, it begins to explain how to) Tj
+T*
+(actually create useful?) Tj
+T*
+() Tj
+T*
+(15. London Data Store Relaunch) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 03 Jun 2026 11:34:49 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/) Tj
+T*
+(It has been sixteen years since the launch of data.london.gov.uk. Back then, it was a) Tj
+T*
+(trailblazer as one of the first major cities to release Open Data in this way. Now, over a) Tj
+T*
+(decade later, it is more than a mere repository; it is a celebration of Open Data and the way) Tj
+T*
+(it can improve Londoners' lives. So, time for a refresh front and back. As well as a bunch of) Tj
+T*
+(back-end updates, the front-end?) Tj
+T*
+() Tj
+T*
+(16. Using FourSquare's API to post location checkins to social media) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 02 Jun 2026 11:34:51 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-socia) Tj
+T*
+(l-media/) Tj
+T*
+(What is this, 2016? I like sharing my location with my pocket friends sometimes. If I'm in a) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4241 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(cool bar that they know, perhaps they can recommend a drink. If they live nearby, maybe they) Tj
+T*
+(want to come for dinner. Not everyone has FourSquare's SwarmApp, so it is handy to) Tj
+T*
+(automatically share its updates with other people. Of course, Swarm doesn't cross-post to) Tj
+T*
+(social media because walled-gardens?) Tj
+T*
+() Tj
+T*
+(17. "Sixteenth of a year", a 1.8 KiB art piece) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Wed, 03 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/sixteenth-of-a-year/) Tj
+T*
+(As I write this, we?re about 7 sixteenths through 2026, and it?s about 14 sixteenths through) Tj
+T*
+(the day. For the sixteenth issue of the Taper online magazine, I split time into sixteenths to) Tj
+T*
+(think about its passage in a different way. The code, which had to be under 2048 bytes, isn?t) Tj
+T*
+(terribly complex. It does some date math and uses a Go server for minification. If you want,) Tj
+T*
+(here?s the unminified source code . Go check out all the other entries from this issue ! My) Tj
+T*
+(favorites include "[SIC]" , ?Desperate Measures from a Dying Regime? , and "\(un\)done" . See) Tj
+T*
+(also: my previous Taper entry .) Tj
+T*
+() Tj
+T*
+(18. gittuf - a signed log for git refs) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-06-04T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html) Tj
+T*
+(Commit signatures are part of git. Branch protection isn?t. It?s a row in a database run by the) Tj
+T*
+(forge, checked by the forge?s API before accepting a push. Most of the interesting) Tj
+T*
+(source-repository attacks have landed in the gap between the two. What the forge enforces) Tj
+T*
+(Branch protection, required reviews, CODEOWNERS , merge queues, status checks, required) Tj
+T*
+(signatures: every one is administered by the forge, and none follow the repository when you) Tj
+T*
+(clone it. A server presenting the repository can serve whatever ref pointers it likes. The) Tj
+T*
+(rules can also be changed without any record in git. A flipped toggle in the settings page) Tj
+T*
+(disables required reviews for the time it takes to push a commit, and re-enables it after. The) Tj
+T*
+(only record sits in an audit log run by the same forge. In March 2021 someone pushed two) Tj
+T*
+(commits onto the self-hosted PHP git server , into php-src, falsely attributed to Rasmus) Tj
+T*
+(Lerdorf and Nikita Popov. The post-mortem points at the server itself, not at either) Tj
+T*
+(developer?s account. The project?s response was to stop running their own git server and move) Tj
+T*
+(canonical hosting to GitHub. Commit signing wouldn?t have stopped this on its own: the commits) Tj
+T*
+(weren?t signed, and n...) Tj
+T*
+() Tj
+T*
+(19. How Long Does It Take to Plan a Bridge?) Tj
+T*
+(Source: Construction Physics | Published: Thu, 04 Jun 2026 15:24:24 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/how-long-does-it-take-to-plan-a-bridge) Tj
+T*
+(Many folks, including me, have observed that it seems to take much longer to build) Tj
+T*
+(infrastructure in the US than it used to.) Tj
+T*
+() Tj
+T*
+(20. How To Read More) Tj
+T*
+(Source: Fernando Borretti | Published: Thu, 04 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://borretti.me/article/how-to-read-more) Tj
+T*
+(How text can outcompete the screen.) Tj
+T*
+() Tj
+T*
+(21. Using Safetensors with Flax) Tj
+T*
+(Source: Giles' blog | Published: Thu, 04 Jun 2026 23:30:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/06/flax-and-safetensors) Tj
+T*
+(I'm porting my PyTorch LLM code to JAX , using Flax as the neural network layer. For various) Tj
+T*
+(reasons I wanted to use Safetensors to store checkpoints of the model. It took a little while) Tj
+T*
+(to get it working; here's the trick I learned. If you look at the Safetensors docs, you'll see) Tj
+T*
+(that it doesn't mention a JAX implementation -- indeed, searching for "safetensors jax" at the) Tj
+T*
+(time I'm writing this gives you a link to this GitHub repo by Alvaro Bartolome -- which was) Tj
+T*
+(last updated in 2023. However, if you look more closely at the docs, they do have a link to the) Tj
+T*
+(Flax API . I feel this is somewhat misnamed, as it is actually a JAX API. There's no reference) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4441 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(\(again, as of the time of writing\) to Flax in the source -- it's all just JAX code. And in fact) Tj
+T*
+(Bartolome's library uses it under the hood. There is one problem, though. The API works with) Tj
+T*
+(simple single-level dictionaries, with strings mapping directly to JAX arrays. For example, the) Tj
+T*
+(save_file function has this signature: def save_file \( tensors : Dict [ str , Array ], filename) Tj
+T*
+(: Union [ str , os . PathLike ], metadata : Optional [ Dict [ str , str ]] = None , \) -> None) Tj
+T*
+(This can cause problems if you're not careful. If you look at th...) Tj
+T*
+() Tj
+T*
+(22. Pluralistic: Delusion as a service \(04 Jun 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 04 Jun 2026 06:42:39) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/03/mission-space/) Tj
+T*
+(Today's links Delusion as a service: Destructive diagnostics. Hey look at this: Delights to) Tj
+T*
+(delectate. Object permanence: Gay Days at Disney World; Parametric 3D printable key; Fine) Tj
+T*
+(against sculpture for "storing bike on public property"; TPP is a wash; Reagan was Trump;) Tj
+T*
+(Steampunk roadster; "Every Heart a Doorway"; Shoplifters x Tumblr; Amazon v mass arbitration;) Tj
+T*
+(Driver-owned Uber alternative; Censorware censors criticism of censorware; 3 strikes copyright) Tj
+T*
+(termination is illegal; Replacing al Qaeda bomb recipes with cakes; $10m grilled cheese) Tj
+T*
+(platform; Dick van Dyke x Bernie; Efficiency is inefficient; I quit. Upcoming appearances:) Tj
+T*
+(Kansas City, LA, Menlo Park, Toronto, NYC, Edinburgh, South Bend. Recent appearances: Where) Tj
+T*
+(I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I) Tj
+T*
+(said, I'll keep writin' 'em. Colophon: All the rest. Delusion as a service \(permalink\) In 2003,) Tj
+T*
+(Disney opened a new Epcot ride, "Mission: Space." Formally, it was a space travel sim that used) Tj
+T*
+(a giant, high-intensity centrifuge to simulate gee stresses; practically, it turned out to be) Tj
+T*
+(the most efficient machine ever created for surfacing previously undiagnosed heart defect...) Tj
+T*
+() Tj
+T*
+(23. Alex Imas and Phil Trammell ? What remains scarce after AGI?) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Thu, 04 Jun 2026 16:14:49 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/alex-imas-phil-trammell) Tj
+T*
+(?One robot now turns into many robots next year, but the number of ballerinas is the same.?) Tj
+T*
+() Tj
+T*
+(24. Modern C++ for C programmers: part 2) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 14 Jun 2018 20:26:28 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/cpp-2/) Tj
+T*
+(Welcome back! In part 1 I discussed how std::string and std::vector interoperate with C,) Tj
+T*
+(including with the C standard library qsort call. We also discovered that the C++ std::sort is) Tj
+T*
+(40% faster than C qsort because C++ is able to inline the comparison function. In this part we) Tj
+T*
+(continue with further C++ features that you can use to spice up your code ?line by line?,) Tj
+T*
+(without immediately having to use all 1400 pages of ?The C++ Programming Language?.) Tj
+T*
+() Tj
+T*
+(25. Modern C++ for C Programmers: part 1) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 13 Jun 2018 21:04:19 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/c++-1/) Tj
+T*
+(Welcome to part 1 of Modern C++ for C Programmers, please see the introduction for the goals) Tj
+T*
+(and context of this series. In this part we start with C++ features that you can use to spice) Tj
+T*
+(up your code ?line by line?, without immediately having to use all 1400 pages of ?The C++) Tj
+T*
+(Programming Language?. Various code samples discussed here can be found on GitHub. Relation) Tj
+T*
+(between C and C++ C and C++ are actually very close relatives, to the point that many compilers) Tj
+T*
+(have unified infrastructure for both languages.) Tj
+T*
+() Tj
+T*
+(26. Under-prepared Meetings) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 29 May 2018 19:13:46 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/meetings/) Tj
+T*
+(Ahhh.. meetings. The one old school company thing that survives in this agile, open-office,) Tj
+T*
+(?remote first?, nomadic worker world. And it is easy to see why: the ?meeting? is the last) Tj
+T*
+(guaranteed way to get everyone to pay attention for an hour, or at least, pretend to. It still) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 282 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(is rare for people to fake attending two meetings at the same time in any case. The late great) Tj
+T*
+(Andrew S. Grove, long time CEO of Intel and overall hero engineer, wrote the massively) Tj
+T*
+(important book High Output Management.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004766 00000 n 
+0000004892 00000 n 
+0000009383 00000 n 
+0000009509 00000 n 
+0000013596 00000 n 
+0000013722 00000 n 
+0000018016 00000 n 
+0000018144 00000 n 
+0000022638 00000 n 
+0000022766 00000 n 
+0000023100 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+23228
+%%EOF
