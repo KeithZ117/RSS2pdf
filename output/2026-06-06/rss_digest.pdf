@@ -1,0 +1,810 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 7 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4610 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-06 09:43:51) Tj
+T*
+() Tj
+T*
+(1. OpenAI Help: Lockdown Mode) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-05T23:56:40+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything) Tj
+T*
+(OpenAI Help: Lockdown Mode OpenAI first teased this in February , but now it's live and) Tj
+T*
+("rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve) Tj
+T*
+(ChatGPT Business accounts": Lockdown Mode is designed to help prevent the final stage of data) Tj
+T*
+(exfiltration from a prompt injection attack by limiting outbound network requests that could) Tj
+T*
+(transfer sensitive data to an attacker. Lockdown Mode does not prevent prompt injections from) Tj
+T*
+(appearing in the content ChatGPT processes. For example, a prompt injection could appear in) Tj
+T*
+(cached web content or in an uploaded file, and could still affect the behavior or accuracy of a) Tj
+T*
+(response. This looks really good to me. The Lethal Trifecta occurs when an LLM system has) Tj
+T*
+(access to all three of access to private data, exposure to untrusted content and a way to steal) Tj
+T*
+(data and transmit it back to the attacker. The only way to solve the trifecta is to cut off one) Tj
+T*
+(of the three legs, and by far the easiest leg to restrict without making your LLM systems far) Tj
+T*
+(less useful is the exfiltration vectors to steal data. It looks to me like lockdown mode) Tj
+T*
+(directly attacks that leg, using mechanisms that are deterministic and, crucially,...) Tj
+T*
+() Tj
+T*
+(2. Quoting Andreas Kling) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-05T11:10:05+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything) Tj
+T*
+(We will no longer accept public pull requests. [...] A substantial patch used to imply) Tj
+T*
+(substantial effort, and that effort was a reasonable proxy for good faith. That assumption no) Tj
+T*
+(longer holds. [...] Whether code was typed by hand is beside the point. What matters is who is) Tj
+T*
+(responsible for it once it enters the browser. Ladybird is becoming a browser for real users.) Tj
+T*
+(The people introducing changes to it must be the people who decide those changes belong in the) Tj
+T*
+(project, and who will answer for the consequences. ? Andreas Kling , Changing How We Develop) Tj
+T*
+(Ladybird Tags: ladybird , ai-ethics , open-source , generative-ai , ai , andreas-kling , llms) Tj
+T*
+() Tj
+T*
+(3. Nieman Journalism Lab: Twitter/X Punishes Accounts That Post Links) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-05T20:46:56Z) Tj
+T*
+(Link: https://www.niemanlab.org/2026/04/do-links-hurt-news-publishers-on-twitter-our-analysis-s) Tj
+T*
+(uggests-yes/) Tj
+T*
+(Laura Hazard Owen, writing for Nieman Journalism Lab back in April: I used Claude to help me) Tj
+T*
+(scrape the 200 most recent tweets from 18 large publishers? X accounts and track the engagement) Tj
+T*
+(\(likes + comments + retweets\) on each. Six of those publishers have paywalls: Bloomberg , CNN ,) Tj
+T*
+(Forbes , The New York Times , The Wall Street Journal , and The Washington Post . Nine don?t:) Tj
+T*
+(Al Jazeera English , AP , BBC , Breitbart News , CBS News , Daily Wire , Fox News , NBC News ,) Tj
+T*
+(and Reuters . The last three accounts I looked at ? Leading Report , unusual_whales, and Globe) Tj
+T*
+(Eye News ? are not news publishers, but aggregate breaking news in tweets without links. \(Here,) Tj
+T*
+(for example, is an example of a Leading Report tweet : ?BREAKING: Iran has halted direct talks) Tj
+T*
+(with the US, per WSJ.? They?re sometimes referred to as engagement-maxing accounts. These) Tj
+T*
+(charts make it pretty clear that links in tweets hurt engagement. The connection was so) Tj
+T*
+(apparent in my analysis that a graph including all 18 publishers is almost unreadable: The) Tj
+T*
+(traditional, link-loving publishers are clustered in the bottom left corner \(lots of links,) Tj
+T*
+(little engagement\) in a nearly indistinguishable mass of bubbles, no matter ho...) Tj
+T*
+() Tj
+T*
+(4. Elon Musk?s X Is a Freak Show) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-05T20:24:58Z) Tj
+T*
+(Link: https://www.natesilver.net/p/social-media-has-become-a-freak-show) Tj
+T*
+(Nate Silver, back in April, under the headline ?Social Media Is Turning Into a Freak Show?,) Tj
+T*
+(where by ?social media? he mostly discusses Twitter/X: But what does that remaining traffic) Tj
+T*
+(consist of? I recently came across a bubble chart depicting the Twitter accounts that had) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4799 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(received the most ?engagement? in February 2026. It was depressing: most of the top accounts) Tj
+T*
+(were extremely low-quality and highly partisan. I hadn?t even heard of many of them and only) Tj
+T*
+(follow a handful of the top accounts. So I tracked down the original data myself and, with help) Tj
+T*
+(from Claude, made my own improved version of the chart. Here, voil‡ , are the Twitter accounts) Tj
+T*
+(with the most engagement so far in 2026: It?s not hard to notice that Twitter has become) Tj
+T*
+(extremely right-leaning. But I?d argue there?s an equally important trend: the top accounts are) Tj
+T*
+(of incredibly low quality. Elon, with the algorithmic boost he built in for himself, is at the) Tj
+T*
+(eye of the storm, of course. But ?Catturd? literally gets far more engagement than the New York) Tj
+T*
+(Times, for instance. There?s a common argument from proponents of the Musk-era X that the only) Tj
+T*
+(problem is that left-leaning people have abandoned the platform. That the X a...) Tj
+T*
+() Tj
+T*
+(5. Checking in on Perplexity) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-05T15:26:29Z) Tj
+T*
+(Link: https://daringfireball.net/linked/2025/08/05/regarding-those-rumors-of-apple-pursuing-an-) Tj
+T*
+(acquisition-of-perplexity) Tj
+T*
+(Yours truly, last August: I can?t see why Apple would want to get involved with a company like) Tj
+T*
+(this though. Gurman?s report makes it sound like his sources are inside Apple, but man, this) Tj
+T*
+(?Apple + Perplexity? thing feels more like something Perplexity would be seeding than one that) Tj
+T*
+(Apple executives would be leaking. Perplexity is still occasionally in the news \(often not in) Tj
+T*
+(good ways \), but it seems to me they?ve slipped into the ?afterthought? tier of AI startups ?) Tj
+T*
+(which is exactly why they started leaning into clownish stunts last year . Everyone who) Tj
+T*
+(previously suggested Apple should ? or even might ? buy them has gone silent. ?) Tj
+T*
+() Tj
+T*
+(6. Why all the PRs?) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Fri, 05 Jun 2026) Tj
+T*
+(23:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/why-all-the-prs) Tj
+T*
+(It's a signal. That's why we get AI-generated PRs. We told everyone, in order to get your) Tj
+T*
+(resume taken seriously, you need to show your work. When I was getting started in my career,) Tj
+T*
+(that meant having your own website that you contribute to regularly. So I did that. I built) Tj
+T*
+(websites, I maintained them. I kept maintaining them even after I got the jobs because that's) Tj
+T*
+(how I actually honed my web programming skills. Where else was I going to try new frameworks, a) Tj
+T*
+(new JavaScript paradigm, or try out Ruby on rails? I got the job, and I advised other) Tj
+T*
+(developers to follow the same path. But then github became mainstream. Rather than just show a) Tj
+T*
+(finished website, you could actually share the code that runs your project. Share a link to) Tj
+T*
+(your github project and companies can review your code and directly gauge your experience. But) Tj
+T*
+(even better, you can show your contribution to open source projects. Not just any projects.) Tj
+T*
+(Popular projects. The github stars became a metric people look for. A signal that can be used) Tj
+T*
+(to quickly assign a value to a candidate. But that?s the story told from the outside. I don?t) Tj
+T*
+(think the github profile link was ever important, unless it was significantly good. Em...) Tj
+T*
+() Tj
+T*
+(7. Now that your newsletter is AI-generated, I've Unsubscribed) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Wed, 03 Jun 2026) Tj
+T*
+(21:10:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters) Tj
+T*
+(I've remained subscribed to some newsletters for over 20 years. The authors managed to keep my) Tj
+T*
+(attention all that time. But then, one day, they decided to switch to an AI-generated) Tj
+T*
+(newsletter without making any announcement. After a couple of weeks of blue high-tech image) Tj
+T*
+(thumbnails, I simply hit unsubscribe. Here's what happened: a person earned my trust. He) Tj
+T*
+(maintained that trust for all those years. But then he thought the best way to improve was to) Tj
+T*
+(take himself out of the equation. If you're just going to present me with prompt-generated) Tj
+T*
+(content, I hate to break it to you but I have access to ChatGPT, and I can do that myself. The) Tj
+T*
+(reason the human voice matters to me is because there's real experience behind the words. The) Tj
+T*
+(oldest newsletter in my inbox is from when I was just 12 years old. It was from a French writer) Tj
+T*
+(I used to read. After a decade of following him, the emails stopped coming. I was only reminded) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4603 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(a few years later, when the emails started coming back. I didn't jump on it immediately. I) Tj
+T*
+(didn't even remember who it was. But when I read one at random, the words were different, the) Tj
+T*
+(tone was nostalgic, and the name was unfamiliar. I dug deeper and found that the autho...) Tj
+T*
+() Tj
+T*
+(8. The web is changing, and we are not going back) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Mon, 01 Jun 2026) Tj
+T*
+(19:34:37 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/web-is-changing-we-are-not-going-back) Tj
+T*
+(Whenever I saw someone type a natural language query into Google, it made me cringe. "It's not) Tj
+T*
+(a person," I would say. "Type like you're talking to a machine." This was especially true for) Tj
+T*
+(programmers and it was before AI took over everything. Instead of "how do I write a function) Tj
+T*
+(that reads a file?", I would suggest they use specific keywords, something that sounded more) Tj
+T*
+(like machine language than conversation. "js function to read csv file" or "css gradient) Tj
+T*
+(background property example." This got you better results. Even though Google was a) Tj
+T*
+(sophisticated search engine, it was still doing a kind of keyword matching under the hood. But) Tj
+T*
+(not anymore. You don't get any advantage from writing in "machine language." Google understands) Tj
+T*
+(natural language just as well. In fact, even better. How is it that in 2026, I Google things) Tj
+T*
+(less than ever? It's not that I know everything now. It's more that I don't want to call the) Tj
+T*
+(friend who always talks too much. If the height of the Eiffel Tower ever comes up in) Tj
+T*
+(conversation, I'll type "eiffel tower wiki" and click through to Wikipedia. I don't want to) Tj
+T*
+(have a conversation about it. Googling something these days feels like Google is trying to join) Tj
+T*
+(m...) Tj
+T*
+() Tj
+T*
+(9. I tested every IP KVM in my Homelab) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 05 Jun 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/) Tj
+T*
+(Since the PiKVM came out in 2017, there's been an explosion of IP KVMs. I've tested almost) Tj
+T*
+(every one . But what are they good for? You can use Remote Desktop, Screen Sharing, or VNC to) Tj
+T*
+(remote control a computer from anywhere on a LAN. And if you don't have a private VPN, you) Tj
+T*
+(could use RealVNC , Raspberry Pi Connect , or wire up Tailscale or Pangolin for fully remote) Tj
+T*
+(access. Those solutions are great, and so is SSH if you don't need a full desktop.) Tj
+T*
+() Tj
+T*
+(10. Mr. Bessel?s eponymous functions) Tj
+T*
+(Source: John D. Cook | Published: Fri, 05 Jun 2026 12:04:28 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/) Tj
+T*
+(Yesterday I wrote a post showing that the trapezoid rule evaluates the integral very) Tj
+T*
+(efficiently. But how do we know what the exact integral is for comparison? If you ask) Tj
+T*
+(Mathematica, it will tell you the integral equals ?2? J1\(1\) where J1 is a Bessel function. This) Tj
+T*
+(may seem like rabbit out of a hat, [?] The post Mr. Bessel?s eponymous functions first appeared) Tj
+T*
+(on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. It seems unlikely that I'll have basic ARM servers to deal with) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-05T23:52:32Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/ArmBasicServersSeemUnlikely) Tj
+T*
+(At work, we have a lot of basic servers. These basic servers are 1U rack servers, with) Tj
+T*
+(unexciting amounts of disk bays, RAM, and CPU performance, because we buy them to do) Tj
+T*
+(straightforward jobs \(for example, much of our mail system hardware is basic servers \). Right) Tj
+T*
+(now, these are all x86 machines, but like a lot of people I'd love it if the x86 architecture) Tj
+T*
+(had real competition \(even if returning to the days of a multi-architecture Unix environment) Tj
+T*
+(wouldn't necessarily be fun\). However, these days I don't think we're likely to see basic 1U) Tj
+T*
+(ARM servers that we're interested in, and why that is comes down to modern hardware and modern) Tj
+T*
+(basic server power usage. At this point, the largest hardware difference between a reasonably) Tj
+T*
+(performing basic x86 server and a reasonably performing basic ARM server will be the CPU \(and) Tj
+T*
+(surrounding chipset\). Everyone uses the same RAM, the same PCIe busses, and quite possibly the) Tj
+T*
+(same supporting chips for things like Ethernet and so on. And everyone is going into the same) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4835 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(rack form factor 1U boxes with very similar power supplies and physical sizes. My impression is) Tj
+T*
+(that at the basic end, a comparably performing ARM server CPU is going to cost about...) Tj
+T*
+() Tj
+T*
+(12. The Emacs packages that I use \(as of June 2026\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-04T19:10:06Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsPackages-2026-06) Tj
+T*
+(My Emacs configuration seems to have more or less settled down again after a flurry of changes,) Tj
+T*
+(so it's time to update my previous list of Emacs packages that I use , so that I can come back) Tj
+T*
+(to this entry later and see how things have changed over time. A bunch of things haven't) Tj
+T*
+(changed since last time so I'm going to put the unchanged stuff at the bottom. Currently I'm) Tj
+T*
+(using Emacs 30.2 everywhere so some of the things I'm mentioning here are now built in, which) Tj
+T*
+(is why I'm not restricting this to third party packages. As before I'm going to exclude) Tj
+T*
+(dependencies that are automatically installed by the Emacs package system \(since I don't use) Tj
+T*
+(them, I just have them around in the background\). In no particular order: In text-mode, I use) Tj
+T*
+(Flyspell \( although there's a gotcha there \). I've turned off Flyspell's default binding to) Tj
+T*
+(M-TAB, because I find Flyspell basically useless for actually correcting words. Almost all of) Tj
+T*
+(what I use Flyspell for is simply marking words it thinks are misspelled or mistakes so I can) Tj
+T*
+(spot them \(and then fix them by hand\). I now use Eglot as my LSP server environment , which is) Tj
+T*
+(built in to GNU Emacs. I use LSP servers for Go , Python , shell programming, and...) Tj
+T*
+() Tj
+T*
+(13. Install-script allowlists) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-06-05T12:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/06/05/install-script-allowlists.html) Tj
+T*
+(In most package managers a dependency?s install-time code runs by default the moment you) Tj
+T*
+(install it: an npm postinstall, a Setuptools setup.py , a CPAN Makefile.PL , an RPM scriptlet,) Tj
+T*
+(a Conda post-link, a Debian postinst . A handful require explicit per-package opt-in before any) Tj
+T*
+(of that code runs, usually called an allowlist or a trusted-dependencies list depending on the) Tj
+T*
+(tool. Per-package opt-in lists name which dependencies may run their install code: npm, pnpm,) Tj
+T*
+(Bun, Deno, and Composer plugins all work this way. Global sandboxes \(opam, Swift Package) Tj
+T*
+(Manager, Nix, Guix, Portage\) take a different shape, executing everything but constraining what) Tj
+T*
+(that execution can reach. Identity and signature verification \(RubyGems trust policies, Gradle) Tj
+T*
+(dependency verification, NuGet trustedSigners, apt-secure\) gates which artifacts get installed) Tj
+T*
+(in the first place by who signed them, with no bearing on what their code subsequently does. An) Tj
+T*
+(npm postinstall, a setup.py, a Makefile.PL or an RPM scriptlet fires during fetch or unpack. A) Tj
+T*
+(Cargo build.rs or a Zig build.zig runs when the project is compiled, which on a fresh build is) Tj
+T*
+(functionally the next step but is structurally distinct. JVM build fi...) Tj
+T*
+() Tj
+T*
+(14. JAX backends and devices) Tj
+T*
+(Source: Giles' blog | Published: Fri, 05 Jun 2026 19:30:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/06/jax-backends-and-devices) Tj
+T*
+(There's nothing like writing your own code with a framework to clarify how things fit together!) Tj
+T*
+(Continuing with my port of my PyTorch LLM code to JAX , I wanted to load up a large dataset:) Tj
+T*
+(the 10,248,871,837 16-bit unsigned integers in the train split of gpjt/fineweb-gpt2-tokens .) Tj
+T*
+(That's just over 19GiB of data. from safetensors.flax import load_file ... full_dataset =) Tj
+T*
+(load_file \( dataset_dir / f "train.safetensors" \)[ "tokens" ] When I ran that, I got a CUDA) Tj
+T*
+(out-of-memory error: jax.errors.JaxRuntimeError: RESOURCE_EXHAUSTED: Out of memory while trying) Tj
+T*
+(to allocate 19.09GiB. That makes sense! The allocation it was trying to do is exactly the size) Tj
+T*
+(of the data I was trying to load. I have an RTX 3090 with 24 GiB, but some is already used up) Tj
+T*
+(by the OS, various apps, and a model that the code creates earlier on. But in PyTorch land, I) Tj
+T*
+(was used to things being loaded into RAM by default, and only moved over to the GPU when I) Tj
+T*
+(asked it to do that. JAX was clearly loading to the GPU by default. How could I stop it from) Tj
+T*
+(doing that for this case? The load into the GPU was happening inside Safetensors, in code I) Tj
+T*
+(couldn't directly control. Understanding how to do it helped me understand a lit...) Tj
+T*
+() Tj
+T*
+(15. In pursuit of desirable difficulties) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4487 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Westenberg. | Published: Sat, 06 Jun 2026 01:14:14 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/) Tj
+T*
+(The psychologist Robert Bjork called them desirable difficulties. Learning sticks better when) Tj
+T*
+(practice is made harder, rather than easier. Students who have to struggle to retrieve an) Tj
+T*
+(answer remember it longer - and clearer - than students who are handed the same answer with) Tj
+T*
+(minimal effort on their part. The) Tj
+T*
+() Tj
+T*
+(16. AI-indecision is a recursive trap. Don't get stuck.) Tj
+T*
+(Source: Westenberg. | Published: Fri, 05 Jun 2026 04:06:59 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/) Tj
+T*
+(Jean Buridan was a 14th-century French philosopher and logician who twice served as rector of) Tj
+T*
+(the University of Paris. His subject was the will, and he made an austere claim: the will) Tj
+T*
+(follows the intellect. Show a rational creature the greater good and it'll pick the greater) Tj
+T*
+(good.) Tj
+T*
+() Tj
+T*
+(17. Premium: The Hater's Guide To The AI Bubble 3.0) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 05 Jun 2026 15:57:04 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-the-haters-guide-to-the-ai-bubble-3-0/) Tj
+T*
+(Last year I wrote one of my favourite pieces ever ? The Hater?s Guide To The AI Bubble ? and) Tj
+T*
+(followed it up with The Hater?s Guide To The AI Bubble Volume 2 several months later. Sadly,) Tj
+T*
+(I?ve realized ?volume? is a) Tj
+T*
+() Tj
+T*
+(18. Pluralistic: Refining humanity \(05 Jun 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 05 Jun 2026 20:49:39) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/05/defining-humanity/) Tj
+T*
+(Today's links Refining humanity: What our technology is shows us what we're not. Hey look at) Tj
+T*
+(this: Delights to delectate. Object permanence: GNU Radio; France v "follow us on Twitter";) Tj
+T*
+(Aaronsw vindicated; Capitalism's crooked refs. Upcoming appearances: Kansas City, LA, Menlo) Tj
+T*
+(Park, Toronto, NYC, Edinburgh, South Bend. Recent appearances: Where I've been. Latest books:) Tj
+T*
+(You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Refining humanity \(permalink\) One of the best ways to evaluate your own) Tj
+T*
+(understanding of a subject is to attempt to explain it to someone else. Through explaining) Tj
+T*
+(things, we discover how much of the "totally obvious" world is actually full of ambiguity,) Tj
+T*
+(mystery and contradiction. There's a great bit in Rowan Atkinson's historical sitcom Blackadder) Tj
+T*
+(that illustrates this principle. In "Ink and Incapability" Blackadder and friends have) Tj
+T*
+(accidentally burned the only copy of Samuel Johnson's original dictionary of the English) Tj
+T*
+(language. To cover up their mistake, they decide that they will recreate the dictionary) Tj
+T*
+(themselves. However, they founder on the first word they try to define, "A": Blackadder:) Tj
+T*
+(Let's...) Tj
+T*
+() Tj
+T*
+(19. Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache,) Tj
+T*
+(and why content negotiation will eventually betray you) Tj
+T*
+(Source: IT Notes | Published: Fri, 05 Jun 2026 08:44:00 +0000) Tj
+T*
+(Link: https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/) Tj
+T*
+(I have written before about putting a cache in front of snac , and more recently about the) Tj
+T*
+(HAProxy layer in front of FediMeteo . The general idea is always the same: the reverse proxy) Tj
+T*
+(should absorb the repetitive, public work that has no business reaching the application server.) Tj
+T*
+(This post is the same idea applied to a much louder neighbour: a Mastodon instance. The) Tj
+T*
+(instance is mastodon.bsd.cafe , the proxy is nginx on FreeBSD, and the configuration below is) Tj
+T*
+(what I am currently running in production. Mastodon is heavier than snac in every direction. It) Tj
+T*
+(has Puma and Sidekiq behind it, more endpoints, more streaming, more federation patterns, and) Tj
+T*
+(one specific characteristic that complicates everything: it serves multiple representations on) Tj
+T*
+(the same URLs. The same path returns HTML to a browser, ActivityPub JSON to a remote instance,) Tj
+T*
+(and sometimes plain JSON to an API client. If the proxy treats the URL as one thing, sooner or) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4360 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(later it will return the wrong thing to the wrong client. Most of the work below comes from) Tj
+T*
+(that single observation. If I had to summarize this whole post in a single sentence, it would) Tj
+T*
+(be this: Mastodon is not a website. It is a website, an API, and an Activity...) Tj
+T*
+() Tj
+T*
+(20. The Giant's Cup) Tj
+T*
+(Source: Herman's blog | Published: 2026-06-05T08:31:20.644159+00:00) Tj
+T*
+(Link: https://herman.bearblog.dev/the-giants-cup/) Tj
+T*
+(I recently completed my first long trail race, set in the Southern Drakensberg mountains with) Tj
+T*
+(Emma, my siblings and their partners. It spanned 2 days with 30km on the first, and 15km on the) Tj
+T*
+(second, winding through valleys and around mountains. It was spectacular. I love coming to the) Tj
+T*
+(Drakensberg, which is a beautiful and unique mountain range, and I'm glad to have the excuse to) Tj
+T*
+(be here. While I'm generally an active person, I've never been a runner. My first proper run) Tj
+T*
+(\(more than 3km\) was in January this year after my brother twisted my \(and Emma's\) arm into) Tj
+T*
+(signing up for this race. Since this was not a trivial distance, it meant I couldn't just wing) Tj
+T*
+(it on my base fitness, and so Emma and I started running 2-3 times a week in preparation. We) Tj
+T*
+(had 15 weeks until the event and settled on a fairly simple training plan: Run 5km each) Tj
+T*
+(Wednesday, usually on the Sea Point Prominade, while increasing the speed gradually each week) Tj
+T*
+(\(it took me a few weeks to get to the initial 5km though\) Longer trail runs on the weekend,) Tj
+T*
+(generally on Table Mountain or in the Cape Winelands, increasing distance by about 1km each) Tj
+T*
+(week Hop on the treadmill at a reasonably fast pace for about 20 minutes after g...) Tj
+T*
+() Tj
+T*
+(21. Spectre & Meltdown: tapping into the CPU's subconscious thoughts) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 06 Jan 2018 10:34:05 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/spectre-meltdown/) Tj
+T*
+(Comments are very welcome on bert@hubertnet.nl or @bert_hu_bert. Update: several constructive) Tj
+T*
+(remarks have been used to improve this text. Thanks! In this post I will attempt to fully) Tj
+T*
+(explain the Spectre and Meltdown vulnerabilities in an accessible way. I decided to write it up) Tj
+T*
+(after I realised it took me more than a day to figure it out, even though I?ve been doing) Tj
+T*
+(security related stuff on CPUs for 20 years.) Tj
+T*
+() Tj
+T*
+(22. Kolmo) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 24 Oct 2017 10:24:57 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/kolmo/) Tj
+T*
+(Welcome to Kolmo There are three avenues to learn about Kolmo \(GitHub\). There are two Youtube) Tj
+T*
+(videos, one from the most excellent NLNOG 2017, the other from the equally excellent UKNOF 38.) Tj
+T*
+(These videos explain a lot of the the history and the ?why? behind Kolmo. There is also the) Tj
+T*
+(kolmo.org website, which is ?self-hosted? by the ws Kolmo-powered webserver. Finally, there is) Tj
+T*
+(this post, in which I focus on what Kolmo actually does, without spending much time on the) Tj
+T*
+(?why? or the history.) Tj
+T*
+() Tj
+T*
+(23. Some brief notes on making ethernet cables) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 30 Sep 2017 20:07:40 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/ethernet-cables/) Tj
+T*
+(Some brief notes on making ethernet cables With thanks to the most excellent NLNOG for a lot of) Tj
+T*
+(mostly correct advice! Friends will tell you ?crimping? ethernet cables is easy. Most of your) Tj
+T*
+(friends either have overly rosy memories, or have practiced on 200 cables before telling you it) Tj
+T*
+(is now easy. It is not easy. This page is for if you have a few extra euros/dollars/coins to) Tj
+T*
+(spare, and don?t want to spend rare hours of concentrated effort to crimp an ethernet cable) Tj
+T*
+(using unfamiliar equipment and supplies.) Tj
+T*
+() Tj
+T*
+(24. The back cover of C++: The Programming Language also raises questions not answered by) Tj
+T*
+(the front cover) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 05 Jun 2026 14:00:01 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391) Tj
+T*
+(Not doing the reading. The post The back cover of C++: The Programming Language also raises) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 1017 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(questions not answered by the front cover appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(25. Rotation revisited: Avoiding having to calculate the gcd when doing cycle) Tj
+T*
+(decomposition) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 05 Jun 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389) Tj
+T*
+(Math is hard. Let's go counting! The post Rotation revisited: Avoiding having to calculate the) Tj
+T*
+(gcd when doing cycle decomposition appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(26. Rotation revisited: Cycle decomposition in clang?s libcxx) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 04 Jun 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260604-00/?p=112384) Tj
+T*
+(Rotating in the minimum number of steps by performing cycle decomposition. The post Rotation) Tj
+T*
+(revisited: Cycle decomposition in clang?s libcxx appeared first on The Old New Thing .) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000161 00000 n 
+0000000231 00000 n 
+0000004893 00000 n 
+0000005019 00000 n 
+0000009870 00000 n 
+0000009996 00000 n 
+0000014651 00000 n 
+0000014777 00000 n 
+0000019665 00000 n 
+0000019793 00000 n 
+0000024333 00000 n 
+0000024461 00000 n 
+0000028874 00000 n 
+0000029002 00000 n 
+0000030072 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+30200
+%%EOF
