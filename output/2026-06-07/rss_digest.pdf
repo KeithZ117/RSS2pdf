@@ -1,0 +1,632 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4405 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-07 09:48:42) Tj
+T*
+() Tj
+T*
+(1. Halide Mark III) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-07T00:49:15Z) Tj
+T*
+(Link: https://www.lux.camera/halide-mark-iii/) Tj
+T*
+(Ben Sandofsky, writing on the Lux Camera blog: After decades of shooting digital, I returned to) Tj
+T*
+(analog photography in 2023. I thought it would be challenging, given the limited selection of) Tj
+T*
+(film stocks, only to be surprised by how freeing it felt. It felt so much better to have a) Tj
+T*
+(handful of amazing choices rather than photo-editor with thousands of presets. We owe that to) Tj
+T*
+(film engineers who spent years developing versatile film stocks that work in a variety of) Tj
+T*
+(situations. Inspired by ?Less, but better,? we partnered with the renowned Hollywood colorist) Tj
+T*
+(Cullen Kelly to develop a succinct set of gorgeous, physically accurate processes exclusive to) Tj
+T*
+(Halide. Each look was engineered with a specific intent. We verified every look thousands of) Tj
+T*
+(times on real-world reference photos. Put another way: every look is a banger. Halide has) Tj
+T*
+(always been a great ? maybe the great ? iPhone camera app for shooting RAW, with the intention) Tj
+T*
+(of developing your images by hand in post. It?s a great camera technically and a great app) Tj
+T*
+(UI-wise. Mark II introduced Process Zero , which, in their own description, ?uses zero AI and) Tj
+T*
+(zero computational photography to produce beautiful, film-like natural photos?. Pr...) Tj
+T*
+() Tj
+T*
+(2. 60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at) Tj
+T*
+(Show) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-06T20:04:06Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.) Tj
+T*
+(html?unlocked_article_code=1.oFA.xooG.Pz8cQv8odz7Z) Tj
+T*
+(Lesley Stahl, Bill Whitaker, and Jon Wertheim, in a memo to the 60 Minutes staff obtained by) Tj
+T*
+(The New York Times \(gift links\): We have had a hard time deciding whether to stay at 60) Tj
+T*
+(Minutes. We?re still deeply upset by the firings of Tanya and Draggan, strong leaders who) Tj
+T*
+(everyone respected. As far as we can tell ? because no explanation has ever been offered, they) Tj
+T*
+(were expelled because they fought for our 60 Minutes values and stood up to protect our) Tj
+T*
+(independence and integrity. Newsrooms are not supposed to be run like dictatorships.) Tj
+T*
+(Collaboration and argument are the way we have always worked at 60. Don Hewitt actually) Tj
+T*
+(encouraged loud passionate advocacy for our pieces. [...] We feared that our returning might be) Tj
+T*
+(construed as an endorsement of the existing power structure. That is simply, categorically not) Tj
+T*
+(the case. Here?s why we?re are staying: We don?t want to see 60 Minutes die. We?ll see how long) Tj
+T*
+(this lasts. ?) Tj
+T*
+() Tj
+T*
+(3. Trump Lawyer Argues Trump Can Tear Down Statue of Liberty) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-06T19:56:01Z) Tj
+T*
+(Link:) Tj
+T*
+(https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer) Tj
+T*
+(Josh Marshall: In a hearing today about the president?s bulldozing of the East Wing of the) Tj
+T*
+(White House and plans to build a vast ballroom, a judge asked if the president could also) Tj
+T*
+(bulldoze the Statue of Liberty and be subject to no legal challenge. The DOJ lawyer, Yaakov) Tj
+T*
+(Roth, said that yes, President Trump could decide tomorrow to bulldoze the Statue of Liberty) Tj
+T*
+(and no one could stop him. It was a good question from DC Court of Appeals Judge Patricia) Tj
+T*
+(Millett since it brings the arguments and their implications clearly into the open. Reframe the) Tj
+T*
+(question and the absurdity of this proposition becomes even more clear. If you hire someone to) Tj
+T*
+(administer your estate, can they burn down the buildings on your estate or chop it up into) Tj
+T*
+(parcels and sell it off? Presumably not. You hired them to run it, not to destroy it or sell) Tj
+T*
+(it. It?s not theirs. They were hired for a specific task. That person is your employee. The) Tj
+T*
+(president is hired to administer the country and enforce its laws for four years. He doesn?t) Tj
+T*
+(own the country or its properties. Pathetic lickspittles, one and all. ?) Tj
+T*
+() Tj
+T*
+(4. micropython-wasm 0.1a2) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4823 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Simon Willison's Weblog | Published: 2026-06-06T04:26:06+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything) Tj
+T*
+(Release: micropython-wasm 0.1a2 I added a CLI to micropython-wasm \( issue #7 \), inspired by the) Tj
+T*
+(first draft of the blog entry when I realized it would be a great way to illustrate the Try it) Tj
+T*
+(yourself section. Tags: python , sandboxing , webassembly , micropython) Tj
+T*
+() Tj
+T*
+(5. Running Python code in a sandbox with MicroPython and WASM) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-06T03:53:34+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything) Tj
+T*
+(I've been experimenting with different approaches to running code in a sandbox for several) Tj
+T*
+(years now, but my latest attempt feels like it might finally have all of the characteristics) Tj
+T*
+(I've been looking for. I've released it as an alpha package called micropython-wasm , and I'm) Tj
+T*
+(using it for a code execution sandbox plugin for Datasette Agent called) Tj
+T*
+(datasette-agent-micropython . Why do I want a sandbox? What I want from a sandbox WebAssembly) Tj
+T*
+(looks really promising here MicroPython in WebAssembly Building the first version Try it) Tj
+T*
+(yourself Should you trust my vibe-coded sandbox? Why do I want a sandbox? My key open source) Tj
+T*
+(projects - Datasette , LLM , even sqlite-utils - all support plugins. I absolutely love plugins) Tj
+T*
+(as a mechanism for extending software. A carefully designed plugin system reduces the risk) Tj
+T*
+(involved in trying new things to almost nothing - even the wildest ideas won't leave a lasting) Tj
+T*
+(influence on the core application itself. My software can grow a new feature overnight and I) Tj
+T*
+(don't even have to review a pull request! There's one major drawback: my plugin systems all use) Tj
+T*
+(Python and Pluggy , and plugin code executes with full privileges within my applications. A) Tj
+T*
+(buggy or m...) Tj
+T*
+() Tj
+T*
+(6. Communities of Not) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-06-06T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/6/6/communities-of-not/) Tj
+T*
+(There is a strange thing that happens in communities that gather around abstinence from) Tj
+T*
+(something: identity from opposition. At their best these communities are not just negative:) Tj
+T*
+(childfree spaces can be about autonomy, choice and acceptance, anti-car spaces about safer) Tj
+T*
+(streets and transit, and LLM-skeptical developer spaces about the future of labor, code quality) Tj
+T*
+(and slop 1 . But the thing being refused often does not go away and instead becomes the main) Tj
+T*
+(subject of the community?s identity. That would be fine if it stayed at criticism, maybe even) Tj
+T*
+(angry criticism, but more often than not it turns into policing and hatred towards others. An) Tj
+T*
+(influencer without children becomes a parent, an urban bike commuter by choice buys a Porsche,) Tj
+T*
+(a respected developer tries LLMs, and the community feels betrayed because it assumed they were) Tj
+T*
+(members of the same tribe. The expulsion of that person \(who never signed up to be a community) Tj
+T*
+(member\) is entirely imaginary but the punishment that the community unleashes is not: people) Tj
+T*
+(pile on and shame them, quote them out of context and turn their weakest moments into proof) Tj
+T*
+(that the person was always unserious, a sharlatan or should not be listened to....) Tj
+T*
+() Tj
+T*
+(7. How Many Tokens Did You Burn Today) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Wed, 27 May 2026) Tj
+T*
+(00:31:22 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/how-many-tokens-did-you-burn-today) Tj
+T*
+(Early in my career, a manager at one of the big firms where I worked made a request so absurd) Tj
+T*
+(it remains etched in my memory. I walked back to the team, repeated what he had asked, and) Tj
+T*
+(couldn't finish the story without laughing. He wanted me to create a pie chart, of lines of) Tj
+T*
+(code, per developer, per week. We all lost it. Our lead developer asked if, by any chance, the) Tj
+T*
+(manager's eyes looked glassy. We laughed even harder. Because yes. Yes, they did. He was always) Tj
+T*
+(high. That was twenty years ago. I've repeated that story countless times, and it always drew) Tj
+T*
+(chuckles as we discussed the disconnect between software teams and management. Any software) Tj
+T*
+(engineer could relate. We all knew that lines of code were a meaningless metric. A junior could) Tj
+T*
+(write a thousand lines of spaghetti. A senior could fix the same problem with forty elegant) Tj
+T*
+(ones. But then, last week, I found my name at the top of a leaderboard. My employer had been) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4626 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(exploring productivity tools and trialed one they thought would be useful. After the trial,) Tj
+T*
+(they were quoted $500k a year. The tool tracked developer productivity and integrated with) Tj
+T*
+(Atlassian products, Microsoft, and many other services we used. The price was too...) Tj
+T*
+() Tj
+T*
+(8. Amber Alert sends Spam URL?) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Tue, 26 May 2026) Tj
+T*
+(03:25:17 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/amber-alert-with-spam-link) Tj
+T*
+(Well that was weird. I just received an Amber Alert and the link led to a spammy looking) Tj
+T*
+(website. Spam? The link leads to a 3gp file converter which is highly unusual. But the more I) Tj
+T*
+(look at it, I have the impression it's a mistake. Most likely, they have exceeded the maximum) Tj
+T*
+(number of characters for the Emergency Service alert. Here is the message: AN AMBER ALERT HAS) Tj
+T*
+(BEEN ACTIVATED BY THE CALIFORNIA HIGHWAY PATROL. DALEZA FREGOSO WAS LAST SEEN ON MAY 24, 2026) Tj
+T*
+(AT 0400 HOURS IN LOS ANGELES COUNTY. THE SUSPECT VEHICLE IS A WHITE 2019 WHITE LAND ROVER) Tj
+T*
+(DISCOVERY CA 9DAW715. CLICK ON THE LINK FOR ADDITIONAL INFORMATION. https://bit.ly/A0 It seems) Tj
+T*
+(like the total character count is 288. I'm not sure if the title should be included but if I) Tj
+T*
+(add Child abduction \(Amber alert\) and the double space after, then we have 320 characters. Is) Tj
+T*
+(this the character limit for emergency services? When I clicked on it, it took me to the bitly) Tj
+T*
+(preview page: And clicking on the continue to destination button, I'm taken here: Suspicious) Tj
+T*
+(Link I was starting to wonder if this was even a real Amber alert, and if somehow this was a) Tj
+T*
+(spam message that was sent through. But unfortunately, it is a real amber alert,...) Tj
+T*
+() Tj
+T*
+(9. The commencement speech that shook the world) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Sat, 23 May 2026) Tj
+T*
+(01:14:24 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/the-commencement-speech-that-shook-the-world) Tj
+T*
+(There he was, the man at the helm of innovation. Eric Schmidt, the former CEO of Google. The) Tj
+T*
+(man who once said, google doesn't need to record your conversation, it already knows everything) Tj
+T*
+(about you. Yet he didn't see this one coming. In his speech, he looked clear-eyed into the) Tj
+T*
+(crowd of graduates and told them that AI is inevitable. There was a group of people who will) Tj
+T*
+(have a hard time joining the workforce. Companies keep using AI as the excuse for laying off) Tj
+T*
+(workers. Dario keeps telling us by next year, AI will take over all jobs and there is nothing) Tj
+T*
+(we can do. They will have nothing, and they better embrace it and be happy. Well, they will) Tj
+T*
+(have a school loan, but that?s it. If you were an external observer, maybe an alien watching) Tj
+T*
+(humanity from a distance, you would think that AI is a new species that emerged from a lake and) Tj
+T*
+(is taking over the world. You would never tell that the people spreading this fear are also the) Tj
+T*
+(ones selling the tool that they swear will turn us all into gods. It's not just a capable tool) Tj
+T*
+(that can be useful for coding, writing, and retrieving existing information. No. It's the word) Tj
+T*
+(itself. The all or nothing. The alpha and the omega. And it comes as a m...) Tj
+T*
+() Tj
+T*
+(10. From Kepler to Bessel) Tj
+T*
+(Source: John D. Cook | Published: Sat, 06 Jun 2026 18:46:02 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/) Tj
+T*
+(The previous post very briefly said that the integral representation for Bessel functions was) Tj
+T*
+(motived by solving Kepler?s equation. This post will go into more detail. Kepler?s equation) Tj
+T*
+(There are multiple ways to describe the position of a planet in an elliptical orbit around a) Tj
+T*
+(star. For historical reasons, these descriptions have arcane names such [?] The post From) Tj
+T*
+(Kepler to Bessel first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. This Week in Package Management: 6 June 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-06-06T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/06/06/this-week-in-package-management.html) Tj
+T*
+(Third week of the roundup, built from the package manager OPML feed collection and whatever) Tj
+T*
+(I?ve posted or boosted on Mastodon . Five new project blog feeds and the NixOS announcements) Tj
+T*
+(feed landed in the OPML this week. Security Bundler 4.0.13 ships Cooldown , a configurable time) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4421 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(window that holds back resolution to gem versions younger than N days, so a freshly published) Tj
+T*
+(malicious release ages past the window before a bundle install will pick it up. The companion) Tj
+T*
+(RubyGems 4.0.13 release blocks gem extraction from escaping the destination directory via) Tj
+T*
+(pre-existing symlinks. The Packagist supply-chain series continues. Closing Composer?s Download) Tj
+T*
+(Fallback Paths covers how the dist-to-source fallback, originally designed for resilience, can) Tj
+T*
+(be used to fetch a different artifact than the one Composer expected. Blocking Malware) Tj
+T*
+(Downloads for Every Composer Version describes how Private Packagist enforces malware blocking) Tj
+T*
+(for installs from Composer versions older than 2.10, before the dependency policy framework) Tj
+T*
+(existed. Enforce a Safe Composer Version Across Your Organization closes the loop by letting) Tj
+T*
+(Private Packagist organisations restrict which Composer client versions can fetch...) Tj
+T*
+() Tj
+T*
+(12. Reading List 06/06/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 06 Jun 2026 12:02:44 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-060626) Tj
+T*
+(Chatbots replacing realtors, Chinese synthetic diamonds, Australian batteries, Meta?s data) Tj
+T*
+(center tents, and more) Tj
+T*
+() Tj
+T*
+(13. There's still no point in gigabit broadband) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 06 Jun 2026 11:34:57 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/) Tj
+T*
+(Six years ago, I nearly got my ISP to upgrade our fibre connection to 1Gbps. As I said at the) Tj
+T*
+(time: This is a curmudgeonly post which is going to look ridiculously outdated in a few years.) Tj
+T*
+(What's the point of Gigabit broadband? Well, it's a few years later and Virgin Media have just) Tj
+T*
+(given me their Gig1 package for £30 per month. Nice! With all the inflation related price) Tj
+T*
+(rises, it's great to ?) Tj
+T*
+() Tj
+T*
+(14. Update: ending paid subscriptions, + Substack) Tj
+T*
+(Source: Westenberg. | Published: Sat, 06 Jun 2026 23:11:51 GMT) Tj
+T*
+(Link: https://www.joanwestenberg.com/update-ending-paid-subscriptions-substack/) Tj
+T*
+(Hi everyone, I?m making a change this week: I?m turning off paid subscriptions. I?m no longer) Tj
+T*
+(comfortable putting my writing and work behind a paywall. I want it to be free, open, and) Tj
+T*
+(accessible to anyone who finds it useful. My work is already) Tj
+T*
+() Tj
+T*
+(15. Our Great War is a Spiritual War) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-06-06T00:00:00-07:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/06/06/our-great-war.html) Tj
+T*
+(I often come back to the question of why this is happening. Why do people want the centralized) Tj
+T*
+(world? Why do people want the administered reality? Why do people want to be managed? Why do) Tj
+T*
+(people not want root? The answer is that those people prioritize convenience, safety, and) Tj
+T*
+(comfort. But in the coming world, if these are your priorities, you will die . There used to be) Tj
+T*
+(natural checks on these things. Life couldn?t be too convenient, there were jobs that needed) Tj
+T*
+(doing. Life couldn?t be too safe, there were diseases, violence, death in childbirth, etc? Life) Tj
+T*
+(couldn?t be too comfortable, it was cold and you were forced into interactions with other) Tj
+T*
+(people . Technology will remove all of these frictions. Machines will do all the work, you will) Tj
+T*
+(never leave your house, and you will never be forced into an interaction you don?t want . The) Tj
+T*
+(people who lean into it will be 100% at the whim of whatever organizations offer it to them. A) Tj
+T*
+(purposeless serf in a neo-feudal empire, not even valued for their labor, but valued because of) Tj
+T*
+(a sadistic desire by their master to control others. Their entire agentic loop managed by) Tj
+T*
+(something else. A complete outsourcing of the self. There?s no coming back...) Tj
+T*
+() Tj
+T*
+(16. Pluralistic: Criticizing the everything machine \(06 Jun 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 06 Jun 2026 18:00:00) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/06/applied-counterescatology/) Tj
+T*
+(Today's links Criticizing the everything machine: It slices, it dices, it even makes) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3920 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(paperclips! Hey look at this: Delights to delectate. Object permanence: Parliament v DRM;) Tj
+T*
+(Colbert's commencement; Counterfeiting x luxury goods; Joule thief; Lean-back media. Upcoming) Tj
+T*
+(appearances: Kansas City, LA, Menlo Park, Toronto, NYC, Edinburgh, South Bend. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Criticizing the) Tj
+T*
+(everything machine \(permalink\) "Gish Gallop" is the debating term for an opponent who makes so) Tj
+T*
+(many claims that "it's impossible to address them in the time available" \(it's named for) Tj
+T*
+(Creationist Duane Gish, who was notorious for this tactic\):) Tj
+T*
+(https://en.wikipedia.org/wiki/Gish_gallop I think about the Gish Gallop whenever I'm asked to) Tj
+T*
+(comment on AI. Here's a recent example: last week, I had a pre-interview call with a radio) Tj
+T*
+(producer who wanted me to come on a 13-minute segment to discusses "whether there's a problem) Tj
+T*
+(with AI governance?" I asked what the show meant by that: was it whether regulation of AI in) Tj
+T*
+(commercial or public sector decision-making need...) Tj
+T*
+() Tj
+T*
+(17. Thoughts on starting new projects with LLM agents) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-06-06T17:38:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/) Tj
+T*
+(A few months ago I wrote about using LLM agents to help restructuring one of my Python projects) Tj
+T*
+(. It's worth beginning by saying that the rewrite has been successful by all reasonable) Tj
+T*
+(measures; I've been able to continue maintaining that project since then without an issue. In) Tj
+T*
+(this post, I ?) Tj
+T*
+() Tj
+T*
+(18. Bol Com Vacature) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 19 Aug 2017 21:08:33 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/bol-com-vacature/) Tj
+T*
+(Onlangs vond ik via LinkedIn een advertentie voor de vacature ?Senior Category Manager Domestic) Tj
+T*
+(Appliances? bij bol.com. Hierin stond zoveel wartaal dat ik het de moeite vond een ?best of?) Tj
+T*
+(selectie te delen op Facebook. Daar vond men het ook erg grappig. Desondanks is het de moeite) Tj
+T*
+(waard de vacature te decoderen: wat staat hier nou eigenlijk? Of exacter, wat bedoelen deze) Tj
+T*
+(mensen. Komt ie. Update: Inhoudelijke reactie van bol.com in De Telegraaf) Tj
+T*
+() Tj
+T*
+(19. Dna the Code of Life) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 12 Aug 2017 20:01:03 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/dna-the-code-of-life/) Tj
+T*
+(DNA: The Code of Life At the most magical SHA2017 gathering I gave two presentations, ?DNA: The) Tj
+T*
+(Code of Life? and the followup, ?DNA: More greatest hits? \(slides\). The first presentation was) Tj
+T*
+(recorded by the wonderful CCC C3VOC streaming crew, the second one by my friend Bart Smit \(who) Tj
+T*
+(is also wonderful\). Without making this post too long, I want to thank everyone who helped me) Tj
+T*
+(do this presentation ? a lot of people contributed time, advice, recording abilities, great) Tj
+T*
+(questions and enthusiasm.) Tj
+T*
+() Tj
+T*
+(20. Talking to Technical People) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 07 Jul 2017 20:35:35 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/talking-to-technical-people/) Tj
+T*
+(\(Don?t\) drop the hint: communicating with technical people This post is a subset of the) Tj
+T*
+(presentation ?Escaping the data center ? tales from a recovering manager?. Video, slides. When) Tj
+T*
+(we communicate at the office, we frequently do not directly say what we mean. A common) Tj
+T*
+(conversation might go like this ?Hey John, we did a survey and it turns out people can?t find) Tj
+T*
+(what they are looking for on our website?.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004674 00000 n 
+0000004800 00000 n 
+0000009675 00000 n 
+0000009801 00000 n 
+0000014479 00000 n 
+0000014605 00000 n 
+0000019079 00000 n 
+0000019207 00000 n 
+0000023180 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+23308
+%%EOF
