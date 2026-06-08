@@ -1,0 +1,632 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4440 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-08 09:52:16) Tj
+T*
+() Tj
+T*
+(1. datasette-agent-edit 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-07T23:56:38+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything) Tj
+T*
+(Release: datasette-agent-edit 0.1a0 I'm planning several plugins for Datasette Agent which can) Tj
+T*
+(make edits to existing pieces of text - things like collaborative Markdown editing, updating) Tj
+T*
+(large SQL queries, and editing SVG files. Agentic editing of text is a little tricky to get) Tj
+T*
+(right. My favorite published design for this is for the Claude text editor , which implements) Tj
+T*
+(the following tools: view - view sections of a file, with line numbers added to every line.) Tj
+T*
+(str_replace - find an exact old_str and replace it with new_str - fail if the original string) Tj
+T*
+(is not unique insert - insert the specified text after the specified line number Rather than) Tj
+T*
+(recreate these patterns for every plugin that needs them I decided to create this base plugin,) Tj
+T*
+(datasette-agent-edit , which implements the core tools in a way that allows them to be adapted) Tj
+T*
+(for other plugins. Tags: ai , datasette , generative-ai , llms , llm-tool-use , datasette-agent) Tj
+T*
+() Tj
+T*
+(2. Doing nothing at work) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Mon, 08 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/doing-nothing-at-work/) Tj
+T*
+(Many engineers should be doing less work. I don?t necessarily mean producing less code or fewer) Tj
+T*
+(changes, but literally working fewer hours in the day. When they do work, they should be) Tj
+T*
+(working at a slower pace. I like to aim to be running at 80% utilization by default: unless I) Tj
+T*
+(have a high-pressure project going on, I spend 20% of my workday away from the computer.) Tj
+T*
+(High-impact opportunities Why? Performance at tech companies is dominated by outlier events .) Tj
+T*
+(When I think about the most impactful changes I?ve made, many of them involved a surprisingly) Tj
+T*
+(trivial amount of work. There are no points for effort in software development. What matters is) Tj
+T*
+(solving the right problem at the right time. In large engineering organizations, there are) Tj
+T*
+(usually trivial pieces of engineering work you could do that would make tens or hundreds of) Tj
+T*
+(millions of dollars for the company. Here are three common examples: First, when the company is) Tj
+T*
+(trying to sign a big enterprise deal, stepping in with a feature or bugfix can make the deal) Tj
+T*
+(happen. It doesn?t even have to be a good feature: sometimes just showing that you?re willing) Tj
+T*
+(and able to make a concrete change will be enough. Second, preventing or mitigati...) Tj
+T*
+() Tj
+T*
+(3. Mux ? Video for Developers) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-08T01:47:03Z) Tj
+T*
+(Link: https://www.mux.com/?utm_campaign=fireball&utm_source=DF) Tj
+T*
+(My thanks to Mux for sponsoring last week at DF. Mux is what developers reach for when they) Tj
+T*
+(need to do more with video. Video files are packed with data and context waiting to be) Tj
+T*
+(unlocked. Mux Robots are AI workflows that unlock that data inside your video for) Tj
+T*
+(summarization, caption translation, moderation, and more. Configure once and your workflows run) Tj
+T*
+(automatically on new uploads. Mux is video infrastructure trusted by Patreon, Substack, and) Tj
+T*
+(Synthesia. Start building for free. Use code FIREBALL at signup for an extra $50 credit. ?) Tj
+T*
+() Tj
+T*
+(4. ? SwiftUI Only Makes It Easy to Develop Bad Apps) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-08T01:30:00Z) Tj
+T*
+(Link: https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps) Tj
+T*
+(Apple?s developer message used to be that it was not just easy to develop apps for their) Tj
+T*
+(platforms, but that it was easy to develop good idiomatically native apps. That?s still true) Tj
+T*
+(for AppKit and UIKit, but it?s never been true for SwiftUI, and SwiftUI is now seven years old.) Tj
+T*
+() Tj
+T*
+(5. Alberto Romero on Apple?s AI Spending) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-08T01:00:00Z) Tj
+T*
+(Link: https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon) Tj
+T*
+(Alberto Romero: AI is like religion. Either you believe it changes everything, or you don?t) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4702 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(believe at all. There is no moderate position; nobody believes in AGI ?more or less,? just like) Tj
+T*
+(nobody is ?casually religious.? If God exists, the only coherent response is to reorganize your) Tj
+T*
+(entire life around that fact, as priests do. If you pray sometimes, then you are just an) Tj
+T*
+(atheist who?s also fearful. When tech companies spend hundreds of billions on capital) Tj
+T*
+(expenditures to add sparkly AI features to Office, Gmail, and Instagram, I only see fearful) Tj
+T*
+(atheists ? guys who don?t believe in AI but pretend just in case. In 2026, the four largest) Tj
+T*
+(cloud and AI infrastructure providers ? Amazon, Google, Meta, Microsoft ? committed to spending) Tj
+T*
+($670 billion on CapEx . Apple, in contrast, spent $12.7 billion on capex last fiscal year and) Tj
+T*
+(projects $14 billion for 2026 , 2% of what its peers are spending. The conventional reading in) Tj
+T*
+(Silicon Valley is, naturally, that Apple is losing. Siri has been a punchline for years ? an) Tj
+T*
+(internal executive called the delays ugly and embarrassing ? and critics say that Apple has not) Tj
+T*
+(been the same without Steve Jobs. It is falling behind , they say, and moving way...) Tj
+T*
+() Tj
+T*
+(6. How to Talk to Your Coworkers) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Fri, 22 May 2026) Tj
+T*
+(19:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/how-to-talk-to-your-coworkers) Tj
+T*
+(You know you've explained the same issue before in two or three different places, yet here they) Tj
+T*
+(are asking again. Why don't they understand you? Why do they ask the same question when you've) Tj
+T*
+(already given them the answer right there on Jira? Are they stupid? Lazy, maybe? Do they not) Tj
+T*
+(take the time to read? I often hear this from developers. They write clear documentation and) Tj
+T*
+(instructions, and people still bother them to hop on a call. This happens so frequently that I) Tj
+T*
+(think it is worth addressing. An over-abundance of information is just as confusing as too) Tj
+T*
+(little. But something I should add is that repetition is normal. In fact, repetition should be) Tj
+T*
+(a tool you use frequently. To do our jobs as developers, we read instructions. Our tasks are) Tj
+T*
+(usually carefully written and specced out as a document we can implement and check off. There) Tj
+T*
+(are usually bullet points, requirements, and acceptance criteria. Sometimes, you could) Tj
+T*
+(implement a feature by following the instructions without even knowing or understanding what) Tj
+T*
+(the feature actually does. In other jobs, non-technical people derive their work from) Tj
+T*
+(conversation. A lossy format. For example, when a non-technical manager wants a new feat...) Tj
+T*
+() Tj
+T*
+(7. Don't call yourself a Software Engineer, and other Career Advice) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Mon, 18 May 2026) Tj
+T*
+(12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now) Tj
+T*
+(I can only imagine what it's like learning the skill of programming in this day and age. What) Tj
+T*
+(does an average college class look like? What is the CS professor teaching? And students, how) Tj
+T*
+(do you reconcile what you are learning vs the current job market? I know if I was a student) Tj
+T*
+(today, I would at least attempt to make connections on LinkedIn to prepare for a future where I) Tj
+T*
+(would need those connections to get a job . But LinkedIn is not a real place. It might have) Tj
+T*
+(been at one point. But it certainly isn't today. Everybody is an AI) Tj
+T*
+(Engineer/Leverager/Prompter/Professional. If I wasn't in the industry, it would be real) Tj
+T*
+(confusing. I see my ex-colleagues right there on LinkedIn, gainfully employed, yet still felt) Tj
+T*
+(the need to update their titles. We've worked together, I know their current role. Or at least) Tj
+T*
+(I thought I knew. Now, that same role leverages AI in a way that has "enabled" them. The) Tj
+T*
+(software engineers though, their role has remained the same while the entire marketing) Tj
+T*
+(department has switched to AI first. The software engineer is being left behind . The whole) Tj
+T*
+(company is moving fast, yet the person writing the code using Claude, Cursor, Codex, Copilot,) Tj
+T*
+(that person remains a me...) Tj
+T*
+() Tj
+T*
+(8. In the Empire's Defense) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Sun, 17 May 2026) Tj
+T*
+(12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/the-empire-won) Tj
+T*
+(I didn't watch Star Wars when it was released. I wasn't even born. By the time we popped the) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4566 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(cassette tape in the VCR, it was at least 15 years old. But I liked the movie all the same. It) Tj
+T*
+(was not my favorite film by any means, but it was memorable. The first time you see Darth Vader) Tj
+T*
+(appear on screen, you know this villain is not going to be easy to defeat. "Villain" because no) Tj
+T*
+(one needs to tell you who the good guys and bad guys are in this movie. The visuals, the) Tj
+T*
+(voices, the music, everything tells you that Darth Vader and the Empire are up to no good. Now) Tj
+T*
+(I get to watch the movie with my kids. I quickly pointed out to my sons that this is the bad) Tj
+T*
+(guy. Stating the obvious. One of them asked, "Why is he the bad guy?" I had to pause for a) Tj
+T*
+(second to come up with an explanation. I didn't have an answer. Instead I said, "Because he is) Tj
+T*
+(mean as hell!" They fell asleep before the movie ended. I think they enjoyed it. But I really) Tj
+T*
+(couldn't tell you exactly why Darth Vader was the bad guy. This is just a thought experiment,) Tj
+T*
+(don't go telling the world that I am pro-Galactic Empire, OK? I'm not digging into the lore of) Tj
+T*
+(Star Wars. I did that already with the Galactic Timezones piece and it wa...) Tj
+T*
+() Tj
+T*
+(9. 'Vim' has many faces) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-07T02:33:12Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces) Tj
+T*
+(One of the problems I have when talking about 'vim' is that in practice, there are several) Tj
+T*
+(versions of 'vim'. I don't mean 'version' in the sense of release numbers \(although Vim has) Tj
+T*
+(lots of releases and things change in them over time\), but more in how people approach and use) Tj
+T*
+(Vim. Even more than GNU Emacs, I feel that Vim has turned into an editor that has multiple) Tj
+T*
+(faces, so the 'vim' that you use may not be the 'vim' that I use. \(Which version or face of Vim) Tj
+T*
+(you see depends in part on what your system decided to set as Vim defaults, unless you're) Tj
+T*
+(advanced enough in Vim things to have a personal configuration that overrides them all.\) I've) Tj
+T*
+(seen people talk about at least three broad versions of Vim: The Vim with a bunch of plugins) Tj
+T*
+(that is a full blown code editor or even IDE environment with LSP support \( eg , also \) and) Tj
+T*
+(everything else you'd expect from such a thing. My impression is that this is surprisingly) Tj
+T*
+(popular version of Vim, and I can see why; if you like the Vim editing style and find that LSP) Tj
+T*
+(stuff fits into it for you, why not? The Vim with syntax highlighting, smart indentation) Tj
+T*
+(\(including language dependent things\), and other features that you'd expect of a competent...) Tj
+T*
+() Tj
+T*
+(10. Aitken acceleration before Aitken) Tj
+T*
+(Source: John D. Cook | Published: Sun, 07 Jun 2026 20:14:45 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/07/aitkin-acceleration-kepler/) Tj
+T*
+(Kepler solved his eponymous equation M = E ? e sin\(E\) by finding a fixed point of E = M + e) Tj
+T*
+(sin\(E\). So guess a value of E and stick it into the right hand side. Then plug that value into) Tj
+T*
+(the right hand side again. Kepler said a couple iterations should be enough. And a couple [?]) Tj
+T*
+(The post Aitken acceleration before Aitken first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. The Laplace limit) Tj
+T*
+(Source: John D. Cook | Published: Sun, 07 Jun 2026 19:06:36 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/) Tj
+T*
+(An earlier post discussed how to solve Kepler?s equation M = E ? e sin\(E\) using a sine series.) Tj
+T*
+(You could also solve Kepler?s equation using a power series, which Lagrange did in 1771. Both) Tj
+T*
+(approaches express E as a function of e and M, but from different perspectives. Bessel thought) Tj
+T*
+(of his solution as a sum of sines in [?] The post The Laplace limit first appeared on John D.) Tj
+T*
+(Cook .) Tj
+T*
+() Tj
+T*
+(12. A crank formula for ?) Tj
+T*
+(Source: John D. Cook | Published: Sun, 07 Jun 2026 16:34:26 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/) Tj
+T*
+(I ran across a cranky formula for ? based on physical constants here and decided to play around) Tj
+T*
+(with it. The source describes ? as ?wavelength \(chosen in the microwave region\)? and I thought) Tj
+T*
+(perhaps you could chose a value of ? to make the equation work. But as a comment pointed out,) Tj
+T*
+(the bracketed [?] The post A crank formula for ? first appeared on John D. Cook .) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4777 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(13. Powering up a module from the IBM 604: an electronic calculator from 1948) Tj
+T*
+(Source: Ken Shirriff's blog | Published: 2026-06-07T09:57:09.956-07:00) Tj
+T*
+(Link: http://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html) Tj
+T*
+(1948 was an interesting time for computing. For decades, businesses had used punch card) Tj
+T*
+(equipment that added and sorted electromechanically. Now these electromechanical relays and) Tj
+T*
+(counting wheels were being used to build room-filling general-purpose computers such as Harvard) Tj
+T*
+(Mark I \(1944\) and IBM's SSEC \(1948\). But slow electromechanical mechanisms were already) Tj
+T*
+(becoming obsolete. World War II had fostered the development of electronics and vacuum tubes) Tj
+T*
+(for radio, radar, and navigation. Electronic technology was being used in massive electronic) Tj
+T*
+(computers, such as Colossus \(1943\) and ENIAC \(1946\). The first stored-program computer, the) Tj
+T*
+(Manchester Baby, was built in 1948. The IBM 604 Electronic Calculating Punch behind a Type 521) Tj
+T*
+(Card Reader/Punch. Photo from IBM. Note the panels in the side of the 604 and in the front of) Tj
+T*
+(the 521 to hold plugboards. In the midst of these technological advances, IBM introduced the) Tj
+T*
+(Electronic Calculating Punch, type 604. 1 This system may seem like a step backward: it wasn't) Tj
+T*
+(a computer, but a programmable calculator that performed a fixed set of operations. 2 However,) Tj
+T*
+(it was much smaller 3 than a computer?about the size of a double refrigerator?and muc...) Tj
+T*
+() Tj
+T*
+(14. Arp 297:) Tj
+T*
+(Source: Maurycy's Blog | Published: Sun, 07 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/astro/arp297/) Tj
+T*
+(North is left. \(mirrored\). 13.5x8.5 arcmin \(0.35 arcsec/pixel\) dt {color: var\(--em-color\)}) Tj
+T*
+(Total exposure time: 410 * 30 seconds = 3.4 hours. \(across 2 nights\) Exposure used in stack:) Tj
+T*
+(329 * 30 seconds = 2.7 hours. Telescope: C9.25 \(230mm, f/10, fl=2300mm\) Camera: IMX533 \(16mm) Tj
+T*
+(diagonal, square, color\) Processing: \(no software sharpening used\) Callibration \(dark + flat\)) Tj
+T*
+(Stacking \(average w/ rejection\) White balance and background subtraction Asinh stretch Tone) Tj
+T*
+(curve Crop Center left : NGC 5754 \(z=0.015\) and 5752 \(z=0.015\), a pair of gravitationally) Tj
+T*
+(interacting spiral galaxies. Only the spiral pattern of NGC 5752 is visible. There is a tidal) Tj
+T*
+(tail extending upwards, but it's too dim to see in this image. Center right : NGC 5755) Tj
+T*
+(\(z=0.033\), an irregular barred spiral galaxy. Right : NGC 5753 \(z=0.032\), a flocculant spiral) Tj
+T*
+(\(not elliptical\) Another pair of interacting galaxies, but at a completely different redshift) Tj
+T*
+(than Arp 297. Cool. There's actually a third member of this group \(z=0.032\) behind NGC 5752...) Tj
+T*
+(although it looks like a bright blob in one of the arms: Top left : LEDA 2133199 \(z=0.014\) and) Tj
+T*
+(LEDA 2132969. Not much is known about these, and I can't see much either. Related: arp2...) Tj
+T*
+() Tj
+T*
+(15. Stairway to Heaven) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-06-07T00:00:00-07:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/06/07/stairway-to-heaven.html) Tj
+T*
+(They are a highly sophisticated statistical model designed to mimic the distribution of) Tj
+T*
+(programming. The output is broken, but in a way that?s getting harder and harder to detect.) Tj
+T*
+(Which is exactly what you?d expect from an increasingly accurate statistical model. ? The) Tj
+T*
+(Eternal Sloptember 5 years ago, I would have laughed that idea out of the room. I fully) Tj
+T*
+(understand what?s dumb about it. I don?t believe in some stupid metaphysics where there can be) Tj
+T*
+(two things that have all the same testable properties but yet are somehow different . There is) Tj
+T*
+(only one electron. But the key phrase there is testable properties . Once you are optimizing) Tj
+T*
+(for those properties, they cease to be a good measure . In so much as you use statistics and) Tj
+T*
+(tests to classify things, the AI outputs will seem correct, and will pass more and more tests) Tj
+T*
+(as AI improves. However, they are just optimizing for the metrics harder; reward hacking. It?s) Tj
+T*
+(not doing what you are doing. It?s not an embodied agent refined by billions of years of) Tj
+T*
+(evolution trying to survive in a crazy complex uncertain world. It?s a fancy autocomplete. I) Tj
+T*
+(read this post and it triggered me. It?s basically about how brands sell you an identity and) Tj
+T*
+(i...) Tj
+T*
+() Tj
+T*
+(16. A new era for software testing) Tj
+T*
+(Source: antirez.com | Published: Sun, 07 Jun 2026 11:46:06 +0200) Tj
+T*
+(Link: http://antirez.com/news/168) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4159 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Automatic programming dramatically speeds up writing software in certain use cases and in the) Tj
+T*
+(right hands. In my experience the output does not reach the structural quality and economy of) Tj
+T*
+(complexity of the best hand-written software. However, not all the software is stellar, and my) Tj
+T*
+(feeling is that automatic programming surpasses most of the times \(and if well managed\) the) Tj
+T*
+(quality of decently developed hand-written code. Yet, there is a tradeoff between quality and) Tj
+T*
+(time, in the case of writing new software with AI. This tradeoff in certain projects I) Tj
+T*
+(developed can be brutal, that is, completing projects that may take many months in a few weeks.) Tj
+T*
+(However, there are domains where LLMs simply open new strictly more powerful ways to automate) Tj
+T*
+(processes, without any compromise on quality. One of those domains is software QA and testing.) Tj
+T*
+(Traditionally software is tested using test suites that are composed of locally-scoped tests) Tj
+T*
+(and integration tests \(think of Redis: one thing is testing if SET foo 10 will be matched by) Tj
+T*
+(GET foo => 10, another thing is testing if replication works in this case\). And then by QA) Tj
+T*
+(passes that are usually manually executed, and that can capture holes in the runn...) Tj
+T*
+() Tj
+T*
+(17. Copping My Style) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-06-07T02:54:43Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary) Tj
+T*
+(Can you legally protect an artistic style? Not currently, but an Adobe-backed bill, a seeming) Tj
+T*
+(reaction to AI, is pitching the idea. Personally, I see a bunch of blurred lines.) Tj
+T*
+() Tj
+T*
+(18. Encrypting IP Addresses) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 07 May 2017 20:46:14 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/encrypting-ip-addresses/) Tj
+T*
+(On IP address encryption: security analysis with respect for privacy Frequently, privacy) Tj
+T*
+(concerns and regulations get in the way of security analysis. I?m a big fan of privacy, but I?m) Tj
+T*
+(also a big fan of security and preventing people from getting hacked. If you are hacked you) Tj
+T*
+(have no privacy either. Per-customer/subscriber traces are extremely useful for researching the) Tj
+T*
+(security of networks. Specifically, lists of DNS requests per IP address make spotting infected) Tj
+T*
+(users or infected devices very easy, especially if you look at ?yesterday?s traffic? and) Tj
+T*
+(compare it to today?s threat intelligence.) Tj
+T*
+() Tj
+T*
+(19. On Linux Vdso and Clockgettime) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 24 Mar 2017 20:22:18 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/on-linux-vdso-and-clockgettime/) Tj
+T*
+(On Linux vDSO and clock_gettime sometimes being slow Like the previous post on this somewhat) Tj
+T*
+(dormant blog, I want to share an oddity I discovered that no search engine could really find) Tj
+T*
+(for me - even though once I found what the problem was, it turns out I was by no means the) Tj
+T*
+(first person to discover this. Some system calls that are used extremely frequently in Linux) Tj
+T*
+(can be speeded up by a mechanism called vDSO: a virtual dynamically linked shared object.) Tj
+T*
+() Tj
+T*
+(20. Optimizing optimizing: some insights that led to a 400% speedup of PowerDNS) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 22 Sep 2016 13:16:31 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/optimizing-optimizing-400-percent-speedup/) Tj
+T*
+(So no matter how pretty your code, eventually someone will benchmark it and demand top) Tj
+T*
+(performance. Squeezing microseconds is a very addictive and even destructive activity. It ruins) Tj
+T*
+(your evenings, destroys your ability to converse with human beings and typically leaves your) Tj
+T*
+(code in a mess. No programmer can escape it however: the world demands speed, or a somewhat) Tj
+T*
+(equivalent modern measure, longer battery life. Squeezing out more performance is not just a) Tj
+T*
+(matter of ?writing better code?.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004709 00000 n 
+0000004835 00000 n 
+0000009589 00000 n 
+0000009715 00000 n 
+0000014333 00000 n 
+0000014459 00000 n 
+0000019289 00000 n 
+0000019417 00000 n 
+0000023629 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+23757
+%%EOF
