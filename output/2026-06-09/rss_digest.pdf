@@ -1,0 +1,556 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4743 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-09 09:41:53) Tj
+T*
+() Tj
+T*
+(1. Working with product managers) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Mon, 08 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/working-with-product-managers/) Tj
+T*
+(The relationship engineers have with product management is more dysfunctional than with any) Tj
+T*
+(other part of the company. There?s no shared culture or language like there is with other) Tj
+T*
+(engineers, and the rules of ?who gets to tell who what to do? aren?t as clear-cut as they are) Tj
+T*
+(with managers. Engineers don?t have a lot in common with legal, or design, or sales, but they) Tj
+T*
+(also don?t need to interact much with those roles. In my experience, engineers are) Tj
+T*
+(communicating with product managers almost every single day. Against the ?product mommy? The) Tj
+T*
+(worst version of the product/engineering relationship goes something like this: Engineers are) Tj
+T*
+(technically competent but are too autistic to be fully trusted. They need a kind-but-stern) Tj
+T*
+(parental figure who knows how to communicate to other stakeholders in the organization \(for) Tj
+T*
+(instance, by being comfortable using the word ?stakeholders?\), and how to keep engineers from) Tj
+T*
+(going off in the wrong direction. This entire gross dynamic is neatly captured by the popular) Tj
+T*
+(term ?product mommy? 1 . I really, really don?t like that term, or this entire dynamic in) Tj
+T*
+(general. Almost none of my relationships with my product managers have been anything like this,) Tj
+T*
+(th...) Tj
+T*
+() Tj
+T*
+(2. Siri AI at WWDC 2026) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-08T23:58:04+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything) Tj
+T*
+(Given how badly burned anyone who took Apple's 2024 WWDC Apple Intelligence announcements at) Tj
+T*
+(face value was, I'm holding to a strict "I'll believe it when I see it" policy for everything) Tj
+T*
+(they announced today . The new Siri AI features do at least look feasible with today's) Tj
+T*
+(technology, especially since Apple are licensing a custom Gemini-derived model that they can) Tj
+T*
+(run on their own Private Cloud Compute . It sounds like they'll be taking advantage of vision) Tj
+T*
+(LLMs to extract information from the user's screen, which neatly sidesteps the need for every) Tj
+T*
+(existing application to ship custom code in order to integrate with Apple Intelligence. Vision) Tj
+T*
+(LLMs were a much less mature category in June 2024. The new Core AI library looks like a good) Tj
+T*
+(step in enabling developers to finally take full advantage of Apple's hardware for running) Tj
+T*
+(their own models. It integrates with Meta's open source PyTorch ecosystem, using these Core AI) Tj
+T*
+(PyTorch extensions : Core AI PyTorch Extensions \( coreai-torch \) is a Python package that) Tj
+T*
+(bridges PyTorch and Core AI. You can use it to bring up an existing PyTorch model ? exported as) Tj
+T*
+(a torch.export.ExportedProgram ? into a Core AI AIProgram ready to run on Apple har...) Tj
+T*
+() Tj
+T*
+(3. From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-09T01:37:27Z) Tj
+T*
+(Link: https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-a) Tj
+T*
+(i-assistants-beyond-chatgpt-in-ios-27) Tj
+T*
+(Mark Gurman, reporting \(?\) for Bloomberg two short months ago: Apple Inc. plans to open Siri to) Tj
+T*
+(outside artificial intelligence assistants, a major move aimed at bolstering the iPhone as an) Tj
+T*
+(AI platform. The company is preparing to make the change as part of a Siri overhaul in its) Tj
+T*
+(upcoming iOS 27 operating system update, according to people with knowledge of the matter. The) Tj
+T*
+(assistant can already tap into ChatGPT through a partnership with OpenAI, but Apple will now) Tj
+T*
+(allow competing services to do the same. The company is developing new tools to allow AI) Tj
+T*
+(chatbot apps installed via the App Store to integrate with the Siri assistant, said the people,) Tj
+T*
+(who asked not to be identified because the plans haven?t been announced. The chatbots will also) Tj
+T*
+(work with an upcoming Siri app and other features in the Apple Intelligence platform. That) Tj
+T*
+(means, for instance, if users have Alphabet Inc.?s Google Gemini or Anthropic PBC?s Claude) Tj
+T*
+(installed, they?d be able to send queries to those services from within the Siri voice) Tj
+T*
+(assistant, just like they have been able to with ChatGPT since Apple Intelligence launched in) Tj
+T*
+(2024. Maybe Apple ran out of time today, and will announce this tomorrow? Maybe they f...) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4919 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(4. ?Microsoft and OpenAI Broke Up ? Now They?re Ready to Fight?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-04T20:25:27Z) Tj
+T*
+(Link: https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-open) Tj
+T*
+(ai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNp) Tj
+T*
+(YWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV) Tj
+T*
+(4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ) Tj
+T*
+(Hayden Field and Tom Warren, writing for The Verge \(gift link\): This year?s Build had the vibe) Tj
+T*
+(of a freshly single divorcÈe posting a thirst trap on Instagram. ?It?s always fun to be at) Tj
+T*
+(developer conferences in times of great change,? Microsoft CEO Satya Nadella said onstage) Tj
+T*
+(Tuesday, adding that events like this are about ?coming to grips with the new opportunity.? AI) Tj
+T*
+(chief Mustafa Suleyman, in an interview with The Verge, put it even more bluntly. ?The goal is) Tj
+T*
+(to prove that we can become one of the top four labs in the world,? Suleyman said. ?There?s) Tj
+T*
+(three labs that matter, Google DeepMind, OpenAI, and Anthropic. We are not one of them at the) Tj
+T*
+(moment, and that?s always been my intention. It?s why I came here. I want to build the very) Tj
+T*
+(best frontier models in the world, fully multimodal, and in order to do that, we have to prove) Tj
+T*
+(that we can do everything that we need to from the ground up, and we?re not just going to take) Tj
+T*
+(from others.? Refreshingly blunt. But hasn?t that been Microsoft?s plan for Bing since it was) Tj
+T*
+(announced in 2009? I mean I guess you can say that Bing is one of the top four search engines) Tj
+T*
+(in the world. Maybe you can even say it?s one of the top two. But it?s irrele...) Tj
+T*
+() Tj
+T*
+(5. Lingon and Lingon Pro 10) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-04T18:43:47Z) Tj
+T*
+(Link: https://www.peterborgapps.com/lingon/) Tj
+T*
+(Peter Borg: Lingon makes scheduling apps, scripts, shortcuts, and commands feel simple. Create) Tj
+T*
+(a task in minutes, run it on a schedule, and stay in control. Lingon helps you run whatever you) Tj
+T*
+(want whenever you want without living in Terminal. Schedule apps, scripts, shortcuts, and) Tj
+T*
+(commands with a clear, friendly UI. Run tasks at specific times, on intervals or at login.) Tj
+T*
+(Optional notifications make it easy to keep control. Two separate apps. Lingon is the simpler) Tj
+T*
+(Mac App Store version and free to use, while Lingon Pro is the advanced one-time purchase with) Tj
+T*
+(extra power. Lingon and Lingon Pro are great apps. I?ve been meaning to recommend them for a) Tj
+T*
+(while. Back in 2023 I wrote about a problem I was having with Maestral , the incredible ?works) Tj
+T*
+(like Dropbox in the old days? open-source Dropbox client, where Maestral would just silently) Tj
+T*
+(crash once in a while and I wouldn?t notice for a while. Then I would notice, manually) Tj
+T*
+(re-launch Maestral, and have to wait while Maestral synced. Or, worse, I?d put a podcast) Tj
+T*
+(recording in a shared folder and walk away from my computer, and my editor would never get the) Tj
+T*
+(file because Maestral wasn?t running. My write-up described how I solved the problem w...) Tj
+T*
+() Tj
+T*
+(6. ppclp.ai announces 100x Productivity Gains) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Mon, 08 Jun 2026) Tj
+T*
+(19:50:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/100x-productivity-gain) Tj
+T*
+(ppclp.ai, North America's third-largest AI-native manufacturer of premium wire-formed office) Tj
+T*
+(fasteners, formerly known as Paper Clip Company, announced a landmark 100x improvement in its) Tj
+T*
+(proprietary Organizational Productivity Index \(OPI?\), cementing what leadership is calling "a) Tj
+T*
+(new era of operational excellence" and "a little bit of a miracle." The breakthrough follows an) Tj
+T*
+(18-month company-wide initiative called Project Streamline, during which all 340 employees) Tj
+T*
+(completed mandatory efficiency training, adopted a new Jira-based workflow system powered by) Tj
+T*
+(Rovo, and attended a two-day offsite in Scottsdale where a consultant named Derek asked) Tj
+T*
+(everyone to "think about how they think about work." "I used to open fourteen browser tabs and) Tj
+T*
+(just stare at them. Now I open fourteen browser tabs, and AI agents are looking at them for me.) Tj
+T*
+(I've never felt more in control." ? Sandra K., Senior Clip Assembly Coordinator, 11 years at) Tj
+T*
+(ppclp.ai Central to the transformation is Rovo, Atlassian's AI, which the ppclp.ai Jira Center) Tj
+T*
+(of Excellence team has deeply integrated into the company's ticket lifecycle. Rovo now) Tj
+T*
+(autonomously opens tickets when it detects workflow friction, assigns them to the ap...) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4383 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(7. Should we care any more about Googlebot crawling our sites?) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-08T02:04:21Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling) Tj
+T*
+(One piece of technology news of the time interval is that Google is no longer going to be) Tj
+T*
+(providing Internet search, it's going to be providing 'answers' . On the Fediverse, I had a) Tj
+T*
+(reaction to that : Given Google's apparent change to what Google Search will be, I'm wondering) Tj
+T*
+(if I should even allow Googlebot to crawl my techblog. If they're going to AI slop up anything) Tj
+T*
+(they tell people after a search, I'd rather have my writing excluded entirely rather than be) Tj
+T*
+(garbled. \(I have no idea how much traffic I get from people using Google Search, and if Google) Tj
+T*
+(is going to do this I feel like I should punish them by pushing people away from them, even a) Tj
+T*
+(little bit.\) To echo what Paul Cantrell said on the Fediverse , we tolerated and even embraced) Tj
+T*
+(Googlebot crawling our websites as part of a social bargain. Allowing Googlebot was a big part) Tj
+T*
+(of how people found our sites and our work, which is to say through searches. That social) Tj
+T*
+(bargain has been fading as Google put more and more things inline, but at least they were still) Tj
+T*
+(providing links and directly showing our words \(I know, usually\). But now Google has said out) Tj
+T*
+(loud that Googlebot is just the front end crawling ingester to an LLM syste...) Tj
+T*
+() Tj
+T*
+(8. How many consecutive hyphens can you have in a domain name?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 08 Jun 2026 11:34:59 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://shkspr.mobi/blog/2026/06/how-many-consecutive-hyphens-can-you-have-in-a-domain-name/) Tj
+T*
+(A seemingly simple question which sent me down into the murky depths of standards. How many) Tj
+T*
+(consecutive hyphens can you have in a domain name? It probably isn't sensible to name your) Tj
+T*
+(online presence a----------hyphen.com - but is there anything technically stopping you? Table) Tj
+T*
+(of ContentsHistoryTLD RestrictionsAnomaliesSo What? History Let's do some history! This is) Tj
+T*
+(1978's "HOST NAMES?) Tj
+T*
+() Tj
+T*
+(9. Package Manager Patents) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-06-08T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/06/08/package-manager-patents.html) Tj
+T*
+(Patents and applications relevant to package manager design, grouped by area. Mostly US) Tj
+T*
+(filings, found through Google Patents searches on the obvious terms. Each entry lists the) Tj
+T*
+(assignee, filing and grant dates, and current status, followed by a short summary of the core) Tj
+T*
+(claim and a prior-art note where open-source predecessors are well-documented. Manifests and) Tj
+T*
+(dependency resolution US6381742B2 - Software package management . Microsoft. Filed June 1998,) Tj
+T*
+(granted 2002, expired 2018. Claims a distribution unit, a manifest file, and a code store data) Tj
+T*
+(structure, with dependency resolution at install time and shared-component tracking at) Tj
+T*
+(uninstall. Prior art: CPAN manifests \(1995\), dpkg control files \(1995\), RPM \(1997\), FreeBSD) Tj
+T*
+(ports \(1993\). US7222341B2 - Method and system for processing software dependencies in) Tj
+T*
+(management of software packages . Microsoft. Filed February 2002, granted 2007, expired 2019.) Tj
+T*
+(Continuation of US6381742B2, sharing its June 1998 priority date. Claims the install-time loop:) Tj
+T*
+(check installed, identify missing dependencies, fetch from specified sources, extract,) Tj
+T*
+(register, update the code store. Prior art: as for US6381742B2. US9348582B2 - Systems and) Tj
+T*
+(methods for s...) Tj
+T*
+() Tj
+T*
+(10. AI Is Slowing Down) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Mon, 08 Jun 2026 15:37:39 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/ai-is-slowing-down/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter. It?s $70 a year, or $7) Tj
+T*
+(a month, and in return you get a weekly newsletter that?s usually anywhere from 5,000 to 18,000) Tj
+T*
+(words, including vast, detailed analyses of NVIDIA , Anthropic and) Tj
+T*
+() Tj
+T*
+(11. Coding Is Designing) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 07 Jun 2026 19:00:00 GMT) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4115 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://blog.jim-nielsen.com/2026/code-is-design/) Tj
+T*
+(Code isn?t just a way to implement a design, it?s a way to find one. With an interface, you) Tj
+T*
+(have to use it, feel it, interact with it, and poke at it to see the relationships between) Tj
+T*
+(things . Change X, see Y react. If it doesn?t feel right, tweak it. Change X again, now Y) Tj
+T*
+(reacts differently. Better. Keep tweaking ? this here, that there, until the relationships of) Tj
+T*
+(all the disparate elements fall into place as a single whole. Balanced. Design is ?how it) Tj
+T*
+(works? and code is the tool to specify how it works. Reply via: Email ∑ Mastodon ∑ Bluesky) Tj
+T*
+() Tj
+T*
+(12. Planescape: Torment, Part 2: ?to the Desktop) Tj
+T*
+(Source: The Digital Antiquarian | Published: Mon, 08 Jun 2026 15:36:41 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/06/planescape-torment-part-2-to-the-desktop/) Tj
+T*
+(This article tells part of the story of Dungeons & Dragons on the tabletop and on computers.) Tj
+T*
+(Usually if you choose the longest dialog option, that?s the best option. ? Chris Avellone Quite) Tj
+T*
+(some years ago now, I briefly interviewed Brian Fargo about Interplay?s 1988 adaptation of the) Tj
+T*
+(William Gibson novel Neuromancer. He was plainly busy [?]) Tj
+T*
+() Tj
+T*
+(13. The sample efficiency black hole) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Mon, 08 Jun 2026 18:09:37 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/the-sample-efficiency-black-hole) Tj
+T*
+("We see these AIs as a galaxy glittering with capabilities, but at their center, invisible to) Tj
+T*
+(the naked eye, holding all the constellations together, is an unimaginably massive black hole) Tj
+T*
+(of data.") Tj
+T*
+() Tj
+T*
+(14. Hacking for Defense @ Stanford 2026 ? Lessons Learned Presentations) Tj
+T*
+(Source: Steve Blank | Published: Mon, 08 Jun 2026 13:00:15 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/) Tj
+T*
+(We just wrapped up our Hacking for Defense class at Stanford. This was the 11th year we?ve) Tj
+T*
+(taught Hacking for Defense, and the impact of asymmetric warfare, \(drones, off-the-shelf) Tj
+T*
+(technologies, etc.,\) disruptive technologies \(AI, commercial access to space\) and a startup) Tj
+T*
+(friendly DoW acquisition system ? make it feel like a much different class than [?]) Tj
+T*
+() Tj
+T*
+(15. xAI is looking more like a datacentre REIT than a frontier lab) Tj
+T*
+(Source: Martin Alderson | Published: Mon, 08 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/xais-new-rental-business/?utm_source=rss&utm_medium=rss&) Tj
+T*
+(utm_campaign=feed) Tj
+T*
+(xAI is renting huge amounts of GPU capacity to Anthropic and Google. Financial engineering) Tj
+T*
+(ahead of the SpaceX IPO, a real compute shortage, or a genuine datacentre advantage? Probably) Tj
+T*
+(all three.) Tj
+T*
+() Tj
+T*
+(16. De gietijzeren pan en big tech) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 08 Jun 2026 13:00:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/de-gietijzeren-pan-en-big-tech/) Tj
+T*
+(Al een jaar of tien koken we thuis op gietijzeren pannen. Inmiddels voelt koken op een) Tj
+T*
+(anti-aanbakpan voor mij als koken op plastic. De voordelen zijn verder evident. Ik heb in die) Tj
+T*
+(tien jaar tijd nog geen pan hoeven vervangen, bijvoorbeeld. Teflon- en vergelijkbare pannen) Tj
+T*
+(verliezen na verloop van tijd altijd een deel van hun anti-aanbak laag, en ik heb het idee dat) Tj
+T*
+(je dan behoorlijk wat van die laag hebt opgegeten tegen die tijd.) Tj
+T*
+() Tj
+T*
+(17. How About Some Actual Innovation) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 17 Apr 2016 20:45:41 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/how-about-some-actual-innovation/) Tj
+T*
+(A meandering walk through innovation that also reviews a book This article is part of a series) Tj
+T*
+(on \(European\) innovation and capabilities. I care deeply about innovation. It is literally) Tj
+T*
+(where the future comes from, but it is a curious thing. Innovation and its more powerful) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 951 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(partner, invention proceed at a snail?s pace. ?In a world where change is the only constant? is) Tj
+T*
+(a lie. It took this world 20 years to invent a decent can opener.) Tj
+T*
+() Tj
+T*
+(18. How Many Hours for Multithreading the Server?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 02 Sep 2014 20:25:58 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/how-many-hours-for-multithreading/) Tj
+T*
+(How many hours for multithreading the server? Or: dealing with overly detailed project planning) Tj
+T*
+(Many developers, me included, dread that moment. Someone sits down with you and wants to know) Tj
+T*
+(how many ?hours? each step of the project will take. And of course the thing is, if you are) Tj
+T*
+(doing something that has been done many times before, you might be able to provide a detailed) Tj
+T*
+(estimate. People that build houses work like this, but they still often get it wrong.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000005012 00000 n 
+0000005138 00000 n 
+0000010109 00000 n 
+0000010235 00000 n 
+0000014670 00000 n 
+0000014796 00000 n 
+0000018964 00000 n 
+0000019092 00000 n 
+0000020095 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20223
+%%EOF
