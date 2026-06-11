@@ -1,0 +1,562 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4269 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-11 09:54:47) Tj
+T*
+() Tj
+T*
+(1. Who Runs the Ransomware Group ?The Gentlemen??) Tj
+T*
+(Source: Krebs on Security | Published: Wed, 10 Jun 2026 14:03:44 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/) Tj
+T*
+(A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang) Tj
+T*
+(by victim count, rapidly attracting a talented pool of hackers through an aggressive) Tj
+T*
+(recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This) Tj
+T*
+(post examines clues pointing to a real life identity for the administrator of The Gentlemen) Tj
+T*
+(ransomware group.) Tj
+T*
+() Tj
+T*
+(2. Craig Federighi Details Apple?s Collaboration With Google for Siri AI ? Live, on Stage) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-11T00:48:52Z) Tj
+T*
+(Link: https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-f) Tj
+T*
+(or-siri-ai-in-ios-27/) Tj
+T*
+(Chance Miller, at 9to5Mac on Monday: Apple?s Siri team, led by Craig Federighi, held a) Tj
+T*
+(post-WWDC keynote tech talk with members of the press this afternoon to talk through iOS 27 and) Tj
+T*
+(the new Siri AI. During the talk, Federighi shared more details about Apple?s collaboration) Tj
+T*
+(with Google. Federighi was joined by Amar Subramanya \(vice president of AI\), Mike Rockwell) Tj
+T*
+(\(Siri lead\), and Sebastien Marineau-Mes \(software VP\). On the Google collaboration, Federighi) Tj
+T*
+(explained: Of course, we don?t have the Gemini app as our app. In fact, none of that client) Tj
+T*
+(code is part of how we run on iOS. For these models, we use none of the models that Google) Tj
+T*
+(deploys to their customers, nor do we use the infrastructure and means by which they deploy) Tj
+T*
+(models to their customers. And then, when it comes to the knowledge base, we of course don?t) Tj
+T*
+(use Google Search or anything like that as the foundation of our system. So I hope that?s) Tj
+T*
+(clear. The amount of the Google Assistant we use is none. So let?s talk about what we do use,) Tj
+T*
+(or how our system is built. This ?Tech Talk? was good. It was detailed and technical, and there) Tj
+T*
+(were live on-stage demos of Siri AI in action from Mike Rockwell. I don?t think Apple is ev...) Tj
+T*
+() Tj
+T*
+(3. ? Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-11T00:09:01Z) Tj
+T*
+(Link:) Tj
+T*
+(https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items) Tj
+T*
+(This is my favorite news from all of WWDC this week. I mean that. In a small way I mean it) Tj
+T*
+(because I so loathe this aspect of MacOS Tahoe. But in a large way I mean it because it?s proof) Tj
+T*
+(that the rot has been rooted out of Apple?s software design team.) Tj
+T*
+() Tj
+T*
+(4. Apple?s WWDC AI Demos Were Real and in Real Time) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-09T17:38:21Z) Tj
+T*
+(Link: https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-) Tj
+T*
+(ad-settlement/) Tj
+T*
+(Julie Bort, TechCrunch: But the most telling detail wasn?t what Apple announced. It was how it) Tj
+T*
+(chose to show some things off. Many of the Apple Intelligence demoes featured someone standing,) Tj
+T*
+(phone in hand, pressing buttons or using voice commands in real time, while another camera) Tj
+T*
+(showed off the phone?s response. These weren?t live onstage, anything-could-go wrong demos;) Tj
+T*
+(they were pre-taped. But they looked far more like proof of working features than what Apple) Tj
+T*
+(showed at WWDC 2024, when the company unveiled Apple Intelligence and a new Siri to the world) Tj
+T*
+(through slickly produced videos that turned out to be more promise than product. The demos were) Tj
+T*
+(all shot in single takes, with no editing. In fact, I think most of them were single takes of) Tj
+T*
+(multiple demos back-to-back. That?s the way it should be, even when they feel a little slow.) Tj
+T*
+(When a demo feels slow, the solution isn?t to edit the video ? it?s to make the feature work) Tj
+T*
+(faster. ?) Tj
+T*
+() Tj
+T*
+(5. datasette-agent 0.2a0) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4714 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Simon Willison's Weblog | Published: 2026-06-10T23:57:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything) Tj
+T*
+(Release: datasette-agent 0.2a0 Highlights from the release notes: Tools can now ask the user) Tj
+T*
+(questions mid-execution. Tools that declare a context parameter receive a ToolContext object,) Tj
+T*
+(and await context.ask_user\(...\) can ask a yes/no, multiple-choice \( options=[...] \) or) Tj
+T*
+(free-text \( free_text=True \) question. While a question is unanswered the agent turn suspends:) Tj
+T*
+(the question renders as a form in the chat UI and persists to the internal database, so) Tj
+T*
+(suspended conversations survive a server restart. Once answered, the tool re-executes from the) Tj
+T*
+(top with stored answers replayed, so call ask_user\(\) before performing side effects. #20 New) Tj
+T*
+(built-in save_query tool: the agent can save SQL it has written as a Datasette stored query .) Tj
+T*
+(Saving always requires human approval - the agent shows the full SQL plus the proposed name,) Tj
+T*
+(database and visibility, and nothing is stored until you click Yes. #20 The ask_user\(\) feature) Tj
+T*
+(was enabled by the new LLM alpha I built yesterday with the help of Claude Fable 5. Tags: ai ,) Tj
+T*
+(datasette , generative-ai , llms , datasette-agent) Tj
+T*
+() Tj
+T*
+(6. DiffusionGemma) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-10T20:00:54+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything) Tj
+T*
+(DiffusionGemma Last May Google briefly released an experimental Gemini Diffusion model. I tried) Tj
+T*
+(the preview at the time and recorded it running at 857 tokens/second. It was an exciting model,) Tj
+T*
+(but Google made no further announcements about it. That research has returned in the best) Tj
+T*
+(possible way: as a new open weight \(Apache 2 licensed\) Gemma model,) Tj
+T*
+(google/diffusiongemma-26B-A4B-it . NVIDIA are currently hosting the model for free on their NIM) Tj
+T*
+(cloud API. I used that API to generate this pelican , which took 4.4s \(according to time uv run) Tj
+T*
+(generate.py \) to return 2,409 tokens - so at least 500 tokens/second. Via Hacker News Tags:) Tj
+T*
+(google , ai , generative-ai , llms , nvidia , pelican-riding-a-bicycle , gemma , llm-release ,) Tj
+T*
+(llm-performance) Tj
+T*
+() Tj
+T*
+(7. Quoting Jeremy Howard) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-10T15:23:34+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything) Tj
+T*
+(Easy solution to slow down recursive AI self improvement: The lab with the top-ranked model) Tj
+T*
+(must agree THEY must not use it for working on frontier AI But everyone else should have access) Tj
+T*
+(to it. By definition, this means the frontier doesn't advance. It also has the critical benefit) Tj
+T*
+(of avoiding a dangerous power imbalance. Anthropic has chosen the opposite of the safe path:) Tj
+T*
+(they are allowing themselves, the current top lab, to use their top model for frontier AI) Tj
+T*
+(research. They've said they'll sabotage others who try. This means the AI frontier advances, &) Tj
+T*
+(power imbalance increases. \(To be clear, I don't think we should try to slow down recursive AI) Tj
+T*
+(self improvement - I think we should open it up and democratize it as much as possible. My) Tj
+T*
+(point is: if you claim we should slow down, and you have the best model, you should ensure your) Tj
+T*
+(org can't use it.\) ? Jeremy Howard , in a Twitter thread Tags: ai-ethics , anthropic ,) Tj
+T*
+(generative-ai , claude-mythos , jeremy-howard , ai , llms) Tj
+T*
+() Tj
+T*
+(8. Please, use a link!) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Wed, 10 Jun 2026) Tj
+T*
+(20:30:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/use-a-link-please) Tj
+T*
+(This is a rant. It didn't start today, but I think I've reached the end of the line. The straw) Tj
+T*
+(that broke the camel's back, so to say. I used an internal tool for the first time. I logged in) Tj
+T*
+(and navigated through the web app, making some updates here and there. All was well. But then I) Tj
+T*
+(made the mistake of wanting to go back to the initial dashboard. I clicked the back button, and) Tj
+T*
+(instead of returning to the previous page, I saw Chrome's default tab page staring right back) Tj
+T*
+(at me. How is it possible? I had navigated through at least a dozen pages, yet one back button) Tj
+T*
+(click and the web app was completely gone. If you've ever experienced something similar, it's) Tj
+T*
+(probably because you were using a single-page app. Nothing wrong with single-page apps, of) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4678 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(course, but over the years I've concluded that people who only know how to build single-page) Tj
+T*
+(apps don't know what a link is. So let's start with examples of what a link isn't. Home Not a) Tj
+T*
+(link. It's a div with an onclick event handler. You can style it all you want, but it's not a) Tj
+T*
+(link. Home This may be a button, but it is not a link. With the advent of React, this has) Tj
+T*
+(become so common. Because it's called a button, learners naturally grav...) Tj
+T*
+() Tj
+T*
+(9. Gaslighting Openness) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-06-10T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/6/10/gaslighting/) Tj
+T*
+(I have been a staunch supporter of Open Source for a long time, including experiments in) Tj
+T*
+(funding it . I?m a true believer in the idea that Open Source always wins in the long run, but) Tj
+T*
+(not automatically and not quickly. Right now it is being stressed by AI slop, shifting) Tj
+T*
+(contributor dynamics, the falling cost of producing code, and large companies learning to close) Tj
+T*
+(doors behind them. A lot of that battle today is manipulation of the narrative. Opinion makers) Tj
+T*
+(on social media and in business circles increasingly frame access as irresponsibility. That is) Tj
+T*
+(why the EU?s DMA matters, even if many people \(including myself\) reflexively hate EU) Tj
+T*
+(regulation. Apple?s fight over delayed AI features in Europe is not about Brussels being) Tj
+T*
+(annoying: it is about whether users can access their own devices and data. The phone is yours,) Tj
+T*
+(the data is yours, yet Apple decides who may reach it and takes the agency away from you and) Tj
+T*
+(then tries to make that sound like it is in your interest \(supposedly it?s for your safety and) Tj
+T*
+(security\). The closer you get to the core of AI, the more this shows up. Anthropic has every) Tj
+T*
+(financial incentive to restrict what people can do with Mythos and Fable , and they wrap tho...) Tj
+T*
+() Tj
+T*
+(10. Formally proving a calculation with Claude and Lean) Tj
+T*
+(Source: John D. Cook | Published: Wed, 10 Jun 2026 23:11:01 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/10/claude-and-lean/) Tj
+T*
+(I ran an experiment today to see whether Claude could generate Lean code to prove a calculation) Tj
+T*
+(at the bottom of this post, six lines of calculus. I started with this prompt This page) Tj
+T*
+(contains a mathematical proof that a Fourier coefficient, a_n, is given in terms of a Bessel) Tj
+T*
+(function. The LaTeX source for [?] The post Formally proving a calculation with Claude and Lean) Tj
+T*
+(first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Pulling on a thread) Tj
+T*
+(Source: John D. Cook | Published: Wed, 10 Jun 2026 13:34:31 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/10/pulling-on-a-thread/) Tj
+T*
+(Often there?s a thread running through a sequence of my posts. Sometimes I make this explicit) Tj
+T*
+(and sometimes I don?t. The latest thread started with this post commenting on a tweet that) Tj
+T*
+(observed that exp\(?x≤\) ? \(1 + cos\(sin\(x\) + x\)\)/2. Some people said online that that the) Tj
+T*
+(approximation is simply due to the first [?] The post Pulling on a thread first appeared on) Tj
+T*
+(John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. My Firefox addons as of Firefox 151 \(and the current development version\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-10T22:11:54Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/Firefox151Addons) Tj
+T*
+(Back in 2022 I said that my Firefox addons hadn't changed in a while , and while that's still) Tj
+T*
+(mostly true there's been some minor changes that I want to write down. Addons are central to my) Tj
+T*
+(Firefox experience, but I don't change them very often partly because of that and partly) Tj
+T*
+(because I'm much more conservative with Firefox than I am with things like Emacs packages . I'm) Tj
+T*
+(generally happy with my Firefox environment and most of what I do with it is stop irritating) Tj
+T*
+(changes and fix things that get turned off . Of my old addons in my main Firefox setup, I still) Tj
+T*
+(use Foxy Gestures , uBlock Origin , uMatrix \(which is still not quite dead \), Cookie AutoDelete) Tj
+T*
+(, Stylus , Textern , Certainly Something , HTTP/2 Indicator , ClearURLs \(although that may be) Tj
+T*
+(ineffective these days\), and Open in Browser , although I'm not sure that's doing anything for) Tj
+T*
+(me. I no longer use HTTPS Everywhere. Because I switched from Firefox's default "storage) Tj
+T*
+(partitioning" for cookies to the stricter "first party isolation" , I had to switch from Cookie) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4773 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Quick Manager , which I don't think works with either of them, to Cookie Manager , which does) Tj
+T*
+(work with first party isolation as far as I can tell. In my main Firefo...) Tj
+T*
+() Tj
+T*
+(13. Making extensions work on file: URLs in Firefox 153) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-10T02:38:48Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/Firefox153AddonsOnFileUrls) Tj
+T*
+(So today I had a learning experience : Firefox Nightly apparently has decided to not allow) Tj
+T*
+(extensions/addons to run for file:/// URLs and I am sorry, this completely breaks my) Tj
+T*
+(environment \(my startup page is a file:/// URL\) and I find it infuriating. Maybe I can find) Tj
+T*
+(some hidden toggle for this somewhere. This is relevant to me because my start page is a local) Tj
+T*
+(HTML file and I'm a long time user of Foxy Gestures \( cf \), which I expect to work on my home) Tj
+T*
+(page. When it doesn't, I get upset. This turns out to be bug 2034168, Add explicit permission) Tj
+T*
+(for file:-access and implement extension.isAllowedFileSchemeAccess\(\) , the components of which) Tj
+T*
+(landed in Firefox Nightly on May 29th. Fortunately there's a way to allow extensions to still) Tj
+T*
+(work on file: pages , but it's a bit annoying. Extensions can have per-extension additional) Tj
+T*
+(permissions, and this change adds a new such permission, "Access local files on your computer") Tj
+T*
+(. But since this is a per-extension setting, you have to go through each of your extensions \(at) Tj
+T*
+(least the ones this is relevant for\) and turn it on, and this permission landed only with the) Tj
+T*
+(change, so the first time you start Firefox all your extensions will be broken. \(O...) Tj
+T*
+() Tj
+T*
+(14. Book Review: The Husbands by Holly Gramazio ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 10 Jun 2026 11:34:55 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/) Tj
+T*
+(Ooooh! This is a lovely treat of a book. Every time Lauren sends her husband into the loft, a) Tj
+T*
+(different man comes down. Her past is rewritten and she has now been married to) Tj
+T*
+(Dave/Gary/Bob/Whoever for a year, a month, a decade, a minute. This isn't like how Groundhog) Tj
+T*
+(Day became On The Calculation of Volume or Sliding Doors became The Names, instead this is a) Tj
+T*
+(new and twisty concept rendered?) Tj
+T*
+() Tj
+T*
+(15. Nontrailing separators do not spark joy) Tj
+T*
+(Source: Computer Things | Published: Wed, 10 Jun 2026 12:22:04 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/) Tj
+T*
+(This is valid JSON: { "a" : 1 , "b" : 2 , "c" : 3 } This is invalid JSON: { "a" : 1 , "b" : 2 ,) Tj
+T*
+("c" : 3 , } The difference is the last comma. The JSON grammar specifies that a comma can) Tj
+T*
+(separate two members of an object but not postcede \("trail"\) a member. I think this was a) Tj
+T*
+(design mistake. Say we want to add two new keys to the struct, one before the "a" member and) Tj
+T*
+(one after the "c" member. Here's what it would look like if trailing commas were permitted: { +) Tj
+T*
+("x": 0, "a": 1, "b": 2, "c": 3, + "y": 4, } It's the exact same text transformation regardless) Tj
+T*
+(of where we add the key. In the current model, we instead have this: { + "x": 0, "a": 1, "b":) Tj
+T*
+(2, - "c": 3 + "c": 3, + "y": 4 } Those are different transformations! Similarly if you want to) Tj
+T*
+(remove an element, you can't just delete the corresponding line 1 , you have to delete the line) Tj
+T*
+(and then check that the last line doesn't have a trailing comma. Don't even get me started on) Tj
+T*
+(all the special cases involved in swapping two lines. JSON isn't the only language with this) Tj
+T*
+(problem. Haskell writes record types like this: -- from https://play.haskell.org/ data Drone =) Tj
+T*
+(Drone { xPos :: Int , yPos :: Int , zPos :: Int } This "partial bullet p...) Tj
+T*
+() Tj
+T*
+(16. Being ?Good? at Things) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Wed, 10 Jun 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/good-at-things/) Tj
+T*
+(Golf content on social media is my online junk food and the other day I came across a video) Tj
+T*
+(interviewing professional golfers that asks: ?What does an amateur golfer have to shoot to be) Tj
+T*
+(considered good?? It?s a leading question because the phrasing implicitly frames a number as) Tj
+T*
+(the answer for a qualitative measurement , but I digress. All the pros give their answers. Some) Tj
+T*
+(say you gotta shoot a number in 90?s. Others say the 80?s. Some even say the 70?s. Then along) Tj
+T*
+(comes Collin Morikawa: I don?t think there?s a number, but I think you have to be able to) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1210 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(finish out every hole without, like, picking up a two-footer. Love it! I don?t want to go too) Tj
+T*
+(deep on a social media golf interview clip, but? I love how he breaks out of the question?s) Tj
+T*
+(implicit framing and really strikes at the heart of the qualitative question: ?What does it) Tj
+T*
+(mean to be good at golf?? Being ?good?, in his eyes, is not shooting a specific number. Numbers) Tj
+T*
+(are standardized proxies for measurement across a wide variety of players, skill levels, and ?) Tj
+T*
+(to be quite frank ? degrees of honesty. Anyone who has played golf knows that scores can be) Tj
+T*
+(easily manipulated. On a casual outing amongst friends, my ?82? may be very dif...) Tj
+T*
+() Tj
+T*
+(17. Weekly Update 507) Tj
+T*
+(Source: Troy Hunt | Published: Wed, 10 Jun 2026 05:31:56 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-507/) Tj
+T*
+(1,000 breaches is one hell of a milestone. It's not just the process of getting data, verifying) Tj
+T*
+(it, loading it, sending notifications etc, it's all the other stuff that goes into keeping the) Tj
+T*
+(whole thing afloat. Legal docs. Trademarks. Accounting. Agreements. The most mind-numbingly) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004538 00000 n 
+0000004664 00000 n 
+0000009430 00000 n 
+0000009556 00000 n 
+0000014286 00000 n 
+0000014412 00000 n 
+0000019238 00000 n 
+0000019366 00000 n 
+0000020629 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20757
+%%EOF
