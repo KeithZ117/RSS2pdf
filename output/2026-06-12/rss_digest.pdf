@@ -1,0 +1,444 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4427 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-12 09:52:05) Tj
+T*
+() Tj
+T*
+(1. Claude Fable is relentlessly proactive) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-11T23:35:17+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything) Tj
+T*
+(After two days of experience with Claude Fable 5 I think the best way to describe it is) Tj
+T*
+(relentlessly proactive . It knows a whole lot of tricks and it will deploy pretty much any of) Tj
+T*
+(them to get to its goal. I'll illustrate this with an example. I was hacking on Datasette Agent) Tj
+T*
+(today when I noticed a glitch: a horizontal scrollbar that shouldn't be there in the jump menu) Tj
+T*
+(chat prompt. I snapped this screenshot: Then I started a fresh claude session in my) Tj
+T*
+(datasette-agent checkout, dragged in the screenshot and told it: Look at dependencies to help) Tj
+T*
+(figure out why there is a horizontal scrollbar here I had a hunch the cause was in a dependency) Tj
+T*
+(of Datasette Agent \(likely Datasette itself\) and I knew Fable was good at digging into) Tj
+T*
+(dependency code, either by inspecting installed files in its own virtual environment) Tj
+T*
+(site-packages or by referencing a local checkout on disk. Telling it to start with dependencies) Tj
+T*
+(felt like a good bet. I got distracted by a domestic task and wandered away from my computer.) Tj
+T*
+(When I came back a few minutes later I saw my machine open a browser window in my regular) Tj
+T*
+(Firefox and then navigate to the dialog in question . I had not told Claude Code to use any) Tj
+T*
+(browser...) Tj
+T*
+() Tj
+T*
+(2. datasette 1.0a33) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-11T15:26:49+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/11/datasette/#atom-everything) Tj
+T*
+(Release: datasette 1.0a33 This alpha is a significant step on the road to a stable 1.0, finally) Tj
+T*
+(extending the ?_extra= pattern I introduced in Datasette 1.0a3 to cover queries and rows in) Tj
+T*
+(addition to tables. That pattern is also now documented ! I wrote a whole lot more about the) Tj
+T*
+(new release on the Datasette project blog: Datasette 1.0a33 with JSON extras in the API .) Tj
+T*
+(Because API explorer tools are almost free to build now I had Claude Fable 5 in Claude Code) Tj
+T*
+(\(for the plan \) and GPT-5.5 xhigh in Codex Desktop \(for the implementation \) build me this) Tj
+T*
+(custom extras API explorer to help demonstrate the feature: Tags: projects , datasette ,) Tj
+T*
+(annotated-release-notes , ai-assisted-programming) Tj
+T*
+() Tj
+T*
+(3. asyncinject 0.7) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-11T06:28:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything) Tj
+T*
+(Release: asyncinject 0.7 I built this utility library to support an asyncio dependency) Tj
+T*
+(injection pattern a few years ago. I was using it with Datasette and Claude Fable 5 spotted) Tj
+T*
+(some bugs in the dependency which it then fixed for me. It's a very proactive model! Tags:) Tj
+T*
+(async , projects , python , claude-mythos) Tj
+T*
+() Tj
+T*
+(4. Apple: ?Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-11T21:58:49Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ip) Tj
+T*
+(ados-27/) Tj
+T*
+(Apple Newsroom, in an Apple Newsroom post Monday: According to EU regulators, the DMA requires) Tj
+T*
+(Apple to give any AI system nearly unlimited access to a user?s device, as well as the ability) Tj
+T*
+(to act on that access autonomously without a user?s ongoing visibility and control. That) Tj
+T*
+(includes the ability to read and send messages, make purchases, access files, and execute) Tj
+T*
+(actions across any app. Security researchers have already shown that AI systems can be hijacked) Tj
+T*
+(to steal personal data ? like passwords and photos ? and to permanently alter files and account) Tj
+T*
+(settings without a user?s consent. As AI systems gain more capabilities, these risks are) Tj
+T*
+(quickly increasing in frequency and scope. Given the serious risks to users, Apple designed a) Tj
+T*
+(solution called Trusted System Agent ? an intermediary that would allow virtual assistants to) Tj
+T*
+(safely access the same features and capabilities as Siri AI for devices in the EU. Apple also) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4604 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(shared a plan to launch Siri AI in the EU while gradually rolling out this new solution over an) Tj
+T*
+(18-month period. The European Commission said no. In fact, the European Commission did not) Tj
+T*
+(agree to any of Apple?s proposals. Apple will continue working to bring these fe...) Tj
+T*
+() Tj
+T*
+(5. Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-11T20:38:09Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=iEho3brGB64) Tj
+T*
+(Steven Spielberg, on The Rest Is Entertainment on YouTube: I approached Cubby Broccoli after) Tj
+T*
+(Jaws was a big hit. I?d always wanted to make a James Bond film from the day I saw Dr. No , so) Tj
+T*
+(I called Cubby after Jaws and volunteered. I said, ?If you need a director, I would love to) Tj
+T*
+(direct one.? And he said no. And he moved on. And then Cubby called me again after Close) Tj
+T*
+(Encounters came out. And that was a big hit. And Cubby called me a few years after Close) Tj
+T*
+(Encounters and said, ?We?d like to use the five notes in Moonraker .? And I said, ?I?ll make) Tj
+T*
+(you a deal. I?ll give you permission to use the five notes if you let me direct a Bond film.?) Tj
+T*
+(And he said ?Nope.? But I gave him the five notes anyway. In Moonraker , the iconic Close) Tj
+T*
+(Encounters notes are the passcode to the locked door of a secret lab that Bond \(Roger Moore\)) Tj
+T*
+(needs to enter. Probably not so secure to play the passcode digits audible, but it?s a fun) Tj
+T*
+(Easter egg. I always presumed that EON used it as fair-use homage, without bothering to ask) Tj
+T*
+(Spielberg or Columbia Pictures for permission. Spielberg, in his interview with The Rest Is) Tj
+T*
+(Entertainment, goes on to explain the oft-repeated story that his disappointment over his) Tj
+T*
+(reject...) Tj
+T*
+() Tj
+T*
+(6. Apple Introduces Siri AI) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-09T17:23:29Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable) Tj
+T*
+(-and-personal-assistant/) Tj
+T*
+(Apple Newsroom yesterday: This new version of Siri is built on Apple Intelligence, allowing) Tj
+T*
+(Siri to draw on personal context understanding and help users find what they need in the moment) Tj
+T*
+(across messages, emails, photos, and more. For example, users can ask Siri to find a restaurant) Tj
+T*
+(recommendation a friend messaged them about, surface a hotel confirmation number from an old) Tj
+T*
+(email, or pull up photos with friends and family from a recent trip. And personal context) Tj
+T*
+(understanding extends to third-party apps when developers integrate with Spotlight. With even) Tj
+T*
+(more systemwide app actions, Siri AI lets users get things done across apps, like drafting an) Tj
+T*
+(email from scratch, or editing and sharing a set of photos. Using onscreen awareness, Siri AI) Tj
+T*
+(can answer questions related to the content on a user?s screen. For example, if a user gets a) Tj
+T*
+(text about a potluck with friends, they can brainstorm with Siri on what to bring and then add) Tj
+T*
+(a recipe to the Notes app. In addition, Siri AI can use broad world knowledge to get up-to-date) Tj
+T*
+(information from the web on virtually any topic and generate a helpful answer, such as when and) Tj
+T*
+(where to see the next solar eclipse, or when a musician is coming to...) Tj
+T*
+() Tj
+T*
+(7. What?s the opposite of Clip≠Cursor that lets me exclude the cursor from a region?) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 10 Jun 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260610-00/?p=112412) Tj
+T*
+(There is no such feature, but you can just exclude it virtually. The post What?s the opposite) Tj
+T*
+(of Clip≠Cursor that lets me exclude the cursor from a region? appeared first on The Old New) Tj
+T*
+(Thing .) Tj
+T*
+() Tj
+T*
+(8. Solving a chess puzzle with Claude and Prolog) Tj
+T*
+(Source: John D. Cook | Published: Thu, 11 Jun 2026 13:14:26 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/11/prolog-claude/) Tj
+T*
+(Prolog is the original logic programming language. The name comes from programming in logic.) Tj
+T*
+(More specifically, the name comes from programmation en logique because the inventor of the) Tj
+T*
+(language, Philippe Roussel, is French. Prolog has its advantages and disadvantages. One of the) Tj
+T*
+(advantages is that the language represents logical problems directly. One of the disadvantages) Tj
+T*
+([?] The post Solving a chess puzzle with Claude and Prolog first appeared on John D. Cook .) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4429 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(9. Why disk warranties are useful at work but not for me at home) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-12T01:40:54Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork) Tj
+T*
+(I've been using my home desktop for many years now, with a variety of disk drives, and over) Tj
+T*
+(those years some of those disks have failed \(without data loss, because I use software RAID) Tj
+T*
+(mirrors\). Some of the time, those failures have happened when the HDD was still under warranty,) Tj
+T*
+(but despite that I've never bothered to try to return one for a warranty replacement. This is) Tj
+T*
+(strikingly unlike work, where we routinely return failed drives that are still under warranty.) Tj
+T*
+(Historically there have been two things that changed my behavior at home. The first is that) Tj
+T*
+(when a disk drive fails in my home system, my priority has always been to restore redundancy as) Tj
+T*
+(fast as possible. Sending a drive in for warranty replacement and waiting for the new one would) Tj
+T*
+(take weeks, and I don't want to run a non-redundant setup for that long, so I've always gone) Tj
+T*
+(out and bought a replacement drive immediately. The second is that a lot of the time, the) Tj
+T*
+(failed disk was old enough that the replacement HDD I'd be buying was bigger, which typically) Tj
+T*
+(meant that I had little immediate use for a smaller than I now wanted warranty replacement) Tj
+T*
+(drive. \(In retrospect, spare HDDs for backups were one use, but I'm lazy.\) Nei...) Tj
+T*
+() Tj
+T*
+(10. What Happened to tea.xyz) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-06-11T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/06/11/what-happened-to-tea.html) Tj
+T*
+(On June 4th, tea.xyz launched what it had been promising since 2022: a cryptocurrency that pays) Tj
+T*
+(open source maintainers. Within the first hour of official trading, the token fell 75% from its) Tj
+T*
+(opening price. A week later it trades about 90% below its first-day high, the company?s GitHub) Tj
+T*
+(org has been near-silent for six months, and the founder?s public commits are going to a) Tj
+T*
+(different project entirely. Their own blog post from June 8th, titled The Work Continues ,) Tj
+T*
+(concedes ?the right response is not to pretend the launch went the way we wanted. It did not.?) Tj
+T*
+(I?ve been pulling the public data: GitHub commit history, on-chain trading records, and the) Tj
+T*
+(long paper trail tea left across the package registries. Where tea came from tea was founded by) Tj
+T*
+(Max Howell, the creator of Homebrew, with Timothy Lewis. It came out of stealth in March 2022) Tj
+T*
+(with $8M led by Binance Labs, followed by an $8.9M seed round in December 2022 . The pitch had) Tj
+T*
+(two halves: a new package manager \(the tea CLI\), and a blockchain protocol that would reward) Tj
+T*
+(the maintainers of open source packages with tokens. Howell wrote Homebrew and made nothing) Tj
+T*
+(from it, and the pitch leaned on that history, famous Google interview reje...) Tj
+T*
+() Tj
+T*
+(11. Biological Evolution and Information Acquisition) Tj
+T*
+(Source: Construction Physics | Published: Thu, 11 Jun 2026 12:01:31 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/biological-evolution-and-information) Tj
+T*
+(A few weeks ago we looked at a simulation of technological evolution by economist Brian Arthur,) Tj
+T*
+(in which he was able to start with simple building blocks \(such as a NAND gate\) and evolve) Tj
+T*
+(surprisingly complex circuits \(such as a 12-way AND gate or a 4-bit adder\) by randomly) Tj
+T*
+(combining increasingly useful existing components.) Tj
+T*
+() Tj
+T*
+(12. My Portable Heater) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-06-11T03:52:47Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17359582/gigabyte-aorus-5060-ti-ai-box-egpu-review) Tj
+T*
+(This new eGPU barely works in Linux, gets quite hot, and is based on tech gamers already) Tj
+T*
+(rejected. So why am I so excited about it?) Tj
+T*
+() Tj
+T*
+(13. Hacking Google with A.I. for $500,000) Tj
+T*
+(Source: Brutecat ∑ Research | Published: Thu, 11 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://brutecat.com/articles/hacking-google-with-ai) Tj
+T*
+(What happens when you unleash an AI across all of Google's infrastructure? 1,500 APIs, 3,600) Tj
+T*
+(keys, and $500,000 in bounties later, here's what I found.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1587 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(14. Pluralistic: The world has moved on \(11 Jun 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 11 Jun 2026 14:43:06) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/11/lapsarianism/) Tj
+T*
+(Today's links The world has moved on: Notes from the enshittocene. Hey look at this: Delights) Tj
+T*
+(to delectate. Object permanence: "Jpod"; Barlow v Glickman; Cyclist v bike lanes; Judge v) Tj
+T*
+(copyright trolls; "The Uncertain Places"; Thatcher v Palin; NY v Time Warner; Banks v negative) Tj
+T*
+(interest rates; Keeping the new web decentralized; "Prisoners' Inventions." Upcoming) Tj
+T*
+(appearances: LA, Menlo Park, Toronto, NYC, Philadelphia, Chicago, Edinburgh, South Bend. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The world has moved) Tj
+T*
+(on \(permalink\) Douglas Adams wrote, "Anything that is in the world when you're born is normal) Tj
+T*
+(and ordinary and is just a natural part of the way the world works. Anything that's invented) Tj
+T*
+(between when you?re 15 and 35 is new and exciting and revolutionary and you can probably get a) Tj
+T*
+(career in it. Anything invented after you're 35 is against the natural order of things." I) Tj
+T*
+(think about this quote whenever I get angry at the technology around me. When I rail against) Tj
+T*
+(the Great Enshittening, am I simply committing the sin of nostalgia \("Nostalgia is a toxi...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004689 00000 n 
+0000004815 00000 n 
+0000009471 00000 n 
+0000009597 00000 n 
+0000014078 00000 n 
+0000014204 00000 n 
+0000015844 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15972
+%%EOF
