@@ -1,0 +1,546 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4397 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-13 09:47:56) Tj
+T*
+() Tj
+T*
+(1. Statement on the US government directive to suspend access to Fable 5 and Mythos 5) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-13T01:01:50+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-eve) Tj
+T*
+(rything) Tj
+T*
+(Statement on the US government directive to suspend access to Fable 5 and Mythos 5 Well this is) Tj
+T*
+(nuts : The US government, citing national security authorities, has issued an export control) Tj
+T*
+(directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside) Tj
+T*
+(or outside the United States, including foreign national Anthropic employees. The net effect of) Tj
+T*
+(this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to) Tj
+T*
+(ensure compliance. Access to all other Anthropic models will not be affected. We received the) Tj
+T*
+(directive from the government today at 5:21pm \(ET\). The letter did not provide specific details) Tj
+T*
+(of its national security concern. Our understanding is that the government believes it has) Tj
+T*
+(become aware of a method of bypassing, or "jailbreaking" Fable 5. We reviewed a demonstration) Tj
+T*
+(of this specific technique being used to identify a small number of previously known, minor) Tj
+T*
+(vulnerabilities. These vulnerabilities all appear relatively simple, and we have found that) Tj
+T*
+(other publicly-available models are able to discover them as well without requiring a bypass.) Tj
+T*
+([...] To date, the government has only given us verbal evidence of a potent...) Tj
+T*
+() Tj
+T*
+(2. OpenAI WebRTC Audio Session, now with document context) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-12T23:53:04+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything) Tj
+T*
+(OpenAI WebRTC Audio Session, now with document context I built the first version of this tool) Tj
+T*
+(in December 2024 to try out the then-new OpenAI WebRTC API for interacting with their realtime) Tj
+T*
+(audio models. Last month OpenAI introduced a brand new model to that API called GPT?Realtime?2) Tj
+T*
+(, which they promoted as "our first voice model with GPT?5?class reasoning" - with a Sep 30,) Tj
+T*
+(2024 knowledge cut-off. I've been waiting for that model to show up in the ChatGPT iPhone app) Tj
+T*
+(but it still hasn't, so I revisited my old playground. You can now pick the better model, and) Tj
+T*
+(you can also paste in a big chunk of document context so you can have as audio conversation in) Tj
+T*
+(your browser about whatever information you think would be useful to explore in a) Tj
+T*
+(conversational way. Tags: audio , tools , ai , openai , generative-ai , llms ,) Tj
+T*
+(multi-modal-output , webrtc) Tj
+T*
+() Tj
+T*
+(3. Quoting Andrew Singleton) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-12T18:09:21+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything) Tj
+T*
+(Jenny owns a crematorium. John?s propane company gives her a $20 billion investment in return) Tj
+T*
+(for 5 percent of her operation. Jenny throws $10 billion into the incinerator, then pays John) Tj
+T*
+($10 billion to buy propane to burn that money to ashes. John reports that his AI investments) Tj
+T*
+(have generated $10 billion in revenue this quarter and that he owns 5 percent of a $100 billion) Tj
+T*
+(business. A reporter from Forbes is assigned to profile John and Jenny, and over the course of) Tj
+T*
+(his research, he becomes embroiled in a passionate but confusing three-way love affair with) Tj
+T*
+(them, which eventually turns into a polyamorous common-law marriage. His profile is glowing,) Tj
+T*
+(but light on financial details. ? Andrew Singleton , AI Economics for Dummies Tags: ai) Tj
+T*
+() Tj
+T*
+(4. ? The Talk Show: Live From WWDC 2026) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-12T23:36:15Z) Tj
+T*
+(Link: https://daringfireball.net/2026/06/the_talk_show_live_from_wwdc_2026) Tj
+T*
+(Recorded in front of a live audience at The California Theatre in San Jose on Tuesday 9 June) Tj
+T*
+(2026, special guests Joanna Stern and Nilay Patel join John Gruber to discuss Apple?s) Tj
+T*
+(announcements at WWDC 2026.) Tj
+T*
+() Tj
+T*
+(5. The WWDC 2026 Keynote and State of the Union on YouTube) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4604 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-06-12T17:28:19Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=hF8swzNR1-o) Tj
+T*
+(Apple?s Developer app lets you download local copies of every session, including the State of) Tj
+T*
+(the Union, except the keynote. Why this is I don?t know. But if you want a local copy, you can) Tj
+T*
+(grab it from YouTube. Speaking of the State of the Union, the full version runs just over an) Tj
+T*
+(hour, but Apple cut together a 4.5-minute recap . If you haven?t watched the full thing you) Tj
+T*
+(should at least watch that recap. ?) Tj
+T*
+() Tj
+T*
+(6. The European Commission Response to Siri AI and the DMA) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-12T17:02:45Z) Tj
+T*
+(Link: https://www.linkedin.com/posts/thomas-regnier-24a05810b_what-is-the-true-story-behind-app) Tj
+T*
+(les-decision-activity-7470439874664280064-TuEt) Tj
+T*
+(Thomas Regnier, spokesperson for the European Commission, in a statement posted to LinkedIn) Tj
+T*
+(\(with edited video, if you?d like to watch him read parts aloud\): What is the true story behind) Tj
+T*
+(Apple?s decision not to roll out ?Siri AI? in the EU? This decision is Apple?s and Apple?s) Tj
+T*
+(only. Because absolutely nothing in the DMA prohibits Apple from rolling out new features in) Tj
+T*
+(the EU. Yes, the European Commission and Apple had a few contacts on ?Siri AI?. But instead of) Tj
+T*
+(offering a compliant solution, Apple asked to be exempted from its interoperability obligations) Tj
+T*
+(under the DMA ? and this for 18 months. That?s not an option. EU rules are non negotiable. And) Tj
+T*
+(it would mean that no AI agent other than ?Siri AI? could be chosen by EU consumers. Apple,) Tj
+T*
+(like any other gatekeeper, cannot close the market. The DMA is very clear about that. Our) Tj
+T*
+(developers have the right to compete. And our consumers the right to choose. Those who want to) Tj
+T*
+(keep using Apple products in their current form can of course do it. But for those who want to) Tj
+T*
+(use another AI agent, the DMA will give them the possibility to do so. Why this was posted to) Tj
+T*
+(LinkedIn and not on the EC?s own press website is as inexplicable as Regnie...) Tj
+T*
+() Tj
+T*
+(7. You can finally power on a Mac remotely) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 12 Jun 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/) Tj
+T*
+(Apple FINALLY lets you turn on your Mac remotely , without having to press the power button. In) Tj
+T*
+(the media, articles suggest it's a reaction to Mac mini power button complaints . While I agree) Tj
+T*
+(the M4 mini's power button is in a really dumb spot, that's not why I care about this feature.) Tj
+T*
+(The two bigger use cases for me have been a pain for years:) Tj
+T*
+() Tj
+T*
+(8. Understanding the rationale behind a rule when trying to circumvent it) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 11 Jun 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415) Tj
+T*
+(I mean, technically I didn't do it. The post Understanding the rationale behind a rule when) Tj
+T*
+(trying to circumvent it appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. I can never fully embrace LLMs for code) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Fri, 12 Jun 2026) Tj
+T*
+(12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code) Tj
+T*
+(My younger sister graduated with a CompSci degree a few years ago. I've been behind her,) Tj
+T*
+(motivating her and demystifying the world of programming from the very beginning. There was a) Tj
+T*
+(piece of advice I repeated everyday, trying to make her understand how to operate. The problem) Tj
+T*
+(was, she was trying to read and understand every line of code in a function before using it. I) Tj
+T*
+(thought it was non-sense. Someone, much smarter than us has created that function, it's part of) Tj
+T*
+(a vetted library, it has been tested already. All you have to do is use it. "After all, you) Tj
+T*
+(don't need to understand how an internal combustion engine works, yet you feel safe driving) Tj
+T*
+(your car, don't you?" Now, I find myself right at that inflection point. When I use an LLM to) Tj
+T*
+(generate code, whether it is to define a single function or to create a long running job, I) Tj
+T*
+(find this need to understand it. I cannot commit code that I don't understand. I posted about) Tj
+T*
+(how I spent 10 hours reworking what the AI had created in 12 minutes . I didn't do so because I) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4552 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(didn't like the style of the code, or the naming convention. I did it because the code didn't) Tj
+T*
+(work. As simple as that. Every time I generate code and trust it to be worki...) Tj
+T*
+() Tj
+T*
+(10. Why are cached input tokens cheaper with AI services?) Tj
+T*
+(Source: Xe Iaso's blog | Published: Fri, 12 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/notes/2026/why-llm-cached-token-cheaper/) Tj
+T*
+(TL;DR: the GPU doesn't have to math as hard) Tj
+T*
+() Tj
+T*
+(11. Joint Guidance on Vulnerability Naming and Disclosure) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-06-12T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html) Tj
+T*
+(FOR IMMEDIATE RELEASE Contact: naming@vna.example Subject: Vulnerability Naming Authority) Tj
+T*
+(Announces Naming Process and Domain Allocation Embargo: None The Vulnerability Naming Authority) Tj
+T*
+(\(VNA\), in coordination with the CVE Numbering Authority consortium and the National) Tj
+T*
+(Telecommunications and Information Administration, has published a unified process for the) Tj
+T*
+(assignment, registration, and disclosure of named vulnerabilities. The process introduces a) Tj
+T*
+(controlled vocabulary, a centralised approvals registry, and a top-level domain, .vuln ,) Tj
+T*
+(allocated for use exclusively in disclosure communications. The process applies to any) Tj
+T*
+(vulnerability disclosed publicly by an entity operating within the United States.) Tj
+T*
+(Vulnerabilities assigned only a CVE identifier remain out of scope. The Naming Process A named) Tj
+T*
+(vulnerability is defined as a vulnerability that the discoverer intends to refer to by name in) Tj
+T*
+(disclosure materials, including but not limited to: the discoverer?s blog, the discoverer?s) Tj
+T*
+(employer?s blog, the discoverer?s employer?s marketing department?s blog, a conference) Tj
+T*
+(programme, a podcast episode title, and any subsequent press coverage. Each named vulnerability) Tj
+T*
+(is described by a struc...) Tj
+T*
+() Tj
+T*
+(12. Gadget Review: TP Link EH210 Ethernet Splitter \(USB-C\) ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 12 Jun 2026 11:34:18 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/) Tj
+T*
+(When I ran Ethernet around our house, I thought I was being clever. A CAT6 cable for every room) Tj
+T*
+(- lush! Some of my rooms have lots of devices, so they get a nice big Ethernet switch with lots) Tj
+T*
+(of ports and blinking lights. But most of my rooms don't have that many devices. Our gym had) Tj
+T*
+(only an Internet connected TV so that I could watch Quibi while exercising. Recently we added a) Tj
+T*
+(Kodi box so that?) Tj
+T*
+() Tj
+T*
+(13. Running a modern email system requires non-trivial staff time) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-13T00:27:44Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailSystemsPeopleCost) Tj
+T*
+(In a comment on my entry on universities, email, and the issues of running things in house , I) Tj
+T*
+(mentioned that our departmental email system has a non-trivial cost in both hardware and staff) Tj
+T*
+(time. For the hardware costs I can easily count servers , but things are more fuzzy for the) Tj
+T*
+(staff time side of things so I'm not going to try to come up with a number \(especially because) Tj
+T*
+(our email system itself is somewhat complex because we have a number of unusual features, such) Tj
+T*
+(as our simple mailing lists \). The bigger issue is that the basic time cost to maintain your) Tj
+T*
+(email system is in some sense an illusion, or at least an inadequate measure. The reality of) Tj
+T*
+(modern email is that to run a modern email system you need to know about a lot of stuff, and) Tj
+T*
+(worse the stuff that you need to know about keeps evolving. You can't set up a mail system and) Tj
+T*
+(then walk away from it apart from software and hardware upgrades; instead, you have to keep on) Tj
+T*
+(top of a perpetually changing and evolving landscape of anti-spam systems and especially what) Tj
+T*
+(you need to keep your outgoing email being delivered. SPF, DKIM, DMARC, DMARC alignment, and so) Tj
+T*
+(on are merely today's names; in a few years there will be more, diff...) Tj
+T*
+() Tj
+T*
+(14. Premium: The Silicon Valley Bubble \(Part 1\)) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 12 Jun 2026 17:16:51 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-1/) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4697 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Friends, I believe we?re approaching the end of this era. Both OpenAI and Anthropic have filed) Tj
+T*
+(the paperwork to go public, starting a race for exit liquidity for two companies that burn) Tj
+T*
+(billions of dollars a year and have no path to profitability. Both of these companies are) Tj
+T*
+() Tj
+T*
+(15. AI will be massively deflationary) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-06-11T00:00:00-07:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/06/11/ai-will-be-deflationary.html) Tj
+T*
+(The funny thing about Anthropic haters is that they still mostly believe Anthropic?s marketing.) Tj
+T*
+(They think Claude is a recursively self-improving silicon God, and that we are all a couple) Tj
+T*
+(refusals away from falling into the perpetual underclass. This gives them way more power than) Tj
+T*
+(they deserve. Of course they believe they should dictate morality to you and control the future) Tj
+T*
+(light cone of the universe and everything they do is justified for the mission and so on and so) Tj
+T*
+(forth. And yea, the model is pretty good , so you worry that if the model is good that they) Tj
+T*
+(will get their way about other things. A lot of people in history have had dumb ideas about) Tj
+T*
+(ruling the world, doesn?t mean they can actually do it. They are a product of the rationalist) Tj
+T*
+(cult \(which surprise surprise, thinks the world is going to end soon but advocates for) Tj
+T*
+(polyamory in the mean time\). There?s some short-term dangers from them, but long-term very) Tj
+T*
+(little. Remember when SBF wanted to regulatory capture all of crypto? And similar to Claude,) Tj
+T*
+(FTX was a successful product! But the totalizing nature of the ideology contains its downfall.) Tj
+T*
+(The tech to make models is way more commodity than previous generations of techno...) Tj
+T*
+() Tj
+T*
+(16. This Week on The Analog Antiquarian) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 12 Jun 2026 16:31:11 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/) Tj
+T*
+(Opus 2: Henry VI, Part 1) Tj
+T*
+() Tj
+T*
+(17. Pluralistic: Google's new remote attestation scheme is every bit as terrible as its) Tj
+T*
+(old remote attestation scheme \(12 Jun 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 12 Jun 2026 20:45:52) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/12/compelled-speech/) Tj
+T*
+(Today's links Google's new remote attestation scheme is every bit as terrible as its old remote) Tj
+T*
+(attestation scheme: Not even a QR code can produce a kissable pig. Hey look at this: Delights) Tj
+T*
+(to delectate. Object permanence: Arrested at Toronto G20; Rule by rentiers; Wrong about the) Tj
+T*
+(First Amendment; Mounties x Stingrays; \(EU\) Privacy without monopoly. Upcoming appearances: LA,) Tj
+T*
+(Menlo Park, Toronto, NYC, Philadelphia, Chicago, Edinburgh, South Bend. Recent appearances:) Tj
+T*
+(Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like) Tj
+T*
+(I said, I'll keep writin' 'em. Colophon: All the rest. Google's new remote attestation scheme) Tj
+T*
+(is every bit as terrible as its old remote attestation scheme \(permalink\) Long before "agentic) Tj
+T*
+(AI," we had the idea that software would act as your agent on the internet. That's why the) Tj
+T*
+(old-fashioned technical term for a browser is a "user agent." Your browser acts on your behalf) Tj
+T*
+(to retrieve information and then show it to you, in the format you choose. It's your agent:) Tj
+T*
+(https://pluralistic.net/2024/05/07/treacherous-computing/#rewilding-the-internet This is a) Tj
+T*
+(powerful and profound idea. It is because browsers are our "agents" that we...) Tj
+T*
+() Tj
+T*
+(18. I Am Not a Reverse Centaur) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Fri, 12 Jun 2026 09:20:39 GMT) Tj
+T*
+(Link: https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur) Tj
+T*
+(About a year ago I wrote on this blog about how coding with LLMs would not work for me , even) Tj
+T*
+(if there were no ethical or environmental concerns preventing me to use them. I'm not going to) Tj
+T*
+(repeat the arguments I made that time because my views on the subject haven' t changed. What) Tj
+T*
+(has changed, however, is that the number of contributions I receive on my open source projects) Tj
+T*
+(has gone up, and nearly all are now made with LLMs. The other day I had a very depressing) Tj
+T*
+(thought regarding this. All these people who submit drive-by pull requests to my projects are) Tj
+T*
+(pushing me to spend more and more of my time reviewing and merging code that was extruded by) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 634 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(machines. Cory Doctorow refers to people that perform this function as reverse centaurs . He) Tj
+T*
+(calls these "frail and vulnerable people being puppeteered by uncaring, relentless machines.") Tj
+T*
+(Ouch! Am I a reverse centaur now? Is my new purpose as a seasoned software engineer and open) Tj
+T*
+(source developer to spend my days reviewing LLM code, in spite of having decided that I do not) Tj
+T*
+(need nor want this technology myself? As you can guess from the title, I'm never going to) Tj
+T*
+(become a reverse centaur. Let me tell you how I resist the forces that want me t...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004666 00000 n 
+0000004792 00000 n 
+0000009448 00000 n 
+0000009574 00000 n 
+0000014178 00000 n 
+0000014304 00000 n 
+0000019054 00000 n 
+0000019182 00000 n 
+0000019868 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+19996
+%%EOF
