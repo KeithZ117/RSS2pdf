@@ -1,0 +1,466 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4300 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-14 09:51:48) Tj
+T*
+() Tj
+T*
+(1. Publishing WASM wheels to PyPI for use with Pyodide) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-13T23:55:18+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything) Tj
+T*
+(The Pyodide 314.0 release announcement \(via Hacker News \) includes news I've been looking) Tj
+T*
+(forward to for a long time: You can now publish Python packages built for Pyodide \(or any) Tj
+T*
+(Python runtime compatible with the PyEmscripten platform defined in PEP 783 \) directly to PyPI) Tj
+T*
+(and install them at runtime. Previously, the Pyodide maintainers had to maintain, build, and) Tj
+T*
+(host over 300 packages ourselves. This created a significant burden on our maintainers and) Tj
+T*
+(became a major bottleneck for the community, as every new package required manual review.) Tj
+T*
+(Moving forward, package maintainers can simply build and publish Pyodide wheels to PyPI, just) Tj
+T*
+(as they do for native wheels on Linux, macOS, or Windows. Here's the PR to PyPI itself) Tj
+T*
+(supporting this , which landed on April 21st. I adore Pyodide , and have been frustrated in the) Tj
+T*
+(past by this limitation. It's possible to compile C or Rust extensions to WASM in a wheel file,) Tj
+T*
+(but before now there was no easy way to distribute them. Thanks to the efforts of a whole lot) Tj
+T*
+(of people, that's now been fixed! Trying it out with luau-wasm I decided to celebrate by) Tj
+T*
+(finding something I could package. I have quite a few experimental Pyodide projects lying) Tj
+T*
+(arou...) Tj
+T*
+() Tj
+T*
+(2. luau-wasm 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-13T23:14:30+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything) Tj
+T*
+(Release: luau-wasm 0.1a0 See Publishing WASM wheels to PyPI for use with Pyodide for details.) Tj
+T*
+(Tags: lua , webassembly , pyodide) Tj
+T*
+() Tj
+T*
+(3. Mapping SQLite result columns back to their source `table.column`) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-13T23:05:00+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything) Tj
+T*
+(Research: Mapping SQLite result columns back to their source `table.column` It would be neat if) Tj
+T*
+(arbitrary SQL queries in Datasette could be rendered with additional information based on which) Tj
+T*
+(columns from which tables were included in the results. To build that, we would need to be able) Tj
+T*
+(to look at a SQL query like select users.name, orders.total from users join orders on) Tj
+T*
+(orders.user_id = users.id and programmatically identify the table.column for each result -) Tj
+T*
+(navigating not just joins but also more complex syntax like CTEs. I decided to set Claude Code) Tj
+T*
+(\(Opus 4.8, since Fable is currently banned by the US government \) on the problem. It found) Tj
+T*
+(several promising solutions - one using apsw , another that uses ctypes to access the SQLite) Tj
+T*
+(sqlite3_column_table_name\(\) C function \(which is not otherwise exposed to Python\), and one) Tj
+T*
+(using clever interrogation of the output of EXPLAIN . Tags: python , sqlite , datasette) Tj
+T*
+() Tj
+T*
+(4. Trump?s Name \(Set in the Wrong Font, of Course\) Has Been Removed From the Kennedy) Tj
+T*
+(Center) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-13T17:34:15Z) Tj
+T*
+(Link: https://apple.news/ANLNtQOeuSkiJ35tzkYw9oA) Tj
+T*
+(Jonathan Edwards reporting for The Washington Post: President Donald Trump?s name is off the) Tj
+T*
+(Kennedy Center. Crews at the performing arts venue started removing it from the front of the) Tj
+T*
+(building around 3 a.m., several hours after the center missed a federal judge?s two-week) Tj
+T*
+(deadline to do so. The judge had ruled that the decision by the center?s board of trustees to) Tj
+T*
+(rename it was illegal. A perfect metaphor for the work ahead of us. ?) Tj
+T*
+() Tj
+T*
+(5. Apple?s Private Cloud Compute Is Severely Limited for Third-Party Developers) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-13T17:20:59Z) Tj
+T*
+(Link: https://developer.apple.com/private-cloud-compute/) Tj
+T*
+(From Apple?s Developer site: To ensure getting started with a large cloud model is as) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4864 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(accessible as possible, developers in the App Store Small Business Program with fewer than two) Tj
+T*
+(million first time App Store downloads will be able to use Apple Foundation Models running on) Tj
+T*
+(Private Cloud Compute \(PCC\) with no cloud API cost. The model provides access to frontier level) Tj
+T*
+(intelligence with unparalleled privacy protections. This makes it easy for small developers to) Tj
+T*
+(get started building intelligent app experiences without upfront infrastructure costs.) Tj
+T*
+(Eligibility requirements Access to PCC is available to developers who meet the following) Tj
+T*
+(criteria: Are enrolled in the App Store Small Business Program . Have fewer than 2 million) Tj
+T*
+(first-time app downloads from any of their apps on the App Store. Have the Private Cloud) Tj
+T*
+(Compute entitlement assigned to their account . Where Apple Intelligence is available, eligible) Tj
+T*
+(developers can use PCC in their apps distributed on the App Store, and test PCC features via) Tj
+T*
+(TestFlight or ad hoc distribution. Installs during testing are not counted as first-time app) Tj
+T*
+(downloads. If any app subsequently exceeds the 2 million first-time downloads threshold, or) Tj
+T*
+(the...) Tj
+T*
+() Tj
+T*
+(6. U.S. Government Directs Anthropic to Shut Down Fable 5 and Mythos 5 Models on National) Tj
+T*
+(Security Grounds) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-13T17:02:29Z) Tj
+T*
+(Link: https://www.anthropic.com/news/fable-mythos-access) Tj
+T*
+(Anthropic: The US government, citing national security authorities, has issued an export) Tj
+T*
+(control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national,) Tj
+T*
+(whether inside or outside the United States, including foreign national Anthropic employees.) Tj
+T*
+(The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our) Tj
+T*
+(customers to ensure compliance. Access to all other Anthropic models will not be affected. We) Tj
+T*
+(received the directive from the government today at 5:21pm \(ET\). The letter did not provide) Tj
+T*
+(specific details of its national security concern. Our understanding is that the government) Tj
+T*
+(believes it has become aware of a method of bypassing, or ?jailbreaking? Fable 5. We reviewed a) Tj
+T*
+(demonstration of this specific technique being used to identify a small number of previously) Tj
+T*
+(known, minor vulnerabilities. These vulnerabilities all appear relatively simple, and we have) Tj
+T*
+(found that other publicly-available models are able to discover them as well without requiring) Tj
+T*
+(a bypass. Fable 5 and Mythos 5 were announced on Tuesday ? that post has detailed comparisons,) Tj
+T*
+(from Anthropic, on the models? capabilities. Having the access ban extend all the...) Tj
+T*
+() Tj
+T*
+(7. The adder at the heart of Intel's 8087 floating-point chip) Tj
+T*
+(Source: Ken Shirriff's blog | Published: 2026-06-13T08:56:00.314-07:00) Tj
+T*
+(Link: http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html) Tj
+T*
+(In 1980, Intel released the Intel 8087 floating-point coprocessor, a chip that could make math) Tj
+T*
+(up to 100 times faster. As well as arithmetic and square roots, the 8087 computed) Tj
+T*
+(transcendental functions including tangent, exponentiation, and logarithms. But it all depended) Tj
+T*
+(on a 69-bit adder: "The arithmetic heart of the floating-point execution unit is centered about) Tj
+T*
+(a nanomachine comprised of the adder and its related registers, shifters and control) Tj
+T*
+(circuitry," as the patent describes it. In this article, I explain the circuitry of this adder.) Tj
+T*
+(The photo below shows the 8087 die under a microscope. Around the edges of the die, hair-thin) Tj
+T*
+(bond wires connect the chip to its 40 external pins. The complex patterns on the die are formed) Tj
+T*
+(by its metal wiring, as well as the polysilicon and silicon underneath. At the top of the chip,) Tj
+T*
+(the Bus Interface Unit connects to the rest of the system: coordinating with the main 8086) Tj
+T*
+(processor and memory. The chip's instructions are defined by the large microcode ROM in the) Tj
+T*
+(middle. Die of the Intel 8087 floating-point unit chip, with relevant functional blocks) Tj
+T*
+(labeled. The die is 5mm◊6mm. Click for a larger image. The bottom half of the die is the "da...) Tj
+T*
+() Tj
+T*
+(8. RSA munitions T-shirt) Tj
+T*
+(Source: John D. Cook | Published: Sat, 13 Jun 2026 20:10:20 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/13/rsa-munitions-t-shirt/) Tj
+T*
+(Back when the US government classified strong encryption as ?munitions,? RSA public key) Tj
+T*
+(cryptography was illegal to export. In 1995, Adam Back protested this by creating a terse,) Tj
+T*
+(obfuscated implementation of RSA in Perl code and used it as an email signature. The code was) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4413 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(also printed on T-shirts. The shirt was classified as munitions [?] The post RSA munitions) Tj
+T*
+(T-shirt first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Dangerous Technology For Americans Only) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-06-13T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/6/13/americans-only/) Tj
+T*
+(There is a bit of schadenfreude on Twitter right now about Anthropic being hit by the US) Tj
+T*
+(government?s export control directive to suspend access to Fable and Mythos . Anthropic and) Tj
+T*
+(their leadership have spent a lot of time and effort describing its own technology as dangerous) Tj
+T*
+(and in need of strict controls and regulation. Now that the US government appears to have taken) Tj
+T*
+(that framing seriously and told them to turn it off for foreign nationals I can see why people) Tj
+T*
+(are making fun of that situation. I understand the reaction, but I urge you to not entertain it) Tj
+T*
+(for too long because it is a giant distraction. The important part is not that Anthropic?s) Tj
+T*
+(safety language came back to bite them but the line the US government is drawing: this) Tj
+T*
+(technology is apparently so powerful that only Americans should have it. We are on a clear path) Tj
+T*
+(towards a world of division. One should think that if a model is too dangerous for everyone,) Tj
+T*
+(then it is too dangerous for Americans too. Instead the US is treating these models like) Tj
+T*
+(weapons that need to be controlled. It is not just about capabilities, it is about racism and) Tj
+T*
+(nationalism. If you have the wrong passport, you are not to be trusted. This is a ver...) Tj
+T*
+() Tj
+T*
+(10. This Week in Package Management: 13 June 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-06-13T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/06/13/this-week-in-package-management.html) Tj
+T*
+(Week four of the roundup, built from the package manager OPML feed collection and whatever I?ve) Tj
+T*
+(posted or boosted on Mastodon . Security GitHub announced the breaking changes coming in npm) Tj
+T*
+(v12 , estimated for July. npm install will stop running dependency lifecycle scripts unless) Tj
+T*
+(they?re allowed via the allowScripts field that 11.16.0 introduced in advisory mode, covered in) Tj
+T*
+(the install-script allowlists post I wrote last week. Implicit node-gyp builds are blocked too,) Tj
+T*
+(so a package with a binding.gyp and no install script needs approval like any other. Git) Tj
+T*
+(dependencies and remote URL tarballs also stop resolving by default, each behind a new) Tj
+T*
+(--allow-git / --allow-remote flag. Everything ships behind warnings in npm 11.16.0+ today. uv) Tj
+T*
+(audit is a new preview command that scans Python dependencies for known vulnerabilities and) Tj
+T*
+(adverse project statuses like deprecation, a uv-native alternative to pip-audit. The same) Tj
+T*
+(announcement covers an experimental malware check: uv add and uv sync can look up) Tj
+T*
+(previously-resolved packages against OSV on every sync, behind UV_MALWARE_CHECK=1 . pnpm 11.5.3) Tj
+T*
+(, backported to 10.34.2 , hardens the packageManager bootstrap path. The registry and proxy) Tj
+T*
+(sett...) Tj
+T*
+() Tj
+T*
+(11. Reading List 06/13/2026) Tj
+T*
+(Source: Construction Physics | Published: Sat, 13 Jun 2026 12:01:19 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-06132026) Tj
+T*
+(Homes being built on top of libraries, Patriot missile manufacturing, an effort to construct) Tj
+T*
+(new US coal plants, a tunnel between the US and Russia, and more.) Tj
+T*
+() Tj
+T*
+(12. Human Routers of Machine Words) Tj
+T*
+(Source: Fernando Borretti | Published: Sat, 13 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://borretti.me/article/human-routers-of-machine-words) Tj
+T*
+(On people who use AI to think.) Tj
+T*
+() Tj
+T*
+(13. Building an serial and VGA "everything console") Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-06-13T18:26:37.897-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html) Tj
+T*
+(Some of our recent \(and some upcoming\) projects are oriented to systems with serial consoles,) Tj
+T*
+(but it's been getting pretty old dragging around old CRT terminals or tying up Mac laptops with) Tj
+T*
+(a serial port. I'd like something that's self-contained, a little more portable and a bit less) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2631 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(heavy. I'm sure there's any number of all-in-one setups you can buy to do this, but I'm cheap,) Tj
+T*
+(so I'm going to DIY it. We'll start with this used, slightly abused IBM 1U console that I got) Tj
+T*
+(for $120 \(shipped\) from eBay, add a terminal emulator, and put all the fixin's on. Nearly every) Tj
+T*
+(server company produces one of these. They slide into a regular 19" rack and provide a flip-up) Tj
+T*
+(LCD screen and keyboard in 1U. This was an IBM 7316-TF3 with a 17" screen and a combo) Tj
+T*
+(keyboard-mouse slimline keyboard. IBM apparently manufactured these from 2004 to 2014 , so it's) Tj
+T*
+(almost on-topic for this blog, even. I chose it because it was a little banged up and the LCD) Tj
+T*
+(had some areas of damage \(probably improperly closed on something\), and the seller had priced) Tj
+T*
+(it accordingly, but the screen was still sufficiently legible and the keyboard looked fine.) Tj
+T*
+(Naturally you can do mostly what we're doing here with any of the simila...) Tj
+T*
+() Tj
+T*
+(14. Pluralistic: Shareholder supremacy and the precog CEO \(13 Jun 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 13 Jun 2026 17:49:56) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/13/minority-shareholder-report/) Tj
+T*
+(Today's links Shareholder supremacy and the precog CEO: A bright line test that's totally) Tj
+T*
+(unfalsifiable. Hey look at this: Delights to delectate. Object permanence: Msft v Linux geeks;) Tj
+T*
+(James Joyce scholars v Joyce estate; iPod sweatshops; Pratchett initiates assisted suicide;) Tj
+T*
+(Lego-making machine made of Lego; Laid off workers v gag clauses; The ACCESS Act. Upcoming) Tj
+T*
+(appearances: LA, Menlo Park, Toronto, NYC, Philadelphia, Chicago, Edinburgh, South Bend. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Shareholder) Tj
+T*
+(supremacy and the precog CEO \(permalink\) It's been 55 years since Milton Friedman ? cursed be) Tj
+T*
+(his name ? published his NYT editorial, "The Social Responsibility of Business Is to Increase) Tj
+T*
+(Its Profits," in which he invented the idea of shareholder supremacy out of whole cloth and) Tj
+T*
+(declared it to be a universal, freestanding, inarguable truth: https://www.nytimes.com/1970/09/) Tj
+T*
+(13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html Friedman's) Tj
+T*
+(editorial railed against the idea of "corporate social responsibility," arguing that corpora...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004562 00000 n 
+0000004688 00000 n 
+0000009604 00000 n 
+0000009730 00000 n 
+0000014195 00000 n 
+0000014321 00000 n 
+0000017005 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+17133
+%%EOF
