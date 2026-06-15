@@ -1,0 +1,418 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4800 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-15 09:54:54) Tj
+T*
+() Tj
+T*
+(1. AI GPUs probably live longer than three years) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Mon, 15 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/ai-gpus-live-longer-than-three-years/) Tj
+T*
+(People who think current AI use is unsustainable often rely on the claim that inference GPUs) Tj
+T*
+(only last ?three years at the most? under load 1 . The idea here is that once the AI bubble) Tj
+T*
+(money drains away, current infrastructure will rapidly become obsolete, and there won?t be) Tj
+T*
+(enough money floating around to buy a whole slate of brand-new GPUs. Inference costs would thus) Tj
+T*
+(rapidly become way too expensive for current AI products to make any financial sense. Where) Tj
+T*
+(does this ?three years at the most? claim come from? Is it plausible? Sourcing the quote The) Tj
+T*
+(original Tom?s Hardware article quotes this tweet from Tech Fund, an anonymous former PM and) Tj
+T*
+(tech investor, who quotes an anonymous ?GenAI principal architect? at Google as saying ?if you) Tj
+T*
+(have a high utilization rate, then constant high utilization rate for a year or two, I think) Tj
+T*
+(the lifespan will be three years at most?. This screenshot looks like it was from an interview.) Tj
+T*
+(What interview? I scrolled back to October 2024 on Tech Fund?s Twitter feed and saw a bunch of) Tj
+T*
+(similarly-formatted screenshots , some of which were cited as coming from Tegus . Tegus is) Tj
+T*
+(apparently a company with a business model of reaching out to insiders \(in this...) Tj
+T*
+() Tj
+T*
+(2. Why AI hasn?t replaced software engineers, and won?t) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-14T23:54:11+00:00) Tj
+T*
+(Link:) Tj
+T*
+(https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything) Tj
+T*
+(Why AI hasn?t replaced software engineers, and won?t Arvind Narayanan and Sayash Kappor take on) Tj
+T*
+(the question of AI job losses through the lens of a profession that is uniquely suited to AI) Tj
+T*
+(disruption - software engineering. In this essay, we argue that there is enough evidence to) Tj
+T*
+(reject the narrative that once AI capabilities reach a certain threshold, it will cause mass) Tj
+T*
+(layoffs. Given that this is true even in a sector with very few regulatory barriers, most other) Tj
+T*
+(professions are likely to be even more cushioned. The first good news is that the data still) Tj
+T*
+(doesn't support the idea that AI is causing mass unemployment. In March 2025, New York became) Tj
+T*
+(the first U.S. state to add an AI disclosure checkbox to WARN Act filings. In the full first) Tj
+T*
+(year, more than 160 companies filed WARN notices. Not a single one checked the AI box AI speeds) Tj
+T*
+(up the typing-code-into-a-computer phase, but it turns out software engineering is about a) Tj
+T*
+(whole lot more than that: If writing code isn?t the bottleneck, what is? The task-breakdown) Tj
+T*
+(surveys point at things like meetings or debugging. This just leads to more questions: what are) Tj
+T*
+(developers doing in those meetings and why can?t it be done by AI? Won?t d...) Tj
+T*
+() Tj
+T*
+(3. Anthropic Walks Back Policy That Could Have ?Sabotaged? AI Researchers Using Claude) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-11T03:45:49+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything) Tj
+T*
+(Anthropic Walks Back Policy That Could Have ?Sabotaged? AI Researchers Using Claude Big scoop) Tj
+T*
+(for Maxwell Zeff at Wired: ?We?re changing Fable 5?s safeguards for frontier LLM development to) Tj
+T*
+(make them visible.? Anthropic said in a statement to WIRED. ?We made the wrong tradeoff and we) Tj
+T*
+(apologize for not getting the balance right.? There's been a huge outcry about Anthropic's) Tj
+T*
+(policy, tucked away in their system card , that Claude Fable/Mythos would identify "requests) Tj
+T*
+(targeting frontier LLM development" and "limit effectiveness" without notifying the user. It's) Tj
+T*
+(good news that they're dropping the invisible aspect of this. It would be a whole lot better of) Tj
+T*
+(they dropped this category of refusals entirely. Update : More details from @ClaudeDevs on) Tj
+T*
+(Twitter : We?re rolling out changes to make Fable 5?s safeguards for frontier LLM development) Tj
+T*
+(visible. Starting this week, flagged requests will visibly fall back to Opus 4.8?the same as) Tj
+T*
+(our safeguards for cyber and bio. You will see this every time it happens. On the API, any) Tj
+T*
+(flagged requests will return a reason for their refusal \(coming to server-side fallback in the) Tj
+T*
+(next few days\). We wanted to deploy Fable 5 to our users quickly and safely...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4735 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(4. Setting a custom price for a model in AgentsView) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-09T21:35:31+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything) Tj
+T*
+(TIL: Setting a custom price for a model in AgentsView I've been really enjoying AgentsView by) Tj
+T*
+(Wes McKinney as a tool for exploring my token usage across different coding agents running on) Tj
+T*
+(my laptop. Claude Fable 5 came out today and wasn't yet included in the pricing database) Tj
+T*
+(AgentsView uses. I used Fable to reverse-engineer AgentsView and figured out this recipe for) Tj
+T*
+(setting custom prices. Here's my Claude Fable 5 usage for today so far, plotted by AgentsView) Tj
+T*
+(as a treemap across my different local projects: Tags: ai , generative-ai , llms , llm-pricing) Tj
+T*
+(, claude-mythos) Tj
+T*
+() Tj
+T*
+(5. Apple?s WWDC Announcement of the New Apple Intelligence System) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-09T16:50:33Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities) Tj
+T*
+(-into-everyday-experiences/) Tj
+T*
+(Apple Newsroom: These new capabilities are powered by the next generation of Apple Foundation) Tj
+T*
+(Models, custom-built in collaboration with Google and its Gemini models for deeply integrated) Tj
+T*
+(Apple Intelligence experiences. These latest models run on device and on servers using Private) Tj
+T*
+(Cloud Compute. Every facet of the new Apple Intelligence architecture is built privacy-first,) Tj
+T*
+(from the latest Apple Foundation Models to the core operating system technologies that) Tj
+T*
+(integrate these models deep into Apple?s platforms. Apple Intelligence uses on-device) Tj
+T*
+(processing and Private Cloud Compute to help protect users? privacy. Private Cloud Compute) Tj
+T*
+(gives users access to frontier-level intelligence, while extending the privacy and security of) Tj
+T*
+(iPhone into the cloud. What?s confusing about this Apple-Google partnership is that Google) Tj
+T*
+(pretty much calls all things AI ?Gemini?. The models are ?Gemini?, the assistant is ?Gemini?,) Tj
+T*
+(and the feature integrations are ?Gemini?. So Apple is taking pains to emphasize that they?re) Tj
+T*
+(building atop the Gemini models , not the Gemini assistant . One way to think about it is this.) Tj
+T*
+(Let?s say you?re a Google Gemini app user. That?s the assistant. Now you start using the...) Tj
+T*
+() Tj
+T*
+(6. [Sponsor] WorkOS Launches auth.md ? an Open Protocol for Agent Registration) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-09T04:23:05Z) Tj
+T*
+(Link: https://youtu.be/Dqp_b8GHLXU?t=1074) Tj
+T*
+(Sign-up forms were built for humans in browsers, so how do AI agents programmatically register) Tj
+T*
+(with services? Enter auth.md. By exposing a single, machine-readable Markdown file at your) Tj
+T*
+(service root, AI agents can dynamically discover your OAuth Protected Resource Metadata, parse) Tj
+T*
+(required scopes, and authenticate seamlessly. With native support in WorkOS AuthKit, you can) Tj
+T*
+(now implement this protocol out of the box, giving AI tools a standardized, secure way to log) Tj
+T*
+(into your application. Read the auth.md docs . ?) Tj
+T*
+() Tj
+T*
+(7. Remember When Chrome Went Bad on MacOS?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-04T18:10:19Z) Tj
+T*
+(Link: https://chromeisbad.com/) Tj
+T*
+(Loren Brichter , back in 2020: Short story: Google Chrome installs an updater called Keystone) Tj
+T*
+(on your computer, which is bizarrely correlated to massive unexplained CPU usage in) Tj
+T*
+(WindowServer \(a system process\) [1] , and made my whole computer slow even when Chrome wasn?t) Tj
+T*
+(running . Deleting Chrome and Keystone made my computer way, way faster, all the time . Long) Tj
+T*
+(story: I noticed my brand new 16? MacBook Pro started acting sluggishly doing even trivial) Tj
+T*
+(things like scrolling. Activity Monitor showed nothing from Google using the CPU, but) Tj
+T*
+(WindowServer was taking ~80%, which is abnormally high \(it should use Doing all the normal) Tj
+T*
+(things \(quitting apps, logging out other users, restarting, zapping PRAM/SMC, etc\) did nothing,) Tj
+T*
+(then I remembered I had installed Chrome a while back to test a website. I deleted Chrome, and) Tj
+T*
+(noticed Keystone while deleting some of Chrome?s other preferences and caches. I deleted) Tj
+T*
+(everything from Google I could find, restarted the computer, and it was like night-and-day.) Tj
+T*
+(Everything was instantly and noticeably faster, and WindowServer CPU was well under 10% again.) Tj
+T*
+(Not all Mac users, but many, found that just having Chrome installed slowed down their Macs) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4380 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(dramati...) Tj
+T*
+() Tj
+T*
+(8. How can I schedule work on a thread pool with low latency?) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 12 Jun 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417) Tj
+T*
+(The thread pool is designed for throughput, not latency. The post How can I schedule work on a) Tj
+T*
+(thread pool with low latency? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Linux distribution packaging and third party 'package' systems) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-14T03:22:27Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers) Tj
+T*
+(If you look at it from the right angle, the existence of third party package systems that sit) Tj
+T*
+(on top of Linux distributions is rather odd. After all, these distributions already have) Tj
+T*
+(packaging systems, yet here people are, ignoring them and writing new ones. A while back on the) Tj
+T*
+(Fediverse, I said something on this general topic: I have feelings and some of the feelings are) Tj
+T*
+(that everyone screwed this up, for actually natural reasons. I don't think any distro solved) Tj
+T*
+(the 'how do we let people easily build and deploy software on us' problem, and so programmers) Tj
+T*
+(do what programmers do and built themselves another layer of indirection to solve their) Tj
+T*
+(immediate problem. \(I mean, ship an entire container running a web server to do what you could) Tj
+T*
+(do with a CGI or some PHP files or ... this is my face, etc.\) \(There are two sides of this, the) Tj
+T*
+(system side \(what I was talking about\) and the user side .\) On the one hand this is perfectly) Tj
+T*
+(natural for Linux distributions to do. They built their package system to manage their own) Tj
+T*
+(components, with all of the features that are important for that , not to make it easy for) Tj
+T*
+(programmers to create a package for something that was the contents of '/opt/ ' an...) Tj
+T*
+() Tj
+T*
+(10. Did Frank Sinatra really think "Something" was a Lennon/McCartney song?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 14 Jun 2026 11:34:16 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mc) Tj
+T*
+(cartney-song/) Tj
+T*
+(Read enough articles about The Beatles and you'll repeatedly hit the claim that Frank Sinatra) Tj
+T*
+(frequently introduced his cover of George Harrison's "Something" as his "favourite Lennon &) Tj
+T*
+(McCartney number." Much like the misquote about Ringo not being the best drummer in The) Tj
+T*
+(Beatles, I think this might be one of those semi-apocryphal lines which has taken on a life of) Tj
+T*
+(its own. Here's what Paul?) Tj
+T*
+() Tj
+T*
+(11. Plugins case study: Pluggy) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-06-13T20:21:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/) Tj
+T*
+(Recently I came upon Pluggy , a Python library for developing plugin systems. It was originally) Tj
+T*
+(developed as part of the pytest project - known for its rich plugin ecosystem - and later) Tj
+T*
+(extracted into a standalone library. You're supposed to reach out for Pluggy if you want to add) Tj
+T*
+(a plugin system ?) Tj
+T*
+() Tj
+T*
+(12. from hookswitch to grave) Tj
+T*
+(Source: computers are bad | Published: 14 Jun 2026 00:00:00 UT) Tj
+T*
+(Link: https://computer.rip/2026-06-14-hookswitch-to-grave.html) Tj
+T*
+(Through decades of consolidation, reorganization, and divestiture, AT&T left a famously) Tj
+T*
+(complicated corporate history. One of the greatest enterprises in American history, arguably) Tj
+T*
+(the greatest enterprise, AT&T has often rivaled the federal government in the size of its) Tj
+T*
+(budget and workforce. One of the reasons, as we well know today, was monopolization and its) Tj
+T*
+(close relative vertical integration. AT&T was the telephone system, or at least aspired to be,) Tj
+T*
+(and for decades the meaning of "Universal Service" was that the service was designed, built,) Tj
+T*
+(and operated by AT&T?universally. While AT&T's tangled origins are fertile ground for the) Tj
+T*
+(historian, they also obscure many of the early stories of telephone history. Much of the work) Tj
+T*
+(of the early independent telephone industry has been lost in the voluminous achievements of) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 445 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(AT&T. Even very basic facts become obscure. For example, who invented the telephone? Well, we) Tj
+T*
+(all know the answer: Alexander Graham Bell. We have mostly forgotten that, at the time, this) Tj
+T*
+(was a hotly contested question. One of the most prominent alternate claimants to the title was) Tj
+T*
+(a man named Elisha Gray, today immortalized as the "Gray" in electrical distributor "Grayb...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000005062 00000 n 
+0000005188 00000 n 
+0000009975 00000 n 
+0000010101 00000 n 
+0000014533 00000 n 
+0000014659 00000 n 
+0000015156 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15284
+%%EOF
