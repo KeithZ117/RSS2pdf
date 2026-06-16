@@ -1,0 +1,718 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4737 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-16 09:57:57) Tj
+T*
+() Tj
+T*
+(1. Cloudflare CAPTCHA on at least one ampersand) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-16T00:21:36+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything) Tj
+T*
+(TIL: Cloudflare CAPTCHA on at least one ampersand I'm using Cloudflare's CAPTCHA \(they call it) Tj
+T*
+(a "Web Application Firewall > Custom rules > Managed Challenge" these days\) to prevent crawlers) Tj
+T*
+(from aggresively spidering my faceted search engine on this site, but I got fed up of even) Tj
+T*
+(simple ?q=term searches triggering the challenge. After some mucking around with Claude Code it) Tj
+T*
+(turns out you can register the following rule instead, so the CAPTCHA only kicks in for search) Tj
+T*
+(URLs containing at least one ampersand: \(http.request.uri.path wildcard r"/search/*" and) Tj
+T*
+(http.request.uri.query contains "&"\) And now /search/?q=lemur works without triggering a) Tj
+T*
+(CAPTCHA! Also included: notes on trying out the Cloudflare MCP with Claude Code , though it) Tj
+T*
+(turned out not to be able to edit the rules in question so I had Claude Code switch to the) Tj
+T*
+(Cloudflare API instead. Tags: captchas , cloudflare , model-context-protocol , claude-code) Tj
+T*
+() Tj
+T*
+(2. datasette-agent 0.3a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-15T17:19:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything) Tj
+T*
+(Release: datasette-agent 0.3a0 New tool, execute_write_sql , which requests user approval and) Tj
+T*
+(then writes to a database - taking user permissions into account. #27 I added a mechanism for) Tj
+T*
+(asking user approval in datasette agent 0.2a0 . The new execute_write_sql tool can now prompt) Tj
+T*
+(the user for all kinds of useful operations. Here's an example where I add some pelican) Tj
+T*
+(sightings to my pelican_sightings table: The new version also enhances the datasette agent chat) Tj
+T*
+(terminal mode to support approvals, and adds several new options including --unsafe mode for) Tj
+T*
+(auto-approving them: datasette agent chat can execute tools that require user approval. #30) Tj
+T*
+(Three new options for datasette agent chat - --root to run as root, --yes to approve all ask) Tj
+T*
+(user questions, and --unsafe for both. Tools can now provide plain text alternatives to HTML,) Tj
+T*
+(for display in the datasette agent chat CLI. #31 The datasette agent chat content.db -m gpt-5.5) Tj
+T*
+(--unsafe command can now be used to chat directly with a specific database and directly modify) Tj
+T*
+(it through prompts like "create a notes table", "add a note about X" etc. Tags: projects , ai ,) Tj
+T*
+(datasette , annotated-release-notes , generative-ai , llms , llm-tool-use...) Tj
+T*
+() Tj
+T*
+(3. "They screwed us": Personality clashes sent Anthropic's models offline) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-15T14:57:33+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything) Tj
+T*
+("They screwed us": Personality clashes sent Anthropic's models offline Lots of "source familiar) Tj
+T*
+(with the administration's thinking" and "source close to Anthropic" in this Axios piece, which) Tj
+T*
+(is the best collection of behind-the-scenes gossip I've seen about the US government export) Tj
+T*
+(control Mythos/Fable story so far. Logan Graham \( I lead the Frontier Red Team at Anthropic \),) Tj
+T*
+(Dave Orr \(Head of Safeguards, previously a Director of Engineering at Google DeepMind\), and) Tj
+T*
+(blog favorite Nicholas Carlini are reported to be meeting with the Commerce Department today in) Tj
+T*
+(D.C. Good luck to them! \(I just noticed Logan was "Special Adviser to the Prime Minister" in) Tj
+T*
+(the Boris Johnson era, covering AI, science, and technology policy - so significant political) Tj
+T*
+(experience.\) This closing notes doesn't give me much optimism that we'll be getting Fable back) Tj
+T*
+(any time soon: The bottom line : One option is to make sure Anthropic's models can't be) Tj
+T*
+(jailbroken ? though perfect jailbreak resistance may be impossible. Absent that, a source) Tj
+T*
+(familiar with the administration's thinking said it may simply come down to an attitude fix) Tj
+T*
+(where, instead of feeling dismissed, "everyone feels safe, secure and happy." Thi...) Tj
+T*
+() Tj
+T*
+(4. The European Commission Ruled Months Ago That Google?s Integration of Gemini in Android) Tj
+T*
+(Violates the DMA) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-15T18:58:22Z) Tj
+T*
+(Link: https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4623 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(assistants/) Tj
+T*
+(Ryan Whitham, writing for Ars Technica back in April: European regulators are proposing several) Tj
+T*
+(broad changes to the way AI tools operate on Android phones. Some of this is straightforward,) Tj
+T*
+(like allowing third-party AI tools to be invoked system-wide via hot words or button presses.) Tj
+T*
+(This might also include allowing AI tools to view screen context when the user opens them.) Tj
+T*
+(Context also extends to allowing alternative AI systems to access local data to generate) Tj
+T*
+(proactive suggestions and summaries. The report actually describes something that sounds like) Tj
+T*
+(Google?s Magic Cue, which relies on Gemini to offer suggestions based on your activity. Google) Tj
+T*
+(has also started experimenting with allowing AI to control certain apps. As we saw when this) Tj
+T*
+(feature debuted on the Galaxy S26 , Gemini is currently pretty bad at using apps on your) Tj
+T*
+(behalf. The commission wants to explore allowing other AI services to autonomously control) Tj
+T*
+(installed apps and system features on Android phones. Maybe someone else could do better?) Tj
+T*
+(Maybe! But also maybe it?s a bad idea for complex system architecture design to come from) Tj
+T*
+(non-technical government bureaucrats. One of these maybes strikes me as a lot more likely) Tj
+T*
+(tha...) Tj
+T*
+() Tj
+T*
+(5. WorkOS Launches Auth.md ? an Open Protocol for Agent Registration) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-15T17:53:50Z) Tj
+T*
+(Link:) Tj
+T*
+(https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) Tj
+T*
+(My thanks to WorkOS for sponsoring DF last week to promote Auth.md, their new open protocol for) Tj
+T*
+(AI agent registration. Sign-up forms were built for humans in browsers, so how do AI agents) Tj
+T*
+(programmatically register with services? That?s the question Auth.md aims to answer. By) Tj
+T*
+(exposing a single, machine-readable Markdown file at your service root, AI agents can) Tj
+T*
+(dynamically discover your OAuth Protected Resource Metadata, parse required scopes, and) Tj
+T*
+(authenticate seamlessly. Markdown, baby. Who?d have thunk it? With native support in WorkOS) Tj
+T*
+(AuthKit, you can now implement this protocol out of the box, giving AI tools a standardized,) Tj
+T*
+(secure way to log into your application. Read the Auth.md docs , and watch its on-stage) Tj
+T*
+(introduction at the MCP Night: Agent Night keynote . ?) Tj
+T*
+() Tj
+T*
+(6. ?Anthropic?s Safety Superpower?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-15T17:18:46Z) Tj
+T*
+(Link: https://stratechery.com/2026/anthropics-safety-superpower/) Tj
+T*
+(Ben Thompson, in his weekly free column at Stratechery: On one hand, I actually don?t begrudge) Tj
+T*
+(Anthropic not wanting to help its competitors; on the other hand, what should be blisteringly) Tj
+T*
+(clear is that Anthropic does not think that anyone else other than them should even be making) Tj
+T*
+(frontier LLMs. What makes this policy all the more remarkable is the fact that it was enacted) Tj
+T*
+(only two months after Anthropic had that dispute with the Department of War: the latter wanted) Tj
+T*
+(to use Claude for any legal use, while the former wanted more stringent controls around) Tj
+T*
+(surveillance and autonomous weapons. What this degradation represented was both the capability) Tj
+T*
+(and willingness of Anthropic to silently alter its models to achieve its policy preferences. In) Tj
+T*
+(other words, Anthropic willfully validated some of its critics? worst fears in terms of being a) Tj
+T*
+(supply chain risk. The broader takeaway from that previous episode, however, is that Anthropic) Tj
+T*
+(believes that they are the ones who should have final say over how Anthropic is used; given) Tj
+T*
+(that they think only they should be developing leading edge AI, they by extension think that) Tj
+T*
+(only they should have final say over AI generally. When you further comb...) Tj
+T*
+() Tj
+T*
+(7. Testing pentagonal numbers) Tj
+T*
+(Source: John D. Cook | Published: Mon, 15 Jun 2026 23:57:54 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/15/testing-pentagonal-numbers/) Tj
+T*
+(The nth pentagonal number Pn is the number of dots in diagrams like those below with n) Tj
+T*
+(concentric pentagons. We have the formula Pn = \(3n≤ ? n\)/2 where n is a positive integer. If n) Tj
+T*
+(is an integer but not positive, the equation above defines a generalized pentagonal number. If) Tj
+T*
+(you?re given an n, you can easily compute Pn. [?] The post Testing pentagonal numbers first) Tj
+T*
+(appeared on John D. Cook .) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4509 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(8. Quaternion Rotations, Claude, and Lean) Tj
+T*
+(Source: John D. Cook | Published: Mon, 15 Jun 2026 19:31:38 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/15/quaternions-claude-lean/) Tj
+T*
+(I got an email message this afternoon reporting a typo in a blog post from about a year ago on) Tj
+T*
+(converting between quaternions and rotation matrices [1]. The email said exactly where the typo) Tj
+T*
+(was, but I decided to see whether Claude would find it. Specifically, I prompted Sonnet 4.6) Tj
+T*
+(Medium with the following. Write [?] The post Quaternion Rotations, Claude, and Lean first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Writing Prolog with ChatGPT) Tj
+T*
+(Source: John D. Cook | Published: Mon, 15 Jun 2026 17:22:43 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/15/writing-prolog-with-chatgpt/) Tj
+T*
+(A few days ago I wrote about using Claude to solve a chess puzzle by writing Prolog code. This) Tj
+T*
+(morning I tried a similar chess puzzle with ChatGPT. The task is to place a queen, king, rook,) Tj
+T*
+(bishop, and knight on a 4 by 4 chessboard so no piece attacks another. Of course there?s not) Tj
+T*
+([?] The post Writing Prolog with ChatGPT first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Arp 185:) Tj
+T*
+(Source: Maurycy's Blog | Published: Sun, 14 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/astro/arp185/) Tj
+T*
+(North is left. 0.35"/pixel \(7.7' by 20' field\). FWHM = 5.5" Arp filled this under "galaxies) Tj
+T*
+(with narrow filaments", but I don't really see why. It's a barred sprial with irregular arms) Tj
+T*
+(and a faint extended disk. That being said, the galaxy's bar is slightly misaligned with the) Tj
+T*
+(core: which would sudgest that it might have experienced some graviational interaction in the) Tj
+T*
+(past. The main galaxy is at z=0.0045, and the faint background galaxy in the lower left is UGC) Tj
+T*
+(10509 at z=0.055. It's actually a spiral with a really intresting structure, but it's too small) Tj
+T*
+(\(and dim\) to see in my image. dt {color: var\(--em-color\)} Total exposure time: 274 * 30 seconds) Tj
+T*
+(= 2.2 hours. Telescope: C9.25 \(230mm, f/10, fl=2300mm\) Camera: IMX533 \(16mm diagonal, square,) Tj
+T*
+(color\) Processing: Callibration \(dark + flat\) Stacking \(average w/ rejection\) White balance and) Tj
+T*
+(background subtraction Asinh stretch Tone curve Crop Taken during a night with exceptionally) Tj
+T*
+(bad seeing, resulting in a FWHM of 5" instead of the usual 3". Not that I ever get good seeing,) Tj
+T*
+(presumably due to nearby heat sources: My telescope was set up between a asphalt road and) Tj
+T*
+(asphalt roof. Both of these get super hot during the day and retain tha...) Tj
+T*
+() Tj
+T*
+(11. Making glass-to-metal seals for homemade vacuum tubes.) Tj
+T*
+(Source: Maurycy's Blog | Published: Sat, 13 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/projects/glass/1/) Tj
+T*
+(This page discusses sealing metal through borosilicate/lab glass: other chemistries behave) Tj
+T*
+(quite differently. When making vacuum tubes, the glass is actually the easy part: premade tube) Tj
+T*
+(stock of almost any size is easily available. Heating the end of such a tube softens the glass) Tj
+T*
+(and allows surface tension to close it off. I used a rotary vane pump to remove all the air) Tj
+T*
+(from the tube and heated the middle, which the atmosphere crushed to create a sealed-off) Tj
+T*
+(ampule. Because glass is practically impermeable, it will retain that vacuum for a very long) Tj
+T*
+(time, which can be shown by bringing it close to high-voltage AC \(like a tesla coil\): This glow) Tj
+T*
+(is due to residual air being ionized, but the fuzzy appearance indicates that the vacuum is) Tj
+T*
+(good enough to work in a triode or similar device. For those, the capacitive coupling trick) Tj
+T*
+(won't work: I'll need to make electrodes that pass through the glass without letting air in.) Tj
+T*
+(This is a lot harder than it might appear. Copper's red oxide bonds very well to glass . In) Tj
+T*
+(fact, the bond is stronger than the bulk glass: when it breaks, there's always a thin layer of) Tj
+T*
+(glass left stuck to the metal. Along with it's excellent electrical properties, it's...) Tj
+T*
+() Tj
+T*
+(12. Systemd-resolved and sticking \(or not\) to what distributions do) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-15T02:51:25Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdResolvedOrNot) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4696 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(We have a long established approach for configuring our Linux systems, and specifically our) Tj
+T*
+(Ubuntu systems \(since these days the only Linux we run is Ubuntu\). Part of that has been that) Tj
+T*
+(we use a standard /etc/resolv.conf that points to our local DNS resolvers \(which have our split) Tj
+T*
+(horizon DNS setup\). However, as people may have noticed, Linux distributions these days are) Tj
+T*
+(moving to systemd-resolved instead of a straight /etc/resolv.conf setup. There are good reasons) Tj
+T*
+(for this switch in general. Systemd-resolved can cope with a variety of situations and problems) Tj
+T*
+(that trip up the standard resolv.conf setup and it cooperates better with other programs.) Tj
+T*
+(Almost none of these apply in our particular situation for our own servers, which have a static) Tj
+T*
+(network configuration, a static DNS resolution search domain, and our DNS resolvers already) Tj
+T*
+(handle all of the split resolution \(and we had to make this work well before systemd-resolved) Tj
+T*
+(existed\). \(The one aspect of systemd-resolved that matters to us is that if you have multiple) Tj
+T*
+(DNS resolvers, as we do, resolved will rapidly fail over from one that isn't responding to one) Tj
+T*
+(that is. Resolved can also cache answers locally but for us this isn't a...) Tj
+T*
+() Tj
+T*
+(13. [RSS Club] What happens to old posts?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 15 Jun 2026 11:34:34 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/) Tj
+T*
+(Welcome to RSS Club! These posts are only available to RSS and Atom subscribers. You can read) Tj
+T*
+(more about the idea at Dave Rupert's site. I recently received an email from a distraught) Tj
+T*
+(reader: I was going through my recent bookmarks and I found) Tj
+T*
+(https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress which I had clearly saved to reference) Tj
+T*
+(again later. However, as with the nature of RSS Club?, I c?) Tj
+T*
+() Tj
+T*
+(14. AI's Brokenomics) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Mon, 15 Jun 2026 19:28:23 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/brokenomics/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter. It?s $70 a year, or $7) Tj
+T*
+(a month, and in return you get a weekly newsletter that?s usually anywhere from 5,000 to 18,000) Tj
+T*
+(words, including vast, detailed analyses of NVIDIA , Anthropic and) Tj
+T*
+() Tj
+T*
+(15. JAX: commitment issues) Tj
+T*
+(Source: Giles' blog | Published: Mon, 15 Jun 2026 21:30:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/06/jax-commitment-issues) Tj
+T*
+(Imagine you have JAX code like this, and run it on a machine with CUDA set up: key = jax .) Tj
+T*
+(random . key \( 42 \) cpu0 = jax . devices \( "cpu" \)[ 0 ] with jax . default_device \( cpu0 \):) Tj
+T*
+(array = jax . random . randint \( key , \( 530640 , 6 , 1024 \), 0 , 50_000 , dtype = jax . numpy) Tj
+T*
+(. uint16 \) array . block_until_ready \(\) item = array [ 0 ] item . block_until_ready \(\) We're) Tj
+T*
+(creating a big array, blocking until it's ready \(JAX is asynchronous, so this makes sure that) Tj
+T*
+(it's actually finished creating it\), then getting the first item, and as a belt-and-braces) Tj
+T*
+(thing making sure that that is ready too. How long do you think those last two lines -- a) Tj
+T*
+(simple retrieval of a 6 x 1024 array from a larger one -- will take? Some tiny fraction of a) Tj
+T*
+(second would seem reasonable. But running it on my machine just now, the answer is a bit of a) Tj
+T*
+(surprise: just over 5 seconds. And if you try to get array[1] immediately afterwards, it still) Tj
+T*
+(takes about 1.2s. Further lookups into array consistently take more than a second -- so while) Tj
+T*
+(the larger initial number might be something to do with setup -- maybe internal stuff being) Tj
+T*
+(JITted -- that's clearly not the whole story. Something is making these seemingly-sim...) Tj
+T*
+() Tj
+T*
+(16. The Sword Juggling Fallacy) Tj
+T*
+(Source: Hugo Tunius - Blog | Published: 2026-06-15T00:00:00+01:00) Tj
+T*
+(Link: https://hugotunius.se/2026/06/15/the-sword-juggling-fallacy.html) Tj
+T*
+(Sword juggling is simple. I?ll prove it to you by explaining it. First, acquire three ? or, if) Tj
+T*
+(you feel ambitious, four swords. Divide the swords between your hands. Starting with one hand,) Tj
+T*
+(the one holding two swords if juggling with three, toss a sword into the air. As this sword is) Tj
+T*
+(about to reach your other hand, toss the sword in that hand and catch the falling sword by, and) Tj
+T*
+(this is important, its handle, not the blade. Then repeat this process as the airborne sword) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4624 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(reaches the hand you started with. Now keep doing this, ensuring that you do not cut your) Tj
+T*
+(fingers off in the process. To make the subtext, well, text. This is an allegory about the C) Tj
+T*
+(programming language, although it applies to others too. C being simple is a common idea,) Tj
+T*
+(especially made in discussion about and as contrast to Rust. It?s true that C is simple. The) Tj
+T*
+(language is small and the standard is, relatively, short. Just like sword juggling is simple, C) Tj
+T*
+(being simple doesn?t mean programming in C is easy. In fact it?s very hard, especially if you) Tj
+T*
+(care about your program being correct. Simple is not easy. After learning the simple C) Tj
+T*
+(language, a world of painful experiences await the aspiring C programmer. With eac...) Tj
+T*
+() Tj
+T*
+(17. Weekly Update 508) Tj
+T*
+(Source: Troy Hunt | Published: Mon, 15 Jun 2026 04:55:47 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-508/) Tj
+T*
+(Light switches. How on earth is it so hard to find decent light switches?! It sounds ridiculous) Tj
+T*
+(until you actually spend enough time looking for ones that meet two simple criteria: Aren't) Tj
+T*
+(stateful \(switch is up or down, has to be push-button\) Looks good Now, I') Tj
+T*
+() Tj
+T*
+(18. Pluralistic: AI and amateurism \(15 Jun 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 15 Jun 2026 15:40:29) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/15/vernacular/) Tj
+T*
+(Today's links AI and amateurism: When is generative content vernacular? Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: Disney characters x clean underwear; Transparent) Tj
+T*
+(Pontiac; Makers v dog with LED collar; Microsoft buys Linkedin; Legitimate greatness. Upcoming) Tj
+T*
+(appearances: LA, Menlo Park, Toronto, NYC, Philadelphia, Chicago, Edinburgh, South Bend. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. AI and amateurism) Tj
+T*
+(\(permalink\) Over the weekend, I did an interview about my forthcoming book The Reverse) Tj
+T*
+(Centaur's Guide to Life After AI \(a book about being a better AI critic\), and the interviewer) Tj
+T*
+(said she was surprised that I wasn't an AI booster, based on my demographics and work history:) Tj
+T*
+(https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/ I could see) Tj
+T*
+(where she was coming from. I encountered computers in the mid-seventies, as a small child. My) Tj
+T*
+(first computer was a CARDIAC, a working, Turing-complete, mechanical computer made entirely of) Tj
+T*
+(cardboard, that I spent endless hours with: https://www.instructables.com/CARDIAC-CAR...) Tj
+T*
+() Tj
+T*
+(19. A brief history of KV cache compression developments) Tj
+T*
+(Source: Martin Alderson | Published: Mon, 15 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?ut) Tj
+T*
+(m_source=rss&utm_medium=rss&utm_campaign=feed) Tj
+T*
+(How KV cache compression - from MQA and GQA to MLA and linear-attention hybrids - quietly) Tj
+T*
+(unlocked the long context windows that make modern agentic LLMs possible.) Tj
+T*
+() Tj
+T*
+(20. Things that made me think: Open Source trust relationships, knowledge without) Tj
+T*
+(provenance, and theory building) Tj
+T*
+(Source: Tom Renner on My place to put things | Published: Mon, 15 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://tomrenner.com/posts/ttmmt-4/) Tj
+T*
+(This series is a place to collect interesting things I?ve seen, read, or heard, along with some) Tj
+T*
+(brief thoughts \(often incomplete and/or inconclusive\) that they provoked. AI Agent Lands PRs in) Tj
+T*
+(Major OSS Projects, Targets Maintainers via Cold Outreach ? socket.dev Back in February this) Tj
+T*
+(report landed in a security blog, and I found it fascinating. As is usual for me, it?s at the) Tj
+T*
+(intersection of human behaviour with technological automation that the real interesting) Tj
+T*
+(problems lie. The whole industry uses GitHub profiles as a proxy for a CV. Now agents can build) Tj
+T*
+(a credible looking one in hours or days, and it results in our whole system of reputation and) Tj
+T*
+(trust being borked. Once again, the thing you should be optimising for is trust . I wonder what) Tj
+T*
+(new systems we need to build to deal with the old ones being broken. Where Provenance Ends,) Tj
+T*
+(Knowledge Decays ? Jessica Talisman My first job was building information management systems,) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2702 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(and for those of you that haven?t worked in the industry, let me tell you: knowledge) Tj
+T*
+(architecture is fascinating. We should all be hiring librarians to help us with these problems.) Tj
+T*
+(The core question posed here is: without provenance how can users interrogate t...) Tj
+T*
+() Tj
+T*
+(21. Maybe it's time for lots of little indie AIs to take over) Tj
+T*
+(Source: Anil Dash | Published: 2026-06-15T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/06/15/indie-AI-takeover/) Tj
+T*
+(?[T]here can be alternatives. What we can imagine is, rather than the ChatGPT killer, a lot of) Tj
+T*
+(different little AIs from little responsible players.? That?s me, in The Guardian a few days) Tj
+T*
+(ago, trying to distill a message that I?ve been trying to get out as broadly as possible for) Tj
+T*
+(quite a while now. It's sort of like hoping a comet will take out the major AI players and a) Tj
+T*
+(bunch of smaller new players will be the smarter, better-adapted mammals that take their place) Tj
+T*
+(instead. We?re in another one of those big inflection points for AI. Trump administration) Tj
+T*
+(policymakers for AI suspended access to Anthropic?s newest product . All of these policymakers) Tj
+T*
+(have a web of investments in competing players ? including SpaceX, which is about to IPO ? and) Tj
+T*
+(the corruption and grift of this cohort are so extensive that it?s impossible to judge what the) Tj
+T*
+(actual risks and reality are around any of these platforms or technologies, since no one) Tj
+T*
+(involved is an honest broker. It?s a shame More broadly, there?s been the widespread pushback) Tj
+T*
+(against AI culturally, one that is undeniably strongest amongst those who were born in this) Tj
+T*
+(century. But the adoption patterns and usage data show that even younger people...) Tj
+T*
+() Tj
+T*
+(22. EU & Civil Society need to progress on Digital Autonomy) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 15 Jun 2026 15:00:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/eu-civil-society-need-progress-digital-autonomy/) Tj
+T*
+(By now \(happily\) everyone wants to talk about digital autonomy, although some parties insist we) Tj
+T*
+(talk about sovereignty. Fine. tl;dr: The discussions on digital autonomy are now going round in) Tj
+T*
+(circles. Civil society and think tanks want to contribute, and are well placed to do so. In) Tj
+T*
+(this piece, I urge everyone to look further ahead, beyond legislation and talking about) Tj
+T*
+(European values. The road to digital sovereignty is very long, and we need to make progress) Tj
+T*
+(along that entire road, which includes things further afield than what we are discussing now.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000005013 00000 n 
+0000005139 00000 n 
+0000009814 00000 n 
+0000009940 00000 n 
+0000014501 00000 n 
+0000014627 00000 n 
+0000019376 00000 n 
+0000019504 00000 n 
+0000024181 00000 n 
+0000024309 00000 n 
+0000027064 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+27192
+%%EOF
