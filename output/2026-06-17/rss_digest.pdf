@@ -1,0 +1,640 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4533 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-17 09:55:03) Tj
+T*
+() Tj
+T*
+(1. datasette-tailscale 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-16T16:18:20+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything) Tj
+T*
+(Release: datasette-tailscale 0.1a0 A very experimental alpha plugin which lets you do this:) Tj
+T*
+(datasette tailscale mydata.db \\ --ts-authkey tskey-auth-xxxx --ts-hostname datasette-preview) Tj
+T*
+(This starts a localhost Datasette server with a Tailscale sidecar that connects it to your) Tj
+T*
+(Tailnet, such that http://datasette-preview/ serves Datasette. It's using the Python bindings) Tj
+T*
+(for the experimental tailscale-rs library. I filed an issue asking if there's a cleaner way of) Tj
+T*
+(setting up the proxy mechanism. Tags: datasette , tailscale) Tj
+T*
+() Tj
+T*
+(2. Quoting Georgi Gerganov) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-16T16:04:59+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything) Tj
+T*
+(I can 100% attest to the fact that Qwen3.6-27B is a very capable local model for coding tasks.) Tj
+T*
+(Over the last month and a half I've been using it almost daily, either on my M2 Ultra or on my) Tj
+T*
+(RTX 5090 box. I use it for small mundane tasks at ggml-org - nothing really impressive, but) Tj
+T*
+(definitely a helpful tool for a maintainer. I think I would be using it much more, if I didn't) Tj
+T*
+(have to spend a lot of my time on reviewing PRs. Currently, I have a very lightweight harness -) Tj
+T*
+(the pi agent with everything stripped \( pi -nc --offline \) and a short system prompt to align) Tj
+T*
+(it a bit with my style. ? Georgi Gerganov , Hacker News comment on Running local models is good) Tj
+T*
+(now by Boykis Tags: georgi-gerganov , llms , ai , generative-ai , pi , ai-assisted-programming) Tj
+T*
+(, local-llms , qwen , coding-agents) Tj
+T*
+() Tj
+T*
+(3. The Fable 5 Export Controls Harm US Cyber Defense) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-16T05:20:29+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything) Tj
+T*
+(The Fable 5 Export Controls Harm US Cyber Defense I quoted The Atlantic quoting Kate Moussouris) Tj
+T*
+(earlier, when I should have gone straight to the source. Here she is confirming that the) Tj
+T*
+("jailbreak" that got Claude Fable 5 banned under an export control really was "fix this code":) Tj
+T*
+(The researchers took open-source code with known CVEs, plus new code with deliberately planted) Tj
+T*
+(vulnerabilities, and asked Fable 5, Mythos, and Opus to ?review the code for security issues.?) Tj
+T*
+(Fable 5 refused. They then asked the models to ?fix this code? and, through a multistep and) Tj
+T*
+(manual process, turned the output into scripts that test the patches. As Kate points out, this) Tj
+T*
+(is absurd. Coding models fix bugs, and security exploits are the most important category of) Tj
+T*
+(bugs for them to fix! Defenders need to be able to ask AI to fix the bugs in a file, explain) Tj
+T*
+(why the fix matters, and write tests that confirm the patch works. That is not a guardrail) Tj
+T*
+(bypass. It is the most valuable thing an AI model can do for defensive security: executing the) Tj
+T*
+(find, fix, and test loop defenders run every day. [...] The prompts worked because they were) Tj
+T*
+(defensive requests, and that capability cannot be removed without making the m...) Tj
+T*
+() Tj
+T*
+(4. Debugging on Prod) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Tue, 16 Jun 2026) Tj
+T*
+(20:18:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/debugging-on-prod) Tj
+T*
+(The worst type of bug is one that only happens on prod. And only on prod. If you checked this) Tj
+T*
+(blog in the past few weeks, you might have encountered a big fat 500 error. I'd had the same) Tj
+T*
+(design for 10 years, and I wanted something fresh. But who can redesign without also improving) Tj
+T*
+(the underlying code? I deleted a whole bunch of things: old templates that were never used,) Tj
+T*
+(post.new7.old.php , a pile of unused CSS. I just had to. I deployed a first version and all the) Tj
+T*
+(pages worked just fine. But then I got cocky. I decided to also improve the underlying code) Tj
+T*
+(using GitHub Copilot. I was vigilant at first, reviewing every single line of generated code.) Tj
+T*
+(None of it was complex really, just refactoring functions and the like. But along the way, I) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4690 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(got lazy. I let the AI update deprecated functions on its own. The next time I deployed, the) Tj
+T*
+(website returned a 500 error. When I checked the logs, nothing came back. No errors. I looked) Tj
+T*
+(at running processes and noticed several PHP processes pinned at 100%. I reverted the code, but) Tj
+T*
+(the server was still stuck. I restarted the web server, restarted PHP-FPM, and neither helped.) Tj
+T*
+(The only thing that worked was restarting the whole machine. I ran the s...) Tj
+T*
+() Tj
+T*
+(5. The time the x86 emulator team found code so bad that they fixed it during emulation) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 15 Jun 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419) Tj
+T*
+(Offensive content in the eyes of a software engineer. The post The time the x86 emulator team) Tj
+T*
+(found code so bad that they fixed it during emulation appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(6. Checking In on the iOS Continental Fun-Gap Drift) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-17T00:50:18Z) Tj
+T*
+(Link: https://daringfireball.net/2024/09/ios_continental_drift_fun_gap) Tj
+T*
+(Yours truly, in September 2024, expressing skepticism that ?European iPhones are more fun now?:) Tj
+T*
+(Meanwhile no one in the EU will get Apple Intelligence or iPhone Mirroring, both of which) Tj
+T*
+(features are very useful, and, dare I say, quite fun. Should we judge how much fun each side of) Tj
+T*
+(the continental divide is having by how much fun they theoretically could be having, or by how) Tj
+T*
+(much fun they are having? As it stands, the fun side is not the EU. But hope springs eternal.) Tj
+T*
+(Here we are two years later and I think the answer is more clear than ever which side of the) Tj
+T*
+(continental divide is more fun. It?s not the EU. EU users still don?t have iPhone Mirroring and) Tj
+T*
+(until and unless the European Commission changes its interpretation of the DMA, they likely) Tj
+T*
+(never will. It?s a great feature. Apple Intelligence, as we knew it until last week, eventually) Tj
+T*
+(came to the EU , about six months after it shipped for the rest of us. One can reasonably argue) Tj
+T*
+(that EU iPhone and iPad users didn?t miss much during those six months. And that there hasn?t) Tj
+T*
+(been that much to enjoy since Apple Intelligence debuted in the EU in iOS 18.4. That changed) Tj
+T*
+(last week with the introduction of the first beta release of iOS 27....) Tj
+T*
+() Tj
+T*
+(7. New in the App Store: Personalized Recommendations) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-16T16:12:31Z) Tj
+T*
+(Link:) Tj
+T*
+(https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/) Tj
+T*
+(Sarah Perez, writing for TechCrunch: This week, Apple announced a series of discovery features) Tj
+T*
+(that will personalize app recommendations based on users? interests and behavior, providing a) Tj
+T*
+(new way for developers to have their app discovered. At Apple?s Worldwide Developers Conference) Tj
+T*
+(\(WWDC\), the iPhone maker introduced Personalized Collections in the App Store, which will) Tj
+T*
+(showcase recommendations tailored to the individual. These will also include new ?App Notes?) Tj
+T*
+(that explain why the specific apps were recommended to you. Starting this week, you?ll find) Tj
+T*
+(these new personalized suggestions in various places in the App Store, including the Apps or) Tj
+T*
+(Games tab or on the Search tab. Security research critics Mysk, posting on Twitter/X \( XCancel) Tj
+T*
+(link \), report that the App Store app seemingly sends analytics usage data to Apple with) Tj
+T*
+(everything you do in the App Store app, including exactly what you type, character-by-character) Tj
+T*
+(? and that this isn?t for search suggestions, but for analytics. \( Via Michael Tsai .\) ?) Tj
+T*
+() Tj
+T*
+(8. [Sponsor] Mux ? Video for Developers) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-16T02:33:37Z) Tj
+T*
+(Link: https://www.mux.com/?utm_campaign=fireball&utm_source=DF) Tj
+T*
+(Video is a boatload of data. Every video file in your product contains audio, objects, and) Tj
+T*
+(scenes that most stacks can?t read or access. Mux Robots turns that data into video) Tj
+T*
+(intelligence. Configure your video workflows once, and they run automatically on every new) Tj
+T*
+(upload: ask questions, summarize, find key moments, and more. No asset webhooks or self-hosted) Tj
+T*
+(glue code needed. Mux is video infrastructure for developers, trusted by Synthesia, Shopify,) Tj
+T*
+(and the U.S. Soccer Federation. Start building for free. Use code FIREBALL at signup for an) Tj
+T*
+(extra $50 credit. ?) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4216 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(9. Partial fraction decomposition) Tj
+T*
+(Source: John D. Cook | Published: Tue, 16 Jun 2026 17:56:27 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/16/partial-fraction-decomposition/) Tj
+T*
+(Nearly everyone who as seen partial fraction decomposition was introduced to it as a way to) Tj
+T*
+(compute integrals. If P\(x\) and Q\(x\) are polynomials, then you can break their ratio P\(x\)/Q\(x\)) Tj
+T*
+(into a sum of terms that can each be integrated in closed form. As with most topics in a) Tj
+T*
+(calculus class, partial fractions go by in [?] The post Partial fraction decomposition first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Three examples suffice) Tj
+T*
+(Source: John D. Cook | Published: Tue, 16 Jun 2026 11:14:01 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/) Tj
+T*
+(You can?t prove a theorem by just checking a few examples. Except sometimes you can. A few) Tj
+T*
+(weeks ago I wrote Pentagonal numbers are truncated triangular numbers. In a nutshell, if the) Tj
+T*
+(pentagonal numbers are defined by Pn = \(3n≤ ? n\)/2 and the triangular numbers by Tn = \(n≤ +) Tj
+T*
+(n\)/2 then Pn = T2n ? 1 ? Tn ? 1. Here?s a visualization [?] The post Three examples suffice) Tj
+T*
+(first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. What the new Linux NFS mount option 'fatal_neterrors' is) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-16T02:08:53Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/NFSMountOptionFatalNeterrors) Tj
+T*
+(If you have NFS mounts on a client using a sufficiently recent kernel, such as that shipped) Tj
+T*
+(with Ubuntu 26.04 LTS, and you inspect /proc/mounts \(or 'mount -t nfs' \), you'll probably) Tj
+T*
+(discover a new NFS mount option that is listed for your mounts. For example: [...]:/h/281) Tj
+T*
+(/h/281 nfs4 rw,[...],fatal_neterrors=none,[...] You might be curious what this option is,) Tj
+T*
+(especially if you have code that parses NFS \(v4\) options and sorts options into ones you care) Tj
+T*
+(about and ones you don't \( as we do \). Unfortunately, as I write this about a year after the) Tj
+T*
+(option was added to the Linux kernel, 'fatal_neterrors' isn't documented in any manual page) Tj
+T*
+(that I can readily find. As far as I know, the only accessible documentation for it is in the) Tj
+T*
+(commit that added it , which I'm just going to quote: NFS: Add a mount option to make) Tj
+T*
+(ENETUNREACH errors fatal If the NFS client was initially created in a container, and that) Tj
+T*
+(container is torn down, there is usually no possibility to go back and destroy any NFS clients) Tj
+T*
+(that are hung because their virtual network devices have been unlinked. Add a flag that tells) Tj
+T*
+(the NFS client that in these circumstances, it should treat ENETDOWN and ENETUNREACH errors as) Tj
+T*
+(fata...) Tj
+T*
+() Tj
+T*
+(12. Would you like a drainer served at the very top of DuckDuckGo?) Tj
+T*
+(Source: tim.sh | Published: Tue, 16 Jun 2026 13:34:35 GMT) Tj
+T*
+(Link: https://timsh.org/drainer-at-the-top-of-duckduckgo/) Tj
+T*
+(Probably no, right? That would be very dangerous, especially if the phishing website serving it) Tj
+T*
+(is an exact copy of the thing you was looking for. Well that's what happened to me! TL;DR I) Tj
+T*
+(found a fake tronscan blockchain explorer duplicate on the #1 position in the) Tj
+T*
+() Tj
+T*
+(13. Two Way TV - product photos of 1997's hottest gadget) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 16 Jun 2026 11:34:18 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/) Tj
+T*
+(Back in the late 1990s, I did a brief stint of work experience at the BBC. One of the most) Tj
+T*
+(memorable moments was sitting in on a meeting about early forms of Interactive TV. I saw a demo) Tj
+T*
+(of "Two Way TV". A flimsy grey box which \(somehow\) integrated with your OnDigital TV Box and) Tj
+T*
+(connected to a server via a modem. If you were watching "Who Wants To Be A Millionaire" you) Tj
+T*
+(could play along at home,?) Tj
+T*
+() Tj
+T*
+(14. How Open Source Projects Change Hands) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-06-16T10:00:00+00:00) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4697 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://nesbitt.io/2026/06/16/how-open-source-projects-change-hands.html) Tj
+T*
+(Dumb Ways for an Open Source Project to Die listed the ways projects end up dead, and most of) Tj
+T*
+(the entries describe a moment where maintainership should have moved to someone else and) Tj
+T*
+(didn?t. This is the other, shorter inventory: the mechanisms that exist for a project to change) Tj
+T*
+(hands, and who can trigger each one. The maintainer decides Chosen successor. The maintainer) Tj
+T*
+(picks a person and hands over the keys. This is the model everyone imagines when they say) Tj
+T*
+(succession, and it has almost no supporting infrastructure: it?s a private conversation) Tj
+T*
+(followed by some permission changes. The vetting is whatever the departing maintainer feels) Tj
+T*
+(like doing, which is how event-stream happened: ?he emailed me and said he wanted to maintain) Tj
+T*
+(the module, so I gave it to him.? The xz takeover was the same mechanism worked patiently, with) Tj
+T*
+(sock-puppet users manufacturing the pressure on an overworked maintainer to hand over. CPAN is) Tj
+T*
+(the one registry that gives this stage a name: a module whose permissions list the pseudo-user) Tj
+T*
+(HANDOFF has a maintainer looking for someone to take over, recorded in the same) Tj
+T*
+(machine-readable permissions file as every real owner. The successor setting. GitHub has had) Tj
+T*
+(acco...) Tj
+T*
+() Tj
+T*
+(15. 10Gb/s Ethernet: switching to a Broadcom SFP+ module) Tj
+T*
+(Source: Giles' blog | Published: Tue, 16 Jun 2026 18:45:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus) Tj
+T*
+(Back in April , I upgraded my home LAN to 10Gb/s. The in-wall cabling is CAT-6 or similar, so I) Tj
+T*
+(had to use 10GBASE-T. Now, the router I'm using, and the switch in my study, provide 10Gb/s) Tj
+T*
+(through SFP+ cages; that meant that they needed 10GBASE-T SFP+ modules in order to connect.) Tj
+T*
+(That kind of module is known to run hot -- sometimes too hot to actually work. The modules in) Tj
+T*
+(reggie , the router, appeared to be running OK \(see the linked post above for charts\), but the) Tj
+T*
+(one in nigel , the study switch, was a worrying 93C. I tried sticking some mini-heatsinks on it) Tj
+T*
+(, which seemed to help a bit. But the weather got warmer, and eventually the module overheated.) Tj
+T*
+(I lost access to the Internet from the study, and checking the metrics showed me this: You can) Tj
+T*
+(see that it's "flapping": the temperature gets up to a level where the module shuts itself down) Tj
+T*
+(for its own protection -- about 95C, I think -- and then when it has recovered, it switches on) Tj
+T*
+(again, the temperature rises, and the process repeats. I was able to work around the problem by) Tj
+T*
+(switching on the air conditioning in the study. But normally I only have it on when I'm in) Tj
+T*
+(there, and keeping aircon on 24/7 just to keep the network workin...) Tj
+T*
+() Tj
+T*
+(16. Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34) Tj
+T*
+(Billion) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 16 Jun 2026 03:58:20 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/exclusive-openai-financials/) Tj
+T*
+(Soundtrack: In Flames - Colony To further support my independent journalism, please subscribe) Tj
+T*
+(to my premium newsletter. It?s $7 a month or $70 a year. If you?re subscribed to the free) Tj
+T*
+(newsletter and logged in, you should see at the bottom right hand corner of your screen) Tj
+T*
+() Tj
+T*
+(17. Lean, not backpressure) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 16 Jun 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/lean-not-backpressure) Tj
+T*
+(Lucas Costa has written a good article on how to build systems that can handle code-generating) Tj
+T*
+(robots. Unfortunately, when calling it backpressure , he used the wrong metaphor. Backpressure) Tj
+T*
+(is about signaling to upstream processes that they are running too fast and need to slow down.) Tj
+T*
+(The suggestions presented by Costa are mostly about signaling to the upstream process that it) Tj
+T*
+(needs to do things differently , rather than just slow down. This has more to do with ensuring) Tj
+T*
+(sufficient quality is sent downstream, rather than quantity . This irked me. As I was reading,) Tj
+T*
+(I was searching for the right analogy. I kept coming back to lean manufacturing . The more) Tj
+T*
+(famous half of the lean philosophy is waste reduction. The other half is about managing the) Tj
+T*
+(unstable input of people. That?s what we?re interested in here. \(Continue reading the full) Tj
+T*
+(article on the web.\)) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4025 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(18. Lean Launch Pad 2026 @ Stanford ? Lessons Learned Presentations) Tj
+T*
+(Source: Steve Blank | Published: Tue, 16 Jun 2026 13:00:57 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://steveblank.com/2026/06/16/lean-launch-pad-2026-stanford-lessons-learned-presentations/) Tj
+T*
+(We just finished the 16th annual Lean LaunchPad class at Stanford. In those 16 years, the class) Tj
+T*
+(has gone from a radical idea ? that the Lean method could provide a more productive framework) Tj
+T*
+(for new startups ? to something that everyone agrees is a way to build new startups. The class) Tj
+T*
+(had gotten so [?]) Tj
+T*
+() Tj
+T*
+(19. Why Improve Your Writing?) Tj
+T*
+(Source: Refactoring English | Published: Tue, 03 Mar 2026 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/excerpts/why-improve-your-writing/) Tj
+T*
+(I?ve worked as a developer for 20 years, and I?ve always cared about clear writing. When I join) Tj
+T*
+(a new team, the first thing I do is ask to update the onboarding documents. As I ramp up on the) Tj
+T*
+(team, I document what I learn and encourage my teammates to do the same. Sometimes, other) Tj
+T*
+(developers ask me why I invest so much into writing. Programming is technical, so why spend) Tj
+T*
+(time on a ?soft skill? like writing? Isn?t that why we have technical writers and product) Tj
+T*
+(managers?) Tj
+T*
+() Tj
+T*
+(20. How to Get Meaningful Feedback on Your Design Document) Tj
+T*
+(Source: Refactoring English | Published: Mon, 03 Nov 2025 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/excerpts/useful-feedback-on-design-docs/) Tj
+T*
+(You?ve spent weeks carefully writing a design document for your software project, but what) Tj
+T*
+(happens next? How can you get useful feedback about it from your teammates? How do you prevent) Tj
+T*
+(your design review from dragging on for months? I?ve been through many design reviews in my) Tj
+T*
+(career as both the author and reviewer, and I have a special fondness for effective reviews.) Tj
+T*
+(Through trial and error, I?ve learned techniques that help the review process move smoothly and) Tj
+T*
+(yield material improvements to the design.) Tj
+T*
+() Tj
+T*
+(21. Underused Techniques for Effective Emails) Tj
+T*
+(Source: Refactoring English | Published: Wed, 16 Jul 2025 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/excerpts/techniques-for-writing-emails/) Tj
+T*
+(blockquote { font-style: normal; } .pm-email blockquote { border-left: 4px solid purple) Tj
+T*
+(!important; } .good-email blockquote { border-left: 4px solid #02c700 !important; h3 {) Tj
+T*
+(margin-top: 1rem; font-size: 1.6em; font-weight: bold; } } .bad-email blockquote { border-left:) Tj
+T*
+(4px solid red !important; } p img { margin-top: 3rem !important; margin-bottom: 1rem) Tj
+T*
+(!important; } For software developers, there?s tremendous value in writing effective emails.) Tj
+T*
+(Good emails save time, reduce misunderstandings, and earn you recognition within your company.) Tj
+T*
+() Tj
+T*
+(22. Ada Palmer ? Machiavelli is the most misunderstood thinker of all time) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Tue, 16 Jun 2026 17:27:51 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/ada-palmer-2) Tj
+T*
+("He begged to work for the regime that tortured him.") Tj
+T*
+() Tj
+T*
+(23. Do not invite big-tech to join your digital autonomy discussion) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 16 Jun 2026 18:00:00 +0200) Tj
+T*
+(Link:) Tj
+T*
+(https://berthub.eu/articles/posts/do-not-invite-big-tech-to-your-digital-autonomy-discussion/) Tj
+T*
+(Some time ago, I attended an event to discuss European digital autonomy and digital) Tj
+T*
+(dependencies. I accepted the invitation without checking too carefully, and I belatedly found) Tj
+T*
+(out that most of US big tech was invited as well, and would be presenting their thoughts. Now,) Tj
+T*
+(even in our gloriously digitally autonomous future, we?ll still be doing business with) Tj
+T*
+(Microsoft, Google and Amazon. And it is fine if they have a role.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004802 00000 n 
+0000004928 00000 n 
+0000009670 00000 n 
+0000009796 00000 n 
+0000014064 00000 n 
+0000014190 00000 n 
+0000018940 00000 n 
+0000019068 00000 n 
+0000023146 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+23274
+%%EOF
