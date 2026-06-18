@@ -1,0 +1,570 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4519 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-18 09:55:32) Tj
+T*
+() Tj
+T*
+(1. GLM-5.2 is probably the most powerful text-only open weights LLM) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-17T23:58:39+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything) Tj
+T*
+(Chinese AI lab Z.ai released GLM-5.2 to their coding plan subscribers on June 13th, and then) Tj
+T*
+(yesterday \(June 16th\) released the full open weights under an MIT license. Similar in size to) Tj
+T*
+(their previous GLM-5 and GLM-5.1 releases, this is 753B parameter, 1.51TB monster - with 40) Tj
+T*
+(active parameters \(Mixture of Experts\). GLM-5.2 is a text input only model - Z.ai have a) Tj
+T*
+(separate vision family most recently represented by GLM-5V-Turbo , but that one isn't open) Tj
+T*
+(weights. GLM-5.2 has a 1 million token context window, up from GLM-5.1's 200,000. The buzz) Tj
+T*
+(around this model is strong. Artificial Analysis, who run one of the most widely respected) Tj
+T*
+(independent benchmarks: GLM-5.2 is the new leading open weights model on the Artificial) Tj
+T*
+(Analysis Intelligence Index . GLM-5.2 is the leading open weights model on the Intelligence) Tj
+T*
+(Index v4.1. At 51, it leads MiniMax-M3 \(44\), DeepSeek V4 Pro \(max, 44\) and Kimi K2.6 \(43\) They) Tj
+T*
+(did however find it to be quite token-hungry: GLM-5.2 uses more output tokens per task than) Tj
+T*
+(other leading open weights models: the model uses 43k output tokens per Intelligence Index) Tj
+T*
+(task, up from GLM-5.1 \(26k\) and above MiniMax-M3 \(24k\), Kimi K2.6 \(35k\) and DeepSeek V4 Pro) Tj
+T*
+(\(max, 37...) Tj
+T*
+() Tj
+T*
+(2. Quoting Charity Majors) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-17T17:12:41+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything) Tj
+T*
+(What happened in 2025 was this: the economics of code production were turned upside down .) Tj
+T*
+(Instead of being very hard, time-consuming, and expensive to generate code, it became) Tj
+T*
+(effectively free and instant. Lines of code went from being treasured, reused, cared for and) Tj
+T*
+(carefully curated, to being disposable and regenerable, practically overnight. ? Charity Majors) Tj
+T*
+(, AI demands more engineering discipline. Not less Tags: charity-majors ,) Tj
+T*
+(ai-assisted-programming , generative-ai , ai , llms) Tj
+T*
+() Tj
+T*
+(3. ? a still that plays) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-17T03:56:10+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything) Tj
+T*
+(Tool: ? a still that plays A progressive enchantment Web Component that turns this markup: Into) Tj
+T*
+(a still frame with a click to play button which loads the GIF on demand. For when you don't) Tj
+T*
+(want big GIFs to be loaded unless people want to play them. Here's an example that demonstrates) Tj
+T*
+(the new row editing tools in Datasette - in fact I built this Web Component for that post.) Tj
+T*
+(Tags: gif , javascript , progressive-enhancement , web-components) Tj
+T*
+() Tj
+T*
+(4. Snap Unveils Specs, Its $2,200 AR Glasses, and They?re Fugly) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-18T01:33:15Z) Tj
+T*
+(Link: https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder?view_toke) Tj
+T*
+(n=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZTMmZYVXprcHciLCJwIjoiL3RlY2gvOTUwNDkyL3NuYXAtc3BlY3MtYXItZ2xh) Tj
+T*
+(c3Nlcy1sYXVuY2gtZGF0ZS1wcmVvcmRlciIsImV4cCI6MTc4MjE3Nzc0OSwiaWF0IjoxNzgxNzQ1NzQ5fQ.Pdh1hCJafS7c) Tj
+T*
+(a3UfJ7pPoS-wRpZQ6tEAr7HEVfTOAd8) Tj
+T*
+(Jay Peters, The Verge \(gift link\): Snap is finally launching augmented glasses for the public.) Tj
+T*
+(Specs, which Snap describes as ?a wearable computer built into see-through augmented reality) Tj
+T*
+(glasses,? will cost $2,195. You can preorder a pair of Specs now at specs.com with a $200) Tj
+T*
+(refundable deposit, and Snap says they?re expected to ship ?this fall? in the US, UK, and) Tj
+T*
+(France. [...] The company says that Specs are ?fully standalone, with no puck and no tether.?) Tj
+T*
+(\(Which is perhaps a jab at Apple?s Vision Pro, which is tethered to a separate battery pack.\)) Tj
+T*
+(They?ll be offered in two sizes, a 47mm model weighing 132g and a 52mm model weighing 136g, and) Tj
+T*
+(will have removable inserts that Snap says will support ?a wide range of prescriptions.? Unlike) Tj
+T*
+(Vision Pro, Snap is presenting Specs as eyeglasses that users will wear out and about in their) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4276 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(daily lives. Viewed perfectly straight-on and photographed by a professional fashion) Tj
+T*
+(photographer ? as presented on the Specs website ? they?re a bold look. Viewed from any other) Tj
+T*
+(angle and captured normally, they look like goggles, not glasses. The frames look orthopedic) Tj
+T*
+(and the lenses are not even close to clear. They make you look like you forgot to ta...) Tj
+T*
+() Tj
+T*
+(5. Vehicle Motion Cues ? a.k.a. Apple?s Weird Anti-Nausea Dots) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-18T01:15:27Z) Tj
+T*
+(Link: https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work) Tj
+T*
+(Thomas Ricker, writing for The Verge: I?ll just work from the car , I thought. But after a few) Tj
+T*
+(minutes of staring at my screen on quick mountain switchbacks I could feel the first signs of) Tj
+T*
+(cold, coagulated nausea bubbling up from that sweaty place in my gut. I looked to the horizon) Tj
+T*
+(for relief, but nothing helped... until I remembered Apple?s magic dots. Introduced in 2024,) Tj
+T*
+(Apple?s Vehicle Motion Cues promise to tap into your device?s accelerometer and gyroscope to) Tj
+T*
+(reduce or, in my case, even eliminate the motion sickness felt when trying to use an iPhone,) Tj
+T*
+(iPad, or MacBook inside a moving vehicle. My son has suffered from motion sickness in cars his) Tj
+T*
+(whole life, and Apple?s Vehicle Motion Cues work like a charm for him too. What a great) Tj
+T*
+(feature. ?) Tj
+T*
+() Tj
+T*
+(6. Yours Truly on MacBreak Weekly: Is the New Siri AI Good?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-17T15:41:54Z) Tj
+T*
+(Link: https://twit.tv/shows/macbreak-weekly/episodes/1029?autostart=false) Tj
+T*
+(MacBreak Weekly: John Gruber of Daring Fireball joins the MacBreak Weekly panel this week! A) Tj
+T*
+(deep dive into Apple?s new Siri following WWDC. Why Apple Intelligence & the new Siri are not) Tj
+T*
+(coming to the EU initially later this year. And could the iPhone Ultra?s launch be delayed this) Tj
+T*
+(year? It?s fun to be the guest, not the host, of a podcast. I took Jason Snell?s usual panelist) Tj
+T*
+(spot this week, alongside Leo Laporte, Andy Ihnatko, and Christina Warren. Lots to cover,) Tj
+T*
+(including a week of real-life experience using the new Siri AI. \(It?s really good!\) Also,) Tj
+T*
+(sometimes you just know what the episode title of a podcast is going to be, the moment a phrase) Tj
+T*
+(is uttered. This was one of those episodes, with ? Intimate Functionalities ?. ?) Tj
+T*
+() Tj
+T*
+(7. Retrofitting the WM_COPY≠DATA message onto Windows 3.1) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 16 Jun 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260616-00/?p=112430) Tj
+T*
+(It was carefully designed to be trivial. The post Retrofitting the WM_ COPY≠DATA message onto) Tj
+T*
+(Windows 3.1 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Formalizing a ring theorem with Lean 4 and Claude) Tj
+T*
+(Source: John D. Cook | Published: Wed, 17 Jun 2026 14:23:51 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/17/rings-with-lean-claude/) Tj
+T*
+(I?ve been testing Claude?s ability to generate Lean 4 code to prove theorems. I?ve written) Tj
+T*
+(about a couple experiments that verified calculations. I did not write about my failed attempt) Tj
+T*
+(to get Claude to formalize a proof of the pqr theorem for seminorms. This time I asked Claude) Tj
+T*
+(to formally prove the theorem from the [?] The post Formalizing a ring theorem with Lean 4 and) Tj
+T*
+(Claude first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. You Got Faster. Your Company Didn?t.) Tj
+T*
+(Source: Terrible Software | Published: Wed, 17 Jun 2026 17:39:03 +0000) Tj
+T*
+(Link: https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/) Tj
+T*
+(AI made you faster. But you're not more productive; you're outsourcing the slow part to) Tj
+T*
+(everyone else) Tj
+T*
+() Tj
+T*
+(10. Why servers running Ubuntu can stall on boot for two minutes) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-17T02:30:09Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier) Tj
+T*
+(Suppose, not hypothetically, that you have some standard physical servers. As is typical, the) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 5023 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(servers have more than one network interface \(two is usually the basics even for 1U servers,) Tj
+T*
+(and maybe you put in a 10G-T card in some\), but you're only using one network interface on one) Tj
+T*
+(network; the others are just sort of there. Recently you've started putting Ubuntu 26.04 LTS on) Tj
+T*
+(them, and to your surprise \(and displeasure\) these machines stall for two minutes on boot,) Tj
+T*
+(which they report as waiting for systemd-networkd-wait-online . The direct culprit is that you) Tj
+T*
+(haven't told Canonical Netplan to ignore the state of network carrier for all of the network) Tj
+T*
+(interfaces that you aren't using and don't have plugged in to anything. This is the ') Tj
+T*
+(ignore-carrier ' property, listed in Properties for all device types , and you need to set it) Tj
+T*
+(on every network interface that is listed in /etc/netplan/*.yaml. However, why this happens and) Tj
+T*
+(how we got here is a little bit convoluted \(and it can happen in versions other than 26.04,) Tj
+T*
+(under the right circumstances\). Famously, Netplan doesn't actually configure your networks) Tj
+T*
+(itself. Instead it creates a configuration for something else \(a 'backend'\), and on...) Tj
+T*
+() Tj
+T*
+(11. Flax debugging: making a hash of things) Tj
+T*
+(Source: Giles' blog | Published: Wed, 17 Jun 2026 02:40:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/06/hashing-jax-parameters) Tj
+T*
+(I was debugging an issue with a JAX/Flax NNX training loop the other day, and found a neat) Tj
+T*
+(little trick to help debug it. Specifically, I wanted to see if the issue was with my model, my) Tj
+T*
+(loss function, my optimiser settings, or the "plumbing" of the training loop itself -- were) Tj
+T*
+(gradients actually coming through and being applied to the parameters? I could print out the) Tj
+T*
+(loss and the gradients, but printing out the parameters to see if they were changing was) Tj
+T*
+(unhelpful -- any given update might only change a small number of parameters, or might change) Tj
+T*
+(them such a small amount that I'd not notice -- especially given that the model had 77 million) Tj
+T*
+(of them! Let's take a look. The world's worst LLM I am building an LLM from scratch in JAX and) Tj
+T*
+(Flax NNX, and at this stage I'm trying to get the training loop right. As a simple test, I've) Tj
+T*
+(just implemented the "shell" of the LLM -- the token embeddings on the input side, and the) Tj
+T*
+(final linear layer for an output head, wired directly together. My plan was to train that so) Tj
+T*
+(that given a sequence, instead of predicting next tokens for each position, it would "predict") Tj
+T*
+(the sequence itself -- that is, I might train it with the input The fat cat sat o...) Tj
+T*
+() Tj
+T*
+(12. Summoning the Demon) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-06-17T00:00:00-07:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/06/17/summoning-the-demon.html) Tj
+T*
+(Watch you hit the stage like a willing bomb Strapped to crippled children It?s hard to watch) Tj
+T*
+(you whore out your damaged pride I spit on what you?re building ? The Stephen Hawking The title) Tj
+T*
+(is a 2014 Elon Musk quote . Now that we are 12 years in, it?s so true, but maybe not in the way) Tj
+T*
+(intended. Or maybe exactly as intended? I read this and it described what?s currently going on) Tj
+T*
+(as a social crime . I very much agree. AI is simply a reflection of our society, it doesn?t) Tj
+T*
+(contain a destiny. We are summoning the demon because we have demonic desires. I don?t think) Tj
+T*
+(this is going to change, but I do think that once the demon is here it will consume the people) Tj
+T*
+(who brought it into the world. If you are one of these people, not getting out of technology) Tj
+T*
+(will cost you your life. You?ll bleed to feed the demon in me If you don?t change your evil) Tj
+T*
+(ways and end this peacefully You?ll bleed to feed the demon in me I beg you, before you?re) Tj
+T*
+(digested, shred your legs and see I am a proud member of the perpetual underclass. After your) Tj
+T*
+(game of musical chairs is over, you will all join me eventually, and when you show up you will) Tj
+T*
+(lose because we have been here for years. We will be comfortable. We will...) Tj
+T*
+() Tj
+T*
+(13. Logic for Programmers v0.15, Livecoding) Tj
+T*
+(Source: Computer Things | Published: Wed, 17 Jun 2026 16:40:09 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/logic-for-programmers-v015-livecoding/) Tj
+T*
+(There's a new release of Logic for Programmers ! This one, version 0.15, is the first true) Tj
+T*
+(release candidate. There's a couple of minor touch-ups I need to do but all content is in and) Tj
+T*
+(copy edited and proofread. Unless something absolutely major comes up, the next release will be) Tj
+T*
+(1.0 and available in print. Full release notes here . \(I'm also testing if a smaller low margin) Tj
+T*
+(PDF is better for phones and computers. The printed book is going to have much larger proper) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4726 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(margins. Let me know what you think about this experiment!\) Anyway I hurt my wrist and can't) Tj
+T*
+(write a whole newsletter, so I'll just do a couple of recommendations. My friend Richard) Tj
+T*
+(Whaling invited me to the inaugural livecode.chicago meetup , which was pretty cool! Among) Tj
+T*
+(other things, people demoed two languages for livecoding music: Strudel is an extensive) Tj
+T*
+(javascript DSL that seems relatively friendly to get into CLAVIER-36 is a ground-up special) Tj
+T*
+(purpose language where the program is a 2D grid It all kinda makes me wish I knew the basics of) Tj
+T*
+(music because it seems like it'd be a lot of fun to compare and contrast all of the various) Tj
+T*
+(approaches to livecoding languages. Check em out if that's at all your thing! \(For compl...) Tj
+T*
+() Tj
+T*
+(14. Pluralistic: The \(real\) dead economy theory \(17 Jun 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 17 Jun 2026 18:27:18) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/) Tj
+T*
+(Today's links The \(real\) dead economy theory: Vibes and memestocks, all the way down. Hey look) Tj
+T*
+(at this: Delights to delectate. Object permanence: Jim Baen has had a stroke; Blame Apple for) Tj
+T*
+(iTunes DRM; France v the internet; "Rotters"; 1901 undersea cables; Washington Post wants Trump) Tj
+T*
+(coverage blackout; Taxes are for the little people; Gamer lifecycle; Ghanian postal song; "What) Tj
+T*
+(Lies Beneath the Clock Tower": Murder of Jo Cox; 12 year old doxed by anti-vaxers; Hong Kong) Tj
+T*
+(bookseller recants forced confession. Upcoming appearances: LA, Menlo Park, Toronto, NYC,) Tj
+T*
+(Philadelphia, Chicago, London, Edinburgh, Brighton, South Bend. Recent appearances: Where I've) Tj
+T*
+(been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said,) Tj
+T*
+(I'll keep writin' 'em. Colophon: All the rest. The \(real\) dead economy theory \(permalink\)) Tj
+T*
+(Here's a fun fact about Elon Musk: in 2020, his \(nominal\) net worth was $20b, and today it's) Tj
+T*
+($1t \(nominally\). But that's not the fun fact; this is: everything he's done since 2020 was a) Tj
+T*
+(flop. As John Quiggin writes, the pre-2020 Musk was the Musk of Tesla, batteries and Starlink.) Tj
+T*
+(The post-2020 Musk is the Musk of Starship, robotaxis, Cybertrucks and Twitt...) Tj
+T*
+() Tj
+T*
+(15. How to Write Compelling Software Release Announcements) Tj
+T*
+(Source: Refactoring English | Published: Wed, 25 Jun 2025 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/excerpts/release-announcements/) Tj
+T*
+(A release announcement showcases how the user?s experience is better today than it was) Tj
+T*
+(yesterday. That sounds obvious, but most release announcements seem to forget that there?s a) Tj
+T*
+(user at all. So many release announcements just enumerate new features in a way that?s totallly) Tj
+T*
+(divorced from how real people use the software. The announcement is essentially just a) Tj
+T*
+(changelog with better writing. For example, here?s a ?changelog? style of announcing a new) Tj
+T*
+(feature:) Tj
+T*
+() Tj
+T*
+(16. How to Write Blog Posts that Developers Read) Tj
+T*
+(Source: Refactoring English | Published: Thu, 27 Mar 2025 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/excerpts/write-blog-posts-developers-read/) Tj
+T*
+(I recently spoke to a developer who tried blogging but gave up because nobody was reading his) Tj
+T*
+(posts. I checked out his blog, and it was immediately obvious why he didn?t have any readers.) Tj
+T*
+(The developer had interesting insights, but he made so many mistakes in presenting his ideas) Tj
+T*
+(that he was driving everyone away. The tragedy was that these errors were easy to fix. Once you) Tj
+T*
+(learn to recognize them, they feel obvious, but some bloggers make these mistakes for years.) Tj
+T*
+() Tj
+T*
+(17. How to Write Useful Commit Messages) Tj
+T*
+(Source: Refactoring English | Published: Fri, 07 Mar 2025 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/excerpts/commit-messages/) Tj
+T*
+(Effective commit messages simplify the code review process and aid long-term code maintenance.) Tj
+T*
+(Unfortunately, commit messages don?t get much respect, so the world is littered with useless) Tj
+T*
+(messages like Fix bug or Update UI . There?s no widespread agreement about what makes a good) Tj
+T*
+(commit message or why it?s useful, so I?m sharing my thoughts based on my 20 years of) Tj
+T*
+(experience as a software developer. An example of a useful commit message What?s the point of a) Tj
+T*
+(commit message? Helps your code reviewer approach the change Communicates changes to teammates,) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1204 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(downstream clients, and end-users Facilitates future bug investigations Provides information to) Tj
+T*
+(development tools Organizing information in a commit message Put the most important information) Tj
+T*
+(first Use headings to structure long commit messages What should the commit message include? A) Tj
+T*
+(descriptive title A summary of how the change impacts clients and end-users The motivation for) Tj
+T*
+(the change Breaking changes External references Justifications for new dependencies) Tj
+T*
+(Cross-references to issues or other changes Summaries of bugs or external references Testing) Tj
+T*
+(instructions Testing limitations What you learned Alternative solutions you consi...) Tj
+T*
+() Tj
+T*
+(18. Key, in sight) Tj
+T*
+(Source: Aresluna | Published: 2026-06-16T18:50:27+0000) Tj
+T*
+(Link: https://aresluna.org/key-in-sight) Tj
+T*
+(A guide, of sorts, to keyboard customization. \(9,400 words.\)) Tj
+T*
+() Tj
+T*
+(19. Unsung) Tj
+T*
+(Source: Aresluna | Published: 2026-03-27T15:02:13+0000) Tj
+T*
+(Link: https://unsung.aresluna.org) Tj
+T*
+(A new blog on software craft and quality. Subscribe via RSS or receive an email digest every) Tj
+T*
+(Friday.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004788 00000 n 
+0000004914 00000 n 
+0000009242 00000 n 
+0000009368 00000 n 
+0000014443 00000 n 
+0000014569 00000 n 
+0000019348 00000 n 
+0000019476 00000 n 
+0000020733 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20861
+%%EOF
