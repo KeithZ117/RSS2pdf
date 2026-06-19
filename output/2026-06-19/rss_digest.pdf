@@ -1,0 +1,570 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4466 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-19 10:00:57) Tj
+T*
+() Tj
+T*
+(1. Datasette Apps: Host custom HTML applications inside Datasette) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-18T23:58:38+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything) Tj
+T*
+(Today we launched a new plugin for Datasette, datasette-apps , with this launch announcement) Tj
+T*
+(post on the Datasette project blog. That post has the what , but I'm going to expand on that a) Tj
+T*
+(little bit here to provide the why . The TL;DR Datasette Apps are self-contained) Tj
+T*
+(HTML+JavaScript applications that run in a tightly constrained sandbox hosted on your Datasette) Tj
+T*
+(application. They can use JavaScript to run read-only SQL queries against data in Datasette,) Tj
+T*
+(and can run write queries too if you configure them with some stored queries . Here's a very) Tj
+T*
+(simple example and a more complex custom timeline example - the latter looks like this: Apps) Tj
+T*
+(are allowed to run JavaScript and render HTML and CSS. They are limited in terms of access -) Tj
+T*
+(the they run in prevents them from accessing cookies or localStorage and they also have an) Tj
+T*
+(injected CSP header \(thanks to this research \) which prevents them from making HTTP requests to) Tj
+T*
+(outside hosts, preventing a malicious or buggy app from exfiltrating private data. Datasette) Tj
+T*
+(Apps started out as my attempt at building a Claude Artifacts mechanism for Datasette Agent ,) Tj
+T*
+(but I quickly realised that the sandboxed pattern is interesting for way more than just...) Tj
+T*
+() Tj
+T*
+(2. datasette-acl 0.6a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-18T19:03:13+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything) Tj
+T*
+(Release: datasette-acl 0.6a0 This release expands datasette-acl from table-only permissions) Tj
+T*
+(toward a general resource-sharing system. Alex Garcia did most of the work for this release -) Tj
+T*
+(we're fleshing out the plugin that will allow multi-user Datasette instances finely grained) Tj
+T*
+(control over who can access which resources within Datasette. Tags: datasette , alex-garcia) Tj
+T*
+() Tj
+T*
+(3. NetNewsWire Status) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-17T03:36:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything) Tj
+T*
+(NetNewsWire Status I find this inspiring. Brent Simmons retired a year ago, and his retirement) Tj
+T*
+(project is making one piece of software really, really good - free from any commercial) Tj
+T*
+(pressure. The software is NetNewsWire - "it's like podcasts, but for reading " - first released) Tj
+T*
+(in 2002 and made open source in 2018. I've been using it on Mac and iPhone for several years) Tj
+T*
+(now and I'm finding it indispensable. Via Lobste.rs Tags: brent-simmons , netnewswire ,) Tj
+T*
+(open-source) Tj
+T*
+() Tj
+T*
+(4. Verizon, Formerly Menace Mobile) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-19T00:58:25Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=lzmntndEXWo) Tj
+T*
+(Verizon has sprung for a new ad campaign set in the Austin Powers world, with four stars from) Tj
+T*
+(the cast ? Mike Myers, of course, as Dr. Evil; Rob Lowe as Number Two \(Robert Wagner is alive) Tj
+T*
+(but is 96\); Seth Green as Evil?s son Scott, and Mindy Sterling as Frau Farbissina ? and) Tj
+T*
+(director Jay Roach. The premise of the two-minute spot is that Dr. Evil is proposing ?Menace) Tj
+T*
+(Mobile?, a wireless carrier with confusing pricing and plans. Scott pooh-poohs the idea on the) Tj
+T*
+(grounds that ?This isn?t evil. This is just typical phone company stuff.? Then, after some) Tj
+T*
+(back-and-forth, comes this exchange: Scott: Diabolical phone companies are why we?re all) Tj
+T*
+(switching to Verizon. Dr. Evil: I thought Verizon was just like the rest of the wireless) Tj
+T*
+(organizations. Scott: Well, they were, but not anymore. They just got rid of activation and) Tj
+T*
+(upgrade fees. They?re changing everything. I don?t think the commercial is particularly funny,) Tj
+T*
+(alas, but I do find it extraordinary, because of the exchange quoted above. ?Well, they were,) Tj
+T*
+(but not anymore? is one the most extraordinary lines I?ve heard in a commercial. They?re just) Tj
+T*
+(flat out admitting that, until recently, they ran their business like a scheme from Dr. Evi...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4559 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(5. Cotypist ? Smart Autocomplete Utility for Mac) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-18T19:36:18Z) Tj
+T*
+(Link: https://cotypist.app/) Tj
+T*
+(Usually when I link to a new app, it?s something that I find useful personally. Cotypist is) Tj
+T*
+(something else. It?s an AI-powered autocomplete utility for the Mac, using on-device models and) Tj
+T*
+(processing, by developer Daniel Gr‰fe of Accelerated Thought. It is very well-designed, and) Tj
+T*
+(remarkably Mac-assed \(right down to where it stores its local data and AI models\). It respects) Tj
+T*
+(your privacy and all the best conventions of MacOS. Cotypist suggests a few words ahead of your) Tj
+T*
+(insertion point at a time, and you can accept them by hitting Tab; if you want to ignore them,) Tj
+T*
+(you just keep typing. The autocomplete suggestions appear inline, in whatever app you?re typing) Tj
+T*
+(in, using your current font. I wasn?t even aware that was possible, but it is via MacOS?s rich) Tj
+T*
+(accessibility APIs. Cotypist?s suggestions are eerily good. It?s even got a great name.) Tj
+T*
+(Personally, I can?t stand using it. For me, it?s actually worse that the suggestions are so) Tj
+T*
+(good, and so often on-point for what I intend to write. That?s why I can?t stand it. It?s like) Tj
+T*
+(having a voice in my ear whispering my own thoughts before I think them. But are they my) Tj
+T*
+(thoughts, or are they just close to my thoughts? They?re so close I can?t tell...) Tj
+T*
+() Tj
+T*
+(6. New Domain for Sign In With Apple and iCloud+ Hide My Email) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-18T17:13:48Z) Tj
+T*
+(Link: https://developer.apple.com/news/?id=sus6t6ab) Tj
+T*
+(Apple Developer: Later this summer, Apple will unify the email domains used by Sign in with) Tj
+T*
+(Apple and iCloud+ Hide My Email under a single, shared domain: private.icloud.com . New) Tj
+T*
+(addresses generated for both features will be issued on the new domain. For example: Sign in) Tj
+T*
+(with Apple addresses, previously issued on privaterelay.appleid.com , will be issued on) Tj
+T*
+(private.icloud.com . iCloud+ Hide My Email addresses, previously issued on icloud.com , will be) Tj
+T*
+(issued on private.icloud.com . Existing addresses on the legacy domains will continue to work) Tj
+T*
+(and forward mail to users without interruption. Initial reaction to this change is that it) Tj
+T*
+(might render ?Hide My Email? ineffective , because shitbird services will simply ban the) Tj
+T*
+(domain, trying to force you to use your primary email address. It seems inevitable that some) Tj
+T*
+(number of services will do this. But my retort is that a service that won?t accept these email) Tj
+T*
+(addresses is one that I probably don?t want to have anything to do with. The only reason not to) Tj
+T*
+(accept private.icloud.com email addresses is if you want to do something invasive with users?) Tj
+T*
+(actual email addresses. ?) Tj
+T*
+() Tj
+T*
+(7. ?Popa? Botnet Linked to Publicly-Traded Israeli Firm) Tj
+T*
+(Source: Krebs on Security | Published: Thu, 18 Jun 2026 17:37:58 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/) Tj
+T*
+(For the past four years, a sprawling Android-based botnet called Popa has forced millions of) Tj
+T*
+(consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and) Tj
+T*
+(mass data-scraping efforts. This week, researchers from multiple security firms concluded that) Tj
+T*
+(the Popa botnet is linked to NetNut, a "residential proxy" provider operated by the) Tj
+T*
+(publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].) Tj
+T*
+() Tj
+T*
+(8. Why doesn?t Get≠Last≠Input≠Info\(\) return info for the user I?m impersonating?) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 18 Jun 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260618-00/?p=112444) Tj
+T*
+(It doesn't care about impersonation, says so on the tin. The post Why doesn?t) Tj
+T*
+(Get≠Last≠Input≠Info\(\) return info for the user I?m impersonating? appeared first on The Old New) Tj
+T*
+(Thing .) Tj
+T*
+() Tj
+T*
+(9. Windows stack limit checking retrospective, follow-up) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 17 Jun 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260617-00/?p=112436) Tj
+T*
+(Choosing the register to use to pass the desired stack allocation size. The post Windows stack) Tj
+T*
+(limit checking retrospective, follow-up appeared first on The Old New Thing .) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4528 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(10. How to correctly not wait for network carrier in Netplan) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-18T02:03:05Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrierII) Tj
+T*
+(Yesterday I wrote an entry about why servers running Ubuntu can stall on boot for two minutes ;) Tj
+T*
+(the short version is that in 26.04, a network interface that either has no carrier or that has) Tj
+T*
+(nothing else on it will cause systemd-networkd-wait-online to wait for two minutes in the hopes) Tj
+T*
+(that this changes and the interface becomes healthy. My core diagnosis of the trigger for the) Tj
+T*
+(problem was correct, but I had the wrong fix because in my testing, I made a classic mistake) Tj
+T*
+(that's only really possible with virtual networking for virtual machines. There's an often) Tj
+T*
+(invisible difference between an isolated virtual network interface and one that has no carrier) Tj
+T*
+(, and I tested with an isolated interface, which stalls under some circumstances and fixed by) Tj
+T*
+(some things, but not a virtual machine network interface with no carrier . The latter requires) Tj
+T*
+(a more thorough fix. I will put the answer at the front: you need to set every disconnected) Tj
+T*
+(interface in your Netplan configuration to ' optional: true '. Setting ' ignore-carrier: true ') Tj
+T*
+(isn't necessarily sufficient unless the interface has carrier. If you're mangling your 26.04) Tj
+T*
+(Netplan configuration anyway, I suggest you also set ' accept-ra: fal...) Tj
+T*
+() Tj
+T*
+(11. I hate compilers) Tj
+T*
+(Source: Xe Iaso's blog | Published: Thu, 18 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/) Tj
+T*
+(You'd think that given the same bytes of input you'd get the same bytes of output. lol. lmao.) Tj
+T*
+(No, you don't. It's complicated.) Tj
+T*
+() Tj
+T*
+(12. Book Review: The Great When by Alan Moore ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 18 Jun 2026 11:34:19 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/) Tj
+T*
+(This is the most overwritten book I've ever read. Unfortunately, Alan Moore knows exactly how) Tj
+T*
+(much polysyllabic pressure it takes to transmogrify base coal into precious gems. With lines) Tj
+T*
+(like "his shaved suede skull made him look like a wilted thistle" and "There was a rumour of) Tj
+T*
+(pink lipstick circling her mouth" you know you're in for a treat. Even better than the joyful) Tj
+T*
+(prose of Bob?) Tj
+T*
+() Tj
+T*
+(13. Open Source vs the Invisible Hand) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-06-18T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html) Tj
+T*
+(If you handed an economics undergraduate a description of how open source libraries are) Tj
+T*
+(produced, without saying what it was, and asked them to predict the outcome, they would tell) Tj
+T*
+(you it doesn?t add up. Non-excludable goods with no price, no contracts, no liability, a median) Tj
+T*
+(producer headcount of one, and near-total free riding by consumers: there is no model in the) Tj
+T*
+(textbook under which that arrangement produces anything stable. Then you run npm install and a) Tj
+T*
+(few hundred of these impossible goods arrive in seconds, and the commercial software industry) Tj
+T*
+(sits almost entirely on top of them. Open source breaks more or less the full set of market) Tj
+T*
+(axioms at once. The free rider problem . A public good is non-rival \(my use doesn?t reduce) Tj
+T*
+(yours\) and non-excludable \(you can?t keep me out\), and standard theory holds that such goods) Tj
+T*
+(will be underproduced because every rational actor waits for someone else to pay. The canonical) Tj
+T*
+(case is the lighthouse , where everyone benefits and nobody volunteers, so government has to) Tj
+T*
+(build it. An open source library meets the definition exactly, being perfectly non-rival and) Tj
+T*
+(non-excludable by licence, so the theory predicts a small number of them, grudging...) Tj
+T*
+() Tj
+T*
+(14. You don?t understand, prices can?t go down) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-06-18T00:00:00-07:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/06/18/prices-cant-go-down.html) Tj
+T*
+(Since at least 2008, every time there?s an option to either make the money track real value or) Tj
+T*
+(make sure things don?t go down, they chose the latter. As a result, money is increasingly) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4520 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(uncoupled from reality. From Cory Doctorow?s blog : The actual dead economy risk is that our) Tj
+T*
+(institutions and markets will continue to move capital from productive activity into) Tj
+T*
+(memestocks, vibes, and bubbles. Theranos was ~$10B, FTX was ~$100B, and frontier AI lab is) Tj
+T*
+(~$1T. The US government is ~$10T. We are one order of magnitude from the end of too big to) Tj
+T*
+(fail. If grassroots movements aren?t totally captured and get serious, I have a very good) Tj
+T*
+(solution . Every time someone is making money, you have to ask: is this created by growth? If) Tj
+T*
+(the answer is no, the only other option is who did they take it from? Cruise Automation was) Tj
+T*
+(founded around the same time as comma. They burned $10B with nothing to show for it. There was) Tj
+T*
+(clearly no growth, so who lost the $10B? And don?t stop at ?the investors? they are just) Tj
+T*
+(middlemen. Trace it all the way through. Since 1980, the economy has grown at 2.6% per year.) Tj
+T*
+(The stock market has grown at 12.3% per year. Compounded, that?s 3.3x vs 220x. Does this make) Tj
+T*
+(any sen...) Tj
+T*
+() Tj
+T*
+(15. GLM 5.2 playing text adventures) Tj
+T*
+(Source: Entropic Thoughts | Published: Thu, 18 Jun 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/glm-5-2-playing-text-adventures) Tj
+T*
+(I?ve heard some buzz around the new GLM 5.2 open-weights model. They say it?s very capable! I) Tj
+T*
+(won?t run a full comparison benchmark, but I have some credits sloshing around on OpenRouter so) Tj
+T*
+(I figured I might compare GLM 5.2 to the similarly-priced Gemini 3 Flash, and see where things) Tj
+T*
+(land. This uses the same setup as the previous benchmark: each LLM gets a few attempts at) Tj
+T*
+(playing the game, with each attempt being limited to a fixed budget of around $0.15. The LLM) Tj
+T*
+(doesn?t know it, but the harness tracks achievements for each game, and counts how many the LLM) Tj
+T*
+(earns in each attempt. Here are the number of attempts for each game in this run. \(Continue) Tj
+T*
+(reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(16. Passive Voice Considered Harmful) Tj
+T*
+(Source: Refactoring English | Published: Fri, 31 Jan 2025 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/excerpts/passive-voice-considered-harmful/) Tj
+T*
+(Your high school English teachers probably warned you that passive voice is dangerous and) Tj
+T*
+(forbidden. Then, when you were an adult, some guy in a leather jacket told you that passive) Tj
+T*
+(voice is cool and should be used whenever it?s desired. Well, the tide has turned again. If) Tj
+T*
+(you?re a software developer, stop using the passive voice. Wait, what?s passive voice? In) Tj
+T*
+(English, sentences can have one of two structures: passive voice or active voice.) Tj
+T*
+() Tj
+T*
+(17. Rules for Writing Software Tutorials) Tj
+T*
+(Source: Refactoring English | Published: Thu, 02 Jan 2025 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/excerpts/rules-for-software-tutorials/) Tj
+T*
+(Most software tutorials are tragically flawed. Tutorials often forget to mention some key) Tj
+T*
+(detail, preventing readers from replicating the author?s process. Other times, the author) Tj
+T*
+(brings in hidden assumptions that don?t match their readers? expectations. The good news is) Tj
+T*
+(that it?s easier than you think to write an exceptional software tutorial. You can stand out in) Tj
+T*
+(a sea of mediocre guides by following a few simple rules. Rules Write for beginners Promise a) Tj
+T*
+(clear outcome in the title Explain the goal in the introduction Show the end result Make code) Tj
+T*
+(snippets copy/pasteable Use long versions of command-line flags Separate user-defined values) Tj
+T*
+(from reusable logic Use unambiguous example values Spare the reader from mindless tasks Keep) Tj
+T*
+(your code in a working state Teach one thing Don?t try to look pretty Minimize dependencies) Tj
+T*
+(Specify filenames clearly Use consistent, descriptive headings Demonstrate that your solution) Tj
+T*
+(works Link to a complete example Write for beginners The most common mistake tutorials make is) Tj
+T*
+(explaining beginner-level concepts using expert-level terminology.) Tj
+T*
+() Tj
+T*
+(18. Show your hands honor for the strange power they bring you) Tj
+T*
+(Source: Aresluna | Published: 2026-06-18T14:43:48+0000) Tj
+T*
+(Link: https://aresluna.org/show-your-hands-honor) Tj
+T*
+(On designing finger-friendly interactions. \(7,700 words. 38 playgrounds.\)) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1629 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(19. Pluralistic: AI digital sovereignty risk doesn't exist \(18 Jun 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 18 Jun 2026 15:22:16) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/18/their-trillions-our-billions/) Tj
+T*
+(Today's links AI digital sovereignty risk doesn't exist: If 'risk + AI = risk ? AI', then 'AI =) Tj
+T*
+(0'. Hey look at this: Delights to delectate. Object permanence: Napster x librarians; Flickr) Tj
+T*
+(API reciprocity; KFC's Mega Jug v diabetes research; Hambone virtuoso; Google fiber x binding) Tj
+T*
+(arbitration; "The Immortal Choir Holds Every Voice." Upcoming appearances: LA, Menlo Park,) Tj
+T*
+(Toronto, NYC, Philadelphia, Chicago, London, Edinburgh, Sydney, Melbourne, Brighton, London,) Tj
+T*
+(South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. AI) Tj
+T*
+(digital sovereignty risk doesn't exist \(permalink\) Back at the height of the blockchain bubble,) Tj
+T*
+(I made a hobby of pointing out that crypto weirdos were palming a card. I used this) Tj
+T*
+(formulation: if: problem + blockchain = problem ? blockchain then: blockchain = 0) Tj
+T*
+(https://pluralistic.net/2022/01/30/the-inevitability-of-trusted-third-parties/ You see,) Tj
+T*
+(blockchain weirdos kept insisting that they could solve problems related to trust and) Tj
+T*
+(institutional design with "smart contracts." Rather than having to trust a board of directors) Tj
+T*
+(to steer an orga...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004735 00000 n 
+0000004861 00000 n 
+0000009472 00000 n 
+0000009598 00000 n 
+0000014178 00000 n 
+0000014304 00000 n 
+0000018877 00000 n 
+0000019005 00000 n 
+0000020687 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20815
+%%EOF
