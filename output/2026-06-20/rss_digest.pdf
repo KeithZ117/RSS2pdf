@@ -1,0 +1,484 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4148 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-20 09:47:19) Tj
+T*
+() Tj
+T*
+(1. Quoting Sean Lynch) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-19T22:45:49+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) Tj
+T*
+(The real valuable capability MCP offers over skills/CLI is isolating the auth flow outside of) Tj
+T*
+(the agent?s context window, and potentially out of the harness completely. [...] Maybe the) Tj
+T*
+(idealized form of MCP is just an auth gateway for the API and nothing else. That?d still be a) Tj
+T*
+(win. ? Sean Lynch , comment on Hacker News Tags: model-context-protocol , llms , ai ,) Tj
+T*
+(generative-ai , skills) Tj
+T*
+() Tj
+T*
+(2. datasette 1.0a34) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-16T21:31:24+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/16/datasette/#atom-everything) Tj
+T*
+(Release: datasette 1.0a34 Quoting the release notes: The big feature in this alpha is tools to) Tj
+T*
+(insert, edit and delete rows within the Datasette interface. These features are available on) Tj
+T*
+(table pages, and edit and delete are also available as action items on the row page. The) Tj
+T*
+(inspiration for this feature - which is long overdue - was Datasette Agent . I added SQL write) Tj
+T*
+(support to that the other day which highlighted how absurd it was that you could insert and) Tj
+T*
+(edit ties via the chat interface but not in the regular Datasette UI! Tags: projects ,) Tj
+T*
+(datasette , annotated-release-notes) Tj
+T*
+() Tj
+T*
+(3. Quoting Matteo Wong, The Atlantic) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-16T03:07:54+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything) Tj
+T*
+(Katie Moussouris, a cybersecurity expert and the CEO of Luta Security, told me that Anthropic) Tj
+T*
+(shared with her a copy of the White House?s report on the Fable jailbreak to get her appraisal.) Tj
+T*
+(\(She said that she is not being paid by Anthropic.\) The report, Moussouris said, involved IT) Tj
+T*
+(experts asking Fable to help find and patch bugs. When given deliberately insecure code, she) Tj
+T*
+(said, Fable refused the prompt ?review the code for security issues? but then complied when) Tj
+T*
+(asked to ?fix this code,? followed by some further manual steps. Moussouris told me that this) Tj
+T*
+(was just ?the model working as intended? for cyberdefense. ? Matteo Wong, The Atlantic , The) Tj
+T*
+(White House Is Ratcheting Up Its War Against Anthropic Tags: anthropic , claude , ai , llms ,) Tj
+T*
+(ai-ethics , jailbreaking , generative-ai , ai-security-research , claude-mythos) Tj
+T*
+() Tj
+T*
+(4. Another One for the ?Sorry, We Used to Be Crap? Truth-in-Advertising File: Carlsberg) Tj
+T*
+(Beer) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-20T01:29:29Z) Tj
+T*
+(Link: https://www.independent.co.uk/news/business/news/carlsberg-probably-not-best-beer-in-worl) Tj
+T*
+(d-lager-brewer-a8874016.html) Tj
+T*
+(Ben Chapman, reporting for The Independent in 2019: After 40 years of advertising its lager as) Tj
+T*
+(?Probably the best beer in the world?, Danish brewer Carlsberg has confessed that the famous) Tj
+T*
+(slogan may not be true. Reacting to falling sales and increasingly harsh comments from drinkers) Tj
+T*
+(about the taste of its beer, Carlsberg has launched a new recipe along with a more honest) Tj
+T*
+(approach to marketing. The campaign declares: ?Probably not the best beer in the world. So) Tj
+T*
+(we?ve changed it. Somewhere along the line, we lost our way. We focused on brewing quantity,) Tj
+T*
+(not quality. We became one of the cheapest, not the best.? As part of the new ad campaign) Tj
+T*
+(Carlsberg is sharing negative comments about the old beer including, ?Carlsberg tastes like) Tj
+T*
+(stale breadsticks? and another comparing it to ?drinking the bathwater your nan died in?. I) Tj
+T*
+(drank a Carlsberg once. Once . ?) Tj
+T*
+() Tj
+T*
+(5. ?What?s the Deal With Old Guys and Giant Glasses??) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-20T01:21:19Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=8DYGxn6Xvt0) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4519 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Early adoption of new technology is generally considered a young-person thing, but maybe Snap) Tj
+T*
+(Specs will turn that notion on its head. Direct sales in retirement homes? ?) Tj
+T*
+() Tj
+T*
+(6. Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-19T18:47:02Z) Tj
+T*
+(Link: https://www.nbcnews.com/tech/gadgets/trump-mobile-t1-phone-nearly-identical-htc-device-an) Tj
+T*
+(alysis-rcna349293) Tj
+T*
+(NBC News: The Trump Mobile T1 phone, originally marketed as ?Made in the USA,? is nearly) Tj
+T*
+(identical to the two-year-old HTC U24 Pro, a phone made by the Taiwanese company HTC using) Tj
+T*
+(Chinese parts, according to a technical analysis the repair-guide and parts company iFixit) Tj
+T*
+(conducted in partnership with NBC News. That report is paywalled, but NBC News?s five-minute) Tj
+T*
+(video is on YouTube , and iFixit has a full teardown report of their own . The only thing) Tj
+T*
+(that?s surprising is that the Trump T1 doesn?t cost much more than the HTC-branded one \($500) Tj
+T*
+(vs. $470 \). ?) Tj
+T*
+() Tj
+T*
+(7. Some reasons why your server may not be doing a UEFI network boot) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-19T03:30:46Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot) Tj
+T*
+(In theory, network booting with UEFI is fairly straightforward. Unlike the earlier BIOS based) Tj
+T*
+(network booting, UEFI defines network booting in the standard itself \(although it's not) Tj
+T*
+(required\). In practice, vendors of x86 servers have found any number of creative ways to put) Tj
+T*
+(stumbling blocks in your way in their firmware \(aka 'BIOS'\). Here's an incomplete list of) Tj
+T*
+(reasons that your server might not be willing to do a UEFI network boot the way you expect it.) Tj
+T*
+(The firmware might not even be in UEFI mode, in which case at best it's trying to do BIOS PXE) Tj
+T*
+(boot, which requires a different set of support infrastructure on your boot server that may not) Tj
+T*
+(be there \( cf , also \). There's no UEFI network booting option \(or options\) in the server's) Tj
+T*
+(UEFI boot order. The UEFI network boot option is trying to boot from the wrong interface \(on a) Tj
+T*
+(server with multiple interfaces\). The firmware only supports UEFI network booting using the) Tj
+T*
+(built-in 1G network interfaces, not with your 10G-T add-in PCIe card that is actually connected) Tj
+T*
+(to your network. UEFI network booting is enabled in the boot order, but your firmware settings) Tj
+T*
+(have disabled network booting for all network devices that the firmware will tr...) Tj
+T*
+() Tj
+T*
+(8. There Are No Instances in atproto) Tj
+T*
+(Source: overreacted ? A blog by Dan Abramov | Published: Fri, 19 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://overreacted.io/there-are-no-instances-in-atproto/) Tj
+T*
+(Like RSS and Google Reader.) Tj
+T*
+() Tj
+T*
+(9. Arp 29: The fireworks galaxy) Tj
+T*
+(Source: Maurycy's Blog | Published: Fri, 19 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/astro/arp29/) Tj
+T*
+(North is right. 0.55"/pixel \(26'x26' field\). FWHM=3.7" This one is in the Atlas of Pecular) Tj
+T*
+(Galaxies under "one heavy arm", which checks out: the eastern arm \(down\) is considerably) Tj
+T*
+(bighter and denser than the others. However, it's mostly known for it's bright star formation,) Tj
+T*
+(and being close enough and it's close enough to resolve multiple HII regions and a bright star) Tj
+T*
+(cluster: It's also had ten observed supernova, hence "fireworks galaxy". In the sky, it apears) Tj
+T*
+(very close to the milky way , which can be seen as the unusally dense star field. Also, there's) Tj
+T*
+(a lot of dust blocking the galaxy's light which results in it's low surface brightness. It also) Tj
+T*
+(makes luminosity measurements unreliable, and because it's too close for acurate redshift data) Tj
+T*
+(\(z=0.00015\), it's hard to tell how far away it is: I'd guess somewhere between 10 and 30) Tj
+T*
+(million light years. dt { color: var\(--em-color\); } Total exposure time: 504 * 30 seconds = 4.2) Tj
+T*
+(hours. Used in stack: 417 * 30 seconds = 3.4 hours. Telescope: C9.25 \(230mm, f/10, fl=2300mm\) +) Tj
+T*
+(0.63 Starizona reducer Camera: IMX533 \(16mm diagonal, square, color\) Processing: Callibration) Tj
+T*
+(\(dark + flat\) Stacking \(average w/ outlier rejection\) White balance and...) Tj
+T*
+() Tj
+T*
+(10. Glassblowing #2: Making a tungsten lamp and \(bad\) vacuum diode) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4265 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Maurycy's Blog | Published: Thu, 18 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/projects/glass/2/) Tj
+T*
+(Now that I have a way to run electrodes through glass , it's time to do something with that. An) Tj
+T*
+(old school lightbulb is rather simple: just a thin wire that gets hot enough to glow. However,) Tj
+T*
+(to produce anything approaching white light, the wire must get to around 2500 C. While) Tj
+T*
+(conductors like tungsten or graphite can survive those temperatures, they all burn on contact) Tj
+T*
+(with air. To prevent this, I'll be sealing my lamp in glass under vacuum: no air, no problem. I) Tj
+T*
+(lied. Some ceramics start conducting once heated, and being oxides, are completely unaffected) Tj
+T*
+(by oxygen. Open air "Nernst lamps" did enjoy brief popularity in the 1890-1900s, but because of) Tj
+T*
+(the added complexity of preheating the filament, they were replaced by filament lamps once) Tj
+T*
+(vacuum pumps became good enough for commercial production.) Tj
+T*
+(https://en.wikipedia.org/wiki/Nernst_lamp : those lamps.) Tj
+T*
+(https://www.youtube.com/watch?v=-spTvp5-sf0 : Using one. To start, I bent some some 0.3mm) Tj
+T*
+(diameter tungsten wire into a "U" shape, and twisted a length of very fine 0.012 mm tungsten) Tj
+T*
+(wire onto the free ends. I cut one side of the lead frame shorter so that the filament would) Tj
+T*
+(sit diagonally: allowing it to be reasonably long without...) Tj
+T*
+() Tj
+T*
+(11. Converting Coal Plants to Natural Gas) Tj
+T*
+(Source: Construction Physics | Published: Fri, 19 Jun 2026 12:03:02 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/converting-coal-plants-to-natural) Tj
+T*
+(For the better part of the last several hundred years, coal was the fuel of choice for) Tj
+T*
+(generating power.) Tj
+T*
+() Tj
+T*
+(12. Premium: The Silicon Valley Bubble \(Part 2\)) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 19 Jun 2026 17:03:48 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-2/) Tj
+T*
+(So it?s been a big week for me after I published an exclusive covering OpenAI?s audited) Tj
+T*
+(financials from 2024 and 2025 , with reactions ranging from ?oh my god, OpenAI spent $34) Tj
+T*
+(billion to make $13.07 billion in revenue!? to ?actually, it?) Tj
+T*
+() Tj
+T*
+(13. Full Page Paralysis) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Fri, 19 Jun 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/full-page-paralysis/) Tj
+T*
+(You?ve probably heard the term. It?s meant to convey how difficult it can be to start) Tj
+T*
+(something. ?Blank page paralysis?. But for my money, beginning is easy. Finishing is the hard) Tj
+T*
+(part. In software, they call it ?the last 90%?. In logistics, they call it ?the last mile?.) Tj
+T*
+(It?s that final stretch that?s disproportionately hard. Finishing makes something real and) Tj
+T*
+(finite, subject to judgment. As I near completion, there?s a little voice in my head that says,) Tj
+T*
+(?As long as it?s unfinished, there?s nothing wrong with it. It?s still potentially perfect!? I) Tj
+T*
+(don?t struggle with blank page paralysis. But I am paralyzed in the face of a full page ready) Tj
+T*
+(for publishing. Reply via: Email ∑ Mastodon ∑ Bluesky) Tj
+T*
+() Tj
+T*
+(14. The data black hole at the center of AI) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Fri, 19 Jun 2026 16:45:03 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2) Tj
+T*
+("We see these AIs as a galaxy glittering with capabilities, but at their center, invisible to) Tj
+T*
+(the naked eye, holding all the constellations together, is an unimaginably massive black hole) Tj
+T*
+(of data.") Tj
+T*
+() Tj
+T*
+(15. The Goldilocks Principle in Fantasy Strategy) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 19 Jun 2026 16:00:22 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/) Tj
+T*
+(Although I?ve played way too many games for way too many hours over the way too many years I?ve) Tj
+T*
+(been writing these histories, it?s safe to say that I haven?t spent more time with any one game) Tj
+T*
+(than Heroes of Might and Magic II. Partly this was down to circumstance. Heroes II showed up on) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3155 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(the [?]) Tj
+T*
+() Tj
+T*
+(16. Bobby Prince has died) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-06-19T18:45:09.871-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/06/bobby-prince-has-died.html) Tj
+T*
+(Bobby Prince, '90s FPS game musician extraordinare, has died at 81 . His work in Wolfenstein 3D) Tj
+T*
+(was fine \(especially The Ultimate Challenge \) but clearly all of a particular genre, and his) Tj
+T*
+(contributions to Duke Nukem 3D and Rise of the Triad were solid but overshadowed by Lee) Tj
+T*
+(Jackson's \(exhibit A: Grabbag ; exhibit B: Prince's main theme but Jackson's KISS OFF \). Doom,) Tj
+T*
+(on the other hand ... well. It's not just that these were solid gamer tracks, it's that they) Tj
+T*
+(sounded good on just about anybody's sound card. We had high quality MIDI on Mac while you) Tj
+T*
+(schlubs struggled with Sound Blaster Pros and it still didn't sound like a$$. That's talent.) Tj
+T*
+(While everybody will name At Doom's Gate \(E1M1\) as his best, I claim it is only merely his most) Tj
+T*
+(memorable, and solely because everyone on the whole stinking planet has played it at least) Tj
+T*
+(once. Instead, I proffer I Sawed The Demons \(E2M1\), Untitled \(E3M1\), and the reworked Wolf 3D) Tj
+T*
+(holdover Evil Incarnate \(Doom II MAP31\) as his heaviest and meatiest, Donna To The Rescue) Tj
+T*
+(\(E3M2\) as his funkiest, The Demons from Adrian's Pen \(E2M2\) and They're Going To Get You \(E2M4\)) Tj
+T*
+(as his creepiest \(I love the " car going out of control " feel to E2M2, as Prince h...) Tj
+T*
+() Tj
+T*
+(17. Pluralistic: The Big Con \(19 Jun 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 19 Jun 2026 20:54:32) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/19/too-big-to-fact-check/) Tj
+T*
+(Today's links The Big Con: Making the pile of shit bigger won't increase the number of ponies) Tj
+T*
+(underneath it. Hey look at this: Delights to delectate. Object permanence: TVA v SETI@Home;) Tj
+T*
+(Telemarketers v DHS batphones; Matt Stone's MPAA censorship memo; Stonehenge pocket watch; W3C) Tj
+T*
+(v security research; Congressional mass-shooting response simulator; Dynastic wealth; Gig) Tj
+T*
+(economy astroturf; Meta publishes your AI prompts. Upcoming appearances: LA, Menlo Park,) Tj
+T*
+(Toronto, NYC, Philadelphia, Chicago, London, Edinburgh, Sydney, Melbourne, Brighton, London,) Tj
+T*
+(South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The) Tj
+T*
+(Big Con \(permalink\) Partway through Bridget Read's unmissable chronicle of pyramid) Tj
+T*
+(\("multi-level marketing"\) schemes, Little Bosses Everywhere, there comes a dual revelation: no) Tj
+T*
+(one is selling any product to end-users and no one knows it:) Tj
+T*
+(https://pluralistic.net/2025/05/05/free-enterprise-system/#amway-or-the-highway That is to say,) Tj
+T*
+(all the hustlers who have spent thousands of dollars on Mary Kay, Herbalife and Amway have) Tj
+T*
+(failed to move any of their produ...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004410 00000 n 
+0000004536 00000 n 
+0000009107 00000 n 
+0000009233 00000 n 
+0000013550 00000 n 
+0000013676 00000 n 
+0000016884 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+17012
+%%EOF
