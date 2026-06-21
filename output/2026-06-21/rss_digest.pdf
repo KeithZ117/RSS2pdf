@@ -1,0 +1,428 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4009 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-21 09:54:01) Tj
+T*
+() Tj
+T*
+(1. I know Kung-fu) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Sat, 20 Jun 2026) Tj
+T*
+(03:17:05 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/i-know-kung-fu) Tj
+T*
+(Remember that scene in the Matrix where Neo is strapped into the chair and Link uploads all) Tj
+T*
+(sorts of martial arts into his mind? When Neo wakes up, he says "I know Kung-fu," then proceeds) Tj
+T*
+(to demonstrate his skill in a battle with Morpheus. That was a pretty amazing scene. But if you) Tj
+T*
+(suspend your disbelief for a second, it also suggests that when you have all the information at) Tj
+T*
+(your fingertips, knowledge is just a matter of uploading it into your mind. The directors of) Tj
+T*
+(the movie conveniently skip the scene where we actually see him acquiring the knowledge. All we) Tj
+T*
+(see is Link typing on the keyboard and different karate poses appearing on the screen. Is Neo) Tj
+T*
+(practicing kicks? Is he doing strength training? Is he running up and down a mountain, carrying) Tj
+T*
+(buckets of water a la Kill Bill? We don't know. So we have to assume that, from his seat, the) Tj
+T*
+(information is simply being downloaded into his mind. What if we had this same capability in) Tj
+T*
+(the real world? What if you had all the information you needed to learn any skill? You don't) Tj
+T*
+(have to limit it to learning Kung-fu, but you sure can. What if I provided you with a computer,) Tj
+T*
+(an internet connection, and a subscription to ChatGPT Pro Max Ul...) Tj
+T*
+() Tj
+T*
+(2. datasette-apps 0.1a3) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-15T20:25:07+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything) Tj
+T*
+(Release: datasette-apps 0.1a3 Fixed a bug where users without the create-app permission could) Tj
+T*
+(still create apps. #27 Fixed a bug where it was impossible to grant permission to edit an app) Tj
+T*
+(to users who were not the app's owner. The rules for edit/delete are now the same as view: if) Tj
+T*
+(the app is private only the owner can modify it, otherwise permission is controlled by) Tj
+T*
+(Datasette's regular permission system. #29 Tags: datasette) Tj
+T*
+() Tj
+T*
+(3. datasette-apps 0.1a2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-15T17:26:11+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything) Tj
+T*
+(Release: datasette-apps 0.1a2 Custom network/CSP origins for apps are now guarded by a new) Tj
+T*
+(apps-set-csp permission, with an optional allowed_csp_origins plugin allow-list for) Tj
+T*
+(non-privileged users. The Datasette Agent app creation tool enforces the same rules. #24 Stored) Tj
+T*
+(query picker now supports keyboard navigation and shows the three most recent accessible stored) Tj
+T*
+(queries when focused. #fragment links inside apps are no longer intercepted by the) Tj
+T*
+(external-link confirmation modal. #23 Fixed link confirmation modal and logging panels in) Tj
+T*
+(?full=1 full-screen mode. #26 Tags: datasette) Tj
+T*
+() Tj
+T*
+(4. Quoting Julia Evans) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-15T02:05:19+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything) Tj
+T*
+([...] Instead, I picture a specific person and I just write for them. Often this person is "me,) Tj
+T*
+(but 3 years ago" or a good friend. ? Julia Evans , write for 1 person Tags: writing ,) Tj
+T*
+(julia-evans) Tj
+T*
+() Tj
+T*
+(5. What does it mean when the bottom bit of my HMODULE is set?) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 19 Jun 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260619-00/?p=112447) Tj
+T*
+(A special kind of HMODULE . The post What does it mean when the bottom bit of my HMODULE is) Tj
+T*
+(set? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(6. Fox to Buy Roku Streaming Service in $25 Billion Deal) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4427 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-06-19T18:29:40Z) Tj
+T*
+(Link: https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=mKdQwC&reflink=desktopwebsha) Tj
+T*
+(re_permalink) Tj
+T*
+(The Wall Street Journal on Monday: Fox Corp. said it is acquiring Roku in a deal valued at) Tj
+T*
+(around $25 billion, making a major bet on the future of ad-supported streaming. The deal ?) Tj
+T*
+(Fox?s largest to date ? brings together a media company known for its live news and sports) Tj
+T*
+(programming with the biggest provider of streaming platforms for connected TVs. It will add) Tj
+T*
+(scale to Fox?s streaming business, currently home to free, ad-supported streaming service Tubi,) Tj
+T*
+(which the company bought for $400 million in 2020, and subscription-based Fox One and Fox) Tj
+T*
+(Nation. In addition to distributing other streaming services through connected TVs and devices,) Tj
+T*
+(Roku has its own ad-supported Roku Channel. The combined company will better compete with the) Tj
+T*
+(likes of Amazon.com and Netflix for ad dollars. I?m late to comment on this, but this seems) Tj
+T*
+(stupid. Roku sucks. I know they?ve got a 25 percent or so share of the smart TV interface) Tj
+T*
+(market, but no one is attached to Roku. The entirety of their market share is people who don?t) Tj
+T*
+(care. That?s not worth $25 billion. Shit platforms seldom last, and the ones that do last) Tj
+T*
+(achieve monopolies. I think Roku?s share is going to slip, not grow. ?) Tj
+T*
+() Tj
+T*
+(7. Snap Launches Ad Campaign for Specs Starring Michael Caine) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-19T16:32:14Z) Tj
+T*
+(Link: https://www.reddit.com/r/funny/comments/1jk6onr/bloody_large_glasses_by_michael_caine/) Tj
+T*
+(?They?re about power, aren?t they, and the bloody powerful blokes who wear them.? Maybe I?m all) Tj
+T*
+(wet and these things are stylish, no matter what they do to your ears . ?) Tj
+T*
+() Tj
+T*
+(8. Jerry Seinfeld Tries Out Snap?s Specs) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-19T16:19:58Z) Tj
+T*
+(Link: https://youtu.be/siM8NW24QPs?t=217) Tj
+T*
+(?Hey buddy, nice frames.? Seinfeld?s father tried them out too . ?) Tj
+T*
+() Tj
+T*
+(9. All pieces on a 6 by 5 board) Tj
+T*
+(Source: John D. Cook | Published: Sat, 20 Jun 2026 21:41:16 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/20/z3-python-claude/) Tj
+T*
+(I?ve written a couple posts lately on getting an LLM to generate code to solve chess problems.) Tj
+T*
+(The first used Claude to generate Prolog and the second used ChatGPT to generate Prolog. This) Tj
+T*
+(post will use Claude to generate Z3/Python code. The puzzle is one I?ve written about before:) Tj
+T*
+(Place all the pieces?king, queen, two [?] The post All pieces on a 6 by 5 board first appeared) Tj
+T*
+(on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Limiting web server bandwidth the brute force way) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-20T03:00:50Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/ServerBruteForceBandwidthLimit) Tj
+T*
+(A while back on the Fediverse, I mentioned something about our departmental web server : Wow,) Tj
+T*
+(people do some extremely slow downloads from work's main web server. We roll logs at midnight) Tj
+T*
+(and Apache wrote the last log record to the old file at 03:58 \(for a request that had started) Tj
+T*
+(at 23:27\). \(For our sins we've become a load-bearing source of ML image training data, for the) Tj
+T*
+("CIFAR" image dataset. We average 40 Mbytes/sec outgoing web server bandwidth most days.\) \(This) Tj
+T*
+(also got mentioned in passing in my entry on 24 hours of that server's logs . I call us) Tj
+T*
+('load-bearing' not only because of how popular this dataset is but also because in the past the) Tj
+T*
+(department has gotten plaintive emails from people about it when the dataset wasn't) Tj
+T*
+(accessible.\) Recently, so many requests started arriving that they overwhelmed our main) Tj
+T*
+(departmental web server and we decided to deal with the problem by moving this data to another) Tj
+T*
+(physical machine with its own, dedicated web server \(and then using HTTP redirections to push) Tj
+T*
+('people', which is to say software, to fetch the data from that new web server\). \(As is so) Tj
+T*
+(often the case at universities, this isn't an officially published dataset that had been g...) Tj
+T*
+() Tj
+T*
+(11. Glassblowing #3: A better thermionic diode) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4662 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Maurycy's Blog | Published: Sat, 20 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/projects/glass/3/) Tj
+T*
+(My last attempt at a vacuum tube technically worked, but not very well because there was a lot) Tj
+T*
+(of glass between the anode and cathode: Because of this, many any electrons that miss anode and) Tj
+T*
+(build up on the glass. This negative charge will keep accumulating until it's strong enough to) Tj
+T*
+(overpower the anode's positive charge. With enough voltage, some current does flow, but a diode) Tj
+T*
+(that only conducts a microamp at 1000 V is not very useful. On paper, the solution is simple:) Tj
+T*
+(surround the filament in anode. This shields it against the influence of any accumulated charge) Tj
+T*
+(and allows continuous current flow: In practice, building something something like this is) Tj
+T*
+(tricky . There are the three wires that must be precicly aligned while being sealed through hot) Tj
+T*
+(glass. For my tube, I started by attaching the leads to a chunk of scrap glass which keeps them) Tj
+T*
+(aligned throughout the process: The internals can be attached on one side of the glass, and the) Tj
+T*
+(other side can be sealed in an envelope without any risk of the tube falling apart. My filament) Tj
+T*
+(is ~2 cm of 12 ?m tungsten wire, wrapped around hooks made from the lead-in wires. The anode is) Tj
+T*
+(a square of copper foil, which I bent into a tube and we...) Tj
+T*
+() Tj
+T*
+(12. Which Copyleft Licence is Suitable for an SVG?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 20 Jun 2026 11:34:22 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/) Tj
+T*
+(The Scalable Vector Graphics \(SVG\) format is amazing. It allows you to precisely define how an) Tj
+T*
+(image should look. Written in XML, it uses various mathematical operations to display an image) Tj
+T*
+(which looks crisp and clear at any size. Here's a trivial example: ?) Tj
+T*
+() Tj
+T*
+(13. This Week in Package Management: 20 June 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-06-20T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/06/20/this-week-in-package-management.html) Tj
+T*
+(Week five of the roundup, built from the package manager OPML feed collection and whatever I?ve) Tj
+T*
+(posted or boosted on Mastodon . Releases sbt 2.0.0 moves build definitions and plugins to Scala) Tj
+T*
+(3, requires JDK 17, and replaces the caching layer with a Bazel-compatible local/remote cache) Tj
+T*
+(that the rewritten compile and test tasks use. The project matrix plugin is now built in and a) Tj
+T*
+(native-image client cuts startup time. sbt 1.12.12 shipped alongside it for the 1.x line. pnpm) Tj
+T*
+(11.7 adds a frozenStore setting that opens the store?s SQLite index read-only so pnpm install) Tj
+T*
+(can run against a Nix store, a read-only bind mount or an OCI layer without trying to write WAL) Tj
+T*
+(sidecar files. The release also adds a --batch flag to publish a whole workspace in one) Tj
+T*
+(request, per-scope auth tokens, and an option to delegate resolving installs to pacquet. pnpm) Tj
+T*
+(10.34.4 on the v10 line fixes two path-traversal issues. A traversal-shaped configDependencies) Tj
+T*
+(name or version in pnpm-workspace.yaml could write files outside node_modules/.pnpm-config and) Tj
+T*
+(the store \( GHSA-qrv3-253h-g69c \), and a crafted lockfile alias under nodeLinker: hoisted could) Tj
+T*
+(write outside the install root \( GHSA-fr4h-3cph-29xv , also fixed...) Tj
+T*
+() Tj
+T*
+(14. Reading List 06/20/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 20 Jun 2026 12:01:56 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-062026) Tj
+T*
+(A new housing bill, General Motors joining the grid-scale battery game, skepticism about data) Tj
+T*
+(center delays, solid-state air conditioning, and more.) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: How the Epstein Class recruits \(20 Jun 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 20 Jun 2026 16:12:26) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/20/any-club-that-would-have-me/) Tj
+T*
+(Today's links How the Epstein Class recruits: Oh wait, THAT'S what this was?! Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: MPAA blasted in WSJ; RFID skimmers; Post-Soviet) Tj
+T*
+(inventions; "Farthing"; "Dirty, Drunk and Punk"; Dweb v founders' frailty; Tax cheating made) Tj
+T*
+(simple; Oregon v corporate medicine. Upcoming appearances: Toronto, NYC, Philadelphia, Chicago,) Tj
+T*
+(London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 845 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I) Tj
+T*
+(said, I'll keep writin' 'em. Colophon: All the rest. How the Epstein Class recruits \(permalink\)) Tj
+T*
+(Perhaps you've encountered the stories about Dialog, an extremely weird secret society) Tj
+T*
+(associated with Peter "Antichrist" Thiel, whose membership data and details have leaked this) Tj
+T*
+(week:) Tj
+T*
+(https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/ By) Tj
+T*
+(all appearances, this is a comically creepy, awful talking-shop for the Epstein Class. It's not) Tj
+T*
+(all that surprising, in retrospect, to learn that all these terrible people were in a group) Tj
+T*
+(chat, secretly assigning ratings to one another, and periodically gather...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004271 00000 n 
+0000004397 00000 n 
+0000008876 00000 n 
+0000009002 00000 n 
+0000013716 00000 n 
+0000013842 00000 n 
+0000014739 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14867
+%%EOF
