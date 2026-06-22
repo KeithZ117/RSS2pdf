@@ -1,0 +1,306 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4420 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-22 09:55:16) Tj
+T*
+() Tj
+T*
+(1. sqlite-utils 4.0rc1 adds migrations and nested transactions) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-21T23:35:47+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything) Tj
+T*
+(sqlite-utils is my combined Python library and CLI tool for working with SQLite databases. It) Tj
+T*
+(provides an extensive set of higher-level operations on top of Python's default sqlite3 package) Tj
+T*
+(, including support for complex table transformations , automatic table creation from JSON data) Tj
+T*
+(and a whole lot more. I released sqlite-utils 4.0rc1 , the first release candidate for) Tj
+T*
+(sqlite-utils v4. The major version bump indicates some \(minor\) backwards incompatible changes,) Tj
+T*
+(so I'm interested in having people try this out before I commit to a stable release. New) Tj
+T*
+(feature: migrations There are two significant new features in this RC compared to the previous) Tj
+T*
+(4.0 alphas. The first is support for database migrations . This isn't a completely new) Tj
+T*
+(implementation - it's a slightly modified port of the sqlite-migrate package I released a few) Tj
+T*
+(years ago. I think that package has proved itself over time, so I'm now ready to bundle it with) Tj
+T*
+(sqlite-utils directly. Here's what a set of migrations in a migrations.py file looks like: from) Tj
+T*
+(sqlite_utils import Database , Migrations migrations = Migrations \( "creatures" \) @ migrations) Tj
+T*
+(\(\) def create_table \( db \): db [ "creatures" ]. create \( { "id" : int , "name"...) Tj
+T*
+() Tj
+T*
+(2. sqlite-utils 4.0rc1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-21T23:30:04+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything) Tj
+T*
+(Release: sqlite-utils 4.0rc1 See sqlite-utils 4.0rc1 adds migrations and nested transactions .) Tj
+T*
+(Tags: sqlite-utils) Tj
+T*
+() Tj
+T*
+(3. Temporary Cloudflare Accounts for AI agents) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-21T22:01:04+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything) Tj
+T*
+(Temporary Cloudflare Accounts for AI agents The announcement says this is "for AI agents" but) Tj
+T*
+(\(as is pretty common these days\) the AI hook isn't really necessary, this is an interesting) Tj
+T*
+(feature for everyone else as well. Short version: you can now create a Cloudflare Workers) Tj
+T*
+(project and run this, without even creating a Cloudflare account: npx wrangler deploy) Tj
+T*
+(--temporary Cloudflare will deploy the application to a new, ephemeral project which will stay) Tj
+T*
+(live for 60 minutes. I had GPT-5.5 xhigh in Codex Desktop build this test application providing) Tj
+T*
+(a tool for following HTTP redirects and returning the final destination. The temporary) Tj
+T*
+(deployment worked as advertised. Running the deployment spits out the URL to a page for) Tj
+T*
+(claiming the new project, for if you want it to last for more than 60 minutes. Here's what that) Tj
+T*
+(claim screen looks like: Via Hacker News Tags: cloudflare) Tj
+T*
+() Tj
+T*
+(4. Before and After: MacOS 27 Golden Gate Beta 1?s App Icons) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-21T22:39:19Z) Tj
+T*
+(Link: https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison) Tj
+T*
+(Basic Apple Guy, back during WWDC: WWDC always brings a torrent of new content, details, and) Tj
+T*
+(platform-wide changes. One of the first things I noticed after installing the macOS Golden Gate) Tj
+T*
+(beta was the updated icon design. The colours are much bolder, several icons have been) Tj
+T*
+(adjusted, and the refraction in the Liquid Glass effect has changed significantly, especially) Tj
+T*
+(in icons like Journal. There?s also a noticeable sharpness to the icons, along with a) Tj
+T*
+(flattening of the Liquid Glass effect. I?m not sure yet whether this is simply an early-beta) Tj
+T*
+(artifact or the intended final look. I think it?s definitely the intended look, and I like it.) Tj
+T*
+(The changes in these app icons are all subtle, but they?re all changes for the better. I still) Tj
+T*
+(don?t like the primitive flat shapes and mandated squircle, but at least the trend is finally) Tj
+T*
+(moving in the right direction again. ?) Tj
+T*
+() Tj
+T*
+(5. Mux ? Video for Developers) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4313 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-06-21T21:35:48Z) Tj
+T*
+(Link: https://www.mux.com/?utm_campaign=fireball&utm_source=DF) Tj
+T*
+(My thanks to Mux for sponsoring Daring Fireball last week. Video is a boatload of data. Every) Tj
+T*
+(video file in your product contains audio, objects, and scenes that most stacks can?t read or) Tj
+T*
+(access. Mux Robots turns that data into video intelligence. Configure your video workflows) Tj
+T*
+(once, and they run automatically on every new upload: ask questions, summarize, find key) Tj
+T*
+(moments, and more. No asset webhooks or self-hosted glue code needed. Mux is video) Tj
+T*
+(infrastructure for developers, trusted by Synthesia, Shopify, and the U.S. Soccer Federation.) Tj
+T*
+(Start building for free. Use code FIREBALL at signup for an extra $50 credit. ?) Tj
+T*
+() Tj
+T*
+(6. Domino?s Admitted Their Pizza Tasted Like Cardboard) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-19T15:59:10Z) Tj
+T*
+(Link: https://www.inc.com/jeff-haden/10-years-ago-cardboard-pizza-almost-killed-dominos-then-do) Tj
+T*
+(minos-did-something-brilliant.html) Tj
+T*
+(Re: my post on Verizon flat-out admitting their business practices have resembled a scheme from) Tj
+T*
+(Dr. Evil, Domino?s did something similar regarding their pizza a while back. This 2021 story) Tj
+T*
+(for Inc. by Jeff Haden describes the turnaround. ?) Tj
+T*
+() Tj
+T*
+(7. Queens on a prime order board) Tj
+T*
+(Source: John D. Cook | Published: Mon, 22 Jun 2026 00:21:44 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/21/queens-prime/) Tj
+T*
+(The n queens problem is to place on an n × n chessboard n queens so that none attacks any) Tj
+T*
+(other. This means there is only one queen on every horizontal, vertical, and diagonal line.) Tj
+T*
+(When n is a prime number ? 5, it is sufficient to place the queens on a line that has slope 2,) Tj
+T*
+(3, 4, ?, [?] The post Queens on a prime order board first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(8. PyPy and Python 3 for us) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-21T03:14:09Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs) Tj
+T*
+(Ever since I started using PyPy and then had it quietly work fine for years , I've been keeping) Tj
+T*
+(it in mind as a generally easy way to speed up any Python program that could benefit from a) Tj
+T*
+(performance boost \(which programs PyPy could accelerate sometimes surprised me \). But that was) Tj
+T*
+(in the era when most everything we had was Python 2 based. Now that I'm moving more and more) Tj
+T*
+(things to Python 3, there's a little issue opening up that I've been thinking about. That issue) Tj
+T*
+(is what versions of \(C\)Python PyPy supports, which is to say which language version it) Tj
+T*
+(implements. If you look at the PyPy site , you'll see that of Python 3 versions they support,) Tj
+T*
+(the most recent one is 3.11, which the regular \('CPython'\) version of was released in late) Tj
+T*
+(2022. If you've followed a bit of PyPy development news, you may have read that the PyPy) Tj
+T*
+(project is resource constrained and thus lags behind CPython for things like implementing) Tj
+T*
+(language features or standard library changes. My understanding is that PyPy's timeline for) Tj
+T*
+(implementing language features beyond 3.11 is "whenever we can but don't hold your breath". On) Tj
+T*
+(the one hand, Python 3.11 is a perfectly okay version of Python. On the other hand, Pytho...) Tj
+T*
+() Tj
+T*
+(9. On Vulgar Materialism) Tj
+T*
+(Source: Fernando Borretti | Published: Sun, 21 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://borretti.me/article/on-vulgar-materialism) Tj
+T*
+(Or, sufficiently advanced cynicism is indistinguishable from naïveté.) Tj
+T*
+() Tj
+T*
+(10. The doom justifies the valuation) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-06-21T00:00:00-07:00) Tj
+T*
+(Link:) Tj
+T*
+(https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html) Tj
+T*
+(I?ve been in Berkeley for the last 2 weeks. I haven?t really been back here for a while, and) Tj
+T*
+(it?s worse than you can believe. This is a cult of atheistic hedonists needing AI doom to be) Tj
+T*
+(true to justify their life choices. Or acceleration. Or something . They need to make impact .) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1039 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(I mean, narcissism of small differences to an extent, but I stopped long before these people) Tj
+T*
+(did. If San Francisco was nuked tomorrow, the world would feel a weight off their shoulders. ??) Tj
+T*
+(This isn?t technology, this is a mind virus. New York wants a couple basis points so they can) Tj
+T*
+(maintain their lifestyle, Los Angeles wants a bit of your attention so they can feel famous, SF) Tj
+T*
+(wants to come for your inner life and pimp you out and mediate every interaction and there?s) Tj
+T*
+(not even a so. Read the GLM-5.2 blog post . This is how I imagined AI progress being, and this) Tj
+T*
+(is frontier stuff, the model is on par with Opus 4.8 and GPT-5.5. It?s a pleasant technical) Tj
+T*
+(look into how things are slowly improving. This is what comma blog posts look like also. This) Tj
+T*
+(is the world of technology I love. Now look at the Anthropic blog. It looks totally different.) Tj
+T*
+(From this post : AI is advancing at exponential speed, and the policym...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004675 00000 n 
+0000004801 00000 n 
+0000009166 00000 n 
+0000009292 00000 n 
+0000010383 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+10509
+%%EOF
