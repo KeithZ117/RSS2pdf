@@ -1,0 +1,628 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4207 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-24 09:43:31) Tj
+T*
+() Tj
+T*
+(1. datasette 1.0a35) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-23T21:34:37+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/23/datasette/#atom-everything) Tj
+T*
+(Release: datasette 1.0a35 I'll write more about this one tomorrow, but it's a big release.) Tj
+T*
+(Three highlights from the release notes: New "Create table" interface in the database actions) Tj
+T*
+(menu, backed by the / /-/create JSON API . It can define columns, primary keys, custom column) Tj
+T*
+(types, NOT NULL constraints, literal defaults, expression defaults and single-column foreign) Tj
+T*
+(keys. \( #2787 \) New "Alter table" table action and / / /-/alter JSON API for changing existing) Tj
+T*
+(tables: add, rename, reorder and drop columns; change column types, defaults, NOT NULL) Tj
+T*
+(constraints, primary keys and foreign keys; and rename the table. The alter table dialog also) Tj
+T*
+(includes a "Drop table" button. \( #2788 \) New Template context documentation listing the) Tj
+T*
+(variables available to custom templates for Datasette's core pages. Variables documented there) Tj
+T*
+(are treated as a stable API for custom templates until Datasette 2.0. The documentation is) Tj
+T*
+(generated from dataclass definitions next to the view code, with tests that compare the) Tj
+T*
+(documented fields against the actual contexts rendered by the database, table, query and row) Tj
+T*
+(pages. \( #1510 , #2127 , #1477 , #2803 \) Here's a rough video demo I made of the new) Tj
+T*
+(create/alt...) Tj
+T*
+() Tj
+T*
+(2. OPFS + Pyodide test harness) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-23T18:58:54+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything) Tj
+T*
+(Tool: OPFS + Pyodide test harness I've been pondering if Datasette Lite - the Python Datasette) Tj
+T*
+(application run entirely in the browser using Pyodide and WebAssembly - might be able to edit) Tj
+T*
+(persistent SQLite files stored on the user's computer. That's what OFPS \(Origin Private File) Tj
+T*
+(System\) is for, so I had Claude Code for web build me this playground UI to try it out in) Tj
+T*
+(different browsers. Tags: browsers , pyodide , datasette-lite) Tj
+T*
+() Tj
+T*
+(3. Scattered Spider Hackers Plead Guilty on Day 1 of Trial) Tj
+T*
+(Source: Krebs on Security | Published: Tue, 23 Jun 2026 16:12:49 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/) Tj
+T*
+(Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an) Tj
+T*
+(August 2024 cyberattack that crippled Transport for London, the entity responsible for the) Tj
+T*
+(public transport network in the Greater London area. The duo were key members of a prolific) Tj
+T*
+(cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of) Tj
+T*
+(what was expected to be a six-week trial.) Tj
+T*
+() Tj
+T*
+(4. The Talk Show: ?Perp Walk for Selfies?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-23T16:23:43Z) Tj
+T*
+(Link: https://daringfireball.net/thetalkshow/2026/06/23/ep-450) Tj
+T*
+(Jason Snell returns to the show for a look back at WWDC 2026, and a look ahead to Designed in) Tj
+T*
+(California , his and Myke Hurley?s upcoming 50-episode Apple history podcast. Sponsored by:) Tj
+T*
+(Factor : Healthy eating, made easy. Get 50% off your first box, plus free daily greens, with) Tj
+T*
+(code talkshow50off . Squarespace : Save 10% off your first purchase of a website or domain) Tj
+T*
+(using code TALKSHOW . Finalist ? A daily planner for iPhone, iPad and Mac, built on proven) Tj
+T*
+(paper-based planning methods. DF readers get six months free; see details at the link. ?) Tj
+T*
+() Tj
+T*
+(5. Criterion Collection: The Complete Kubrick) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-22T19:18:07Z) Tj
+T*
+(Link: https://www.criterion.com/boxsets/9000-the-complete-kubrick) Tj
+T*
+(30-disc set includes: 4K restorations of Kubrick?s thirteen features and three shorts, with) Tj
+T*
+(their original soundtracks alongside the 5.1 mixes, restored and remastered Over twenty-five) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4837 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(hours of interviews, documentaries, and behind-the-scenes materials Kubrick?s international) Tj
+T*
+(version of The Shining A new 4K restoration of Vivian Kubrick?s behind-the-scenes documentary) Tj
+T*
+(Making ?The Shining? Newly recorded commentary tracks featuring filmmaker Lee Unkrich \(editor) Tj
+T*
+(of the book Stanley Kubrick?s ?The Shining? \) and author Michael Benson \( Space Odyssey:) Tj
+T*
+(Stanley Kubrick, Arthur C. Clarke, and the Making of a Masterpiece \) All work and no play makes) Tj
+T*
+(Jack a dull boy. ?) Tj
+T*
+() Tj
+T*
+(6. Dickover of the Week: The Observer) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-22T17:12:42Z) Tj
+T*
+(Link: https://bvsveera.net/observer-dickover/) Tj
+T*
+(Bharat Iyer: Let?s be real ? if The Observer actually cared at all about your privacy, they) Tj
+T*
+(wouldn?t share your personal data with ONE HUNDRED AND SIXTY ONE FUCKING PARTNERS. [...]) Tj
+T*
+(Imagine if, upon purchasing a copy of the Sunday newspaper in 1791 , you were followed around) Tj
+T*
+(town by 161 men, taking note of everything you do throughout the day. Makes you wonder who?s) Tj
+T*
+(really doing the observing. It?s bad enough to include 161 third-party trackers on a website.) Tj
+T*
+(But it?s downright dystopic to declare your 161 third-party ?partners? under the heading ?We) Tj
+T*
+(Care About Your Privacy?. That?s like beating someone in the head with a baseball bat while) Tj
+T*
+(telling them ?We care about your skull?, literally adding insult to injury. Yours truly back in) Tj
+T*
+(2020, ? Online Privacy Should Be Modeled on Real-World Privacy ?: Imagine if you were out) Tj
+T*
+(shopping, went into a drug store, examined a few bottles of sunscreen, but left the store) Tj
+T*
+(without purchasing anything. And then immediately a stranger approached you with an offer for) Tj
+T*
+(sunscreen. Such an encounter would trigger a fight or flight reaction ? the needle on your) Tj
+T*
+(innate creepometer would shoot right into the red. \(Not to mention that if real-world track...) Tj
+T*
+() Tj
+T*
+(7. The Coming Loop) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-06-23T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/6/23/the-coming-loop/) Tj
+T*
+(I don?t prompt Claude anymore. I have loops running that prompt Claude and figuring out what to) Tj
+T*
+(do. My job is to write loops. ? Boris Cherny Over the last months I have watched more and more) Tj
+T*
+(people build something on top of coding agents that feels meaningfully different from just) Tj
+T*
+(using a coding agent. Some of this happens on top of Pi which is cool to see for sure! The) Tj
+T*
+(pattern is the same everywhere though: work is put into a queue of sorts, a machine picks it) Tj
+T*
+(up, attempts it, stops, and then some harness decides whether that was actually the end. If) Tj
+T*
+(not, the harness continues the same session, injects another message, starts a fresh session) Tj
+T*
+(with modified context, or sends the task to another machine. The task stays alive beyond the) Tj
+T*
+(point where the model by itself would normally have said: ?I am done.? I think about that type) Tj
+T*
+(of loop more than I want to admit. There is already an agent loop inside every coding agent.) Tj
+T*
+(The model calls a tool, incorporates the result, calls another tool, reads a file, edits a) Tj
+T*
+(file, runs tests, and eventually produces some answer. That loop is one we have been quite) Tj
+T*
+(familiar with for a long time. The other loop is the harness level loop: the loop out...) Tj
+T*
+() Tj
+T*
+(8. The worthlessness of vitamin D is mildly exaggerated) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-06-23T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/vitamin-d/) Tj
+T*
+(For a while there, many people thought vitamin D was magical?that it could improve bones, the) Tj
+T*
+(heart, infections, cancer, heart disease, longevity, even mental health. But among people I) Tj
+T*
+(respect, opinion is now overwhelmingly that taking vitamin D does nothing unless you?re) Tj
+T*
+(severely deficient. The central argument is that while vitamin D levels are correlated with) Tj
+T*
+(~all positive health outcomes, when you actually test vitamin D supplements against placebo in) Tj
+T*
+(randomized trials, nothing ever happens. That?s what I used to think, too. But I?ve come to) Tj
+T*
+(think the skeptics have over-corrected. Yes, randomized trials have shown the magical) Tj
+T*
+(correlations are not causal. But if you start with non-insane expectations, the trials look) Tj
+T*
+(like weak but positive evidence. And if you consider what we know about biology and evolution,) Tj
+T*
+(I think the balance of evidence tips pretty clearly in the direction that people with low-ish) Tj
+T*
+(levels would be wise to supplement. Am I certain that vitamin D is beneficial for people with) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4680 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(low-ish levels? Absolutely not! But I claim that?s the best bet given the limits of our) Tj
+T*
+(knowledge. The classical view: Boring bone vitamin Most vitamins are ?ingredients? that the) Tj
+T*
+(body...) Tj
+T*
+() Tj
+T*
+(9. Arp 293: More interacting galaxies) Tj
+T*
+(Source: Maurycy's Blog | Published: Tue, 23 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/astro/arp293/) Tj
+T*
+(North is right. 0.52"/pixel \(18'x9' field\) FWHM=4.5" The pair of galaxies near the center is) Tj
+T*
+(NGC 6285 \(top\) and NGC 6286 \(bottom\). The lower one has a distinct tidal trail below it, and a) Tj
+T*
+(faint bridge to the upper galaxy is visible. Both sit around z=0.018. The edge on galaxy is UGC) Tj
+T*
+(10641, and sits at a similar redshift to the pair at z=0.018, indicating that this is probobly) Tj
+T*
+(a group of three gravitationally bound galaxies. My field also included a galaxy cluster around) Tj
+T*
+(16h57m49s +58∞46'55": The brightest member, LEDA 2582489 has a reshift of around z=0.11, which) Tj
+T*
+(puts it at a comoving distance of 1.5 Gly, way beyond the main target of the photo. Total) Tj
+T*
+(exposure time: 341 * 30 seconds = 2.8 hours. Telescope: C9.25 \(230mm, f/10, fl=2300mm\) + 0.63) Tj
+T*
+(Starizona reducer Camera: IMX533 \(16mm diagonal, square, color\) Processing: Callibration \(dark) Tj
+T*
+(+ flat\) Stacking \(average w/ outlier rejection\) White balance and background subtraction \(no) Tj
+T*
+(gradient removal\) Asinh stretch \(color preserving\) It looks like my guiding got messed up after) Tj
+T*
+(the meridian flip, resulting in some annoying walking noise. If the when the telescope is) Tj
+T*
+(drifing, stacking will smear out the sensor's pattern noise into diagon...) Tj
+T*
+() Tj
+T*
+(10. Regular expressions that work ?everywhere?) Tj
+T*
+(Source: John D. Cook | Published: Wed, 24 Jun 2026 00:26:11 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/23/regex-everywhere/) Tj
+T*
+(The most frustrating aspect of regular expressions is that implementations vary. Features) Tj
+T*
+(supported in one tool may not be supported at all in another tool, or they may be supported) Tj
+T*
+(with slightly different syntax. I learned regular expressions in the context Perl, a maximalist) Tj
+T*
+(regex environment. This led to frustration when features I expect to [?] The post Regular) Tj
+T*
+(expressions that work ?everywhere? first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. The quiet issue of lurking settings \(and how it bit me\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-23T02:31:35Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LurkingSettings) Tj
+T*
+(Recently I wrote an entry about a simple but difficult wish I had for a certain sort of) Tj
+T*
+(terminal pager that handled emoji . In comments, people suggested that the venerable less would) Tj
+T*
+(do what I wanted, which was something I'd already tried and discovered it had behavior I didn't) Tj
+T*
+(want. Except, well, let me quote my eventual comment: It turns out that my testing of less's) Tj
+T*
+(behavior was being contaminated by my usual $LESS settings, and I think that ' less -XRn ' does) Tj
+T*
+(more or less what I want \(I was being fooled partly because my usual $LESS includes 'c', well,) Tj
+T*
+(technically 'C'\). I've been using less for a long time and for most of that time I've had the) Tj
+T*
+(same set of less settings, burned into a $LESS environment variable set in my dotfiles, and) Tj
+T*
+(also the same set of alternate less key bindings \(where N and P move through files instead of) Tj
+T*
+(their normal actions\). I had long since forgotten the specifics of my $LESS settings when I) Tj
+T*
+(tested less ; my settings were just how less worked. And so I was fooled into initially) Tj
+T*
+(thinking that less didn't work for what I wanted. \(I remember N and P partly because when I use) Tj
+T*
+(less as root or on a machine I haven't particularly set up my account on, I don...) Tj
+T*
+() Tj
+T*
+(12. Sunsetting a Package Manager) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-06-23T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/06/23/sunsetting-a-package-manager.html) Tj
+T*
+(On December 2nd 2026, CocoaPods trunk goes read-only . Orta Therox set the plan out in 2024:) Tj
+T*
+(the server stops accepting new pods and new versions, while the more than 100,000 libraries) Tj
+T*
+(already published keep resolving through the Specs repo on GitHub and the CDN on jsDelivr, so) Tj
+T*
+(every existing Podfile resolves exactly as it did the day before. The maintainers had run out) Tj
+T*
+(of people, Apple?s Swift Package Manager had become the first-class tool, and a 2024 round of) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4686 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(critical vulnerabilities had turned running the trunk server into a liability. Plenty of users) Tj
+T*
+(remain: React Native still resolves its iOS dependencies through CocoaPods, the move to SPM is) Tj
+T*
+(an active RFC rather than a finished path, and a long tail of apps will keep running pod) Tj
+T*
+(install well after the freeze. A registry that stops accepting uploads still serves installs to) Tj
+T*
+(everyone who already depends on it, and the CocoaPods maintainers are not the first team to) Tj
+T*
+(manage that. Four registries have frozen or shut down before them: Bower , web and JavaScript,) Tj
+T*
+(2017 Bintray , JFrog?s binary host, May 2021 JCenter , Java and Android, read-only May 2021,) Tj
+T*
+(redirected August 2024 Atom apm , Atom editor packages, December 2022 Degrees...) Tj
+T*
+() Tj
+T*
+(13. Cargo Culture) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 23 Jun 2026 15:23:20 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/cargo-culture/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter. It?s $70 a year, or $7) Tj
+T*
+(a month, and in return you get a weekly newsletter that?s usually anywhere from 5,000 to 18,000) Tj
+T*
+(words, including vast, detailed analyses of NVIDIA , Anthropic and) Tj
+T*
+() Tj
+T*
+(14. Liminality) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-06-23T00:00:00-07:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/06/23/liminality.html) Tj
+T*
+(It?s crazy how much Fullmetal Alchemist mimics how AI is playing out. We pour human souls into) Tj
+T*
+(a philosopher?s stone that we think will solve all our problems and cure death. It doesn?t) Tj
+T*
+(exactly do this, but you can use it to create homunculi that behave like people, Chat, Claude,) Tj
+T*
+(GLM. The homunculus is a puree of the souls that were used to create it. It?s easy to rage) Tj
+T*
+(against the bubble and the hype, but unlike previous bubbles that isn?t really the problem. All) Tj
+T*
+(marketing and frame aside, the problem is the AI itself. It demoralizes you without being) Tj
+T*
+(better than you ? not because the current AI is good, but because the next one will be so much) Tj
+T*
+(better. And while maybe I wish it wasn?t like that, I don?t think it?s wrong. And I don?t) Tj
+T*
+(really wish it wasn?t like that, may you live in exciting times and all that. This has been my) Tj
+T*
+(dream for years ? even these feelings aren?t new, when I read Yudkowsky at 15 I became really) Tj
+T*
+(depressed, I started failing at school, computers would be able to do everything better than) Tj
+T*
+(us. But then I realized computers couldn?t do these things yet. They still can?t. But it feels) Tj
+T*
+(close. I don?t think it always felt close? 1e25, 1e26, 1e27?is it just this sim...) Tj
+T*
+() Tj
+T*
+(15. Tagged data in Haskell \(SICP 2.4.2\)) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 23 Jun 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/sicp-2-4-tagged-data-in-haskell) Tj
+T*
+(I have a copy of SICP, or as it is also known, The Wizard Book . This book is widely praised,) Tj
+T*
+(but I can?t take the time to work my way through all of it. However, sometimes I jump into) Tj
+T*
+(parts of it that look interesting. Today, we?ll see how to support multiple representations of) Tj
+T*
+(data through tagging. This article is written in Haskell throughout, but at the start it will) Tj
+T*
+(look a lot like the Lisp code in SICP. I have intentionally tried to recreate the SICP solution) Tj
+T*
+(as closely as possible, including dynamic typing and all. See the appendix if you?re curious) Tj
+T*
+(how it works. Complex numbers can be stored in their rectangular form, where there?s a real and) Tj
+T*
+(an imaginary part. They can also be stored in polar form, where there?s a magnitude and an) Tj
+T*
+(angle. The authors ask us to imagine that two people have been working on a library for) Tj
+T*
+(mathematics, but ended up choosing different ways to store complex numbers. How can they write) Tj
+T*
+(their code so that they don?t have to agree on one way to store the data? \(Continue reading the) Tj
+T*
+(full article on the web.\)) Tj
+T*
+() Tj
+T*
+(16. Our hydro deserves better than a chatbot) Tj
+T*
+(Source: Dr Paris Buttfield-Addison | Published: Tue, 23 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://hey.paris/posts/ai-data-centres-tasmania/) Tj
+T*
+(Last week, the Tasmanian Greens announced they?ll move for an urgent parliamentary inquiry into) Tj
+T*
+(the AI data centres going up across the north of the state. I think this is a very good idea.) Tj
+T*
+(These projects appear to have been approved without any specific regulations or parliamentary) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3885 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(oversight, and the public has barely had the chance to have a say. The announcement also put a) Tj
+T*
+(new number on the record: in Budget Estimates, under Greens questioning, Energy Minister Nick) Tj
+T*
+(Duigan confirmed Firmus plans to draw 400 to 500 MW across two or three ?AI factory? sites ,) Tj
+T*
+(which is more than Bell Bay Aluminium?s 335 MW , currently the state?s single biggest power) Tj
+T*
+(user.) Tj
+T*
+() Tj
+T*
+(17. Pluralistic: Spying on kids to save kids from spying is very, very stupid \(23 Jun) Tj
+T*
+(2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 23 Jun 2026 11:30:21) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/23/destroy-the-village/) Tj
+T*
+(Today's links Spying on kids to save kids from spying is very, very stupid: First they came for) Tj
+T*
+(the VPNs. Hey look at this: Delights to delectate. Object permanence: RIP Darwin's tortoise;) Tj
+T*
+(ISPs conspire to create copyright jail; Waxy v fair use; Broken Windows is BS; Google is a) Tj
+T*
+(machine-learning company; "Writing the Other"; Canadian wealth-tax. Upcoming appearances:) Tj
+T*
+(Toronto, NYC, Philadelphia, Chicago, London, Edinburgh, Sydney, Melbourne, Brighton, London,) Tj
+T*
+(South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Spying) Tj
+T*
+(on kids to save kids from spying is very, very stupid \(permalink\) The literature on harms to) Tj
+T*
+(kids from online platforms is complex and nuanced, rife with people citing small, ambiguous) Tj
+T*
+(studies as iron-clad evidence that kids are being destroyed by the internet:) Tj
+T*
+(https://www.youtube.com/watch?v=Ype6c6DdHQY It's a weird coalition of anti-Big Tech campaigners) Tj
+T*
+(\(who are rightly angry at the platforms' callous disregard for user welfare\) and Heritage) Tj
+T*
+(Foundation-backed culture warriors \(who think that if their kids aren't exposed to LGBTQ) Tj
+T*
+(content t...) Tj
+T*
+() Tj
+T*
+(18. The most wonderful thing that happened to Tommy McHugh) Tj
+T*
+(Source: Experimental History | Published: Tue, 23 Jun 2026 15:57:56 GMT) Tj
+T*
+(Link: https://www.experimental-history.com/p/the-most-wonderful-thing-that-happened) Tj
+T*
+(..."was having a stroke while doing a poo") Tj
+T*
+() Tj
+T*
+(19. How we?ll fight the platform war against Big AI) Tj
+T*
+(Source: Anil Dash | Published: 2026-06-23T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/06/23/fight-ai-platform-war/) Tj
+T*
+(One aspect of strategy that?s been largely lost in the tech industry in recent years is how to) Tj
+T*
+(compete against platforms, since the major tech companies have gotten so big that markets are) Tj
+T*
+(no longer competitive. However, the AI market is still early enough, and users and society are) Tj
+T*
+(still angry enough, that the Big AI companies can lose. But for them to lose, everybody else in) Tj
+T*
+(the ecosystem has to carry out the nearly-lost art of platform strategy . Tech companies \(and) Tj
+T*
+(even open source communities!\) used to carry out these tactics in emerging product categories) Tj
+T*
+(ranging from desktop office suites to operating systems to web browsers, though over the) Tj
+T*
+(decades, the lesson that big tech learned was, basically, that they should play dirty. You win) Tj
+T*
+(platform strategy battles through power and persuasion. We're going to get both. Historically,) Tj
+T*
+(we would have relied on regulators or media to help hold bad actors in the tech space) Tj
+T*
+(accountable, but in the United States, these entities are largely not going to help very much.) Tj
+T*
+(Some state and local governments may assist, and some independent journalists or smaller media) Tj
+T*
+(outlets are pushing for accountability, but the most powerful entities are e...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004476 00000 n 
+0000004602 00000 n 
+0000009491 00000 n 
+0000009617 00000 n 
+0000014349 00000 n 
+0000014475 00000 n 
+0000019214 00000 n 
+0000019342 00000 n 
+0000023280 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+23408
+%%EOF
