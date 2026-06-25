@@ -1,0 +1,480 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4387 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-25 09:46:15) Tj
+T*
+() Tj
+T*
+(1. Framework's 10G Ethernet module exposes USB-C's complexity) Tj
+T*
+(Source: Jeff Geerling | Published: Wed, 24 Jun 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/) Tj
+T*
+(I've been following WisdPi's development of various 5 Gbps and 10 Gbps Ethernet adapters for) Tj
+T*
+(the past couple years. They use newer Realtek Ethernet chips, which sometimes have performance) Tj
+T*
+(quirks?most frequently encountered under Linux. In today's video, I tested the new WisdPi 10G) Tj
+T*
+(Ethernet Expansion Card for Framework computers. It fits in any available Framework Expansion) Tj
+T*
+(slot?even on the Framework Desktop. But Expansion Cards use USB-C for their connection to the) Tj
+T*
+(mainboard?and therein lies the rub...) Tj
+T*
+() Tj
+T*
+(2. simonw/browser-compat-db) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-24T23:59:03+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything) Tj
+T*
+(simonw/browser-compat-db Inspired by Mozilla's new MDN MCP service - source code here - I) Tj
+T*
+(decided to try converting their comprehensive mdn/browser-compat-data repository full of) Tj
+T*
+(browser compatibility data into a SQLite database. This new GitHub Repo includes a Claude Code) Tj
+T*
+(for web \(Opus 4.8\) generated script for doing that using sqlite-utils . I wanted the resulting) Tj
+T*
+(~66MB SQLite database to be available via the GitHub CDN with open CORS headers. GitHub) Tj
+T*
+(releases don't have those, but any file stored in a regular GitHub repository does - so I had) Tj
+T*
+(Codex Desktop \(GPT-5.5\) build a GitHub Actions workflow that builds the database and then) Tj
+T*
+(force-pushes it to a db "orphan" branch. You can download the resulting database from here ,) Tj
+T*
+(and since it's hosted with open CORS headers you can also explore it with Datasette Lite .) Tj
+T*
+(Tags: github , mozilla , projects , github-actions , datasette-lite , ai-assisted-programming ,) Tj
+T*
+(model-context-protocol , mdn) Tj
+T*
+() Tj
+T*
+(3. Quoting Tom MacWright) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-24T18:13:51+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything) Tj
+T*
+(In the last few months, I've started to see [job applications] that were clearly cowritten by) Tj
+T*
+(an LLM, link to an LLM-generated portfolio site, which then links to LLM-generated GitHub) Tj
+T*
+(projects, with purely LLM-generated commit messages. [...] My other reaction is that I don't) Tj
+T*
+(know anything about these people . They haven't put themselves out there. They haven't said) Tj
+T*
+(anything true. [...] The perfected, generated, prompted resume is generic and impersonal. It) Tj
+T*
+(tells me nothing about this person, other than that they use particular tools. ? Tom MacWright) Tj
+T*
+(, Accidental anonymity Tags: careers , ai , tom-macwright , ai-misuse) Tj
+T*
+() Tj
+T*
+(4. Microspeak elaborated: Isn?t escrow just a release candidate by another name?) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 23 Jun 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260623-00/?p=112462) Tj
+T*
+(Yes, but the name is a psychological trick. The post Microspeak elaborated: Isn?t escrow just a) Tj
+T*
+(release candidate by another name? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(5. WebKit Always Enables the Copy Menu Item in Every App) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-24T21:52:43Z) Tj
+T*
+(Link: https://lapcatsoftware.com/articles/2026/6/5.html) Tj
+T*
+(Jeff Johnson: Several weeks ago, John Gruber of Daring Fireball asked me whether I could) Tj
+T*
+(reproduce an issue he was seeing in Safari: when a web page is focused, the Copy menu item in) Tj
+T*
+(the main menu is always enabled, regardless of whether there?s anything selected in the web) Tj
+T*
+(page. I could indeed reproduce that issue, and it turns out to be the fault of WebKit. The) Tj
+T*
+(issue also occurs in Mail app, when an email message is focused. On Apple platforms, WebKit is) Tj
+T*
+(a public API, used by third-party apps in addition to Apple?s first-party apps. RSS readers) Tj
+T*
+(such as NetNewsWire and Vienna , preferred by Gruber and myself, respectively, use WebKit to) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4675 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(display articles from RSS feeds. And sure enough, both apps exhibit the same issue: the Copy) Tj
+T*
+(menu item is always enabled when an article is focused. What happens if you copy and paste from) Tj
+T*
+(a WebKit WebView with no selection? Nothing happens, nothing is pasted. However, technically) Tj
+T*
+(speaking, the clipboard is not empty. In most Mac apps, since the dawn of time, if there is) Tj
+T*
+(nothing selected to be copied, the Edit ? Copy \(and Cut\) commands are disabled. If you invoke) Tj
+T*
+(the ?C shortcut while the Copy command is disabled, you hear an alert sound, letting...) Tj
+T*
+() Tj
+T*
+(6. WebKit in Safari 27 Beta) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-24T19:10:27Z) Tj
+T*
+(Link: https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/) Tj
+T*
+(WebKit \(back during WWDC\): If you look through the lists of features and fixes in Safari 27,) Tj
+T*
+(you?ll notice that, although there are 58 brand-new features and 525 fixes ? the largest pile) Tj
+T*
+(of fixes in any Safari release in recent memory ? most of what is released is not about new) Tj
+T*
+(things. Most of this work has been about existing features behaving more correctly, handling) Tj
+T*
+(more edge cases, and fitting together with other features the way you?d expect. We committed) Tj
+T*
+(our time to increasing quality ? that?s the story of this release and the year that led to it.) Tj
+T*
+([...] If something has been bothering you, test it in Safari 27 beta. You might be pleasantly) Tj
+T*
+(surprised. And if it hasn?t been fixed yet, file a bug report , or add a comment to an existing) Tj
+T*
+(issue with a concrete scenario, a link to a real site, or a reduced test case. The more) Tj
+T*
+(concrete the problem, the more helpful it is. Sounds like it?s a bit of a Snow Leopard year for) Tj
+T*
+(WebKit, too, not just the OSes. ?) Tj
+T*
+() Tj
+T*
+(7. [Sponsor] WorkOS: Agents Need Auth. There?s Now a Spec for It.) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-24T18:46:46Z) Tj
+T*
+(Link:) Tj
+T*
+(http://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) Tj
+T*
+(When an AI agent tries to complete a task that requires a new account, it hits a wall: the) Tj
+T*
+(sign-up form. There?s no standard for how an agent registers a user with an app on their) Tj
+T*
+(behalf. auth.md is a file you host at your domain that tells agents how to register your users,) Tj
+T*
+(which flows you support, what scopes you expose, and how credentials get issued. Think) Tj
+T*
+(robots.txt, but for agent registration. It composes existing OAuth standards. Cloudflare,) Tj
+T*
+(Firecrawl, and Resend have already adopted it. An open protocol authored by WorkOS. Read the) Tj
+T*
+(spec . ?) Tj
+T*
+() Tj
+T*
+(8. Two versions of a 'is SSH up on a machine' check) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-24T02:20:41Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SshupTwoVersions) Tj
+T*
+(One of my standard little scripts is something I call sshup , which waits for a machine to be) Tj
+T*
+('up' by periodically checking to see if its SSH port is responding. As mentioned in my original) Tj
+T*
+(entry on sshup , I actually have two versions of this script and recently I discovered that the) Tj
+T*
+(difference is quietly important. One version of the script uses Netcat, on our Ubuntu machines.) Tj
+T*
+(The specific Netcat command line it uses is: nc -w3 -q3 -z "$1" ssh >/dev/null 2>&1 \(I didn't) Tj
+T*
+(used to need the redirection, but Debian reverted a patch and Ubuntu 24.04 picked up the change) Tj
+T*
+(.\) The technical effect of this is to try to connect to the SSH TCP port and exit once it's) Tj
+T*
+(done that \(or been rejected or timed out\), with an appropriate exit status. The other version) Tj
+T*
+(doesn't use Netcat, but in Netcat terms what it does is the equivalent of: nc -N "$1" ssh) Tj
+T*
+(/dev/null >2&1 The technical effect of this is to try to connect to the server \(if possible\),) Tj
+T*
+(immediately shut down the sending side of the TCP conversation, and wait until the server) Tj
+T*
+(closes the connection completely. If the server is working properly, these two versions have) Tj
+T*
+(the same result. But if the server isn't working, the answer these give is...) Tj
+T*
+() Tj
+T*
+(9. "No way to prevent this" say users of only language where this regularly happens) Tj
+T*
+(Source: Xe Iaso's blog | Published: Wed, 24 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-55200/) Tj
+T*
+(In the hours following the release of CVE-2026-55200 for the project libssh2 , site reliability) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4874 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(workers and systems administrators scrambled to desperately rebuild and patch all their systems) Tj
+T*
+(to fix an out-of-bounds write in ssh2_transport_read\(\) due to a missing upper bound check on) Tj
+T*
+(the packet_length field, resulting in heap corruption and potential remote code execution. This) Tj
+T*
+(is due to the affected components being written in C, the only programming language where these) Tj
+T*
+(vulnerabilities regularly happen. "This was a terrible tragedy, but sometimes these things just) Tj
+T*
+(happen and there's nothing anyone can do to stop them," said programmer Mr. Alex Doyle, echoing) Tj
+T*
+(statements expressed by hundreds of thousands of programmers who use the only language where) Tj
+T*
+(90% of the world's memory safety vulnerabilities have occurred in the last 50 years, and whose) Tj
+T*
+(projects are 20 times more likely to have security vulnerabilities. "It's a shame, but what can) Tj
+T*
+(we do? There really isn't anything we can do to prevent memory safety vulnerabilities from) Tj
+T*
+(happening if the programmer doesn't want to write their code in a robust manner." At press) Tj
+T*
+(time, users of the only programming language in the world where...) Tj
+T*
+() Tj
+T*
+(10. I taught a bucket to speak git) Tj
+T*
+(Source: Xe Iaso's blog | Published: Tue, 23 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://www.tigrisdata.com/blog/objgit/) Tj
+T*
+(What happens if I just point a git server at an object storage bucket? Back when I was porting) Tj
+T*
+(agent sandboxes to Go , I built everything on top of billy , a filesystem abstraction for Go.) Tj
+T*
+(The whole trick of the project was teaching a Tigris bucket to act enough like a filesystem) Tj
+T*
+(that a shell interpreter and its tools couldn?t tell the difference. Billy was the key layer) Tj
+T*
+(that made the entire faÁade fall into place. After I had gotten things working, I learned that) Tj
+T*
+(I?m using billy way outside its normal usecase. It was originally made for go-git , a pure-Go) Tj
+T*
+(implementation of git?s protocols and data formats. It doesn?t rely on the /usr/bin/git binary) Tj
+T*
+(existing at all. Every method on billy?s filesystem interface exists purely because go-git) Tj
+T*
+(needs it. This gave me a terrible idea: I already have a bucket that can quack like a) Tj
+T*
+(filesystem and go-git?s native language is ?filesystem?. Can this Just Work?? Let's find out.) Tj
+T*
+(Git was always an object store If you strip away the porcelain, a git repository is 4 basic) Tj
+T*
+(things: Objects, or compressed blobs of data. Most of the objects in any individual repository) Tj
+T*
+(are files. Trees, or objects that map to other objects. TL;DR: trees are folders. C...) Tj
+T*
+() Tj
+T*
+(11. Auth0 PHP - manually authenticating JWT idTokens) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 24 Jun 2026 11:34:25 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/) Tj
+T*
+(I find it baffling just how poorly documented most big projects are. Auth0 by Okta has a fair) Tj
+T*
+(bit of cash, lots of customers, and almost completely absent documentation. Here's how to) Tj
+T*
+(successfully authenticate a JWT supplied by Auth0. Once your user has authenticated with Auth0,) Tj
+T*
+(they will be given an accessToken and an idToken. Only the idToken is needed for our purposes.) Tj
+T*
+(It will look?) Tj
+T*
+() Tj
+T*
+(12. Thoughts on Role Confusion) Tj
+T*
+(Source: Giles' blog | Published: Wed, 24 Jun 2026 20:15:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/06/role-confusion) Tj
+T*
+(The other day, I came across " Prompt Injection as Role Confusion " \( via Simon Willison \).) Tj
+T*
+(It's a really interesting blog-style version of a paper by Charles Ye, Jasmine Cui and Dylan) Tj
+T*
+(Hadfield-Menell, where they find that LLMs seem to almost ignore 'role' tags like , or , and) Tj
+T*
+(instead use the tone of text to infer roles. This seems to explain a lot of jailbreaks. The) Tj
+T*
+(paper When LLMs are reasoning about their context to work out what tokens they need to generate) Tj
+T*
+(next, they need to separate out different things: what the system prompt says, what the user) Tj
+T*
+(says, what the LLM itself has said in the past -- and for recent LLMs, what their own past) Tj
+T*
+(thoughts have been -- their reasoning traces -- and what they've sent to and received from) Tj
+T*
+(their tools. These "roles" for each bit of text need to be specified in the context. For) Tj
+T*
+(example, in a simple chatbot \(say, 2022-vintage\), it might be written up a bit like a) Tj
+T*
+(transcript : The following is a transcript of a conversation between a user, "User", and an AI) Tj
+T*
+(bot, "Bot". The bot is helpful and friendly. User: What is the capital of France? Bot: The LLM) Tj
+T*
+(then starts predicting what would come next \(eg. "The capital of France is Paris"\).) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2868 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Alternati...) Tj
+T*
+() Tj
+T*
+(13. Blogging Can Just Be Stating The Obvious) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Wed, 24 Jun 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/) Tj
+T*
+(John Gruber writes about those annoying popups every website seems to have now and while he) Tj
+T*
+(does a great job tearing into these ubiquitous, user-hostile patterns, one of the things that) Tj
+T*
+(stood out to me about his piece was this meta commentary on blogging. Here?s John: If you visit) Tj
+T*
+(a website you should ... see the website . See its content. Be able to read the article whose) Tj
+T*
+(page you are attempting to visit. Showing a ?subscribe to our newsletter? or ?accept our) Tj
+T*
+(fucking cookies? dickover to someone trying to read an article on the web makes no more sense) Tj
+T*
+(than sending out an email newsletter that only contains a link to read the newsletter on a) Tj
+T*
+(webpage. A webpage should show the webpage. An email should show the email. I should not have) Tj
+T*
+(to explain this. It?s funny how often blogging feels like being the little child in the story) Tj
+T*
+(of The Emperor?s New Clothes . You?re just stating what seems obvious to you. I often look at) Tj
+T*
+(my own posts and think, ?There?s nothing novel, or important, or deep in here at all ? is this) Tj
+T*
+(even worth saying?? A post?s point can seem so glaringly obvious to me \(and thus, I presume,) Tj
+T*
+(others\) it feels like a waste of time to even say it. As John says: A webpage s...) Tj
+T*
+() Tj
+T*
+(14. How to Write an Effective Software Design Document) Tj
+T*
+(Source: Refactoring English | Published: Wed, 24 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/excerpts/write-an-effective-design-doc/) Tj
+T*
+(A good design doc can save you years of development time. Writing a design doc forces you to) Tj
+T*
+(think through important decisions before you waste time on the wrong implementation or paint) Tj
+T*
+(yourself into a corner. It?s also the best way to coordinate design decisions among teammates) Tj
+T*
+(and partner teams. I?ve written design docs as a developer at Google, Microsoft, and within my) Tj
+T*
+(own companies . The specifics vary, but the underlying principles remain the same. A design doc) Tj
+T*
+(should articulate the hard problems you?re solving and help your teammates give you feedback.) Tj
+T*
+() Tj
+T*
+(15. Weekly Update 509) Tj
+T*
+(Source: Troy Hunt | Published: Wed, 24 Jun 2026 05:17:32 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-509/) Tj
+T*
+(I know enough about home cinema audiovisual to know there's a lot I don't know. It's conscious) Tj
+T*
+(incompetence, if you like, which is different to the unconscious incompetence most people have) Tj
+T*
+(on the topic. That's not to sound derogatory \(it's) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004649 00000 n 
+0000004775 00000 n 
+0000009502 00000 n 
+0000009628 00000 n 
+0000014554 00000 n 
+0000014680 00000 n 
+0000017601 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+17729
+%%EOF
