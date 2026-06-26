@@ -1,0 +1,432 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4093 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-26 09:48:15) Tj
+T*
+() Tj
+T*
+(1. AI and Liability) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-25T22:28:46+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything) Tj
+T*
+(AI and Liability Bruce Schneier on the recent German ruling that Google be held liable for) Tj
+T*
+(errors introduced in their AI overviews: AI agents are agents of the person or organization) Tj
+T*
+(that deploys them?and should be treated by the law as such. If a company hired human writers to) Tj
+T*
+(write its summaries, that company would be liable for inaccuracies in those summaries. [...] To) Tj
+T*
+(allow businesses to hide behind the excuse of faulty AI in those same circumstances would be a) Tj
+T*
+(massive handout to companies, and would introduce disastrous incentives for corporate) Tj
+T*
+(misbehavior. Why hire human writers, lawyers or doctors when AIs are not only cheaper, but also) Tj
+T*
+(absolve employers whenever they make a mistake? Tags: bruce-schneier , google , law , ai ,) Tj
+T*
+(generative-ai , llms , ai-ethics , hallucinations) Tj
+T*
+() Tj
+T*
+(2. datasette-export-database 0.3a2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-25T17:21:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything) Tj
+T*
+(Release: datasette-export-database 0.3a2 An embarrassingly tiny release. The pyproject.toml had) Tj
+T*
+(pinned to datasette==1.0a27 , inadvertently making this plugin incompatible with all other) Tj
+T*
+(Datasette versions. It's now datasette>=1.0a27 instead. Tags: datasette) Tj
+T*
+() Tj
+T*
+(3. Raymond?s hot take on Hainanese chicken) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 25 Jun 2026 14:00:01 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260625-01/?p=112469) Tj
+T*
+(Subtlety. The post Raymond?s hot take on Hainanese chicken appeared first on The Old New Thing) Tj
+T*
+(.) Tj
+T*
+() Tj
+T*
+(4. The case of the DLL that was not present in memory despite not being formally unloaded,) Tj
+T*
+(part 1) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 25 Jun 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467) Tj
+T*
+(Figuring out how it went missing. The post The case of the DLL that was not present in memory) Tj
+T*
+(despite not being formally unloaded, part 1 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(5. Cancellation of Windows Runtime activities is asynchronous) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 24 Jun 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465) Tj
+T*
+(You're asking for it to cancel, but it doesn't wait for confirmation. The post Cancellation of) Tj
+T*
+(Windows Runtime activities is asynchronous appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(6. Apple Journal?s Atrocious Undo Bug Has Been Fixed \(and SwiftUI, Per Se, Is Not to) Tj
+T*
+(Blame\)) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-25T22:49:32Z) Tj
+T*
+(Link: https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps) Tj
+T*
+(On the eve of WWDC, in a post arguing that ? SwiftUI Only Makes It Easy to Develop Bad Apps ?,) Tj
+T*
+(I wrote about an atrocious bug in Apple?s Journal app: If you?re running MacOS 26 Tahoe, open) Tj
+T*
+(Journal and make a new dummy entry. Type something like ?The quick brown fox.? Then) Tj
+T*
+(double-click on the word ?brown? and delete it. Now invoke Undo. What you expect is for the) Tj
+T*
+(word ?brown? to reappear. What happens is ... the whole sentence disappears . Gone. Invoke Redo) Tj
+T*
+(and you only get back to ?The quick fox.? The word ?brown? is just gone forever. It?s nowhere) Tj
+T*
+(in the Undo stack. That?s just profoundly fucked up. I?ve never seen anything like this with an) Tj
+T*
+(AppKit app, ever. \(I?ve never seen it with a UIKit app either ? and the same thing happens on) Tj
+T*
+(iOS with Journal. It?s just that you notice it less often because we don?t invoke Undo and Redo) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4325 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(nearly as often there.\) Marcin Wichary, linking to my post from his remarkably good, remarkably) Tj
+T*
+(prolific blog Unsung , wrote: Software engineering typically has some categories of bugs and) Tj
+T*
+(failures that result in immediate action ? a night shift, a war room, ?sevs,? and so on. Those) Tj
+T*
+(are, in my experience, things like: the app crashes, the site doesn?t load...) Tj
+T*
+() Tj
+T*
+(7. ? Spensive Thoughts) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-25T22:36:09Z) Tj
+T*
+(Link: https://daringfireball.net/2026/06/spensive_thoughts) Tj
+T*
+(Some quick thoughts on the hardware prices Apple increased ? and didn?t increase ? today.) Tj
+T*
+() Tj
+T*
+(8. Om Malik, 1966-2026) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-25T20:31:37Z) Tj
+T*
+(Link: https://om.co/2026/06/24/1966-2026/) Tj
+T*
+(Heartbreaking news, shared by Om?s family: Om Malik passed away on June 24, 2026, at Stanford) Tj
+T*
+(Hospital after a long health journey with his heart. He was surrounded by family and friends.) Tj
+T*
+(We invite you to share your remembrances of Om in the comments below or by posting and tagging) Tj
+T*
+(his accounts on X/Twitter , Instagram , Threads , or LinkedIn . Om kept this battle very) Tj
+T*
+(private, so this news comes as a terrible surprise for many, and an incomprehensible gut punch) Tj
+T*
+(for everyone who knew and loved him. Rest in peace, my friend. So it goes. ?) Tj
+T*
+() Tj
+T*
+(9. Some things on ' systemctl kexec ' as compared to ' kexec -e ') Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-25T02:43:01Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/SystemctlKexecVsKexec) Tj
+T*
+(Suppose, unfortunately not hypothetically, that you have some machines that the Ubuntu 26.04) Tj
+T*
+(LTS installer kernel sometimes gets a kernel oops during a network based reinstall \(we don't) Tj
+T*
+(think this is a hardware flaw, but who knows; these machines were stable on 24.04\). Further) Tj
+T*
+(suppose that you're not network booting these machines but instead you're using kexec to boot) Tj
+T*
+(them into the installer environment . This creates an awkward situation, where the over the) Tj
+T*
+(network installer may have gotten far enough before the panic to have written over enough of) Tj
+T*
+(the disk \(with the previous install on it\) so you can't reboot from it. Fortunately there is a) Tj
+T*
+(way out, because you can contrive to kexec the installer environment again from within the) Tj
+T*
+(installer environment. \(A kernel oops is not a kernel panic, and normally doesn't reboot the) Tj
+T*
+(system unless you've made specific settings changes , which the Ubuntu 26.04 LTS installer) Tj
+T*
+(environment hasn't done. In this case, that's a good thing for us.\) Once you've used ' kexec -l) Tj
+T*
+(' to load the installer kernel and initrd with the required command line arguments, you have) Tj
+T*
+(two choices for actually rebooting into the kexec kernel. You can use the plain and...) Tj
+T*
+() Tj
+T*
+(10. Hart?s theorem) Tj
+T*
+(Source: John D. Cook | Published: Thu, 25 Jun 2026 19:20:09 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/25/harts-theorem/) Tj
+T*
+(Hart?s theorem says If a triangle be formed by the arcs of three circles, the inscribed and the) Tj
+T*
+(three escribed circles are all tangent to a new circle or line. Here ?triangle? means a) Tj
+T*
+(three-sided figure whose sides are portions of a circle. The inscribed circle is the largest) Tj
+T*
+(circle that can fit inside the [?] The post Hart?s theorem first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Incircles and Excircles of Pythagorean triangles) Tj
+T*
+(Source: John D. Cook | Published: Thu, 25 Jun 2026 14:35:52 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/25/incircle-excircle/) Tj
+T*
+(This post will reveal the connection between my two previous posts: one on the Star Trek lemma) Tj
+T*
+(and one on Pythagorean triples. In the process of writing the latter, I looked at the Wikipedia) Tj
+T*
+(article on Pythagorean triples and noticed this curious paragraph. In every Pythagorean) Tj
+T*
+(triangle, the radius of the incircle and the radii of the [?] The post Incircles and Excircles) Tj
+T*
+(of Pythagorean triangles first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Consecutive Pythagorean triangle sides) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4656 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: John D. Cook | Published: Thu, 25 Jun 2026 12:00:14 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/) Tj
+T*
+(In this post we find all Pythagorean triples that contain consecutive numbers, all Pythagorean) Tj
+T*
+(triples \(a, b, c\) such that a + 1 = b or b + 1 = c. a + 1 = b George Osborne wrote a paper [1]) Tj
+T*
+(addressing the question of when the squares of two consecutive numbers is also a square.) Tj
+T*
+(Geometrically this is asking [?] The post Consecutive Pythagorean triangle sides first appeared) Tj
+T*
+(on John D. Cook .) Tj
+T*
+() Tj
+T*
+(13. "No way to prevent this" say users of only language where this regularly happens) Tj
+T*
+(Source: Xe Iaso's blog | Published: Thu, 25 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-8461/) Tj
+T*
+(In the hours following the release of CVE-2026-8461 for the project FFmpeg , site reliability) Tj
+T*
+(workers and systems administrators scrambled to desperately rebuild and patch all their systems) Tj
+T*
+(to fix an out-of-bounds write in the MagicYUV decoder \(libavcodec/magicyuv.c\) caused by) Tj
+T*
+(improper bounds checking, resulting in heap corruption, denial of service, and potential remote) Tj
+T*
+(code execution when processing a specially crafted video file. This is due to the affected) Tj
+T*
+(components being written in C, the only programming language where these vulnerabilities) Tj
+T*
+(regularly happen. "This was a terrible tragedy, but sometimes these things just happen and) Tj
+T*
+(there's nothing anyone can do to stop them," said programmer Mrs. Kitty Smitham, echoing) Tj
+T*
+(statements expressed by hundreds of thousands of programmers who use the only language where) Tj
+T*
+(90% of the world's memory safety vulnerabilities have occurred in the last 50 years, and whose) Tj
+T*
+(projects are 20 times more likely to have security vulnerabilities. "It's a shame, but what can) Tj
+T*
+(we do? There really isn't anything we can do to prevent memory safety vulnerabilities from) Tj
+T*
+(happening if the programmer doesn't want to write their code in a robust manner." At press...) Tj
+T*
+() Tj
+T*
+(14. US Subways Build Too Many Cross Passages) Tj
+T*
+(Source: Construction Physics | Published: Thu, 25 Jun 2026 13:55:49 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages) Tj
+T*
+(I wrote the following piece for IFP?s Transit Abundance Playbook, a collection of 15 ideas to) Tj
+T*
+(improve transit delivery in the US.) Tj
+T*
+() Tj
+T*
+(15. Scrutineer: scanning open source without flooding maintainers) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-06-25T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/06/25/scrutineer.html) Tj
+T*
+(Scrutineer scans open source repositories for security vulnerabilities and then handles) Tj
+T*
+(everything that follows: verifying each one, working out who to contact, drafting a fix, and) Tj
+T*
+(tracking it through to a published advisory. I?ve been building it for Alpha-Omega for the past) Tj
+T*
+(couple of months. Large language models have made finding vulnerabilities in open source code) Tj
+T*
+(much easier. Point one at a codebase and it turns up real bugs alongside invented ones, faster) Tj
+T*
+(and cheaper than the fuzzers and scanners that came before, but the bottleneck hasn?t moved) Tj
+T*
+(with it. Every finding still has to be read, confirmed, and fixed by a maintainer, whose time) Tj
+T*
+(and attention is a finite resource the whole ecosystem depends on. Trying to secure everything) Tj
+T*
+(by firing machine-generated reports at maintainers would burn out the people the effort relies) Tj
+T*
+(on. When I pointed a couple of AI scanners at curl back in May, most of the output collapsed) Tj
+T*
+(against the project?s own disclosure policy, and the findings worth having were buried in the) Tj
+T*
+(rest. Scrutineer is built so the volume a model can generate never lands directly on a) Tj
+T*
+(maintainer. You add a repo by URL, it runs a pipeline of skills against the code, a...) Tj
+T*
+() Tj
+T*
+(16. Pluralistic: Jailbreaking isn't theft \(25 Jun 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 25 Jun 2026 09:37:35) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/25/thieve-different/) Tj
+T*
+(Today's links Jailbreaking isn't theft: It wasn't progress when they did it, it's not piracy) Tj
+T*
+(when we do it back to them. Hey look at this: Delights to delectate. Object permanence: Major) Tj
+T*
+(AI breakthrough; Disney v Pooh tombstone; Vancouver riot kiss; Farage admits Brexit lies;) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1055 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Protecting the web from its founders; Sanders x Hillary; Surveillance pricing v your dollars.) Tj
+T*
+(Upcoming appearances: Philadelphia, Chicago, London, Edinburgh, Sydney, Melbourne, Brighton,) Tj
+T*
+(London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em,) Tj
+T*
+(I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the) Tj
+T*
+(rest. Jailbreaking isn't theft \(permalink\) It's not often that someone on a panel says) Tj
+T*
+(something that makes my jaw drop, but that's what happened earlier this week when the moderator) Tj
+T*
+(of a panel I was on in Toronto described jailbreaking an iPhone as "rampant theft of IP." Some) Tj
+T*
+(context: the panel was in Toronto, and the nominal subject was "digital sovereignty," though) Tj
+T*
+(all the panelists \(except me\) interpreted that to mean "sovereign AI." All of their) Tj
+T*
+(interventions were focused on how Canada could build and operate its own AI, which I found) Tj
+T*
+(very...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004355 00000 n 
+0000004481 00000 n 
+0000008858 00000 n 
+0000008984 00000 n 
+0000013692 00000 n 
+0000013818 00000 n 
+0000014926 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15054
+%%EOF
