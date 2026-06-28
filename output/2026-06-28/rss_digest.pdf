@@ -1,0 +1,540 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4512 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-28 09:47:03) Tj
+T*
+() Tj
+T*
+(1. Saying the obvious thing) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sat, 27 Jun 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/saying-the-obvious-thing/) Tj
+T*
+(Stating the obvious is surprisingly useful . Most of your knowledge lives below the threshold) Tj
+T*
+(of conscious awareness, so it?s possible for a piece of writing to remind you of what you) Tj
+T*
+(already know. It?s common to know you don?t like something without being quite sure why, and) Tj
+T*
+(reading an obvious statement \(such as ?accuracy matters , even when you agree with the broad) Tj
+T*
+(strokes?\) can help clarify why you find certain things distasteful. Sometimes you can see some) Tj
+T*
+(obvious truth that nobody seems to be talking about, and reading it in someone else?s words can) Tj
+T*
+(prompt an ?oh god, I?m not crazy? moment of catharsis. For many junior engineers, it?s almost a) Tj
+T*
+(rite of passage to notice that some percentage of software engineers do virtually no work .) Tj
+T*
+(Since nobody talks about it \(how would you even bring it up in the workplace?\), they often feel) Tj
+T*
+(like they?re losing their minds: surely this state of affairs wouldn?t be allowed to continue,) Tj
+T*
+(so they must be completely misreading the situation. But in fact it?s true. Stating the obvious) Tj
+T*
+(is hard. It can even be dangerous: sometimes there?s a good reason nobody says the obvious) Tj
+T*
+(thing. But I think the bigger reason it?s hard is for the same reason th...) Tj
+T*
+() Tj
+T*
+(2. All Chinese Models Will Be Illegal in 3... 2... 1...) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Sat, 27 Jun 2026) Tj
+T*
+(03:32:38 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/all-chinese-models-will-be-illegal) Tj
+T*
+(The Washington Post reported that the US government will decide who can use state-of-the-art) Tj
+T*
+(LLMs . After the ban of Fable and the limitations coming to ChatGPT 5.6, what's next? My bet is) Tj
+T*
+(Chinese models. For all of Anthropic's doomsaying and propping up of their secret model Mythos,) Tj
+T*
+(several open-weight models have proven capable of similar feats, and at a fraction of the cost.) Tj
+T*
+(DeepSeek rocked the AI world in December 2024 with their initial release, nearly sending) Tj
+T*
+(shockwaves through American stock markets. Last year, I looked into getting a BYD electric car.) Tj
+T*
+(At the price they were selling for, I figured that even with a 100% tariff slapped on top, it) Tj
+T*
+(would still be a bargain. Then I discovered that not only is there a steep import tariff, you) Tj
+T*
+(simply cannot register the car in the United States. The car itself is illegal. According to) Tj
+T*
+(reviews from people who actually own one, it's a fantastic vehicle that would outcompete most) Tj
+T*
+(cars on the US market. Because of that, the US simply banned it. So what does this mean for) Tj
+T*
+(large language models? If we're now told that state-of-the-art LLMs are too dangerous for the) Tj
+T*
+(general public, what happens to Chinese models that are equally powerful...) Tj
+T*
+() Tj
+T*
+(3. Incident Report: CVE-2026-LGTM) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-26T17:58:54+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything) Tj
+T*
+(Incident Report: CVE-2026-LGTM Spectacular hypothetical incident report by Andrew Nesbitt. Day) Tj
+T*
+(2, 16:00 UTC --- Two AI review agents from competing vendors, both attached to a downstream) Tj
+T*
+(pull request bumping foxhole-lz4 , enter a disagreement loop over whether the package is) Tj
+T*
+(malicious. After 340 comments and $41,255 in inference spend, Finance revokes both API keys;) Tj
+T*
+(one vendor's marketing team, cc'd on the cost anomaly alert, issues a press release citing "a) Tj
+T*
+(430% YoY increase in adversarial multi-agent security reasoning." The stock opens up 6%. Tags:) Tj
+T*
+(security , ai , prompt-injection , generative-ai , llms , supply-chain , ai-security-research ,) Tj
+T*
+(andrew-nesbitt) Tj
+T*
+() Tj
+T*
+(4. Quoting OpenAI) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-26T17:10:43+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/26/openai/#atom-everything) Tj
+T*
+(We're beginning a limited preview of the GPT?5.6 series: Sol, our flagship model; Terra, a) Tj
+T*
+(balanced model for everyday work; and Luna, a fast and affordable model. Terra has competitive) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4817 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(performance to GPT?5.5 while being 2x cheaper and Luna brings strong capability at our lowest) Tj
+T*
+(cost. [...] We believe in broad access, and we plan to make GPT?5.6 Sol, Terra, and Luna) Tj
+T*
+(generally available in the coming weeks. As part of our ongoing engagement with the U.S.) Tj
+T*
+(government, we previewed our plans and the models? capabilities ahead of today?s launch. At) Tj
+T*
+(their request, we are starting with a limited preview for a small group of trusted partners) Tj
+T*
+(whose participation has been shared with the government, before releasing more broadly. [...]) Tj
+T*
+(GPT?5.6 is priced per 1M tokens across three model sizes: Sol is $5 input / $30 output; Terra) Tj
+T*
+(is $2.50 input / $15 output; and Luna is $1 input / $6 output. GPT?5.6 also introduces more) Tj
+T*
+(predictable prompt caching, including support for explicit cache breakpoints and a 30-minute) Tj
+T*
+(minimum cache life. For GPT?5.6 and later models, cache writes are billed at 1.25x the model?s) Tj
+T*
+(uncached input rate, while cache reads continue to receive the 90% cached-input discount....) Tj
+T*
+() Tj
+T*
+(5. ? Bernie Sanders: Ideologue and Economic Ignoramus) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-27T23:35:00Z) Tj
+T*
+(Link: https://daringfireball.net/2026/06/bernie_sanders_ideologue) Tj
+T*
+(Sanders?s tweet is better punctuated and capitalized, but it?s the same argument as Trump?s.) Tj
+T*
+(Zero economic sense, 100 percent ideological wishful thinking.) Tj
+T*
+() Tj
+T*
+(6. Micron Executive Sumit Sadana Tells Tim Cook to Stop Hitting Himself) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-27T23:30:00Z) Tj
+T*
+(Link: https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-) Tj
+T*
+(a7463f99?st=B1aQCP&reflink=desktopwebshare_permalink) Tj
+T*
+(From the bottom of Rolfe Winkler?s report for The Wall Street Journal Thursday, on Apple?s) Tj
+T*
+(unprecedented price increases \(gift link\): Apple?s price hikes arrived the day after Micron) Tj
+T*
+(Technology, the big American maker of memory and storage, reported blowout quarterly earnings,) Tj
+T*
+(touting gross profit margins that topped 80%. Shares jumped 16% after the close and appeared) Tj
+T*
+(likely to power a Thursday rally among semiconductor stocks. [...] In an interview Wednesday) Tj
+T*
+(night, Micron Chief Business Officer Sumit Sadana said the company couldn?t make investments) Tj
+T*
+(during the memory market?s last downturn, when Micron?s gross profits went negative, in part) Tj
+T*
+(because certain customers took advantage to pay rock-bottom prices. ?We told a couple of the) Tj
+T*
+(customers who were being very aggressive with pricing at that time that this is not) Tj
+T*
+(constructive,? he said, without naming Apple, adding that low prices discouraged capital) Tj
+T*
+(investments. ?A lot of the industry investments got shut down in 2023 because of really poor) Tj
+T*
+(pricing and really poor margins.? I overlooked this segment when I read \( and linked to \)) Tj
+T*
+(Winkler?s report Thursday. It really does seem clear that Sadana is blaming Apple for not) Tj
+T*
+(cutting Mi...) Tj
+T*
+() Tj
+T*
+(7. Apple Faced Bipartisan Opposition When It Last Lobbied to Buy Chinese RAM in 2022) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-27T22:39:51Z) Tj
+T*
+(Link: https://www.warner.senate.gov/newsroom/press-releases/warner-rubio-urge-dni-to-review-ris) Tj
+T*
+(k-chinese-chipmaker-ymtc-presents-to-national-security/) Tj
+T*
+(From a September 2022 letter to then-Director of National Intelligence Avril Haines, co-signed) Tj
+T*
+(by Marco Rubio \(then a Republican senator from Florida, currently secretary of state\) and Mark) Tj
+T*
+(Warner \(Democratic senator from Virginia\): We write to convey our extreme concern about the) Tj
+T*
+(possibility that Apple Inc. will soon procure 3D NAND memory chips from the People?s Republic) Tj
+T*
+(of China \(PRC\) state-owned manufacturer Yangtze Memory Technologies Co. \(YMTC\). Such a decision) Tj
+T*
+(would introduce significant privacy and security vulnerabilities to the global digital supply) Tj
+T*
+(chain that Apple helps shape given YMTC?s extensive, but often opaque, ties to the Chinese) Tj
+T*
+(Communist Party \(CCP\) and concerning PRC-backed entities. In addition, we write to convey that) Tj
+T*
+(any decision to partner with YMTC, no matter the intended market of the product offerings) Tj
+T*
+(developed by such a partnership, would affirm and reward the PRC?s distortive and unfair trade) Tj
+T*
+(practices, which undermine U.S. companies globally by creating significant advantages to) Tj
+T*
+(Chinese firms at the expense of foreign competitors. Last year, the Biden Administration) Tj
+T*
+(described YMTC as China?s ?national champion memory chip producer,? which supports t...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4594 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(8. Brace expansion tree) Tj
+T*
+(Source: John D. Cook | Published: Sun, 28 Jun 2026 00:33:33 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/27/brace-expansion-tree/) Tj
+T*
+(Here?s a crazy bash one-liner I found via an article by Peter Krumins: echo) Tj
+T*
+({w,t,}h{e{n{,ce{,forth}},re{,in,fore,with{,al}}},ither,at} This prints 30 English words: when,) Tj
+T*
+(whence, whenceforth, where, wherein, wherefore, wherewith, wherewithal, whither, what, then,) Tj
+T*
+(thence, thenceforth, there, therein, therefore, therewith, therewithal, thither, that, hen,) Tj
+T*
+(hence, henceforth, here, herein, herefore, herewith, herewithal, hither, hat This post will) Tj
+T*
+(explain how [?] The post Brace expansion tree first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. When will the decimals in a/b repeat?) Tj
+T*
+(Source: John D. Cook | Published: Sat, 27 Jun 2026 18:12:03 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/27/decimal-period/) Tj
+T*
+(The previous post looked at how many digits are in the reduced fraction for the nth harmonic) Tj
+T*
+(number. I was curious about how long the cycle of digits in a harmonic number might be. I wrote) Tj
+T*
+(about the period length for the digits of fractions almost a decade ago. This post includes) Tj
+T*
+(code so I can [?] The post When will the decimals in a/b repeat? first appeared on John D. Cook) Tj
+T*
+(.) Tj
+T*
+() Tj
+T*
+(10. Height of harmonic numbers) Tj
+T*
+(Source: John D. Cook | Published: Sat, 27 Jun 2026 12:51:42 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/27/height-of-harmonic-numbers/) Tj
+T*
+(The previous post looked at writing the harmonic numbers as reduced fractions and estimating) Tj
+T*
+(the number of digits in the numerator and denominator based on asymptotics. This is a follow up) Tj
+T*
+(post with plots. We?ll choose our base b to be 2. And we?ll look at the total number of bits in) Tj
+T*
+(both the numerator and [?] The post Height of harmonic numbers first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. How your Ubuntu 26.04 server boots with a software RAID array root filesystem) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-27T03:29:54Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604ServerSoftwareRaidBoot) Tj
+T*
+(One answer to how your Ubuntu 26.04 server boots when its root filesystem is on a software RAID) Tj
+T*
+(array is that it just does and you don't need to think about it. Unfortunately this wasn't the) Tj
+T*
+(case in the pre-beta version . That's been fixed since \( contrary to what I thought until now) Tj
+T*
+(\), but that raises the question of what changed between 24.04 LTS and 26.04 LTS to cause and) Tj
+T*
+(then fix this. At some point between 24.04 and 26.04, Canonical switched from booting servers) Tj
+T*
+(using initramfs-tools \(and an initial ramdisk built with them\) to booting them with Dracut .) Tj
+T*
+(Initial ramdisks built with initramfs-tools will automatically assemble all software RAID) Tj
+T*
+(arrays they see, or possibly anything they see in their embedded /etc/mdadm/mdadm.conf file) Tj
+T*
+(\(it's not clear to me right now\). Initramfses using Dracut will normally only assemble software) Tj
+T*
+(RAID arrays that are explicitly specified with rd.md.uuid= arguments , regardless of what's in) Tj
+T*
+(their /etc/mdadm.conf. The 26.04 pre-beta server installer didn't add any such rd.md.uuid) Tj
+T*
+(arguments to the kernel command line, causing the obvious problems. \(At the time our workaround) Tj
+T*
+(was to create an /etc/default/grub.d file that explicitly added the right r...) Tj
+T*
+() Tj
+T*
+(12. Arp 38: not that peculiar) Tj
+T*
+(Source: Maurycy's Blog | Published: Sat, 27 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/astro/arp38/) Tj
+T*
+(Data is from 2026-06-20. North is right. 0.53"/pixel \(27'x27' field\). FWHM=4' A nice, if rather) Tj
+T*
+(small \(~100"\) edge on spiral galaxy. Arp filed this one under "low surface brightness) Tj
+T*
+(companions", but the companion doesn't seem to exist. There's a bright spot to the north) Tj
+T*
+(\(right\) of the core , but hubble data shows it's just a bright HII region and star cluster.) Tj
+T*
+(This part of the sky isn't covered by SDSS, so I don't have widefield reference data. Total) Tj
+T*
+(exposure time: 327 * 30 seconds = 2.7 hours. Telescope: C9.25 \(230mm, f/10, fl=2300mm\) + 0.63) Tj
+T*
+(Starizona reducer Camera: IMX533 \(16mm diagonal, square, color\) Processing: Callibration \(dark) Tj
+T*
+(+ flat\) Stacking \(average w/ outlier rejection\) White balance and background subtraction \(no) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4316 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(gradient removal\) Asinh stretch \(color preserving\) Again with the walking noise! I'll try to) Tj
+T*
+(check my callibration frames and restack this one. Related :) Tj
+T*
+(https://ned.ipac.caltech.edu/level5/Arp/Figures/big_arp38.jpeg : Arp's image.) Tj
+T*
+(/astro/arp38/arp38.fits.fz : raw stacks) Tj
+T*
+() Tj
+T*
+(13. Reading List 06/27/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 27 Jun 2026 12:02:02 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-062726) Tj
+T*
+(Trump refuses to sign a housing bill, the high cost of US-made doors, slow trucking, why we) Tj
+T*
+(stopped making new land, and more.) Tj
+T*
+() Tj
+T*
+(14. This Week in Package Management: 27 June 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-06-27T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/06/27/this-week-in-package-management.html) Tj
+T*
+(Week six of the roundup, built from the package manager OPML feed collection and whatever I?ve) Tj
+T*
+(posted or boosted on Mastodon . Releases Spack 1.2.0 makes the rewritten parallel installer the) Tj
+T*
+(default, adds concretization groups and concretization caching, and ships SBOM generation) Tj
+T*
+(alongside experimental build sandboxing and a spack isolate command. pnpm 11.9 computes a) Tj
+T*
+(tarball?s integrity from the downloaded file when a registry generates tarballs on demand and) Tj
+T*
+(cannot supply a checksum in its metadata, storing it in the lockfile so later installs can) Tj
+T*
+(verify it. The release also adds pnpm sbom --exclude-peers and speeds up audits on cyclic) Tj
+T*
+(lockfiles. pixi 0.71.0 makes the conda-to-PyPI name mapping configurable, so you can supplement) Tj
+T*
+(the generated mapping with your own entries rather than overwriting the whole file, which helps) Tj
+T*
+(people on corporate networks hosting their own mappings. uv 0.11.24 makes project environments) Tj
+T*
+(relocatable under preview and adds CPython 3.15.0b3. RubyGems 4.0.15 reduces peak memory when) Tj
+T*
+(loading the full index and during bundle install , and Bundler 4.0.15 resolves Git LFS files in) Tj
+T*
+(git sources from the real remote and implements a make jobserver. Dependabot...) Tj
+T*
+() Tj
+T*
+(15. Hazy Memory) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-06-27T14:09:29Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17369108/apple-micron-ram-shortage-vertical-integration) Tj
+T*
+(Who?s to blame for the memory crisis that turned Macs and Steam Boxes into unobtanium this) Tj
+T*
+(week? The memory-makers have a convenient answer.) Tj
+T*
+() Tj
+T*
+(16. The curious case of the disappearing Polish S) Tj
+T*
+(Source: Aresluna | Published: 2026-06-27T21:20:04+0000) Tj
+T*
+(Link: https://aresluna.org/the-curious-case-of-the-disappearing-polish-s) Tj
+T*
+(One keyboard bug three decades in the making. \(New version of an essay originally posted in) Tj
+T*
+(February 2015. 1,800 words.\)) Tj
+T*
+() Tj
+T*
+(17. Pluralistic: Zuckerberg's increasingly bizarre war on whistleblowers \(27 Jun 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 27 Jun 2026 11:14:05) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/27/zuckerstreisand-2/) Tj
+T*
+(Today's links Zuckerberg's increasingly bizarre war on whistleblowers: Under no circumstances) Tj
+T*
+(should you rush out and read the book that prompted Mark Zuckerberg to demand $111m and eternal) Tj
+T*
+(auctorial silence. Hey look at this: Delights to delectate. Object permanence: Flame warriors;) Tj
+T*
+(Cryptography and casinos; TSA v dying 95 year old woman's adult diaper; Neoliberalism and) Tj
+T*
+(Brexit; Beyond solutionism; How Thiel cheated with his Roth; Inequality's stabilizer; Palm) Tj
+T*
+(Pilot school; Gillmor on PR flacks; "How I Edited an Agricultural Paper; Conservative judge) Tj
+T*
+(chokes liberal judge; Hollywoodnomics; Rubber fingertips v fingerprint readers; Snowden's) Tj
+T*
+(telepresence robot; "Shrill"; Moral hazard, "Three Rocks." Upcoming appearances: London,) Tj
+T*
+(Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've) Tj
+T*
+(been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said,) Tj
+T*
+(I'll keep writin' 'em. Colophon: All the rest. Zuckerberg's increasingly bizarre war on) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 257 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(whistleblowers \(permalink\) More than a decade ago, a group of young, internet-connected) Tj
+T*
+(Belarusian dissidents launched a series of increasingly high-stakes, increasingly surreal) Tj
+T*
+(confrontatio...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004781 00000 n 
+0000004907 00000 n 
+0000009776 00000 n 
+0000009902 00000 n 
+0000014548 00000 n 
+0000014674 00000 n 
+0000019043 00000 n 
+0000019171 00000 n 
+0000019480 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+19608
+%%EOF
