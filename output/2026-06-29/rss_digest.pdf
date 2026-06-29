@@ -1,0 +1,426 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4455 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-29 09:49:08) Tj
+T*
+() Tj
+T*
+(1. Quoting Jon Udell) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-28T21:57:41+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything) Tj
+T*
+(Human Agent in the loop I dislike the phrase ?human in the loop? because it cedes authority to) Tj
+T*
+(the machines. Let?s flip the narrative. It?s our loop, we work the same way we always have, now) Tj
+T*
+(we recruit agents to join the team. An agent-assisted process need not be a black box that) Tj
+T*
+(takes in prompts and emits features. [...] Let?s do agentic software development like that. Not) Tj
+T*
+(as a loop we?ve been excluded from, instead as one we invite agents into. ? Jon Udell ,) Tj
+T*
+(?Doctor, it hurts when agents create unreviewable PRs.? ?Don?t do that.? Tags: jon-udell ,) Tj
+T*
+(coding-agents , generative-ai , agentic-engineering , ai , llms) Tj
+T*
+() Tj
+T*
+(2. Hack Your Summer) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-28T19:26:11+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything) Tj
+T*
+(Hack Your Summer I learned about this initiative from DJ Patil this morning: It?s a 4-week,) Tj
+T*
+(high-velocity production sprint for undergraduate students, graduate students, and recent) Tj
+T*
+(graduates who want to build something real this summer. You?ll learn how to identify a project,) Tj
+T*
+(make steady progress, get support from mentors and peers, and create tangible, public-facing) Tj
+T*
+(work you can actually show future employers. Hack Your Summer is partly a reaction to the) Tj
+T*
+(internship crisis facing US college students this year. There are way fewer available) Tj
+T*
+(internships than usual, as companies have reduced their hiring ambitions and teams have less) Tj
+T*
+(capacity to coach interns. Hack Your Summer provides an alternative path for the many students) Tj
+T*
+(who didn't catch one of those rare internships. A second \(free\) cohort starts on July 13th, and) Tj
+T*
+(the deadline for students to apply is July 8th. They're also accepting volunteers to help) Tj
+T*
+(mentor the students. Tags: careers) Tj
+T*
+() Tj
+T*
+(3. Auth.md ? an Open Protocol for Agent Registration From WorkOS) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-29T01:32:24Z) Tj
+T*
+(Link:) Tj
+T*
+(https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) Tj
+T*
+(My thanks to WorkOS for sponsoring DF last week to promote Auth.md, their new open protocol for) Tj
+T*
+(AI agent registration. \(Who?d have thunk that I?d be getting paid to promote new uses for) Tj
+T*
+(Markdown 22 years after releasing it ?\) Sign-up forms were built for humans in browsers, so how) Tj
+T*
+(do AI agents programmatically register with services? That?s the question Auth.md aims to) Tj
+T*
+(answer. It?s a single Markdown file you host at your domain that tells agents how to register) Tj
+T*
+(your users, which flows you support, what scopes you expose, and how credentials get issued.) Tj
+T*
+(It?s like robots.txt but for agent registration. Cloudflare, Firecrawl, and Resend have already) Tj
+T*
+(adopted it. An open protocol authored by WorkOS. Read the spec . ?) Tj
+T*
+() Tj
+T*
+(4. Daniel Agee: ?Remembering Om?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-29T01:21:49Z) Tj
+T*
+(Link: https://glass.photo/highlights/remembering-om) Tj
+T*
+(Daniel Agee, an early member of the team at Glass, writing on the Glass blog: It?s not lost on) Tj
+T*
+(us that Om?s photography , often taken in frozen lands in or around the arctic circle, was the) Tj
+T*
+(polar opposite of his personality. While he focused on subtle shapes and hidden landscapes, he) Tj
+T*
+(was the sun of any group he was in. Folks just naturally fell into his orbit. Agee?s lovely) Tj
+T*
+(piece is replete with photos by Om. A veteran of the internet publishing space, he was one of) Tj
+T*
+(the first to take the now well-worn path of technology writing into venture capital. When we) Tj
+T*
+(briefly explored raising a small round of VC funding after our launch to support our growth, Om) Tj
+T*
+(was our first call. He answered and immediately said, ?I love you guys, I?ll invest the money) Tj
+T*
+(if you want it, but don?t fucking do it. What you have is special. Don?t fucking ruin it.?) Tj
+T*
+(That?s Om. Simple and to the point. That simplicity showed up in his photography practice.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4785 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Strip away everything from a photograph, down to the bare minimum of contrast or shadow. What) Tj
+T*
+(do you focus on? What do you see? How can something so simple be so fulfilling? That is exactly) Tj
+T*
+(how Om spoke. Always. To the point. Why waste time? Why mince words? Why...) Tj
+T*
+() Tj
+T*
+(5. Matt Mullenweg: ?All Roads Lead to Om?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-29T01:08:13Z) Tj
+T*
+(Link: https://ma.tt/2026/06/om-forever/) Tj
+T*
+(Matt Mullenweg: Fundamentally, Om was a lover of humanity. He became a fast ?regular?) Tj
+T*
+(everywhere he went. He wouldn?t just buy coffee, he would also learn the name and story of) Tj
+T*
+(every barista, the dogs and people in South Park. His deep curiosity and respect weren?t just) Tj
+T*
+(for the fine and famous. It extended to every soul that crossed his path. His encyclopedic) Tj
+T*
+(knowledge and photographic memory created connections not just in San Francisco, but all around) Tj
+T*
+(the world wherever we traveled. \(I need to pull the stats, but we went to five continents) Tj
+T*
+(together, including Antarctica.\) He loved people and their stories. And: One of the biggest) Tj
+T*
+(lessons I learned from Om is the deep appreciation of craft. When he took an interest in) Tj
+T*
+(photography or pens, he would somehow find his way to the most obscure, highest-quality) Tj
+T*
+(expression of that form. ?What Would Om Want?? is a question I will always ponder. I want to) Tj
+T*
+(craft products that would make Om proud. If you?re going to get into something, you ought to) Tj
+T*
+(pursue it to its full extent. If you?re not interested enough to do that, don?t bother getting) Tj
+T*
+(into it. Find the few things you love; don?t waste your time on the many things you merely) Tj
+T*
+(like. Matt...) Tj
+T*
+() Tj
+T*
+(6. The Laziest Generation) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Sun, 28 Jun 2026) Tj
+T*
+(07:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/the-laziest-generation) Tj
+T*
+(I don't understand why this generation can't afford a home. When my grandfather was 18, he had) Tj
+T*
+(already saved enough money from his paper route and various odd jobs to buy his first home. By) Tj
+T*
+(the time my father turned 26, he was already married, had his first child, and was moving into) Tj
+T*
+(his first home. We lived frugally, and our parents taught us the value of spending wisely.) Tj
+T*
+(Today's man-children, at the ripe old age of 40, still cannot afford a home. Yet they have no) Tj
+T*
+(problem eating out every day, going to the movies, and buying popcorn and avocado toast. Add in) Tj
+T*
+(subscriptions to ten different services they barely use, and that's money thrown out the) Tj
+T*
+(window. They don't see the correlation between their spending habits and their inability to buy) Tj
+T*
+(a home or save money in the first place. I understand that my grandfather's house only cost) Tj
+T*
+($12,000, and my father bought his for $50,000. Mine was much more expensive, I paid $150,000,) Tj
+T*
+(and that house is now worth a million. I understand that by the time my children are 26, it) Tj
+T*
+(will probably be worth $10 million. If they start saving now, they'll have a shot. But I can) Tj
+T*
+(tell they will choose reckless spending over saving, and I simply do not unde...) Tj
+T*
+() Tj
+T*
+(7. Go interfaces, reflection, and binary size) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-28T02:17:32Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/GoInterfacesReflectAndBinarySize) Tj
+T*
+(Recently an interesting series of commits landed in Prometheus with the goal of reducing the) Tj
+T*
+(size of the Prometheus binary by allowing the Go linker to remove more unused code \( something) Tj
+T*
+(it's quite good at in general , although the linker is also deliberately limited in this \). The) Tj
+T*
+(commit with the message that's most informative about what is going on and why is) Tj
+T*
+(discovery/gce: keep [Google Cloud] Compute SD client from defeating dead-code elimination , and) Tj
+T*
+(you can read the full details in it. The short version is that if you're using certain sorts of) Tj
+T*
+(reflection anywhere in your program, the Go linker won't remove exported \(public\) methods of) Tj
+T*
+(any concrete type that's reachable through an interface. It doesn't matter how narrow the) Tj
+T*
+(interface is \(it can be the famous and minimal fmt.Stringer \); the moment you combine) Tj
+T*
+(reflection and a concrete type in an interface, the Go linker more or less stops throwing out) Tj
+T*
+(unused functions and methods. Well, sort of, as the commit explains. Unlike the standard Go) Tj
+T*
+(toolchain not doing dead code elimination for package level variables with constant values ,) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4538 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(this isn't merely the linker deciding it's too much work to do this dead code elimination) Tj
+T*
+(opt...) Tj
+T*
+() Tj
+T*
+(8. Examining circuit boards from the Space Shuttle's I/O Processor) Tj
+T*
+(Source: Ken Shirriff's blog | Published: 2026-06-28T09:11:20.022-07:00) Tj
+T*
+(Link: http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html) Tj
+T*
+(The Space Shuttle's five 1 general-purpose computers played a critical role in each flight:) Tj
+T*
+(controlling the engines, monitoring thousands of sensors, displaying data to the astronauts,) Tj
+T*
+(and navigating the Shuttle. Each computer consisted of two 60-pound aluminum-alloy boxes: the) Tj
+T*
+(box on the right is the CPU, a 32-bit processor that executed 420,000 instructions per second.) Tj
+T*
+(These computers were designed before microprocessors became popular, so the processor was built) Tj
+T*
+(from multiple boards crammed with simple chips and they used magnetic core memory rather than) Tj
+T*
+(DRAM chips. The Space Shuttle IOP and CPU \(AP-101B\). Photo courtesy of RR Auction . The box on) Tj
+T*
+(the left is the I/O Processor \(IOP\): the link between the CPU and the rest of the Shuttle. It) Tj
+T*
+(implemented the input/output capabilities for the computer, primarily 24 high-speed networks) Tj
+T*
+(that connected the computer to the Shuttle's systems and sensors. But the IOP wasn't just a) Tj
+T*
+(peripheral; it was a separate programmable computer, more complicated than the main CPU. The) Tj
+T*
+(IOP had an unusual architecture: it was one of the first multi-threaded computers, implementing) Tj
+T*
+(25 virtual processors \(with two completely different instruction sets\) t...) Tj
+T*
+() Tj
+T*
+(9. Writing down harmonic numbers) Tj
+T*
+(Source: John D. Cook | Published: Sat, 27 Jun 2026 01:51:03 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/) Tj
+T*
+(The nth harmonic number is the sum of the reciprocals of the first n positive integers. Hn = 1) Tj
+T*
+(+ 1/2 + 1/3 + 1/4 + ? + 1/n The product of all the denominators is n!, so you could write Hn as) Tj
+T*
+(a fraction Hn = p/q where p = n! Hn is an integer and q = n!. While [?] The post Writing down) Tj
+T*
+(harmonic numbers first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Book Review: The Hotel Avocado by Bob Mortimer ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 28 Jun 2026 11:34:45 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/) Tj
+T*
+(Despite vowing not to read sequels of books I love, I'm constantly surprised that regression to) Tj
+T*
+(the mean is an iron-clad law of the universe. I thoroughly enjoyed the first book in the) Tj
+T*
+(series, so eagerly gobbled up the second. What a burlap fool I am. What was charming and wry in) Tj
+T*
+(The Satsuma Complex is now overdone and clichÈd. The violence, which was an undercurrent in the) Tj
+T*
+(first book, is now ?) Tj
+T*
+() Tj
+T*
+(11. Review: Gamrombo PS5 controller - including Linux set up ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 26 Jun 2026 11:34:42 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/) Tj
+T*
+(I'm not paying seventy bloody quid for an official PS5 controller - so I found a knock-off) Tj
+T*
+(version for a smidge under £40. And this one has lots of unnecessary blinkenlights! Gamrombo is) Tj
+T*
+(the consumer-facing brand of the generically named Professional Controller Manufacturer. AKA) Tj
+T*
+("Huizhou Ronghui Technology Co., Ltd" - there's virtually no information about them online) Tj
+T*
+(other than paid-for ?) Tj
+T*
+() Tj
+T*
+(12. Working around dragons with the Lemote Yeeloong laptop and OpenBSD) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-06-27T20:08:45.674-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html) Tj
+T*
+(Behold: the Guru of GNU ! \(Photo by Habib Mhenni, Wikimedia Commons, CC BY-SA 3.0.\) True) Tj
+T*
+(enlightment only comes from a truly free computing experience, probably! And while there is no) Tj
+T*
+(nerd who lacks an opinion on Richard Stallman personally, likewise let none claim he does not) Tj
+T*
+(practice what he preaches. Why, the very laptop in front of him was selected deliberately) Tj
+T*
+(because it can operate with no binary blobs and no firmware you couldn't examine or replace) Tj
+T*
+(with your own, and runs his choice of fully libre operating systems. The fact it has a Chinese) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 749 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(MIPS64 derivative in it was undoubtedly just more compound on the heat spreader. Now, in my) Tj
+T*
+(case, the fact that it is a MIPS-family system meant I certainly needed one in my unusual) Tj
+T*
+(laptop collection. And since it can run OpenBSD ... ... it seemed like a good way to get) Tj
+T*
+(nerdsniped in two ways by one computer: since I mostly run NetBSD as my BSD and server) Tj
+T*
+(operating system of choice, I figured this was also a good way to learn OpenBSD on a highly) Tj
+T*
+(portable netbook using an unusual platform. As usual, of course, the whole shooting match) Tj
+T*
+(turned out to be a much longer journey than I'd anticipated, and my typical insistence on) Tj
+T*
+(deviating from...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004717 00000 n 
+0000004843 00000 n 
+0000009680 00000 n 
+0000009806 00000 n 
+0000014396 00000 n 
+0000014522 00000 n 
+0000015323 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15451
+%%EOF
