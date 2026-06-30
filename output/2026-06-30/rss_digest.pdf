@@ -1,0 +1,466 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4196 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-06-30 09:45:57) Tj
+T*
+() Tj
+T*
+(1. HTML table extractor) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-29T23:38:21+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything) Tj
+T*
+(Tool: HTML table extractor Yet another in my growing collection of paste-conversion tools. This) Tj
+T*
+(one accepts pasted rich text from browsers \(with embedded HTML tables\) and converts every) Tj
+T*
+(detected table into HTML, Markdown, CSV, TSV, or JSON. Try it out by selecting everything on) Tj
+T*
+(the Wikipedia List of cities and towns in the San Francisco Bay Area page and pasting it) Tj
+T*
+(directly into the tool: On a similar note, I recently rebuilt my Rich text to markdown tool to) Tj
+T*
+(add support for tables and generally improve the UI. Tags: html , tools) Tj
+T*
+() Tj
+T*
+(2. Count the number of Safari tabs) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-29T18:36:18+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything) Tj
+T*
+(Tiniest TIL, using AppleScript to count the number of open browser tabs in Safari: osascript -e) Tj
+T*
+('tell application "Safari" to count tabs of every window' Tags: safari , til , applescript) Tj
+T*
+() Tj
+T*
+(3. Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-29T16:17:59+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/29/ornith/#atom-everything) Tj
+T*
+(Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding This is an interesting new open weights) Tj
+T*
+(\(MIT licensed\) model, the first model release from DeepReinforce. [...] with variants including) Tj
+T*
+(9B Dense, 31B Dense, 35B MoE, and 397B MoE. Built on top of pretrained Gemma 4 and Qwen 3.5, it) Tj
+T*
+(achieves state-of-the-art performance among open-source models of comparable size on coding) Tj
+T*
+(benchmarks. As far as I can tell the licenses of those underlying models is compatible with) Tj
+T*
+(being used in this way - Gemma 4 is Apache 2.0 licensed \(and not bound by the janky additional) Tj
+T*
+(Gemma Terms of Use that afflicted the previous Gemma models\) and Qwen 3.5 is Apache 2.0) Tj
+T*
+(licensed as well. I've been running the model using LM Studio and the) Tj
+T*
+(ornith-1.0-35b-Q4_K_M.gguf \(20GB\) GGUF, hooked up to Pi . Initial impressions are very good -) Tj
+T*
+(it seems to be able to run the agent harness over many tool calls in a proficient way. Here's a) Tj
+T*
+(terminal session where I asked it to "find the code that decodes the actor cookie" and then) Tj
+T*
+("find the code that opens the insert dialog when thebutton is clicked" against a Datasette) Tj
+T*
+(checkout, which it handled with ease. I also had it draw this pelican , which came out at 103) Tj
+T*
+(tokens/sec...) Tj
+T*
+() Tj
+T*
+(4. I turned my prologue into a short video) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Mon, 29 Jun 2026) Tj
+T*
+(02:12:56 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/my-prologue-to-short-video) Tj
+T*
+(It's hard to write a whole book. So for now at least, I've turned the prologue of my book into) Tj
+T*
+(a short video. I hope you enjoy it.) Tj
+T*
+() Tj
+T*
+(5. Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and) Tj
+T*
+(Photos) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-30T00:59:08Z) Tj
+T*
+(Link: https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-ph) Tj
+T*
+(otos-exposed-tata-data-leak-2026-06-29/) Tj
+T*
+(Munsif Vengattil, Aditya Kalra, and Stephen Nellis, reporting for Reuters: Sensitive lists of) Tj
+T*
+(components and suppliers, ?and photos of Apple?s upcoming iPhone 18 Pro models are part of) Tj
+T*
+(files posted on the dark web by the ransomware group that stole data from the U.S. firm?s) Tj
+T*
+(Indian supplier Tata Electronics, according to documents and a source. The exposure threatens) Tj
+T*
+(the carefully negotiated business of building the iPhone, which Apple assembles from a thicket) Tj
+T*
+(of suppliers worldwide. It could also upset Apple and its relationship with Tata given most of) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4556 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(the supplier arrangements are fiercely protected by Apple, and could also hand rivals,) Tj
+T*
+(counterfeiters and its own vendors a ?view of who makes what. [...] Apple ?considers this) Tj
+T*
+(detail sensitive and is concerned about the documents being shared on the dark web as they) Tj
+T*
+(relate to unreleased models, according to the person familiar with the matter. The data maps) Tj
+T*
+(suppliers to iPhone parts, which Apple does not disclose in its public database of suppliers,) Tj
+T*
+(the person added. In all, the documents detail hundreds of parts to be on the upcoming iPhone) Tj
+T*
+(18 Pro models. The records also show where Apple draws a part from several suppliers and wh...) Tj
+T*
+() Tj
+T*
+(6. [Sponsor] Day One Journal) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-29T23:17:38Z) Tj
+T*
+(Link: https://dayoneapp.com/blog/introducing-daily-chat/) Tj
+T*
+(Day One recognizes that many people struggle with journaling not because they can?t write, but) Tj
+T*
+(because they don?t know how to begin or what a ?good? journal entry about their day looks like.) Tj
+T*
+(That?s why we built Daily Chat, a guided reflection experience that helps you talk through your) Tj
+T*
+(day, organize your thoughts, and shape them into a journal entry. Early testers commented: ?) Tj
+T*
+(Day One?s new Daily Chat is a true game changer for my daily journaling. The AI-powered chat) Tj
+T*
+(makes capturing thoughts effortless and inspires creativity like never before. Writing my diary) Tj
+T*
+(has never been this intuitive and fun! ? Try it for yourself, it will change the way you think) Tj
+T*
+(about journalling. ?) Tj
+T*
+() Tj
+T*
+(7. The New York Times: ?Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at) Tj
+T*
+(59?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-29T00:25:37Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html?unlocked_article_code=1.) Tj
+T*
+(t1A.AyPT.p7GhDrDcJSfa) Tj
+T*
+(Clay Risen, writing for The New York Times \(gift link\): Mr. Malik started his blog just as the) Tj
+T*
+(dot-com bubble burst, leading to a recession that also took down many of the journalism) Tj
+T*
+(start-ups that wrote about tech, like The Industry Standard and Inside.com. He was among the) Tj
+T*
+(most prominent of the writers who quickly filled the gap, covering Silicon Valley with a) Tj
+T*
+(mixture of hot scoops and sharp opinions that quickly made Gigaom a must-read. ?The Android OS) Tj
+T*
+(leaves me feeling like one feels three hours after having Chinese food: a tad empty,? he wrote) Tj
+T*
+(in a 2010 post that neatly summarized Google?s struggles to move beyond its roots as a search) Tj
+T*
+(platform. ?Google has to learn the art of engagement ? something particularly challenging.?) Tj
+T*
+(Lovely, warm, accurate and fair obituary. This pulled snippet is a great one. Early Android as) Tj
+T*
+(Chinese takeout is such a deft analogy, and the piece really isn?t about Android specifically) Tj
+T*
+(but Google institutionally. Not speeds and feeds, but can they make products with a soul? With) Tj
+T*
+(heart? Om?s pessimism was obvious, and I?d say, prescient. He had a rare ability to see around) Tj
+T*
+(corners, and to pick out from the horde of new companies the ones that were goi...) Tj
+T*
+() Tj
+T*
+(8. Derivative equals inverse) Tj
+T*
+(Source: John D. Cook | Published: Tue, 30 Jun 2026 01:06:12 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/) Tj
+T*
+(Here?s kind of a strange problem with an interesting solution: find a function f such that the) Tj
+T*
+(derivative of f equals the inverse of f for all positive x. f ?\(x\) = f?1\(x\) This is a) Tj
+T*
+(differential equation, but a very unusual one, one that cannot be solved using any of the) Tj
+T*
+(techniques taught in a class on differential equations. [?] The post Derivative equals inverse) Tj
+T*
+(first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Who you gonna believe: Grok or the docs?) Tj
+T*
+(Source: John D. Cook | Published: Mon, 29 Jun 2026 12:12:05 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/29/who-you-gonna-believe/) Tj
+T*
+(The calculator utility bc has a minimal math library. For example, there?s no tangent function) Tj
+T*
+(because you?re expected take the ratio of sine and cosine. \(The Gnu version of bc does have a) Tj
+T*
+(function for tangent, but the POSIX version does not.\) And yet bc includes support for Bessel) Tj
+T*
+(functions J\(x\). The bc function j [?] The post Who you gonna believe: Grok or the docs? first) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4744 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. There's a plague of Googlebot impersonation going on \(in June 2026\)) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-29T03:19:28Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague) Tj
+T*
+(A while back I wrote about how claiming to be Googlebot is now a bad idea , where I noted that) Tj
+T*
+(there were \(reports of\) malicious crawlers out there impersonating Googlebot and other) Tj
+T*
+(legitimate big crawlers and at the same time, Google and other crawler operators published the) Tj
+T*
+(IP address ranges their crawlers used. You could put these two together to block these) Tj
+T*
+(impersonators: Anything claiming to be Googlebot that is not from a listed Google IP is) Tj
+T*
+(extremely suspicious and in this day and age of increasing anti-crawler defenses, blocking all) Tj
+T*
+('Googlebot' activity that isn't from one of their listed IP ranges is an obvious thing to do.) Tj
+T*
+(After I wrote that entry, I quietly went and added support for blocking crawler impersonators) Tj
+T*
+(to DWiki , the wiki-engine that powers Wandering Thoughts , and set it up for a few big) Tj
+T*
+(crawlers with published IP address ranges. When I did this, I didn't expect to block very much,) Tj
+T*
+(and for months that was indeed what happened; I'd get a few attempts once in a while. Then,) Tj
+T*
+(this June, the floodgates opened. For weeks, I've been seeing hundreds of requests a day) Tj
+T*
+(claiming to be Googlebot \(on a few days, thousands of requests\). The requests come from a) Tj
+T*
+(variety o...) Tj
+T*
+() Tj
+T*
+(11. Unbundling the standard library) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-06-29T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html) Tj
+T*
+(I got sent a link to a pull request against Dan Burton ?s composition , a tiny Haskell package) Tj
+T*
+(whose whole gimmick is that it depends on nothing, not even base . The upcoming GHC 10.2 breaks) Tj
+T*
+(it: built-in names resolve through a real module, GHC.Essentials , which is in base , so from) Tj
+T*
+(10.2 every package picks up an implicit base dependency whether the cabal file declares one or) Tj
+T*
+(not. The PR added a flag to opt out of that. Dan closed it and shipped a 2.0 that depends on) Tj
+T*
+(base like everything else, on the grounds that the zero-dependency claim had always been a) Tj
+T*
+(polite fiction about where the compiler?s wired-in identifiers came from. The zero-dependency) Tj
+T*
+(claim was always a question of where the line falls between the compiler and its standard) Tj
+T*
+(library, and in GHC 10.2 that line moved by one module. That sent me off cataloguing the same) Tj
+T*
+(boundary in other ecosystems, but the part I didn?t expect was how much the answer changes what) Tj
+T*
+(a vulnerability advisory looks like. Advisory format The clearest case I found is Ruby Bug) Tj
+T*
+(#20516 : Ruby 3.3.2 shipped weeks after the fix for CVE-2024-35176 still bundling the) Tj
+T*
+(vulnerable rexml 3.2.6, because the fix had gone out as a gem release and the copy i...) Tj
+T*
+() Tj
+T*
+(12. Notes from Bryan Cantrill?s ?Intelligence is not Enough?) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 28 Jun 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/intelligence-isnt-enough/) Tj
+T*
+(I quite enjoyed this talk from Bryan Cantrill where he discusses the difficult engineering) Tj
+T*
+(problems they overcame while working on their company Oxide . Some of the problems they ran) Tj
+T*
+(into were bugs. But these weren?t any ordinary bugs, they were company-destroying bugs: bugs) Tj
+T*
+(that, if they couldn?t be fixed, would sink the entire company. And the difficulty in solving) Tj
+T*
+(these bugs was that they had no precedent. Any documentation or knowledge they could find) Tj
+T*
+(around the symptoms of the problem was actively incorrect. In fact, Bryan says that the team?s) Tj
+T*
+(breakthroughs on these bugs were solutions that an artificial super intelligence would?ve never) Tj
+T*
+(suggested because they ran against all known and available reasoning, documentation, and) Tj
+T*
+(knowledge. His point being: intelligence isn?t everything. Human values are still incredibly) Tj
+T*
+(important. Intelligence alone does not solve problems like [the ones we encountered]. Our) Tj
+T*
+(ability to solve these problems had nothing to do with our collective intelligence as a team.) Tj
+T*
+(We?ve got a terrific team, but it?s a lot more than just intelligence. And in particular for) Tj
+T*
+(these [kinds of] problems, and many like them, we had to summon the elements of our chara...) Tj
+T*
+() Tj
+T*
+(13. Precise, consistent, reliable code coverage) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2006 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: the website of jyn | Published: 2026-06-11T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/talks/coverage/) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(14. My favorite keyboards) Tj
+T*
+(Source: Fabien Sanglard | Published: 28 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/keyboards/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: Gemini is better than search because Google enshittified search \(29 Jun) Tj
+T*
+(2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 29 Jun 2026 16:34:57) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/29/arsonist-firefighters/) Tj
+T*
+(Today's links Gemini is better than search because Google enshittified search: We're All Trying) Tj
+T*
+(To Find The Guy Who Did This. Hey look at this: Delights to delectate. Object permanence:) Tj
+T*
+(Microsoft antitrust overturned; Scammer carves C64; RIP Jim Baen; GOP rep to constituent's) Tj
+T*
+(child: "drop dead" \(literally\); CCTVs jacked for botnet; Olympic profitability lie; Human) Tj
+T*
+(factors in health infosec; Exfiltration via computer fans; Congress's summer schedule: 9) Tj
+T*
+(working days; Antitrust is political antigrav; Ted Chiang's 72 Letters; Microsoft antitrust) Tj
+T*
+(appeal; Vinge on privacy; Breaking open the web; Bernie on Brexit; "The Perdition Score";) Tj
+T*
+(Intuit v Child Tax Credit. Upcoming appearances: London, Edinburgh, Sydney, Melbourne,) Tj
+T*
+(Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Gemini is better than search because Google enshittified search) Tj
+T*
+(\(permalink\) Write a critical AI book, and you become everyone's confessor for their AI sins.) Tj
+T*
+(People in my life keep telling me about their guilty AI pleasures, in search of an explanation,) Tj
+T*
+(absolution or condem...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004458 00000 n 
+0000004584 00000 n 
+0000009192 00000 n 
+0000009318 00000 n 
+0000014114 00000 n 
+0000014240 00000 n 
+0000016299 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16427
+%%EOF
