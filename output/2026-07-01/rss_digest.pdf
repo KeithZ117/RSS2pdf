@@ -1,0 +1,658 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4427 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-01 09:50:33) Tj
+T*
+() Tj
+T*
+(1. Quoting Anthropic) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-30T23:58:15+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything) Tj
+T*
+(We?ve received notice that the Department of Commerce has lifted export controls on Claude) Tj
+T*
+(Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. ?) Tj
+T*
+(Anthropic , on Twitter Tags: anthropic , claude , generative-ai , claude-mythos , ai , llms) Tj
+T*
+() Tj
+T*
+(2. Nano Banana 2 Lite) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-30T22:15:35+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything) Tj
+T*
+(Nano Banana 2 Lite Also known as Gemini 3.1 Flash Lite Image \( gemini-3.1-flash-lite-image in) Tj
+T*
+(their API \), this is the "fastest and cheapest Gemini image model, engineered for velocity and) Tj
+T*
+(scale". I used AI studio to run this prompt: Do a where's Waldo style image but it's where is) Tj
+T*
+(the raccoon holding a ham radio I like that one better than the results I got from the other) Tj
+T*
+(Nano Banana models when I tried this back in April. It spelled Forest Festival wrong in two) Tj
+T*
+(different ways though. Via Hacker News Tags: google , ai , generative-ai , llms , gemini ,) Tj
+T*
+(text-to-image , llm-release , nano-banana) Tj
+T*
+() Tj
+T*
+(3. What's new in Claude Sonnet 5) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-30T21:23:02+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything) Tj
+T*
+(What's new in Claude Sonnet 5 Claude Sonnet 5 came out this morning . I always head straight) Tj
+T*
+(for the "what's new" developer docs because they tend to have more actionable information than) Tj
+T*
+(the official announcement post. Anthropic say of Sonnet 5 that "its performance is close to) Tj
+T*
+(that of Opus 4.8, but at lower prices". The system card helps explain how they were able to) Tj
+T*
+(release the model without being blocked by the US government: Sonnet 5 is significantly less) Tj
+T*
+(capable at cyber tasks than Mythos 5: its safeguards are thus similar to those we apply to Opus) Tj
+T*
+(4.7 and Opus 4.8 \(models that are more capable than Sonnet 5 but much less capable than Mythos) Tj
+T*
+(5\). Of note from the "what's new" API changes: Sampling parameters temperature , top_p , top_k) Tj
+T*
+(are no longer supported. It has a 1 million token context window and 128,000 maximum output) Tj
+T*
+(tokens. It features "the same set of tools and platform features as Claude Sonnet 4.6" Adaptive) Tj
+T*
+(thinking is on by default, unless you specify "thinking": {type: "disabled"} . The pricing is) Tj
+T*
+(the same as Sonnet 4.6: $3/million input, $15/million input, with an introductory discount to) Tj
+T*
+($2/$10 until 31st August. But... The model has a new tokenizer, where "T...) Tj
+T*
+() Tj
+T*
+(4. Gnome) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-30T20:54:32Z) Tj
+T*
+(Link: https://lexfriedman.com/gnome/) Tj
+T*
+(Gnome is a deceptively clever animated GIF app by Lex Friedman: The truest thing about animated) Tj
+T*
+(GIFs is that they are a critical pillar of modern human communication, and yet getting one into) Tj
+T*
+(a Slack message or an iMessage thread or an email reply usually requires opening a browser,) Tj
+T*
+(navigating to a website, searching, right-clicking, copying, switching back, pasting, and) Tj
+T*
+(apologizing for the delay. By then the moment has passed, and the joke is dead, and what was) Tj
+T*
+(the point of any of this, really? Gnome lives in your Mac?s menubar. You hit a keyboard) Tj
+T*
+(shortcut. A little search window appears. You type what you?re looking for ? weird al , shrug ,) Tj
+T*
+(nailed it , that?s a paddlin? ? and a grid of GIFs appears. Click the one you want. It?s now on) Tj
+T*
+(your clipboard. Paste it wherever you were typing. Joke saved. World improved. That?s really) Tj
+T*
+(the whole app. It does exactly that, and it gets out of the way. No account. No sign-in. No) Tj
+T*
+(newsletter. Just GIFs, faster. When Friedman launched Gnome last month , it was Mac-only. Since) Tj
+T*
+(then he?s already added an iOS version , and they sync/coordinate nicely. And if you have a) Tj
+T*
+(local folder of GIFs, you can connect that to Gnome and it?ll show results from...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4527 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(5. Supreme Court Agrees to Review Apple?s Petition Regarding Civil Contempt Finding in) Tj
+T*
+(?Apple v. Epic Games?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-30T20:12:08Z) Tj
+T*
+(Link: https://www.supremecourt.gov/orders/courtorders/063026zor_3f14.pdf) Tj
+T*
+(Speaking of the Supreme Court?s end-of-term rulings , they today agreed to grant certiorari to) Tj
+T*
+(Apple?s petition from last month , ordering: APPLE INC. V. EPIC GAMES, INC. The petition for a) Tj
+T*
+(writ of certiorari is granted limited to Question 1 presented by the petition. Question 1) Tj
+T*
+(regarded the civil contempt finding ? basically, whether Apple could be held in contempt for) Tj
+T*
+(violating the spirit of the injunction by charging a commission on external payments when the) Tj
+T*
+(letter of the injunction said nothing forbidding commissions on payments. Question 2 raised by) Tj
+T*
+(Apple regarded the scope of the injunction ? arguing that even if the contempt finding were) Tj
+T*
+(upheld, that it should apply only to Epic, not to all developers in the U.S. App Store. \(I) Tj
+T*
+(decided against mentioning it in my article last month, ? The Fonts of the U.S. Federal Courts) Tj
+T*
+(?, but in stark contrast to the handsomeness and dignity with which their decisions are typeset) Tj
+T*
+(\(in Century Schoolbook\), the Court?s daily orders are, inexplicably, set in Lucida Sans) Tj
+T*
+(Typewriter .\) ?) Tj
+T*
+() Tj
+T*
+(6. Supreme Court Upholds Birthright Citizenship in 6-3 Decision) Tj
+T*
+(Source: Daring Fireball | Published: 2026-06-30T19:40:38Z) Tj
+T*
+(Link: https://talkingpointsmemo.com/edblog/the-birthright-citizenship-decision-is-more-evidence) Tj
+T*
+(-for-court-reform/sharetoken/e2bf9547-fa9b-468c-8af3-aa09e72ca698) Tj
+T*
+(Josh Marshall, writing at TPM \(gift link\): As you?ve seen, the Supreme Court upheld the) Tj
+T*
+(constitutionality of birthright citizenship by a 6 ? or perhaps 5Ω ? vote margin. See Kate) Tj
+T*
+(Riga?s report on the majority decision and Josh Kovensky?s piece on the dissenters? goal of) Tj
+T*
+(doing away with birthright citizenship. I repeat my point from yesterday which is that the) Tj
+T*
+(occasional non-corrupt decision doesn?t make the Court any less corrupt or in need of reform.) Tj
+T*
+(In this case, in a sane world, the dissents from Neil Gorsuch, Samuel Alito and Clarence Thomas) Tj
+T*
+(would on their own be sufficient basis for impeachment and removal from office. One might as) Tj
+T*
+(well believe or pretend to believe that the federal senate is unconstitutional despite its) Tj
+T*
+(being unambiguously written into the structure of the document itself. The level of abuse of) Tj
+T*
+(power that is the basis of these dissents can only be seen as criminal in nature and grows from) Tj
+T*
+(the culture of corruption and impunity that now reigns on the Court. The 14th Amendment starts) Tj
+T*
+(: All persons born or naturalized in the United States, and subject to the jurisdiction) Tj
+T*
+(thereof, are citizens of the United States and of the State wherein they reside. The idea t...) Tj
+T*
+() Tj
+T*
+(7. A compatibility note on the abuse of Windows window class extra bytes) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 30 Jun 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260630-00/?p=112488) Tj
+T*
+(Finding an illicit place to hide data. The post A compatibility note on the abuse of Windows) Tj
+T*
+(window class extra bytes appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. The evolution of window and class extra bytes in Windows) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 29 Jun 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260629-00/?p=112484) Tj
+T*
+(The intended usage is encoded in the prefix. The post The evolution of window and class extra) Tj
+T*
+(bytes in Windows appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. The Dating App Plot Device) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Tue, 30 Jun 2026) Tj
+T*
+(07:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/dating-plot-device) Tj
+T*
+(I've always been interested in how dating apps work. You really only have two choices if you) Tj
+T*
+(want to get in the business. Help people find a match, and they will never come back Make) Tj
+T*
+(people pay and keep them on the platform as long as possible. Let's pretend for a second that) Tj
+T*
+(we actually want people to find love. Love is such a weird thing that we don't even know how to) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4592 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(define it properly. Ask two people what it means, and you will get five plausible definitions.) Tj
+T*
+(If you approach it programmatically, then you will likely look into some measurable metrics to) Tj
+T*
+(match people and then hope that love emerges somehow. In my quest to find what the ideal dating) Tj
+T*
+(app would look like, I interviewed a couple of my friends that use those apps. I quickly gave) Tj
+T*
+(up when I realized that I don't have a clue on how people actually use the apps. The first) Tj
+T*
+(comment that threw me off was when my single friend told me of an app where she found some) Tj
+T*
+(pretty good dates. How can you find some good dates and remain single? And what made them good?) Tj
+T*
+(The more questions I asked, the less I understood. I guess I got lucky. I used a dating app for) Tj
+T*
+(a brief time, and before I knew it I was married. I never got to experie...) Tj
+T*
+() Tj
+T*
+(10. DNA Sequence Alignment and Kings) Tj
+T*
+(Source: John D. Cook | Published: Wed, 01 Jul 2026 00:21:21 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/30/dna-sequence-alignment-and-kings/) Tj
+T*
+(This morning I wrote a post that included the central Delannoy numbers. The nth central) Tj
+T*
+(Delannoy number Dn counts the number of ways a king can move from one corner of a chessboard to) Tj
+T*
+(the diagonally opposite corner without backtracking. The more general Delannoy numbers Dm,n are) Tj
+T*
+(the analogy for an m ◊ n rectangular board, not [?] The post DNA Sequence Alignment and Kings) Tj
+T*
+(first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Distinguishing variables from parameters) Tj
+T*
+(Source: John D. Cook | Published: Tue, 30 Jun 2026 18:51:36 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/30/variables-and-parameters/) Tj
+T*
+(Imagine the following dialog. Professor: f is a function of a real variable x that takes a real) Tj
+T*
+(parameter k. Student: What?s a parameter? Professor: It?s a constant that can vary. Student:) Tj
+T*
+(Then if it can vary, isn?t it a variable? Professor: Sorta, but no not really. This) Tj
+T*
+(conversation plays out over and over, and unfortunately it often [?] The post Distinguishing) Tj
+T*
+(variables from parameters first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Silver Rectangles and the Ways of Kings) Tj
+T*
+(Source: John D. Cook | Published: Tue, 30 Jun 2026 14:36:14 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/06/30/silver-kings/) Tj
+T*
+(Golden rectangles The defining property of golden rectangle is that if you stick a square on) Tj
+T*
+(its longer side, you get another golden rectangle. The smaller vertical rectangle is similar to) Tj
+T*
+(the larger horizontal rectangle. This means ? / 1 = \(1 + ?\) / ? which tells us ?≤ = 1 + ? and) Tj
+T*
+([?] The post Silver Rectangles and the Ways of Kings first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(13. As expected, using kexec to switch to a new Ubuntu kernel works) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-06-30T03:12:23Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuKexecRestartWorks) Tj
+T*
+(For a long time, I ignored kexec both for my own personal machines and at work . I knew it) Tj
+T*
+(existed but I never attempted to use it. That changed recently when I realized we could use) Tj
+T*
+(kexec to start a network \(re\)install environment without needing our servers to actually have) Tj
+T*
+(network booting enabled \(which they mostly don't currently, for historical reasons\). This has) Tj
+T*
+(led me to do some additional experimentation with kexec . The most recent experiment was) Tj
+T*
+(updating to a new Ubuntu kernel and then using ' kexec ' to switch to it instead of ' reboot '.) Tj
+T*
+(On Ubuntu, this can be pretty simple due to some short symlinks, more or less: kexec -l) Tj
+T*
+(/boot/vmlinuz --initrd /boot/initrd.img --append "$\(cat /proc/cmdline\)" systemctl kexec But I'm) Tj
+T*
+(not sure we're going to actually use this in anything except very unusual circumstances. The) Tj
+T*
+(good side of using kexec instead of reboot is that you don't have to sit through your BIOS) Tj
+T*
+(slowly fiddling around with hardware and then GRUB doing GRUB things. This gets your system) Tj
+T*
+(back on the air anywhere between 'somewhat faster' and 'much faster', depending on how slow) Tj
+T*
+(your BIOS firmware is \(and also your GRUB timeout\). Some of our servers have firmware that...) Tj
+T*
+() Tj
+T*
+(14. Book Review: Fake Creativity by Blake Loch ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 30 Jun 2026 11:34:20 +0000) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4818 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/) Tj
+T*
+(Thanks to BookSirens for providing me with a review copy. This is an intriguing self-published) Tj
+T*
+(novel with a backstory almost as interesting as the plot. The story is a descent into paranoia) Tj
+T*
+(as an author is convinced that an AI is plagiarising his work. As the madness takes over, he's) Tj
+T*
+(forced to confront whether his creative processes are genuine or not. It raises some excellent) Tj
+T*
+(questions about ?) Tj
+T*
+() Tj
+T*
+(15. Notes from June 2026) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Tue, 30 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/notes-from-june-2026/) Tj
+T*
+(Chicago?s weather is pretty lousy most of the year, but when it?s nice, it?s very nice. June) Tj
+T*
+(blessed the city with dozens of idyllic days. But don?t worry?I still spent most of the time) Tj
+T*
+(inside on the computer. Things I did I launched my first big project at Ghost: automations !) Tj
+T*
+(It?s still in beta, but it?s one of the biggest projects I?ve led. If you happen to be a Ghost) Tj
+T*
+(publisher, please try it out and let me know what you think! For the sixteenth issue of the) Tj
+T*
+(Taper online magazine, I visualized time by breaking each unit into sixteenths . For example,) Tj
+T*
+(as I write this, I?m about 6 sixteenths through the hour. Like every Taper submission, my work) Tj
+T*
+(had to be under 2048 bytes. Links about AI ethics Generative AI continues to, mostly, be a) Tj
+T*
+(force for bad in this world: ?If AI is going to 10x our productivity across the board, that) Tj
+T*
+(means that I should be able to produce the same amount of output by midday on Monday that, in) Tj
+T*
+(the before times, would have taken all week. So can I just take Friday off?? From ?Can we have) Tj
+T*
+(the day off?? . ?AI?s PR Problem? has a partial, but scathing, enumeration of many of the) Tj
+T*
+(problems caused by generative AI. Useful as a reference. New AI resistance strateg...) Tj
+T*
+() Tj
+T*
+(16. Taking Roads and Bridges literally) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-06-30T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html) Tj
+T*
+(I spent last week at UN Open Source Week , where officials from a dozen governments stood up in) Tj
+T*
+(turn and described open source as critical infrastructure. That framing has been the standard) Tj
+T*
+(one since Nadia Eghbal?s Roads and Bridges report for the Ford Foundation in 2016, and after) Tj
+T*
+(ten years it has finally reached the audience it describes. Sitting in a UN conference room) Tj
+T*
+(full of people whose job is public infrastructure, I started wondering what it would mean to) Tj
+T*
+(stop treating the title as a metaphor and look at how bridges are actually maintained. Roads) Tj
+T*
+(and Bridges was pitched at the audience that was listening in 2016, technology companies and) Tj
+T*
+(philanthropic foundations, neither of which maintains bridges: they drive over them for free,) Tj
+T*
+(pay for them through tax, and leave the upkeep to the state. Spelling out the National Bridge) Tj
+T*
+(Inspection Standards and the Highway Trust Fund to that room would have meant describing a) Tj
+T*
+(government programme to a non-government audience, so the report stopped at the analogy and) Tj
+T*
+(asked the people present to help. The decade since produced GitHub Sponsors, Open Collective,) Tj
+T*
+(corporate OSPO budgets, and foundation grants: voluntary contributions from user...) Tj
+T*
+() Tj
+T*
+(17. Writing an LLM from scratch, part 34a -- building a JAX training loop for an LLM) Tj
+T*
+(training run) Tj
+T*
+(Source: Giles' blog | Published: Tue, 30 Jun 2026 19:00:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/06/llm-from-scratch-34a-building-a-jax-training-loop-for) Tj
+T*
+(-an-llm-training-run) Tj
+T*
+(For over a year, I've been using Sebastian Raschka 's book " Build a Large Language Model \(from) Tj
+T*
+(Scratch\) " -- and the multitude of side-projects that have branched out from reading it -- as) Tj
+T*
+(something like a curriculum for learning about modern AI. The one final task I had set myself) Tj
+T*
+(was to build and train an LLM from scratch just using my notes -- no reference to the book, no) Tj
+T*
+(reference to the model code I'd written following the book. As an output, I wanted something as) Tj
+T*
+(good as my best PyTorch model based on Raschka's code -- a base model, trained on 3.2B tokens,) Tj
+T*
+(that my \(admittedly limited\) evals ranked as being close to the original GPT-2 small's quality.) Tj
+T*
+(I wanted to use a different framework, just to make sure I wasn't parroting code that I'd) Tj
+T*
+(somehow memorised, so I asked people on Twitter which one I should use, and the winner was JAX) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4491 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(. I took a slightly different route to Raschka's book; he takes an inside-out perspective,) Tj
+T*
+(explaining things like attention, gradually building up a complete GPT-2-style model, and then) Tj
+T*
+(building a training loop on top of it. I wanted to go outside-in: I'd put together a training) Tj
+T*
+(harness to train the simplest-possible model with an API similar to...) Tj
+T*
+() Tj
+T*
+(18. Data-directed programming in Haskell \(SICP 2.4.3\)) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 30 Jun 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell) Tj
+T*
+(I have a copy of SICP, or as it is also known, The Wizard Book . This book is widely praised,) Tj
+T*
+(but I can?t take the time to work my way through all of it. Instead, I?m going to occasionally) Tj
+T*
+(jump into the parts of it that look interesting. Last week, we looked at tagged data in) Tj
+T*
+(Haskell. The authors of SICP weren?t convinced that?s the best approach, so they move on to) Tj
+T*
+(data-directed programming. We?ll do the same. Complex numbers can be stored in their) Tj
+T*
+(rectangular form, with a real and an imaginary part. They can also be stored in polar form,) Tj
+T*
+(where there?s a magnitude and an angle. Whichever way a complex number is stored, we would like) Tj
+T*
+(to be able to query it for all of these four quantities: The real coordinate in the rectangular) Tj
+T*
+(form of the complex number. The imaginary coordinate in the rectangular form. The magnitude in) Tj
+T*
+(the polar form. The angle in the polar form. \(Continue reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(19. The AI Industry Is Losing) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 30 Jun 2026 15:36:38 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/the-ai-industry-is-losing/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter. It?s $70 a year, or $7) Tj
+T*
+(a month, and in return you get a weekly newsletter that?s usually anywhere from 5,000 to 18,000) Tj
+T*
+(words, including vast, detailed analyses of NVIDIA , Anthropic and) Tj
+T*
+() Tj
+T*
+(20. Grant Sanderson ? AI and the future of math) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Tue, 30 Jun 2026 15:53:19 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/grant-sanderson-2) Tj
+T*
+(Watch now \(94 mins\) | Math is where we?ll see superintelligence first. What will it look like?) Tj
+T*
+() Tj
+T*
+(21. Pluralistic: Jo Walton's "Everybody's Perfect" \(30 Jun 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 30 Jun 2026 11:22:50) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/06/30/serenissima/) Tj
+T*
+(Today's links Jo Walton's "Everybody's Perfect": A mystical tour-de-force that makes you feel) Tj
+T*
+(like your mundane life until this point has all been a boring dream. Hey look at this: Delights) Tj
+T*
+(to delectate. Object permanence: Corruption; How much \(little\) are the AI companies making?) Tj
+T*
+(Upcoming appearances: London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend.) Tj
+T*
+(Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Jo Walton's) Tj
+T*
+("Everybody's Perfect" \(permalink\) There's a new Jo Walton book, called Everybody's Perfect.) Tj
+T*
+(Because it's a Jo Walton novel, you know in advance that three things are true about it: It is) Tj
+T*
+(beautiful; It is profound; It is unlike every other novel, including every other Jo Walton) Tj
+T*
+(novel. https://us.macmillan.com/books/9781250314055/everybodysperfect/ Now, just because it's) Tj
+T*
+(not like any other Jo Walton novel, that doesn't mean that it's not recognizably in a lineage) Tj
+T*
+(of Walton's work, especially Walton's recent novels, which reflect an amazingly fruitful deep) Tj
+T*
+(friendship and artistic relationship with the brilliant novelist and historian Ada P...) Tj
+T*
+() Tj
+T*
+(22. Weekly Update 510: Live From Mallorca with Scott Helme) Tj
+T*
+(Source: Troy Hunt | Published: Tue, 30 Jun 2026 15:42:54 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-510/) Tj
+T*
+(How's the view?! Back to business, it's now 8 years ago that Scott and I thought it would be a) Tj
+T*
+(cool idea to build Why no HTTPS? We used the site to shame companies for not implementing their) Tj
+T*
+(transport later security property, and to make it) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 37 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004703 00000 n 
+0000004829 00000 n 
+0000009408 00000 n 
+0000009534 00000 n 
+0000014178 00000 n 
+0000014304 00000 n 
+0000019175 00000 n 
+0000019303 00000 n 
+0000023847 00000 n 
+0000023975 00000 n 
+0000024063 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+24191
+%%EOF
