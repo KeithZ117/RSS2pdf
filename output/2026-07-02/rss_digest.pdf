@@ -1,0 +1,534 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4151 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-02 09:46:12) Tj
+T*
+() Tj
+T*
+(1. The AI Compass) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-30T17:39:23+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything) Tj
+T*
+(The AI Compass This political compass style quiz by bambamramfan is pretty neat - answer 29) Tj
+T*
+(questions about AI and AI ethics to see which of the 30 archetypes you best fit. I'm impressed) Tj
+T*
+(that my answers on my first time through the quiz categorized me as "The Garage Tinkerer",) Tj
+T*
+(patron saint myself! It's implemented as a single page React app using the trick to avoid the) Tj
+T*
+(necessary build step. Here's the code . Via @erisianrite.com Tags: ai , generative-ai , llms ,) Tj
+T*
+(ai-ethics) Tj
+T*
+() Tj
+T*
+(2. Have your agent record video demos of its work with shot-scraper video) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-30T16:54:26+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything) Tj
+T*
+(shot-scraper video is a new command introduced in today's shot-scraper 1.10 release which) Tj
+T*
+(accepts a storyboard.yml file defining a routine to run against a web application and uses) Tj
+T*
+(Playwright to record a video of that routine. I've written before about the importance of) Tj
+T*
+(having coding agents produce demos of their work; this is my latest attempt at enabling them to) Tj
+T*
+(do that. Here's an example video created using shot-scraper video , exercising a still in) Tj
+T*
+(development feature adding the ability to create new tables in Datasette from pasted CSV, TSV) Tj
+T*
+(or JSON data: That video was created by running this command : shot-scraper video) Tj
+T*
+(datasette-bulk-insert-storyboard.yml \\ --auth datasette-demo-auth.json --mp4 \(That --auth JSON) Tj
+T*
+(file contains a cookie , as described here in the documentation.\) Here's the) Tj
+T*
+(datasette-bulk-insert-storyboard.yml file: output : /tmp/datasette-bulk-insert-demo.webm server) Tj
+T*
+(: - uv - --directory - /Users/simon/Dropbox/dev/datasette - run - datasette - -p - 6419 -) Tj
+T*
+(--root - --secret - " 1 " - /tmp/demo.db url : http://127.0.0.1:6419/demo/tasks viewport :) Tj
+T*
+(width : 1280 height : 720 cursor : true wait_for : ' button[data-table-action="insert-row"] ') Tj
+T*
+(javascript : | \(\(\) => {...) Tj
+T*
+() Tj
+T*
+(3. shot-scraper 1.10) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-06-30T15:10:14+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything) Tj
+T*
+(Release: shot-scraper 1.10 The big new feature is shot-scraper video storyboard.yml , described) Tj
+T*
+(in detail in Have your agent record video demos of its work with shot-scraper video . Tags:) Tj
+T*
+(shot-scraper) Tj
+T*
+() Tj
+T*
+(4. ? A Tale of Two Modems) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-01T23:26:45Z) Tj
+T*
+(Link: https://daringfireball.net/2026/07/a_tale_of_two_modems) Tj
+T*
+(Cellular download speed and reception is nearly a solved problem for my needs. Battery life is) Tj
+T*
+(not.) Tj
+T*
+() Tj
+T*
+(5. PlayStation Plus and Xbox Game Pass Subscriptions) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-01T19:55:26Z) Tj
+T*
+(Link: https://daringfireball.net/linked/2026/07/01/valve-on-subsidizing-hardware) Tj
+T*
+(Following up on my earlier post on Valve?s righteous objection to selling game console hardware) Tj
+T*
+(at a loss, I should have noted that PlayStation Plus starts at $11/month \(and goes up to) Tj
+T*
+($20/month\) and Xbox Game Pass starts at $10/month \(and goes up to $23/month\). One draw of these) Tj
+T*
+(subscriptions is access to a library of game titles ? but another one is that you need one of) Tj
+T*
+(these subscriptions to play online multiplayer games. Not every game demands online access but) Tj
+T*
+(many \(most?\) do. There are very few serious PlayStation and Xbox gamers who don?t pay for a) Tj
+T*
+(subscription, and within a few years those subscriptions cost more than the \(subsidized\)) Tj
+T*
+(hardware. It?s not just about licensing fees for game titles players purchase anymore. Valve) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4382 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(didn?t make any hay over this point, but should have. Because Steam Deck and Steam Machine are) Tj
+T*
+(fundamentally more like PCs, all you need to play online multiplayer games is a free Steam) Tj
+T*
+(account. ?) Tj
+T*
+() Tj
+T*
+(6. Valve Explains Why It Doesn?t Subsidize Its Hardware Platforms) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-01T18:04:29Z) Tj
+T*
+(Link: https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing) Tj
+T*
+(Valve, in a statement to The Verge, explaining why it doesn?t sell its handheld Steam Deck or) Tj
+T*
+(new Steam Machine gaming devices at a loss \(gift link\): While this might seem like an easy) Tj
+T*
+(solution, it doesn?t align with our beliefs about how healthy ecosystems are built. If there?s) Tj
+T*
+(anything we?re religious about at Valve, it?s our belief that open systems are better in the) Tj
+T*
+(long run, for ourselves and customers. The openness of the PC ecosystem in particular has) Tj
+T*
+(enabled it to be the primary driver of hardware and software innovation, because anyone with an) Tj
+T*
+(idea for a way to do something better was able to take a shot at it. When companies sell their) Tj
+T*
+(hardware under cost for competitive advantage, or buy exclusive content for it, they?re doing) Tj
+T*
+(that to build a more closed system, one where you don?t get to choose what software you want to) Tj
+T*
+(use. We don?t want that for PC hardware, and we don?t think you should want it either. You) Tj
+T*
+(shouldn?t feel like you have to buy Valve hardware; you should be able to view it as just one) Tj
+T*
+(option alongside all the devices for playing games, and select the one that makes sense for) Tj
+T*
+(you. This means you get to decide which device fits your personal tradeoffs ar...) Tj
+T*
+() Tj
+T*
+(7. It rather involved being on the other side of this airtight hatchway: Changing) Tj
+T*
+(administrative settings) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 01 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260701-00/?p=112498) Tj
+T*
+(Unlocking the door from the inside. The post It rather involved being on the other side of this) Tj
+T*
+(airtight hatchway: Changing administrative settings appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. 2026 mid-year link clearance) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 30 Jun 2026 14:00:01 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260630-01/?p=112494) Tj
+T*
+(Made it to another midpoint. The post 2026 mid-year link clearance appeared first on The Old) Tj
+T*
+(New Thing .) Tj
+T*
+() Tj
+T*
+(9. Text AI watermarks will always be trivial to remove) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Thu, 02 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/text-ai-watermarks/) Tj
+T*
+(The European Union AI Act will begin to be enforceable in August 2026, one month from now 1 .) Tj
+T*
+(One of the biggest new requirements is Article 50 , which requires all AI outputs to be) Tj
+T*
+(?detectable as artificially generated?. In other words, if LLM providers want to do business in) Tj
+T*
+(the EU, they will have to apply a watermark to their outputs 2 : some hidden signature that can) Tj
+T*
+(be used to identify AI content. LLM text watermarking is a fascinating problem. Like the best) Tj
+T*
+(engineering problems, it is theoretically hard to solve perfectly, but has multiple partial) Tj
+T*
+(solutions: for instance, Google?s SynthID , and \(as I?ll argue\) some quiet Unicode trickery) Tj
+T*
+(from OpenAI and Anthropic. It will be interesting to see how the AI labs navigate these) Tj
+T*
+(tradeoffs before the end of the year. Why text watermarking is hard I wrote about AI) Tj
+T*
+(watermarking at the end of last year in AI detection tools cannot prove that text is) Tj
+T*
+(AI-generated . It?s easy to watermark an image, because digital images contain lots of noise) Tj
+T*
+(that the human eye can?t really see. For instance, you could apply a watermark like ?these) Tj
+T*
+(twenty pixels in these exact spots will always share a color?. Text is much, much harder.) Tj
+T*
+(Unlike images,...) Tj
+T*
+() Tj
+T*
+(10. I'm only interested in "native" installation systems) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-07-02T01:34:27Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NativeInstallersOnly) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4797 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(There are a variety of ways to automatically or semi-automatically install systems, especially) Tj
+T*
+(Linux systems and especially over the network. People have built a whole raft of them over the) Tj
+T*
+(years, often with relatively impressive capabilities. A number of them have significant levels) Tj
+T*
+(of automation and control, including for things we might want like sophisticated automatic disk) Tj
+T*
+(setup . Despite that, we're interested in approximately none of them. As a practical matter, we) Tj
+T*
+(only want to use the standard, native install systems for whatever we're running, which in this) Tj
+T*
+(case is the Ubuntu server installer. There are two reasons for this. The obvious reason is that) Tj
+T*
+(only native installers and install methods are officially supported by the Linux distribution) Tj
+T*
+(\(or whatever other free Unix we're using\), and they're also the ones that are most used in) Tj
+T*
+(practice. The native installers aren't always perfect, but other people work \(often quite a) Tj
+T*
+(lot\) on making them work well, we can find plenty of people using them, and so on. If we use) Tj
+T*
+(another installer, at the very least we're without support from the distribution. We're also) Tj
+T*
+(likely to be off the beaten path, which means fewer people running...) Tj
+T*
+() Tj
+T*
+(11. Our long path from IPMI remote installs to network installs) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-07-01T02:54:42Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPMIToNetworkInstalls) Tj
+T*
+(Once upon what's now a long while ago, we had a bunch of SunFire X2100 and X2200 1U servers) Tj
+T*
+(\(for example, they were used in our first generation ZFS fileserver \). One of the reasons that) Tj
+T*
+(I loved these servers back in the days was that for free, they came with a full IPMI / BMC) Tj
+T*
+(setup that supported both KVM over IP and virtual media. I installed any number of servers this) Tj
+T*
+(way from the comfort of my office, using the KVM over IP as if I was at the console \(because I) Tj
+T*
+(effectively was\) and the IPMI virtual media to feed a local ISO image to the server I was) Tj
+T*
+(installing. In time those servers went the way of all servers \(which is to say, into the) Tj
+T*
+(e-waste dumpster, although it took a while \) and none of our later servers gave me that) Tj
+T*
+('\(re\)install from the office' experience with their limited BMCs. For years, we lived with) Tj
+T*
+(doing in person physical installs and reinstalls of our servers \(well, I lived with that, my) Tj
+T*
+(co-workers don't care as much\). Recently we wound up with a bunch of servers in another) Tj
+T*
+(building and a need to reinstall them all with Ubuntu 26.04. This pushed me into learning about) Tj
+T*
+(UEFI network boot , working out how to network boot our customized Ubuntu ISO image , and) Tj
+T*
+(then...) Tj
+T*
+() Tj
+T*
+(12. The CRA is not about open source) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-07-01T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/07/01/the-cra-is-not-about-open-source.html) Tj
+T*
+(At FOSDEM in February and again at UN Open Source Week last week, the Cyber Resilience Act was) Tj
+T*
+(the answer on offer whenever anyone asked what governments are doing about open source) Tj
+T*
+(security, and the foundations and corporate advocates presenting it framed it as good news for) Tj
+T*
+(open source. It is the largest piece of software legislation the EU has passed, the open source) Tj
+T*
+(community spent two years lobbying over its text, and its main obligations come into force in) Tj
+T*
+(December 2027. It is also not about open source. Where open source appears in the text, it) Tj
+T*
+(appears as an exemption, a component risk, a compliance contact, or a paperwork trail. The CRA) Tj
+T*
+(is a product-safety law in the CE-mark family, the same regime that already covers toys, radio) Tj
+T*
+(equipment and machinery: rules a manufacturer must meet before selling a product in the EU,) Tj
+T*
+(with a conformity mark at the end. The CRA extends that to anything with software in it. In the) Tj
+T*
+(previous post I described this class of regulation as requiring haulage firms to certify which) Tj
+T*
+(bridges their lorries crossed while employing no bridge inspectors, and the CRA is the) Tj
+T*
+(regulation most often held up as the counterexample. Scope The things the CRA def...) Tj
+T*
+() Tj
+T*
+(13. Bring Back Crappy Forums) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-07-01T22:26:07Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17371410/online-web-forums-retrospective) Tj
+T*
+(Web forums were rough around the edges and faded in relevance as seemingly better options) Tj
+T*
+(emerged. But what if we had stuck with them?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4133 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(14. explaining myself through stories) Tj
+T*
+(Source: the website of jyn | Published: 2026-07-01T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/explaining-myself-through-stories/) Tj
+T*
+(When most people think ?river? I bet they think ?personal identity.?) Tj
+T*
+() Tj
+T*
+(15. The Winning Essays for the Big Questions About AI) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Wed, 01 Jul 2026 22:13:17 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/blog-prize-winners) Tj
+T*
+(Abolishing pandemics/ Getting out of the way of AI automation/ Learning from Honk Kong MTR's) Tj
+T*
+(business model) Tj
+T*
+() Tj
+T*
+(16. Summary of reading: April - June 2026) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-06-30T18:52:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/summary-of-reading-april-june-2026/) Tj
+T*
+("The Nuremberg Trial" by John Tusa and Ann Tusa - a detailed, meticulously researched account) Tj
+T*
+(of the Nuremberg Trials. There's not a whole lot of side questing in this book - it's all) Tj
+T*
+(focused on the trials themselves. Interesting read overall, though somewhat dry and academic.) Tj
+T*
+("Things Become Other Things: A Walking ?) Tj
+T*
+() Tj
+T*
+(17. Clickhouse is winning the Observability Wars) Tj
+T*
+(Source: matduggan.com | Published: Wed, 01 Jul 2026 13:14:03 GMT) Tj
+T*
+(Link: https://matduggan.com/clickhouse-is-winning-the-observability-wars/) Tj
+T*
+(For roughly the last ten years, a meaningful percentage of my working hours have been spent) Tj
+T*
+(thinking about observability. If you're not familiar with the term, "observability" is what we) Tj
+T*
+(call it now that "monitoring" doesn't sound expensive enough. The actual work) Tj
+T*
+() Tj
+T*
+(18. Pluralistic: Technocarcinization \(01 Jul 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 01 Jul 2026 15:14:12) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/01/ontogeny/) Tj
+T*
+(Today's links Technocarcinization: Enshittification is the great leveler. Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: Grampa's backyard Disneyland; Elizabeth Warren on) Tj
+T*
+(monopolies; Spotify v Apple \(antitrust edn\); Exxon lobbyist confesses; "When the Sparrow) Tj
+T*
+(Falls." Upcoming appearances: London, Edinburgh, Sydney, Melbourne, Brighton, London, South) Tj
+T*
+(Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin') Tj
+T*
+('em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest.) Tj
+T*
+(Technocarcinization \(permalink\) "Carcinization" is a curious biological phenomenon: given) Tj
+T*
+(enough time, across many environments, many species will evolve into crabs. The body-type of a) Tj
+T*
+(crab, with its low center of gravity, sideways gait \(useful for evading predators\), ease of) Tj
+T*
+(concealment and protected organs is suitable to many different environments:) Tj
+T*
+(https://en.wikipedia.org/wiki/Carcinisation Lately, I've watched the American Big Tech) Tj
+T*
+(platforms as they underwent their own form of technocarcinization, which is when every tech) Tj
+T*
+(company turns into Facebook. For a long time, it seemed to me that you could make sense of the) Tj
+T*
+(tech platforms by placing the...) Tj
+T*
+() Tj
+T*
+(19. Bulkdatasets AIVD en MIVD: de schaduw geheime dienst) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 01 Jul 2026 10:40:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/de-schaduwgeheimedienst/) Tj
+T*
+(Uit een vandaag verschenen onderzoeksrapport \(PDF\) blijkt dat de AIVD en MIVD slordig en soms) Tj
+T*
+(onrechtmatig omgaan met bulkdatasets. Bulkdatasets zijn grote bestanden vol data over vaak) Tj
+T*
+(miljoenen willekeurige mensen, data die op een of andere manier in het bezit van de diensten) Tj
+T*
+(gekomen is. Uit het rapport: ?De diensten kunnen bulkdatasets bijvoorbeeld verkrijgen van) Tj
+T*
+(informanten, andere overheidsorganisaties, buitenlandse inlichtingendiensten, of tegen betaling) Tj
+T*
+(van commerciÎle partijen. De diensten kunnen ook bijzondere bevoegdheden inzetten om) Tj
+T*
+(bulkdatasets te verwerven.) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 37 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004420 00000 n 
+0000004546 00000 n 
+0000008980 00000 n 
+0000009106 00000 n 
+0000013955 00000 n 
+0000014081 00000 n 
+0000018267 00000 n 
+0000018395 00000 n 
+0000018483 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+18611
+%%EOF
