@@ -1,0 +1,458 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4600 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-03 12:42:51) Tj
+T*
+() Tj
+T*
+(1. April Report From Ookla: ?A Return to mmWave 5G?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-02T22:30:40Z) Tj
+T*
+(Link: https://www.ookla.com/articles/a-return-to-mmwave-5g) Tj
+T*
+(Mike Dano, in a long \( too long, I say\) report for Ookla \(makers of the nifty Speedtest app \):) Tj
+T*
+(Further, few other countries in the world followed in the mmWave footsteps of the U.S., with) Tj
+T*
+(international spectrum regulators instead putting a focus on releasing mid-band spectrum for) Tj
+T*
+(5G. However, mmWave networks haven?t disappeared. New drive test data from Ookla?s RootMetrics,) Tj
+T*
+(coupled with crowdsourced information from Ookla?s Speedtest Insights, shows the ongoing growth) Tj
+T*
+(of mmWave 5G networks in the U.S., as well as the remarkable performance characteristics of) Tj
+T*
+(those systems. Across all of RootMetrics? testing in the second half of 2025, in both urban) Tj
+T*
+(\(metro\) and rural \(state\) areas, mmWave showed up in 2.2% of Verizon?s samples. For AT&T, that) Tj
+T*
+(figure was 0.2%. For T-Mobile, that figure was almost 0% \(and as a result, this report will) Tj
+T*
+(mainly focus on Verizon and AT&T\). Verizon?s mmWave connections showed up in 75 markets in the) Tj
+T*
+(first half of 2024 \(out of a total of 125 markets\), a figure that rose to 91 in the second half) Tj
+T*
+(of 2025. That?s almost triple the number of markets where RootMetrics recorded AT&T mmWave) Tj
+T*
+(systems in the second half of 2025. 5G mmWave from T-Mobile, meanwhile, o...) Tj
+T*
+() Tj
+T*
+(2. Introducing the Safari MCP Server for Web Developers) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-02T21:55:31Z) Tj
+T*
+(Link: https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/) Tj
+T*
+(Saron Yitbarek, writing on the WebKit blog, with a nice post-WWDC surprise: In Safari) Tj
+T*
+(Technology Preview 247 , we?re introducing the Safari MCP server ? a Model Context Protocol) Tj
+T*
+(server for web developers that makes your web development and debugging workflow faster and) Tj
+T*
+(more powerful. We know agents are increasingly integral to the coding process and the Safari) Tj
+T*
+(MCP server gives your agent the ability to know how your code actually renders in the browser) Tj
+T*
+(by connecting it to a Safari browser window. Any MCP-compatible client can connect to the) Tj
+T*
+(Safari MCP server. By connecting your agent to a Safari browser window, your agent can emulate) Tj
+T*
+(what your users experience, giving it the information it needs to debug more autonomously, like) Tj
+T*
+(access to the DOM, network requests, screenshots, and console output. MCP is Anthropic?s open) Tj
+T*
+(protocol , so it was designed for Claude, but all sorts of other tools use it too ? Gemini CLI,) Tj
+T*
+(Cursor, GitHub Copilot, and more. MCP really is open, not ?open?. ?) Tj
+T*
+() Tj
+T*
+(3. EveryMac Turns 30) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-02T21:31:04Z) Tj
+T*
+(Link: https://everymac.com/whatsnew/) Tj
+T*
+(EveryMac: Thirty years is a long time ? and a great deal has changed since then ? but what has) Tj
+T*
+(not changed is that EveryMac.com has been there to provide you with detailed info on every Mac) Tj
+T*
+(from the original 128k to the current line. Thank you very much for your support through the) Tj
+T*
+(years. Daring Fireball turns 24 next month, which doesn?t sound that much younger than 30. But) Tj
+T*
+(the way things work \(in my mind at least\) is that sites that are still around but were) Tj
+T*
+(established years prior to my starting Daring Fireball are the real ?old guard?. I still feel) Tj
+T*
+(like DF is a newcomer next to a site like EveryMac. 1996 for chrissakes. Steve Jobs wasn?t even) Tj
+T*
+(back at Apple yet. What a great run it?s been and continues to be for EveryMac. Michael Tsai) Tj
+T*
+(\(whose eponymous blog is the same age as Daring Fireball\) asked EveryMac proprietor Brock Kyle) Tj
+T*
+(how it started . The final line of his answer: ?I miss the ethos of those days.? ?) Tj
+T*
+() Tj
+T*
+(4. llm-coding-agent 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-02T19:33:12+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything) Tj
+T*
+(Release: llm-coding-agent 0.1a0 Another Fable 5 experiment. Now that my LLM library has evolved) Tj
+T*
+(into more of an agent framework it's time to see what a simple coding agent would look like) Tj
+T*
+(built on it. I started a new Python library using my python-lib-template-repository GitHub) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4805 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(template repository, then ran these two prompts \(here's the Claude Code for web transcript \):) Tj
+T*
+(Write a spec.md for this project - it will depend on the latest ?llm? alpha from PyPI and) Tj
+T*
+(implement a Claude code style coding agent complete with tools for reading and editing files) Tj
+T*
+(and executing commands Then: Commit the spec, then build it using red/green TDD in a series of) Tj
+T*
+(sensible commits \(each with passing tests and updated docs\) - occasionally manually test it) Tj
+T*
+(using the OpenAI API key in your environment Here's the spec , the resulting README file , and) Tj
+T*
+(the sequence of commits . I've shipped a slop-alpha to PyPI, so you can run the new agent like) Tj
+T*
+(this: uvx --prerelease=allow --with llm-coding-agent llm code It's pretty good for a first) Tj
+T*
+(attempt! Here's the \(Fable-authored\) README , which lists recipes like llm code --yolo and llm) Tj
+T*
+(code --allow "pytest*" --allow "git diff*" . It also presents a Python API based...) Tj
+T*
+() Tj
+T*
+(5. Using DSPy to evaluate and improve Datasette Agent's SQL system prompts) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-02T18:25:00+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything) Tj
+T*
+(Research: Using DSPy to evaluate and improve Datasette Agent's SQL system prompts One of this) Tj
+T*
+(morning's AIE keynotes covered dspy , which reminded me I've been meaning to see if it could) Tj
+T*
+(help me improve the system prompt used by Datasette Agent - so I fired off an asynchronous) Tj
+T*
+(research task in Claude Code for web using Claude Fable 5: Pip install the latest Datasette) Tj
+T*
+(alpha and datasette-agent and dspy - then figure out how to use dspy to evaluate and improve) Tj
+T*
+(the main system prompts used by Datasette Agent for the feature where it can execute read only) Tj
+T*
+(SQL queries to answer user questions about data. Fable chose to test using GPT 4.1 mini and) Tj
+T*
+(nano, and identified several promising looking directions for improvements. I particularly like) Tj
+T*
+(this one: The schema listing gives only table names; the "don't call describe_table if you) Tj
+T*
+(already have the information" advice caused column-name guessing \(page_count, o.order_id,) Tj
+T*
+(first_name\) and error-retry loops in baseline traces. Either include column names in the) Tj
+T*
+(prompt's schema listing or soften that advice. Tags: ai , datasette , generative-ai , llms ,) Tj
+T*
+(evals , dspy , datasette-agent , claude-mythos-fable) Tj
+T*
+() Tj
+T*
+(6. Understand to participate) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-02T17:07:14+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything) Tj
+T*
+(I saw Geoffrey Litt speak at AIE yesterday, and one framing he used particularly resonated with) Tj
+T*
+(me: Understand to participate Geoffrey was talking about the challenge of collaborating with) Tj
+T*
+(coding agents as they construct increasingly large and sophisticated changes, and the need to) Tj
+T*
+(avoid taking on cognitive debt as your understanding drifts from how the code actually works.) Tj
+T*
+(His argument is that you need to understand the code to a depth that enables you to participate) Tj
+T*
+(further with the model: You can learn what the agent is doing to make sure you can be an active) Tj
+T*
+(participant in the creative process. [...] You need a rich set of concepts in your mind to) Tj
+T*
+(think creatively and fluently about how to move something forward. If you're lacking that) Tj
+T*
+(fluency, your ability to participate in the project is meaningfully limited. The AIE talks are) Tj
+T*
+(all recorded - all 300+ of them! - and should be trickling out over the next three weeks.) Tj
+T*
+(Geoffrey's is one that I recommend catching on YouTube. Geoffrey also published a thread) Tj
+T*
+(version of his talk on Twitter. Tags: geoffrey-litt , coding-agents , cognitive-debt ,) Tj
+T*
+(generative-ai , ai , llms) Tj
+T*
+() Tj
+T*
+(7. The case of the thread executing from an unloaded third-party DLL) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 02 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260702-00/?p=112500) Tj
+T*
+(Oops, I didn't realize that I was still doing that. The post The case of the thread executing) Tj
+T*
+(from an unloaded third-party DLL appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. FBI Seizes NetNut Proxy Platform, Popa Botnet) Tj
+T*
+(Source: Krebs on Security | Published: Thu, 02 Jul 2026 19:27:33 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/) Tj
+T*
+(The Federal Bureau of Investigation \(FBI\) said today it worked with industry partners to seize) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4510 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(hundreds of domains associated with NetNut, a sprawling residential proxy service operated by) Tj
+T*
+(the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes) Tj
+T*
+(roughly two weeks after KrebsOnSecurity published findings from multiple security firms) Tj
+T*
+(connecting NetNut to the Popa botnet, a collection of at least two million devices that have) Tj
+T*
+(been compromised by malicious software with little or no consent from victims.) Tj
+T*
+() Tj
+T*
+(9. Discovering rsync's -W option and our use for it) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-07-03T02:42:01Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RsyncWOptionUse) Tj
+T*
+(Suppose, not hypothetically, that you use rsync to push an encrypted backup file from the) Tj
+T*
+(machine it's created on to a fileserver , where it will be backed up by your regular backup) Tj
+T*
+(system . Because this encrypted backup file is backed up every day, you only need one copy of) Tj
+T*
+(it on the filesystem, so you use and reuse a fixed name for the file. In other words, we're) Tj
+T*
+(using rsync somewhat as if it was scp , but with better control over what remote files can be) Tj
+T*
+(written and \(not\) read . When you push \(or pull\) a file over rsync, rsync normally attempts to) Tj
+T*
+(optimize what gets transferred by looking for common blocks in the file \(how big a 'block' is) Tj
+T*
+(depends on the file size, or you can fix it with the ' --block-size ' option, as covered in) Tj
+T*
+(rsync\(1\) \). This is a nice potential bandwidth saving, but it creates CPU and IO load on both) Tj
+T*
+(ends as each of them checks their version of the file. In our specific case, we know that there) Tj
+T*
+(aren't going to be common blocks; since the whole file is encrypted, it's basically random) Tj
+T*
+(noise. Recently this backup process had some IO load problems, and today in the process of) Tj
+T*
+(working on this I discovered rsync's ' -W ' option \(also known as ' --whole-file '\)....) Tj
+T*
+() Tj
+T*
+(10. This blog is written in en-GB) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 02 Jul 2026 11:34:59 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/) Tj
+T*
+(Someone left a comment on my blog recently asking if I'd mind making my language more) Tj
+T*
+(inclusive. They didn't get some of the cultural references I'd used and suggested it would be) Tj
+T*
+(easier if I used tropes which were more globally known. Here's the thing. No. All my blog posts) Tj
+T*
+(start with a simple declaration: There's a reason for that. It is more than the?) Tj
+T*
+() Tj
+T*
+(11. This Page Left Intentionally Blank) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Thu, 02 Jul 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/intentionally-blank/) Tj
+T*
+(I was popping off about negation being an act of creativity, when Blake Watson introduce me to) Tj
+T*
+(the idea of the ?This Page Intentionally Left Blank?-Project \(Internet Archive\) : In former) Tj
+T*
+(times printed manuals had some blank pages, usually with the remark ?this page intentionally) Tj
+T*
+(left blank?. In most cases there had been technical reasons for that. Today almost all blank) Tj
+T*
+(pages disappeared [?] [this project] tries to introduce these blank pages to the Web again [?]) Tj
+T*
+(to offer internet wanderers a place of quietness and simplicity on the overcrowded World Wide) Tj
+T*
+(Web Ahead of its time. In our age of generative AI, a blank page is a deliberate act! So I went) Tj
+T*
+(ahead made my own . Go ahead and crawl that bots. I don?t use robots.txt , but I?m thinking of) Tj
+T*
+(making one specifically to say ?Make sure you don?t miss this page Botty Bot.? Reply via: Email) Tj
+T*
+(∑ Mastodon ∑ Bluesky) Tj
+T*
+() Tj
+T*
+(12. Understanding is the new bottleneck) Tj
+T*
+(Source: Geoffrey Litt | Published: 2026-07-02T10:00:00+00:00) Tj
+T*
+(Link: https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html) Tj
+T*
+(July 2026 Understanding is the new bottleneck This is a written version of a talk I gave at the) Tj
+T*
+(AI Engineer conference in July 2026, also shared as a tweet thread. Hot take: I think it's) Tj
+T*
+(still important to understand the code that our agents...) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: The difference between "today's task" and "accretive work" \(02 Jul 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 02 Jul 2026 07:54:42) Tj
+T*
+(+0000) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2097 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://pluralistic.net/2026/07/02/canonization/) Tj
+T*
+(Today's links The difference between "today's task" and "accretive work": Sometimes, "I got it) Tj
+T*
+(working" is fine, but sometimes it isn't. Hey look at this: Delights to delectate. Object) Tj
+T*
+(permanence: Series of tubes; Paralyzed teen beaten bloody by TSA; "Ultra unreal" Chinese lit;) Tj
+T*
+(London property prices v Brexit; Biden v surprise billing; "Feeding Ghosts." Upcoming) Tj
+T*
+(appearances: London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The difference) Tj
+T*
+(between "today's task" and "accretive work" \(permalink\) One thing I've learned about paradoxes:) Tj
+T*
+(often the answer to the riddle of "how can this one thing have such a contradictory set of) Tj
+T*
+(features and effects?" is "it's not one thing, it's two things*." That's the idea that set me) Tj
+T*
+(on the path to writing about "reverse centaurs" and AI. I was hearing from experienced) Tj
+T*
+(programmers whom I knew to be reliable narrators of their own experience who described how AI) Tj
+T*
+(was letting them write the best code of their lives; and from equally experienced and reliable) Tj
+T*
+(coders who...) Tj
+T*
+() Tj
+T*
+(14. Digitale Autonomie 2.0: en nu echt) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 02 Jul 2026 13:37:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/digitale-autonomie-2-0-surf-privacy-security/) Tj
+T*
+(Afgelopen 25 juni deed ik het openingspraatje van de Surf Privacy en Security Conferentie. Nou) Tj
+T*
+(heb ik vaker over digitale autonomie gesproken, maar deze keer heb ik het nadrukkelijk meer) Tj
+T*
+(over wat er nu moet gebeuren. Of zoals de titel zegt ?en nu echt?. Ondanks dat ik nu letterlijk) Tj
+T*
+(meer dan 50 praatjes over dit onderwerp heb gegeven had ik nog niet eerder de moeite genomen) Tj
+T*
+(een goed transcript te maken.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004862 00000 n 
+0000004988 00000 n 
+0000009845 00000 n 
+0000009971 00000 n 
+0000014533 00000 n 
+0000014659 00000 n 
+0000016809 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16937
+%%EOF
