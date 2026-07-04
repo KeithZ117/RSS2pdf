@@ -1,0 +1,444 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4549 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-04 12:36:21) Tj
+T*
+() Tj
+T*
+(1. Open Source AI Gap Map) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-03T22:04:31+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything) Tj
+T*
+(Open Source AI Gap Map Current AI is "a global partnership building a public option for AI",) Tj
+T*
+(founded as a non-profit at the AI Action Summit in Paris in February 2025 and backed by serious) Tj
+T*
+(capital \($400m already committed\). They launched their Gap Map a couple of days ago - an) Tj
+T*
+(attempt at indexing the current state of open source AI: The Gap Map v0.1 details 421 products) Tj
+T*
+(in depth: 266 software tools and libraries, 85 models, 50 datasets, and 20 hardware projects,) Tj
+T*
+(produced by 228 organizations. These products are organized into 14 categories across 3 layers) Tj
+T*
+(of the stack \(model components, product / UX, and infrastructure\). The remaining 24,400) Tj
+T*
+(artifacts constitute the uncategorized long tail of the open source AI ecosystem, and will) Tj
+T*
+(carry no score until they are researched and cited. The map itself is interesting to explore,) Tj
+T*
+(but I'm more excited about the underlying data - released under an MIT license in the) Tj
+T*
+(currentai-org/os-ai-map GitHub account: 1,184 YAML files plus the notebooks, schemas and other) Tj
+T*
+(scripts used to help gather them. Since the files are on GitHub you can use Datasette Lite to) Tj
+T*
+(explore some of them - here are 16,185 GitHub repos the project is tracking as a CSV file...) Tj
+T*
+() Tj
+T*
+(2. Quoting Josh W. Comeau) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-03T21:25:52+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything) Tj
+T*
+(I just launched my third course, Whimsical Animations, and so far, it?s on track to sell) Tj
+T*
+(roughly ? as many copies as a typical course launch. It?s a similar story with my two existing) Tj
+T*
+(courses. Sales are down significantly from last year. There are likely a lot of reasons for) Tj
+T*
+(this, but I think the biggest is AI. There?s sort of a double whammy with AI: Many people are) Tj
+T*
+(wondering whether developer jobs will even exist in a few months, so they?re reluctant to spend) Tj
+T*
+(time/money learning new dev skills. Even if they do want to learn new dev skills, LLMs can) Tj
+T*
+(provide personalized tutoring, so there?s less incentive to buy a paid course. [...] I?ve) Tj
+T*
+(spoken to a few course creators now, and we?re all seeing the same trend. Revenue down 50%+.) Tj
+T*
+(Fewer people engaging with our content. People switching to LLMs, which slurp up all of our) Tj
+T*
+(work and regurgitate it, without consent or compensation. ? Josh W. Comeau , via Salma) Tj
+T*
+(Alam-Naylor Tags: ai-ethics , llms , ai , generative-ai , careers , josh-comeau) Tj
+T*
+() Tj
+T*
+(3. Fable's judgement) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-03T18:51:06+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/3/judgement/#atom-everything) Tj
+T*
+(One of the most interesting tips I got from the Fireside Chat I hosted with Cat Wu and Thariq) Tj
+T*
+(Shihipar from the Claude Code team at AIE on Wednesday was to let Fable \(and to a certain) Tj
+T*
+(extent Opus\) use their own judgement rather than dictating how they should work. The example) Tj
+T*
+(they gave was testing. You can tell Fable "only use automated testing for larger features,) Tj
+T*
+(don't update and run tests for small copy or design changes" - but it's better to just tell) Tj
+T*
+(Fable to use its own judgement when deciding to write tests instead. Jesse Vincent just gave me) Tj
+T*
+(a related tip to help avoid burning too many of those valuable Fable tokens in the few days we) Tj
+T*
+(have left before the prices go up. Tell Fable to use other models for smaller tasks, applying) Tj
+T*
+(its own judgement about which model to use. I prompted Claude Code just now with: For all) Tj
+T*
+(coding tasks use your judgement to decide an appropriate lower power model and run that in a) Tj
+T*
+(subagent Claude saved this memory file in) Tj
+T*
+(~/.claude/projects/name-of-project/memory/delegate-coding-to-subagents.md : --- name:) Tj
+T*
+(delegate-coding-to-subagents description: Simon wants coding tasks delegated to subagents) Tj
+T*
+(running an appropriately lower-power model metadata:...) Tj
+T*
+() Tj
+T*
+(4. How did we conclude that CcNamespace.dll was the ringleader of a group of DLLs that) Tj
+T*
+(unloaded prematurely?) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4714 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: The Old New Thing | Published: Fri, 03 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260703-00/?p=112504) Tj
+T*
+(Contextual clues. The post How did we conclude that CcNamespace.dll was the ringleader of a) Tj
+T*
+(group of DLLs that unloaded prematurely? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(5. ? Claude?s Criminally Bad Electron Mac App Is an Inside Job) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-03T21:24:05Z) Tj
+T*
+(Link: https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job) Tj
+T*
+(Felix Rieseberg, quite obviously, is the answer to the question why Claude is an Electron app.) Tj
+T*
+(It?s like wondering why all the screws in a building were hammered into the walls, and then) Tj
+T*
+(finding out that the guy who oversaw construction founded and co-owns the world?s biggest) Tj
+T*
+(hammer manufacturer.) Tj
+T*
+() Tj
+T*
+(6. I Repeat Myself \(5G vs. LTE Edition\)) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-02T20:32:31Z) Tj
+T*
+(Link: https://daringfireball.net/linked/2022/03/23/5g-battery-life) Tj
+T*
+(Back in March 2022, Nicole Nguyen of The Wall Street Journal compared the battery life effects) Tj
+T*
+(of 5G vs. LTE by streaming videos on several iPhone and iPad models. She found that using LTE) Tj
+T*
+(saved significant battery life. \(It would be nice if someone re-ran similar tests on more) Tj
+T*
+(recent devices ? just because it was true with the iPhone 13 Pro doesn?t mean it?s true with) Tj
+T*
+(current models. But I?ll bet it is.\) Anyway, linking to her report, I wrote: With both regular) Tj
+T*
+(5G and LTE, I typically get between 50?100 Mbps down ? and I see a regular 5G connection far) Tj
+T*
+(far more often than I do 5G ultra wideband. I don?t see any practical advantage to regular 5G) Tj
+T*
+(compared to LTE. Those crazy-fast ultra-wideband download speeds are like owning a car that can) Tj
+T*
+(go 200 MPH. So I?m just going to set my iPhone to use LTE all the time and save battery life.) Tj
+T*
+(I?ll turn 5G Auto back on if I ever run into a situation where my LTE signal seems weak or) Tj
+T*
+(slow. Which rings several bells with my ? A Tale of Two Modems ? post yesterday, regarding an) Tj
+T*
+(AppleInsider report that data stolen from Apple supplier Tata Electronics shows that Apple is) Tj
+T*
+(going to use Qualcomm?s mmWave-supporting cellular modems only in models of...) Tj
+T*
+() Tj
+T*
+(7. Truth Social Is Still Just Trump?s Blog) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-02T19:38:45Z) Tj
+T*
+(Link: https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog) Tj
+T*
+(After I linked to Commerce Secretary Howard Lutnick posting on Twitter/X about the Trump) Tj
+T*
+(administration allowing Anthropic to once again release Claude Fable 5, I was reminded once) Tj
+T*
+(again that no one else in the Trump administration uses Truth Social other than Trump himself.) Tj
+T*
+(Not even Lutnick, a lickspittle among lickspittles. * The rest of them all use X. Which in turn) Tj
+T*
+(reminds me of my observation from a year ago : I?ve been thinking about this for a few weeks,) Tj
+T*
+(and in that time, Trump?s own posts on Truth Social have made the news on a near-daily basis.) Tj
+T*
+(I?ve never once, ever, seen a post from anyone else on Truth Social make the news. Trump is not) Tj
+T*
+(just the one and only person of consequence using it, his is the one and only account on Truth) Tj
+T*
+(Social that you ever, ever hear about. If Truth Social were actually meant to compete with X,) Tj
+T*
+(Threads, Bluesky, and Mastodon, this almost certainly would have been a source of conflict) Tj
+T*
+(between Trump and Musk. Because, if it were meant to be an actual competitive social network,) Tj
+T*
+(it would occur to Trump to require all his flunkeys and toadies not only to post to Truth) Tj
+T*
+(Social, but to stop posting to X. But he hasn?t done that, because Truth Social...) Tj
+T*
+() Tj
+T*
+(8. Go maps, hashes of map keys, and pointers: a little surprise) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-07-04T02:02:38Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/programming/GoMapsHashesAndPointers) Tj
+T*
+(Go's maps are famously implemented as hash tables, which is the only reasonable choice. The) Tj
+T*
+(implementation has gotten somewhat more complicated since I looked at how maps store their) Tj
+T*
+(values and keys due to the move to swiss tables , and these days you find the comments about) Tj
+T*
+(how they work in internal/runtime/maps/map.go , but the core is still the same. Recently, a) Tj
+T*
+(documentation commit landed in the Go development tree that opened my eyes to a bit of subtle) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4241 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(complexity I hadn't considered before in Go's map implementation. One of the things about hash) Tj
+T*
+(tables is that they hash the value of keys down to some fixed size value in order to do) Tj
+T*
+(operations more efficiently; in Go's current swiss tables , this is a 64-bit hash. Critically,) Tj
+T*
+(the hash value of a key must be constant \(which can be an issue in languages like Python that) Tj
+T*
+(let you define a hash function at user level\). You also want the actual value of keys to \(only\)) Tj
+T*
+(compare equal when they are equal, which can also be a challenge in a language with user) Tj
+T*
+(defined comparison functions, or just if you're dealing with NaNs . Go has a quite broad) Tj
+T*
+(definition of what's allowed as map keys; you can use any type that has == and != compariso...) Tj
+T*
+() Tj
+T*
+(9. Does additional data always reduce posterior variance?) Tj
+T*
+(Source: John D. Cook | Published: Sat, 04 Jul 2026 02:50:36 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-va) Tj
+T*
+(riance/) Tj
+T*
+(A discussion over lunch today brought up the fact that additional data does not always decrease) Tj
+T*
+(the size of a confidence interval. This post will look at this from a Bayesian perspective. In) Tj
+T*
+(general, new information reduces your uncertainty regarding whatever you?re estimating. The) Tj
+T*
+(posterior distribution becomes more concentrated as more data are collected. That?s [?] The) Tj
+T*
+(post Does additional data always reduce posterior variance? first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. The Fall and Rise of Screwworm) Tj
+T*
+(Source: Construction Physics | Published: Fri, 03 Jul 2026 12:02:57 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm) Tj
+T*
+(Every spring, as sure as the seasons, and for generations unknown, screwworms began their) Tj
+T*
+(annual march northward from their overwintering sanctuaries in Mexico and South Texas.) Tj
+T*
+() Tj
+T*
+(11. Malleable software: Restoring user agency in a world of locked-down apps) Tj
+T*
+(Source: Geoffrey Litt | Published: 2025-06-15T12:00:00+00:00) Tj
+T*
+(Link: https://geoffreylitt.com/2025/06/15/malleable-software.html) Tj
+T*
+(Redirecting? This essay lives at Ink & Switch.) Tj
+T*
+() Tj
+T*
+(12. The Life and Times of Maxis, Part 1: SimEverything) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 03 Jul 2026 15:46:04 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/) Tj
+T*
+(This article tells part of the story of Maxis Software. I?m still to this day just blown away) Tj
+T*
+(by continental drift and things like that, stuff that most people think sounds pretty boring. ?) Tj
+T*
+(Will Wright Gamers are both extremely dedicated to and really good at preserving the history of) Tj
+T*
+(their hobby. Seldom has a [?]) Tj
+T*
+() Tj
+T*
+(13. Swimming Pools, Pee, and Trying to Delete Your Data From the Internet) Tj
+T*
+(Source: Troy Hunt | Published: Fri, 03 Jul 2026 06:52:41 GMT) Tj
+T*
+(Link:) Tj
+T*
+(https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/) Tj
+T*
+(I can't recall if someone else originally came up with this saying or if I said it in some) Tj
+T*
+(off-the-cuff comment and it just propagated, but since it's often attributed back to me , I'll) Tj
+T*
+(relay it here regardless: Trying to delete yourself) Tj
+T*
+() Tj
+T*
+(14. Pluralistic: CARDiac, syntax coloring, view source and vibe code \(03 Jul 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 03 Jul 2026 09:00:15) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/03/rod-logic/) Tj
+T*
+(Today's links CARDiac, syntax coloring, view source and vibe code: With great abstraction comes) Tj
+T*
+(great power comes great responsibility comes great loss of fidelity. Hey look at this: Delights) Tj
+T*
+(to delectate. Object permanence: Real elections v reality TV; Copyright troll loses license;) Tj
+T*
+(Who gets fed housing subsidies? Trump x forced labor. Upcoming appearances: London, Edinburgh,) Tj
+T*
+(Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1339 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep) Tj
+T*
+(writin' 'em. Colophon: All the rest. CARDiac, syntax coloring, view source and vibe code) Tj
+T*
+(\(permalink\) In the mid-1970s, my dad ? then a budding computer scientist, subsequently a math) Tj
+T*
+(teacher ? brought home my first computer: the CARDiac, a Turing-complete, all-cardboard) Tj
+T*
+(papercraft computer that you could write and execute programs on:) Tj
+T*
+(https://en.wikipedia.org/wiki/CARDboard_Illustrative_Aid_to_Computation CARDiac stands for) Tj
+T*
+("CARDboard Illustrative Aid to Computation," and it was created in 1968 at Bell Labs as a way) Tj
+T*
+(to teach high schoolers how computers worked. I wasn't anywhere near high school age \(I think I) Tj
+T*
+(was in third grade...) Tj
+T*
+() Tj
+T*
+(15. Midnight Train to Stockholm) Tj
+T*
+(Source: matduggan.com | Published: Fri, 03 Jul 2026 13:03:28 GMT) Tj
+T*
+(Link: https://matduggan.com/midnight-train-to-stockholm/) Tj
+T*
+(I was recently summoned to a meeting in Stockholm, a city I had somehow managed to avoid) Tj
+T*
+(despite living in Copenhagen for years. My Swedish experience, up to this point, consisted) Tj
+T*
+(entirely of trips to Malmˆ ? the closest Swedish city to Denmark and, more importantly, home to) Tj
+T*
+(a) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004811 00000 n 
+0000004937 00000 n 
+0000009703 00000 n 
+0000009829 00000 n 
+0000014122 00000 n 
+0000014248 00000 n 
+0000015640 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15768
+%%EOF
