@@ -1,0 +1,424 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4391 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-05 12:57:44) Tj
+T*
+() Tj
+T*
+(1. sqlite-utils 4.0rc2, mostly written by Claude Fable \(for about $149.25\)) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-05T01:00:48+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything) Tj
+T*
+(I wrote about the sqlite-utils 4.0rc1 release a couple of weeks ago. Since we only have Claude) Tj
+T*
+(Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to) Tj
+T*
+(a 4.0 stable release that I felt truly comfortable about, since I try to keep to SemVer and) Tj
+T*
+(like my incompatible major versions to be as rare as possible. I started with this prompt, in) Tj
+T*
+(Claude Code for web on my iPhone: Final review before shipping a stable 4.0 release - very) Tj
+T*
+(important to spot any last minute things that would be a breaking change if we fix them later) Tj
+T*
+(Here's that initial report it created for me. There were some significant problems that I) Tj
+T*
+(hadn't myself encountered yet - 5 that Fable categorized as "release blockers". Here's the) Tj
+T*
+(worst of the bunch: 1. delete_where\(\) never commits and poisons the connection \(data loss\)) Tj
+T*
+(Table.delete_where\(\) \( sqlite_utils/db.py:2948 \) runs its DELETE via a bare self.db.execute\(\)) Tj
+T*
+(with no atomic\(\) wrapper ? compare Table.delete\(\) at db.py:2944 , which wraps correctly. The) Tj
+T*
+(connection is left in_transaction=True , so every subsequent atomic\(\) call takes the savepoint) Tj
+T*
+(branch \( db.py:430-440 \) and never commits either. Reproduced end-to-end: db = sqli...) Tj
+T*
+() Tj
+T*
+(2. sqlite-utils 4.0rc2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-05T00:47:38+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything) Tj
+T*
+(Release: sqlite-utils 4.0rc2 See sqlite-utils 4.0rc2, mostly written by Claude Fable \(for about) Tj
+T*
+($149.25\) .) Tj
+T*
+() Tj
+T*
+(3. Building a World Map with only 500 bytes) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-04T23:09:02+00:00) Tj
+T*
+(Link:) Tj
+T*
+(https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything) Tj
+T*
+(Building a World Map with only 500 bytes Iwo Kadziela \(assisted by Codex\) figured out a way to) Tj
+T*
+(generate a credible ASCII world map using 445 bytes of data: The key trick is to use deflate) Tj
+T*
+(compression, which is then wired together using this neat snippet of JavaScript. I didn't know) Tj
+T*
+(you could use fetch\(\) with data: URIs like this:) Tj
+T*
+(fetch\('data:;base64,1ZpLsgIxCEXnrM...=='\).then\( r => r.body.pipeThrough\(new) Tj
+T*
+(DecompressionStream\('deflate-raw'\)\) \).then\( s => new Response\(s\).text\(\) \).then\( t =>) Tj
+T*
+(b.innerHTML = ' ' + t \) Via Hacker News Tags: ascii-art , data-urls , javascript) Tj
+T*
+() Tj
+T*
+(4. Day One Journal) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-04T21:02:43Z) Tj
+T*
+(Link: https://dayoneapp.com/blog/introducing-daily-chat/) Tj
+T*
+(My thanks to Day One Journal for once again sponsoring Daring Fireball. Day One first launched) Tj
+T*
+(in 2011 and has been the stalwart of journaling apps on Mac and iOS ever since. Day One?s apps) Tj
+T*
+(exhibit a commitment to technical and design excellence, and, more importantly, everything they) Tj
+T*
+(do is deeply informed by the intense personal nature of keeping a journal. \(Or journals ? Day) Tj
+T*
+(One lets you create as many separate journals as you want.\) The Day One Mac app is Mac-assed) Tj
+T*
+(and the iPhone and iPad apps are, well, iOS-assed. Fast, familiar, consistent, and intuitive.) Tj
+T*
+(Day One recognizes that many people struggle with journalling not because they can?t write, but) Tj
+T*
+(because they don?t know how to begin or what a ?good? journal entry about their day looks like.) Tj
+T*
+(That?s why they built Daily Chat, a guided reflection experience that helps you talk through) Tj
+T*
+(your day, organize your thoughts, and shape them into a journal entry. Early testers commented:) Tj
+T*
+(? Day One?s new Daily Chat is a true game changer for my daily journaling. The AI-powered chat) Tj
+T*
+(makes capturing thoughts effortless and inspires creativity like never before. Writing my diary) Tj
+T*
+(has never been this intuitive and fun! ? Try it for yourself...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4875 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(5. From the DF Archive: ?Electron and the Decline of Native Apps?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-04T19:28:45Z) Tj
+T*
+(Link: https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps) Tj
+T*
+(Yours truly, back in 2018: I don?t share the depth of their pessimism regarding native apps,) Tj
+T*
+(but Electron is without question a scourge. I think the Mac will prove more resilient than) Tj
+T*
+(Windows, because the Mac is the platform that attracts people who care. But I worry. In some) Tj
+T*
+(ways, the worst thing that ever happened to the Mac is that it got so much more popular a) Tj
+T*
+(decade ago. In theory, that should have been nothing but good news for the platform ? more) Tj
+T*
+(users means more attention from developers. The more Mac users there are, the more Mac apps we) Tj
+T*
+(should see. The problem is, the users who really care about good native apps ? users who know) Tj
+T*
+(HIG violations when they see them, who care about performance, who care about Mac apps being) Tj
+T*
+(right ? were mostly already on the Mac. A lot of newer Mac users either don?t know or don?t) Tj
+T*
+(care about what makes for a good Mac app. This eight-year-old piece holds up well. My concern) Tj
+T*
+(was justified, but so too was my lack of defeatist pessimism. Truly native, idiomatically) Tj
+T*
+(correct Mac-assed Mac apps are resurgent. Electron and its brethren non-native frameworks have) Tj
+T*
+(not receded, but they haven?t gained further ground. For every Claude \(Electron\) there?s...) Tj
+T*
+() Tj
+T*
+(6. Fantastical 4.1.15 Adds Calendar Mirroring) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-04T16:57:22Z) Tj
+T*
+(Link: https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirrorin) Tj
+T*
+(g-in-fantastical/) Tj
+T*
+(Flexibits: Calendar Mirroring allows you to connect two separate calendars \(like work and) Tj
+T*
+(personal\) so that events from one automatically show up on the other. The best part? No event) Tj
+T*
+(information is sent to Flexibits servers or saved outside of your device. You can choose to) Tj
+T*
+(show full event details or just block the time out as a mysterious, professional ?Busy?. Your) Tj
+T*
+(coworkers don?t need to know you?re getting a root canal, they just need to know you?re) Tj
+T*
+(unavailable. In Flexibits?s example scenario, the idea is that you have a personal calendar) Tj
+T*
+(with important events that you want to mirror to your work calendar, to block the times for) Tj
+T*
+(those events off ? and you might just want them marked as ?Busy? on your work calendar, rather) Tj
+T*
+(than revealing the actual details. I?ve been using this feature in beta for a few months and) Tj
+T*
+(love it, even though my use case is seemingly simple. For recording episodes of Dithering , Ben) Tj
+T*
+(Thompson and I have a shared Microsoft 365 calendar. \(You can guess which of the two of us set) Tj
+T*
+(that up by that fact.\) Fantastical has long had terrific built-in support for Microsoft 365) Tj
+T*
+(accounts. So for me, those events have always just shown up in Fantastical. For me. Th...) Tj
+T*
+() Tj
+T*
+(7. Better Models: Worse Tools) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-07-04T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/) Tj
+T*
+(A very strange Pi issue sent me down a rabbit hole over the last two days. The short version is) Tj
+T*
+(that newer Claude models sometimes call Pi?s edit tool with extra, invented fields in the) Tj
+T*
+(nested edits[] array. And not Haiku or some small model: Opus 4.8. The edit itself is usually) Tj
+T*
+(correct but the arguments do not match the schema as the model invents made-up keys and Pi thus) Tj
+T*
+(rejects the tool call and asks to try again. That alone is not too surprising as models emit) Tj
+T*
+(malformed tool calls sometimes. Particularly small ones. What surprised me is that this is) Tj
+T*
+(getting worse with newer Anthropic models as both Opus 4.8 and Sonnet 5 show it but none of the) Tj
+T*
+(older models. In other words, the SOTA models of the family are worse at this specific tool) Tj
+T*
+(schema than their older siblings. In case you are curious about Fable: I intentionally did not) Tj
+T*
+(test it because I was not sure if the classifiers they are running might downgrade me to Opus) Tj
+T*
+(silently. Tool Calls Are Text If you have not spent too much time looking at LLM tool calling) Tj
+T*
+(internals, the important thing to understand is that tool calls are not magic and use some) Tj
+T*
+(rather crude in-band signalling. The model receives a transcript, a system pr...) Tj
+T*
+() Tj
+T*
+(8. This Week in Package Management: 4 July 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-07-04T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/07/04/this-week-in-package-management.html) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4684 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Week seven of the roundup, built from the package manager OPML feed collection and whatever) Tj
+T*
+(I?ve posted or boosted on Mastodon . Releases Hex 2.5.0 adds organisation-defined dependency) Tj
+T*
+(policies: an organisation publishes a named policy through its repository, a project opts in) Tj
+T*
+(via HEX_POLICY or the :hex block in mix.exs , and resolution then filters out versions that) Tj
+T*
+(carry an advisory above a given severity, are retired for listed reasons, or are newer than a) Tj
+T*
+(release-age threshold. Conan 2.30.0 adds SPDX expression support to its SBOM generation, a) Tj
+T*
+(conf=~ unset operator, and IntelCC support in the Meson, Autotools and Premake toolchains. uv) Tj
+T*
+(0.11.25 hardens tar handling against parser differentials via an updated astral-tokio-tar , so) Tj
+T*
+(uv may now reject malformed source distributions it previously accepted, and writes a full) Tj
+T*
+(lockfile into tool receipts. 0.11.26 followed with resolver performance work reusing state) Tj
+T*
+(across PubGrub iterations. pixi 0.72.0 adds inline package manifests, so a git dependency) Tj
+T*
+(without a Pixi Build manifest of its own can have build backend metadata set directly in the) Tj
+T*
+(consuming project?s dependencies table. mise 2026.7.0 adds mise install --monorepo with a...) Tj
+T*
+() Tj
+T*
+(9. Reading List 07/04/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 04 Jul 2026 12:03:22 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-070426) Tj
+T*
+(Households without homeowners insurance, crackdowns on AI chip smuggling, Japan?s two) Tj
+T*
+(electrical frequencies, Meta?s AI compute business, and more.) Tj
+T*
+() Tj
+T*
+(10. Combined 1D and 2D Barcodes) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 04 Jul 2026 11:34:57 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/) Tj
+T*
+(This was a little idea gnawing at the back of my brain. The humble barcode has been in use) Tj
+T*
+(since the 1970s. In the next few years it will likely be replaced with a 2D QR Code. I couldn't) Tj
+T*
+(find anyone who'd made a QR code with an embedded UPC - so I decided to make one. If you move) Tj
+T*
+(your phone close to the code \(so it can't see the squares in the corners\) it should read the) Tj
+T*
+(number in the 1D?) Tj
+T*
+() Tj
+T*
+(11. What buffer size \(OpenSSH\) ssh seems to use for streaming output) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-07-04T23:28:10Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHStdoutIOSize) Tj
+T*
+(Suppose that you're generating and transferring a file over ssh, for example to create a tar) Tj
+T*
+(archive of something on a remote server and save it locally: ssh [...] rem-server 'cd /var/log) Tj
+T*
+(&& tar -cf - .' >/backup/file.tar If you're experiencing IO problems in this backup process ,) Tj
+T*
+(an interesting question is what buffer size ssh uses for its writes, perhaps because you'd like) Tj
+T*
+(to make a few large writes to disk \(for example, at the natural 128 KByte block size for your) Tj
+T*
+(ZFS fileservers , even when you're writing over NFS\) instead of a bunch of smaller ones. The) Tj
+T*
+(ssh manual page doesn't document anything about this, and there's no options to control it in) Tj
+T*
+(either ssh or ssh_config\(5\) . On Linux, running over TCP from a remote machine, the answer) Tj
+T*
+(appears to be that ssh will normally do 32 KByte writes \(or 64 KByte writes under some) Tj
+T*
+(circumstances, possibly if the network is fast enough\). It's possible ssh will write smaller) Tj
+T*
+(buffers if the remote command generating the output can't keep up at full network bandwidth,) Tj
+T*
+(and in general I suspect that there are a lot of things that can change this. If this is) Tj
+T*
+(important to you \(and I'm not convinced it's important to us\), you need to re-buffer th...) Tj
+T*
+() Tj
+T*
+(12. megawatts by microwave) Tj
+T*
+(Source: computers are bad | Published: 04 Jul 2026 00:00:00 UT) Tj
+T*
+(Link: https://computer.rip/2026-07-04-microwave-and-power.html) Tj
+T*
+(In 1914 the Department of the Interior, through the Bureau of Reclamation, investigated the) Tj
+T*
+(possibilities of developing the Columbia River. Thousands of arid but potentially fertile acres) Tj
+T*
+(needed only water to become the Imperial Valley of the Northwest. Locked in the mountain ranges) Tj
+T*
+(were valuable ores awaiting electricity to turn them into needed metals. Two years later the) Tj
+T*
+(State engineer of Oregon urged the development of the Bonneville site as a national-defense) Tj
+T*
+(measure: he saw in the proposed power project a source of fertilizer in time of peace and) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 739 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(nitrates in time of war. The dam also would completely drown out the Cascade Rapids and extend) Tj
+T*
+(slack-water navigation some 40 miles eastward to The Dalles. The Rivers and Harbors Act of 1925) Tj
+T*
+(directed the Secretary of War, through the Corps of Engineers, United States Army, to prepare) Tj
+T*
+(and submit to the Congress an estimate of the cost of surveys, examinations, and investigations) Tj
+T*
+(of all navigable streams and their tributaries where power development appeared feasible. \(Q1\)) Tj
+T*
+(It is difficult to succinctly explain why, exactly, the United States Army has spent much of) Tj
+T*
+(its history involved in the construction of dams. It is partly an accid...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004653 00000 n 
+0000004779 00000 n 
+0000009706 00000 n 
+0000009832 00000 n 
+0000014568 00000 n 
+0000014694 00000 n 
+0000015485 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15613
+%%EOF
