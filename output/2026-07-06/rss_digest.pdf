@@ -1,0 +1,366 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4537 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-06 13:13:50) Tj
+T*
+() Tj
+T*
+(1. Better Models: Worse Tools) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-04T22:53:52+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything) Tj
+T*
+(Better Models: Worse Tools Armin reports on a weird problem he ran into while hacking on Pi:) Tj
+T*
+(The short version is that newer Claude models sometimes call Pi?s edit tool with extra,) Tj
+T*
+(invented fields in the nested edits[] array. And not Haiku or some small model: Opus 4.8. The) Tj
+T*
+(edit itself is usually correct but the arguments do not match the schema as the model invents) Tj
+T*
+(made-up keys and Pi thus rejects the tool call and asks to try again. That alone is not too) Tj
+T*
+(surprising as models emit malformed tool calls sometimes. Particularly small ones. What) Tj
+T*
+(surprised me is that this is getting worse with newer Anthropic models as both Opus 4.8 and) Tj
+T*
+(Sonnet 5 show it but none of the older models. In other words, the SOTA models of the family) Tj
+T*
+(are worse at this specific tool schema than their older siblings. Armin theorizes that this is) Tj
+T*
+(because more recent Anthropic models have been specifically trained \(presumably via) Tj
+T*
+(Reinforcement Learning\) to better use the edit tools that are baked into Claude Code. This has) Tj
+T*
+(the unfortunate effect that other coding harnesses, such as Pi, may find that their own custom) Tj
+T*
+(edit tools are more likely to be used incorrectly. Claude's edit tool uses search and replace) Tj
+T*
+(....) Tj
+T*
+() Tj
+T*
+(2. June 2026 newsletter) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-03T14:50:50+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything) Tj
+T*
+(The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor \(or if you) Tj
+T*
+(start a sponsorship now\) you can access it here . This month: Claude Fable 5, GPT-5.6, and US) Tj
+T*
+(export restrictions GLM-5.2 is the new best open weights model Tokenmaxxing is so over) Tj
+T*
+(Datasette Apps sqlite-utils and shot-scraper and Datasette Miscellaneous WASM projects Other) Tj
+T*
+(model releases What I'm using Here's a copy of the May newsletter as a preview of what you'll) Tj
+T*
+(get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter) Tj
+T*
+() Tj
+T*
+(3. ?A Perfect Reflection of Trump?s Washington?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-02T19:14:31Z) Tj
+T*
+(Link: https://politicalwire.com/2026/06/19/a-perfect-reflection-of-trumps-washington/) Tj
+T*
+(Taegan Goddard, two weeks ago at Political Wire: The Lincoln Memorial Reflecting Pool has) Tj
+T*
+(become an almost too-perfect metaphor for Donald Trump?s presidency. He promised a quick, cheap) Tj
+T*
+(fix. Instead, taxpayers got a no-bid project that ballooned to more than $14 million, delivered) Tj
+T*
+(a freshly painted pool in ?American Flag Blue,? and then promptly watched it turn green with) Tj
+T*
+(algae as the new coating began to peel just days after it was supposedly finished. That is) Tj
+T*
+(Trumpism in miniature: a grand declaration, a flashy cosmetic overhaul, a politically connected) Tj
+T*
+(contractor, and an immediate failure blamed on someone else. Washington was supposed to be made) Tj
+T*
+(beautiful again. Instead, the Reflecting Pool now looks like a murky swamp ? a fitting) Tj
+T*
+(reflection of a capital overwhelmed by corruption and chaos. Like I just wrote , it?s all) Tj
+T*
+(kayfabe . It was never about actually improving the Reflecting Pool. All that mattered was that) Tj
+T*
+(Trump said he would. The only real part was the taxpayer money funneled to a Trump crony. Just) Tj
+T*
+(like how in pro wrestling, they charge fans real money for tickets. That?s real too. Just like) Tj
+T*
+(in pro wrestling, Trump has even explained it all away by pinning the blame on...) Tj
+T*
+() Tj
+T*
+(4. Claude Fable and Kayfabe) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-02T18:29:01Z) Tj
+T*
+(Link: https://www.anthropic.com/news/redeploying-fable-5) Tj
+T*
+(Anthropic: On Friday, June 12, the US government applied export controls to our newest models,) Tj
+T*
+(Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals,) Tj
+T*
+(whether inside or outside the United States. Because the order took effect immediately and we) Tj
+T*
+(had no reliable way to verify nationality in real-time, we suspended access to both models for) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 5051 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(all users. As of today, June 30, the export controls on Fable 5 and Mythos 5 have been lifted .) Tj
+T*
+(That?s a link to this tweet on Twitter/X from Commerce Secretary Howard Lutnick: Over the past) Tj
+T*
+(two weeks, we have worked closely with Anthropic to analyze and approve Fable 5 to ensure) Tj
+T*
+(alignment across the US Government and strengthen America?s leadership in AI. I don?t think a) Tj
+T*
+(goddamn thing happened in the last two weeks, and if anything did happen, it sure as shit) Tj
+T*
+(wasn?t anything that Lutnick understood. There should be real government oversight regulating) Tj
+T*
+(frontier AI, but this is just pantomime performative nonsense. The entire Trump 2.0 term \(and) Tj
+T*
+(much of the 1.0 term before it\) can be summarized with a single word: kayfabe , ?the tacit) Tj
+T*
+(agreement between professional wrestlers and their fans to pretend that overt...) Tj
+T*
+() Tj
+T*
+(5. ?Why Is Meta Destroying Its Engineering Organization??) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-02T17:09:42Z) Tj
+T*
+(Link: https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering) Tj
+T*
+(Gergely Orosz, writing at The Pragmatic Engineer \(which, sadly , is a Substack blog\): The) Tj
+T*
+(biggest problem: people stop caring about real work and focus on performative work. Let?s check) Tj
+T*
+(the four ingredients that Meta?s leadership has decided to introduce to their workplace:) Tj
+T*
+(Tracking the keyboards and mouse clicks of all engineers, where legally possible Reassign a) Tj
+T*
+(good chunk of engineers to full-time data labeling Let staff know that 10% of them will be laid) Tj
+T*
+(off Have a culture where devs optimize for any and all metrics measured during PSC Measure) Tj
+T*
+(token usage as part of PSC Shake this mix up well, and what do you get? Two things: Everyone) Tj
+T*
+(overuses AI to boost their personal stats. An engineering workforce that pretends to work with) Tj
+T*
+(as much AI, and as little human input, as possible. It?s a strange incentive where an outage) Tj
+T*
+(caused by a failure to review code properly is not grounds for dismissal, but writing code by) Tj
+T*
+(hand ? instead of having an AI agent write it ? could cost you your job. Every longer-tenured) Tj
+T*
+(engineer is seeking a new job, or at least considering it. Those who have been around at Meta) Tj
+T*
+(longer term have seen enough. PSC is ?Performance Summary Cycle?, Meta?s stringent...) Tj
+T*
+() Tj
+T*
+(6. C2PA only works if everything is signed) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Mon, 06 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/) Tj
+T*
+(The European Union AI Act is Europe?s attempt to comprehensively regulate AI usage. A big part) Tj
+T*
+(of that is the requirement that AI-generated content be identifiable: either tagged with a) Tj
+T*
+(watermark or with what the Act calls ?digitally signed metadata? 1 . Since all this becomes) Tj
+T*
+(enforceable in a month, it?s worth figuring out if it makes any sense. I recently discussed AI) Tj
+T*
+(watermarking at length in Text AI watermarks will always be trivial to remove . What about) Tj
+T*
+(digitally signed metadata? The most well-known implementation of digitally signed metadata is) Tj
+T*
+(C2PA Content Credentials, which incorrectly 2 claims to be the technology that the AI Act gives) Tj
+T*
+(as an example of how to do signed metadata properly. The idea here is that every single image) Tj
+T*
+(file should contain unspoofable authorship metadata . Here?s my position on it: C2PA broadly) Tj
+T*
+(makes sense and is a good idea It is pointless to use C2PA for AI-generated images only It will) Tj
+T*
+(take many years for C2PA to be adopted across all images Because C2PA makes such great safety) Tj
+T*
+(theater, we?re going to see a lot of hue and cry about it long before it becomes useful Lots to) Tj
+T*
+(unpack. Let?s start by considering images, since that?s the easiest case...) Tj
+T*
+() Tj
+T*
+(7. Sometimes it actually is the network: a war story) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-07-06T02:17:29Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork) Tj
+T*
+(We've recently been having mysterious problems getting some of our backups to perform well .) Tj
+T*
+(Also I recently wrote about how we'd wound up with a web server that frequently saturated its) Tj
+T*
+(outgoing 1G interface with traffic \(and it was a feature that it didn't have a faster network) Tj
+T*
+(link\). These two things turn out to not be as unrelated as we'd like, and there's a story or) Tj
+T*
+(two there. The problematic backups aren't done through our usual Amanda-based backup system;) Tj
+T*
+(instead, a particular central machine pulls /var/log and other relevant files from FreeBSD and) Tj
+T*
+(OpenBSD hosts \(either through rsync or direct SSH access \) and then writes them over NFS to one) Tj
+T*
+(of our NFS fileservers \(and then they get backed up by the Amanda backups\). The problems) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3568 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(manifested as terrible NFS performance; the central machine's load average would go to 50 or) Tj
+T*
+(70, everything NFS related on it would be slow, and so on. While we like NFS in general we've) Tj
+T*
+(had quite a share of problems with it \( cf , also \), so we immediately assumed that this was) Tj
+T*
+(yet another instance of an NFS problem. First we reduced the IO load from rsync s in various) Tj
+T*
+(ways \( eg \), then we spent quite a while digging at various NFS metrics, both f...) Tj
+T*
+() Tj
+T*
+(8. Making a Shuffle Button) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 05 Jul 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/notes-shuffle/) Tj
+T*
+(I made some updates to my notes blog , including a change to how my ?Shuffle? feature worked.) Tj
+T*
+(Figured I?d blog about it. Shuffle? On a Blog? At the time of this writing, I have 974 ?notes?) Tj
+T*
+(that I?ve published. For fun, I have a ?shuffle? button that digs up a random note from the) Tj
+T*
+(past. I like to press it from time to time and re-encounter some insight from the past. It?s) Tj
+T*
+(like going through an old album, pulling out a random photo, and thinking, ?Oh yeah, I remember) Tj
+T*
+(this! Good times.? Like old photos, there?s also the occasional ?that didn?t age so well?. But) Tj
+T*
+(I find it fun to randomly dig up old insights from others and continue to be inspired. How Did) Tj
+T*
+(It Work Before? Since my site is built and hosted as static files without a runtime server,) Tj
+T*
+(this feature required JavaScript to work. Every page had a snippet like this: button id =) Tj
+T*
+("js-shuffle" > Shuffle button > script > // All 974 note IDs injected by my SSG const noteIds =) Tj
+T*
+(['id-1', 'id-2', id-3', 'id-4', '...']; document.querySelector\("#js-shuffle"\)) Tj
+T*
+(.addEventListener\('click', \(\) => { // randomly grab an item in `noteIds` const randomId =) Tj
+T*
+('...'; window.location.href = `/n/${randomId}/` }\) script > Essentially: inject every note) Tj
+T*
+(ID...) Tj
+T*
+() Tj
+T*
+(9. Travel notes: PLDI Boulder) Tj
+T*
+(Source: Max Bernstein's Blog | Published: Sun, 05 Jul 2026 00:00:00 +0000) Tj
+T*
+(Link: https://bernsteinbear.com/blog/travel-notes-pldi-boulder/?utm_source=rss) Tj
+T*
+(I had another excellent PLDI this past June. It was my fourth 1 . I continued to meet new) Tj
+T*
+(people and learn new things! Overall: I got to meet a lot of new people, which was exciting. I) Tj
+T*
+(had some good chats about research. I asked a question at a talk! I got to show Aaron and Jacob) Tj
+T*
+(PLDI and see them enjoy it. I missed hanging out with CF Bolz-Tereick and Chris Fallin, the) Tj
+T*
+(usual suspects at conferences I attend. I?m looking forward to next year. This post is more) Tj
+T*
+(about the conference than the town of Boulder \(unlike the last PLDI post about Seoul\) because I) Tj
+T*
+(didn?t do much Boulder exploring. Sunday I got in late on Sunday. Then I had to take a long car) Tj
+T*
+(ride from Denver airport to Boulder. I don?t think I had ever flown into Denver with intent to) Tj
+T*
+(go to Boulder before so it was a bit of a surprise. Jacob offered to have a late dinner with me) Tj
+T*
+(so we had a tasty meal at Gaia Masala and Burger. Shout out to Harry, our server. Monday Monday) Tj
+T*
+(was a workshop day. I signed up for EGRAPHS and mostly stayed in that workshop. People kept) Tj
+T*
+(throwing around the term ?Knuth-Bendix?, as they have been for several years, and only in one) Tj
+T*
+(of these workshop talks did someone explain it in a way that made any...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004792 00000 n 
+0000004918 00000 n 
+0000010021 00000 n 
+0000010147 00000 n 
+0000013767 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+13893
+%%EOF
