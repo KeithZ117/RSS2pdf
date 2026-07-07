@@ -1,0 +1,436 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4250 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-07 12:53:10) Tj
+T*
+() Tj
+T*
+(1. tencent/Hy3) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-06T23:57:35+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/6/hy3/#atom-everything) Tj
+T*
+(tencent/Hy3 New Apache 2.0 licensed model from Tencent in China: Hy3 is a 295B-parameter) Tj
+T*
+(Mixture-of-Experts \(MoE\) model with 21B active parameters and 3.8B MTP layer parameters,) Tj
+T*
+(developed by the Tencent Hy Team. Following the Hy3 Preview launch in late April, we gathered) Tj
+T*
+(feedback from 50+ products and scaled up post-training with higher quality data. Today, we) Tj
+T*
+(introduce Hy3, which outperforms similar-size models and rivals flagship open-source models) Tj
+T*
+(with 2-5x parameters. It also shows significant gains in utility across various products and) Tj
+T*
+(productivity tasks. The full-sized model is 598GB on Hugging Face, and the FP8 quantized one is) Tj
+T*
+(300GB . The context length is 256K. It's available for free on OpenRouter until July 21st . I) Tj
+T*
+(had it "Generate an SVG of a pelican riding a bicycle" there and got this: Tags: ai ,) Tj
+T*
+(generative-ai , llms , pelican-riding-a-bicycle , llm-release , ai-in-china) Tj
+T*
+() Tj
+T*
+(2. sqlite-utils 4.0rc3) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-06T05:40:08+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything) Tj
+T*
+(Release: sqlite-utils 4.0rc3 I hoped to release sqlite-utils 4.0 stable this weekend, but as I) Tj
+T*
+(worked through the backlog of issues and PRs with a combination of Claude Fable 5 and GPT-5.5) Tj
+T*
+(the changelog since rc2 kept getting bigger . The biggest new feature is support for) Tj
+T*
+(introspecting and creating compound foreign keys - a feature that involves a subtle breaking) Tj
+T*
+(change to table.foreign_keys and hence needed to land for the 4.0 stable release. sqlite-utils) Tj
+T*
+(also now follows SQLite's convention for case insensitive column names, which turned out to) Tj
+T*
+(touch a bunch of different places at once . Tags: projects , sqlite , sqlite-utils ,) Tj
+T*
+(annotated-release-notes , gpt , claude-mythos-fable) Tj
+T*
+() Tj
+T*
+(3. ? Apple Should Eliminate the App Icon ?Squircle Jail?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-06T22:23:46Z) Tj
+T*
+(Link: https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail) Tj
+T*
+(Shape was often the most iconic thing about an icon. Now it?s no part at all.) Tj
+T*
+() Tj
+T*
+(4. Markdown Now Has a UTI in Apple?s Version 27 OSes) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-06T20:38:43Z) Tj
+T*
+(Link:) Tj
+T*
+(https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown) Tj
+T*
+(The third developer betas of Apple?s 27 OSes dropped today, and this new page in Apple?s) Tj
+T*
+(developer documentation drew my attention ? a built-in Uniform Type Identifier for Markdown) Tj
+T*
+(data: UTI: net.daringfireball.markdown Conforms to: public.utf8-plain-text I had previously) Tj
+T*
+(recommended conforming to public.plain-text but stated that the text encoding should be UTF-8.) Tj
+T*
+(I?ve updated my own recommendation to public.utf8-plain-text to enshrine the UTF-8 encoding.) Tj
+T*
+(\(Back in 2004 UTF-8 support was far from universal. Today it is.\) ?) Tj
+T*
+() Tj
+T*
+(5. Backblaze Versus Dropbox) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-06T18:34:38Z) Tj
+T*
+(Link: https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/) Tj
+T*
+(There?s a been a lot of \(justified\) concern and consternation over the last year regarding) Tj
+T*
+(Backblaze ? an online backup service whose simple pitch is that it backs up your entire) Tj
+T*
+(computer, including the startup drive and external drives ? and online file storage services) Tj
+T*
+(like iCloud Drive, Dropbox, Google Drive, and Microsoft OneDrive. Backblaze stopped including) Tj
+T*
+(the contents of such services in its backups. Michael Tsai \(as usual\) collected a long list of) Tj
+T*
+(links regarding this . The whole thing is complicated and confusing. The basic gist, I think,) Tj
+T*
+(is that Backblaze has stopped trying to back up the contents from these services because) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4695 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(sometimes the files aren?t really there on your local file system, but they sorta kinda look) Tj
+T*
+(like they?re there. That?s what I meant in my post earlier today about Maestral regarding) Tj
+T*
+(Apple?s modern File Provider APIs. You know how sometimes in iCloud Drive ? or Dropbox or) Tj
+T*
+(OneDrive or anything else that might use these APIs ? you can see a file or folder in the) Tj
+T*
+(Finder, but there?s a ?cloud? icon next to it, and you have to click the cloud icon to actually) Tj
+T*
+(download it? That. With Maestral none of that comes into play. Maestral just keeps a folder on) Tj
+T*
+(y...) Tj
+T*
+() Tj
+T*
+(6. I opened a file with FILE_FLAG_DELETE_ON_CLOSE, but now I changed my mind) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 06 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260706-00/?p=112506) Tj
+T*
+(You can't change your mind, but you can do it a different way. The post I opened a file with) Tj
+T*
+(FILE_ FLAG_ DELETE_ ON_ CLOSE , but now I changed my mind appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(7. Amazon Basics, but for intellectual property.) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Mon, 06 Jul 2026) Tj
+T*
+(07:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/amazon-basics-but-intellectual-property) Tj
+T*
+(Amazon has been accused several times for ripping off merchants on its platform. And every) Tj
+T*
+(single time they denied any wrongdoing. A merchant, or anyone really, can create a product \(or) Tj
+T*
+(source it from China\), then resell it on amazon. Amazon is the service provider, and hosts all) Tj
+T*
+(the metrics concerning the products. If Amazon themselves were in the business of creating and) Tj
+T*
+(selling products, then that creates a potential of conflict of interest. Because they have the) Tj
+T*
+(data of all products that sell and sell well. They could replicate that success without doing) Tj
+T*
+(any further research since the merchant has already confirmed the existence of demand. It's not) Tj
+T*
+(surprising that Amazon Basics quickly became the best selling "private-label brand" on Amazon.) Tj
+T*
+(They already know what sells because they have access to the data. Yet they continued to deny) Tj
+T*
+(it, and state that they only ever use publicly available data from sellers . An Amazon) Tj
+T*
+(spokesperson said the company believes the allegations are "factually incorrect and) Tj
+T*
+(unsubstantiated," adding that Amazon strictly prohibits the "use or sharing of non-public,) Tj
+T*
+(seller-specific data for the benefit of any seller, including sellers of private brands...) Tj
+T*
+() Tj
+T*
+(8. Life with hazard ratios) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-07-06T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/hazard-ratios/) Tj
+T*
+(If you read anything about health or longevity, you?ll soon find yourself in a world of hazard) Tj
+T*
+(ratios. Some study might say that eating more fiber might change your risk of dying by a factor) Tj
+T*
+(of HR = 0.90. Another might say that occasional smoking might change it by HR = 1.30. But how) Tj
+T*
+(much should you care about that? Is HR = 0.90 or HR = 1.30 a lot? What if you don?t want to eat) Tj
+T*
+(more fiber? What if you like smoking? Instead of staring at a ratio 1 , a more sensible thing) Tj
+T*
+(to do is think about life expectancy. 2 But is it possible to convert a hazard ratio to a) Tj
+T*
+(change in life expectancy? You might reason as follows: Baseline life expectancy is around 75) Tj
+T*
+(years. And HR = 0.90 corresponds to a 10% decrease in mortality. So perhaps that hazard ratio) Tj
+T*
+(corresponds to something like 7.5 extra years of life expectancy? Unfortunately, that?s) Tj
+T*
+(completely wrong. To see why, imagine that humans only die by playing Russian roulette. They) Tj
+T*
+(start playing this once per day at the age of 75, with a revolver containing two bullets and) Tj
+T*
+(six chambers. If you were to remove one of those two bullets, that would drop the person?s risk) Tj
+T*
+(of death by HR = 0.5. \(One bullet versus two.\) But life expectancy would bar...) Tj
+T*
+() Tj
+T*
+(9. Using Linux tc to limit the outgoing bandwidth of a web server) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-07-07T03:06:40Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth) Tj
+T*
+(Suppose, not hypothetically, that you have a web server that's using as much of your server's) Tj
+T*
+(bandwidth as it can get and you would like it to use less bandwidth than that, so that you can) Tj
+T*
+(get a word in edgewise \(for backups, for example\) or just because you don't feel like donating) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4424 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(1/10th of your outgoing bandwidth in apparent perpetuity to people who should be building local) Tj
+T*
+(caches. There are various ways you might do this, for example using FreeBSD pf on your) Tj
+T*
+(perimeter firewall, but the lowest impact and risk option is to do it on the \(Linux\) web server) Tj
+T*
+(itself with tc\(8\) , the Linux traffic control system. Conveniently I've already done a tiny bit) Tj
+T*
+(with tc to fight bufferbloat latency . There are probably a variety of ways to do this in tc\(8\)) Tj
+T*
+(, but what I'm using right now is mostly pulled from the Arch wiki . It goes like this: We have) Tj
+T*
+(to switch our device, which is eno1 for me, to using Hierarchy Token Bucket as its top level) Tj
+T*
+(qdisc \(queueing discipline\), and in the process set a default class that otherwise unclassified) Tj
+T*
+(packets will be assigned to. tc qdisc del dev eno1 root tc qdisc add dev eno1 root handle 1:) Tj
+T*
+(htb default 30 r2q 1000 Following the Arch example, the default cl...) Tj
+T*
+() Tj
+T*
+(10. Reproducing a geometry theorem diagram) Tj
+T*
+(Source: John D. Cook | Published: Mon, 06 Jul 2026 14:22:35 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/) Tj
+T*
+(I ran across a geometry theorem with the following diagram. The theorem corresponding to the) Tj
+T*
+(diagram is interesting, but I found reproducing the diagram more interesting. The segment AB is) Tj
+T*
+(a diameter and the line CD is perpendicular to the diameter. Assume the outer circle is a unit) Tj
+T*
+(circle. I guessed C = \(cos\(1\), sin\(1\)\) and made the [?] The post Reproducing a geometry theorem) Tj
+T*
+(diagram first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. e approximation) Tj
+T*
+(Source: John D. Cook | Published: Mon, 06 Jul 2026 12:22:29 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/06/e-approximation/) Tj
+T*
+(I ran across the approximation e ? 2721/1001 recently. What makes this remarkable is its) Tj
+T*
+(accuracy relative to the size of the denominator. You can create a trivial approximation just) Tj
+T*
+(by truncating a decimal expansion e ? 2718/1000 but this is only good to four significant) Tj
+T*
+(figures, but 2721/1001 is good to seven, almost eight, [?] The post e approximation first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Stephan's Quintet) Tj
+T*
+(Source: Maurycy's Blog | Published: Mon, 06 Jul 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/astro/h92/) Tj
+T*
+(North is right \(mirrored\). 0.53"/pixel [17'x12' field]. FWHM=3.7" Ok, this is a crazy one. Five) Tj
+T*
+(tightly spaced galaxies with visible tidal interactions: However, looking at redshift data, the) Tj
+T*
+(blue spiral on the left is ten times closer than all the other objects: at z=0.0026 instead of) Tj
+T*
+(z=0.022. This means it's not actually a member of the group, even though it's in the same part) Tj
+T*
+(of of the sky. The dim barred spiral below the cluster \(NGC 7320C\) is at a redshift of z=0.022,) Tj
+T*
+(making it a proper member of the group. This interloper takes the total back to five, so) Tj
+T*
+(there's no need to rename the cluster. Speaking of names, this cluster is also known as Hickson) Tj
+T*
+(Compact Group 92 and as Arp 319. There's a weird double galaxy : NGC 7318. It looks like a) Tj
+T*
+(barred spiral galaxy, but has two nuclei, so it's the result of a recent galaxy collision. The) Tj
+T*
+(NGC 7318 pair is also interacting with NGC 7320C, a true barred spiral, although heavly) Tj
+T*
+(distorted: one of it's arms is stetched into massive tidal plume extending 2 arcminutes below) Tj
+T*
+(it. Total exposure time: 501 * 30 seconds = 4.2 hours. Used in stack: 437 * 30 seconds = 3.6) Tj
+T*
+(hours. Telescope: C9.25 \(230mm, f/10, fl=2300mm\) + 0.63 Starizona reducer C...) Tj
+T*
+() Tj
+T*
+(13. Premium: The Hater's Guide To SoftBank) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Mon, 06 Jul 2026 14:23:20 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-the-haters-guide-to-softbank/) Tj
+T*
+(Soundtrack: Ozzy Osbourne ? Mr. Crowley A lot of people have been making a lot of fun of the) Tj
+T*
+(SoftBank 46th annual shareholder meeting and Masayoshi Son?s \(to quote Bryce Elder of the) Tj
+T*
+(Financial Times\) Untethered Goose Game , specifically referring to slides that, well, looked) Tj
+T*
+(like this: As) Tj
+T*
+() Tj
+T*
+(14. GLM 5.2 and the coming AI margin collapse \(part 1\)) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 867 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Martin Alderson | Published: Mon, 06 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/?utm_sour) Tj
+T*
+(ce=rss&utm_medium=rss&utm_campaign=feed) Tj
+T*
+(GLM 5.2 is the first open weights model I'd call a genuine competitor to Opus and GPT for) Tj
+T*
+(agentic work - at ~15-20% of the price. Part one of why AI inference margins are about to) Tj
+T*
+(collapse.) Tj
+T*
+() Tj
+T*
+(15. My blog has moved) Tj
+T*
+(Source: Matthew Garrett | Published: Mon, 06 Jul 2026 09:03:04 GMT) Tj
+T*
+(Link: https://mjg59.dreamwidth.org/74260.html) Tj
+T*
+(A reminder that I am no longer here, but am instead here . The new RSS feed is here . If you're) Tj
+T*
+(still reading this for some reason other than being on Dreamwidth, please update your feed.) Tj
+T*
+(comments) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004512 00000 n 
+0000004638 00000 n 
+0000009385 00000 n 
+0000009511 00000 n 
+0000013987 00000 n 
+0000014113 00000 n 
+0000015032 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15160
+%%EOF
