@@ -1,0 +1,556 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4593 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-09 12:54:52) Tj
+T*
+() Tj
+T*
+(1. The Special Value Pi 4 was extremely short-lived) Tj
+T*
+(Source: Jeff Geerling | Published: Wed, 08 Jul 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/) Tj
+T*
+(The 'Special Value' Pi 4 pictured above is probably the rarest Raspberry Pi I own?even rarer) Tj
+T*
+(than my blue special edition Pi . A Raspberry Pi reseller briefly listed a special 'value) Tj
+T*
+(edition' Pi 4 . But the product page 404's now. While it was up, my curiosity got the better of) Tj
+T*
+(me, and now I have two 'value' Pi 4s. What makes them a 'value'? They're only certified to run) Tj
+T*
+(at 1.25 GHz \(retail Pi 4s run at 1.8 GHz, and can usually be overclocked\).) Tj
+T*
+() Tj
+T*
+(2. Rewriting Bun in Rust) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-08T23:57:21+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything) Tj
+T*
+(Rewriting Bun in Rust Jarred Sumner has been promising this blog post \( since May 9th \) about) Tj
+T*
+(his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite.) Tj
+T*
+(Honestly, it was worth the wait. This is a detailed description of an extremely sophisticated) Tj
+T*
+(piece of agentic engineering, featuring dynamic workflows, trial runs, adversarial review and) Tj
+T*
+(all sorts of other interesting tricks. Jarred spends the first half of the post praising Zig) Tj
+T*
+(for getting Bun this far. Then we get to a core idea in the piece, emphasis mine: Our bugfix) Tj
+T*
+(list felt bad and I was tired of going to sleep worrying about crashes in Bun. I don't blame) Tj
+T*
+(Zig for that - other users of Zig don't have the bugs we had, and mixing GC with) Tj
+T*
+(manually-managed memory is an uncommon enough thing for software to need that no language) Tj
+T*
+(really designs for it. We wouldn't have gotten this far if not for Zig, and I'll always be) Tj
+T*
+(grateful. Until very recently, programming language choice was a one-way decision for a project) Tj
+T*
+(like Bun. Everyone knows you should never stop the world and rewrite a large piece of software) Tj
+T*
+(from the ground up. Joel Spolsky highlighted that in Things You Should Never Do, Part I b...) Tj
+T*
+() Tj
+T*
+(3. Introducing GPT?Live) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-08T23:20:48+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything) Tj
+T*
+(Introducing GPT?Live OpenAI finally upgraded the model used by ChatGPT voice mode! I've had) Tj
+T*
+(preview access for a few weeks in the iPhone app, and the new model is very impressive. It also) Tj
+T*
+(has the ability to spin off harder tasks to GPT-5.5: For questions that require web search,) Tj
+T*
+(deeper reasoning, or more complex work, it delegates to our latest frontier model behind the) Tj
+T*
+(scenes and brings the result back into the conversation when it?s ready. While it works,) Tj
+T*
+(GPT?Live can keep talking with you and maintain the flow of conversation. At launch, GPT?Live) Tj
+T*
+(will use GPT?5.5 in the background. As we release new frontier models, we?ll continuously) Tj
+T*
+(update the model used by GPT?Live. The previous voice mode in the ChatGPT app was based on a) Tj
+T*
+(GPT-4o era model, with a knowledge cut-off some time in 2024. I had mostly stopped using voice) Tj
+T*
+(mode because the age and relative weakness of the model greatly limited how useful it was as a) Tj
+T*
+(brainstorming partner. During the preview period I encountered a pretty obscure bug: the model) Tj
+T*
+(was interrupting me to laugh at things I said, which weren't even intended as jokes! It felt) Tj
+T*
+(rude and condescending - I reported it to OpenAI and as far as I can tell they mad...) Tj
+T*
+() Tj
+T*
+(4. Quoting Kenton Varda) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-08T20:03:34+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything) Tj
+T*
+(I just declared a moratorium against AI-written change descriptions \(e.g. PR and commit) Tj
+T*
+(messages, also issues/tickets\) from my team. AI was writing change descriptions that were worse) Tj
+T*
+(than useless to me as I tried to review PRs: outlining details of the code that could easily be) Tj
+T*
+(seen by looking at the code, but omitting the higher-level framing needed to understand broadly) Tj
+T*
+(what the code is doing. ? Kenton Varda Tags: kenton-varda , ai-assisted-programming ,) Tj
+T*
+(generative-ai , ai , llms) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4391 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(5. Felons, Fraudsters Flog Offensive Cybersecurity Startup) Tj
+T*
+(Source: Krebs on Security | Published: Wed, 08 Jul 2026 12:31:39 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/) Tj
+T*
+(A cybersecurity startup dangling millions of dollars to acquire zero-day security) Tj
+T*
+(vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and) Tj
+T*
+(convicted felons whose most recent ventures included fake intelligence companies and a) Tj
+T*
+(now-defunct AI-based lobbying platform they operated under assumed names.) Tj
+T*
+() Tj
+T*
+(6. And Then the Billionaire Paid Off $550 Million of Our Debts) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Wed, 08 Jul 2026) Tj
+T*
+(08:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts) Tj
+T*
+(Imagine being worth $2 billion. Would you give away $550 million? That's a quarter of your) Tj
+T*
+(wealth, more money than I could spend in several lifetimes. Yet that's how much Evan Spiegel,) Tj
+T*
+(the CEO of Snapchat, and his wife have donated to a charity in California. Specifically, they) Tj
+T*
+(donated to Undue Medical Debt, an organization that buys Californians' medical debts and) Tj
+T*
+(expunges them. A noble act. I'm not one to tell you that billionaires shouldn't exist, or what) Tj
+T*
+(is or isn't fair in a system I don't control. But one thing I've come to see over the years is) Tj
+T*
+(that public good deeds are rarely what they seem. Whether it's a feel-good story on the news, a) Tj
+T*
+(TV show pimping your car, or another turning your house into a mansion, there's an underlying) Tj
+T*
+(truth that often gets obscured by the appearance of a good deed. Bill Gates, who was once the) Tj
+T*
+(richest man in the world, pledged to leave almost all his money to charity. Over the years this) Tj
+T*
+(story has been repeated, and I'm the last person to tell you how to feel about it. For me, it's) Tj
+T*
+(a good thing to help a charitable organization that's trying to help others. Last year, Bill) Tj
+T*
+(Gates renewed this pledge, stating that he would give away around $200 b...) Tj
+T*
+() Tj
+T*
+(7. ? What?s Good for the iOS Goose Is Often Not Good for the MacOS Gander) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-09T01:45:08Z) Tj
+T*
+(Link: https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the) Tj
+T*
+(_macos_gander) Tj
+T*
+(App icons in MacOS are not mere buttons. You can drag them, move them, and drop things on them.) Tj
+T*
+(You click them to select, and double-click to launch. They are richer objects that deserve a) Tj
+T*
+(richer visual vocabulary.) Tj
+T*
+() Tj
+T*
+(8. ?PARRY Encounters the DOCTOR? ? Chatbot on Chatbot Action Circa 1973) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-08T22:38:06Z) Tj
+T*
+(Link: https://www.rfc-editor.org/info/rfc439/) Tj
+T*
+(Back in the primordial days of AI, PARRY was an ELIZA-style chatbot created by psychiatrist) Tj
+T*
+(Kenneth Colby to simulate the words of a paranoid schizophrenic. Someone had the genius idea to) Tj
+T*
+(connect it to ELIZA \(a.k.a. ?DOCTOR?\). Vint Cerf published the transcript as an RFC in 1973,) Tj
+T*
+(and I laughed my ass off reading it. A taste: Do you know anything about bookies? What makes) Tj
+T*
+(you think I know anything about bookies? A bookie didn?t pay me off once. What does that) Tj
+T*
+(suggest to you? I beat up the bookie who did not pay off, and I thought he might use his) Tj
+T*
+(friends in the underworld to get even with me. What else would you like to discuss? What do you) Tj
+T*
+(know about racketeers? Thanks to Bob Peterson for the link. Vint Cerf, by the way, retired from) Tj
+T*
+(Google last week at the spry age of 83. ?) Tj
+T*
+() Tj
+T*
+(9. Mac Apps Can Escape From Squircle Jail If They?re Not in the Mac App Store) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-08T21:03:21Z) Tj
+T*
+(Link: https://tyler.io/2026/07/05/escape-from-squircle-jail/) Tj
+T*
+(Tyler Hall: We all know about macOS Tahoe?s terrible app icons and how 3rd party developers) Tj
+T*
+(have been confined to squircle jail . If you?re lucky enough to distribute an app outside the) Tj
+T*
+(Mac App Store, you can break free of squircle jail using NSDockTilePlugIn . It?s not strictly) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4413 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(the intended use-case of that API. And it?s not allowed in the Mac App Store, either. But it) Tj
+T*
+(can solve the problem. So today?s release of Iris adds three additional app icons to choose) Tj
+T*
+(from in the app?s Special Preferences Settings pane. And since they use the NSDockTilePlugIn) Tj
+T*
+(API, the custom icon remains even when you quit the app. Iris is far from the only app using) Tj
+T*
+(this or other techniques to sort-of escape squircle jail. All the apps I?m aware of doing) Tj
+T*
+(something like this are Mac-assed apps . It?s a good litmus test. ?) Tj
+T*
+() Tj
+T*
+(10. The other kind of control flow guard check: The combined validate and call) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 08 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510) Tj
+T*
+(A two-in-one package. The post The other kind of control flow guard check: The combined) Tj
+T*
+(validate and call appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(11. BMCs and a surprising USB network device on your server) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-07-09T01:50:12Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/tech/BMCsAndUSBEthernetDevices) Tj
+T*
+(Suppose, not entirely hypothetically, that you're installing a server with two network ports) Tj
+T*
+(and during the \(Linux\) installation, a third network device shows up with a funny name like) Tj
+T*
+('enp1s0f4u1u2c2', which is a USB Ethernet device \(despite you not having any such thing plugged) Tj
+T*
+(in to the server's USB ports\). To your further surprise, your server installer can even lease a) Tj
+T*
+(DHCP IP on this interface, say "169.254.3.1". Congratulations, your server has a BMC , and this) Tj
+T*
+(BMC probably speaks Redfish , which is sort of the modern, cloud influenced version of IPMI .) Tj
+T*
+(One of the things you'd like to do on a server with a BMC is have the server \(the 'host'\) talk) Tj
+T*
+(directly to the BMC, for example to get sensor information that only the BMC has or to) Tj
+T*
+(configure the BMC. In the world of IPMI, people had to put together special methods to talk to) Tj
+T*
+(the BMC , which required kernel drivers, extracting information from SMBIOS , and so on. This) Tj
+T*
+(isn't the greatest, and is also not at all like how you talk to the management agent in cloud) Tj
+T*
+(virtual machines, where you generally talk to the management agent by making HTTP requests to a) Tj
+T*
+(special IP address. IPMI is in part a network protocol, but talking to...) Tj
+T*
+() Tj
+T*
+(12. Arp 90) Tj
+T*
+(Source: Maurycy's Blog | Published: Wed, 08 Jul 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/astro/arp90/) Tj
+T*
+(North is up \(mirrored, exact\). 0.53"/px [15' x 9.2' field]. FWHM = 3.9" Arp 90 is the two) Tj
+T*
+(interacting galaxies in the east. The west of the image has a wierd distorted galaxy \(?\), with) Tj
+T*
+(a similar redshift to the interacting pair. This means it could be a tidal fragment, or a) Tj
+T*
+(gravitationally bound irregular galaxy... I really don't know. Total exposure time: 314 * 30) Tj
+T*
+(seconds = 2.6 hours. Used in stack: 276 * 30 seconds = 2.3 hours. Telescope: C9.25 \(230mm,) Tj
+T*
+(f/10, fl=2300mm\) + 0.63 Starizona reducer Camera: IMX533 \(16mm diagonal, square, color\)) Tj
+T*
+(Processing: Callibration \(dark + flat\) Stacking \(average w/ outlier rejection\) White balance) Tj
+T*
+(and background subtraction \(no gradient removal\) Asinh stretch \(color preserving\) Rotation +) Tj
+T*
+(crop Tone curve Taken during one night, with typical \(ML-free\) processing... except I rotated) Tj
+T*
+(the image before cropping to align it to north. This should make it easier to cross reference.) Tj
+T*
+(Related : https://ned.ipac.caltech.edu/level5/Arp/Figures/big_arp90.jpeg : Arp's image.) Tj
+T*
+(/astro/arp90/stack.fits.fz : Raw stacks.) Tj
+T*
+() Tj
+T*
+(13. The console wars have been lost) Tj
+T*
+(Source: Xe Iaso's blog | Published: Thu, 09 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/notes/2026/console-wars-lost/) Tj
+T*
+(Valve wins by doing absolutely nothing) Tj
+T*
+() Tj
+T*
+(14. Agents are monads \(but not that kind\)) Tj
+T*
+(Source: Xe Iaso's blog | Published: Wed, 08 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/blog/2026/hyle-pneuma/) Tj
+T*
+(I managed to write this without using the word endofunctor once. Wait, shit, I just did. Uhhh,) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4741 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(oops!) Tj
+T*
+() Tj
+T*
+(15. Family Feud: Mac-assed Mac App Edition) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Wed, 08 Jul 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/mac-assed-family-feud/) Tj
+T*
+(?We asked 100 people: What are the top three companies on earth best positioned to make a) Tj
+T*
+(world-class Mac-assed Mac app ?? Buzz! ?Apple!? Survey says: Yes! Apple at the number one spot.) Tj
+T*
+(Makes sense. Who better to make the very definition of a great Mac app than the people who make) Tj
+T*
+(the Mac? No brainer, I suppose. Granted, they?ve had some misses , but nobody bats 1000. Ok,) Tj
+T*
+(let?s keep going. ?We asked 100 people: What are the top three companies on earth best) Tj
+T*
+(positioned to make a world-class Mac-assed Mac app?? Buzz! ?Anthropic!? Survey says: Wow,) Tj
+T*
+(that?s odd huh? You?d think Anthropic would be right there at number two. Not only do they have) Tj
+T*
+(billions of dollars, but they also develop, maintain, and control the super intelligence we?ll) Tj
+T*
+(all soon be subservient too, right? Surely if anyone \(besides Apple\) is well positioned to make) Tj
+T*
+(a world-class Mac app, it would have to be Anthropic ? right? And yet, here we are with Claude) Tj
+T*
+(Desktop as an Electron app . Ok, let?s keep going. ?We asked 100 people: What are the top three) Tj
+T*
+(companies on earth best positioned to make a world-class Mac-assed Mac app?? Buzz! ?Adobe!?) Tj
+T*
+(Maybe not . Buzz! ?Google!? Not so much . I?m sorry, but that?s three strikes...) Tj
+T*
+() Tj
+T*
+(16. Writing an LLM from scratch, part 34b -- from bigrams to GPT-2, one component at a) Tj
+T*
+(time \(in JAX\)) Tj
+T*
+(Source: Giles' blog | Published: Wed, 08 Jul 2026 18:45:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/07/llm-from-scratch-34b-building-and-training-gpt-2-smal) Tj
+T*
+(l-in-jax) Tj
+T*
+(This post is the capstone of the most long-running series on my blog . In December 2024 \(!\), I) Tj
+T*
+(started reading Sebastian Raschka 's book " Build a Large Language Model \(from Scratch\) ", and) Tj
+T*
+(worked through it carefully. Being who I am, despite trying to apply a strict "no side quests") Tj
+T*
+(policy, I found myself zooming off and digging into all kinds of things. It's time to wrap it) Tj
+T*
+(up. I had decided that the endpoint would be to build and train an LLM from scratch just using) Tj
+T*
+(my notes -- no reference to the book, no reference to the model code I'd written when following) Tj
+T*
+(the book. After an X/Twitter poll, I decided to use JAX for that, just to make sure that I) Tj
+T*
+(really was building it from scratch and not regurgitating bits of PyTorch code like a bad) Tj
+T*
+(coding LLM spitting out half-digested lumps of Stack Overflow. In my last post , I showed how I) Tj
+T*
+(built a JAX training script that mirrored what I had built for the original PyTorch version of) Tj
+T*
+(the model. To test it as I went along, I used it to train a really dumb "LLM", which instead of) Tj
+T*
+(trying to predict the next token for every token in an input sequence, instead predicted the) Tj
+T*
+(input -- that is, if you fed it The fat cat sat on the mat It would...) Tj
+T*
+() Tj
+T*
+(17. poppy the training box, part 1: the beginnings) Tj
+T*
+(Source: Giles' blog | Published: Thu, 09 Jul 2026 01:00:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/07/poppy-the-training-box-1-the-beginnings) Tj
+T*
+(For a while I've been planning to put together a separate machine for local LLM training. Until) Tj
+T*
+(now, I've been using my desktop PC, perry . I have an RTX 3090 installed, and can get useful) Tj
+T*
+(training runs done \(most recently, a 163M-parameter GPT-2 small style LLM in JAX \), but there) Tj
+T*
+(are a couple of problems. perry is my daily driver. If he's doing a training run, then) Tj
+T*
+(everything is just a little bit sluggish as CPU and GPU alike are busy. Although I don't play) Tj
+T*
+(games often, it's annoying to have the option ruled out for days at a time. While the GPU is) Tj
+T*
+(busy with a training run, I can't do other experiments in parallel -- for example, to scope out) Tj
+T*
+(what the next step might be. And relatedly to all of those: the two-day limit to the training) Tj
+T*
+(runs I've been doing is something I set because that's the maximum amount of time I'm willing) Tj
+T*
+(to have perry tied up. It would be really interesting to try longer training runs! I also have) Tj
+T*
+(longer-term plans; a multi-GPU box would be interesting to put together -- not just to have) Tj
+T*
+(more power locally, but so that I could test larger-scale cloud multi-GPU training runs before) Tj
+T*
+(starting to pay for expensive machines. US$15.92 an hour to rent a machine i...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 738 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(18. Weekly Update 511: Live from my Riad in Marrakech) Tj
+T*
+(Source: Troy Hunt | Published: Wed, 08 Jul 2026 13:54:46 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-511/) Tj
+T*
+(How's this for a location?! I mean, last week was nice with Scott in Mallorca, but Marrakech) Tj
+T*
+(is, well, wow ? Anyway, about those data breaches... This week I'm talking about the futility) Tj
+T*
+(of attempting to remove piss from a pool , yet here we are, with) Tj
+T*
+() Tj
+T*
+(19. The Decline of Deviance 2) Tj
+T*
+(Source: Experimental History | Published: Wed, 08 Jul 2026 16:10:54 GMT) Tj
+T*
+(Link: https://www.experimental-history.com/p/the-decline-of-deviance-2) Tj
+T*
+(2 Decline, 2 Deviance) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004862 00000 n 
+0000004988 00000 n 
+0000009431 00000 n 
+0000009557 00000 n 
+0000014022 00000 n 
+0000014148 00000 n 
+0000018942 00000 n 
+0000019070 00000 n 
+0000019860 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+19988
+%%EOF
