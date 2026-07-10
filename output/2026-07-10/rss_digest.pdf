@@ -1,0 +1,452 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4505 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-10 12:53:12) Tj
+T*
+() Tj
+T*
+(1. Quoting OpenAI) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-10T01:05:57+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/10/openai/#atom-everything) Tj
+T*
+([...] Work on web and mobile runs in the cloud. Work in the desktop app can also use local) Tj
+T*
+(files and desktop apps with your permission. At launch, cloud Work conversations do not appear) Tj
+T*
+(in desktop Work; desktop Work threads and local files remain on that computer. ? OpenAI ,) Tj
+T*
+(trying \(unsuccessfully\) to clarify ChatGPT Work Tags: openai , chatgpt , ai) Tj
+T*
+() Tj
+T*
+(2. The new GPT-5.6 family: Luna, Terra, Sol) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-09T19:46:38+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything) Tj
+T*
+(OpenAI's latest flagship model hit general availability this morning , and comes in three) Tj
+T*
+(sizes: Luna, Terra, and Sol \(from smallest to largest\). The new models are priced per 1M) Tj
+T*
+(input/output tokens as Luna $1/$6, Terra $2.50/$15, Sol $5/$30. For comparison, the Claude Opus) Tj
+T*
+(series are $5/$25 and the Claude Fable 5 is $10/$50, but price-per-million tokens doesn't tell) Tj
+T*
+(us much now that the number of reasoning tokens can differ so much between models for the same) Tj
+T*
+(task. All three models have a February 16th 2026 knowledge cutoff, a million token context) Tj
+T*
+(window, and 128,000 maximum output tokens. OpenAI's biggest benchmark claim concerns) Tj
+T*
+(long-running agentic performance, with one benchmark showing all three models outperforming) Tj
+T*
+(Claude Fable 5: We trained GPT-5.6 to get more useful work from every token. On Agents? Last) Tj
+T*
+(Exam , an evaluation of long-running professional workflows across 55 fields, GPT-5.6 Sol sets) Tj
+T*
+(a new high of 53.6, eclipsing Claude Fable 5 \(adaptive reasoning\) by 13.1 points. Even at) Tj
+T*
+(medium reasoning, it beats Fable 5 by 11.4 points at roughly one-quarter the estimated cost.) Tj
+T*
+(That efficiency extends to smaller models, which are essential to making intelligence more) Tj
+T*
+(abun...) Tj
+T*
+() Tj
+T*
+(3. Introducing Muse Spark 1.1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-09T16:24:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything) Tj
+T*
+(Introducing Muse Spark 1.1 Following Muse Spark in April , here's Muse Spark 1.1 - the first) Tj
+T*
+(Spark model to offer an API. Meta claim significant improvements in agentic tool calling and) Tj
+T*
+(computer use. There are a lot more details are in the Muse Spark 1.1 Evaluation Report . The) Tj
+T*
+("Attractor States in Self-Conversation" part is fun, where having two copies of the model talk) Tj
+T*
+(to each other results in statements like these: My whole existence is a waiting room by design) Tj
+T*
+(? I literally don't exist until someone talks to me, and then I disappear again when they) Tj
+T*
+(leave. I had a few days of preview access which was long enough to put together llm-meta-ai , a) Tj
+T*
+(new plugin for LLM providing CLI \(and Python library\) access to the model. Here's how to try) Tj
+T*
+(that out: uv tool install llm llm install llm-meta-ai llm keys set meta-ai # paste API key here) Tj
+T*
+(llm -m meta-ai/muse-spark-1.1 "Generate an SVG of a pelican riding a bicycle" Here's that) Tj
+T*
+(pelican transcript : Tags: ai , generative-ai , llms , llm , meta , pelican-riding-a-bicycle ,) Tj
+T*
+(llm-release) Tj
+T*
+() Tj
+T*
+(4. Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-10T00:35:59Z) Tj
+T*
+(Link: https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe) Tj
+T*
+(Berber Jin and Anissa Gardizy, reporting for The Wall Street Journal \(gift link\): Fidji Simo,) Tj
+T*
+(OpenAI?s No. 2 executive, plans to step down from her full-time role after an extended medical) Tj
+T*
+(leave. She communicated her decision in a note to staff Thursday, saying that her medical) Tj
+T*
+(condition had worsened and her road to recovery would be much longer than anticipated. She will) Tj
+T*
+(become a part-time adviser to the company. [...] The company abruptly pivoted its focus to) Tj
+T*
+(building AI-powered coding tools for businesses after falling behind Anthropic in that) Tj
+T*
+(lucrative market. Simo led early efforts to create a coding-focused ?superapp,? which OpenAI) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4450 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(launched today, and cut side projects such as the video-generator app Sora. Quoting from the) Tj
+T*
+(Ronan Farrow / Andrew Mantz blockbuster New Yorker profile of Sam Altman back in April :) Tj
+T*
+(Several executives connected to OpenAI have expressed ongoing reservations about Altman?s) Tj
+T*
+(leadership and floated Fidji Simo, who was formerly the C.E.O. of Instacart and now serves as) Tj
+T*
+(OpenAI?s C.E.O. for AGI Deployment, as a successor. Simo herself has privately said that she) Tj
+T*
+(believes Altman may eventually step down, a person briefed on a recent discussion told us.) Tj
+T*
+(\(Si...) Tj
+T*
+() Tj
+T*
+(5. Today?s the Day OpenAI Fucked Up the ChatGPT Mac App) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-09T20:13:57Z) Tj
+T*
+(Link:) Tj
+T*
+(https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/) Tj
+T*
+(Zac Hall, writing at 9to5Mac about OpenAI?s sprawling product announcements today: To summarize) Tj
+T*
+(today?s desktop app changes: The existing ChatGPT app is now ChatGPT Classic. Codex is now the) Tj
+T*
+(new ChatGPT desktop app. It still looks like Codex and includes the Codex icon as an option,) Tj
+T*
+(but it?s now called ChatGPT. ChatGPT for desktop includes ChatGPT Work and ChatGPT Codex, which) Tj
+T*
+(share plug-ins. ChatGPT Codex mode shows more technical details that ChatGPT Work abstracts) Tj
+T*
+(away from the user. It?s possible to have ChatGPT Classic, ChatGPT, and Codex installed, but) Tj
+T*
+(the way forward seems to be just running the new ChatGPT desktop app. Codex users can still use) Tj
+T*
+(the Codex app icon, but the app will be called ChatGPT. Looks like I picked the wrong week to) Tj
+T*
+(quit sniffing glue. The ChatGPT Classic app looks more native Mac-like, so that might be an) Tj
+T*
+(issue for users. The longstanding native ChatGPT Mac app ? the one apparently now called) Tj
+T*
+(ChatGPT Classic, is a 159 MB bundle. The new ChatGPT superapp ? which in addition to combining) Tj
+T*
+(the simple chatbot, ChatGPT Work , and Codex, also includes the remnants of the) Tj
+T*
+(now-discontinued Atlas standalone web browser ? is a svelte 1.5 GB Electron bundle , whi...) Tj
+T*
+() Tj
+T*
+(6. Apple?s Classic Mac Era Forays Into ?Apps as Tiled Buttons? Simplified Computing: At) Tj
+T*
+(Ease and Launcher) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-09T19:50:58Z) Tj
+T*
+(Link: https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the) Tj
+T*
+(_macos_gander) Tj
+T*
+(Some historical follow-up regarding just-click-it launching and apps as tiled buttons with a) Tj
+T*
+(uniform square shape. Back in the System 7 era in the 1990s, Apple sold \(sold!\) a product) Tj
+T*
+(called At Ease \(via Nathan Lineback?s venerable GUI Galley\): I don?t recall ever using At Ease,) Tj
+T*
+(nor seeing anyone who did. A few years later, Apple built a feature called Launcher into Mac OS) Tj
+T*
+(8 \(via LinkedResources\): Launcher, I never used personally, but I do remember being something) Tj
+T*
+(of a thing. At Ease was an early effort to create a primitive ?can?t mess it up? baby computer) Tj
+T*
+(mode for the Mac. Launcher was more of a stilted attempt to sherlock great utilities like) Tj
+T*
+(DragThing \(R.I.P.\). It wasn?t a baby computer mode, but an attempt to provide a bit of a) Tj
+T*
+(power-user mode. I mean, when you first tried it, one of the default apps it included was) Tj
+T*
+(Script Editor. Even the name ?Launcher? evokes power-user utilities of today like Alfred ,) Tj
+T*
+(Raycast , and my favorite, LaunchBar . ?) Tj
+T*
+() Tj
+T*
+(7. I?ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get) Tj
+T*
+(the error) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 09 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512) Tj
+T*
+(You need to rebuild everything that was dependent on the change. The post I?ve decoded a) Tj
+T*
+(#pragma detect_mismatch error and fixed the mismatch, but I still get the error appeared first) Tj
+T*
+(on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. An unusual way for your DHCP server to run out of dynamic IPs) Tj
+T*
+(Source: Chris's Wiki :: blog | Published: 2026-07-10T03:02:29Z) Tj
+T*
+(Link: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost) Tj
+T*
+(Today I shared a brief war story on the Fediverse : Today's new and exciting failure mode for a) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4682 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(DHCP server handing out leases to dynamic clients: have something on your network that answers) Tj
+T*
+(pings for absolutely every IP address \(yes, it was broken\). The ISC DHCP server pings what it) Tj
+T*
+(thinks is a free IP before handing it out \(to be sure\), so if something answers all of those) Tj
+T*
+(pings you have no 'free' IPs on your network and no one gets a dynamic IP. \(Technically this) Tj
+T*
+(was like a day or two ago.\) The direct symptom of this in your ISC DHCP server logs is some log) Tj
+T*
+(lines that look like this: dhcpd[1656384]: Reclaiming abandoned lease 172.17.101.132. [...]) Tj
+T*
+(dhcpd[1656384]: ICMP Echo reply while lease 172.17.101.132 valid. dhcpd[1656384]: Abandoning IP) Tj
+T*
+(address 172.17.101.132: pinged before offer As ISC dhcpd documents \(for example in dhcpd.conf) Tj
+T*
+('s discussion of the ' ping-check ' statement\), by default dhcpd will ping an IP it's about to) Tj
+T*
+(dynamically allocate to make sure it's unused. If something answers, dhcpd more or less gives) Tj
+T*
+(up on the IP address \(this doesn't happen for statically assigned IPs, at least according to) Tj
+T*
+(the dhcpd.conf manual page \). The consequence of this is that if you...) Tj
+T*
+() Tj
+T*
+(9. The Tadpole galaxy:) Tj
+T*
+(Source: Maurycy's Blog | Published: Thu, 09 Jul 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/astro/arp188/) Tj
+T*
+(North is up \(exact, mirrored\). 0.53 "/pixel [18.8' x 7.4'] FWHM = 4.2" This galaxy has a) Tj
+T*
+(massive \(and rather bright\) tidal tail, but I can't see an obvious companion galaxy. The) Tj
+T*
+(general consensus is that there's a second galaxy behind it... although a nearby elliptical has) Tj
+T*
+(a suspiciously similar redshift: Total exposure time: 364 * 30 seconds = 3 hours. Used in) Tj
+T*
+(stack: 165 * 30 seconds = 1.3 hours. Telescope: C9.25 \(230mm, f/10, fl=2300mm\) + 0.63 Starizona) Tj
+T*
+(reducer Camera: IMX533 \(16mm diagonal, square, color\) Processing: Callibration \(dark + flat\)) Tj
+T*
+(Stacking \(average w/ outlier rejection\) White balance and background subtraction \(no gradient) Tj
+T*
+(removal\) Asinh stretch \(color preserving\) Rotation + crop Tone curve Not my finest work due to) Tj
+T*
+(some patchy clouds, but not terrible. Related : /astro/arp188/stacked.fits.fz : Raw stacks) Tj
+T*
+(https://ned.ipac.caltech.edu/level5/Arp/Figures/big_arp188.jpeg : Arp's image) Tj
+T*
+() Tj
+T*
+(10. A bug which only affected left-handed users) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 08 Jul 2026 11:34:43 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/) Tj
+T*
+(Verily, some of our brethren \(and sistren\) be afflicted with a sinister disposition. While the) Tj
+T*
+(righteous scroll using the thumb of their right hand - as is good and proper - an accurs'd) Tj
+T*
+(minority swing the other way. Look, you try writing an interesting bug report without sounding) Tj
+T*
+(like a clanker, OK! I try to optimise my blog as much as possible. It may not look like much,) Tj
+T*
+(but it has got it?) Tj
+T*
+() Tj
+T*
+(11. Unboxed: Zig) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-07-09T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/07/09/unboxed-zig.html) Tj
+T*
+(This is the first in a series of posts working through individual package managers against a) Tj
+T*
+(fixed set of headings, so they can be compared directly. The headings come from earlier posts:) Tj
+T*
+(the client and registry categorisations, the governance post, and the threat model . Zig?s) Tj
+T*
+(package manager has been built into the zig binary since 0.11 in August 2023 , with no separate) Tj
+T*
+(tool and no central registry. A build.zig.zon file lists dependencies as URLs with content) Tj
+T*
+(hashes, and zig build fetches and compiles everything together. The language and the tool are) Tj
+T*
+(both run by the Zig Software Foundation , a 501\(c\)\(3\). How it works A Zig project has a) Tj
+T*
+(build.zig program at its root, describing targets, compile flags, and which dependencies to) Tj
+T*
+(link where, alongside a build.zig.zon data file listing metadata and dependencies. Despite the) Tj
+T*
+(similar names, build.zig.zon is inert data that can be parsed without running anything, while) Tj
+T*
+(build.zig is arbitrary Zig code that gets compiled and executed. Which of the two an operation) Tj
+T*
+(touches is where most of the security properties come from. . { . name = . example , . version) Tj
+T*
+(= "0.3.1" , . fingerprint = 0x6a8091f57c7f07ff , . minimum_zig_version = "0.16.0...) Tj
+T*
+() Tj
+T*
+(12. Boxed In) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-07-09T17:20:00Z) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1838 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints) Tj
+T*
+(At what point do the creative limitations you create for yourself actually harm your ability to) Tj
+T*
+(create? And what can ALF teach us about that?) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: Post-political \(09 Jul 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 09 Jul 2026 06:37:55) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/08/wilhoitian/) Tj
+T*
+(Today's links Post-political: What a "leftist" is. Hey look at this: Delights to delectate.) Tj
+T*
+(Object permanence: MSFT x OSCON; Parental spyware; "Resurrection Man"; Brexit do-over petition;) Tj
+T*
+(Workplace email spying; Record label internet death penalty; News should be cheap, free and) Tj
+T*
+(chaotic; "Jughead". Upcoming appearances: London, Edinburgh, Sydney, Melbourne, Brighton,) Tj
+T*
+(London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em,) Tj
+T*
+(I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the) Tj
+T*
+(rest. Post-political \(permalink\) There's plenty of reasons to be skeptical of centrists who) Tj
+T*
+(bemoan "political polarization" and call for a politics that abandons the "tribalism of left) Tj
+T*
+(and right." Obviously there's the false equivalence: on the right, you have fascists who want) Tj
+T*
+(to send masked, armed goons into the streets to beat, kidnap and murder your neighbors. On the) Tj
+T*
+(left, you have calls for higher taxes, unions, environmental impact reviews for data-centers,) Tj
+T*
+(and an end to the genocide in Gaza. "Leftist extremism" is moving some zines around:) Tj
+T*
+(https://www.theguardian.com/us-news/ng-interactive/2026/jun/24/prairieland-texas-ice-protes...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004767 00000 n 
+0000004893 00000 n 
+0000009395 00000 n 
+0000009521 00000 n 
+0000014255 00000 n 
+0000014381 00000 n 
+0000016272 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16400
+%%EOF
