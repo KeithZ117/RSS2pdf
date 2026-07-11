@@ -1,0 +1,418 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4057 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-11 12:13:04) Tj
+T*
+() Tj
+T*
+(1. QuadRF can spot drones and see WiFi through my wall) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 10 Jul 2026 09:00:00 -0500) Tj
+T*
+(Link:) Tj
+T*
+(https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) Tj
+T*
+(The QuadRF \(pictured above\) a phased-array radio built around a Raspberry Pi 5 and an FPGA) Tj
+T*
+(board with picosecond-level timing. It does advanced signal processing and beamforming. It can) Tj
+T*
+(see WiFi through walls and track drones in flight. If the open source community can come up) Tj
+T*
+(with something like this, just imagine what governments are capable of. When you plug a) Tj
+T*
+(computer into a network, tools like Wireshark can show all the hidden traffic you might not) Tj
+T*
+(even know is there. WiFi packets are the same, but those travel through the air, allowing) Tj
+T*
+(snooping without physical access.) Tj
+T*
+() Tj
+T*
+(2. John Ternus Calls Sam Altman) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-11T03:45:00Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=ClASuxd8jQY) Tj
+T*
+(?Yeah, who?s this?? ?You know who this is.? ?Yes I do, yes I do. I sent a guy to deliver the) Tj
+T*
+(package ... he didn?t call. Is everything alright?? ?Tell you what. Forget the money.? ?) Tj
+T*
+() Tj
+T*
+(3. ?No Interest?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-11T03:41:00Z) Tj
+T*
+(Link: https://x.com/drewpusateri/status/2075708238650089981) Tj
+T*
+(Drew Pusateri, director of communications at OpenAI, on Twitter/X \(or XCancel \): Our statement) Tj
+T*
+(in response to this suit: We have no interest in other companies? trade secrets. We remain) Tj
+T*
+(focused on building innovative technology that empowers people everywhere. Let?s say I think) Tj
+T*
+(you stole my wallet. I approach a police officer and tell him my suspicion and describe the) Tj
+T*
+(evidence that makes me think you have my wallet in your pocket. ?Is that his wallet in your) Tj
+T*
+(pocket?? the cop asks. ?I have no interest in other people?s wallets? would be a rather curious) Tj
+T*
+(answer. ?) Tj
+T*
+() Tj
+T*
+(4. Ice Cold) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-11T03:14:28Z) Tj
+T*
+(Link: https://www.threads.com/@alexheath/post/DaoI2jaEioX) Tj
+T*
+(Alex Heath, on Threads: At WWDC, Apple execs I met with were ice-cold when I asked about their) Tj
+T*
+(OpenAI partnership. Now we know why: Apple just sued OpenAI for allegedly stealing trade) Tj
+T*
+(secrets related to consumer hardware \(Apple and OAI senior leaders are in Sun Valley this week.) Tj
+T*
+(Yikes!\) I noticed the same ice-cold reaction to my questions about ChatGPT and Siri. \(In fact,) Tj
+T*
+(I think Heath and I even talked about it together when we bumped into each other at the end of) Tj
+T*
+(the day on Monday during WWDC week.\) At the time I took it as Apple execs not wanting to) Tj
+T*
+(distract from the fact that Siri AI with Apple Intelligence, with no third-party plug-in, was) Tj
+T*
+(truly competitive. But in hindsight their coolness, I think, was about this. There was no) Tj
+T*
+(response like, say, ? We think ChatGPT is great and we?re happy to keep it available in iOS 27) Tj
+T*
+(as an option for our customers who love that experience, but the new Siri AI truly stands on) Tj
+T*
+(its own. ? That?s a typical Apple answer. But what they actually said was just more like ? The) Tj
+T*
+(ChatGPT extension remains available. ? I didn?t think much of it at the time but now it stands) Tj
+T*
+(out. ?) Tj
+T*
+() Tj
+T*
+(5. Quoting Nilay Patel) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-10T17:05:26+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything) Tj
+T*
+(The reality is to make augmented reality glasses, you need to put a camera next to your eyes) Tj
+T*
+(that is continuously recording everything you see and processing that to put information over) Tj
+T*
+(it. There is not another way around it. And there's certainly not a chip that can fit in the) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4274 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(stem of a glasses that is both powerful enough and power miserly enough to do that in real) Tj
+T*
+(time. You have to send that data to a cloud. You gotta do it. [...] Or you can build something) Tj
+T*
+(the size of a Vision Pro with a battery pack that lives somewhere else. Those are the current) Tj
+T*
+(choices in this world. And it means if you want to build the product that everyone thinks is) Tj
+T*
+(the next thing, you are going to have to invade people's privacy. And maybe you shouldn't.) Tj
+T*
+(Like, there's an incredible argument for, nope, you shouldn't do that. Nope, the trade-offs) Tj
+T*
+(required to make this product are so high at a societal level that we should stop it. ? Nilay) Tj
+T*
+(Patel , The Vergecast Tags: ai-ethics , augmented-reality , nilay-patel , privacy , ai) Tj
+T*
+() Tj
+T*
+(6. llm-meta-ai 0.1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-09T16:12:20+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything) Tj
+T*
+(Release: llm-meta-ai 0.1 Let's LLM run prompts against the new muse-spark-1.1 model. Tags: llm) Tj
+T*
+(, meta) Tj
+T*
+() Tj
+T*
+(7. llm 0.31.1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-09T16:06:15+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/9/llm/#atom-everything) Tj
+T*
+(Release: llm 0.31.1 Fix for a bug with OpenAI Chat Completion endpoints where a tool call with) Tj
+T*
+(empty arguments could result in a JSON error from some providers. #1521 This bug came up when I) Tj
+T*
+(was testing llm-meta-ai . Tags: llm) Tj
+T*
+() Tj
+T*
+(8. The case of the mysterious changes to integers when there shouldn?t have been any code) Tj
+T*
+(generation effect) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 10 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514) Tj
+T*
+(Decoding where those integer came from. The post The case of the mysterious changes to integers) Tj
+T*
+(when there shouldn?t have been any code generation effect appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Game Review: Lovers In A Dangerous Spacetime ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 10 Jul 2026 11:34:18 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/07/game-review-lovers-in-a-dangerous-spacetime/) Tj
+T*
+(My new year's resolution is to play more video games with my wife. Specifically co-operative) Tj
+T*
+(games. I hate playing competitively; it's rubbish to achieve victory at the expense of someone) Tj
+T*
+(else. So I asked for recommendations and picked the cheapest things which looked reasonable.) Tj
+T*
+(Several people recommended Lovers In A Dangerous Spacetime. It's a neat little game which is) Tj
+T*
+(just short enough to?) Tj
+T*
+() Tj
+T*
+(10. Package Management as Org Chart) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-07-10T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/07/10/package-management-as-org-chart.html) Tj
+T*
+(Conway?s Law says organisations produce systems that copy their own communication structure.) Tj
+T*
+(Dependency management tooling is part of the system. A resolution strategy is an opinion about) Tj
+T*
+(how disagreements get settled; a manifest format records who is allowed to depend on whom.) Tj
+T*
+(Monorepo, single version policy : every package in the tree must agree on one version of each) Tj
+T*
+(dependency; upgrading anything means upgrading everyone at once. The org chart has been) Tj
+T*
+(forbidden from appearing in the code. It works when there?s a standing migration workforce) Tj
+T*
+(whose job is dragging every consumer along. Monorepo with workspaces : one repository, but each) Tj
+T*
+(package keeps its own manifest and can pin its own versions. One strong platform team, and) Tj
+T*
+(leadership that believes coordination was solved at the 2019 offsite. Git submodules : a) Tj
+T*
+(dependency is referenced by exact commit SHA in a separate repository, and updating it is a) Tj
+T*
+(manual two-step that never gets automated. Two teams agreed to collaborate and recorded, to the) Tj
+T*
+(commit hash, exactly how little they meant it. Bazel : every dependency edge between targets is) Tj
+T*
+(declared explicitly in a BUILD file; nothing is ambient or inferred. Adopted when the o...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4415 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(11. Building intuition about LLM parameter counts) Tj
+T*
+(Source: Giles' blog | Published: Fri, 10 Jul 2026 21:30:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/07/llm-parameter-counts) Tj
+T*
+(When I was building my GPT-2 implementation in JAX , I started with just token embeddings for) Tj
+T*
+(the input, and a separate output head \(as I was not using weight tying \). It wasn't an LLM --) Tj
+T*
+(no Transformer blocks, no attention, no feed-forward networks. I was somewhat surprised when I) Tj
+T*
+(noticed that even that stripped-down model had 77 million parameters with the "small" settings) Tj
+T*
+(I was using to train -- specifically, an embedding dimension of 768. However, I realised I) Tj
+T*
+(shouldn't be -- with a vocab size of 50,257, each of those components is essentially a 768 ◊ 50) Tj
+T*
+(, 257 matrix, and that is indeed over 38 million numbers. But the finished LLM at the end of) Tj
+T*
+(the project was only 163 million parameters -- that meant that the input and output components) Tj
+T*
+(alone were almost half of it. That felt like a surprisingly large percentage. I had a similar) Tj
+T*
+(shock when I was first looking into the feed-forward network , and realised that it had roughly) Tj
+T*
+(twice as many parameters as the attention layers. When we learn about the internals of LLMs, a) Tj
+T*
+(lot of the focus is on the attention mechanism. This makes sense -- it's the hardest part to) Tj
+T*
+(get your head around. The rest of the setup, at least for simple GPT...) Tj
+T*
+() Tj
+T*
+(12. Premium: The Hater's Guide To The Memory Crisis) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 10 Jul 2026 17:51:30 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-the-haters-guide-to-the-memory-crisis/) Tj
+T*
+(Hi premium readers! I?ll be taking a week off of the premium next week ? July 17 ? to have some) Tj
+T*
+(well-earned rest. This will mark only the second time I?ve missed a premium piece since I) Tj
+T*
+(started this newsletter in June 2025, and I) Tj
+T*
+() Tj
+T*
+(13. Adam Brown ? A deep but accessible introduction to general relativity) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Fri, 10 Jul 2026 16:23:56 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/adam-brown-gr) Tj
+T*
+(And why black holes are the ultimate power plants.) Tj
+T*
+() Tj
+T*
+(14. Dot product: Component vs. Geometric definition) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-07-10T18:42:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/dot-product-component-vs-geometric-definition/) Tj
+T*
+(The goal of this post is to answer a simple question: why are the following two definitions of) Tj
+T*
+(the vector dot product in Euclidean space [1] equivalent for vectors \\vec{a} and \\vec{b} :) Tj
+T*
+(Component definition: \\vec{a}\\cdot\\vec{b}=\\sum_{i=1}^{n}a_i b_i Geometric definition: \\vec ?) Tj
+T*
+() Tj
+T*
+(15. This Week on The Analog Antiquarian) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 10 Jul 2026 16:20:37 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/) Tj
+T*
+(Opus 4: Henry VI, Part 3) Tj
+T*
+() Tj
+T*
+(16. Pluralistic: "Rights for robots" and the AI slavery fantasy \(10 Jul 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 10 Jul 2026 09:52:06) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/) Tj
+T*
+(Today's links "Rights for robots" and the AI slavery fantasy: When we were robots in Egypt? Hey) Tj
+T*
+(look at this: Delights to delectate. Object permanence: Awkward questions for the entertainment) Tj
+T*
+(industry; ISP v record label death penalty; Coming out on Splash Mountain; Negative Swiss bond) Tj
+T*
+(yields; Are We Having Fun Yet? Upcoming appearances: London, Edinburgh, Sydney, Melbourne,) Tj
+T*
+(Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. "Rights for robots" and the AI slavery fantasy \(permalink\) While the AI) Tj
+T*
+(bubble is primarily a material phenomenon \(driven by the calculation that bosses are easy marks) Tj
+T*
+(for a sales pitch that sees them replacing workers with software\), there is an inescapable) Tj
+T*
+(ideological component to it: the desire for a world without people in it:) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 360 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(https://pluralistic.net/2026/05/13/vibe-governance/#k-hole If you'd like an essay-formatted) Tj
+T*
+(version of this thread to read or share, here's a link to it on pluralistic.net, my) Tj
+T*
+(surveillance-free, ad-free, tracker-free blog:) Tj
+T*
+(https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/#he...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004319 00000 n 
+0000004445 00000 n 
+0000008771 00000 n 
+0000008897 00000 n 
+0000013364 00000 n 
+0000013490 00000 n 
+0000013902 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14030
+%%EOF
