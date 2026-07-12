@@ -1,0 +1,484 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4429 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-12 12:26:08) Tj
+T*
+() Tj
+T*
+(1. In defense of not understanding your codebase) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sat, 11 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/) Tj
+T*
+(As a software engineer, how well do you have to understand your own codebase? My guess is that) Tj
+T*
+(people who work on small codebases with low-turnover teams \(say, Redis or games like The) Tj
+T*
+(Witness \) would say ?obviously you have to understand it completely, otherwise you can?t do) Tj
+T*
+(good work?. I?d also guess that people who work on large codebases with high-turnover teams) Tj
+T*
+(\(say, the Google web search backend or GitHub\) would say ?obviously you can?t understand it) Tj
+T*
+(completely, you just have to do the best you can in your local area?. These are two largely) Tj
+T*
+(different ways of programming with different methods, practices and cultures 1 . However, the) Tj
+T*
+(first group is over-represented in online discussion about software engineering 2 . I want to) Tj
+T*
+(defend the second group against the first. In many software engineering environments, there?s) Tj
+T*
+(nothing wrong with being in a state of partial understanding. In fact, in large systems a) Tj
+T*
+(partial understanding is the best you can do. Against ?programming as theory building? The best) Tj
+T*
+(articulation of the ?you have to understand your codebase? side is Peter Naur?s famous paper) Tj
+T*
+(Programming as Theory Building . I like this paper, but I think it goes too far in tha...) Tj
+T*
+() Tj
+T*
+(2. sqlite-utils 4.1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-11T23:50:20+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything) Tj
+T*
+(Release: sqlite-utils 4.1 The first dot-release since 4.0 a few days ago , introducing a number) Tj
+T*
+(of minor new features. sqlite-utils insert and sqlite-utils upsert now accept a --code option) Tj
+T*
+(for providing a block of Python code \(or a path to a .py file\) that defines a rows\(\) function) Tj
+T*
+(or rows iterable of rows to insert, as an alternative to importing from a file. \( #684 \)) Tj
+T*
+(sqlite-utils already had features that allow you to pass blocks of Python code as CLI) Tj
+T*
+(arguments, for example this one for the sqlite-utils convert command: sqlite - utils convert) Tj
+T*
+(content . db articles headline ' def convert \( value \): return value . upper \(\)' Allowing) Tj
+T*
+(blocks of code to generate new rows directly was on obvious extension of that pattern: sqlite -) Tj
+T*
+(utils insert data . db creatures - - code ' def rows \(\): yield { "id" : 1 , "name" : "Cleo" }) Tj
+T*
+(yield { "id" : 2 , "name" : "Suna" } ' - - pk id sqlite-utils insert and sqlite-utils upsert) Tj
+T*
+(now accept --type column-name type to override the type automatically chosen when the table is) Tj
+T*
+(created . This is useful for CSV or TSV columns such as ZIP codes that look like integers but) Tj
+T*
+(should be stored as TEXT to preserve leading zeros. \( #131 \) A long-standing feature...) Tj
+T*
+() Tj
+T*
+(3. sqlite-utils 4.0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-07T15:42:43+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything) Tj
+T*
+(Release: sqlite-utils 4.0 See sqlite-utils 4.0, now with database schema migrations for) Tj
+T*
+(details. Tags: sqlite-utils) Tj
+T*
+() Tj
+T*
+(4. sqlite-utils 4.0rc4) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-07T05:36:15+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything) Tj
+T*
+(Release: sqlite-utils 4.0rc4 The last RC before the 4.0 stable release. Mainly implements) Tj
+T*
+(feedback from a detailed review by Claude Fable 5. Tags: sqlite-utils , claude-mythos-fable) Tj
+T*
+() Tj
+T*
+(5. Can Someone Explain to Me How to Get ?ChatGPT Classic??) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-11T22:38:39Z) Tj
+T*
+(Link: https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app) Tj
+T*
+(One more link from OpenAI?s Help Center, this one explaining how to upgrade from the old Mac) Tj
+T*
+(app to the new ?super? app version: Follow the prompt in the app to download the new ChatGPT) Tj
+T*
+(desktop app. Then sign in with the same ChatGPT account. The new app may install alongside your) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4679 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(current app. If both remain installed, you will see: ChatGPT : The new app with Chat, Work, and) Tj
+T*
+(Codex. ChatGPT Classic : The previous ChatGPT desktop app. You can continue using it; no) Tj
+T*
+(migration is required at launch. It continues to receive model updates, bug fixes, security) Tj
+T*
+(patches, and support for its existing Enterprise capabilities. New agent features may be) Tj
+T*
+(available only in the new app. None of this has been my experience. I had the existing old) Tj
+T*
+(ChatGPT app installed on three different Macs. On all three of them, the built-in ?Check for) Tj
+T*
+(Updates? command only installs the latest version of the classic app. This is good, I suppose.) Tj
+T*
+(But if you?re not aware from following the news that OpenAI released an altogether new ?super?) Tj
+T*
+(app for MacOS and Windows, you?d never know it from the Check for Updates command built into) Tj
+T*
+(the classic Mac app. So I don?t see ?the prompt in the app to download the new ChatG...) Tj
+T*
+() Tj
+T*
+(6. OpenAI Help Center Describes What Is Wrong With the New ChatGPT) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-11T22:24:20Z) Tj
+T*
+(Link: https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex) Tj
+T*
+(OpenAI Help Center, ?Where Work and Codex are available?: Work is available on ChatGPT web and) Tj
+T*
+(mobile for eligible paid plans. Work is also available in the ChatGPT desktop app when included) Tj
+T*
+(for your plan and workspace. Work on web and mobile runs in the cloud. Work in the desktop app) Tj
+T*
+(can also use local files and desktop apps with your permission. At launch, cloud Work) Tj
+T*
+(conversations do not appear in desktop Work; desktop Work threads and local files remain on) Tj
+T*
+(that computer. Codex is available as a mode in the ChatGPT desktop app. It can work with local) Tj
+T*
+(folders, repositories, terminals, and developer tools. Codex is not a selectable mode on web or) Tj
+T*
+(mobile. You can access supported desktop Codex tasks from the Remote tab in the ChatGPT mobile) Tj
+T*
+(app, but those tasks do not become web or mobile chat history. These three paragraphs, from) Tj
+T*
+(OpenAI?s own Help Center, sound more like a critic?s scathing review of what?s wrong with the) Tj
+T*
+(new ChatGPT ?super? app than a guide to how to use it. ?) Tj
+T*
+() Tj
+T*
+(7. Benedict Evans on the New ?Super App? ChatGPT) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-11T22:16:21Z) Tj
+T*
+(Link: https://www.threads.com/@benedictevans/post/Dano_uvDr8F) Tj
+T*
+(Benedict Evans with a succinct review on Threads: Wow, what a total mess. What is the) Tj
+T*
+(difference between a project, a task and a chat? Why did chats get a crappy floating window but) Tj
+T*
+(tasks and projects don?t? Why does choosing ?plugins? get me ?templates?? Am I not allowed to) Tj
+T*
+(finish ?setup? if I don?t use Slack or Google Drive? I forget how I made the Setup dickbar) Tj
+T*
+(disappear despite my not using Slack or Google Drive. It was confusing. It is sometimes) Tj
+T*
+(observed that in companies dominated by internal politics, their shipped product \(and public) Tj
+T*
+(keynotes\) reflect the company?s org chart. That?s never been truer than with the new ChatGPT) Tj
+T*
+(app. OpenAI?s internal org chart is a complete disorganized mess . This new app perfectly) Tj
+T*
+(reflects that. The old ChatGPT app was focused. That?s the app that still ships for mobile) Tj
+T*
+(\(which includes iPad, which tells you whether OpenAI thinks iPad is a real computer or a big) Tj
+T*
+(iPhone\), and is, for some Mac users, left installed on their systems as ?ChatGPT Classic?. The) Tj
+T*
+(new app is an incredibly confusing sloppy mess. At a glance it looks like a polished app. But) Tj
+T*
+(the UI is just slop . It has the veneer of a polished app without actually being organized or) Tj
+T*
+(s...) Tj
+T*
+() Tj
+T*
+(8. Progress on Gilbreath?s conjecture) Tj
+T*
+(Source: John D. Cook | Published: Sat, 11 Jul 2026 21:30:11 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/) Tj
+T*
+(Years ago I wrote about Gilbreath?s conjecture. It?s a simple conjecture; you could explain it) Tj
+T*
+(to anyone who understands what prime numbers are. See the linked post for a description of the) Tj
+T*
+(problem. Gilbreath?s conjecture is simple, but it?s also kinda weird. As I wrote before, Paul) Tj
+T*
+(Erd?s speculated that Gilbreath?s conjecture is true but [?] The post Progress on Gilbreath?s) Tj
+T*
+(conjecture first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Prefer STRICT tables in SQLite) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Sat, 11 Jul 2026 00:00:00 +0000) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4818 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://evanhahn.com/prefer-strict-tables-in-sqlite/) Tj
+T*
+(In short: I prefer strict tables in SQLite because they avoid some datatype problems, such as) Tj
+T*
+(putting text in number columns. SQLite has a feature that I think is underrated: strict tables) Tj
+T*
+(. Strict tables help enforce rigid typing, preventing mistakes like putting text into integer) Tj
+T*
+(columns. I like them, and wrote this post to promote their use! To make a strict table, add) Tj
+T*
+(STRICT to the end of its definition. Like this: -CREATE TABLE people \(name TEXT\); +CREATE TABLE) Tj
+T*
+(people \(name TEXT\) STRICT; That?s it! But what does it do? Advantages of strict tables Broadly,) Tj
+T*
+(strict tables help enforce rigid types, like other SQL engines do. Prevents type mismatches on) Tj
+T*
+(insert/update Most significantly, strict tables keep you from inserting the wrong type into a) Tj
+T*
+(column. For example, SQLite normally lets you put text into an INTEGER column, but not with) Tj
+T*
+(strict tables. -- Non-strict tables let you put anything anywhere. CREATE TABLE) Tj
+T*
+(people_nonstrict \(age INTEGER\); INSERT INTO people_nonstrict \(age\) VALUES \( 'garbage' \); -- =>) Tj
+T*
+(works fine -- Strict tables don't allow that, which I prefer. CREATE TABLE people_strict \(age) Tj
+T*
+(INTEGER\) STRICT ; INSERT INTO people_strict \(age\) VALUES \( 'garbage' \); -- => erro...) Tj
+T*
+() Tj
+T*
+(10. Reading List 07/11/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 11 Jul 2026 12:01:33 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-071126) Tj
+T*
+(Adults living with their parents, Samsung?s profits, Native American data centers, Puerto) Tj
+T*
+(Rico?s electricity grid, and more.) Tj
+T*
+() Tj
+T*
+(11. This Week in Package Management: 11 July 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-07-11T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/07/11/this-week-in-package-management.html) Tj
+T*
+(Week eight of the roundup, built from the package manager OPML feed collection and whatever) Tj
+T*
+(I?ve posted or boosted on Mastodon . Releases npm 12.0.0 is out. allow-git and allow-remote now) Tj
+T*
+(default to none , so installing git dependencies or user-supplied tarball URLs needs explicit) Tj
+T*
+(opt-in. npm shrinkwrap is removed and npm-shrinkwrap.json is no longer honoured at the project) Tj
+T*
+(root or inside dependency tarballs. Unknown .npmrc keys, unknown CLI flags and abbreviated) Tj
+T*
+(flags now error instead of warn, root preinstall runs before dependencies are installed, and) Tj
+T*
+(npm adduser , star and unstar are gone. pnpm 11.10 adds an _auth setting that takes registry) Tj
+T*
+(credentials as a single URL-keyed structure, so CI can pass them via pnpm_config__auth without) Tj
+T*
+(the shell-quoting problems that broke the per-registry env vars. It also adds pnpm prefix and) Tj
+T*
+(pnpm issues , and pnpm self-update can now install v12, the Rust port. 11.11 followed with a) Tj
+T*
+(pnpm access command for managing registry visibility, MFA requirements and team access, and) Tj
+T*
+(lets allowBuilds entries for git-hosted packages match by repository URL without pinning a) Tj
+T*
+(commit hash. uv 0.11.28 hardens ZIP handling against parser differentials via an...) Tj
+T*
+() Tj
+T*
+(12. AI 2040 and the Cult of Intelligence) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-07-11T00:00:00-07:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html) Tj
+T*
+(I used to be one of these people. I read Yudkowsky and was like, OMG recursive self improvement) Tj
+T*
+(hard takeoff AI is coming. Then I joined the real world and actually tried to do things. At) Tj
+T*
+(comma, we ship a hardware product of similar complexity to a cell phone, and it?s really hard.) Tj
+T*
+(Reality has lots of finicky details. I would like to see the authors of this document try to) Tj
+T*
+(change a bike tire. Even with a superintelligent ChatGPT, I suspect they would struggle. In The) Tj
+T*
+(Metamorphosis of Prime Intellect , the hard takeoff works because AI discovers the correlation) Tj
+T*
+(effect, some quantum trick to manipulate matter. In reality, there is no correlation effect. No) Tj
+T*
+(matter how high quality your tokens are, they cannot turn lead into gold. Confronting why these) Tj
+T*
+(people are wrong requires confronting deep beliefs I hold about myself. Intelligence is not the) Tj
+T*
+(end all be all, it?s just the current bottleneck for a few things. You cannot take over the) Tj
+T*
+(world with tokens. Software didn?t eat the world, it largely removed one layer of friction then) Tj
+T*
+(reintroduced it for the benefit of a few tech companies. That said, machines, or some hybrid,) Tj
+T*
+(are long term probably the successor species to humanity. Spac...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2799 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(13. A dock that finally wakes up reliably) Tj
+T*
+(Source: Fabien Sanglard | Published: 11 Jul 2026 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/tb4/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(14. Don't you mean extinct?) Tj
+T*
+(Source: Fabien Sanglard | Published: 10 Jul 2026 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/extinct/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: Workplace "flexibility" isn't \(11 Jul 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 11 Jul 2026 08:54:28) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/11/your-risk/) Tj
+T*
+(Today's links Workplace "flexibility" isn't: What the gig economy calls flexibility is just) Tj
+T*
+(risk-shifting. Hey look at this: Delights to delectate. Object permanence: "Alanya to Alanya";) Tj
+T*
+(ToS are the internet's biggest lie; Soviet jokes; Fox rapists v gag orders; GBAO is the future;) Tj
+T*
+("Fun Family"; Sacklers get to keep the loot. Upcoming appearances: London, Edinburgh, Sydney,) Tj
+T*
+(Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You) Tj
+T*
+(keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Workplace "flexibility" isn't \(permalink\) Here's an irony: the "gig) Tj
+T*
+(economy" is a statistical black hole. Workers, customers and regulators know very little about) Tj
+T*
+(the most basic aspects of it: how much workers get paid, for example, or much unpaid time on) Tj
+T*
+(the clock a worker puts in before they get a job from the app. The reason this is ironic is) Tj
+T*
+(that the "gig economy" is dominated by a handful of massive, data-driven firms that know the) Tj
+T*
+(precise, up-to-the-second answer to these questions. The problem is that they won't share the) Tj
+T*
+(data. Of course, workers and customers have the data, too, but our data is...) Tj
+T*
+() Tj
+T*
+(16. Goede geluiden over digitale autonomie) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sat, 11 Jul 2026 12:00:13 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/goede-geluiden-over-digitale-autonomie/) Tj
+T*
+(De Tweede Kamer is met reces, en de out of office replies vanuit de overheid beginnen) Tj
+T*
+(indrukwekkende vormen aan te nemen. Kunnen ze in Amerika nog wat van leren. Maar, er worden nog) Tj
+T*
+(steeds dingen gepubliceerd, en het is opvallend hoeveel goeds er recent gezegd is over digitale) Tj
+T*
+(autonomie. De tl;dr is dat er een duidelijke wending zichtbaar is. Na een decennium van) Tj
+T*
+(ontkenning publiceren allerhande stukken overheid nu ronkende teksten over digitale autonomie) Tj
+T*
+(en staan die teksten ook vol goede voornemens en besluiten.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004691 00000 n 
+0000004817 00000 n 
+0000009548 00000 n 
+0000009674 00000 n 
+0000014544 00000 n 
+0000014670 00000 n 
+0000017522 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+17650
+%%EOF
