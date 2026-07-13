@@ -1,0 +1,392 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4506 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-13 12:32:00) Tj
+T*
+() Tj
+T*
+(1. Directly Responsible Individuals \(DRI\)) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-12T23:57:14+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything) Tj
+T*
+(Directly Responsible Individuals \(DRI\) I went looking for a definition of "Directly Responsible) Tj
+T*
+(Individuals" and the best I found was in the GitLab handbook. Apparently the term originated at) Tj
+T*
+(Apple, where it's used to describe the person who is "ultimately accountable for the success or) Tj
+T*
+(failure of a specific project, initiative, or activity". I've been thinking about this term) Tj
+T*
+(recently in the context of LLM-powered agents and how they fit into human organizations. I) Tj
+T*
+(don't think an agent should ever be considered the DRI for a project - that's something that) Tj
+T*
+(feels uniquely human to me, because humans can take accountability for their actions where) Tj
+T*
+(machines cannot. \(See also IBM's legendary 1979 training slide that states "A computer can) Tj
+T*
+(never be held accountable, therefore a computer must never make a management decision."\) Tags:) Tj
+T*
+(apple , management , ai , gitlab , generative-ai , llms , ai-ethics , coding-agents) Tj
+T*
+() Tj
+T*
+(2. shot-scraper 1.11) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-12T23:46:52+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything) Tj
+T*
+(Release: shot-scraper 1.11 Some minor improvements, mainly around command option consistency) Tj
+T*
+(and making the server: mechanism used by both shot-scraper video and shot-scraper multi work if) Tj
+T*
+(the server takes longer than a second to start serving traffic. server: processes used by) Tj
+T*
+(shot-scraper multi and shot-scraper video now wait up to 30 seconds for the target URL to) Tj
+T*
+(accept connections, polling for port availability and replacing the previous fixed one-second) Tj
+T*
+(delay. #197 The shot-scraper , pdf , html , accessibility and har commands now have a --js-file) Tj
+T*
+(option for loading JavaScript from a local file, standard input or gh:username/script , as an) Tj
+T*
+(alternative to --javascript which accepts the string of JavaScript directly as an argument.) Tj
+T*
+(#192 shot-scraper multi supports the equivalent js_file: YAML key. The shot-scraper javascript) Tj
+T*
+(and shot-scraper html commands now have a --timeout option for consistency with other commands.) Tj
+T*
+(#118 Tags: shot-scraper) Tj
+T*
+() Tj
+T*
+(3. Fable gets another bump) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-12T21:20:07+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/12/bump/#atom-everything) Tj
+T*
+(One of the consequences of GPT-5.6 Sol being clearly a Fable/Mythos class model is that) Tj
+T*
+(Anthropic have, once again, bumped the date that Fable stops being available in their Claude) Tj
+T*
+(Max plans: We're extending Claude Fable 5 access on all paid plans, as well as keeping Claude) Tj
+T*
+(Code?s weekly rate limits 50% higher, through July 19. As before, you can use up to half of) Tj
+T*
+(your weekly usage limit on Fable 5. After that, you can continue using Fable 5 with usage) Tj
+T*
+(credits, or switch to another model to keep working within your remaining limits. Anthropic's) Tj
+T*
+(original rationale for this was compute constraints - they wanted a better idea of both demand) Tj
+T*
+(and compute availability before committing to keeping the new model cheap for subscribers.) Tj
+T*
+(OpenAI appear confident that they won't need to restrict access to GPT-5.6 in the same way.) Tj
+T*
+(Here's Thibault Sottiaux this morning : The last 48 hours of Codex and ChatGPT Work have been) Tj
+T*
+(intense! Three important updates: Temporarily removing the 5 hour usage limit restriction for) Tj
+T*
+(all Plus, Business and Pro plans Rolling out changes that will make GPT 5.6 Sol more efficient) Tj
+T*
+(across the board and that will be reflected in less usage being used so that it can tak...) Tj
+T*
+() Tj
+T*
+(4. WorkOS Pipes) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-12T22:17:54Z) Tj
+T*
+(Link:) Tj
+T*
+(https://workos.com/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) Tj
+T*
+(My thanks, once again, to WorkOS for sponsoring DF last week. Users expect apps and agents to) Tj
+T*
+(reach the tools they already work in. Every integration that gets you there is a different) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4291 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(OAuth flow, a different token lifecycle, and weeks of infrastructure before you write a line of) Tj
+T*
+(product code. WorkOS Pipes handles it with one API call . Pre-built connectors for GitHub,) Tj
+T*
+(Slack, Salesforce, Google Drive, and more. Pipes handles OAuth, token refresh, and credential) Tj
+T*
+(storage. You call the real provider API with a fresh token, every time. Connect to 100+) Tj
+T*
+(providers with WorkOS Pipes . ?) Tj
+T*
+() Tj
+T*
+(5. Paulo Andrade: ?A WWDC 27 Update on Building a Mac-Assed App With SwiftUI?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-12T21:18:24Z) Tj
+T*
+(Link: https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/) Tj
+T*
+(Paulo Andrade: My last post on using SwiftUI to build a Mac-assed app got a bit more traction) Tj
+T*
+(than I expected. It was mentioned on Mastodon several times , included in iOS Dev Weekly ,) Tj
+T*
+(inspired May?s edition of the Swift Blog Carnival , and was eventually mentioned by John Gruber) Tj
+T*
+(, arguably the person most to blame for popularizing the term ?Mac-assed?, on Daring Fireball .) Tj
+T*
+(All this attention also resulted in an engineer from Apple reaching out with some notes. We) Tj
+T*
+(exchanged a few emails, I filed a few radars, and now that WWDC 27 is behind us, this post) Tj
+T*
+(serves as a small update to the issues I wrote about before. There?s real progress here, but I) Tj
+T*
+(think my main point still stands: SwiftUI is now seven years old and it does not make it easy) Tj
+T*
+(to create great Mac apps. ?) Tj
+T*
+() Tj
+T*
+(6. How UIs Degrade Over Time) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-12T19:51:16Z) Tj
+T*
+(Link: https://grumpy.website/1723) Tj
+T*
+(These examples are from Windows, but the same degradation is true for the standard look for) Tj
+T*
+(MacOS alerts too. There was a time when system UI chrome was improving in clarity, everywhere.) Tj
+T*
+(Today we live in an age when it?s degrading in clarity, everywhere. It?s rather inexplicable. ?) Tj
+T*
+() Tj
+T*
+(7. Posterior variance) Tj
+T*
+(Source: John D. Cook | Published: Sun, 12 Jul 2026 19:26:29 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/12/posterior-variance/) Tj
+T*
+(A few days ago I wrote a post entitled Does additional data always reduce posterior variance?.) Tj
+T*
+(In a nutshell, the answer is no, not always. That led the previous post which looked at) Tj
+T*
+(posterior means for three Bayesian models, showing how the posterior mean is a weighted average) Tj
+T*
+(of the prior mean and the mean [?] The post Posterior variance first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(8. Posterior mean) Tj
+T*
+(Source: John D. Cook | Published: Sun, 12 Jul 2026 17:48:14 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/12/posterior-mean/) Tj
+T*
+(Common sense says that what you believe after seeing new data should be some sort of compromise) Tj
+T*
+(between what you believed before and what the new data says. You don?t want to ignore previous) Tj
+T*
+(information or new information. How much should new data change your prior beliefs? When prior) Tj
+T*
+(judgment and new information are in [?] The post Posterior mean first appeared on John D. Cook) Tj
+T*
+(.) Tj
+T*
+() Tj
+T*
+(9. Making cooled clothing:) Tj
+T*
+(Source: Maurycy's Blog | Published: Sun, 12 Jul 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/projects/cooled/) Tj
+T*
+(So, summer gets really hot, and it's not going to get better anytime soon. At my place, it) Tj
+T*
+(isn't actively dangerous yet , but it's still unpleasant. A normal air conditioner uses a low) Tj
+T*
+(boiling-point liquid: something like liquid propane will boil all the way down to -42 C. Just) Tj
+T*
+(like water, this evaporation absorbs a lot of heat and the remaining liquid becomes very cold.) Tj
+T*
+(Of course, releasing flammable gas is be wasteful and dangerous, so the vapor is captured and) Tj
+T*
+(compressed: This increases the boiling point causing it to condense into a hot liquid. This) Tj
+T*
+(condensed refrigerant is cooled back to ambient with a radiator before being passed through a) Tj
+T*
+(flow restriction to drop the pressure back down: A fridge or AC \(depending on the size of the) Tj
+T*
+(box\) While this is excellent for cooling a building, it's not great for small-scale) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4413 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(applications: the compressor and hot-side radiator are quite bulky and require a source of) Tj
+T*
+(electricity. Thermometric cooling sounds great : replace all the plumbing with a solid state) Tj
+T*
+(semiconductor junction. Except they don't work particularly well. Most coolers produce several) Tj
+T*
+(times more heat than they remove and require huge radiators to avoid overheating. ... on...) Tj
+T*
+() Tj
+T*
+(10. Another Ridiculous Interrail Holiday - 6,379Km and 13 Countries over 7 weeks) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 12 Jul 2026 11:34:43 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-count) Tj
+T*
+(ries-over-7-weeks/) Tj
+T*
+(Last year, my wife and I went on a 5,025 Km Interrail adventure. We got the month-long) Tj
+T*
+(unlimited pass and saw 10 Countries in 30 Days. That was a bit too intense. So this year we got) Tj
+T*
+(the 15 travel days in 2 months package. We grabbed the 1st class tickets when they went on sale) Tj
+T*
+(in December. Here's how our journey ended up: The trip included two ferries - one overnight -) Tj
+T*
+(which had a small?) Tj
+T*
+() Tj
+T*
+(11. I love LLMs, I hate hype) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-07-12T00:00:00-07:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html) Tj
+T*
+(I think from this blog you may misunderestimate how absolutely giddy I am about AI. I did) Tj
+T*
+(hacking from 2007-2014, after that my whole career has been devoted to AI. I love the progress.) Tj
+T*
+(I?m so excited for the new LLMs , self driving cars , video generation models , and coding) Tj
+T*
+(agents . I set up a Linux box with opencode on my local GLM-5.2 last week and wow like just) Tj
+T*
+(saying install tmux with the geohot configuration works; the Year of the Linux Desktop is) Tj
+T*
+(finally here! What I don?t like is two things. One, this constant bullshit about some window) Tj
+T*
+(closing, or the perpetual underclass, or falling hopelessly behind. This is negative valence) Tj
+T*
+(hype, not only is it not true, it?s mostly designed to make you feel bad about yourself and) Tj
+T*
+(move to shitty San Francisco where everything really does suck like how these people claim. And) Tj
+T*
+(two, this strawman jump from, oh hey, it?s a fancy autocomplete, smart compiler, better search) Tj
+T*
+(engine, to it?s gonna like own the whole light cone bro like if you aren?t in SF and at the) Tj
+T*
+(right parties there?s gonna be like a flash of light in the sky one day and you?re not even) Tj
+T*
+(gonna know what happened but everything just Changed. I?ll bet you everything I have th...) Tj
+T*
+() Tj
+T*
+(12. What?s an Icon in 2026?) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 12 Jul 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/icons-as-software/) Tj
+T*
+(As icons continue to change across Apple?s platforms, I have thoughts. They mainly revolve) Tj
+T*
+(around two perspectives: What I think of icons as a long-time user of Apple?s platforms. What I) Tj
+T*
+(think of icons as a digital collector and physical archivist of icons. Let?s see if I can) Tj
+T*
+(articulate my thoughts. Apple Recommends Making Icons With Icon Composer For ?More) Tj
+T*
+(Expressivity? In ?Create icons with Icon Composer? from WWDC 2025, Lyan Bewry from Apple?s) Tj
+T*
+(Design Team gives the rationale for why developers should use Apple?s new Icon Composer: Icon) Tj
+T*
+(design is moving from a past of simply static images, to a future of expressive, multi-layered) Tj
+T*
+(artworks that respond to user input and adapt between appearances. They?ve become a much richer) Tj
+T*
+(and more integrated experience on-device. Catch that? Icons are moving from a ?static? past to) Tj
+T*
+(an ?expressive, multi-layered [?] much richer? future. You may have noticed this in some of) Tj
+T*
+(Apple?s latest OS releases, how lighting effects, customizations, etc., can all affect what an) Tj
+T*
+(icon looks like at any given moment within the operating system. So what are these .icon files) Tj
+T*
+(made by Icon Composer? Icons Are Software Now In the Accidental Tech Podcast episode 6...) Tj
+T*
+() Tj
+T*
+(13. The art and engineering of Silpheed) Tj
+T*
+(Source: Fabien Sanglard | Published: 01 Jun 2026 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/silpheed/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004761 00000 n 
+0000004887 00000 n 
+0000009230 00000 n 
+0000009356 00000 n 
+0000013821 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+13947
+%%EOF
