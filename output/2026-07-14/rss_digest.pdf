@@ -1,0 +1,422 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4496 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-14 11:57:24) Tj
+T*
+() Tj
+T*
+(1. Using uvx in GitHub Actions in a cache-friendly way) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-14T00:56:20+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything) Tj
+T*
+(TIL: Using uvx in GitHub Actions in a cache-friendly way I finally found a cache-friendly) Tj
+T*
+(recipe for using uvx tool-name in GitHub Actions workflows that I like. The trick is setting a) Tj
+T*
+(UV_EXCLUDE_NEWER: "2026-07-12" environment variable at the start of the workflow and then using) Tj
+T*
+(that as part of the GitHub Actions cache key. This means any uvx tool-name commands will) Tj
+T*
+(resolve to the most recent version as-of that date, and you can bust the cache and upgrade the) Tj
+T*
+(tools by bumping the date in the future. My goal here is to use Python tools in GitHub Actions) Tj
+T*
+(without every run of the workflow hitting PyPI to download a fresh copy of the tool and its) Tj
+T*
+(dependencies. Tags: packaging , pypi , python , github-actions , uv) Tj
+T*
+() Tj
+T*
+(2. DOOMQL) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-13T22:34:41+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/13/doomql/#atom-everything) Tj
+T*
+(DOOMQL Peter Gostev built this using GPT-5.6 Sol. This is a lot of fun: DOOMQL started with a) Tj
+T*
+(deliberately unreasonable question: what if SQLite were the game engine, not merely the place) Tj
+T*
+(where a game stores data? The result is a small, original Doom-like game in which SQL owns) Tj
+T*
+(movement, collision, enemies, combat, progression and every RGB pixel on screen. It's) Tj
+T*
+(implemented as a Python terminal script - I tried it out like this: cd /tmp git clone) Tj
+T*
+(https://github.com/petergpt/doomql cd doomql uv run host/doomql.py Here's the huge SQL query) Tj
+T*
+(that implements a full ray tracer in SQLite using a recursive CTE. Running the above script) Tj
+T*
+(creates a /tmp/doomql/.doomql/doomql.sqlite SQLite database, which you can explore using) Tj
+T*
+(Datasette like this: uvx --prerelease=allow --with datasette-apps datasette \\) Tj
+T*
+(/tmp/doomql/.doomql/doomql.sqlite \\ -p 4444 --root --secret 1 --internal internal.db The --with) Tj
+T*
+(datasette-apps option installs the new Datasette Apps plugin, which supports creating custom) Tj
+T*
+(HTML+JavaScript apps that can run SQL queries directly within the Datasette interface. I) Tj
+T*
+(created a new app, pasted the copy-paste prompt into Claude chat \(Fable 5\) and told it : Build) Tj
+T*
+(an app that displays th...) Tj
+T*
+() Tj
+T*
+(3. datasette code-frequency chart on GitHub) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-13T21:45:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything) Tj
+T*
+(datasette code-frequency chart on GitHub Out of curiosity I decided to see if I could find a) Tj
+T*
+(useful illustration of the impact of coding agents and Opus 4.5 class models on my own output.) Tj
+T*
+(The best I've found so far is this GitHub chart of frequency of code changes to my Datasette) Tj
+T*
+(open source project: The big spike in activity at the end aligns with Opus 4.8, GPT-5.5, Fable) Tj
+T*
+(5 and GPT-5.6 Sol. Tags: github , ai , datasette , generative-ai , llms ,) Tj
+T*
+(ai-assisted-programming , coding-agents) Tj
+T*
+() Tj
+T*
+(4. Remember Musk?s Suit Alleging a Conspiracy Between Apple and OpenAI?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-13T15:24:53Z) Tj
+T*
+(Link: https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusiv) Tj
+T*
+(e-iphone-chatgpt-integration/) Tj
+T*
+(Ashley Belanger, reporting for Ars Technica back in August 2025: After a public outburst over) Tj
+T*
+(Grok?s App Store rankings , on Monday, Elon Musk followed through on his threat to sue Apple) Tj
+T*
+(and OpenAI. At first, Musk appeared fixated on ChatGPT consistently topping Apple?s ?Must Have?) Tj
+T*
+(app list ? which Grok has never made ? claiming Apple seemed to preference OpenAI, an Apple) Tj
+T*
+(partner, over all chatbot rivals. But Musk?s filing shows that the X and xAI owner isn?t just) Tj
+T*
+(trying to push for more Grok downloads on iPhones ? he?s concerned that Apple and OpenAI have) Tj
+T*
+(teamed up to completely dash his ?everything app? dreams , which was the reason he bought) Tj
+T*
+(Twitter . For what it?s worth, I just looked at the App Store editorially-curated ?Popular) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4638 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(iPhone Apps? list , and ChatGPT is in the top spot. Given the lawsuit Apple filed against) Tj
+T*
+(OpenAI last week, I?d say this is pretty good anecdata that these editorial decisions in the) Tj
+T*
+(App Store aren?t driven by favoritism. The top 10 downloads list for free iPhone apps currently) Tj
+T*
+(looks like this \(for me here in the U.S. App Store\): Paramount+ Netflix Game Controller ChatGPT) Tj
+T*
+(Kalshi: Trade the World Cup Peacock TV: Stream TV & Movies Netshort - Popular Dr...) Tj
+T*
+() Tj
+T*
+(5. ?Every Frame Perfect?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-12T19:48:09Z) Tj
+T*
+(Link: https://tonsky.me/blog/every-frame-perfect/) Tj
+T*
+(Nikita ?Tonsky? Prokopov: The rule of thumb is: If I take a screenshot of your app at any) Tj
+T*
+(moment, you should be able to explain what I see. Why care about every frame? It builds trust.) Tj
+T*
+(Users can?t see the code, so UI is the only way for them to judge the quality of the app. If UI) Tj
+T*
+(looks good, that means developers had time to polish it, which means that they probably spent a) Tj
+T*
+(comparable amount of time to iron out the code. It?s a heuristic, but a reasonable one. Now,) Tj
+T*
+(what does it mean in practice? I can think of a few things: No white flashes between screens.) Tj
+T*
+(No partially loaded content. No relayout while content loads. Internally consistent. If one) Tj
+T*
+(part of the UI says ?1 update available?, another part should not say ?Checking for updates...?) Tj
+T*
+(Precise animations. Animations often end up being forgotten. A UI might look great in both) Tj
+T*
+(start and end states but very janky in between. ?Every frame perfect? is a great mantra for UI) Tj
+T*
+(craftsmanship. If you care about every frame, that discipline will be palpable, even though) Tj
+T*
+(almost no users will ever examine your animations and transitions frame-by-frame, and most will) Tj
+T*
+(happen too quickly to see in real time. If you cut corners on interstitia...) Tj
+T*
+() Tj
+T*
+(6. TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an) Tj
+T*
+(Entitlement) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-12T18:04:05Z) Tj
+T*
+(Link: https://github.com/insidegui/TwoMillionKit) Tj
+T*
+(Guilherme Rambo: Apple ships the fm command-line tool in macOS 27, which can be used to run) Tj
+T*
+(inference with the local system model or Private Cloud Compute from Terminal or scripts. You) Tj
+T*
+(know what else can run command-line tools? Mac apps! ? I decided to spend some of my Codex) Tj
+T*
+(tokens and take GPT 5.6 Sol for a spin. I asked it to create this Swift package. All it does is) Tj
+T*
+(provide a LanguageModel implementation that uses the fm command-line tool under the hood,) Tj
+T*
+(meaning that any Mac app can use the Private Cloud Compute model without requiring a special) Tj
+T*
+(entitlement from Apple. The main limitation is that this will not work for sandboxed Mac apps,) Tj
+T*
+(so any Mac app distributed via the Mac App Store won?t be able to use it. But for developers of) Tj
+T*
+(Mac apps distributed outside the Mac App Store, this provides a simple and entitlement-free way) Tj
+T*
+(to use Private Cloud Compute in their apps. Use sparingly and at your own risk. This is a) Tj
+T*
+(workaround for Apple?s current limitation that only grants access to Private Cloud Compute to) Tj
+T*
+(?developers in the App Store Small Business Program with fewer than two million first time App) Tj
+T*
+(Store downloads?. Hence Rambo?s clever name for the framework. ?) Tj
+T*
+() Tj
+T*
+(7. Lessons Learned from CISA?s Recent GitHub Leak) Tj
+T*
+(Source: Krebs on Security | Published: Mon, 13 Jul 2026 15:03:28 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/) Tj
+T*
+(The Cybersecurity and Infrastructure Security Agency \(CISA\) has issued a postmortem on a data) Tj
+T*
+(leak in which a contractor published dozens of internal CISA credentials -- including AWS) Tj
+T*
+(Govcloud keys -- in a public GitHub repository for almost six months before being notified by) Tj
+T*
+(KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide) Tj
+T*
+(important lessons that all security teams should absorb.) Tj
+T*
+() Tj
+T*
+(8. Why don?t we just make the entire stack out of guard pages?) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 13 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260713-00/?p=112528) Tj
+T*
+(Guard pages all the way down? The post Why don?t we just make the entire stack out of guard) Tj
+T*
+(pages? appeared first on The Old New Thing .) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4346 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(9. [RSS Club] Half a million steps is about 10 marathons) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 13 Jul 2026 11:34:09 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/07/rss-club-half-a-million-steps-is-about-10-marathons/) Tj
+T*
+(Shhh! RSS Club posts are only available to feed subscribers. Keep the secret! I'm not a big fan) Tj
+T*
+(of the "Quantified Self" movement, but since buying a ridiculously cheap smartwatch, I've been) Tj
+T*
+(interested to see just how many steps I take per day. During our recent Interrail holiday, we) Tj
+T*
+(travelled about 6,400 Km by train over 49 days. But how much did we cover by foot? My watch) Tj
+T*
+(pairs with the Open ?) Tj
+T*
+() Tj
+T*
+(10. Mandatory Update: A Short Story) Tj
+T*
+(Source: micahflee | Published: Mon, 13 Jul 2026 15:33:31 GMT) Tj
+T*
+(Link: https://micahflee.com/mandatory-update-a-short-story/) Tj
+T*
+(Guess what? Lately I've been nerding out on creative writing. I even joined a local fiction) Tj
+T*
+(writers group where we meet up at coffee shops. Like, in person! Anyway, I submitted a short) Tj
+T*
+(story to the DEF CON 34 Creative Writing Short Story Contest . My story is called) Tj
+T*
+() Tj
+T*
+(11. Pluralistic: Why aren't AI companies competing directly with their customers? \(13 Jul) Tj
+T*
+(2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 13 Jul 2026 08:15:24) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/13/go-meta-meta/) Tj
+T*
+(Today's links Why aren't AI companies competing directly with their customers? Why sell picks) Tj
+T*
+(and shovels if you've already struck gold? Hey look at this: Delights to delectate. Object) Tj
+T*
+(permanence: Pro-logging Lorax; Anti-DRM picture book; Whose cops did America train? Day on a) Tj
+T*
+(Device; Theresa May x Fresh Prince; Ratfucking Corbyn supporters; Infosec v W3C DRM; Remix) Tj
+T*
+(Public Enemy; Hungary's Cold War cartoons; America is unpaving its roads; Olympic overruns are) Tj
+T*
+(world champions; Vivendi lobbyist is now UN copyright boss; Boris's racism; Facebook's insider) Tj
+T*
+(stalkers; Semantic drift, ethical drift. Upcoming appearances: Edinburgh, Sydney, Melbourne,) Tj
+T*
+(Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Why aren't AI companies competing directly with their customers?) Tj
+T*
+(\(permalink\) "I often wonder what the Vintners buy/One half so precious as the Goods they sell") Tj
+T*
+(-The Rub·iy·t of Omar Khayy·m I first encountered that quote from someone extolling the virtues) Tj
+T*
+(of bookstores, and it stuck with me, because for most of my childhood, every bookstore vis...) Tj
+T*
+() Tj
+T*
+(12. Winners and losers in the coming AI margin collapse \(part 2\)) Tj
+T*
+(Source: Martin Alderson | Published: Sun, 12 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-2-winners-and-loser) Tj
+T*
+(s/?utm_source=rss&utm_medium=rss&utm_campaign=feed) Tj
+T*
+(Part two: as AI inference margins collapse, who actually captures the value? The hardware) Tj
+T*
+(supply chain and consumers win, model inference commoditises, and the frontier labs' escape) Tj
+T*
+(routes are managed agents and staying ahead.) Tj
+T*
+() Tj
+T*
+(13. Control the ideas, not the code) Tj
+T*
+(Source: antirez.com | Published: Mon, 13 Jul 2026 13:39:52 +0200) Tj
+T*
+(Link: http://antirez.com/news/169) Tj
+T*
+(Look at the past history of this blog. There are many blog posts about programming with AI, a) Tj
+T*
+(few of them date back to January 2024 \(like this: https://antirez.com/news/140\). I?m a) Tj
+T*
+(relatively well regarded programmer, after all. I don?t have the need to still be in the ?loop?) Tj
+T*
+(as a old man that seeks for relevance, I recently rejoined Redis, and now I also am developing) Tj
+T*
+(a new open source software for local LLM inference that received a good welcome in the) Tj
+T*
+(community. Why I keep doing this, of saying what people don?t want to hear? Why I keep) Tj
+T*
+(announcing how future programming will be by default? Because I feel the urge of lowering the) Tj
+T*
+(impact for people less prepared to the change than me, often younger than me, and that,) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 562 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(unlikely me, didn?t see many of those things coming \(In 2022 I published, before ChatGPT) Tj
+T*
+(existed, a book preannouncing many things that now happened and other things that I believe) Tj
+T*
+(*will* happen, so I feel like I can say this without sounding egocentric\). So mine is a trick.) Tj
+T*
+(People feel more and more programming is completely modified by AI and don?t know what they) Tj
+T*
+(should do, if they can really start coding in a completely different way, without looking much) Tj
+T*
+(at the c...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004758 00000 n 
+0000004884 00000 n 
+0000009574 00000 n 
+0000009700 00000 n 
+0000014098 00000 n 
+0000014224 00000 n 
+0000014838 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14966
+%%EOF
