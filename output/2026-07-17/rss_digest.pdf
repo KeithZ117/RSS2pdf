@@ -1,0 +1,388 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4523 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-17 12:07:36) Tj
+T*
+() Tj
+T*
+(1. Spot birds not golf) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-17T02:58:07+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything) Tj
+T*
+(Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive) Tj
+T*
+(country clubs, convert the golf courses into public parks, pay for guides and binoculars to get) Tj
+T*
+(the previous members into birdwatching - help them embrace a more sustainable hobby! Google) Tj
+T*
+(used 10.9 billion gallons in 2025 , so about 30 million gallons per day. The Coachella Valley) Tj
+T*
+(has 120 golf courses each using ~800 acre-feet per year , which is ~750,000 gallons per day. So) Tj
+T*
+(Google buying up 40 of those courses \(1/3\) should do the trick. Tags: ai-energy-usage , ai) Tj
+T*
+() Tj
+T*
+(2. Firefox in WebAssembly) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-16T23:34:16+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything) Tj
+T*
+(Firefox in WebAssembly This is absurdly cool: Puter compiled Firefox to WebAssembly such that) Tj
+T*
+(the whole browser runs in another browser. Here's my blog, running in Firefox, running in) Tj
+T*
+(WebAssembly, running in Chrome: They chose Firefox/Gecko because it has strong single-process) Tj
+T*
+(support. The project used an estimated $25,000 worth of Claude Opus and Fable tokens, but took) Tj
+T*
+(advantage of a Claude Max subscription plan so cost much less in actual dollars. The demo) Tj
+T*
+(funnels all traffic over a WebSocket protocol \(using the Wisp protocol \) through Puter's server) Tj
+T*
+(- a requirement to get this kind of thing to work because code running in browsers can't open) Tj
+T*
+(arbitrary network connections. \(That proxying sounds expensive! The team had to scale the) Tj
+T*
+(servers up to handle the traffic during the Hacker News conversation about the project.\) Puter) Tj
+T*
+(claim this supports end-to-end encryption and that looks to be true - I inspected the WebSocket) Tj
+T*
+(messages and traffic to my own HTTPS site was encrypted whereas requests and responses to) Tj
+T*
+(http://www.example.com/ were in cleartext. Here's the repo for firefox-wasm .) Tj
+T*
+(theogbob/WebkitWasm is a similar project that compiles WebKit to WASM, but that one doesn't) Tj
+T*
+(curre...) Tj
+T*
+() Tj
+T*
+(3. Kimi K3, and what we can still learn from the pelican benchmark) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-16T20:19:30+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything) Tj
+T*
+(Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their "most capable) Tj
+T*
+(model to date, with 2.8 trillion parameters". It's currently available via their website and) Tj
+T*
+(API, but an open weight release is promised "by July 27, 2026". Moonshot are calling this the) Tj
+T*
+(first "open 3T-class model" \(I guess they're rounding 2.8 trillion up to 3 trillion\), taking) Tj
+T*
+(the crown from DeepSeek's 1.6T v4 Pro . Their self-reported benchmarks have K3 mostly beating) Tj
+T*
+(Claude Opus 4.8 max and GPT-5.5 high, while losing out to Claude Fable 5 and GPT-5.6 Sol. A few) Tj
+T*
+(highlights from the Artificial Analysis report on the model: "On our private long-horizon) Tj
+T*
+(knowledge work evaluation, Kimi K3 reaches an overall Elo of 1547, +732 points from Kimi K2.6) Tj
+T*
+(and behind only Claude Fable 5." "Cost per task \($0.94\) is similar to GPT-5.6 Sol \($1.04\), ~1/2) Tj
+T*
+(the price of Opus 4.8 \($1.80\) and higher than open weights peers" "Kimi K3?s token usage on the) Tj
+T*
+(Artificial Analysis Intelligence Index decreased significantly, using 21% fewer output tokens) Tj
+T*
+(than K2.6." The model is also now the leading model on Arena.ai's Frontend Code arena ,) Tj
+T*
+(surpassing even Claude Fable 5. The new model is notable for the pricing: $...) Tj
+T*
+() Tj
+T*
+(4. European Commission Adds Exemptions for Watches and Earbuds to Portable Battery Removal) Tj
+T*
+(Rules) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-17T02:01:37Z) Tj
+T*
+(Link: https://environment.ec.europa.eu/news/commission-adds-exemptions-portable-battery-removal) Tj
+T*
+(-rules-2026-07-14_en) Tj
+T*
+(The European Commission: The European Commission adopted a delegated act today \(14 July\)) Tj
+T*
+(introducing new rules that exempt additional products from EU requirements on the removability) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4647 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(and replaceability of portable batteries. Under the EU?s Batteries Regulation , portable) Tj
+T*
+(batteries in products sold in the EU must generally be removable and replaceable by consumers.) Tj
+T*
+(This helps extend products? lifetime by allowing battery replacements and supports recycling by) Tj
+T*
+(making it easier to collect used batteries. [...] The Commission is now adding six new product) Tj
+T*
+(categories to the existing list of exemptions. This includes wearable devices such as) Tj
+T*
+(smartwatches and fitness trackers, electric toys, and products within the scope of the ATEX) Tj
+T*
+(Directive \(equipment used in explosive atmospheres such as explosion-proof motors, sensors,) Tj
+T*
+(pumps or forklift trucks\). See, exemptions aren?t hard, especially to stupid regulations. ?) Tj
+T*
+() Tj
+T*
+(5. Quiche Browser Now Defaults to No-AI Web Search Results) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-17T00:17:35Z) Tj
+T*
+(Link: https://mastodon.social/@quicheindustries/116918456229212087) Tj
+T*
+(Quiche Industries \(Greg de J.\): Starting today, Quiche Browser disables AI overviews in search) Tj
+T*
+(results by default, out of the box. Compare how much space and time they waste. I love the web) Tj
+T*
+(too much to let that nonsense bury links to real websites made by humans. This is my modest) Tj
+T*
+(contribution to the fight against the dead internet theory. Why no other browser does that is) Tj
+T*
+(beyond me. To elaborate a bit: ? It simply opens search results in the AI-free versions of) Tj
+T*
+(Google, DuckDuckGo, Bing, and Brave, whenever they?re selected as the default search engine. ?) Tj
+T*
+(No content blocker involved. Search results are served as-is. ? AI features can be turned back) Tj
+T*
+(on in Settings ? Search. I wrote about Quiche Browser a few months ago, praising it for,) Tj
+T*
+(amongst numerous other features and aspects, its built-in JavaScript toggle. This is another) Tj
+T*
+(killer feature. Traditional no-AI web search is a splendid default. Making it an option to) Tj
+T*
+(enable if that?s what you want is the right way to do this. ?) Tj
+T*
+() Tj
+T*
+(6. Dithering: ?Apple Sues OpenAI?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-16T23:28:09Z) Tj
+T*
+(Link: https://dithering.passport.online/member/episode/apple-sues-open-ai) Tj
+T*
+(Tuesday?s episode of Dithering was a good one, especially for the DF audience, so we?ve moved) Tj
+T*
+(it outside the paywall and made it free-to-listen on the web . \(We don?t \(yet?\) have an RSS) Tj
+T*
+(feed that you can put in your podcast player for these occasional free episodes, alas.\) I have) Tj
+T*
+(a slightly different take on Apple?s lawsuit against OpenAI than I?ve seen expressed elsewhere.) Tj
+T*
+(If you don?t subscribe to Dithering, you probably should. Two episodes per week, 15 minutes per) Tj
+T*
+(episode. Not a minute less, not a minute more. $7/month or $70/year ? or, get it included with) Tj
+T*
+(the Stratechery Plus bundle. ?) Tj
+T*
+() Tj
+T*
+(7. Speculating on how the buggy control panel extension truncated a value that it had) Tj
+T*
+(right in front of it) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 16 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260716-00/?p=112539) Tj
+T*
+(Inferring the code's history. The post Speculating on how the buggy control panel extension) Tj
+T*
+(truncated a value that it had right in front of it appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Deleting Systems You Don't Understand) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Thu, 16 Jul 2026) Tj
+T*
+(07:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/deleting-systems-you-dont-understand) Tj
+T*
+(When I was a kid, my father bought a family home computer and placed it in the living room for) Tj
+T*
+(all to see. When guests came to our house, they would stop by the computer and admire its) Tj
+T*
+(marvel without even turning it on. While everyone else was careful with the computer, treating) Tj
+T*
+(it like an important investment, I quickly started inserting discs and installing games. One) Tj
+T*
+(thing we take for granted today is how cheap and abundant storage is. Our family computer had a) Tj
+T*
+(single hard drive with a whopping 2 gigabytes. That's 2 GB for Windows 95, Office 95 \(Word,) Tj
+T*
+(Excel, PowerPoint\), Encarta 95, all my father's work documents, and the million games I had) Tj
+T*
+(installed. I borrowed a disc from a friend that had a few dozen games on it. I installed them) Tj
+T*
+(all. Before I knew it, I ran out of space. The computer became extremely slow, and I couldn't) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4116 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(install any more games. I figured I needed to delete some games, but I was ten years old. I was) Tj
+T*
+(not going to delete my games. I couldn't delete my father's stuff either, so I decided to) Tj
+T*
+(explore the hard drive. I noticed that in the Program Files folders, every application came) Tj
+T*
+(with a bunch of text files. Some of them were large, and they didn't look that i...) Tj
+T*
+() Tj
+T*
+(9. NGC 7497, etc.) Tj
+T*
+(Source: Maurycy's Blog | Published: Thu, 16 Jul 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/astro/ngc7497/) Tj
+T*
+(North is up \(aprox\). 0.53 "/pixel. [24' x 23' field] FWHM = 3.75" A relatively unremarkable) Tj
+T*
+(spiral galaxy... but hey, what's that in the background? var current = false; function change\(\)) Tj
+T*
+({ current = !current; document.getElementById\("notes"\).src =) Tj
+T*
+(current?"/astro/ngc7497/notes.jpg":"/astro/ngc7497/small.jpg"; } Click to toggle annotations.) Tj
+T*
+(\(needs JS\) Well, it's not actually in the background: the nebula is closer than the galaxy.) Tj
+T*
+(This particular reflection nebulously is unusual because it's quite far from the milky way, and) Tj
+T*
+(it doesn't have a central star. The light source here is actually the combined light of the) Tj
+T*
+(milky way, hence "Integrated Flux Nebula". This dim illumination means it has an unusually low) Tj
+T*
+(surface brightness: the brightest region visible in my image is 26th mag/arcsec 2 . This is a) Tj
+T*
+(lot dimmer than my light polluted sky which sits 19 mag/arcsec 2 : the scale is backwards and) Tj
+T*
+(logarithmic: an increase of 2.5 is 1/10th as bright. --> Total exposure time: 56 * 30 seconds =) Tj
+T*
+(28 minutes. Used in stack: 50 * 30 seconds = 25 minutes. Telescope: C9.25 \(230mm, f/10,) Tj
+T*
+(fl=2300mm\) + 0.63 Starizona reducer Camera: IMX533 \(16mm diagonal, square, color\) Processing:) Tj
+T*
+(Calibration \(da...) Tj
+T*
+() Tj
+T*
+(10. How Predictable Are Laws?) Tj
+T*
+(Source: Construction Physics | Published: Thu, 16 Jul 2026 12:03:18 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/how-predictable-are-laws) Tj
+T*
+(An enormous amount of ink has been spilled \(some of it by me\) on the trials and tribulations of) Tj
+T*
+(complying with the National Environmental Policy Act, better known as NEPA.) Tj
+T*
+() Tj
+T*
+(11. i've started drawing again) Tj
+T*
+(Source: the website of jyn | Published: 2026-07-16T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/i-ve-started-drawing-again/) Tj
+T*
+(I just miss doing art. Don't you?) Tj
+T*
+() Tj
+T*
+(12. Pluralistic: Deranged billionaires and their syndromes \(16 Jul 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 16 Jul 2026 18:13:07) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/16/lucky-orifices/) Tj
+T*
+(Today's links Deranged billionaires and their syndromes: The Mad Kings do love a syllogism. Hey) Tj
+T*
+(look at this: Delights to delectate. Object permanence: PoGo v binding arbitration; Trump beat) Tj
+T*
+(some absolute losers; Public interest internet; "Close to the Machine"; Gadget-friendly chinos;) Tj
+T*
+(Gambiologia; Monkey selfie copyright; Prison towns v prison reform. Upcoming appearances:) Tj
+T*
+(Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've) Tj
+T*
+(been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said,) Tj
+T*
+(I'll keep writin' 'em. Colophon: All the rest. Deranged billionaires and their syndromes) Tj
+T*
+(\(permalink\) The theory of markets goes like this: even the best of us can fall prey to) Tj
+T*
+(selfishness and rationalization, so let's arrange society so that people acting on their most) Tj
+T*
+(selfish impulses end up producing benefit for all of us. That'll be easier and more reliable) Tj
+T*
+(than convincing everyone to be more generous. How do you arrange society so that selfishness) Tj
+T*
+(produces public benefit? With markets. Faced with relentless competition, the most effective) Tj
+T*
+(way to accumulate and retain wealth is by striving to make your wares cheaper and better....) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004778 00000 n 
+0000004904 00000 n 
+0000009603 00000 n 
+0000009729 00000 n 
+0000013897 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+14023
+%%EOF
