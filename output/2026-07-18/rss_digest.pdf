@@ -1,0 +1,484 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4445 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-18 11:55:36) Tj
+T*
+() Tj
+T*
+(1. Quoting Kimi K3) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-17T13:43:53+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything) Tj
+T*
+(Is there something I can actually help you with today? ? Kimi K3 , after refusing to leak its) Tj
+T*
+(system prompt Tags: kimi , ai-personality , generative-ai , ai , llms) Tj
+T*
+() Tj
+T*
+(2. LLM cliché highlighter) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-17T12:11:11+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything) Tj
+T*
+(Tool: LLM cliché highlighter I got frustrated reading yet another article that was crammed with) Tj
+T*
+(the clichés of LLM-generated writing - "no fluff, no filler, no jargon" type stuff - so I had) Tj
+T*
+(Fable 5 vibe code up this app for highlighting ten common patterns that show up in that sort of) Tj
+T*
+(writing. Tags: tools , ai , generative-ai , llms) Tj
+T*
+() Tj
+T*
+(3. Quoting Thibault Sottiaux) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-16T17:45:59+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything) Tj
+T*
+(On file deletions. We?ve investigated a handful of reports where GPT-5.6 unexpectedly deleted) Tj
+T*
+(files. What we have found is that this most commonly occurs when: Full access mode is enabled) Tj
+T*
+(and codex is run without sandboxing protections, including without auto review being enabled) Tj
+T*
+(The model attempts to override the $HOME env var to define a temporary directory. The model) Tj
+T*
+(makes an honest mistake and mistakenly deletes $HOME instead. ? Thibault Sottiaux , describing) Tj
+T*
+(a pretty gnarly Codex bug Tags: codex , coding-agents , generative-ai , ai , llms) Tj
+T*
+() Tj
+T*
+(4. Overtraining as the path to human-like AI) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sat, 18 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/) Tj
+T*
+(The anonymous blogger Gwern recently completed a thirteen thousand word post called Human-like) Tj
+T*
+(Neural Nets by Catapulting , in which he offers a theory about why LLMs don?t possess truly) Tj
+T*
+(flexible human-like intelligence, and how we might train LLMs that do. Theories like this are) Tj
+T*
+(entirely unremarkable: every crank researcher on the internet has a theory about how to crack) Tj
+T*
+(AI. But Gwern is remarkable. Outside of OpenAI itself, Gwern is the earliest person to) Tj
+T*
+(anticipate the potential of large language models, and the scaling arms-race involved in making) Tj
+T*
+(them larger and more powerful still. I often cite Leopold Aschenbrenner?s Situational Awareness) Tj
+T*
+(as an example of someone correctly predicting the future of AI. Written in 2024, just after the) Tj
+T*
+(release of GPT-4, Aschenbrenner gets a lot of things right: the rush to build billion or) Tj
+T*
+(trillion-dollar GPU clusters, the importance of the code around the LLM \(what he calls) Tj
+T*
+(?unhobbling?\) 1 , and the fact that scaling would continue through the decade. Gwern?s essay) Tj
+T*
+(The Scaling Hypothesis anticipated the broad strokes in 2020 , immediately on the release of) Tj
+T*
+(GPT-3 \(two years before the release of ChatGPT and the beginning of the AI boom\). And y...) Tj
+T*
+() Tj
+T*
+(5. Apple Books and Amazon Are Lousy With AI-Generated Books Ripping Off Legitimate Authors) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-18T00:33:15Z) Tj
+T*
+(Link: https://thenewthings.com/p/apple-big-ai-book-slop-problem) Tj
+T*
+(Joanna Stern at New Things, last month : Last month, just days after my book went on sale, AI) Tj
+T*
+(knockoffs of the ebook version flooded Apple Books. There was Joanna Stern On I Am Not A Robot) Tj
+T*
+(by Sophie Mercer. I AM NOT A ROBOT by Finn Tech. I AM NOT A ROBOT by Joana Stern ? with one) Tj
+T*
+(?n.? \( Watch our latest video showing all these titles and more.\) In total, I found ten) Tj
+T*
+(AI-generated ebooks clearly riding on mine, with AI-generated covers mimicking the style of my) Tj
+T*
+(real one ? the same blue, yellow and red color palette. Most were priced at $9.99, but some) Tj
+T*
+(have gone as high as $20.99. [...] After I contacted Apple about my own book?s clones back in) Tj
+T*
+(May, the knockoffs quickly disappeared. [...] But now, a month after that first Apple cleanup,) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4792 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(the problem is back. At the start of this week, there were at least three other I AM NOT A) Tj
+T*
+(ROBOT counterfeits on Apple Books. \(They seem to have since been removed.\) And I?m not alone.) Tj
+T*
+(Lena Dunham?s Famesick has multiple lookalikes on the platform. Haley Sacks?s Future Rich) Tj
+T*
+(Person has copycats that even use AI generated images of women on the cover that resemble the) Tj
+T*
+(real author. Kashmir Hill at The New York Times today \(gift link\): Recently, I receiv...) Tj
+T*
+() Tj
+T*
+(6. Google Runs Out of Appeals, Must Pay Record $4.7 Billion EU Antitrust Fine) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-17T23:47:16Z) Tj
+T*
+(Link: https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-eur) Tj
+T*
+(o-appeal.html) Tj
+T*
+(Arjun Kharpal, reporting for CNBC, back on July 2: Europe?s top court on Thursday upheld) Tj
+T*
+(Google?s fine of around 4.1 billion euros \($4.67 billion\) over alleged anti-competitive) Tj
+T*
+(practices. In 2018, the European Commission slapped Google with the record-breaking penalty on) Tj
+T*
+(the grounds that it abused Android?s mobile dominance to give unfair advantage to its own apps) Tj
+T*
+(via pre-installation deals with smartphone makers. Google has been appealing the ruling through) Tj
+T*
+(the EU court system. But the European Court of Justice \(ECJ\), Europe?s top court, dismissed) Tj
+T*
+(Google?s appeal. Google has no further right to appeal. Google last year booked $132 billion in) Tj
+T*
+(profit ; this fine is about 3 percent of that. But in 2018, when the fine was initially) Tj
+T*
+(assessed, Google booked ?just? $31 billion in profit ? this fine, if they?d paid it then, would) Tj
+T*
+(have been about 15 percent of their annual profit. \(And they booked only $13B, $19B, $16B, and) Tj
+T*
+($14B in profit going back from 2017 to 2014.\) There?s never a reason not to string the appeal) Tj
+T*
+(process out, but it?s especially true when your profits are growing at an exceptional rate. By) Tj
+T*
+(growing their profits around 5×, they?ve reduced the relative pain of this fine...) Tj
+T*
+() Tj
+T*
+(7. Roblox Set to Introduce AI Game-Building Feature, Including on iOS) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-17T21:20:04Z) Tj
+T*
+(Link: https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox) Tj
+T*
+(Roblox executives Nick Tornow and Vlad Loktev, on the Roblox blog: Twenty years ago, Roblox) Tj
+T*
+(launched with a simple idea: ?You make the game.? At the time, that was a radical proposition ?) Tj
+T*
+(most games were made by studios and professionals, and the idea that anyone could be a creator) Tj
+T*
+(was far from obvious. But we believed it. And the millions of creators who built on Roblox) Tj
+T*
+(proved it. As we look to a future where any one of Roblox?s 132 million daily active users) Tj
+T*
+(could come up with the next hit game, we?re taking that original idea further than we ever) Tj
+T*
+(have. Over the coming months, we?ll share a series of announcements that will give every) Tj
+T*
+(creator a clear runway to go further and fulfill the promise of ?You make the game? for more) Tj
+T*
+(people than ever before. Today, we?re announcing Build, a new mobile-first creation tab within) Tj
+T*
+(the Roblox app, and a new suite of AI-powered tools within Studio for creators of every level.) Tj
+T*
+(On July 28, we?ll begin testing these new agentic tools. With Build and Studio, creators can) Tj
+T*
+(delegate the parts of development that don?t require their full attention. This sounds really) Tj
+T*
+(cool and fun. But you know what else was really cool and fun? AI coding apps that ra...) Tj
+T*
+() Tj
+T*
+(8. Why has the display control panel pointer truncation bug gone unfixed for so long?) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 17 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260717-00/?p=112541) Tj
+T*
+(It's fixed, but the fix isn't getting there. The post Why has the display control panel pointer) Tj
+T*
+(truncation bug gone unfixed for so long? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Visualizing Medical Code Hierarchy) Tj
+T*
+(Source: John D. Cook | Published: Fri, 17 Jul 2026 16:12:31 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/17/visualizing-medical-code-hierarchy/) Tj
+T*
+(Quick follow up to the previous two posts on ICD-10 codes and HCPCS codes. This post uses) Tj
+T*
+(Python?s squarify library to create treemaps visualizing how many codes begin with each letter.) Tj
+T*
+(Here?s the treemap for HCPCS codes. And here?s the treemap for ICD-10 codes. The sizes of the) Tj
+T*
+(squares are proportional to the number of [?] The post Visualizing Medical Code Hierarchy first) Tj
+T*
+(appeared on John D. Cook .) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4449 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(10. Regular expressions for HCPCS codes) Tj
+T*
+(Source: John D. Cook | Published: Fri, 17 Jul 2026 14:02:52 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/17/regular-expressions-for-hcpcs-codes/) Tj
+T*
+(Since I revisited my old post on ICD code matching, I thought I?d revisit by post on HCPCS) Tj
+T*
+(codes too. HCPCS stands for Healthcare Common Procedure Coding System, and is pronounced ?hick) Tj
+T*
+(picks.? When most people say HCPCS, they technically mean HCPCS Level II, and that?s what I) Tj
+T*
+(mean here. The format of a HCPCS [?] The post Regular expressions for HCPCS codes first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Regular expression speed and error rates) Tj
+T*
+(Source: John D. Cook | Published: Fri, 17 Jul 2026 11:26:19 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/17/regex-speed-error/) Tj
+T*
+(Seven years ago I wrote a post about regular expressions to match diagnosis codes. I wanted to) Tj
+T*
+(revisit that post looking at speed and error rates. Regular expressions usually do not exactly) Tj
+T*
+(match what you?re looking for and nothing else. They have error false positives and false) Tj
+T*
+(negatives. But they also have advantages, and context [?] The post Regular expression speed and) Tj
+T*
+(error rates first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Regressive JPEGs:) Tj
+T*
+(Source: Maurycy's Blog | Published: Fri, 17 Jul 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/projects/bad_jpeg/) Tj
+T*
+(One of the cool features of JPEG files is that there's the option to save low frequency) Tj
+T*
+(components first. This means that a partially downloaded image will be displayed at low) Tj
+T*
+(resolution instead of being cut off. In the file, this works by breaking up the compressed data) Tj
+T*
+(into multiple "scans", each prefixed with a header. Here's the first scan of a representive) Tj
+T*
+(image: FF DA - "start of scan" marker 00 0C - Big endian length field \(12 bytes\) Includes) Tj
+T*
+(itself 03 - Number of channels in scan \(3\) 01 - Global id of first included channel 00 -) Tj
+T*
+(Huffman table index #1 \(DC: 0, AC: 0\) 02 - Global id of second included channel 10 - Huffman) Tj
+T*
+(table index #2 \(DC: 1, AC: 0\) 03 - Global id of third included channel 10 - Huffman table index) Tj
+T*
+(#2 \(DC: 0, AC: 0\) 00 - Starting DCT bin \(DC\) 00 - Ending DCT bin \(also DC\) 01 - Precision:) Tj
+T*
+(half, no pre-existing data. f8ad 512d d3f1 cd96 - Huffman coded DCT coefficients bcb0 58df 53d5) Tj
+T*
+(5d97 [...and a lot more] ... this one includes the lowest \(DC\) Fourier bin for all three color) Tj
+T*
+(channels. The three color channels are YCbCr instead of the usual RGB. The luminance \(Y\)) Tj
+T*
+(seperated because it must be high quality, but the color can be fudged quite a bit while) Tj
+T*
+(looking...) Tj
+T*
+() Tj
+T*
+(13. Plumbing Homebrew into the vulnerability ecosystem) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-07-17T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/07/17/plumbing-homebrew-into-the-vulnerability-ecosystem.html) Tj
+T*
+(Back in January I released brew-vulns , a gem that added CVE scanning to Homebrew. It shelled) Tj
+T*
+(out to brew info --json=v2 , derived a source repository URL and version tag for each installed) Tj
+T*
+(formula, and queried osv.dev for anything known against that repo at that version. As of) Tj
+T*
+(Homebrew 6.0.11 that command is built in and the gem is deprecated. Getting useful answers out) Tj
+T*
+(of brew vulns in between meant changing what data Homebrew publishes about its own packages,) Tj
+T*
+(registering Homebrew with the specs that vulnerability tooling is built on, standing up an) Tj
+T*
+(advisory database, and porting Homebrew?s version comparison to Python so osv.dev can order our) Tj
+T*
+(releases. $ brew vulns Checking 142 packages for vulnerabilities... \(18 packages skipped - no) Tj
+T*
+(supported source URL\) openssl@3 \(3.4.1\) CVE-2024-13176 \(medium\) - Timing side-channel in ECDSA) Tj
+T*
+(signature... Fixed in: 3.4.2 Found 1 vulnerability in 1 package 10 resolved by formula patches) Tj
+T*
+(\(not counted; pass --no-ignore-patches to include\): glibc: CVE-2024-2961, CVE-2024-33599,) Tj
+T*
+(CVE-2024-33600, CVE-2025-0395, ... About a month after the first release Mike McQuaid invited) Tj
+T*
+(me to transfer the repo into the Homebrew org, and from then on it was being...) Tj
+T*
+() Tj
+T*
+(14. The Terminus) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3045 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-07-17T20:41:40Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17382177/terminus-road-ending-history) Tj
+T*
+(When a really long road ends, why don?t we do more to celebrate the staggering amount of) Tj
+T*
+(collective work that went into it? The ancient Romans really outclassed the federal highway) Tj
+T*
+(system on this front.) Tj
+T*
+() Tj
+T*
+(15. Podcast Notes: Iain McGilchrist on ?The Great Simplification?) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Thu, 16 Jul 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/podcast-notes-iain-mcgilchrist/) Tj
+T*
+(I wish I could remember how this podcast came across my radar so I could give credit where it?s) Tj
+T*
+(due. But alas, I cannot. It?s episode 217 with Dr. Iain McGilchrist. At one point, he shares) Tj
+T*
+(his perspective about how science and reason can only take you so far: [science and reason]) Tj
+T*
+(have their limitations. Most scientists and most philosophers are very well aware of that. Some) Tj
+T*
+(people who are not terribly aware of [this] think that [science and reason] can answer all our) Tj
+T*
+(questions. The fact that they can answer very many questions and be extraordinary servants) Tj
+T*
+(doesn?t make them the arbiters of everything that we know. Replace ?science and reason? there) Tj
+T*
+(with ?AI? and you have a pretty good assessment. I like the word ?servant? there too ? AI can) Tj
+T*
+(be a good servant, but it?s a terrible master. [AI] has no body, so it cannot suffer, it cannot) Tj
+T*
+(love, it doesn?t know that it?s going to die, none of the things that humans deal with, so it) Tj
+T*
+(is a very, very poor guide to how we should think [of consciousness] Ok, enough AI. Back to) Tj
+T*
+(science and reason. There?s a lot to be said for the scientific method, but not everything can) Tj
+T*
+(be understood by analysis: What most people don?t understand is that mo...) Tj
+T*
+() Tj
+T*
+(16. The Life and Times of Maxis, Part 2: SimWorld) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 17 Jul 2026 15:59:19 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-2-simworld/) Tj
+T*
+(This article tells part of the story of Maxis Software. Maxis came into 1994 riding high on the) Tj
+T*
+(wings of SimCity 2000, the hit of the previous holiday season. They followed up that success) Tj
+T*
+(with? SimHealth: The National Health Care Simulation. This may sound like satire, but it was) Tj
+T*
+(all too real. To be clear, SimHealth was [?]) Tj
+T*
+() Tj
+T*
+(17. Art Doesn't Scale) Tj
+T*
+(Source: matduggan.com | Published: Fri, 17 Jul 2026 10:34:04 GMT) Tj
+T*
+(Link: https://matduggan.com/art-doesnt-scale/) Tj
+T*
+(Listening to two acquaintances argue about if AI art is "art" is not a new experience for me,) Tj
+T*
+(the now eternal debate between Doomer and Boomer. In this particular context, I'm listening to) Tj
+T*
+(it as I wait for my surprisingly expensive iced latte in downtown Copenhagen.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004707 00000 n 
+0000004833 00000 n 
+0000009677 00000 n 
+0000009803 00000 n 
+0000014304 00000 n 
+0000014430 00000 n 
+0000017528 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+17656
+%%EOF
