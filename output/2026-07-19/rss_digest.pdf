@@ -1,0 +1,376 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4607 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-19 12:21:34) Tj
+T*
+() Tj
+T*
+(1. Impro is a handbook for running a cult) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 19 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/impro/) Tj
+T*
+(Here?s the big idea in Keith Johnstone?s book Impro : Children are naturally creative, but are) Tj
+T*
+(violently formed into repressed adults by Western culture and education The process of becoming) Tj
+T*
+(more creative and expressive is largely a process of unlearning these habits of repression) Tj
+T*
+(Improv ? improvisational comedy ? is thus not just the skeleton key for learning to act, but) Tj
+T*
+(for unlocking a more authentically human way of life This take doesn?t sound particularly) Tj
+T*
+(original, but references to Impro pop up in all kinds of places: in influential tech blogs , as) Tj
+T*
+(part of the initial process of onboarding for Palantir, and on the reading list of multiple) Tj
+T*
+(big-tech founders . Impro is part of the secret canon of Silicon Valley, right alongside books) Tj
+T*
+(like Seeing Like a State and The Power Broker . Why is that? For two reasons: first, because) Tj
+T*
+(Johnstone?s outsider critique of established institutions is appealing; and second, because) Tj
+T*
+(Impro is a handbook for running a cult. Defense mechanisms and status The part of Impro that is) Tj
+T*
+(most obviously useful to software engineers is Johnstone?s chapter on status. According to him,) Tj
+T*
+(status games pervade all social interactions. Even innocuous, friendly con...) Tj
+T*
+() Tj
+T*
+(2. Claude Code uses Bun written in Rust now) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-19T03:54:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything) Tj
+T*
+(In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 \(released) Tj
+T*
+(June 17th\) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise,) Tj
+T*
+(barely anyone noticed. Boring is good. I decided to have a poke at my own Claude Code) Tj
+T*
+(installation to see if I could find evidence that it was using Bun written in Rust. I found) Tj
+T*
+(these two commands convincing: strings ~/.local/bin/claude | grep -m1 'Bun v1' For me this) Tj
+T*
+(outputs Bun v1.4.0 \(macOS arm64\) . The most recent release of Bun on GitHub is currently) Tj
+T*
+(v1.3.14 from May 12th, so that v1.4.0 version number in Claude supports them shipping a preview) Tj
+T*
+(of a not-yet-released Bun version. strings ~/.local/bin/claude | grep -Eo) Tj
+T*
+('src/[[:alnum:]_./-]+\\.rs' This outputs a list of 563 filenames , starting with these:) Tj
+T*
+(src/runtime/bake/dev_server/mod.rs src/runtime/bake/production.rs src/bundler/bundle_v2.rs It) Tj
+T*
+(looks like Bun in Rust is indeed being run in production across millions of different devices.) Tj
+T*
+(Like Jarred said, "Boring is good". Tags: bun , rust , anthropic , claude-code , jarred-sumner) Tj
+T*
+() Tj
+T*
+(3. SQLite Query Explainer) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-18T17:19:10+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything) Tj
+T*
+(Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite :) Tj
+T*
+(Maybe one day I?ll learn to read a query plan. Big same.... which inspired me to have Fable) Tj
+T*
+(build this interactive explain tool, which runs SQLite in Python in Pyodide in Web Assembly in) Tj
+T*
+(the browser and adds a layer of explanation to the results of both EXPLAIN and EXPLAIN QUERY) Tj
+T*
+(PLAN. Approach with caution, since I don't know enough about SQLite query plans to verify the) Tj
+T*
+(results myself, but it seems cromulent enough to me. Tags: sql , sqlite , tools , julia-evans ,) Tj
+T*
+(pyodide , claude-mythos-fable) Tj
+T*
+() Tj
+T*
+(4. Claude make Fable 5 permanent) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-18T06:00:13+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything) Tj
+T*
+(Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July) Tj
+T*
+(20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro) Tj
+T*
+(and Team Standard users will continue to have access to Fable via usage credits, and will) Tj
+T*
+(receive a one-time $100 credit. As I was saying last week , the competition from GPT-5.6 Sol) Tj
+T*
+(\(and maybe to a lesser extent Kimi 3 \) made untenable Anthropic's plan to remove Fable 5 from) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4229 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(their subscription accounts and make it available exclusively through API pricing. Why pay $100) Tj
+T*
+(or $200/month for a subscription plan that doesn't include Anthropic's best model? Their) Tj
+T*
+(original plan was driven by concerns over compute capacity. I wonder if they'll have to dial) Tj
+T*
+(back their training efforts in order to make more GPUs available to help serve the model. A lot) Tj
+T*
+(of people were losing sleep over trying to make the most of Fable 5 before subscriber access) Tj
+T*
+(was withdrawn. It's nice not to have to worry about the Fablepocalypse any more. Update :) Tj
+T*
+(Important to note that users on the $20/month plan will still not have access to Fable 5 on) Tj
+T*
+(that subscription. The Max plans are $100 and $200/month. Tags: ai , generative-ai , l...) Tj
+T*
+() Tj
+T*
+(5. ? Mornings in Cupertino Have the Aroma of Napalm Once Again) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-19T00:38:17Z) Tj
+T*
+(Link:) Tj
+T*
+(https://daringfireball.net/2026/07/mornings_in_cupertino_have_the_aroma_of_napalm_once_again) Tj
+T*
+(I think maybe John Ternus is more of a ?*Hey, what* would *Steve have done here?*? kind of guy.) Tj
+T*
+(What would Steve Jobs do with this OpenAI situation? He?d go to war.) Tj
+T*
+() Tj
+T*
+(6. Apple Sends Letters to Dozens of Former Employees Now at OpenAI) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-18T22:47:59Z) Tj
+T*
+(Link: https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1) Tj
+T*
+(Michael Acton, reporting for the Financial Times from San Francisco: About 40 former employees) Tj
+T*
+(now working at OpenAI have been sent letters directing them to preserve documents and) Tj
+T*
+(communications and demanding meetings with Apple?s lawyers, according to multiple people) Tj
+T*
+(familiar with the matter. Apple and OpenAI declined to comment. The decision to hit employees) Tj
+T*
+(with personal legal letters highlights Apple?s aggressive tactics after it last week launched a) Tj
+T*
+(blockbuster lawsuit accusing OpenAI and two employees of stealing secret hardware plans. ?) Tj
+T*
+() Tj
+T*
+(7. Apple Raises Prices for Apple Music and Apple One Subscriptions) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-17T21:08:39Z) Tj
+T*
+(Link:) Tj
+T*
+(https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/) Tj
+T*
+(Chance Miller, 9to5Mac: Here are the new monthly prices for Apple Music and Apple One as of) Tj
+T*
+(today: Apple Music: Individual: $11.99 \(up from $10.99\) Family: $19.99 \(up from $16.99\)) Tj
+T*
+(Student: $6.99 \(up from $5.99\) Apple One: Individual: $19.95 \(unchanged\) Family: $27.95 \(up) Tj
+T*
+(from $25.95\) Premier: $39.95 \(up from $37.95\) ?) Tj
+T*
+() Tj
+T*
+(8. Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 18 Jul 2026 11:34:18 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/07/book-review-a-city-on-mars-by-dr-kelly-weinersmith-and-z) Tj
+T*
+(ach-weinersmith/) Tj
+T*
+(I'm pretty sure this book is a psyop designed to demoralise a generation of starry-eyed) Tj
+T*
+(dreamers. It is obviously written by the same people who told us not to land on Europa. A) Tj
+T*
+(malignant energy designed to limit the scope of human ambition and thwart our plans to colonise) Tj
+T*
+(the universe. The problem is, I can't find fault with any of their logic. The Weinersmiths make) Tj
+T*
+(a compelling case that?) Tj
+T*
+() Tj
+T*
+(9. Gadget Review: Thermal Master DV2 - Infrared Birdwatching Scope ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 16 Jul 2026 11:34:50 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://shkspr.mobi/blog/2026/07/gadget-review-thermal-master-dv2-infrared-birdwatching-scope/) Tj
+T*
+(The good folks at Thermal Master have sent me their DV2 camera to review. As their name) Tj
+T*
+(suggests, this is a thermal / infrared camera - they've specifically designed this for bird) Tj
+T*
+(watching and animal spotting. Let's put it through its paces and see how it compares to the) Tj
+T*
+(competition! Straight away you can see it is different from normal IR cameras - they tend to) Tj
+T*
+(have a small fixed screen and a ?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3788 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(10. This Week in Package Management: 18 July 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-07-18T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/07/18/this-week-in-package-management.html) Tj
+T*
+(Week nine of the roundup, built from the package manager OPML feed collection and whatever I?ve) Tj
+T*
+(posted or boosted on Mastodon . Releases pnpm 11.13 adds pnpm change , a native) Tj
+T*
+(changesets-compatible release planner that handles version bumping, dependent propagation,) Tj
+T*
+(fixed groups and per-package release lanes. It also adds pnpm team for registry organisation) Tj
+T*
+(and team membership, and a versioning.epics config that ties a group of packages to a lead) Tj
+T*
+(package so their versions stay within a band derived from the lead?s major. 11.12 preceded it,) Tj
+T*
+(letting a pnpmfile fetcher return { delegate: } so custom fetchers can hand off to the built-in) Tj
+T*
+(ones portably across pnpm and pacquet. Deno 2.9.3 adds deno add --no-save and --save-optional ,) Tj
+T*
+(and --min-dep-age as a shorter alias for the minimum-release-age check. pixi 0.73.0 lets {) Tj
+T*
+(workspace = true } work in environment [dependencies] tables, so a version shared across) Tj
+T*
+(features or targets is declared once in [workspace.dependencies] without needing the pixi-build) Tj
+T*
+(preview. uv 0.11.29 adds JSON output to uv tree and prefers local artifacts over URLs when) Tj
+T*
+(installing from pylock.toml . Verdaccio 6.8.0 fires the notification webhook on unpublish) Tj
+T*
+(and...) Tj
+T*
+() Tj
+T*
+(11. Reading List 07/18/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 18 Jul 2026 12:01:57 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-071826) Tj
+T*
+(A setback for California Forever, a $500 million artillery shell plant not producing any) Tj
+T*
+(shells, the difficulty of recycling EV batteries, manufacturing wire harnesses, and more.) Tj
+T*
+() Tj
+T*
+(12. What's the deal with all the random weekly quota resets for agents lately?) Tj
+T*
+(Source: Max Woolf's Blog | Published: Sat, 18 Jul 2026 12:00:00 -0700) Tj
+T*
+(Link: https://minimaxir.com/2026/07/agent-quota-reset/) Tj
+T*
+(I?m going to be the weirdo who complains about literally getting free stuff.) Tj
+T*
+() Tj
+T*
+(13. Make It Work vs. Make It Good) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sat, 18 Jul 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/) Tj
+T*
+(There are two wolves inside of me, lol. Some days I want to be a ?designer?. Other days I want) Tj
+T*
+(to be a ?developer?. On the days I find myself wanting to feed the developer, it?s often) Tj
+T*
+(because making something ?work? seems easier \(and more impressive\) than making something) Tj
+T*
+(?good?. Making something function often results in a reaction of ?Wow, that?s so cool! It) Tj
+T*
+(didn?t work before and now it does! And I could?ve never made that, nice job!? And sometimes) Tj
+T*
+(it?s like, good job, you made a bear ride a unicycle . Not really what bears are supposed to do) Tj
+T*
+(? and they?ll probably never be good at it ? but it?s novel and functioning! However, the task) Tj
+T*
+(of making something good ? of arriving at a solution that is obvious ? is often met with a kind) Tj
+T*
+(of ambivalence, like ?Nice work?I guess? Seems obvious tbh.? That?s the work of design: to make) Tj
+T*
+(something so good, it?s obvious. But there?s often little acclaim for the obvious because,) Tj
+T*
+(well, it?s so obvious \(in hindsight\). This plays out in many different ways. For example,) Tj
+T*
+(consider a task like making a web site responsive. In my experience, it?s often quite easy to) Tj
+T*
+(get people to say ?Hey that?s cool, it looks like a mobile site now! Good job!? Getti...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004862 00000 n 
+0000004988 00000 n 
+0000009269 00000 n 
+0000009395 00000 n 
+0000013235 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+13361
+%%EOF
