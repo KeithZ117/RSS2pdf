@@ -1,0 +1,300 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4305 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-20 12:35:59) Tj
+T*
+() Tj
+T*
+(1. Quoting Sam Altman) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-20T03:47:59+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything) Tj
+T*
+(We have been having extensive discussions around open source strategy. We will discuss it more) Tj
+T*
+(at our next board meeting, but one thing we?d like to do soon is to create a language model) Tj
+T*
+(with the approximate capability of GPT-3 that can run locally on consumer hardware and release) Tj
+T*
+(that. We?d like to do it soon, before Stability or someone else does. In general, we think this) Tj
+T*
+(helps discourage others from releasing similarly-powerful models, and makes it harder for new) Tj
+T*
+(efforts to get funded. ? Sam Altman , Email to OpenAI's board, October 1, 2022 - exposed in) Tj
+T*
+(Musk v. Altman \(2026\) Tags: ai-ethics , sam-altman , generative-ai , openai , ai , llms) Tj
+T*
+() Tj
+T*
+(2. AI Mania Is Eviscerating Global Decision-Making) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-19T05:06:21+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything) Tj
+T*
+(AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik) Tj
+T*
+(Suresh on the AI mania that is overwhelming the large companies that he consults with. It's) Tj
+T*
+(crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an) Tj
+T*
+(executive confess that they had never even used ChatGPT or any AI tool in their life,) Tj
+T*
+(immediately after producing a technical strategy for an organisation with $2B+ in revenue which) Tj
+T*
+(was entirely centered around AI. Here's a report from an engineer at a company with a token) Tj
+T*
+(leaderboard: Checking out a parallel copy of our Go repository and telling the AI to rewrite) Tj
+T*
+(the whole thing in Zig while I work on something else just so I can keep my job. I particularly) Tj
+T*
+(enjoyed this conversation with a skeptical executive at an over-enthusiastic company: I asked) Tj
+T*
+(why this was being repeated without opposition. Was it just sales fluff? The answer was a lot) Tj
+T*
+(more interesting. It was partially ridiculous sales material being delivered to an easily) Tj
+T*
+(excitable audience, but this was not the dominant factor constraining honesty. Executives at) Tj
+T*
+(their customers were saying absurd things about achieving 100x productivity, and this meant...) Tj
+T*
+() Tj
+T*
+(3. nascheme/quixote) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-18T05:27:49+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/18/quixote/#atom-everything) Tj
+T*
+(nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most) Tj
+T*
+(recent commit to the Quixote web framework was six hours ago . The oldest commit in that repo) Tj
+T*
+(is from 21 years ago, and that was the initial import of Quixote 2.4 from Subversion into Git.) Tj
+T*
+(Tags: computer-history , python , web-frameworks) Tj
+T*
+() Tj
+T*
+(4. Paper) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-19T22:31:11Z) Tj
+T*
+(Link: https://paper.design/?utm_source=df) Tj
+T*
+(My thanks to Paper for sponsoring last week at DF. Paper is a new professional design tool) Tj
+T*
+(where every layer is real HTML and CSS. Your design is already code, which means fewer) Tj
+T*
+(handoffs, translations, and layers of abstraction between what you design and what you actually) Tj
+T*
+(ship. Paper works both ways: code to design, and design to code. Connect any AI agent through) Tj
+T*
+(MCP and the agent can read and edit your designs. Or use Paper Snapshot to capture your live) Tj
+T*
+(site as editable layers and make new iterations. Agents handle the tedious work so you can) Tj
+T*
+(focus on your craft and the decisions that matter. Try Paper at paper.design \(great domain) Tj
+T*
+(name\), and check out the documentation and FAQ for more info . ?) Tj
+T*
+() Tj
+T*
+(5. 9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-19T17:18:57Z) Tj
+T*
+(Link: https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on) Tj
+T*
+(-the-app-store-in-brazil/) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4699 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(9to5Mac: Brazilian users browsing the App Store rankings in categories such as Navigation,) Tj
+T*
+(Travel, and Weather have noticed a growing number of poorly made games appearing among the top) Tj
+T*
+(results, many of them featuring AI-generated illustrations of animals as their app icons. As it) Tj
+T*
+(turns out, these are so-called jacket apps, which are just a front for hidden betting and) Tj
+T*
+(gambling apps. A 9to5Mac investigation has uncovered more than 60 apps that behave exactly as) Tj
+T*
+(depicted in their App Store screenshots when accessed from virtually anywhere in the world,) Tj
+T*
+(except Brazil. When opened from a Brazilian IP address, the same apps instead reveal online) Tj
+T*
+(betting platforms, as shown in the example below, which is currently the top app in the Weather) Tj
+T*
+(category. Obviously the main problem is that these apps disguise themselves Trojan Horse-style,) Tj
+T*
+(and slip through App Store review undetected. I don?t think it?s reasonable to think App Store) Tj
+T*
+(review could catch every attempt at this sort of thing though ? if the horses are disguised) Tj
+T*
+(well-enough, some of them are going to slip through. That?s actually fine. But the first) Tj
+T*
+(example 9to5Mac cites isn?t well disguised at all. What sense does it make that ?...) Tj
+T*
+() Tj
+T*
+(6. OpenAI?s Product Shake-Up Put the Complexifiers in Charge) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-17T20:27:53Z) Tj
+T*
+(Link: https://www.wired.com/story/openai-reorg-greg-brockman-product/) Tj
+T*
+(Wired, back on May 15: OpenAI says it?s folding ChatGPT, its AI coding agent Codex, and its) Tj
+T*
+(developer-facing API into one core product team. The company says that Codex is increasingly) Tj
+T*
+(powering its consumer and enterprise offerings, which are gaining the ability to perform) Tj
+T*
+(digital tasks autonomously on behalf of users. Other OpenAI leaders are also taking on larger) Tj
+T*
+(roles at the company as part of the changes. OpenAI?s head of Codex, Thibault Sottiaux, has) Tj
+T*
+(been tapped to lead the company?s core product and platform teams. Sottiaux was a key leader in) Tj
+T*
+(building Codex into one of the company?s fastest-growing products of all time. He?s also one of) Tj
+T*
+(the leaders overseeing development of OpenAI?s forthcoming ?super app,? which aims to combine) Tj
+T*
+(Codex, ChatGPT, and the company?s Atlas web browser into a unified desktop application. I?ll) Tj
+T*
+(give them credit for sticking with a plan for two whole months to get this out the door. But) Tj
+T*
+(the problem is they went the wrong way. Instead of putting the eggheads from Codex in charge of) Tj
+T*
+(ChatGPT, they should have put the product-minded people from ChatGPT in charge of Codex. Codex,) Tj
+T*
+(I?m finally learning, is sprawling and confusing. It needs a strong dose of...) Tj
+T*
+() Tj
+T*
+(7. Fitting a regular expression to a list of words) Tj
+T*
+(Source: John D. Cook | Published: Sun, 19 Jul 2026 19:30:17 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/19/fitting-a-regex/) Tj
+T*
+(Suppose you want to search for a list of words. If you?re using grep, you can add the -f flag) Tj
+T*
+(provide a file of regular expressions, and you can add the -F to tell it that the regular) Tj
+T*
+(expressions are in fact just words. I did something like this a couple days ago when searching) Tj
+T*
+([?] The post Fitting a regular expression to a list of words first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(8. Sum of low squares) Tj
+T*
+(Source: John D. Cook | Published: Sun, 19 Jul 2026 16:41:48 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/) Tj
+T*
+(Squares, high and low Let p be an odd prime number. Then half the numbers from 1 through p ? 1) Tj
+T*
+(are squares and half are not. That is, for half of numbers 1 ? k The post Sum of low squares) Tj
+T*
+(first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. email encryption) Tj
+T*
+(Source: computers are bad | Published: 19 Jul 2026 00:00:00 UT) Tj
+T*
+(Link: https://computer.rip/2026-07-19-email-encryption.html) Tj
+T*
+(Email, one of the most pervasive and enduring technologies of computer networking, was invented) Tj
+T*
+(in about a dozen places by dozens of people in the 1960s. It's hard to lay out a clear history) Tj
+T*
+(of the technology because it's just so obvious?pretty much as soon as more than one person) Tj
+T*
+(could use a computer, there was some kind of mail facility. These ranged from mainframe-centric) Tj
+T*
+(systems where all of the users of a single computer could write messages to each other, to) Tj
+T*
+(PC-centric systems where workstations would mount a network share to store and retrieve) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 739 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(messages. Pretty much any scheme you can come up with for moving messages was probably in use) Tj
+T*
+(somewhere from roughly the 1960s to the 1990s, by which time the ARPANET-derived family of) Tj
+T*
+(email implementations had taken hold. This form of email has a clearer heritage, to Ray) Tj
+T*
+(Tomlinson, who came up with the core idea that addresses could identify both a user and a host,) Tj
+T*
+(and that some kind of open protocol could be used to send messages to another host when) Tj
+T*
+(necessary. Over time, and with many revisions, Tomlinson's design became SMTP and was joined by) Tj
+T*
+(protocols like IMAP that built out the form of email we use today. This is a form of emai...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004560 00000 n 
+0000004686 00000 n 
+0000009437 00000 n 
+0000009563 00000 n 
+0000010353 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+10479
+%%EOF
