@@ -1,0 +1,440 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4510 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-21 12:15:53) Tj
+T*
+() Tj
+T*
+(1. Reverse-engineering is cheap now) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-20T19:24:05+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything) Tj
+T*
+(I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate) Tj
+T*
+(devices in their homes. I think this is an interesting illustration of the impact of the) Tj
+T*
+(reduced cost of writing code. Prior to agents, it was entirely possible to reverse-engineer) Tj
+T*
+(home devices. The problem was the ROI - was it really worth all of that effort? More) Tj
+T*
+(importantly, any experienced programmer knows that undocumented, unstable APIs like that may) Tj
+T*
+(well change or break in the future. Is that initial work worth the effort if you're committing) Tj
+T*
+(yourself to a frustrating cycle of maintenance in the future? Coding agents change that) Tj
+T*
+(equation entirely. The effort to get a simple automation working has dropped, as has the cost) Tj
+T*
+(of trying and failing to get it to work. Since the code is so cheap, the idea of having to) Tj
+T*
+(maintain it in the future - or throw it away and start again - carries way less psychological) Tj
+T*
+(baggage. Tags: reverse-engineering , coding-agents , ai-assisted-programming , generative-ai ,) Tj
+T*
+(ai , llms) Tj
+T*
+() Tj
+T*
+(2. Who?s Afraid of Chinese Models?) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-20T17:09:19+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything) Tj
+T*
+(Who?s Afraid of Chinese Models? Interesting proposal from Ben Thompson that both addresses the) Tj
+T*
+(hypocrisy of labs outlawing distillation against their models despite training on unlicensed) Tj
+T*
+(data, and could help US open models compete more effectively with their Chinese counterparts:) Tj
+T*
+(The U.S. should pass a law that \(1\) makes explicit that collecting data for training models is) Tj
+T*
+(fair use, and \(2\) bars terms of service that forbid distillation, for U.S. companies at a) Tj
+T*
+(minimum. Stopping distillation ? which is literally just querying the API ? is nearly) Tj
+T*
+(impossible; the U.S. should go the other way and lean into a new copyright policy that both) Tj
+T*
+(indemnifies the labs and also guarantees that what they learned fuels further innovation for) Tj
+T*
+(everyone else. Ben also theorizes that Alibaba's decision to release Qwen 3.8 Max as open) Tj
+T*
+(weights - a reversal from their decision not to release Qwen 3.7 Max in May - may have been) Tj
+T*
+(influenced by a recent speech by Xi Jinping, who said: We should seize this rare, historic) Tj
+T*
+(opportunity to encourage open source, openness, collaboration and sharing. And on the subject) Tj
+T*
+(of Qwen 3.8 Max - a new 2.4T parameter model \(nearly as large as the 2.8T Kimi K3\) - here's) Tj
+T*
+(a...) Tj
+T*
+() Tj
+T*
+(3. Inkling: Our open-weights model) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-16T15:35:25+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/16/inkling/#atom-everything) Tj
+T*
+(Inkling: Our open-weights model Mira Murati's Thinking Machines Lab just released their first) Tj
+T*
+(open-weights model. Inkling is "a Mixture-of-Experts transformer with 975B total parameters,) Tj
+T*
+(41B active" - an Apache-2.0 licensed multimodal model trained on 45 trillion tokens of text,) Tj
+T*
+(images, audio and video. They're also promising Inkling-Small, a 276B \(12B active\) model, but) Tj
+T*
+(that's still being tested and the weights will be released "once that work is complete". The) Tj
+T*
+(model card is much shorter than I've come to expect from US AI labs. It links to even shorter) Tj
+T*
+(Training Data Documentation with almost nothing of interest in it - it's best summarized by) Tj
+T*
+(these two paragraphs: The datasets Thinking Machines Lab uses to develop its AI services) Tj
+T*
+(includes content that is in the public domain as well as content that may be subject to) Tj
+T*
+(intellectual property protection. Thinking Machines Lab?s services were developed using) Tj
+T*
+(publicly available content obtained from the open internet and publicly accessible data) Tj
+T*
+(repositories. Certain datasets were also obtained from third parties. By Thinking Machines' own) Tj
+T*
+(admission, this is not a frontier model. It's instead intended as a strong base model for) Tj
+T*
+(fine-tu...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4492 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(4. [Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-20T23:13:48Z) Tj
+T*
+(Link: https://workos.com/blog/management-mcp-server?utm_source=daringfireball&utm_medium=newsle) Tj
+T*
+(tter&utm_campaign=q32026) Tj
+T*
+(Debugging SSO, managing users, adjusting auth policies, configuring branding: every) Tj
+T*
+(configuration task has lived behind a UI that only a human can drive. The WorkOS MCP server) Tj
+T*
+(gives agents the same access as your dashboard login. Hundreds of operations, discoverable at) Tj
+T*
+(runtime. Connect in one command via OAuth, with scoped tokens instead of a master API key. Pass) Tj
+T*
+(a screenshot of your marketing site and ask your agent to match the login page. If a human had) Tj
+T*
+(to do it before, an agent can do it now. Connect your agent ? ?) Tj
+T*
+() Tj
+T*
+(5. ?Who?s Afraid of Chinese Models??) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-20T16:27:36Z) Tj
+T*
+(Link: https://stratechery.com/2026/whos-afraid-of-chinese-models/) Tj
+T*
+(Ben Thompson, on the hype regarding Kimi K3, at Stratechery: This is a point that bears) Tj
+T*
+(repeating: because U.S. open weight model makers must follow the frontier labs? terms of) Tj
+T*
+(service, they \(1\) are worse than Chinese alternatives and \(2\) end up distilling the) Tj
+T*
+(distillation, just with a detour through Chinese labs. Wouldn?t it be better if western open) Tj
+T*
+(weight model makers could go to the source? To that end, here?s an even more interesting) Tj
+T*
+(question around distillation: why exactly is it bad? After all, what are large language models) Tj
+T*
+(but the distillation of all of the knowledge on the open Internet, scraped by the frontier labs) Tj
+T*
+(and distilled into the models that are themselves being distilled? Who is exactly being wronged) Tj
+T*
+(here? In fact, this paradox is the solution. I believe that open weight models are good for) Tj
+T*
+(innovation \(and, per the above, I think that labs on the frontier will be fine\), but it?s a) Tj
+T*
+(problem to be dependent on China. The U.S. should pass a law that \(1\) makes explicit that) Tj
+T*
+(collecting data for training models is fair use, and \(2\) bars terms of service that forbid) Tj
+T*
+(distillation, for U.S. companies at a minimum. Stopping distillation ? which is literally just) Tj
+T*
+(querying...) Tj
+T*
+() Tj
+T*
+(6. MG Siegler: ?OpenAI Makes ChatGPT ChatGPT Again?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-17T19:48:53Z) Tj
+T*
+(Link: https://spyglass.org/chatgpt-brings-back-chatgpt/) Tj
+T*
+(MG Siegler, writing at Spyglass: In that light, we can see the dilemma. But there were also) Tj
+T*
+(probably about a dozen better ways to do this roll-out ? as highlighted by how fast they?re) Tj
+T*
+(fixing these things ? and they just missed the mark. While they undoubtedly knew there would be) Tj
+T*
+(some backlash, they probably didn?t realize there would be this much . Again. All that points) Tj
+T*
+(to perhaps a disturbing trend where OpenAI doesn?t really understand their user base. Which you) Tj
+T*
+(almost can understand given how they clearly stumbled into ChatGPT in the first place. Still,) Tj
+T*
+(here they are with those billion users. A problem that all of their competitors would love to) Tj
+T*
+(have. But still a problem if you want to fundamentally change what you are as a product . But) Tj
+T*
+(those are bigger, existential issues. All I wanted was chat back in the ChatGPT app. Front and) Tj
+T*
+(center. And I got it. It?s not perfect. It?s still bloated. But at least it?s usable again now) Tj
+T*
+(and not a confusing mess of ideas out of the box. MG is pretty scathing, but I still think he?s) Tj
+T*
+(taking it too easy on OpenAI for what a colossal fuck-up this remains. There was nothing wrong) Tj
+T*
+(with the way things were, with two apps ? the simple ChatGPT and t...) Tj
+T*
+() Tj
+T*
+(7. Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 20 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545) Tj
+T*
+(The easy case is easy. The post Making an agile version of a Windows Runtime delegate in) Tj
+T*
+(C++/WinRT, part 1 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Expensive Is Just a Brand Now) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Mon, 20 Jul 2026) Tj
+T*
+(23:00:00 GMT) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4250 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://idiallo.com/blog/expensive-is-just-branding) Tj
+T*
+(You've probably heard this one before. It might have come from a parent, a teacher, or a friend) Tj
+T*
+(who bought an expensive item and wanted to justify it. It goes something like this: A poor man) Tj
+T*
+(buys a cheap pair of boots for a few dollars. They fall apart within a year, so he buys another) Tj
+T*
+(pair. And another. Over five years, he spends far more than the man who bought one expensive,) Tj
+T*
+(well-made pair up front. A pair that's still going strong to this day. And the lesson was) Tj
+T*
+(simple: buying cheap is expensive. Buy quality, and you save money in the long run. Now swap) Tj
+T*
+(the boots for a jacket, a phone, a kitchen knife, whatever you like. In my experience, that) Tj
+T*
+(used to be true. I have old clothing still hanging in my closet, and they still hold together.) Tj
+T*
+(Price and quality were correlated. If a company was going to charge you more, it needed to) Tj
+T*
+(justify that premium with better materials, better construction, better everything. The market) Tj
+T*
+(punished brands that didn't. But something changed along the way. This is just my own personal) Tj
+T*
+(observation, but I'm sure you can relate: I pay too much for things that don't last. When I was) Tj
+T*
+(growing up, we separated the real from the knockoff with a simple test....) Tj
+T*
+() Tj
+T*
+(9. Volume to Area ratio for Regular Solids) Tj
+T*
+(Source: John D. Cook | Published: Mon, 20 Jul 2026 14:35:21 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/) Tj
+T*
+(The volume of a sphere of radius r is V = 4?r≥ / 3 and the surface area is A = 4?r≤ and so the) Tj
+T*
+(ratio of volume to area is V / A = r / 3. Surprisingly, the same ratio holds for all regular) Tj
+T*
+(solids if r is the radius of the largest sphere [?] The post Volume to Area ratio for Regular) Tj
+T*
+(Solids first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Solving a chess puzzle with Grok 4.5) Tj
+T*
+(Source: John D. Cook | Published: Mon, 20 Jul 2026 14:33:31 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/20/grok-chess/) Tj
+T*
+(I?ve written several posts about using Claude or ChatGPT to generate Prolog or Lean code to) Tj
+T*
+(solve a chess puzzle. I didn?t think Grok would be up to the task, though I didn?t try it. I?ve) Tj
+T*
+(heard good things about Grok 4.5, so I gave it a shot. It did great. Here?s the problem, a [?]) Tj
+T*
+(The post Solving a chess puzzle with Grok 4.5 first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Memory Safety's Hardest Problem) Tj
+T*
+(Source: matklad | Published: 2026-07-20T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html) Tj
+T*
+(Uplifting a lobsters comment for easier reference.) Tj
+T*
+() Tj
+T*
+(12. Public Transport - Don't Make Me Think!) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 20 Jul 2026 11:34:23 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/07/public-transport-dont-make-me-think/) Tj
+T*
+(In the last year, I've been through over a dozen cities and used public transport in all of) Tj
+T*
+(them. It is wild just how confusing and complex buying a ticket can be. While some cities) Tj
+T*
+(obviously take a user-centred approach to ticketing, others appear to take a Kafkaesque delight) Tj
+T*
+(in a bureaucratic maze of zones, apps, and intricate restrictions. One of the seminal texts in) Tj
+T*
+(computer systems design?) Tj
+T*
+() Tj
+T*
+(13. Why I Stopped "Creating Content") Tj
+T*
+(Source: Refactoring English | Published: Mon, 20 Jul 2026 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/blog/why-i-stopped-creating-content/) Tj
+T*
+(The first time I saw Michelangelo?s David in person, I wept. Never in my life have I witnessed) Tj
+T*
+(a more beautiful piece of content. I wasn?t the only one who felt that way. Museum patrons all) Tj
+T*
+(around me were looking up from their phones to admire David as well. Despite it being legacy) Tj
+T*
+(content, David was so scrollstoppingly captivating that it generated stronger engagement than) Tj
+T*
+(TikTok and Instagram combined, despite those platforms offering fresher, more personally) Tj
+T*
+(relevant content.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1157 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(14. I added a blogroll) Tj
+T*
+(Source: matduggan.com | Published: Mon, 20 Jul 2026 11:29:27 GMT) Tj
+T*
+(Link: https://matduggan.com/i-added-a-blogroll/) Tj
+T*
+(I realized that it might be nice if you happen to stumble on this website if I had a way to) Tj
+T*
+(recommend other websites you might enjoy. As it turns out this is a "blogroll", a concept I) Tj
+T*
+(have never heard of before today but whatever. It') Tj
+T*
+() Tj
+T*
+(15. OpenTK: nu ook met Internetconsultaties & notificaties) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 20 Jul 2026 13:37:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/opentk-internetconsultaties/) Tj
+T*
+(Sinds 2024 run ik OpenTK, met als doel zo goed mogelijk te laten zien wat er in de Tweede Kamer) Tj
+T*
+(allemaal gebeurt. En, om daar ook nuttige email-notificaties over te versturen. OpenTK is) Tj
+T*
+(begonnen omdat ik \(vanuit de Internetwereld\) ineens geconfronteerd werd met een wet die over) Tj
+T*
+(DNS \(mijn hobby\) ging en over een paar dagen in stemming zou komen. Dat was heel erg schrikken) Tj
+T*
+(en ik dacht, dat kan ons nooit meer gebeuren.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004772 00000 n 
+0000004898 00000 n 
+0000009442 00000 n 
+0000009568 00000 n 
+0000013870 00000 n 
+0000013996 00000 n 
+0000015206 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15334
+%%EOF
