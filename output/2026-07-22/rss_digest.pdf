@@ -1,0 +1,468 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4574 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-22 12:17:25) Tj
+T*
+() Tj
+T*
+(1. Nativ: Run AI models locally on your Mac) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-21T14:22:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/21/nativ/#atom-everything) Tj
+T*
+(Nativ: Run AI models locally on your Mac Prince Canuma is the developer behind the excellent) Tj
+T*
+(MLX-VLM Python library for running vision-LLMs using MLX on a Mac. I'm really excited about his) Tj
+T*
+(new project, which wraps MLX in a full macOS desktop application. It's similar in shape to LM) Tj
+T*
+(Studio, providing both a chat interface and a localhost API server for accessing models. The) Tj
+T*
+(app picked up MLX models I had already tried that were present in my Hugging Face cache) Tj
+T*
+(directory, which was a nice touch. Via Hacker News Tags: macos , python , ai , generative-ai ,) Tj
+T*
+(local-llms , llms , mlx , prince-canuma) Tj
+T*
+() Tj
+T*
+(2. A Fireside Chat with Cat and Thariq from the Claude Code team) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-21T12:54:02+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything) Tj
+T*
+(Earlier this month I hosted a fireside chat session at the AI Engineer World's Fair with Cat Wu) Tj
+T*
+(and Thariq Shihipar from Anthropic's Claude Code team. We talked about Claude Code, Claude Tag,) Tj
+T*
+(Fable, coding agent security, evals, tool design, and how Anthropic use these tools themselves.) Tj
+T*
+(The full video of the session is now available on YouTube . Below is an edited copy of the) Tj
+T*
+(transcript, with extra links and my own bolded highlights. A few top-level notes if you don't) Tj
+T*
+(want to watch the video or wade through the whole transcript: Claude Tag \(Claude's new) Tj
+T*
+(collaborative Slack integration\) now lands 65% of the product engineering PRs for the Claude) Tj
+T*
+(Code team. Claude Code ships features to Anthropic employees first, and only ships the features) Tj
+T*
+(that demonstrate user retention with that cohort Critical changes to Claude Code are still) Tj
+T*
+(reviewed manually, but the team increasingly relies on automated code review for the "outer) Tj
+T*
+(layers" of the product. Adding examples to a system prompt is no longer best practice for) Tj
+T*
+(models like Fable 5 or even Opus 4.8. The Claude Code system prompt recently reduced in size by) Tj
+T*
+(80% . Likewise, lists of " don't do X and don't do Y " can reduce the quality of...) Tj
+T*
+() Tj
+T*
+(3. Mermaid to ASCII art \(mermaid-ascii\)) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-16T14:57:39+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything) Tj
+T*
+(Tool: Mermaid to ASCII art \(mermaid-ascii\) After building the Mermaid to ASCII tool based on) Tj
+T*
+(Grok Build's Rust code I learned that there's an older, more fully-featured Go library called) Tj
+T*
+(AlexanderGrooff/mermaid-ascii that implements a similar pattern, so I had Claude Fable 5) Tj
+T*
+(compile that one to WebAssembly as well so I could compare the two. This one includes support) Tj
+T*
+(for colors! Test:::good / Test --> Deploy:::warn / Deploy --> Rollback:::bad / classDef good) Tj
+T*
+(color:#3fb950 / classDef warn color:#e3b341 / classDef bad color:#ff7b72". A control row shows) Tj
+T*
+(an unchecked "ASCII only" checkbox, "Padding X: 5", "Padding Y: 5", "Box padding: 1", and) Tj
+T*
+(buttons "Copy as text" and "Copy link to this diagram". At the bottom on a black background is) Tj
+T*
+(the rendered left-to-right flowchart with four connected boxes: "Build" \(green text\), "Test") Tj
+T*
+(\(green text\), "Deploy" \(yellow text\), "Rollback" \(red text\), each linked by arrows.") Tj
+T*
+(src="https://static.simonwillison.net/static/2026/mermaid-ascii.webp" /> Tags: go , tools ,) Tj
+T*
+(webassembly , mermaid) Tj
+T*
+() Tj
+T*
+(4. LG to Ban Residential Proxies from Smart TV Apps) Tj
+T*
+(Source: Krebs on Security | Published: Wed, 22 Jul 2026 01:10:38 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/) Tj
+T*
+(The home appliance giant LG Electronics USA said this week it plans to suspend any apps built) Tj
+T*
+(for its smart TVs that turn one's television into an always-on residential proxy node. The move) Tj
+T*
+(comes less than a month after researchers found that more than 42 percent of games and other) Tj
+T*
+(apps available for download on LG's webOS store allow unknown third-parties to route their) Tj
+T*
+(Internet traffic through a user's TV.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4229 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(5. ? European Commission: ?Guidance to Google for AI Interoperability on Android & Sharing) Tj
+T*
+(of Google Search?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-21T22:49:03Z) Tj
+T*
+(Link: https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing) Tj
+T*
+(What the EC is dictating to Google is just breathtaking in scope.) Tj
+T*
+() Tj
+T*
+(6. OpenAI Starts Cleaning Up the Utter Mess It Made of ChatGPT) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-17T19:10:43Z) Tj
+T*
+(Link: https://x.com/thsottiaux/status/2077928427936710901) Tj
+T*
+(Thibault ?Tibo? Sottiaux, the OpenAI engineering lead who?s taking the most public credit for) Tj
+T*
+(this and thus probably deserves the most blame, on Twitter/X: Evening! We?ve gotten lots of) Tj
+T*
+(great feedback on the new ChatGPT desktop app \(which we didn?t get totally quite right on the) Tj
+T*
+(first try\), and as a result, we?ve made some changes. 1/ ChatGPT conversation history and) Tj
+T*
+(projects are now visible in the sidebar. Also, your Chat and Work history now sync across web,) Tj
+T*
+(mobile, and desktop. Local tasks still stay on your computer. How in the world did they ship) Tj
+T*
+(this without sync? 2/ You can now easily switch between Chat and Work modes inside ChatGPT on) Tj
+T*
+(desktop, which is now also consistent with how it shows on web and mobile. Bringing back ?chat?) Tj
+T*
+(to ChatGPT is literally the least they needed to do. Hiding chat in an obscure corner of the) Tj
+T*
+(interface from an app named ?ChatGPT? would be like removing text editing from TextEdit. The) Tj
+T*
+(updates OpenAI shipped yesterday address some of the abject incoherence of the initial rollout) Tj
+T*
+(of the ?new? ChatGPT, but it?s still dogshit. The new app remains a 1.5 GB Electron monstrosity) Tj
+T*
+(\(and if it?s not technically Electron that?s because they?ve created anoth...) Tj
+T*
+() Tj
+T*
+(7. Linus Torvalds: ?AI Is a Tool, Just Like Other Tools We Use. And It?s Clearly a Useful) Tj
+T*
+(One.?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-17T18:13:16Z) Tj
+T*
+(Link: https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@m) Tj
+T*
+(ail.gmail.com/) Tj
+T*
+(Linus Torvalds: I realize that some people really dislike AI, but this is an area where I?m) Tj
+T*
+(willing to absolutely put my foot down as the top-level maintainer. Linux is not one of those) Tj
+T*
+(anti-AI projects, and if somebody has issues with that, they can do the open-source thing and) Tj
+T*
+(fork it. Or just walk away. AI is a tool, just like other tools we use. And it?s clearly a) Tj
+T*
+(useful one. It may not have been that ?clearly? even just a year ago, but it?s no longer in) Tj
+T*
+(question today. There are other questions around AI \(like what the economy of it will actually) Tj
+T*
+(look like in the end\), but ?is it useful? is no longer one of those questions. Anybody who) Tj
+T*
+(doubts that clearly hasn?t actually used it. ?) Tj
+T*
+() Tj
+T*
+(8. Making an agile version of a Windows Runtime delegate in C++/WinRT, part 2) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 21 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260721-00/?p=112550) Tj
+T*
+(Short-circuiting the easiest case. The post Making an agile version of a Windows Runtime) Tj
+T*
+(delegate in C++/WinRT, part 2 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Forensic accounting in Python) Tj
+T*
+(Source: John D. Cook | Published: Tue, 21 Jul 2026 15:05:04 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/21/forensic-accounting-in-python/) Tj
+T*
+(I recently had a project in which I had to reverse engineer a data analysis. There was some) Tj
+T*
+(ambiguity regarding which of several possibilities someone chose for several of the variables,) Tj
+T*
+(something analogous to the following example. Suppose you have three numbers with uncertain) Tj
+T*
+(values with a known, or at least purported, sum. The first [?] The post Forensic accounting in) Tj
+T*
+(Python first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Locally everywhere does not imply everywhere) Tj
+T*
+(Source: John D. Cook | Published: Tue, 21 Jul 2026 12:14:03 +0000) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3952 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.johndcook.com/blog/2026/07/21/jacobian-conjecture/) Tj
+T*
+(A couple days ago, Levent Alpöge, a mathematician working at Anthropic, discovered a) Tj
+T*
+(counterexample to the Jacobian conjecture using Claude Fable 5. I was curious whether most) Tj
+T*
+(mathematicians were trying to prove or disprove the conjecture, so I asked Claude. Before a) Tj
+T*
+(counterexample to the Jacobian conjecture was found, did most mathematicians believe it was [?]) Tj
+T*
+(The post Locally everywhere does not imply everywhere first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. ?end-of-options) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-07-21T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/07/21/end-of-options.html) Tj
+T*
+(I was reading through the fix for a package manager CVE last week and ran into a git flag I?d) Tj
+T*
+(somehow never noticed: --end-of-options . My first reaction was that some LLM had hallucinated) Tj
+T*
+(it, but it?s documented in gitcli\(7\) , it was added in git 2.24.0 in November 2019, and it) Tj
+T*
+(exists because git had already used -- for something else. In most Unix tools -- marks the end) Tj
+T*
+(of option parsing, so rm -- -f removes a file called -f rather than passing the force flag. Git) Tj
+T*
+(had repurposed -- early on to separate revisions from pathspecs, because git log foo on its own) Tj
+T*
+(is ambiguous between a branch named foo and a file named foo and one of the two readings needed) Tj
+T*
+(a marker: git log main -- README.md means commits on main touching that file. That left the) Tj
+T*
+(revision position with no terminator, so if a script runs git log "$rev" and $rev starts with a) Tj
+T*
+(dash, git parses it as an option. From the commit that introduced --end-of-options : But that) Tj
+T*
+(doesn?t work for the revision parser, because -- is already meaningful there: it separates) Tj
+T*
+(revisions from pathspecs. So we need some other marker to separate options from revisions. --) Tj
+T*
+(and --end-of-options are different things in git, and treating them a...) Tj
+T*
+() Tj
+T*
+(12. Kuiper Q-Q plot: are these the same?) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 21 Jul 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/kuiper-q-q-plot) Tj
+T*
+(When we tried to get an intuition for the differences in distribution functions, we learned) Tj
+T*
+(that children subjected to a treatment had greater variation in their score than the reference) Tj
+T*
+(group. \(Continue reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(13. For a Business, Should Making \(Extra\) Money Be Incidental?) Tj
+T*
+(Source: Simone Salis | Published: Tue, 21 Jul 2026 13:00:00 GMT) Tj
+T*
+(Link: https://simone.org/business-money-incidental/) Tj
+T*
+(Humans are desire-driven machines: a business should help dissipate desires by satisfying them) Tj
+T*
+(without exploiting you.) Tj
+T*
+() Tj
+T*
+(14. 10 REM"_\(C2SLFF4) Tj
+T*
+(Source: Beej's Bit Bucket | Published: Tue, 21 Jul 2026 00:00:00 +0000) Tj
+T*
+(Link: http://beej.us/blog/data/mystery-comment/) Tj
+T*
+(Wherein we chase down a BASIC retrocomputing question that's bugged me for far too long.) Tj
+T*
+() Tj
+T*
+(15. Weekly Update 513: Clauding The Home Network) Tj
+T*
+(Source: Troy Hunt | Published: Tue, 21 Jul 2026 07:30:24 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-513/) Tj
+T*
+(I reckon this week's video on how Claude is tying together info from UniFi, Home Assistant and) Tj
+T*
+(the Pi-Hole is an absolute ripper. Or at least the concept is - if ever there was an actual) Tj
+T*
+(value proposition for AI it's taking lots of noise and) Tj
+T*
+() Tj
+T*
+(16. Blog Jamboree 2026: The Winners) Tj
+T*
+(Source: Experimental History | Published: Tue, 21 Jul 2026 14:38:24 GMT) Tj
+T*
+(Link: https://www.experimental-history.com/p/blog-jamboree-2026-the-winners) Tj
+T*
+(yeehaw) Tj
+T*
+() Tj
+T*
+(17. Kan een Amerikaans bedrijf met encryptie de Amerikaanse overheid buiten de deur) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2449 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(houden?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 21 Jul 2026 15:20:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/kan-een-amerikaans-bedrijf-zo-versleutelen-dat-amerikan) Tj
+T*
+(en-er-niet-bijkunnen/) Tj
+T*
+(Het is inmiddels duidelijk dat zelfs maar deels Amerikaanse bedrijven met allerhande middelen) Tj
+T*
+(gedwongen kunnen worden om onze data te overhandigen aan de Amerikaanse overheid. Ook kan de) Tj
+T*
+(dienstverlening gestaakt worden na een enkel briefje op Whitehouse.gov, wat zonder enige) Tj
+T*
+(rechterlijke toetsing geplaatst kan worden. Tegen deze beide dingen is met papier niets te) Tj
+T*
+(doen. Geen speciale afspraak zal je redden uit dit probleem \(dit ook volgens de Landsadvocaat\).) Tj
+T*
+(Maar, er is dan soms nog de hoop om de data nog wel privé te houden met speciale encryptie.) Tj
+T*
+() Tj
+T*
+(18. Pluralistic: Dealing with dickovers \(21 Jul 2026\) dickovers) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 21 Jul 2026 08:49:18) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/21/dickovers/) Tj
+T*
+(Today's links Dealing with dickovers: The web is an open platform, and that matters. Hey look) Tj
+T*
+(at this: Delights to delectate. Object permanence: Broadcast's bad week; Congress v wifi; EFF v) Tj
+T*
+(DRM law; Snowden and bunnie's smartphone smartcase. Upcoming appearances: Edinburgh, Sydney,) Tj
+T*
+(Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You) Tj
+T*
+(keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Dealing with dickovers \(permalink\) One of 2026's better tech-related) Tj
+T*
+(coinages is "dickover," John Gruber's term for a modal panel, popover, or curtain presented by) Tj
+T*
+(a website or app, deliberately obscuring its own content to frustrate the user with an) Tj
+T*
+(unwanted, unnecessary, mandatory interaction; e.g. asking the user to accept ?cookies?,) Tj
+T*
+(subscribe to a newsletter, install the website?s mobile app, agree to terms of service, or) Tj
+T*
+(anything else that the user couldn?t give two shits about.) Tj
+T*
+(https://daringfireball.net/2026/05/what_is_a_dickover These are bad everywhere, but they are) Tj
+T*
+(especially terrible in the UK and EU, where websites practice a form of malicious compliance to) Tj
+T*
+(the GDPR, Europe's landmar...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004836 00000 n 
+0000004962 00000 n 
+0000009243 00000 n 
+0000009369 00000 n 
+0000013373 00000 n 
+0000013499 00000 n 
+0000016001 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16129
+%%EOF
