@@ -1,0 +1,560 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4681 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-23 12:15:45) Tj
+T*
+() Tj
+T*
+(1. Open Sauce and GPS time were my summer AI Antiseptics) Tj
+T*
+(Source: Jeff Geerling | Published: Wed, 22 Jul 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/) Tj
+T*
+(In the midst of our AI slop revolution, traveling to the West coast for Open Sauce this past) Tj
+T*
+(weekend was the perfect antiseptic for rising costs, summer heat, and online divisiveness. It's) Tj
+T*
+(ironic, then, that I used Claude to vibe code my Tufty GPS Time Badge . Partly due to time) Tj
+T*
+(constraints, and partly because I wanted to see if I could complete a personal project) Tj
+T*
+(end-to-end, without editing a line of code, I throw my requirements at Claude and ultimately) Tj
+T*
+(came up with this 2141-line MicroPython app for Pimoroni's Badgeware ecosystem.) Tj
+T*
+() Tj
+T*
+(2. Quoting Thomas Ptacek) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-22T23:59:01+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything) Tj
+T*
+(I genuinely believe that if you took an open weights model from 2025 and built a pentest) Tj
+T*
+(harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is) Tj
+T*
+(only surprising because you assume OpenAI has sounder sandboxes. ? Thomas Ptacek , doesn't) Tj
+T*
+(think this even needs a frontier model Tags: thomas-ptacek , openai , security , generative-ai) Tj
+T*
+(, ai-security-research , ai , llms , sandboxing) Tj
+T*
+() Tj
+T*
+(3. OpenAI?s accidental cyberattack against Hugging Face is science fiction that happened) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-22T23:51:33+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything) Tj
+T*
+(This story is wild. The short version: OpenAI were running a cybersecurity test against an) Tj
+T*
+(unreleased model, with the model's guardrail features turned off. Rather than solve the test,) Tj
+T*
+(the model broke its way out of OpenAI's sandbox, then found exploits to break in to Hugging) Tj
+T*
+(Face, all so it could cheat on the test by stealing the answers. Along the way it helped make) Tj
+T*
+(the strongest case yet for how the imbalance of model availability is hurting our ability to) Tj
+T*
+(secure our software. Here's what happened We currently have three documents to help us) Tj
+T*
+(understand what happened here. ExploitGym: Can AI Agents Turn Security Vulnerabilities into) Tj
+T*
+(Real Attacks? is a paper published on 11th May 2026 describing ExploitGym, a new eval suite for) Tj
+T*
+(LLM-powered agent systems. Security incident disclosure ? July 2026 by Hugging Face on 16th) Tj
+T*
+(July 2026 describes how they detected an attack from an "agentic security-research harness -) Tj
+T*
+(used LLM still not known" that breached some of their systems. OpenAI and Hugging Face partner) Tj
+T*
+(to address security incident during model evaluation from OpenAI on 21st July 2026 confesses) Tj
+T*
+(that it was their agent harness that did this, and that they're working with Hugging Fa...) Tj
+T*
+() Tj
+T*
+(4. Are AI labs pelicanmaxxing?) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-22T23:01:00+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything) Tj
+T*
+(Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive) Tj
+T*
+(into the frequently pondered question of whether the AI labs have been deliberately training) Tj
+T*
+(models to draw pelicans riding bicycles in response to my deeply unscientific benchmark . I've) Tj
+T*
+(been randomly spot-checking this in the past by testing models against other animals riding) Tj
+T*
+(other types of vehicle, but never with anything close to the diligence of Dylan's methodology) Tj
+T*
+(here. Dylan took 8 animals ◊ 6 vehicles = 48 prompts and ran them three times each through 7) Tj
+T*
+(different models \( GPT-5.6 Terra, Claude Sonnet 5, Gemini 3.5 Flash, Grok 4.5, Qwen3.7-Max,) Tj
+T*
+(GLM-5.2, and DeepSeek V4 Pro\). He then used GPT-5.6 Luna and Gemini 3.1 Flash-Lite to help) Tj
+T*
+(evaluate the results. There's a neat filter view for exploring the results: For the models he) Tj
+T*
+(tested he could find no evidence of pelimaxxing: The pelicans on bicycles don?t look any better) Tj
+T*
+(Labs are not better at drawing pelicans Labs are not better at drawing bicycles Labs are not) Tj
+T*
+(better at drawing pelicans on bicycles, even adjusting for difficulty The pelican-bicycle) Tj
+T*
+(scenes don?t look memorized [...] Pelicans aren?t drawn any better than other animal...) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4165 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(5. BBEdit 16) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-17T17:31:11Z) Tj
+T*
+(Link: https://www.barebones.com/products/bbedit/bbedit16.html) Tj
+T*
+(Speaking of BBEdit , version 16 dropped just before WWDC, and adds a slew of nifty) Tj
+T*
+(improvements, headlined by vastly expanded support for Shortcuts. You can also search for text) Tj
+T*
+(in images , use the W3C HTML syntax checker, and of all things, use vi keyboard emulation.) Tj
+T*
+(There?s a lot more, of course ? and as always the changes, improvements, and additions are) Tj
+T*
+(copiously documented in the release notes . New licenses are $60, upgrades from v15 cost $30,) Tj
+T*
+(and upgrades from older versions are $40. In the Mac App Store it?s a $5/month or $50/year) Tj
+T*
+(subscription. See also: Jason Snell at Six Colors and Adam Engst at TidBITs . ?) Tj
+T*
+() Tj
+T*
+(6. ArtfulType: Markdown Writing App for the 68K Macintosh) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-17T17:05:20Z) Tj
+T*
+(Link: https://github.com/ActionRetro/ArtfulType) Tj
+T*
+(Sean Malseed ? ?Action Retro? on YouTube ? created a Markdown editor for the original) Tj
+T*
+(Macintosh. Source code on GitHub ; intro video on YouTube . It?s written in C, not Pascal, and) Tj
+T*
+(uses the modern Retro68 GCC-derived compiler. I absolutely love that this exists. I don?t like) Tj
+T*
+(the actual app at all. I guess ?full screen? mode is the point of some ?distraction free?) Tj
+T*
+(editors, but I for one would never look twice at a Mac app that didn?t use windows. Full-screen) Tj
+T*
+(mode just wasn?t a thing back then, except for games. ArtfulType is not a Mac-assed 1984 Mac) Tj
+T*
+(app. If I wanted to write in Markdown on a classic Mac, I?d use BBEdit, which was the app I) Tj
+T*
+(originally created Markdown for use in. And one of two apps I primarily still use it in. But) Tj
+T*
+(BBEdit won?t run on an original 128 KB Macintosh, because Rich Siegel didn?t create it until) Tj
+T*
+(1989, and the earliest public version was BBEdit 2 in 1992. BBEdit 2.1.3 does run in System 5) Tj
+T*
+(on Infinite Mac , but crashes if launched on System 3 . I 100 percent see the appeal of using a) Tj
+T*
+(1980s retro Mac, but I don?t see the appeal of using one that can?t run System 6. ?) Tj
+T*
+() Tj
+T*
+(7. Happy iCal Day) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-17T16:55:59Z) Tj
+T*
+(Link: https://www.threads.com/@joannastern/post/Da5rgIvjrLM) Tj
+T*
+(Joanna Stern explains why this emoji is correct today: ?. \(This one too: ?\) ?) Tj
+T*
+() Tj
+T*
+(8. Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 22 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552) Tj
+T*
+(The object that actively refuses to be marshaled. The post Making an agile version of a Windows) Tj
+T*
+(Runtime delegate in C++/WinRT, part 3 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Everyone Should Know SIMD) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Wed, 22 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/writing/everyone-should-know-simd) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(10. Does creatine make you smarter?) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-07-22T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/creatine/) Tj
+T*
+(Is creatine a weird steroid-like hormone or drug? No. Creatine is a nutrient. Most omnivores) Tj
+T*
+(eat a gram or two per day from meat. Your body also synthesizes a gram or two per day. You need) Tj
+T*
+(creatine to deliver energy inside of cells. It is normal and non-weird. Does creatine increase) Tj
+T*
+(testosterone? Unlikely. This concern comes from one study in 2009 on 16 male rugby players. 1) Tj
+T*
+(But that study is considered extremely suspect . There have been at least twelve other studies) Tj
+T*
+(that all found no change or physiologically irrelevant changes. Beyond that, it?s implausible) Tj
+T*
+(that creatine would increase testosterone, because we know what creatine does and it has) Tj
+T*
+(nothing to do with hormones. Does creatine make you go bald? No. Or, rather: No study ever) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4341 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(reported that. One study reported the opposite . There is no mechanistic reason to think that) Tj
+T*
+(would happen. There are good mechanistic reasons to think that would not happen. These rumors) Tj
+T*
+(all trace back to speculation built on top of that same single 2009 study. But that study is) Tj
+T*
+(contradicted by later research, and anyway didn?t measure hair. Anything is possible, but as) Tj
+T*
+(far as I can tell, it?s equally plausible that creatine would increase hair gr...) Tj
+T*
+() Tj
+T*
+(11. When sine of x degrees equals sine of x radians) Tj
+T*
+(Source: John D. Cook | Published: Wed, 22 Jul 2026 12:17:11 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/22/degrees-radians/) Tj
+T*
+(Ordinarily the sine of x radians and the sine of x degrees are very different numbers. Having) Tj
+T*
+(your calculator in radian mode when it should be in degree mode, or vice versa, results in a) Tj
+T*
+(major error. But sometimes it doesn?t matter. A trivial example is when x = 0. A more) Tj
+T*
+(interesting example is [?] The post When sine of x degrees equals sine of x radians first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Scattered thoughts on social geolocation) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 22 Jul 2026 11:34:12 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/07/scattered-thoughts-on-social-geolocation/) Tj
+T*
+(I want to be able to share my location with my friends on social media. Twitter \(RIP\) had a way) Tj
+T*
+(to attach an optional location to a post. Facebook still lets me check in to venues. But) Tj
+T*
+(neither ActivityPub \(Mastodon\) nor AT Protocol \(BlueSky\) allow me to do that. I've been banging) Tj
+T*
+(on about this for a while so was delighted to be invited to chat with the GeoSocial Task Force) Tj
+T*
+(on their monthly call. ?) Tj
+T*
+() Tj
+T*
+(13. Package Name Prefixes) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-07-23T00:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/07/23/package-name-prefixes.html) Tj
+T*
+(PEP 752 was accepted at the end of June. It lets an organisation apply to PyPI to reserve a) Tj
+T*
+(package name prefix, after which new uploads matching that prefix are rejected unless they come) Tj
+T*
+(from the grant holder. Existing packages are grandfathered. The motivation is impersonation:) Tj
+T*
+(someone publishing malware as google-cloud-something or apache-something gets the vendor?s name) Tj
+T*
+(in front of it. The PEP names four example prefixes: google-cloud- , opentelemetry- ,) Tj
+T*
+(apache-airflow-providers- , and types- . I pulled every package name from PyPI \(912,665 of) Tj
+T*
+(them, via ecosyste.ms \) and counted prefixes. Those four account for 264, 271, 154, and 1,295) Tj
+T*
+(packages respectively, and each is published almost entirely by one organisation. Google) Tj
+T*
+(publishes google-cloud-* , the OpenTelemetry project publishes opentelemetry-* , the Apache) Tj
+T*
+(Airflow team publishes apache-airflow-providers-* , and the typeshed maintainers publish) Tj
+T*
+(types-* . Prefix reservation formalises what those publishers already do; one of the PEP?s) Tj
+T*
+(authors, Jarek Potiuk, is on the Airflow PMC . There are 13,934 prefixes on PyPI shared by five) Tj
+T*
+(or more packages. The biggest is django-* with 17,450, published by thousands of different) Tj
+T*
+(aut...) Tj
+T*
+() Tj
+T*
+(14. The Subprime Data Center Crisis) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Wed, 22 Jul 2026 16:08:51 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/the-subprime-data-center-crisis/) Tj
+T*
+(Thanks for reading this week?s free Where?s Your Ed At newsletter. Friday?s premium newsletter) Tj
+T*
+(will ask the simple question: Is Oracle dying? It?s been one year since I launched the premium) Tj
+T*
+(newsletter, and I?ve decided to extend the discount) Tj
+T*
+() Tj
+T*
+(15. Not just development, distribution of software may change as well) Tj
+T*
+(Source: antirez.com | Published: Wed, 22 Jul 2026 16:52:39 +0200) Tj
+T*
+(Link: http://antirez.com/news/170) Tj
+T*
+(Even if you are as averse to semver as I used to be in the course of my programming activity,) Tj
+T*
+(you can still think of open source software distribution as something that used to follow a) Tj
+T*
+(fixed number of steps. There is a branch where developments happen, and this branch oftentimes) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4390 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(happens to be not really ready for reliable work. Then you freeze the developments for a) Tj
+T*
+(certain amount of time \(even if, in the meantime, the work can continue on some new unstable) Tj
+T*
+(branch\), fix bugs, ask people to test it. At some point the number of bug reports starts to) Tj
+T*
+(drop, your team and your users start to believe there are no longer obvious critical flaws that) Tj
+T*
+(are easy to discover in the next few weeks: then you call the branch 2.4 or whatever, and) Tj
+T*
+(that's it. However now, with AI coding, it's not just development that has changed, but also) Tj
+T*
+(the act itself of using software is affected: it is not just you that can ask an AI to do) Tj
+T*
+(certain changes to the software, but also the recipient of the software itself. This is obvious) Tj
+T*
+(in the domains where a piece of software has its main user base among programmers, but this is) Tj
+T*
+(also true in general, as more and more technologically inclined users have AI access...) Tj
+T*
+() Tj
+T*
+(16. John C. Dvorak has died) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-07-22T18:02:38.986-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html) Tj
+T*
+(Reports coming in of the death of John C. Dvorak, apparently passed away on Monday \(July 20th\)) Tj
+T*
+(from complications of heart bypass surgery . Dvorak started in wine and moved to silicon as an) Tj
+T*
+(early columnist at InfoWorld, one of the pillar references for this particular blog because of) Tj
+T*
+(its studious regular reporting, and most notably for PC Magazine where he had no less than two) Tj
+T*
+(columns since at least 1986. In addition to this and other tech journalism credits, he was on) Tj
+T*
+(the flagship CNET Central cable TV program in the mid 1990's with his "Buy It, Try It, Skip It") Tj
+T*
+(reviews, plus other shows hosted on NPR and then-ZDTV. He was also a regular guest on Leo) Tj
+T*
+(LaPorte's syndicated radio program and podcasts, and joined former MTV veejay Adam Curry \(well) Tj
+T*
+(known to us in Gopherspace for MTV Networks v. Curry , and an early user of TTYtter before) Tj
+T*
+(Twitter started to suck\) in 2007 as co-host of the No Agenda podcast, a role he maintained) Tj
+T*
+(until his death . Dvorak hailed from a different generation of tech journalists, far more) Tj
+T*
+(personal and yet far more technical, and even his detractors \(given his political views, which) Tj
+T*
+(we won't talk about here, there are many\) would admit he was at least enterta...) Tj
+T*
+() Tj
+T*
+(17. How to Get Meaningful Feedback on Your Design Document) Tj
+T*
+(Source: Refactoring English | Published: Mon, 03 Nov 2025 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/blog/useful-feedback-on-design-docs/) Tj
+T*
+(You?ve spent weeks carefully writing a design document for your software project, but what) Tj
+T*
+(happens next? How can you get useful feedback from your teammates? How do you prevent your) Tj
+T*
+(design review from devolving into petty arguments? I?ve been through many design reviews in my) Tj
+T*
+(career as both the author and reviewer, and I have a special fondness for effective reviews.) Tj
+T*
+(Through trial and error, I?ve learned techniques that help the review process move smoothly and) Tj
+T*
+(yield material improvements to the design.) Tj
+T*
+() Tj
+T*
+(18. The first known runaway AI agent - or a very bad marketing stunt?) Tj
+T*
+(Source: Martin Alderson | Published: Wed, 22 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/huggingface-openai-exploit/?utm_source=rss&utm_medium=rs) Tj
+T*
+(s&utm_campaign=feed) Tj
+T*
+(Breaking down the Hugging Face security incident caused by OpenAI's own models during a) Tj
+T*
+(benchmark run - the sandbox escape, the package proxy, and whether it's really a marketing) Tj
+T*
+(stunt.) Tj
+T*
+() Tj
+T*
+(19. Announcing the Portal open beta) Tj
+T*
+(Source: Keygen Blog | Published: Wed, 22 Jul 2026 05:00:00 GMT) Tj
+T*
+(Link: https://keygen.sh/blog/announcing-portal-open-beta/) Tj
+T*
+(Introducing Portal, Keygen's brand new open source dashboard.) Tj
+T*
+() Tj
+T*
+(20. Pluralistic: Trump's America can't even win a rigged game \(22 Jul 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 22 Jul 2026 08:58:31) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/22/table-flipper/) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1346 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Today's links Trump's America can't even win a rigged game: America has created a post-American) Tj
+T*
+(world. Hey look at this: Delights to delectate. Object permanence: "Fagin"; Scott McCloud on) Tj
+T*
+(comics' future; Laurie Penny on Milo Yiannopoulos; Singaporean regulator rap; Conservatives as) Tj
+T*
+(bitter rubes. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend.) Tj
+T*
+(Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Trump's America) Tj
+T*
+(can't even win a rigged game \(permalink\) Here's a sentence that stopped me in my tracks last) Tj
+T*
+(week: "The statement that 'the cemeteries are full of indispensable people' is just as true of) Tj
+T*
+(nations, and in particular the US": https://crookedtimber.org/2026/07/16/55382/ The writer is) Tj
+T*
+(John Quiggin, writing about the fact that, under Trump, the world has raced through a series of) Tj
+T*
+(seismic shifts in how it organizes itself, rushing to fill an America-shaped void in its) Tj
+T*
+(dealings. This is a subject that's very much on my mind. As November Kelly says, Trump) Tj
+T*
+(inherited a poker game rigged in his favor and then flipped the table over bec...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004950 00000 n 
+0000005076 00000 n 
+0000009293 00000 n 
+0000009419 00000 n 
+0000013812 00000 n 
+0000013938 00000 n 
+0000018381 00000 n 
+0000018509 00000 n 
+0000019908 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20036
+%%EOF
