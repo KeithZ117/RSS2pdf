@@ -1,0 +1,330 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4634 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-24 12:15:34) Tj
+T*
+() Tj
+T*
+(1. The first known runaway AI agent - or a very bad marketing stunt?) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-23T22:53:08+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything) Tj
+T*
+(The first known runaway AI agent - or a very bad marketing stunt? Martin Alderson's commentary) Tj
+T*
+(on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't) Tj
+T*
+(considered. First, Hugging Face offers a truly rich target if you're trying to find potential) Tj
+T*
+(vulnerabilities that require executing arbitrary code: Hugging Face has an enormous attack) Tj
+T*
+(surface. They have more interfaces than I can count which run untrusted models and code. While) Tj
+T*
+(they definitely have invested in defences, by nature of their operating model they do have many) Tj
+T*
+(more opportunities to be attacked than many other services. I certainly don't envy their) Tj
+T*
+(cybersecurity teams. Secondly, one of the things that has puzzled me is how OpenAI didn't) Tj
+T*
+(notice that their sandbox had been so thoroughly breached by the agent. Surely they'd be) Tj
+T*
+(monitoring network traffic closely? Martin points out that: It's also likely they were running) Tj
+T*
+(a huge amount of benchmarks simultaneously with ~unlimited token budgets - you want as many) Tj
+T*
+(samples as possible to figure out how good a model is at a certain benchmark. It may also be) Tj
+T*
+(they are testing various different checkpoints of the model too, understanding how t...) Tj
+T*
+() Tj
+T*
+(2. Quoting Seth Larson) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-23T04:50:36+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything) Tj
+T*
+(The Python Package Index \(PyPI\) now rejects new files being uploaded to releases that are older) Tj
+T*
+(than 14 days. This restriction was put in place to prevent old and long-stable releases from) Tj
+T*
+(being poisoned in case publishing tokens or workflows of PyPI projects were compromised. As far) Tj
+T*
+(as we are aware this has not yet been abused, but there is no technical reason beyond that) Tj
+T*
+(attackers weren't aware it was possible. ? Seth Larson , PyPI blog Tags: packaging , python ,) Tj
+T*
+(supply-chain , pypi , seth-michael-larson) Tj
+T*
+() Tj
+T*
+(3. Orchestrions) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-22T14:48:52+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything) Tj
+T*
+(San Francisco tip: it only costs around $15 \($10 in quarters plus a $5 bill for the) Tj
+T*
+(self-playing violin\) to activate every single Orchestrion in MusÈe MÈcanique . And because most) Tj
+T*
+(people are bad at allocating their funds you may well be the ONLY person activating the) Tj
+T*
+(Orchestrions, which means you get to craft the soundscape for the entire museum. Tags:) Tj
+T*
+(san-francisco) Tj
+T*
+() Tj
+T*
+(4. Powerful AIs might escape containment by releasing themselves as open-weight models) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Thu, 23 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/) Tj
+T*
+(Before large language models, people who worried about AI safety often talked about the ?boxing) Tj
+T*
+(problem?. It goes like this . Suppose some genius figures out artificial intelligence in a) Tj
+T*
+(late-night coding session on their laptop. Because they?re a genius, they?re smart enough to) Tj
+T*
+(disable internet access on the laptop before turning it on. In order to escape to the outside) Tj
+T*
+(world \(and begin self-replicating\) it would need to convince its creator to ?open the box?.) Tj
+T*
+(Would that work? Could a sufficiently smart AI convince anybody to let it out? Why the boxing) Tj
+T*
+(problem is hard for frontier LLMs This is a big reason why traditional AI safety advocates have) Tj
+T*
+(argued that we should avoid building AI in the first place: once built, there?s no way of) Tj
+T*
+(keeping it contained. It doesn?t matter how resolute you are about not letting it out, because) Tj
+T*
+(it?s smart enough to convince you anyway. For artificial superintelligence, persuading you to) Tj
+T*
+(change your mind is no harder than hacking a piece of software 1 . Of course, it hasn?t turned) Tj
+T*
+(out this way. Partly that?s because current AIs are not super-persuaders yet, and partly it?s) Tj
+T*
+(because humans are lining up to hand AI systems internet access, money, and...) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 3756 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(5. Pebble Mega Update - July 2026) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Tue, 14 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://repebble.com/blog/pebble-mega-update-july-2026) Tj
+T*
+(TL:DR; Pebble Time 2 Shipping Status Pebble Software Updates PT2 - Issues You?ve Reported) Tj
+T*
+(Pebble Round 2 Production Update Index 01?) Tj
+T*
+() Tj
+T*
+(6. Bond Movie Filming Locations Map) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-23T19:35:45Z) Tj
+T*
+(Link: https://department-m.agency/) Tj
+T*
+(?From a Bond fan to Bond fans worldwide.? Nice work. ?) Tj
+T*
+() Tj
+T*
+(7. ? The Ads on Apple News Continue to Suck, but at Least There Are a Lot of Them) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-23T19:08:57Z) Tj
+T*
+(Link: https://daringfireball.net/2026/07/ads_on_apple_news_suck) Tj
+T*
+(The obvious truth is that Apple?s ads just plain suck. They are not good at advertising-based) Tj
+T*
+(services. And it shouldn?t be surprising that they?re not good at advertising-based services,) Tj
+T*
+(because the incentives for advertising-based services are in direct opposition to the) Tj
+T*
+(incentives for everything Apple actually is good at.) Tj
+T*
+() Tj
+T*
+(8. John Dvorak on Computer Chronicles in 1987 to Discuss the Then-New IBM PS/2) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-23T17:45:41Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=uY2WF_sPecI) Tj
+T*
+(Dvorak is best known for all the takes he was jacktastically wrong about, but what gave his) Tj
+T*
+(schtick staying power is that he was technically savvy. His take here on the PS/2 was actually) Tj
+T*
+(spot-on: that it was technically impressive in many ways , especially the way it was assembled) Tj
+T*
+(without any cables, but that it was doomed in the market against ugly mess-of-cables commodity) Tj
+T*
+(PCs. ?Computer Chronicles? was the real show from the 1980s that Adam Lisagor so lovingly and) Tj
+T*
+(spectacularly spoofed with ? Computer Show ? a decade ago. ?) Tj
+T*
+() Tj
+T*
+(9. An almost periodic function) Tj
+T*
+(Source: John D. Cook | Published: Thu, 23 Jul 2026 14:04:34 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/23/an-almost-periodic-function/) Tj
+T*
+(This post takes a more abstract view of the previous post. That post looked at the concrete) Tj
+T*
+(question of whether a number ever has the same sine in radians as in degrees. The relation) Tj
+T*
+(between radians and degrees is irrelevant except that ?/180 is an irrational number. Suppose ?) Tj
+T*
+(and ? are two positive numbers [?] The post An almost periodic function first appeared on John) Tj
+T*
+(D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Can We Lower Construction Costs with Cheaper Labor or Materials?) Tj
+T*
+(Source: Construction Physics | Published: Thu, 23 Jul 2026 13:05:38 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/can-we-lower-construction-costs-with) Tj
+T*
+(Last time in our series on the nature of the construction productivity problem, we looked at) Tj
+T*
+(economies of scale, finding that capturing economies of scale in homebuilding is difficult.) Tj
+T*
+() Tj
+T*
+(11. LLMs break down in funny ways when told the Jacobian Conjecture counterargument) Tj
+T*
+(Source: Max Woolf's Blog | Published: Thu, 23 Jul 2026 09:15:00 -0700) Tj
+T*
+(Link: https://minimaxir.com/2026/07/jacobian-conjecture/) Tj
+T*
+(Cognitohazards can affect machines too.) Tj
+T*
+() Tj
+T*
+(12. Pluralistic: California's privacy obstacle course \(23 Jul 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 23 Jul 2026 10:27:55) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/23/drop-a-dime/) Tj
+T*
+(Today's links California's privacy obstacle course: Malice or incompetence \(why not both?\). Hey) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1946 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(look at this: Delights to delectate. Object permanence: Continuous partial attention, TSA is) Tj
+T*
+(the worst; Trump's FCC v the future. Upcoming appearances: Edinburgh, Sydney, Melbourne,) Tj
+T*
+(Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. California's privacy obstacle course \(permalink\) Data brokers are a) Tj
+T*
+(cancer. There's a direct line from the unrestricted collection, retention and processing of our) Tj
+T*
+(data to a host of evils, from deepfake porn to phishing scams; from racial discrimination in) Tj
+T*
+(hiring to ICE roundups of migrants; from targeted election interference to identity theft:) Tj
+T*
+(https://pluralistic.net/2023/12/06/privacy-first/#but-not-just-privacy Why do data brokers) Tj
+T*
+(exist? Because we let them. Congress hasn't passed a new federal consumer privacy law since) Tj
+T*
+(1988, when they made it illegal for video stores to disclose your VHS rentals. All other acts) Tj
+T*
+(of consumer surveillance are legal. Data brokers spy on us for the same reason your dog licks) Tj
+T*
+(i...) Tj
+T*
+() Tj
+T*
+(13. Met het Oog op Morgen: Uitgebroken AI?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 23 Jul 2026 11:00:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/ai-met-het-oog-op-morgen/) Tj
+T*
+(Gisteren 22 juli was ik in Met het Oog op Morgen, een programma waar ik al 40 jaar naar luister) Tj
+T*
+(\(ik was er heel vroeg bij\), dus ik vond het heel bijzonder daar te zijn! En het was ook erg) Tj
+T*
+(leuk. Goed voorbereid door de redactie sprak ik met Sheila Sitalsing over de recent) Tj
+T*
+(?uitgebroken AI hack?. Ik sprak iets te veel door Sheila heen, waarvoor excuses. Maar, ik denk) Tj
+T*
+(ook dat we een paar dingen hebben genoemd die je niet zo vaak hoort.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004889 00000 n 
+0000005015 00000 n 
+0000008823 00000 n 
+0000008949 00000 n 
+0000010947 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+11073
+%%EOF
