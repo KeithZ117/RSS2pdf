@@ -1,0 +1,608 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4326 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-25 12:11:56) Tj
+T*
+() Tj
+T*
+(1. Adding a backup Internet WAN on my OPNsense Router) Tj
+T*
+(Source: Jeff Geerling | Published: Thu, 23 Jul 2026 16:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/) Tj
+T*
+(AKA "Spectrum has gone down two weeks in a row and I'm sick of it". I've been borrowing a) Tj
+T*
+(portable 5G gateway from my Dad for a few weeks, for testing... and two weeks in a row, I've) Tj
+T*
+(used it as a backup Internet option, since my Spectrum Business cable Internet has gone down.) Tj
+T*
+(And yes, I'd get AT&T Fiber if I had the option, sadly they don't yet provide service at my) Tj
+T*
+(studio. So I'm stuck with only one high speed wired provider. I may add on my own 5G backup) Tj
+T*
+(Internet connection in the future, but we're getting off track.) Tj
+T*
+() Tj
+T*
+(2. ? Regarding Ad Blockers and Daring Fireball) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-24T20:57:20Z) Tj
+T*
+(Link: https://daringfireball.net/2026/07/regarding_ad_blockers_and_daring_fireball) Tj
+T*
+(Ultimately, when you install a content blocker extension, you take responsibility for any) Tj
+T*
+(overzealousness in what they block.) Tj
+T*
+() Tj
+T*
+(3. Coiner of ?Enshittification? Endorses ?Dickover?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-24T18:51:29Z) Tj
+T*
+(Link: https://pluralistic.net/2026/07/21/dickovers/) Tj
+T*
+(Speaking of dickovers , here?s Cory Doctorow, writing this week at Pluralistic: Seizing the) Tj
+T*
+(means of computation isn?t theft, it?s bargaining . Commercial surveillance companies will tell) Tj
+T*
+(you that by spying on you, they are simply engaged in a marketplace exchange in which you swap) Tj
+T*
+(your privacy for access to online services. But they are running a very curious sort of market:) Tj
+T*
+(it?s a ?market? where as soon as you stop to browse someone?s wares, the stallholder gets to) Tj
+T*
+(reach into your pocket and clean out your wallet. In ?markets,? prices are announced and) Tj
+T*
+(bargained over, not set unilaterally and extracted from anyone unwise enough to cross the) Tj
+T*
+(threshold. Adblocking, dickover blocking and other customizations are a way for you to bargain) Tj
+T*
+(back, to answer the opening bid of ?How about you give me all of your data forever and let me) Tj
+T*
+(do anything I want with it?? with ?How about ?nah??? Doctorow?s specific advice is to switch to) Tj
+T*
+(Firefox for your browser and Linux as your desktop OS. You?re probably not going to do either) Tj
+T*
+(of those things. But the spirit of his advice is that you should avail yourself of bookmarklets) Tj
+T*
+(and browser extensions that fight back against shitty ads and dickovers....) Tj
+T*
+() Tj
+T*
+(4. Dickover of the Week: Tomtoc) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-24T16:43:43Z) Tj
+T*
+(Link: https://daringfireball.net/2026/05/what_is_a_dickover) Tj
+T*
+(Here?s a real gem that a reader sent me. Tomtoc is a maker of laptop bags and sleeves. Visit) Tj
+T*
+(their homepage and, of course, you?ll get a dickover asking you to join their mailing list ?for) Tj
+T*
+(exclusive updates and get a chance to win a free tech pouch every month.? But here?s the gem.) Tj
+T*
+(If you do subscribe, and you decide later to unsubscribe, you get this: ?) Tj
+T*
+() Tj
+T*
+(5. LLMs reward expertise) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Fri, 24 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/llms-reward-expertise/) Tj
+T*
+(In the 2010s, if you had technical gaps \(say, you couldn?t write CSS\), you had to either rely) Tj
+T*
+(on a skilled colleague or just hope that the answer to your exact problem was out there on the) Tj
+T*
+(internet. Today, everyone can write sort-of-okay CSS by delegating the task to an LLM. LLMs) Tj
+T*
+(make everybody into a generalist. Because of this, lots of people don?t think there?s any skill) Tj
+T*
+(involved in working with LLMs. If you want the product that LLMs can deliver ? PhD-level) Tj
+T*
+(mathematics, pretty good but sometimes tasteless computer code, or awkward LinkedIn-style) Tj
+T*
+(writing ? you can simply ask for it. Since everyone is talking to the same models, ?skilled) Tj
+T*
+(prompters? are getting the same results as people touching LLMs for the first time. This is) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4235 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(wrong. The most important skill in prompting is expertise in the domain you?re prompting for. A) Tj
+T*
+(good illustration of this is Terence Tao?s conversation with ChatGPT about the) Tj
+T*
+(recently-discovered counterexample to the Jacobian Conjecture. This is not the same ChatGPT I) Tj
+T*
+(talk to! I couldn?t get to where Tao gets, even with unlimited tokens to burn. There?s a lot to) Tj
+T*
+(learn about good prompting from Tao?s conversation. Here are a few observations: Tao?s) Tj
+T*
+(message...) Tj
+T*
+() Tj
+T*
+(6. Index 01 Is In Mass Production!) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Fri, 24 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://repebble.com/blog/index-01-is-in-mass-production) Tj
+T*
+(TL:DR Index 01 is in mass production What you need to know about Index 01 What can I do with) Tj
+T*
+(Index 01? What to expect Things to be aware?) Tj
+T*
+() Tj
+T*
+(7. Quoting Boris Cherny) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-25T00:42:59+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything) Tj
+T*
+(More than any of these eval scores, what is most exciting to me is something else: Opus 5 is) Tj
+T*
+(our least prompt injectable model yet. It is a bit buried in the system card, but across PI) Tj
+T*
+(evals and red teaming, Opus 5 is very hard to prompt inject successfully. ? Boris Cherny ,) Tj
+T*
+(here's that System Card section , page 73 Tags: prompt-injection , anthropic , claude ,) Tj
+T*
+(generative-ai , ai , llms , boris-cherny) Tj
+T*
+() Tj
+T*
+(8. Introducing Claude Opus 5) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-24T23:48:50+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything) Tj
+T*
+(Introducing Claude Opus 5 I've been offline kayaking with sea otters for much of today so I) Tj
+T*
+(haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz) Tj
+T*
+(is positive, and Anthropic's description of it as a "thoughtful and proactive model that comes) Tj
+T*
+(close to the frontier intelligence of Claude Fable 5 at half the price" sounds promising. It's) Tj
+T*
+(currently leading the Artificial Analysis leaderboard , in front of even Fable 5. It's priced) Tj
+T*
+(the same as Opus 4.8, and continues to offer a "fast mode" at twice the cost of the base model.) Tj
+T*
+(Based on this anecdote in the release post it sounds like it might be relentlessly proactive :) Tj
+T*
+(On one Frontier-Bench task, Opus 5 was given a drawing of a machine part and asked to write) Tj
+T*
+(code to rebuild it as a 3D FreeCAD model. However, in this task, the model was intentionally) Tj
+T*
+(given no way to directly viewthe drawing. Opus 5 responded by writing its own computer vision) Tj
+T*
+(pipeline to pull the geometry from the raw pixels, then reconstructed the full machine part.) Tj
+T*
+(It's better at finding vulnerabilities but has deliberately not been trained on how to exploit) Tj
+T*
+(them. Hopefully this means the US government won't shut it down! As w...) Tj
+T*
+() Tj
+T*
+(9. California Sea Lion) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-21T19:51:03+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything) Tj
+T*
+(California Sea Lion, in San Francisco County, US, CA We took some visiting family to Pier 39 to) Tj
+T*
+(see the sea lions. They're somehow always even more fun than I remember them being last time.) Tj
+T*
+(Tags: san-francisco , wildlife) Tj
+T*
+() Tj
+T*
+(10. Making an agile version of a Windows Runtime delegate in C++/WinRT, part 5) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 24 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260724-00/?p=112562) Tj
+T*
+(Making sure to use the non-agile delegate non-agile-ly. The post Making an agile version of a) Tj
+T*
+(Windows Runtime delegate in C++/WinRT, part 5 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(11. Making an agile version of a Windows Runtime delegate in C++/WinRT, part 4) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 23 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260723-00/?p=112560) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4484 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Optimizing the context check. The post Making an agile version of a Windows Runtime delegate in) Tj
+T*
+(C++/WinRT, part 4 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(12. Have you read it?) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Fri, 24 Jul 2026) Tj
+T*
+(08:06:22 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/have-you-read-your-own-article) Tj
+T*
+(I think I finally figured it out. That is, the reason why AI written articles suck: Both the) Tj
+T*
+(author and I are reading the article for the first time. When an article is insightful I don't) Tj
+T*
+(even mind the emdashes or that the stark truth is not X, but Y. A good take can transcend even) Tj
+T*
+(llmism. But then you have questions, and somehow the author doesn't even know what you are) Tj
+T*
+(talking about, it's simply because they are discovering the insight at the same time you are.) Tj
+T*
+(They were busy, they didn't have time to write. As a consequence, they only dedicated enough) Tj
+T*
+(time to skim the result before publishing. They don't know what's in it. You can't ask them) Tj
+T*
+(what they were thinking when they came up with the insight because, well, they didn't think.) Tj
+T*
+(The great article sucks because there is nobody behind it.) Tj
+T*
+() Tj
+T*
+(13. Codeberg Divides) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-07-24T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/7/24/codeberg-divides/) Tj
+T*
+(Codeberg recently changed its terms to exclude projects that are largely written with) Tj
+T*
+(generative AI. Since I want GitHub to face competition I have thoughts. Codeberg is entirely) Tj
+T*
+(within its rights to do this. It is an association with members and a democratic process, and) Tj
+T*
+(that process produced a result. But democracy is a way of making a decision, not a guarantee) Tj
+T*
+(that the decision is inclusive, wise, or even good for the people already depending on it. A) Tj
+T*
+(majority can still decide that certain projects and people no longer belong. GitHub?s) Tj
+T*
+(governance has never been democratic and there is plenty about the platform that I dislike. Yet) Tj
+T*
+(democracy is not the main property I need from infrastructure. I need it to be predictable,) Tj
+T*
+(dependable, and reasonably neutral towards the legal Open Source software hosted on it. A) Tj
+T*
+(democratic provider without a clear constitution can be worse at those things than a) Tj
+T*
+(corporation. The actual wording makes this more difficult. The terms prohibit projects that) Tj
+T*
+(mostly consist of code written by generative AI tools. In an actively developed codebase, what) Tj
+T*
+(does ?mostly? mean, and who can still tell? I could not reliably assign authorship percentages) Tj
+T*
+(to many o...) Tj
+T*
+() Tj
+T*
+(14. Book Review: Foreign Fruit - A Personal History of the Orange by Katie Goh ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 24 Jul 2026 11:34:07 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/07/book-review-foreign-fruit-a-personal-history-of-the-oran) Tj
+T*
+(ge-by-katie-goh/) Tj
+T*
+(I didn't care for this book. It attempts to interweave botanical and cultural history with an) Tj
+T*
+(autobiography and ends up doing neither particularly well. For every dose of poetry about the) Tj
+T*
+(far-flung and exotic journey of the fruit, there's a dull recitation of facts from Wikipedia.) Tj
+T*
+(Occasionally various origin myths of citrus varieties are presented - there's no attempt to) Tj
+T*
+(engage with them, seek ?) Tj
+T*
+() Tj
+T*
+(15. Interview with a Maintainer) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-07-24T09:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html) Tj
+T*
+(The following is a transcript of episode 214 of Green Squares, a podcast about building in) Tj
+T*
+(public and staying green. It has been lightly edited for length and clarity. Transcription by) Tj
+T*
+(OpenClaw-4.2. TYLER: Welcome back to Green Squares, I?m Tyler. Longtime listeners know I came) Tj
+T*
+(up doing Proof of Work, rest in peace, and one thing I carried over from that show is a belief) Tj
+T*
+(that the most interesting people in tech are the ones holding up infrastructure you?ve never) Tj
+T*
+(heard of. You?ve all seen the xkcd. The whole internet, balanced on one project, maintained by) Tj
+T*
+(some guy in Nebraska. Today we?ve got that guy. Erin Marsh maintains libcapstan, the reference) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4383 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(implementation of the Capstan protocol. If you?ve ever resumed a download, synced a device, or) Tj
+T*
+(updated an app on a bad connection, you?ve run her code. Erin, welcome to the show. ERIN:) Tj
+T*
+(Thanks for having me. TYLER: So let?s do the numbers, because they?re wild. Eighty million) Tj
+T*
+(downloads a month. Something like forty thousand packages depend on you. And it?s basically) Tj
+T*
+(just you? ERIN: There were three of us until 2023. One co-maintainer left when he had kids. The) Tj
+T*
+(other stepped back last year, he has a farm now. So mostly me, yes. TYLER: Inc...) Tj
+T*
+() Tj
+T*
+(16. Premium: The Hater?s Guide To Oracle \(Part 2\)) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 24 Jul 2026 16:56:52 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-the-haters-guide-to-oracle-part-2/) Tj
+T*
+(Good morning premium subscribers! As ever, please ping me at ez@betteroffline.com if you have) Tj
+T*
+(any questions. Oracle has one of the strongest mythologies in the tech industry. Ask a regular) Tj
+T*
+(person and they?ll tell you that it?s ?incredibly profitable? and ?growing) Tj
+T*
+() Tj
+T*
+(17. Podcast Notes: Ed Catmull on David Senra) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Fri, 24 Jul 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/podcast-notes-ed-catmull/) Tj
+T*
+(Ed Catmull, co-founder of Pixar and former president of Disney Animation, was on the David) Tj
+T*
+(Senra podcast and I quite enjoyed the interview. \(If you like the interview, you should read) Tj
+T*
+(his book .\) Ed talks about what he considered his job to be: get the dynamics right for groups) Tj
+T*
+(of people working together. To do this, he would pull people out of meetings, make groups) Tj
+T*
+(smaller, make them bigger, just constantly work on fine-tuning getting the right people) Tj
+T*
+(together at the right time with the right feedback \(without ego\). Granted he didn?t always do) Tj
+T*
+(it, but that was his goal. He says: This is so important to get [these group dynamics right]) Tj
+T*
+(because this is what our product is based on: getting this group of people to work well) Tj
+T*
+(together. So paying attention to the dynamics of the room is the job. They?re the ones making) Tj
+T*
+(the movies. I?m not making the movie. I?m just trying to get them to work well together. When) Tj
+T*
+(Steve Jobs came to Ed and essentially said, ?We?re gonna bet everything at Pixar on Toy Story ,) Tj
+T*
+(and the same week that Toy Story is released in theaters we?re gonna IPO.? What did Ed think? I) Tj
+T*
+(thought it was crazy [laugh] I?ve learned a lot in this process. He was right. I love t...) Tj
+T*
+() Tj
+T*
+(18. Matrox) Tj
+T*
+(Source: Abort Retry Fail | Published: Fri, 24 Jul 2026 14:37:24 GMT) Tj
+T*
+(Link: https://www.abortretry.fail/p/matrox) Tj
+T*
+(Graphics for Professionals) Tj
+T*
+() Tj
+T*
+(19. This Week on The Analog Antiquarian) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 24 Jul 2026 17:00:04 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/) Tj
+T*
+(Opus 5: Richard III) Tj
+T*
+() Tj
+T*
+(20. Pluralistic: AI solipsists and AI cynics \(24 Jul 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 24 Jul 2026 10:21:03) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/24/supplemental-income/) Tj
+T*
+(Today's links AI solipsists and AI cynics: You don't have to believe that AI "works" to believe) Tj
+T*
+(that it's a good investment. Hey look at this: Delights to delectate. Object permanence:) Tj
+T*
+(Malware v stolen computer; Industrial material made from old coffee and melted cups;) Tj
+T*
+(Austro-Germany's weird tunnels; Health data v Silicon Valley; Amusement parks v load-balancing.) Tj
+T*
+(Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. AI solipsists and) Tj
+T*
+(AI cynics \(permalink\) As a technology, AI isn't exceptional. It's not exceptionally wicked.) Tj
+T*
+(It's not exceptionally good. Take away the accompanying, galactic-scale stock-swindle, and we'd) Tj
+T*
+(call AI's applications "plug-ins" and we'd use them and abuse them in the same way that we've) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3394 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(used every other technology: https://www.normaltech.ai/ As a destructive economic pathology, AI) Tj
+T*
+(is extraordinary. AI boosters have spent a baffling and terrifying sum of money ? over $1.4T,) Tj
+T*
+(most of that in the past year ? on the promise of making as many workers unemployed as pos...) Tj
+T*
+() Tj
+T*
+(21. Becoming Skilled at Making Documents) Tj
+T*
+(Source: Anil Dash | Published: 2026-07-24T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/07/24/make-better-documents-skill/) Tj
+T*
+(The vast majority of the documents people use to do business are really quite poor.) Tj
+T*
+(Presentations that make your eyes glaze over, memos that are inscrutable or unclear, and all) Tj
+T*
+(kinds of artifacts that say more about how they were created than whatever message they were) Tj
+T*
+(ostensibly trying to communicate. It's been one of my great frustrations for years, and a big) Tj
+T*
+(part of why I wrote Make Better Documents a while ago. That post captured a list of the) Tj
+T*
+(suggestions I've been giving people for years on how to make better, more effective documents) Tj
+T*
+(that can actually do work for you, instead of fighting at cross purposes to your larger goals.) Tj
+T*
+(To my great surprise, that list of suggestions on how to make better documents got a pretty) Tj
+T*
+(huge response, and a lot of people told me they found it really helpful. So now, I've created a) Tj
+T*
+(Better Documents skills.md file for people who use LLM tools like Claude to help assist them in) Tj
+T*
+(creating business documents, to prompt their AI tools to make better documents by default. If) Tj
+T*
+(you're not familiar, agent skills are simple text files that describe new capabilities or) Tj
+T*
+(processes that LLMs can take advantage of when carrying out tasks. \(They're Markdown files...) Tj
+T*
+() Tj
+T*
+(22. Benchmarking Qwen 3.6 35B MoE \(3B active\) on an RTX 3090) Tj
+T*
+(Source: Giles' blog | Published: Fri, 24 Jul 2026 23:30:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/07/benchmarking-qwen-3-6-35b-moe-rtx-3090) Tj
+T*
+(I mentioned I'd got a second RTX 3090 on a group chat, and a friend said: I know this is not) Tj
+T*
+(really your thing... but let me know how quickly it runs Qwen 3.6 35bn MoE. With only 24gb of) Tj
+T*
+(VRAM you?ll need to use a 4-bit quantized version and you won?t get a massive context window.) Tj
+T*
+(But it should still be pretty cool. He's right that it's not really been my thing -- I've been) Tj
+T*
+(focusing on my own LLMs recently. I decided to dig in a little, and in particular to play with) Tj
+T*
+(Llama.cpp , which I haven't used for a while. And then things got a tad out of control, and I) Tj
+T*
+(wound up doing some relatively detailed benchmarking. The headline results: I downloaded) Tj
+T*
+(Unsloth's UD-IQ4_NL_XL quantisation of the model from Hugging Face . With that, using the) Tj
+T*
+(default Arch build of Llama.cpp, which uses Vulkan under the hood: Using the GPU only, I was) Tj
+T*
+(able to get the model to generate at just over 120 tokens per second, and it was able to) Tj
+T*
+(process the prompt at just less than 2,800 tok/s. However, having the whole model on the GPU) Tj
+T*
+(didn't leave that much space for the context window -- it was constrained to about 50,000) Tj
+T*
+(tokens, compared to the model's native context length of 262,144. Offloading the FFNs for...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004595 00000 n 
+0000004721 00000 n 
+0000009008 00000 n 
+0000009134 00000 n 
+0000013670 00000 n 
+0000013796 00000 n 
+0000018232 00000 n 
+0000018360 00000 n 
+0000021807 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+21935
+%%EOF
