@@ -1,0 +1,386 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4502 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-26 12:27:23) Tj
+T*
+() Tj
+T*
+(1. Ruff v0.16.0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-25T22:44:05+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/25/ruff/#atom-everything) Tj
+T*
+(Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few) Tj
+T*
+(days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to) Tj
+T*
+(new default Ruff checks and my unpinned "ruff" dev dependency. From Brent Westbrook's) Tj
+T*
+(announcement post: Ruff now enables 413 rules by default, up from 59 in previous versions.) Tj
+T*
+(Since Ruff's default rule set was last modified in v0.1.0 , the number of rules in Ruff has) Tj
+T*
+(grown from 708 to 968. Many of these rules catch severe issues, including syntax errors and) Tj
+T*
+(immediate runtime errors but were not previously enabled by default. With the new rule set,) Tj
+T*
+(Ruff will bring these issues and many others to your attention without any Ruff configuration.) Tj
+T*
+(Here's a one-liner for trying it on any Python project: uvx ruff@latest check . I ran the) Tj
+T*
+(latest Ruff against my three biggest projects - Datasette , sqlite-utils , and LLM - and it) Tj
+T*
+(found hundreds of minor issues that breached the new default rules. All three projects have) Tj
+T*
+(very comprehensive test suites, executed in CI against Python 3.10 through Python 3.14, so) Tj
+T*
+(upgrades like this are pretty safe. The following command did the bulk of the upgrades: uvx) Tj
+T*
+(ruff...) Tj
+T*
+() Tj
+T*
+(2. Quoting Linus Torvalds) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-16T13:26:10+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything) Tj
+T*
+(I realize that some people really dislike AI, but this is an area where I'm willing to) Tj
+T*
+(absolutely put my foot down as the top-level maintainer. Linux is not one of those anti-AI) Tj
+T*
+(projects, and if somebody has issues with that, they can do the open-source thing and fork it.) Tj
+T*
+(Or just walk away. AI is a tool, just like other tools we use. And it's clearly a useful one.) Tj
+T*
+(It may not have been that "clearly" even just a year ago, but it's no longer in question today.) Tj
+T*
+(There are other questions around AI \(like what the economy of it will actually look like in the) Tj
+T*
+(end\), but "is it useful" is no longer one of those questions. Anybody who doubts that clearly) Tj
+T*
+(hasn't actually used it. ? Linus Torvalds , Linux Media Mailing List Tags: open-source ,) Tj
+T*
+(linus-torvalds , linux , generative-ai , ai , llms) Tj
+T*
+() Tj
+T*
+(3. ?AI Mania Is Eviscerating Global Decision-Making?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-25T18:15:12Z) Tj
+T*
+(Link: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/) Tj
+T*
+(Fascinating essay by Nikhil Suresh: On a trip overseas, I had the privilege of a meeting with) Tj
+T*
+(one of the Fortune 500 executives mentioned at the beginning of the post, who will remain) Tj
+T*
+(anonymous so that they are not executed by firing squad by their board. As we were chatting, it) Tj
+T*
+(became clear that they were very switched-on and technically competent, and they also happened) Tj
+T*
+(to be at a company that had committed to the usual battery of exorbitant claims about their) Tj
+T*
+(recent innovations ? we?ve 100×?d our productivity, AI is the future of everything, I am but a) Tj
+T*
+(vessel for OpenAI to make love to my wife. You know, normal things. But since I had them there) Tj
+T*
+(without any microphones around, I asked why this was being repeated without opposition. Was it) Tj
+T*
+(just sales fluff? The answer was a lot more interesting. It was partially ridiculous sales) Tj
+T*
+(material being delivered to an easily excitable audience, but this was not the dominant factor) Tj
+T*
+(constraining honesty. Executives at their customers were saying absurd things about achieving) Tj
+T*
+(100× productivity, and this meant that if any executive at the vendor said that these gains) Tj
+T*
+(were not plausible, it would undermine the credibility of the customer?s ex...) Tj
+T*
+() Tj
+T*
+(4. EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search) Tj
+T*
+(Results More Useful) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-25T17:44:13Z) Tj
+T*
+(Link: https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4910 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(digital-markets-act-2026-07-23_en) Tj
+T*
+(The European Commission on Thursday: The Commission found that Google gives preferential) Tj
+T*
+(treatment to its own services, including shopping, hotels, transport and sports results, over) Tj
+T*
+(those of third parties in Google Search, thereby breaching its obligations under the DMA.) Tj
+T*
+(Google displays its own services more prominently in search results, including at the top of) Tj
+T*
+(the search results page or by using enhanced visuals and filters, while similar third-party) Tj
+T*
+(services do not have the same prominence. So if you search for the score of a sporting event,) Tj
+T*
+(it?s illegal in the EU for Google to show you the score, like this search I just tried . What) Tj
+T*
+(the EC is saying is that because Google Search is so popular, it?s no longer allowed to) Tj
+T*
+(improve. It is utterly impossible to imagine how this is for the benefit of EU citizens. What) Tj
+T*
+(generates more for the EU, fines against US tech companies, or tax income from EU tech) Tj
+T*
+(companies? Here?s a viral post on Twitter/X that claims it?s now fines against US tech) Tj
+T*
+(companies. The amounts certainly seem to be in the same ballpark. ?) Tj
+T*
+() Tj
+T*
+(5. Court Grants SerpApi?s Motion to Dismiss Google Lawsuit) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-25T17:27:19Z) Tj
+T*
+(Link: https://serpapi.com/blog/google-v-serpapi-the-court-granted-our-motion-to-dismiss/) Tj
+T*
+(Julien Khaleghy, CEO of SerpApi: The U.S. District Court for the Northern District of) Tj
+T*
+(California granted our motion to dismiss Google?s lawsuit, marking a win not just for SerpApi,) Tj
+T*
+(but for all who depend on an open internet. We?re pleased that the court rejected Google?s) Tj
+T*
+(attempts to expand the DMCA to assert control over access to public pages. The internet?s) Tj
+T*
+(founding principle ? open access to usable information ? is essential to driving innovation and) Tj
+T*
+(ensuring everyone benefits from the promise of data. SerpApi will continue supporting) Tj
+T*
+(developers, AI companies, researchers, and businesses that rely on access to public search) Tj
+T*
+(information. Yours truly, back in March, when SerpApi filed the motion to dismiss : I?ve come) Tj
+T*
+(around on SerpApi in the last few months. My initial take was that it surely must be illegal) Tj
+T*
+(for a company to scrape Google?s search results and offer access to that data as an API. But) Tj
+T*
+(I?ve come around to the argument that what SerpApi is doing to obtain Google search results is,) Tj
+T*
+(well, exactly how Google scrapes the rest of the entire web to build its search index. It?s all) Tj
+T*
+(just scraping publicly accessible web pages. This December piece by Mike Masnick at Techdirt...) Tj
+T*
+() Tj
+T*
+(6. Excel column numbering) Tj
+T*
+(Source: John D. Cook | Published: Sat, 25 Jul 2026 13:37:30 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/25/excel-column-numbering/) Tj
+T*
+(I was working with a wide spreadsheet from a client the other day and I had to convert between) Tj
+T*
+(Excel column labels and column numbers. I had never paid attention to how Excel labels columns) Tj
+T*
+(and implicitly thought it was base 26 using letters rather than digits. But then I realized) Tj
+T*
+(that?s not right. Excel [?] The post Excel column numbering first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(7. This Week in Package Management: 25 July 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-07-25T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/07/25/this-week-in-package-management.html) Tj
+T*
+(Week ten of the roundup, built from the package manager OPML feed collection and whatever I?ve) Tj
+T*
+(posted or boosted on Mastodon . Releases RubyGems and Bundler 4.0.17 validate the spec name) Tj
+T*
+(before writing to the spec cache, escape glob metacharacters in install paths, and fix a run of) Tj
+T*
+(Windows path-handling bugs in gem open , bundle open and the MAKE / rake environment variables.) Tj
+T*
+(uv 0.11.31 lets workspace sources reference members of a different workspace by path, supports) Tj
+T*
+(.venv files that point at a centralised project environment, and adds audit.malware-check and) Tj
+T*
+(audit.malware-check-url settings. There is also a preview hash-algorithm setting per index for) Tj
+T*
+(lockfile generation. 0.11.32 followed, rejecting non-canonically formatted lockfiles in uv lock) Tj
+T*
+(--check and regenerating them with uv lock --refresh . opam 2.6.0-alpha1 is the first alpha of) Tj
+T*
+(the 2.6 series. The shell env hook now updates opam?s bin directory in PATH in place instead of) Tj
+T*
+(always moving it to the front, repositories are read from index.tar.gz in memory via ocaml-tar) Tj
+T*
+(so opam update needs one syscall instead of tens of thousands on slow filesystems, and build) Tj
+T*
+(directories are deleted sooner to cut disk use. pnpm 11.11?11...) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4067 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(8. Reading List 07/25/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 25 Jul 2026 14:01:08 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-072526) Tj
+T*
+(China?s EV subsidies, the future of aeroderivative gas turbines, a US-Saudi nuclear deal,) Tj
+T*
+(defective roadway guardrails, and more.) Tj
+T*
+() Tj
+T*
+(9. Some Quick Thoughts on EMF Camp 2026) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 25 Jul 2026 11:34:01 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/07/some-quick-thoughts-on-emf-camp-2026/) Tj
+T*
+(I've performed a talk at the last three EMFs - so this time I decided to go purely as a) Tj
+T*
+(tourist. It made things much more relaxing. No waking up from a stress dream that my laptop) Tj
+T*
+(didn't work. No casually dropping my talk into every conversation to build up an audience. No) Tj
+T*
+(queueing for the loos five minutes before going on. No adrenaline spikes or come downs. It was) Tj
+T*
+(bliss! After several?) Tj
+T*
+() Tj
+T*
+(10. Being Linux Torvalds) Tj
+T*
+(Source: antirez.com | Published: Sat, 25 Jul 2026 13:20:55 +0200) Tj
+T*
+(Link: http://antirez.com/news/171) Tj
+T*
+(\(This blog post was adapted from the transcription obtained from my YouTube video at) Tj
+T*
+(https://www.youtube.com/watch?v=l6lxgYeVZqs\) When Linus Torvalds developed the first Linux) Tj
+T*
+(kernel, he had studied the Minix sources, he had studied computer architecture, he had the base) Tj
+T*
+(knowledge needed, and he was obviously a very brilliant programmer. But that operation of) Tj
+T*
+(writing a minimal yet working Unix kernel for the 386 \(at the beginning Linux was, let's say,) Tj
+T*
+(mono-architecture\) was something within the reach of many other programmers and students. Many) Tj
+T*
+(in the sense of, I don't know, 0.1%, one in a thousand, one in ten thousand. Obviously most) Tj
+T*
+(people are not able to do this kind of feat, but a lot of people are. If you look at Hacker) Tj
+T*
+(News in the latest years, you'll see how many projects of kernels written in C, microkernels) Tj
+T*
+(implemented from scratch, kernels written in Rust, kernels made in all sauces and manners,) Tj
+T*
+(small Unix systems created vertically for the Raspberry Pi, operating systems for the ESP32 and) Tj
+T*
+(so forth. Writing a kernel is not something within everybody's reach, but it is something that) Tj
+T*
+(many can complete, if they put enough effort into it. Then, of course, not everybody will...) Tj
+T*
+() Tj
+T*
+(11. Pluralistic: Apple's robo-repo \(25 Jul 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 25 Jul 2026 10:41:10) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/) Tj
+T*
+(Today's links Apple's robo-repo: Privatizing the risk premium, socializing its costs. Hey look) Tj
+T*
+(at this: Delights to delectate. Object permanence: Printed batteries; Monopoly credit cards;) Tj
+T*
+(Mapping airport power outlets; EMI loves pirates; Mexican indigenous phone co-op; Sewer cover) Tj
+T*
+(textiles; Surge pricing v antitrust; Carbon offsets v forest fires; Charter schools as money) Tj
+T*
+(laundries. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend.) Tj
+T*
+(Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Apple's robo-repo) Tj
+T*
+(\(permalink\) It may strike you as weird, but lenders love to lend money to poor people who will) Tj
+T*
+(have trouble paying back their loans. Obviously, lenders want to be repaid, and obviously the) Tj
+T*
+(more money you have, the easier it is to settle your debts, but \(paradoxically\) that means that) Tj
+T*
+(if you have a lot of money, you expect to pay less to borrow. In other words: because poor) Tj
+T*
+(people have a higher likelihood of defaulting, their loans come with higher interest rates and) Tj
+T*
+(worse terms. Debt is steeply regressive: the less money you have, the m...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004757 00000 n 
+0000004883 00000 n 
+0000009845 00000 n 
+0000009971 00000 n 
+0000014090 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+14216
+%%EOF
