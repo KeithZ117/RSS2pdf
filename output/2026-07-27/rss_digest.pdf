@@ -1,0 +1,286 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4594 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-27 12:37:15) Tj
+T*
+() Tj
+T*
+(1. An Inside Look at the Relay Market Powering Token Resellers and Fraud) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-26T19:30:54+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything) Tj
+T*
+(An Inside Look at the Relay Market Powering Token Resellers and Fraud Fascinating investigation) Tj
+T*
+(by Matt Lenhard into the market that has grown up around reselling LLM tokens at a discount by) Tj
+T*
+(pooling API keys from various sources. This looks to be mostly a thing in China. Resellers sell) Tj
+T*
+(access to an LLM proxy that offers significant discounts on regular API pricing, which they) Tj
+T*
+(achieve by abusing free trials, proxying through unprotected support bots, or sometimes through) Tj
+T*
+(stolen credit cards or chargeback attacks. The software they are using for these proxies is) Tj
+T*
+(open source - mostly one-api and its more actively developed fork new-api , both legitimate API) Tj
+T*
+(proxy products which can be used to load. balance requests across a pool of API credentials.) Tj
+T*
+(The buyers are seeking cheap tokens, avoiding geo-restrictions, and in some cases collecting) Tj
+T*
+(data for model distillation. I've been cautious about exposing my own LLM-driven applications) Tj
+T*
+(publicly out of fear of abuse leading to big token bills. The existence of this marketplace) Tj
+T*
+(makes me even more cautious: there's now an entire ecosystem that can profit from finding a new) Tj
+T*
+(unprotected endpoint to exploit. LLM vendors really need to get bett...) Tj
+T*
+() Tj
+T*
+(2. Apple Maps to Power Navigation Experience for Ford?s New EVs) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-25T16:21:00Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford) Tj
+T*
+(-uev-platform/) Tj
+T*
+(Apple Newsroom: Apple and Ford today announced that Apple Maps will be integrated directly into) Tj
+T*
+(Ford?s upcoming Universal Electric Vehicle \(UEV\) Platform through Apple?s new MapKit for) Tj
+T*
+(Automotive SDK. Coming to Ford?s UEV Platform in 2027, this integration will deliver a) Tj
+T*
+(beautiful and easy-to-use navigation experience powered by Apple Maps directly to the vehicle?s) Tj
+T*
+(displays. Road-level Maps information will also enable Ford?s Latitude AI team to build a) Tj
+T*
+(seamless hands-free driving experience. See also: Techmeme?s roundup of commentary . ?) Tj
+T*
+() Tj
+T*
+(3. Measles Cases Hit New Record in U.S., as Stupid-Americans Reject Vaccines) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-25T16:06:52Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/07/24/well/measles-record-united-states-numbers.html?unlocke) Tj
+T*
+(d_article_code=1.0VA.4jBf.vqAYN4Bwu807) Tj
+T*
+(Teddy Rosenbluth, reporting for The New York Times: On Friday, the Centers for Disease Control) Tj
+T*
+(and Prevention announced that there have been 2,318 confirmed cases of measles so far this) Tj
+T*
+(year. The case count toppled the record set last year , when measles infected more than 2,200) Tj
+T*
+(Americans and killed two unvaccinated children . More measles cases have been reported in the) Tj
+T*
+(United States in the last two years than in all the years from 2000 through 2024 combined.) Tj
+T*
+(Reversing course on measles would require a nationwide push to improve vaccination rates, a) Tj
+T*
+(prospect that experts said seemed unlikely under the leadership of Health Secretary Robert F.) Tj
+T*
+(Kennedy Jr. He has halted funding for vaccine hesitancy research , downplayed the risks of) Tj
+T*
+(measles and spearheaded a hunt for evidence that vaccines are unsafe . Nilay Patel, endorsing) Tj
+T*
+(Kamala Harris for president in 2024: ? A Vote for Donald Trump Is a Vote for School Shootings) Tj
+T*
+(and Measles ?. \(He missed ? quagmire war with Iran ?.\) ?tarltontarlton? on Reddit last year: ?) Tj
+T*
+(Stupid-Americans are the New Irish-Americans, Trump is Their JFK ?. I continue to think about) Tj
+T*
+(this post frequently . Isaac Asimov, in a column for Newsweek in 1980 : There is...) Tj
+T*
+() Tj
+T*
+(4. bIRC ? A New Native IRC Client for Mac) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-25T15:39:51Z) Tj
+T*
+(Link: https://birc.app/) Tj
+T*
+(For a long time the best native Mac IRC client was Textual , but although Textual still works,) Tj
+T*
+(it?s been sunset by the author. Not to fear, however. Fredrik Blank just launched bIRC:) Tj
+T*
+(Creating an IRC client in 2026 is not something that will pay the bills : \) It would be just) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4246 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(for the joy of programming. But the amount of work involved always made me throw the thought) Tj
+T*
+(aside. But one night when I had nothing better to do, I started implementing the good old spec) Tj
+T*
+(in Swift \(RFC 2812\). And then I got motivated to continue, adding IRCv3 extensions and UI. Been) Tj
+T*
+(working on it on and off on it since the end of 2025. Now I feel pretty satisfied with the) Tj
+T*
+(result. Say hi to bIRC ? an IRCv3 client for Mac. I was never a big IRC user, personally, and) Tj
+T*
+(haven?t used IRC in years. But I installed bIRC just because it looks so good, and took it for) Tj
+T*
+(a brief test drive. It?s nice. And it is very Mac-assed in a modern way. It?s got a detailed) Tj
+T*
+(documentation page too. There are \(alas\) many great apps that lack good documentation, but) Tj
+T*
+(there are very few apps with good documentation that aren?t great apps. bIRC is free to) Tj
+T*
+(download and use from the App Store, and there?s a suite of additional fun/pro features...) Tj
+T*
+() Tj
+T*
+(5. Why $550 Million Medical Debt only Cost $5.5 Million) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Sun, 26 Jul 2026) Tj
+T*
+(19:03:04 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/550-million-only-cost-5-million) Tj
+T*
+(A couple weeks ago, the CEO of Snap was all over the news in the US because he and his wife) Tj
+T*
+(made a large donation. The weird part about it was that every news outlet that covered it had) Tj
+T*
+(an acrobatic title where they didn't specifically say how much they donated, yet insisted on) Tj
+T*
+(that $550 Million amount. When you read the article a bit deeper, you can do the math. They) Tj
+T*
+(donated one hundredth of that amount. So I wondered, why did they inflate the amount in the) Tj
+T*
+(first place? It looked like a PR stunt. This past couple weeks, I worked on a video to explain) Tj
+T*
+(what really happened and how we should take this news. Enjoy) Tj
+T*
+() Tj
+T*
+(6. Permutation roots) Tj
+T*
+(Source: John D. Cook | Published: Sun, 26 Jul 2026 20:32:02 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/26/permutation-roots/) Tj
+T*
+(Let ? be a permutation on n elements. If there is a permutation ? such that applying ? twice) Tj
+T*
+(has the same effect on the list of elements as applying ? once, we say ? = ?≤ and ? is a square) Tj
+T*
+(root of ?. If we let our n elements be the integers 0 [?] The post Permutation roots first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(7. exp_q) Tj
+T*
+(Source: John D. Cook | Published: Sun, 26 Jul 2026 18:20:36 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/26/exp-q/) Tj
+T*
+(The function expq\(x\) is defined by taking the power series for exp\(x\) and keeping only the) Tj
+T*
+(terms whose index is a multiple of q. For example, exp2\(x\) keeps only the even-numbered terms) Tj
+T*
+(in the exponential power series and so equals cosh\(x\). In general, The first sum uses Iverson?s) Tj
+T*
+(bracket notation: a Boolean expression in brackets [?] The post exp_q first appeared on John D.) Tj
+T*
+(Cook .) Tj
+T*
+() Tj
+T*
+(8. Book Review: Dungeon Crawler Carl by Matt Dinniman ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 26 Jul 2026 11:34:33 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/) Tj
+T*
+(To call this derivative is an understatement. But that's what this genre demands; rehash all) Tj
+T*
+(your favourite media properties into something new. It's the literary equivalent of having your) Tj
+T*
+(Transformers? fight your He-Man© toys. The plot, such as it is, features the Vogon Constructor) Tj
+T*
+(Fleet destroying Earth due to a late beurecratic appeal, forcing people to play The Hunger) Tj
+T*
+(Games, while a Twitch ?) Tj
+T*
+() Tj
+T*
+(9. Weekly Update 514: This Week in Data Breaches) Tj
+T*
+(Source: Troy Hunt | Published: Sun, 26 Jul 2026 09:14:51 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-514/) Tj
+T*
+(The Origin Energy breach down here in Aus is all over the news this week, and as with many) Tj
+T*
+(breaches, it's multi-faceted. You've got them leading with "don't worry, your credit card is) Tj
+T*
+(fine", the hacker leading with "they didn&) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 37 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004849 00000 n 
+0000004975 00000 n 
+0000009273 00000 n 
+0000009399 00000 n 
+0000009486 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+9612
+%%EOF
