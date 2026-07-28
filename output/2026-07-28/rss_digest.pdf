@@ -1,0 +1,394 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4470 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-28 12:11:36) Tj
+T*
+() Tj
+T*
+(1. moonshotai/Kimi-K3) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-27T23:39:04+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything) Tj
+T*
+(moonshotai/Kimi-K3 As promised earlier this month , Moonshot have released the weights for) Tj
+T*
+(their excellent 2.8 trillion parameter Kimi K3. They're a hefty 1.56TB on Hugging Face. Kimi) Tj
+T*
+(introduced their own janky modified version of the MIT license with K2 back in July 2025. That) Tj
+T*
+(license just added this paragraph requiring attribution beyond a certain size of commercial) Tj
+T*
+(entity: Our only modification part is that, if the Software \(or any derivative works thereof\)) Tj
+T*
+(is used for any of your commercial products or services that have more than 100 million monthly) Tj
+T*
+(active users, or more than 20 million US dollars \(or equivalent in other currencies\) in monthly) Tj
+T*
+(revenue, you shall prominently display "Kimi K2" on the user interface of such product or) Tj
+T*
+(service. The K3 license no longer calls itself "modified MIT" and goes further, requiring a) Tj
+T*
+(separate agreement with Moonshot for large "Model as a Service" businesses: If the Licensee or) Tj
+T*
+(any of its affiliates operates a Model as a Service business, and the aggregate revenue of the) Tj
+T*
+(Licensee and its affiliates exceeds 20 million US dollars \(or the equivalent in other) Tj
+T*
+(currencies\) in total over any consecutive 12 months, the Licensee must enter into a...) Tj
+T*
+() Tj
+T*
+(2. An opinionated guide to which AI to use to do stuff) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-27T21:55:53+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff) Tj
+T*
+(/#atom-everything) Tj
+T*
+(An opinionated guide to which AI to use to do stuff It's interesting watching the evolution of) Tj
+T*
+(Ethan Mollick's guide over time. A year ago it was still all about chat - ChatGPT, Claude,) Tj
+T*
+(Gemini - with o3, Claude 4 Opus, and Gemini 2.5 Pro as the models and Deep Research as a useful) Tj
+T*
+(alternative mode. Today it's much more about agentic systems - "where the AI is capable of) Tj
+T*
+(doing the equivalent of many hours of real human work in one go". Gemini has fallen off Ethan's) Tj
+T*
+(list, since Google still doesn?t have an established entry in the Codex/ChatGPT Work/Cowork) Tj
+T*
+(category. Gemini Spark has yet to prove itself! Ethan offers a useful explanation of the ways) Tj
+T*
+(you can give ChatGPT or Claude a computer to use: To use the computers provided by the AI) Tj
+T*
+(companies, the mode you want is called ChatGPT Work in ChatGPT, and Cowork in Claude \(the) Tj
+T*
+(naming will not get less confusing, I am sorry to say\). [...] The most powerful way to use AI) Tj
+T*
+(is to give it access to your computer. You do that by downloading the ChatGPT or Claude apps) Tj
+T*
+(and picking a mode to use. ChatGPT's two agent modes are Work and Codex; Claude's are Cowork) Tj
+T*
+(and Code. The names do not map onto each other in any way that will help you remembe...) Tj
+T*
+() Tj
+T*
+(3. [Sponsor] Introducing Agent Fone) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-28T01:31:54Z) Tj
+T*
+(Link: https://fail.xyz/phone/) Tj
+T*
+(Every phone now ships with an assistant. You ask, it answers. Lame. We built a phone that) Tj
+T*
+(writes software instead. The app idea you?ve had in your notes for years. The side hustle you) Tj
+T*
+(will never get around to building. The weird thing only you would want. Describe it, answer a) Tj
+T*
+(few questions, and it?s on your home screen ? yours, working, sendable to a friend. No app) Tj
+T*
+(store between you and your ideas. The first fifty units go to teams who?ll push on it and tell) Tj
+T*
+(us what breaks . ?) Tj
+T*
+() Tj
+T*
+(4. ?Always Choose the Good Soap?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-28T01:13:55Z) Tj
+T*
+(Link: https://sixcolors.com/post/2026/07/always-choose-the-good-soap/) Tj
+T*
+(Jason Snell: Apple?s most valuable asset is its brand. Not its real estate, not its) Tj
+T*
+(intellectual property, not even any particular product. Even the mighty iPhone has no value if,) Tj
+T*
+(over time, the traits that differentiate it from competitor products are erased. Apple?s brand) Tj
+T*
+(has always stood for higher quality products ? you pay more, but you get more. Apple has never) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4234 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(wanted to be the low-price leader. It didn?t put stickers on the first Intel Macs to get some) Tj
+T*
+(marketing dollars from Intel. It doesn?t load up new Macs with loads of lousy bundled) Tj
+T*
+(third-party software like so many PCs do. Those are choices Apple has made that cost the) Tj
+T*
+(company revenue, but they?ve got a bigger purpose. They reinforce the brand. Opting not to add) Tj
+T*
+(more revenue to the bottom line is a difficult choice for anyone working at a profit-driven) Tj
+T*
+(corporation. Great minds write about the same topic on the same day. What Snell?s column makes) Tj
+T*
+(clear is that the incremental revenue Apple is gaining from putting shitty ads in its software) Tj
+T*
+(comes at a price. They?re withdrawals from Apple?s brand equity. And I would argue that the) Tj
+T*
+(value they?re detracting from the brand far out-values the dollar amount they?d padding to...) Tj
+T*
+() Tj
+T*
+(5. ? Ads in Software Are Like Stickers on Laptops) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-27T16:32:51Z) Tj
+T*
+(Link: https://daringfireball.net/2026/07/ads_in_software_are_like_stickers_on_laptops) Tj
+T*
+(Putting themselves in customers? shoes today, how many ads do Apple?s executives want stuck in) Tj
+T*
+(the results when they search for an app in the App Store?) Tj
+T*
+() Tj
+T*
+(6. Making an agile version of a Windows Runtime delegate in C++/WinRT, part 6) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 27 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260727-00/?p=112566) Tj
+T*
+(Exception-safety, the invisible bug. The post Making an agile version of a Windows Runtime) Tj
+T*
+(delegate in C++/WinRT, part 6 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(7. Hiding data in permutations) Tj
+T*
+(Source: John D. Cook | Published: Mon, 27 Jul 2026 23:08:59 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/27/hiding-data-in-permutations/) Tj
+T*
+(The latest issue of Paged Out! has an article by Stephen Hewitt ?An off-line backup of your) Tj
+T*
+(cryptographic key using playing cards.? The idea is to use a deck of 52 to store a 128-bit) Tj
+T*
+(cryptographic key. To erase the key, shuffle the deck. Hewitt gives his algorithm for embedding) Tj
+T*
+(a key, one that can [?] The post Hiding data in permutations first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(8. Counting permutations with roots) Tj
+T*
+(Source: John D. Cook | Published: Mon, 27 Jul 2026 16:03:44 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/27/counting-permutations-with-roots/) Tj
+T*
+(My post from yesterday on permutation roots ends with a Mathematica code for finding the) Tj
+T*
+(probability that a permutation of n elements has a kth root. This is done by finding the) Tj
+T*
+(coefficient of xn in the generating function I wanted to say more about this, and look at) Tj
+T*
+(implementing the same code in SymPy. [?] The post Counting permutations with roots first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Printing floating point numbers in binary) Tj
+T*
+(Source: John D. Cook | Published: Mon, 27 Jul 2026 15:34:05 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/27/float-binary/) Tj
+T*
+(It?s well known that you can convert the base 16 \(hex\) representation of an integer to the base) Tj
+T*
+(2 \(binary\) representation by simply converting each digit from hex to binary. For example,) Tj
+T*
+(CAFEhex = 1100 1010 1111 1110two I imagine it?s less well known that you can do the same thing) Tj
+T*
+(with floating point numbers. [?] The post Printing floating point numbers in binary first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Pluralistic: How the EU can punish Google \(despite Trump\) \(27 Jul 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 27 Jul 2026 10:52:03) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/27/eucd-6/) Tj
+T*
+(Today's links How the EU can punish Google \(despite Trump\): Grant me the courage to change the) Tj
+T*
+(things I can. Hey look at this: Delights to delectate. Object permanence: Chilling Effects;) Tj
+T*
+(Billy Bragg v Myspace; Glenn Beck calls murdered Norwegian children "Hitler Youth"; Photog sues) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4414 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Getty for $1b copyfraud; Best paid CEOs perform worst; Olympics v "Olympics"; Alberta tar sands) Tj
+T*
+(v "hot lesbians"; IoT security apocalypse; 3 Little Pigs in pidgin; The nasty party; Copyright) Tj
+T*
+(extortionist infringed fellow extortionist; Grandpa mobbed for photographing grandson in park;) Tj
+T*
+(Ice Bucket Challenge didn't cure ALS; Twiddling enshittifies your brain. Upcoming appearances:) Tj
+T*
+(Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've) Tj
+T*
+(been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said,) Tj
+T*
+(I'll keep writin' 'em. Colophon: All the rest. How the EU can punish Google \(despite Trump\)) Tj
+T*
+(\(permalink\) The "Serenity Prayer" \(Serenity to accept things I can't change/Courage to change) Tj
+T*
+(the things I can/Wisdom to know the difference\) is usually cited as pop psychology or addiction) Tj
+T*
+(recovery advice, but I think there's a place for it in policymaking....) Tj
+T*
+() Tj
+T*
+(11. Digital circuit simulator in Haskell \(SICP 3.3\)) Tj
+T*
+(Source: Entropic Thoughts | Published: Mon, 27 Jul 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell) Tj
+T*
+(I have a copy of SICP, or as it is also known, The Wizard Book . This book is widely praised,) Tj
+T*
+(but I can?t take the time to work my way through all of it. Instead, I?m going to occasionally) Tj
+T*
+(jump into the parts of it that look interesting. In the previous two installations of this) Tj
+T*
+(series, we looked at ways of implementing generic functions. In the first one, by tagging) Tj
+T*
+(values and dispatching operations on tags. In the second case, by filling a mutable table of) Tj
+T*
+(operation?tag pairs. We saw how these are roughly equivalent to the existing Haskell features) Tj
+T*
+(of sum types and type classes. Now we?ll simulate a digital circuit. The reason this is) Tj
+T*
+(interesting is that the solution in SICP uses hidden mutable state and message-passing to make) Tj
+T*
+(the code object-oriented. It even uses a mutable global variable for scheduling! I wasn?t sure) Tj
+T*
+(if it would be possible to replicate that in Haskell, but as we?ll see, it can get incredibly) Tj
+T*
+(close. \(Continue reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(12. Can the Tide of AI Investment Lift All Boats on the Web?) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Mon, 27 Jul 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/tide-lifts-all-boats/) Tj
+T*
+(Jason Grigsby has a great article where he surfaces an opinion from the Safari team about how) Tj
+T*
+(AI agents shouldn?t get special treatment: An agent acting on a user?s behalf is, in effect,) Tj
+T*
+(assistive technology : it should operate a site as the user would, and the site should not) Tj
+T*
+(single it out for different treatment. Jason synthesizes different discussions happening at) Tj
+T*
+(standards levels to argue, in essence, that agents should be required to use existing) Tj
+T*
+(technologies and solutions \(APIs, semantics, etc.\) rather than get their own bespoke ones. And) Tj
+T*
+(where there are gaps in the platform, solutions should be centered around closing those gaps) Tj
+T*
+(generally for everyone \(vs. specifically for agents\). Imagine that! Take the billions being) Tj
+T*
+(invested in AI and funnel it towards improving and enhancing the existing technology agents) Tj
+T*
+(already use and profit from. No bespoke solutions just for AI, but generalized solutions) Tj
+T*
+(everyone can benefit from. In other words: allow the rising tide of AI investment to lift all) Tj
+T*
+(boats in the platform because the web is for everyone. As Jason says: If we?re solving this) Tj
+T*
+(problem for AI, perhaps we can find a solution that works for end users too. His suggestion) Tj
+T*
+(bein...) Tj
+T*
+() Tj
+T*
+(13. Fa Fa) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-07-27T17:45:21Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17388904/facebook-home-row-keyboard-trick) Tj
+T*
+(My brain-breaking trick for weaning off of Facebook involved creating a fake URL for Google) Tj
+T*
+(News. Blame the home row.) Tj
+T*
+() Tj
+T*
+(14. cancelling-my-hey) Tj
+T*
+(Source: Chad Nauseam Home | Published: -) Tj
+T*
+(Link: https://chadnauseam.com/random/cancelling-my-hey) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004725 00000 n 
+0000004851 00000 n 
+0000009137 00000 n 
+0000009263 00000 n 
+0000013729 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+13855
+%%EOF
