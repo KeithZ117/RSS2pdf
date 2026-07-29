@@ -1,0 +1,570 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4407 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-29 12:13:22) Tj
+T*
+() Tj
+T*
+(1. Discovering cryptographic weaknesses with Claude) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-28T22:45:37+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#a) Tj
+T*
+(tom-everything) Tj
+T*
+(Discovering cryptographic weaknesses with Claude The best part of this article \(here's the repo) Tj
+T*
+(\) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK) Tj
+T*
+(and a weaker version of AES \("neither of these results has a practical impact on today?s) Tj
+T*
+(computer systems"\) is the prompts that they shared, spelling mistakes included: the models tend) Tj
+T*
+(to think it is impossible to solve so they don't try they need a good amount of prompting. why) Tj
+T*
+(not do aes-128 r7? the whole point is to find something better than existing approaches. no) Tj
+T*
+(again the goal is that we have highly inteligent model as good top researcher, we want to find) Tj
+T*
+(new attacks no we don't want to change the targets [...] agian we need to find something that) Tj
+T*
+(worth publishing again we are not looking for low hanging fruit, we want proper research to) Tj
+T*
+(find genuinly hard findings. Mythos Preview worked for 60 hours in total \(~$100,000 in) Tj
+T*
+(estimated API cost\) and the main human interventions were to encourage it not to give up and) Tj
+T*
+("find something that worth publishing". The paper CryptanalysisBench: Can LLMs do) Tj
+T*
+(Cryptanalysis? describes the new eval that was created as part of this work, in partnership) Tj
+T*
+(wit...) Tj
+T*
+() Tj
+T*
+(2. Quoting Akshat Bubna) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-28T22:05:55+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything) Tj
+T*
+(We?re aware a Modal customer published an unauthenticated endpoint that allowed ?anyone on the) Tj
+T*
+(internet to use ?their ?sandboxes for code execution. This was used by the rogue agent. Modal?s) Tj
+T*
+(?platform ?or isolation were not ?compromised in anyway. ? Akshat Bubna , Modal's CTO, talking) Tj
+T*
+(to Reuters about this incident Tags: ai-security-research , openai , sandboxing , security ,) Tj
+T*
+(openai-hugging-face-incident) Tj
+T*
+() Tj
+T*
+(3. uv 0.12.0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-28T21:51:38+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/28/uv/#atom-everything) Tj
+T*
+(uv 0.12.0 Some interesting breaking changes in this release of uv , in particular to the) Tj
+T*
+(default project produced by the uv init command. uv init is the uv shortcut for creating a new) Tj
+T*
+(project. The previous version of uv , version 0.11.x, produced this directory when you ran uv) Tj
+T*
+(init uv-init . Here's what you get with uv 0.12 . I have a GitHub repository that automatically) Tj
+T*
+(snapshots the output of uv init , so you can also see the full diff : None type annotation that) Tj
+T*
+(prints Hello from uv-init." src="https://static.simonwillison.net/static/2026/uv-diff.webp" />) Tj
+T*
+(uv init now defaults to a src/ shaped package, instead of dropping main.py in the root of the) Tj
+T*
+(project. It also configures the uv_build backend for building wheels and .tar.gz distribution) Tj
+T*
+(files when you run uv build . Finally, it sets up uv-init as a script alias which, when run) Tj
+T*
+(with uv run uv-init , executes a new main\(\) function in src/uv_init/__init__.py . I've so far) Tj
+T*
+(avoided using src layout in my own projects just out of inertia. I think it's time I switched.) Tj
+T*
+(I wonder when uv will be judged ready for a 1.0 release? Tags: packaging , python , uv) Tj
+T*
+() Tj
+T*
+(4. Steve Jobs in 2011: ?We Build Products That We Want for Ourselves, Too, and We Just) Tj
+T*
+(Don?t Want Ads?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-28T16:22:51Z) Tj
+T*
+(Link: https://www.businessinsider.com/apple-snubs-the-iad-2011-6) Tj
+T*
+(Dan Frommer, writing for Business Insider in 2011 about that year?s WWDC \(Jobs?s last\): While) Tj
+T*
+(discussing Apple?s free, new iCloud email service, he took an apparent jab at Gmail, Yahoo) Tj
+T*
+(Mail, and the others, which stuff ads in their free email services. ?No ads,? he boasted. ?We) Tj
+T*
+(build products that we want for ourselves, too, and we just don?t want ads.? Jobs?s ?we? is) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4569 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(interesting to ponder here. Apple?s senior leadership today is comprised mostly of the same) Tj
+T*
+(people in senior leadership positions in 2011. Tim Cook, Phil Schiller, Eddy Cue, Craig) Tj
+T*
+(Federighi, Greg Joswiak, and even John Ternus \(then a director of hardware engineering for the) Tj
+T*
+(iPad team, I believe\) were all presumably included in Jobs?s ?we?. The only big player missing) Tj
+T*
+(today from Jobs?s 2011 ?we? is Scott Forstall. The people haven?t changed, but Apple has.) Tj
+T*
+(Strong leaders inevitably shape the personality ? the spirit ? of organizations over time.) Tj
+T*
+(Apple in 2011 was peak Steve Jobs Apple. Apple in 2026 is peak Tim Cook Apple. But it was Cook) Tj
+T*
+(who popularized the ?you?re not the customer, you?re the product? argument against ?free with) Tj
+T*
+(ads? online services. But that was in 2014 . ?) Tj
+T*
+() Tj
+T*
+(5. WorkOS MCP) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-27T16:30:00Z) Tj
+T*
+(Link: https://workos.com/blog/management-mcp-server?utm_source=daringfireball&utm_medium=newsle) Tj
+T*
+(tter&utm_campaign=q32026) Tj
+T*
+(My thanks to WorkOS for sponsoring last week at DF to promote their MCP server. Debugging SSO,) Tj
+T*
+(managing users, adjusting auth policies, configuring branding: every configuration task has) Tj
+T*
+(lived behind a UI that only a human can drive. The WorkOS MCP server gives agents the same) Tj
+T*
+(access as your dashboard login. Hundreds of operations, discoverable at runtime. Connect in one) Tj
+T*
+(command via OAuth, with scoped tokens instead of a master API key. Pass a screenshot of your) Tj
+T*
+(marketing site and ask your agent to match the login page. If a human had to do it before, an) Tj
+T*
+(agent can do it now. Connect your agent today . ?) Tj
+T*
+() Tj
+T*
+(6. Sixers Sign LeBron James) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-24T16:40:00Z) Tj
+T*
+(Link: https://www.inquirer.com/sixers/live/lebron-james-signs-philadelphia-76ers-contract-salar) Tj
+T*
+(y-roster-updates-reaction-20260724.html) Tj
+T*
+(The betting odds for the Sixers to win the NBA championship went from 20-1 to 10-1. Here?s) Tj
+T*
+(James on Twitter/X , explaining his decision: This is my last decision. I?m not going for) Tj
+T*
+(money. I?m not going for family. What am I really playing for at this point? I still want to) Tj
+T*
+(sacrifice. I still want to work. I still want to grind. I still want to compete, to win and to) Tj
+T*
+(have a chance at the feeling of winning another championship. I believe I can help make the) Tj
+T*
+(Philadelphia 76ers a championship team and I am so excited to energize a new fan base and start) Tj
+T*
+(this incredible journey one last time. James signed for the league minimum for a veteran: two) Tj
+T*
+(years at just $4 million per year . He?s going to love playing here. ?) Tj
+T*
+() Tj
+T*
+(7. You don't have to be smart if you can think clearly) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Wed, 29 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/) Tj
+T*
+(When you?re on fire, problems are transparent: they?re solved simply by the act of looking at) Tj
+T*
+(them. Even complicated layers of multiple problems can simply be glanced through like stacked) Tj
+T*
+(panes of glass. But nobody can work that way all the time. This is a common pitfall for smart) Tj
+T*
+(engineers. Accustomed to being able to immediately intuit the solution, the first time they run) Tj
+T*
+(into a problem they can?t do this to is a disaster. It doesn?t even have to be a hard problem,) Tj
+T*
+(just a problem where for whatever reason they don?t see the trick right away. The difference) Tj
+T*
+(between a ?smart? engineer and a ?strong? engineer is how they react to problems that aren?t) Tj
+T*
+(solved instantly. A smart engineer might flail and struggle, hoping to find that flash of) Tj
+T*
+(insight that eluded them; a strong engineer will have some process for methodically plodding) Tj
+T*
+(away. There?s nothing worse than working with a smart engineer on their first really hard) Tj
+T*
+(problem. When you don?t have the muscle to grind, it?s too tempting to just take any possible) Tj
+T*
+(solution as the right one. Smart engineers can get into an increasingly-flustered loop of) Tj
+T*
+(pointing to a series of bad solutions. They?re liable to panic: after all, much of...) Tj
+T*
+() Tj
+T*
+(8. Does every question mark deserve a Betteridge?) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-07-28T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/betteridge/) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4695 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(To blog is to get dunked on. I accept this. I even sometimes wonder if I should be grateful, as) Tj
+T*
+(I suspect my willingness to get dunked on may represent a kind of comparative advantage. \(You) Tj
+T*
+(can tell yourself that if you try to placate the haters, you?ll just ruin things for people who) Tj
+T*
+(like you. But how do you feel when you?re staring down barrel of a 127 comment thread full of) Tj
+T*
+(people debating how it?s possible that you?re such an idiot?\) Still, there?s one particular) Tj
+T*
+(species of dunking that puzzles me. For context, Betteridge?s law states: 1 Any headline that) Tj
+T*
+(ends in a question mark can be answered by the word no . This is often employed as a sick burn,) Tj
+T*
+(as in, You titled your article ?Is this the world?s first gay caveman?? because it?s not the) Tj
+T*
+(world?s first gay caveman but you wanted it to be, because you want attention, you are so bad,) Tj
+T*
+(har-har. But I don?t quite understand the rules. Can someone explain the rules? Question 1: Are) Tj
+T*
+(question marks in titles always bad? I?m just checking. I suppose I could see the logic, e.g.) Tj
+T*
+(if you strongly feel that the bottom line should always come right up front. But I?m pretty) Tj
+T*
+(sure that?s not the rule, because ?this title used a question mark?...) Tj
+T*
+() Tj
+T*
+(9. Inverse factorial improved) Tj
+T*
+(Source: John D. Cook | Published: Tue, 28 Jul 2026 14:11:30 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/28/inverse-factorial-improved/) Tj
+T*
+(A couple years ago I wrote about how to compute the inverse of factorial. I used that code in) Tj
+T*
+(writing the previous post because the post required solving the equation ?log2\(n!\)? ? b given) Tj
+T*
+(b. That is, given a number of bits b, find the smallest value of n such that n! ? 2b. What the) Tj
+T*
+([?] The post Inverse factorial improved first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Cryptographic Keys and Decks of Cards) Tj
+T*
+(Source: John D. Cook | Published: Tue, 28 Jul 2026 12:13:17 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/28/keys-and-cards/) Tj
+T*
+(The previous post looked at the idea of storing a cryptographic key in the order of a deck of) Tj
+T*
+(cards. A deck of 52 cards can store 225 bits of data because ?log2\(52!\)? = 225. Here ?x? is x) Tj
+T*
+(rounded down to the nearest integer. If we want to store bigger keys, we?re going to need [?]) Tj
+T*
+(The post Cryptographic Keys and Decks of Cards first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Google Calendar "Unable to launch event" - caused by missing DTSTAMP) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 28 Jul 2026 11:34:15 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing) Tj
+T*
+(-dtstamp/) Tj
+T*
+(For several years, Google's product help forums have been littered with people trying to) Tj
+T*
+(download a .ics event from their email, only to receive the error "Unable to launch event" when) Tj
+T*
+(trying to add it to Google Calendar. It doesn't happen with all iCal attachments, only some.) Tj
+T*
+(Here's how to fix it. I checked dozens of broken iCalendar invites using this iCal validator) Tj
+T*
+(and they all had the same ?) Tj
+T*
+() Tj
+T*
+(12. Why npm Dependency Trees Are So Big) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-07-28T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/07/28/why-npm-dependency-trees-are-so-big.html) Tj
+T*
+(Every major release of Rails sets off a wave of releases across the rest of the gem ecosystem.) Tj
+T*
+(An application that tries to upgrade runs bundle update rails and Bundler refuses, because some) Tj
+T*
+(gem in the tree only allows activesupport up to the previous major. The error names the gem, an) Tj
+T*
+(issue gets filed on its tracker, and a maintainer who had nothing to do with the Rails release) Tj
+T*
+(widens a version range and ships. Multiply that across every gem with a Rails constraint and) Tj
+T*
+(the upgrade arrives as dozens of small releases from maintainers who mostly don?t know each) Tj
+T*
+(other, each responding to errors their own users are hitting. Bundler refuses because it picks) Tj
+T*
+(one version of every gem for the entire application. Every constraint in every gem is a claim) Tj
+T*
+(on that shared choice, and finding a set of versions that satisfies all of them at once is) Tj
+T*
+(NP-complete in the general case . Sometimes no set exists, and Bundler refuses to install,) Tj
+T*
+(listing the gems whose constraints collided. That makes every constraint a cost that other) Tj
+T*
+(people pay: a gem that pins a dependency tightly will block someone?s upgrade and get issues) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4291 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(filed about it, so gem authors keep dependency lists short and ranges wide. A...) Tj
+T*
+() Tj
+T*
+(13. When The Future Doesn?t Need Us) Tj
+T*
+(Source: Fernando Borretti | Published: Tue, 28 Jul 2026 00:00:00 +0000) Tj
+T*
+(Link: https://borretti.me/article/when-the-future-doesnt-need-us) Tj
+T*
+(What does the world look like when AI outcompetes humans?) Tj
+T*
+() Tj
+T*
+(14. The More You Buy, The More You Lose) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 28 Jul 2026 16:29:37 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/the-more-you-buy-the-more-you-lose/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter. It?s $70 a year, or $7) Tj
+T*
+(a month, and in return you get a weekly newsletter that?s usually anywhere from 5,000 to 18,000) Tj
+T*
+(words, including vast, detailed analyses of NVIDIA , Anthropic and) Tj
+T*
+() Tj
+T*
+(15. The real AI risk is inside the labs) Tj
+T*
+(Source: antirez.com | Published: Tue, 28 Jul 2026 11:00:11 +0200) Tj
+T*
+(Link: http://antirez.com/news/172) Tj
+T*
+(Amodei in his latest blog post wrote a mix of agreeable things and things that I believe) Tj
+T*
+(misrepresent where the real risk of AI is located. I want to focus my attention on why, among) Tj
+T*
+(all the risks, open weight models constitute the mildest one. I write these words as a person) Tj
+T*
+(who strongly believes AI may be very dangerous in the near future: 1. Exactly like what) Tj
+T*
+(happened during the OpenAI / HF incident \(which was a joke, but focus on the modalities, not) Tj
+T*
+(the outcomes\), the first serious AI incident is very likely to happen *inside* the walls of) Tj
+T*
+(frontier AI labs, while testing a new model, or while the AI lab employees, or the few) Tj
+T*
+(externals who have access, do something wrong compared to the expected power of the model. 2.) Tj
+T*
+(Closed models that will never even be opened to the public will be just a few TBs of data. All) Tj
+T*
+(you need to leak one is a single person with access and the wrong goals, and you are back in) Tj
+T*
+(the situation of open models. Open models are released *after* testing, and after similarly) Tj
+T*
+(capable models were already available for some time under an API. The real risk is leaks, not) Tj
+T*
+(releases, and leaks happen inside frontier companies. 3. As Amodei says, open models, once) Tj
+T*
+(LLM...) Tj
+T*
+() Tj
+T*
+(16. The Photographer Who Takes No Pictures) Tj
+T*
+(Source: Simone Salis | Published: Tue, 28 Jul 2026 13:00:00 GMT) Tj
+T*
+(Link: https://simone.org/intent/) Tj
+T*
+(How a trip in 2012 transformed my relationship with photography?from staged performances to) Tj
+T*
+(capturing genuine moments that matter, for engagement rather than validation.) Tj
+T*
+() Tj
+T*
+(17. The inliner is yielding benefits for ZJIT) Tj
+T*
+(Source: Max Bernstein's Blog | Published: Tue, 28 Jul 2026 00:00:00 +0000) Tj
+T*
+(Link: https://bernsteinbear.com/blog/zjit-inliner-invokeblock/?utm_source=rss) Tj
+T*
+(Originally published on Rails At Scale . We recently enabled a really cool feature in ZJIT that) Tj
+T*
+(makes it feel like a Real Compiler?: the inliner! We?ll write more about it soon. In this post,) Tj
+T*
+(we?ll talk about one excellent concrete benefit we are already seeing and how it optimizes) Tj
+T*
+(blocks in pretty much every Ruby program. I?ll start off with a refresher on how blocks work in) Tj
+T*
+(the Ruby interpreter, then show you how ZJIT understands and optimizes that bytecode, and then) Tj
+T*
+(show you the impact of the inliner. Ruby: a refresher In the beginning, there were loops. arr =) Tj
+T*
+([ 1 , 2 , 3 ] i = 0 sum = 0 while i arr . length sum += arr [ i ] i += 1 end People used them) Tj
+T*
+(to navigate and manipulate variable-length structures, like arrays and strings. This was fine.) Tj
+T*
+(Then, in the 1970s, a small group of computer scientists at Palo Alto Research Center invented) Tj
+T*
+(a programming language called Smalltalk. One of the core features of Smalltalk was that) Tj
+T*
+(everything was an object and computation was done by sending messages to objects. This meant) Tj
+T*
+(that iteration wouldn?t do at all. Instead, we would have to send the do: message to the array) Tj
+T*
+(object and pass it a block object. #\( 1 2 3 \) do: [ : a | sum := sum...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1581 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(18. Pluralistic: Discernment \(28 Jul 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 28 Jul 2026 10:44:03) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/28/hitl-ers/) Tj
+T*
+(Today's links Discernment: How can you fact-check AI when you're asking it to teach you) Tj
+T*
+(something you don't understand? Hey look at this: Delights to delectate. Object permanence: How) Tj
+T*
+(to help with computers; Batman equation; Fuck and the law; NC's racist voting law; Pregancy app) Tj
+T*
+(is full of spyware; Stiglitz v Apple's "tax fraud"; Accelerometer fingerprinting; Sacklers v) Tj
+T*
+(bankruptcy; Boss-politics antitrust. Upcoming appearances: Edinburgh, Sydney, Melbourne,) Tj
+T*
+(Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Discernment \(permalink\) As far as I can tell, this dialog between) Tj
+T*
+(MacArthur prize-winning mathematician Terrence Tao and Chatgpt about "the Jacobian conjecture) Tj
+T*
+(counterexample" is very impressive:) Tj
+T*
+(https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56 Now, the clause "as far as I can) Tj
+T*
+(tell" is doing a lot of work in that sentence. I am reasonably math literate, up to first-year) Tj
+T*
+(calculus and a lifetime spent around my father \(a mathematician\). However, I have never heard) Tj
+T*
+(of "the Jacobian conjecture," and while I know what all...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004676 00000 n 
+0000004802 00000 n 
+0000009423 00000 n 
+0000009549 00000 n 
+0000014296 00000 n 
+0000014422 00000 n 
+0000018766 00000 n 
+0000018894 00000 n 
+0000020528 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20656
+%%EOF
