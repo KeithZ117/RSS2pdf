@@ -1,0 +1,444 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4131 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-30 12:05:50) Tj
+T*
+() Tj
+T*
+(1. Quoting D. Richard Hipp) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-29T21:15:21+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything) Tj
+T*
+(Years ago, we didn?t have SQL. There were people whose job was to generate software that would) Tj
+T*
+(query large data sets. Their job title was COBOL programmer. Then SQL comes along?I?m) Tj
+T*
+(simplifying this only a little bit?and it gives you this convenient way so people could just) Tj
+T*
+(specify. With a very simple specification, you can generate all of that code that you had to) Tj
+T*
+(pay the expensive COBOL programmer to do before. That didn?t mean programmers went away. It) Tj
+T*
+(just meant the job changed a little bit. ? D. Richard Hipp Tags: d-richard-hipp , sql , careers) Tj
+T*
+() Tj
+T*
+(2. AI Worming through Word) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-29T18:43:03+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything) Tj
+T*
+(AI Worming through Word Neat new prompt injection variant by HÂkon MÂl¯y, who found a way to) Tj
+T*
+(upgrade prompt injection attacks against Microsoft Word to full self-replicating worms: An) Tj
+T*
+(attacker places hidden instructions in a document that is later used as source material in) Tj
+T*
+(Copilot for Word. Copilot may interpret those instructions as part of the user?s request,) Tj
+T*
+(causing it to manipulate the document being drafted or edited. Copilot may then also copy the) Tj
+T*
+(hidden instructions into the resulting document, turning that document into a new carrier. If) Tj
+T*
+(the carrier is subsequently used in another Copilot-assisted workflow, the instructions can) Tj
+T*
+(trigger again and propagate into further documents, even without the attacker?s original) Tj
+T*
+(document being present. We've seen plenty of hidden white-on-white text before - the kids are) Tj
+T*
+(using it in their job applications now - but this is the first one I've seen that deliberately) Tj
+T*
+(copies instructions to self-replicate itself. It was responsibly disclosed to Microsoft who) Tj
+T*
+(then had 144 days to work on a fix, but so far \(unsurprisingly\) there's no mitigation that) Tj
+T*
+(covers the full class of attack. Via Hacker News Tags: microsoft , security , ai ,) Tj
+T*
+(prompt-inj...) Tj
+T*
+() Tj
+T*
+(3. Quoting Matthew Green) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-29T18:18:15+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything) Tj
+T*
+(Right now we?re in the midst of a historic transition from traditional public-key algorithms) Tj
+T*
+(based on EC-based cryptography and RSA, moving over to new post-quantum algorithms based on) Tj
+T*
+(novel problems. This is why there are so many standards like HAWK being considered. If there) Tj
+T*
+(was ever a perfect time for a massive new public cryptanalysis capability to come on line,) Tj
+T*
+(we?re in it. So unless AIs succeed in undermining all of our hard problems altogether \(or we) Tj
+T*
+(live in Impagliazzo?s Minicrypt \) then this could not be a better time for AI to get good at) Tj
+T*
+(cryptanalysis. In the best case, the result is that we gain real confidence in the problems) Tj
+T*
+(we?ve identified, and the cryptanalysis literature gets a lot more robust. Hopefully. ? Matthew) Tj
+T*
+(Green , on Anthropic's recent cryptography work Tags: anthropic , claude , generative-ai ,) Tj
+T*
+(cryptography , ai , llms , ai-security-research , claude-mythos-fable) Tj
+T*
+() Tj
+T*
+(4. Superlogical) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Wed, 29 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/writing/superlogical) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(5. Apple Says iOS 27 ?Restricted Mode? Isn?t for Users Who Miss Payments in New Apple) Tj
+T*
+(Upgrade Program) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-29T20:56:33Z) Tj
+T*
+(Link: https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-pro) Tj
+T*
+(gram-leases/) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4789 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Last week 9to5Mac reported on code in the latest iOS 27 developer beta seemingly meant to) Tj
+T*
+(restrict leased devices after the user had missed one or more payments. When engaged,) Tj
+T*
+(Restricted Mode limits the device to the following apps: Accessibility Reader App Store Health) Tj
+T*
+(Magnifier Phone Clock Settings Wallet Passwords And some limited access to apps like Messages) Tj
+T*
+(or health-related apps that might have critical messages. Many people reasonably speculated) Tj
+T*
+(that this feature was related to Apple Upgrade, Apple?s new device leasing partnership with) Tj
+T*
+(Klarna, which Mark Gurman spoiled a few weeks ago. But an Apple spokesman confirmed to Emma) Tj
+T*
+(Roth at The Verge today that ?There will be no restricted mode and/or there will be no) Tj
+T*
+(limitations put on device functionality due to missed payments or default with the Apple) Tj
+T*
+(Upgrade program.? Writing again today, here?s 9to5Mac?s Marcus Mendes : Apple, however, did not) Tj
+T*
+(tell The Verge what Restricted Mode is intended for. One possibility is that it was developed) Tj
+T*
+(for financing programs offered by carriers, retailers, or other partners outside Apple Upgrade,) Tj
+T*
+(potentially including markets where device restrictions are already used to enforce) Tj
+T*
+(installment...) Tj
+T*
+() Tj
+T*
+(6. Apple Upgrade ? New Program With Klarna for Leasing iPhones, Macs, iPads, and More for) Tj
+T*
+(Near-Zero Interest) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-29T16:51:15Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/) Tj
+T*
+(Apple Newsroom: Apple today announced Apple Upgrade , a new product leasing program provided by) Tj
+T*
+(Klarna for iPhone, Apple Watch, Mac, and iPad available on the Apple Store online, in the Apple) Tj
+T*
+(Store app, and at Apple Store locations in the United States. Apple Upgrade makes it even) Tj
+T*
+(easier for customers to get the Apple products they love with a leasing plan that is right for) Tj
+T*
+(them. [...] Apple Upgrade offers 12- and 24-month leasing options for iPhone and Apple Watch,) Tj
+T*
+(and 24- and 36-month leasing options for Mac and iPad. Leasing prices start as low as $17.99) Tj
+T*
+(per month for iPhone, $11.99 for Apple Watch, $24.99 for Mac, and $11.99 for iPad. When) Tj
+T*
+(customers first enroll in Apple Upgrade, they can further lower their monthly lease payments by) Tj
+T*
+(trading in their currently owned device through Apple Trade In . Customers can also earn 3) Tj
+T*
+(percent Daily Cash back when making their lease payments with Apple Card. Michael Tsai ,) Tj
+T*
+(quoting Juli Clover at MacRumors: Juli Clover : The payoff amount is the difference between) Tj
+T*
+(what was paid during the leasing period and the retail price of the device, minus any remaining) Tj
+T*
+(trade-in credits. Klarna is not charging a fee for the leasing program, so an iPhon...) Tj
+T*
+() Tj
+T*
+(7. Pastebot 3) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-29T16:07:03Z) Tj
+T*
+(Link: https://tapbots.com/pastebot/) Tj
+T*
+(New from Tapbots: version 3 of their excellent clipboard manager for Mac. There are so many) Tj
+T*
+(clipboard managers for the Mac. I run two other apps ? Keyboard Maestro and LaunchBar ? that) Tj
+T*
+(offer good clipboard managers as ancillary features. But for years now I?ve chosen to use) Tj
+T*
+(Pastebot. Chief among my favorite features: Remembers up to 1,500 clippings \(up from a mere) Tj
+T*
+(1,000 in v2\). Syncs via iCloud. If I copy something on one Mac, it?s in my Pastebot history on) Tj
+T*
+(my others Macs. That sweet Tapbots UI. Pastebot 3 requires MacOS 26 Tahoe or later. That means) Tj
+T*
+(I?m only using it on secondary Macs for now ? my primary workstation will continue running) Tj
+T*
+(MacOS 15 Sequoia until I upgrade directly to 27 Golden Gate later this year. But iCloud sync) Tj
+T*
+(continues to work between Pastebot 2 and 3. New features include more powerful filters \(e.g.) Tj
+T*
+(you can use a filter to copy a URL and then paste that URL in Markdown?s link syntax\), a CLI) Tj
+T*
+(tool \(as yet undocumented\), and Shortcuts support. $39 for a license via direct purchase, with) Tj
+T*
+(a $13 discount for users of previous versions. It?s still pending approval in the Mac App) Tj
+T*
+(Store, where it will cost $25/year or $3/month. ?) Tj
+T*
+() Tj
+T*
+(8. Making an agile version of a Windows Runtime delegate in C++/WinRT, part 8) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 29 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260729-00/?p=112570) Tj
+T*
+(Exceptions hiding in lambda captures. The post Making an agile version of a Windows Runtime) Tj
+T*
+(delegate in C++/WinRT, part 8 appeared first on The Old New Thing .) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4396 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(9. Making an agile version of a Windows Runtime delegate in C++/WinRT, part 7) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 28 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260728-00/?p=112568) Tj
+T*
+(Further explorations into exception safety. The post Making an agile version of a Windows) Tj
+T*
+(Runtime delegate in C++/WinRT, part 7 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(10. Why do OpenAI's GPT-2 weights beat mine?) Tj
+T*
+(Source: Giles' blog | Published: Wed, 29 Jul 2026 15:30:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-1-intro) Tj
+T*
+(When I finished my project training an LLM from scratch , I was left with a minor mystery. Why) Tj
+T*
+(were my models worse at instruction-following than the original OpenAI GPT-2 small weights? I) Tj
+T*
+(had an evaluation that I was running, based on the instruction fine-tuning code in chapter 7 of) Tj
+T*
+(" Build a Large Language Model \(from Scratch\) ". The process was to train a model on samples) Tj
+T*
+(from the Alpaca instruction-following dataset until validation loss started rising, to use that) Tj
+T*
+(instruction fine-tuned model to generate completions to a held-back test set, and then to use) Tj
+T*
+(an LLM to compare the results from various different models. The details are here ; let's call) Tj
+T*
+(it the IFT eval. OpenAI's original weights for GPT-2 small consistently beat my own models,) Tj
+T*
+(even when mine got better results than theirs on a more technical evaluation, where I just) Tj
+T*
+(measured the cross entropy loss for each model on a held-back set of test sequences. This) Tj
+T*
+(surprised me; I would have expected a reasonably close correlation between the two evals --) Tj
+T*
+(that better test loss would imply better instruction-following. I have a couple of thoughts) Tj
+T*
+(about why this might be, and given that I recently set up poppy , my dedicated...) Tj
+T*
+() Tj
+T*
+(11. Logic for Programmers is Done) Tj
+T*
+(Source: Computer Things | Published: Wed, 29 Jul 2026 15:43:52 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/logic-for-programmers-is-done/) Tj
+T*
+(It's done. Logic for Programmers is now 1.0 and available in print. Full announcement here ,) Tj
+T*
+(official website here , direct Amazon link here . If you got an early version of the ebook, you) Tj
+T*
+(can go back to leanpub to download the 1.0 for free. This marks the completion of a project) Tj
+T*
+(that took five years of work, six bookwriting professionals, fourteen domain experts, and) Tj
+T*
+(fifteen public alphas. This has been, without a doubt, the biggest and most exhausting project) Tj
+T*
+(I've ever done. The examples in the discarded drafts alone could make a second book. The cursed) Tj
+T*
+(knowledge I've gained on LaTeX and typography could fill a third \(or at least a couple of) Tj
+T*
+(entertaining blog posts\). Self-publishing was simultaneously the worst and best decision I) Tj
+T*
+(made. Now excuse me I am going to sleep for a month.) Tj
+T*
+() Tj
+T*
+(12. Why compute might get 10x+ more expensive in coming years) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Wed, 29 Jul 2026 15:01:35 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive) Tj
+T*
+(If a human-level software engineer that could run on an H100 equivalent, at current market) Tj
+T*
+(rates for software engineers, that H100 should rent for over $250k a year. That?s 15x today?s) Tj
+T*
+(spot price.) Tj
+T*
+() Tj
+T*
+(13. AI: Overwegingen voor wie erover gaat) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 29 Jul 2026 15:20:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/ai-voor-wie-erover-gaat/) Tj
+T*
+(Onlangs presenteerde ik kort na elkaar bij het Netwerk van Publieke Dienstverleners en bij de) Tj
+T*
+(Adviesraad Wetenschap, Technologie en Innovatie over AI. In deze twee verschillende maar korte) Tj
+T*
+(presentaties hoopte ik wat inzichten te delen die nuttig zijn voor mensen die nu aan het stuur) Tj
+T*
+(zitten, mensen die keuzes kunnen of moeten maken over AI-beleid. Dank aan NPD en AWTI voor de) Tj
+T*
+(uitnodigingen en de stimulerende discussies! Dit artikel is gebaseerd op deze twee) Tj
+T*
+(verschillende presentaties.) Tj
+T*
+() Tj
+T*
+(14. Pluralistic: Enshittification and Reverse Centaurs go global \(29 Jul 2026\)) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1544 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 29 Jul 2026 08:09:34) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/29/la-la-la-la-la/) Tj
+T*
+(Today's links Enshittification and Reverse Centaurs go global: The good globalism. Hey look at) Tj
+T*
+(this: Delights to delectate. Object permanence: Fonz thumps x Linux; CBC v DRM; Aussie mall v) Tj
+T*
+(photos; English town x CCTVs; Pay no taxes x Big Tech; Games Workshop v gamers; Delta x) Tj
+T*
+(surveillance pricing. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London,) Tj
+T*
+(South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest.) Tj
+T*
+(Enshittification and Reverse Centaurs go global \(permalink\) It's safe to say that the past) Tj
+T*
+(couple of years have been good ones for me publishing-wise, thanks to a string of international) Tj
+T*
+(bestsellers, both novels \(Picks and Shovels\) and nonfiction \(Enshittification, Reverse) Tj
+T*
+(Centaur\), as well as plenty of awards and accolades: https://craphound.com/shop Over the past) Tj
+T*
+(two months, I've won the Locus Award \(Enshittification\), had a NYT bestseller \(Reverse) Tj
+T*
+(Centaur\), gotten a word in the OED \("enshittification"\), and had the number one bestselling) Tj
+T*
+(nonfiction paperback in Canada for more than a month running \(Reverse Centaur\). I also turned) Tj
+T*
+(55 ? a...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004393 00000 n 
+0000004519 00000 n 
+0000009360 00000 n 
+0000009486 00000 n 
+0000013934 00000 n 
+0000014060 00000 n 
+0000015657 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15785
+%%EOF
