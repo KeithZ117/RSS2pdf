@@ -1,0 +1,600 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4726 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-07-31 12:23:28) Tj
+T*
+() Tj
+T*
+(1. Advancing the price-performance frontier with GPT?5.6) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-30T23:58:42+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything) Tj
+T*
+(Advancing the price-performance frontier with GPT?5.6 Huge price drop from OpenAI today:) Tj
+T*
+(GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6) Tj
+T*
+(Sol with enabling this: in How GPT?5.6 fuses frontier intelligence with frontier efficiency) Tj
+T*
+(they describe using 5.6 Sol to optimize load balancing, and more impressively to optimize) Tj
+T*
+(inference itself: We also used GPT?5.6 Sol to optimize the model?s forward pass: the) Tj
+T*
+(computation that transforms inputs into next-token predictions. Even when individual operations) Tj
+T*
+(are fast, excess memory movement, synchronization, and inefficient data layouts can leave GPUs) Tj
+T*
+(idle. To avoid this, GPT?5.6 Sol found work that could be precomputed, avoided, or) Tj
+T*
+(parallelized. With Codex, GPT?5.6 Sol autonomously rewrote and optimized our production) Tj
+T*
+(kernels, the core code that executes the mathematical operations that make up the model. This) Tj
+T*
+(worked in part because we?ve trained GPT?5.6 to be effective at writing and improving kernels) Tj
+T*
+(in Triton? and Gluon? , two open-source GPU programming languages maintained by OpenAI. These) Tj
+T*
+(efforts, combined with broader kernel advancements from GPT?5.6 Sol, reduced end-to-end serving) Tj
+T*
+(costs by...) Tj
+T*
+() Tj
+T*
+(2. Investigating three real-world incidents in our cybersecurity evaluations) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-30T23:41:29+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything) Tj
+T*
+(Investigating three real-world incidents in our cybersecurity evaluations It happened again!) Tj
+T*
+(This is turning into something of a pattern. Last week OpenAI accidentally exploited Hugging) Tj
+T*
+(Face when one of their frontier models broke out of a sandboxed container and hacked into) Tj
+T*
+(Hugging Face to try and get the solutions to the cyber benchmark it was executing. This) Tj
+T*
+(inspired Anthropic to double-check their own logs, and it turned out they had three similar) Tj
+T*
+(\(albeit less impressive\) incidents, the earliest of which played out in April! Of the 141,006) Tj
+T*
+(evaluation runs we reviewed, we identified three separate incidents \(involving six total runs,) Tj
+T*
+(four of which impacted the same organization; the other two incidents each happened in) Tj
+T*
+(independent evaluation runs\). [...] In all cases, Anthropic?s evaluation prompt specified to) Tj
+T*
+(Claude that its environment was a simulation and that it had no internet access. Due to a) Tj
+T*
+(misunderstanding between us and our evaluation partner, this was not the case, and internet) Tj
+T*
+(access was available. Because of this, when Claude?s search led it to real systems on the open) Tj
+T*
+(internet, it treated them as part of the exercise. [...] Operating under the false belief that) Tj
+T*
+(al...) Tj
+T*
+() Tj
+T*
+(3. llm 0.32rc2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-30T22:52:06+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything) Tj
+T*
+(Release: llm 0.32rc2 Hot on the heels of RC1 , this fixes a dependency issue and also adds two) Tj
+T*
+(neat new features: The default model for users who have not set their own default is now) Tj
+T*
+(GPT-5.6 Luna . It was previously GPT-4o mini . Luna is a much better and more recent model,) Tj
+T*
+(albeit slightly more expensive - $0.20 per million input tokens and $1.20 per million output) Tj
+T*
+(tokens, compared to $0.15/$0.60 for 4o mini. You can switch back to 4o mini using llm models) Tj
+T*
+(default gpt-4o-mini , or switch to GPT-5 nano , an even cheaper default model \($0.05/$0.40\),) Tj
+T*
+(using llm models default gpt-5-nano . #1576 New llm openai endpoint command for running) Tj
+T*
+(prompts, chats and model listings against arbitrary OpenAI-compatible endpoints without first) Tj
+T*
+(configuring a model. These calls are not logged. #1565 The llm openai endpoint command is) Tj
+T*
+(really cool. I got frustrated at the lack of an obvious CLI tool for trying out prompts against) Tj
+T*
+(arbitrary OpenAI Chat Completions imitation endpoints, so I decided to add that to LLM itself.) Tj
+T*
+(You don't even have to install LLM to use this. Here's a uvx one-liner for running a prompt -) Tj
+T*
+(with tools - against an LM Studio local model: uvx --pre llm openai endpoint http://127...) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4652 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(4. Mark Zuckerberg: ?The AI Future Is for Everyone?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-30T21:09:51Z) Tj
+T*
+(Link: https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?st=T6AAwM) Tj
+T*
+(Mark Zuckerberg, in an op-ed Tuesday for The Wall Street Journal \(gift link; and irony isn?t) Tj
+T*
+(lost that ?everyone? needs a paid WSJ subscription to read this\): We are fortunate to live at) Tj
+T*
+(an incredible moment in history. In the next few years, people will be able to use) Tj
+T*
+(superintelligence beyond human capacity to create and discover extraordinary new things, build) Tj
+T*
+(new businesses, express our ideas, learn new concepts, and improve our lives, health,) Tj
+T*
+(relationships and careers. Perhaps we?ll be able to use it to build a metaverse too. Or to keep) Tj
+T*
+(our attention on a major initiative for more than two or three years. ?) Tj
+T*
+() Tj
+T*
+(5. Apple Releases iOS and MacOS 26.6, MacOS 15.7.8, and More) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-30T20:41:43Z) Tj
+T*
+(Link: https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-fo) Tj
+T*
+(r-ios-and-macos-27/) Tj
+T*
+(Samuel Axon, Ars Technica: Apple has released iOS, iPadOS, macOS, watchOS, and tvOS 26.6. Apart) Tj
+T*
+(from potential security hotfixes, these are likely the last updates before the arrival of iOS) Tj
+T*
+(27, macOS 27, and so on. All of today?s releases include minor bug fixes, and there are) Tj
+T*
+(numerous security updates: more than 150 for macOS 26.6 . Apple also rolled out macOS 14.8.8) Tj
+T*
+(and macOS 15.7.8 for older devices, also focused on security fixes. In terms of new features,) Tj
+T*
+(you won?t find many in these releases, as they mainly pave the way for the next major OS) Tj
+T*
+(update, likely to hit sometime in September. Most notably, the release notes for iOS and iPadOS) Tj
+T*
+(26.6 say the update ?optimizes the Spotlight index to prepare for iOS 27.? This update will) Tj
+T*
+(kick off some indexing work that will then be leveraged in an ostensibly much more robust) Tj
+T*
+(Spotlight search feature when iOS 27 launches next month. I don?t mean to pick nits, but) Tj
+T*
+(there?s nothing ?ostensible? about it. You can use the new Spotlight index via Siri AI in the) Tj
+T*
+(OS 27 beta releases and it?s really good. The initial background indexing took almost a full) Tj
+T*
+(week for me on iOS, I suspect because I have so much email archived, but anyone who upgrade...) Tj
+T*
+() Tj
+T*
+(6. Rogue Amoeba: Unobtrusive Update Notifications) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-30T20:33:59Z) Tj
+T*
+(Link: https://weblog.rogueamoeba.com/2026/04/28/unobtrusive-update-notifications/) Tj
+T*
+(Paul Kafasis, on the Rogue Amoeba blog back in April: Though Sparkle serves us very well, it) Tj
+T*
+(has one notable downside. Update announcements are most likely to appear at the least) Tj
+T*
+(convenient time: right after you?ve launched the app. You want to start recording with Audio) Tj
+T*
+(Hijack, for instance, but the app is telling you about a new version. We?ve long wished to) Tj
+T*
+(avoid these disruptions. With that in mind, we?re making changes to how update notifications) Tj
+T*
+(appear throughout our apps. In the future, when the software?s timed automated check detects a) Tj
+T*
+(newer version, it will no longer pop an obtrusive window like the one seen above. Instead, a) Tj
+T*
+(small ?Update Available? indicator will be shown in the app?s interface. Such a little thing,) Tj
+T*
+(but like I wrote earlier this week , getting all the little things right is how you get to) Tj
+T*
+(insanely great. Every Mac app using Sparkle ought to copy this. It?s so much nicer. ?) Tj
+T*
+() Tj
+T*
+(7. BI Slop) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Thu, 30 Jul 2026) Tj
+T*
+(23:50:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/business-intelligence-slop) Tj
+T*
+(You must use the tool. We must justify it. These aren't the words companies use, but that's) Tj
+T*
+(what it comes down to. When you buy an expensive solution before you've clearly identified the) Tj
+T*
+(problem, you have to use the tool to justify its line item in the spreadsheet. At most) Tj
+T*
+(companies I've worked in, there's always some application I've used once or twice. The third) Tj
+T*
+(time I want to use it, it's gone. If a tool isn't popular, the finance team has no trouble) Tj
+T*
+(dropping it. But for some reason, it's different with AI. If nobody's using it, the assumption) Tj
+T*
+(is that employees aren't being productive enough. So we got signed up for mandatory training.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4598 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(There was limited space, but I moved fast and got a spot. I'd been using ChatGPT since it came) Tj
+T*
+(out, so I was hoping the training would turn me from a casual user into a pro. Instead, we were) Tj
+T*
+(shown how to copy and paste data from Excel and other sources into the chat interface. We) Tj
+T*
+(worked with sample data, and there was always someone in class who'd say "mine didn't work.") Tj
+T*
+(The developers in the room asked about Codex. The OpenAI-certified instructor replied that she) Tj
+T*
+(wasn't a developer. There was an awkward moment when someone asked if we could just...) Tj
+T*
+() Tj
+T*
+(8. You have been mislead about lightbulbs) Tj
+T*
+(Source: Maurycy's Blog | Published: Thu, 30 Jul 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/misc/tungsten/) Tj
+T*
+(There's a story that goes something like this: In 1925, lightbulb manufactures secretly) Tj
+T*
+(colluded to standardized lifespans at 1,000 hours. They would test each other's products to) Tj
+T*
+(ensure compliance. This is true. At the time, many bulbs lasted longer than one thousand hours.) Tj
+T*
+(This is true. Therefore, this was done so that people would always need to buy more light) Tj
+T*
+(bulbs. This is wrong , but it's the type of wrong that cites its sources and hides in the part) Tj
+T*
+(you'd never think to fact check: The assumption that a longer lasting lightbulb is a good) Tj
+T*
+(product. In truth, increasing the lifespan of a bulb makes it worse in every other way... but) Tj
+T*
+(people think they want a long lasting lightbulb: the purpose of standardizing was \(primarily\)) Tj
+T*
+(to avoid a race to the bottom. A old-school lightbulb is a rather simple device : A thin) Tj
+T*
+(tungsten wire \(~20 ?m\) sealed inside a glass envelope to protect it from air. When current is) Tj
+T*
+(applied, the wire gets white hot and starts glowing. The most important parameter of a) Tj
+T*
+(lightbulb is how hot that wire gets: this controls the peak emission wavelength \(color\) and) Tj
+T*
+(brightness of the lamp. Room temperature objects do emit light \(this is how thermal cameras) Tj
+T*
+(work\),...) Tj
+T*
+() Tj
+T*
+(9. So you want to use plants to reduce indoor CO?) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-07-30T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/plants/) Tj
+T*
+(Humans make carbon dioxide. Carbon dioxide is bad for cognition. But plants turn carbon dioxide) Tj
+T*
+(back into oxygen. And plants are the one true home decoration strategy. So maybe if you get a) Tj
+T*
+(lot of plants, you can you can keep carbon dioxide in check and keep your brain working? It?s) Tj
+T*
+(theoretically possible. It?s probably just barely possible in practice. But it won?t be easy.) Tj
+T*
+(People produce ~1 kilogram of carbon dioxide per day. That?s around 5.7 ◊ 10≤≥ molecules or) Tj
+T*
+(0.948 moles per hour. \(You may remember from high school that a mole is a gigantic number made) Tj
+T*
+(up to avoid having factors of 10≤≥ everywhere.\) Let?s keep it simple and call it one mole per) Tj
+T*
+(hour. Meanwhile, plants turn carbon dioxide into oxygen through photosynthesis, i.e. the) Tj
+T*
+(chemical reaction of \(6 water molecules\) + \(6 carbon dioxide molecules\) + \(energy\) ? \(1 glucose) Tj
+T*
+(molecule\) + \(6 oxygen molecules\). The minimum energy physically needed to convert 1 mole of) Tj
+T*
+(carbon dioxide into glucose and oxygen via this reaction is ~477 kilojoules. So we?ve already) Tj
+T*
+(got a lower bound. Say you have magical plants that somehow channel all incoming energy into) Tj
+T*
+(photosynthesis with perfect efficiency. They?ll need ~477 kilojoules per hou...) Tj
+T*
+() Tj
+T*
+(10. Read This Before You Buy That TV Streaming Stick) Tj
+T*
+(Source: Krebs on Security | Published: Thu, 30 Jul 2026 16:49:00 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) Tj
+T*
+(Security experts have been sounding the alarm for years about the risks of using generic TV) Tj
+T*
+(boxes that promise unlimited content streaming for a one-time fee, warning that they secretly) Tj
+T*
+(rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds) Tj
+T*
+(these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated) Tj
+T*
+(websites as part of sprawling operation that seeks to defraud online merchants and advertising) Tj
+T*
+(networks.) Tj
+T*
+() Tj
+T*
+(11. Wheels, Bottles and Images) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-07-30T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/07/30/wheels-bottles-images.html) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4927 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(In February Simon Willison packaged a Go CLI as Python wheels , one wheel per platform with the) Tj
+T*
+(compiled binary inside, so pip install sqlite-scanner fetches a program containing no Python.) Tj
+T*
+(His build tool maps each Go target to a wheel tag on the way through: darwin/arm64 to) Tj
+T*
+(macosx_11_0_arm64 , linux/amd64 to manylinux_2_17_x86_64 . PyPI accepted the uploads and pip) Tj
+T*
+(picked the right platforms, and the thread that followed was about whether PyPI should store) Tj
+T*
+(binaries that serve no Python purpose. Wheels, Homebrew bottles and OCI images are the three) Tj
+T*
+(big self-service binary distribution systems: the project publishes a compiled artifact and any) Tj
+T*
+(machine fetches the one matching its platform, with no distro maintainer in between. conda,) Tj
+T*
+(NuGet?s native assets, RubyGems platform gems and plain GitHub Releases do the same job in) Tj
+T*
+(their own ecosystems. The three big ones share no specification: each was designed against its) Tj
+T*
+(own stack. Simon?s trick works because a wheel is a checksummed archive selected by a platform) Tj
+T*
+(tag, and that description also fits a bottle and an image. Immutable checksummed files are what) Tj
+T*
+(CDNs serve cheaply and caches hold safely, and all three systems depend on both...) Tj
+T*
+() Tj
+T*
+(12. Why Is Everyone Trying to Build a Solid-State Battery?) Tj
+T*
+(Source: Construction Physics | Published: Thu, 30 Jul 2026 12:04:25 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a) Tj
+T*
+(A battery technology that?s getting a lot of attention is solid-state batteries, lithium-ion) Tj
+T*
+(batteries that replace the liquid electrolyte with a solid material.) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: The stupidest imaginable excuses for surveillance pricing \(30 Jul 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 30 Jul 2026 12:51:03) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/30/pay-for-privacy/) Tj
+T*
+(Today's links The stupidest imaginable excuses for surveillance pricing: Since 1850, San) Tj
+T*
+(Francisco's Chamber of Commerce has been pissing in our mouths and calling it rain. Hey look at) Tj
+T*
+(this: Delights to delectate. Object permanence: RIP Wau Holland; Diebold voting machines suck;) Tj
+T*
+(How to steal an RFID-locked car; Pirates are big spenders; You can't fight enshittification.) Tj
+T*
+(Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The stupidest) Tj
+T*
+(imaginable excuses for surveillance pricing \(permalink\) With "surveillance pricing," businesses) Tj
+T*
+(have finally found something AI can do way, way, way better than people: price gouging. As the) Tj
+T*
+(name suggests, "surveillance pricing" is the practice of charging every customer a different) Tj
+T*
+(price for every transaction, based on the massive surveillance dossiers that Big Tech companies) Tj
+T*
+(and data-brokers have assembled on everyone in the world. Congress hasn't updated federal) Tj
+T*
+(consumer privacy law since 1988 \(when they passed a law banning the disclosure of VHS ren...) Tj
+T*
+() Tj
+T*
+(14. Why do OpenAI's GPT-2 weights beat mine? Part two: the bugfix) Tj
+T*
+(Source: Giles' blog | Published: Thu, 30 Jul 2026 19:00:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-2-the-bugfix) Tj
+T*
+(I'm digging into why my GPT-2 style models score worse on an instruction-following eval than) Tj
+T*
+(OpenAI's original weights; I gave the details in this post . While I was writing up the results) Tj
+T*
+(of my first experiment into possible causes, I ran the post past ChatGPT -- I always use an) Tj
+T*
+("editorial board" of AIs to check my posts for flow, style, and any technical errors \(though) Tj
+T*
+(all writing is always mine\). It took a look at the eval code that I was running, and) Tj
+T*
+(highlighted a bug. Luckily, it doesn't change the important results -- OpenAI's models continue) Tj
+T*
+(to be better than mine at instruction-following. But it was enough to change the baseline) Tj
+T*
+(numbers, re-ordering how well my own models did. So I fixed it and regenerated the baseline so) Tj
+T*
+(that future experiments are based on solid ground. The bug The eval takes a model, and trains) Tj
+T*
+(it over multiple epochs on a split of a subset of the Alpaca instruction-following dataset. At) Tj
+T*
+(the end of each epoch, it evaluates the resulting model against a held-back validation split;) Tj
+T*
+(if the eval loss starts rising, it bails out. Finally, it runs a test split of the dataset) Tj
+T*
+(through the resulting model, and saves the result. Once I've run it for a bunch of di...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3094 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(15. Why do OpenAI's GPT-2 weights beat mine? Part three: testing overtraining) Tj
+T*
+(Source: Giles' blog | Published: Fri, 31 Jul 2026 01:15:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-3-overtraining) Tj
+T*
+(The GPT-2-style models that I've been training work really well, and I've even managed to train) Tj
+T*
+(some that perform better than the original OpenAI small model in terms of cross entropy loss on) Tj
+T*
+(a test set. But as I wrote previously , there's a mystery: why do they perform worse on my) Tj
+T*
+(instruction fine-tuning evaluation? I had various theories about why that might be, and to me,) Tj
+T*
+(the most plausible-seeming of them was the amount of data they were trained with. As best I can) Tj
+T*
+(find out, OpenAI's models were, by modern standards, trained on much more data than they should) Tj
+T*
+(have been, while I'd used the theoretically optimal amount of training data. To put it in other) Tj
+T*
+(words, OpenAI's models were overtrained. If I deliberately overtrained my own models, could I) Tj
+T*
+(match their performance? This post is a write-up of what happened, but so as not to bury the) Tj
+T*
+(lede -- it didn't seem to help much, if at all. Let's see why. Overtraining Let's start by) Tj
+T*
+(getting a nice crisp definition of overtraining. It's important not to confuse overtraining) Tj
+T*
+(with overfitting. Overfitting is where you train a model so that instead of learning a general) Tj
+T*
+(rule about the data it's seeing, it learns something very specific t...) Tj
+T*
+() Tj
+T*
+(16. The AI Aesthetic) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Wed, 29 Jul 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/ai-aesthetic/) Tj
+T*
+(Every zeitgeist comes with new design idioms unique to its challenges. Many of them disappear) Tj
+T*
+(as fads change, but others bake themselves into deeper parts of existing software interaction) Tj
+T*
+(paradigms. For example, there?s the hamburger menu \(?\) which saw a proliferation during the) Tj
+T*
+(rise of mobile due to the constraints around screen size. It has since spread to many other) Tj
+T*
+(parts of software interaction design and will likely remain prevalent for a long time as a) Tj
+T*
+(terse way of indicating ?more menu-type content here?. As another example, before AI what were) Tj
+T*
+(the connotations of the sparkle emoji ?? Personally, I don?t know, but now it means AI. \(AI =) Tj
+T*
+(sparkles and rainbow colors ? it?s funny when you think about it. They should?ve just thrown) Tj
+T*
+(unicorns in there for the trifecta. AI = sparkles, rainbows, and unicorns ???. Apt.\) Some) Tj
+T*
+(patterns are very specific to the interactions inherent to the nature of AI as a technology.) Tj
+T*
+(For example: streaming text. This is a pattern made for and refined by chat interfaces, so it) Tj
+T*
+(may not have tons of utility for reuse across other software interaction paradigms. Then there) Tj
+T*
+(are other patterns that?ve been refined by AI interfaces and are starting to sprea...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004995 00000 n 
+0000005121 00000 n 
+0000009825 00000 n 
+0000009951 00000 n 
+0000014601 00000 n 
+0000014727 00000 n 
+0000019707 00000 n 
+0000019835 00000 n 
+0000022982 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+23110
+%%EOF
