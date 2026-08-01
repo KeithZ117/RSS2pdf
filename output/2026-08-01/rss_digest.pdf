@@ -1,0 +1,556 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4420 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-01 12:21:39) Tj
+T*
+() Tj
+T*
+(1. Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 31 Jul 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/) Tj
+T*
+(I've been using the built-in 10 Gigabit Ethernet on my Mac Studio for a few years. It works) Tj
+T*
+(fine: I can edit 4K video straight off my NAS over the network, and run backups at around 1) Tj
+T*
+(GB/sec. But... I want more . I upgraded my rack and my NAS to 25 GbE a couple years ago, and) Tj
+T*
+(wanted to upgrade my main workstation, too.) Tj
+T*
+() Tj
+T*
+(2. deepseek-ai/DeepSeek-V4-Flash-0731) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-31T23:59:44+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything) Tj
+T*
+(deepseek-ai/DeepSeek-V4-Flash-0731 The latest release in DeepSeek's V4 family, "with) Tj
+T*
+(substantially enhanced agentic capabilities". It's 304 billion parameters - 167GB on Hugging) Tj
+T*
+(Face - but it appears to punch well above its weight. Artificial Analysis rank it ahead of) Tj
+T*
+(MiniMax M3 - a 428B model. It's $0.14/million input and $0.27/million output pricing means this) Tj
+T*
+(may currently be the best value-per-intelligence model out there. It's looking very good on the) Tj
+T*
+(Intelligence Index vs. Cost per Intelligence Index Task chart: I got a disappointing pelican) Tj
+T*
+(from it using the default reasoning level via OpenRouter: But when I bumped reasoning level up) Tj
+T*
+(to high I got something much better : llm -m openrouter/deepseek/deepseek-v4-flash-0731 -t) Tj
+T*
+(pelican -o reasoning_effort high Via Hacker News Tags: ai , generative-ai , llms ,) Tj
+T*
+(pelican-riding-a-bicycle , deepseek , llm-release , openrouter , ai-in-china ,) Tj
+T*
+(artificial-analysis) Tj
+T*
+() Tj
+T*
+(3. Stateless MCP has recaptured my interest \(and inspired mcp-explorer and datasette-mcp\)) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-31T23:13:22+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything) Tj
+T*
+(Tuesday was Stateless MCP day - the rollout of MCP 2.0, or the 2026-07-28 Model Context) Tj
+T*
+(Protocol specification to use the more formal but less memorable name. This is the most) Tj
+T*
+(significant change to the MCP spec since it first launched, and has also served to reignite my) Tj
+T*
+(personal interest in the protocol. For background: MCP is the Model Context Protocol, which) Tj
+T*
+(describes a standard way to expose new tools to LLM-powered agent frameworks. It was introduced) Tj
+T*
+(by Anthropic back in November 2024 , had a huge spike of interest through much of 2025, and) Tj
+T*
+(then became somewhat eclipsed by Skills \(another Anthropic invention\) when it became apparent) Tj
+T*
+(that an agent harness with access to a terminal and curl could do most of what MCP did in a) Tj
+T*
+(more flexible way. I wrote about that in my review of 2025 . I'm coming back around to MCP now.) Tj
+T*
+(Giving an agent a shell environment with the ability to access the internet is fraught with) Tj
+T*
+(risk , and requires a strong model that is capable of effectively driving such an environment.) Tj
+T*
+(MCP tools are easier to audit and control, and simple enough that smaller models that run on a) Tj
+T*
+(laptop can still drive them reasonably well. The new stateless MCP specification als...) Tj
+T*
+() Tj
+T*
+(4. llm-mcp-client 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-07-31T23:03:47+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything) Tj
+T*
+(Release: llm-mcp-client 0.1a0 See this blog entry . Tags: llm , model-context-protocol) Tj
+T*
+() Tj
+T*
+(5. AI models need moral support to make discoveries) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Fri, 31 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/ai-models-need-moral-support/) Tj
+T*
+(One recent development in AI is its ability to solve some long-standing problems in) Tj
+T*
+(mathematics. In 2024 and 2025, this was a trickle: once or twice a year somebody would say that) Tj
+T*
+(an LLM came up with a proof, and then everyone would argue over whether that counted as ?real?) Tj
+T*
+(mathematical innovation. In 2026, it?s a flood. Almost every day I see some new LLM-produced) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4444 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(mathematical result. Prompt ?engineering? Perhaps the most curious thing about these AI) Tj
+T*
+(discoveries is how easy the prompting is. The strategy for prompting Claude Mythos to come up) Tj
+T*
+(with a cryptographic breakthrough appears to be just asking ?hey, please come up with a) Tj
+T*
+(breakthrough?, and then checking in every few hours to say ?keep looking for something) Tj
+T*
+(important, I want you to solve a genuinely hard problem?. It?s amusing to read this and) Tj
+T*
+(remember how in 2025 everyone was obsessed with ?prompt engineering?. At the time I was) Tj
+T*
+(something of a heretic for saying that prompts didn?t matter that much , but in hindsight I was) Tj
+T*
+(clearly correct. The main skill involved in using LLMs is figuring out what they?re good at and) Tj
+T*
+(what they?re bad at \(and staying up-to-date as that rapidly changes\). If you?re asking the LLM) Tj
+T*
+(to do somet...) Tj
+T*
+() Tj
+T*
+(6. Making an agile version of a Windows Runtime delegate in C++/WinRT, part 9) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 30 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260730-00/?p=112573) Tj
+T*
+(Maybe it doesn't matter. The post Making an agile version of a Windows Runtime delegate in) Tj
+T*
+(C++/WinRT, part 9 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(7. The Talk Show: ?What?s in Louie?s Wallet?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-31T22:50:04Z) Tj
+T*
+(Link: https://daringfireball.net/thetalkshow/2026/07/31/ep-453) Tj
+T*
+(Louie Mantia returns to the show to talk about the state of UI and icon design on Apple?s) Tj
+T*
+(platforms, and some speculation on Apple?s trade secret lawsuit against OpenAI. Sponsored by:) Tj
+T*
+(Notion : The collaborative AI workspace where teams and agents work side by side, with a) Tj
+T*
+(Developer Platform teams can build on. Even Realities : Even G2, the everyday display smart) Tj
+T*
+(glasses. Use promo code talkshow to save 10% off the R1 Ring and/or Even Clip. Squarespace :) Tj
+T*
+(Save 10% off your first purchase of a website or domain using code TALKSHOW . ?) Tj
+T*
+() Tj
+T*
+(8. ? Temu Is a Comically Bad App) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-31T18:27:50Z) Tj
+T*
+(Link: https://daringfireball.net/2026/07/temu_is_a_comically_bad_app) Tj
+T*
+(Shop like a billionaire.) Tj
+T*
+() Tj
+T*
+(9. Looking for the Catch in Apple Upgrade) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-30T16:59:39Z) Tj
+T*
+(Link: https://www.theatlantic.com/technology/2026/07/apple-lease-upgrade-program/688106/) Tj
+T*
+(Damon Beres, writing for The Atlantic under the hed/subhed: ?The New iPhone Underclass: Apple?s) Tj
+T*
+(rental program is a trap?: The Klarna plan ? ?Apple Upgrade,? which replaces the iPhone Upgrade) Tj
+T*
+(Program ? is truly, legally, a lease. This is confusing! And it?s confusing in part because) Tj
+T*
+(this is not how Klarna, a well-known buy-now, pay-later service, typically operates: When you) Tj
+T*
+(use Klarna for clothing from Shein or lip kits at Sephora or an Xbox at GameStop, you?re paying) Tj
+T*
+(back a loan, exactly as you were in the original iPhone Upgrade Program. Same if you use Klarna) Tj
+T*
+(to buy a Samsung Galaxy phone. But with Apple Upgrade, you are renting: The Mac or Apple Watch) Tj
+T*
+(is not yours until the final payment is made. I don?t think this is confusing at all. Apple) Tj
+T*
+(Upgrade is the primary brand for this program, not Klarna. Klarna is really only mentioned in) Tj
+T*
+(the small print. You get into Apple Upgrade through Apple . Off the top of your head, do you) Tj
+T*
+(remember Apple?s bank partner for the now-discontinued iPhone Upgrade Program? \( It was) Tj
+T*
+(Citizens Bank .\) The Samsung program Beres links to above is named ?Klarna Pay in 4?. ?Apple) Tj
+T*
+(Upgrade is a leasing program partnered with Klarna? is easily understood....) Tj
+T*
+() Tj
+T*
+(10. Energizing a vacuum-tube flip-flop module from a 1948 IBM system) Tj
+T*
+(Source: Ken Shirriff's blog | Published: 2026-07-31T09:04:31.698-07:00) Tj
+T*
+(Link: http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html) Tj
+T*
+(In 1948, IBM introduced the 604 Electronic Calculating Punch. This machine was a programmable) Tj
+T*
+(calculator, about the size of a double refrigerator. It was not quite a computer, but was) Tj
+T*
+(programmed by plugging wires into a plugboard. This machine read numbers from a punch card,) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4623 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(performed up to 60 calculations on these numbers, and then recorded the results by punching) Tj
+T*
+(holes in the card. 1 It processed 100 cards per minute?over one card per second?and IBM) Tj
+T*
+(advertised it as the equivalent of 150 engineers. The machine rented for $550 a month, making) Tj
+T*
+(it very popular, with over 5600 units produced. 2 The IBM 604 Electronic Calculating Punch.) Tj
+T*
+(Photo from Ed Thelen's IBM 604 page . The IBM 604 came out just after the transistor was) Tj
+T*
+(invented, too early to use transistors. At the time, calculators and computers were moving from) Tj
+T*
+(slow electromechanical components to fast vacuum tubes. One of the innovations of the 604 was) Tj
+T*
+(to combine a vacuum tube and its associated circuitry into a pluggable module. Along the left) Tj
+T*
+(side of the photo above, you can see rows of these modules with the handles sticking out,) Tj
+T*
+(making it easy to replace a faulty module. More modules are behind the silver metal covers.) Tj
+T*
+(In...) Tj
+T*
+() Tj
+T*
+(11. Solving the RK4 design equations) Tj
+T*
+(Source: John D. Cook | Published: Fri, 31 Jul 2026 18:59:02 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/07/31/runge-kutta-design/) Tj
+T*
+(I was digging into the Runge-Kutta method for solving differential equations and a line from) Tj
+T*
+([1] piqued my curiosity. These calculations, which are not reproduced in Kutta?s paper \(they) Tj
+T*
+(are however in Huen \(1900\)\), are very tedious. The calculations are a set of eight constraints) Tj
+T*
+(that the parameters of a fourth-order Runge-Kutta method must satisfy. [?] The post Solving the) Tj
+T*
+(RK4 design equations first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Notes from July 2026) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Fri, 31 Jul 2026 06:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/notes-from-july-2026/) Tj
+T*
+(July! What a month! Things I did this July Gave a talk, for ClimateAction.tech?s ?Responsible) Tj
+T*
+(AI Series?, ?What I know about local language models? . ?Responsible AI? can feel like a bit of) Tj
+T*
+(an oxymoron at times, but I hope I shared something useful. Participated in the Zelda Dungeon) Tj
+T*
+(Marathon . My first time playing a video game \( The Legend of Zelda: Oracle of Seasons \) on) Tj
+T*
+(stream! Released a new version of Helmet , my Node security headers package. Most notably, it) Tj
+T*
+(sped up the Content-Security-Policy code by about 7% for common cases. Promoted an underrated) Tj
+T*
+(SQLite feature: strict tables . Wrote a data-driven piece about the upcoming Legend of Zelda:) Tj
+T*
+(Ocarina of Time remake . Can the wisdom of 32 Zelda experts make accurate predictions about the) Tj
+T*
+(new game? We?ll see. Finished moving most of my repositories from GitHub to Codeberg . A few) Tj
+T*
+(stragglers?and some mirrors?remain, but they?re my bigger projects that require more) Tj
+T*
+(coordination. Links I found My favorite read this month: a detailed history of Arabic text) Tj
+T*
+(rendering , which includes \(truly\) ancient history. ?In the near future, AI-powered) Tj
+T*
+(surveillance systems will be able to track everything we do in public, and much of what we d...) Tj
+T*
+() Tj
+T*
+(13. The AI Phrasebook) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-07-31T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/07/31/the-ai-phrasebook.html) Tj
+T*
+(Agentic : bash. Function calling : RPC. Agent handoff : a pipe. MCP : CGI. Skills : markdown.) Tj
+T*
+(Multi-agent orchestration : systemd. Autonomous agent : cron. Computer use : ssh. System prompt) Tj
+T*
+(: .env . World model : /etc . Context window : scrollback. Short-term memory : Redis. Long-term) Tj
+T*
+(memory : Postgres. Embeddings : grep. Distillation : ripgrep. Retrieval augmentation :) Tj
+T*
+(locate\(1\) . Cross-attention : a JOIN. Chain of thought : ~/.bash_history . Summarisation : git) Tj
+T*
+(rebase -i . Speculative decoding : tab completion. Symbolic reasoning : regex. Code interpreter) Tj
+T*
+(: awk. Structured output : ASN.1. Model card : a man page. LoRA : patch. Evals : CI. Pelican on) Tj
+T*
+(a bicycle : fizzbuzz. Mixture of experts : HAProxy. Hallucination : a 404 page served as a 200.) Tj
+T*
+(Refusal : /dev/null . Reflection : set -x . ReAct : retry with backoff and a print statement.) Tj
+T*
+(Recursive self-improvement : a fork bomb. Interpretability : EXPLAIN ANALYZE. Mechanistic) Tj
+T*
+(interpretability : strace. Guardrails : ulimit. Jailbreak : sudo. Prompt injection :) Tj
+T*
+(LD_PRELOAD. Off switch : SIGKILL. Human in the loop : [y/N] .) Tj
+T*
+() Tj
+T*
+(14. How I use AI on this blog) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4555 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Giles' blog | Published: Fri, 31 Jul 2026 19:00:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/07/ai-use) Tj
+T*
+(Inspired by this LessWrong post , I thought I'd write about how I use AI here. This is less in) Tj
+T*
+(the interest of disclosure, more to provide a snapshot of what I'm doing right now so that I) Tj
+T*
+(can revisit it in the future and see how it changes. And hey, maybe it'll be of interest to) Tj
+T*
+(you, dear readers. If I were to summarise my working philosophy in fewer than ten words, it) Tj
+T*
+(would be: AIs identify problems and I fix them myself. With a very specific kind of exception) Tj
+T*
+(\(which I always flag\), the text and code on this blog are human-generated. That's not a moral) Tj
+T*
+(stand, but more a constraint imposed by what this blog is meant to be -- a place for me to) Tj
+T*
+(learn in public . Ideation and running experiments Every post here is based on an idea I had,) Tj
+T*
+(and work that I've done. For many posts -- for example, the large-scale coding projects like) Tj
+T*
+(this one -- I'll have multiple chat sessions ongoing while I do the work, normally with either) Tj
+T*
+(ChatGPT or Claude, or sometimes both. The amount of input they have varies, but because the) Tj
+T*
+(value of these projects is in what I learn when I'm doing them, letting an AI do my thinking) Tj
+T*
+(for me would make the whole thing pointless -- so I take steps to stop that from...) Tj
+T*
+() Tj
+T*
+(15. Are political journalists always wrong?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 30 Jul 2026 11:34:31 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/) Tj
+T*
+(I've mostly tuned out of reading the news. But, once in a while, a headline will be shared on) Tj
+T*
+(social media and I'll momentarily stare into the abyss. There has recently been a change in UK) Tj
+T*
+(Prime Minister. I neither know nor care whether that's a good thing. What I do know is that) Tj
+T*
+(Senior Political Correspondents collectively shat their pants with excitement at being able to) Tj
+T*
+(breathlessly report?) Tj
+T*
+() Tj
+T*
+(16. Premium: AI Is Getting Way Too Expensive) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 31 Jul 2026 15:53:49 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-ai-is-getting-way-too-expensive/) Tj
+T*
+(A great deal of the discussion of the so-called benefits or problems with AI comes down to the) Tj
+T*
+(theoretical jobs that are \(or are not\) lost as a result of things LLMs can \(or cannot do\), or) Tj
+T*
+(the equally theoretical productivity benefits that?ll come from using LLMs) Tj
+T*
+() Tj
+T*
+(17. Y2K Will Be Quite Okay) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 31 Jul 2026 16:06:39 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/07/y2k-will-be-quite-okay/) Tj
+T*
+(Hi, folks? I?ll have the last article in the series on Maxis Software for you next week. Today,) Tj
+T*
+(I?m happy to say that the new ebook, covering the historical year 1999, is available, and on a) Tj
+T*
+(far more timely basis than the last one at that. My thanks go to Richard Lindner, for) Tj
+T*
+(developing the [?]) Tj
+T*
+() Tj
+T*
+(18. Pluralistic: Better to beg forgiveness \(31 Jul 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 31 Jul 2026 11:56:12) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/07/31/just-do-it/) Tj
+T*
+(Today's links Better to beg forgiveness: Don't ring the doorbell at the house of no unless you) Tj
+T*
+(absolutely must. Hey look at this: Delights to delectate. Object permanence: RIP Poul Anderson;) Tj
+T*
+(P2P at PC Forum; Waitress handed her own stolen ID by carded diner; PDX bans fixies; Digital) Tj
+T*
+(Economy Bill was a stitch up; NZ copyright disconnection flowchart; Fry v Widdicombe on) Tj
+T*
+(Catholic Church; Moxie Marlinspike profile; V&A bans sketching; Gernsback's intro to the first) Tj
+T*
+(Amazing Stories; "Simplicity." Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton,) Tj
+T*
+(London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em,) Tj
+T*
+(I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the) Tj
+T*
+(rest. Better to beg forgiveness \(permalink\) From its inception, I've loved Creative Commons. I) Tj
+T*
+(hung out with Lisa Rein, Matt Haughey and Aaron Swartz while they coded up the first version of) Tj
+T*
+(the site, and my first novel, Down and Out in the Magic Kingdom, was the first professionally) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 960 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(published text ever released under a CC license, just weeks after CC itself launched:) Tj
+T*
+(https://creativecommons.org/ In those early days, CC licenses were primarily of int...) Tj
+T*
+() Tj
+T*
+(19. AI: Considerations for people who make decisions) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 31 Jul 2026 10:00:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/ai-for-decision-makers/) Tj
+T*
+(Recently I gave two presentations in quick succession to the Dutch Network of Government) Tj
+T*
+(Service Providers and the Dutch Advisory Council for Science, Technology and Innovation about) Tj
+T*
+(AI. In these two different and brief presentations, I hoped to share some insights that would) Tj
+T*
+(be useful to the people currently at the helm, the people who can or must make decisions about) Tj
+T*
+(AI policy. Many thanks to the NPD and AWTI for the invitations and the stimulating discussions!) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004689 00000 n 
+0000004815 00000 n 
+0000009311 00000 n 
+0000009437 00000 n 
+0000014112 00000 n 
+0000014238 00000 n 
+0000018846 00000 n 
+0000018974 00000 n 
+0000019986 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20114
+%%EOF
