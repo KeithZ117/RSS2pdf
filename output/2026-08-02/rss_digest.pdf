@@ -1,0 +1,486 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4557 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-02 12:23:47) Tj
+T*
+() Tj
+T*
+(1. Open letters about AI development) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-02T04:16:52+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything) Tj
+T*
+(Open letters about AI development I wrote this summary of the past few weeks of open letters as) Tj
+T*
+(a section of my sponsors-only newsletter but I've decided to share it here as well. Open) Tj
+T*
+(Weights and American AI Leadership was shepherded by Microsoft, dated July 24th, and signed by) Tj
+T*
+(235 AI-adjacent companies including NVIDIA, Amazon, Y Combinator, The Linux Foundation and \(a) Tj
+T*
+(later signer\) OpenAI. It's clearly an argument designed to counter any instincts by the current) Tj
+T*
+(US government to ban or limit open weight models over "safety" concerns - a reasonable) Tj
+T*
+(consideration given what happened to Claude Fable 5 ! Relying solely on closed models is not) Tj
+T*
+(inherently safe: they can be breached, misused, or fail in ways that outsiders cannot detect.) Tj
+T*
+(And concentrating advanced AI capabilities behind a small number of closed models compounds) Tj
+T*
+(that risk. It results in a small number of single points of failure, weakens competition, and) Tj
+T*
+(leaves critical technology in the hands of a few providers. Open weight models, on the other) Tj
+T*
+(hand, allow a broad community of researchers and developers to examine their behavior, identify) Tj
+T*
+(vulnerabilities, develop safeguards, and improve them over time. The one surpris...) Tj
+T*
+() Tj
+T*
+(2. July 2026 newsletter) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-02T04:12:41+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything) Tj
+T*
+(The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor \(or if you) Tj
+T*
+(start a sponsorship now\) you can access it here . This month: Accidental cyberattacks by OpenAl) Tj
+T*
+(and Anthropic models under test GPT-5.6 Sol, Terra, and Luna Claude Opus 5 Kimi K3 and) Tj
+T*
+(DeepSeek-V4-Flash-0731 Open letters about Al development A fireside chat and a podcast) Tj
+T*
+(Reigniting my interest in MCP Other model releases My projects What I'm using at the moment) Tj
+T*
+(Here's a copy of the June newsletter as a preview of what you'll get. Pay $10/month to stay a) Tj
+T*
+(month ahead of the free copy! Tags: newsletter) Tj
+T*
+() Tj
+T*
+(3. Quoting Greg Brockman) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-01T22:29:44+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything) Tj
+T*
+(at openai, many people hook their chatgpt up to slack. people really don't like when a) Tj
+T*
+(coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly) Tj
+T*
+(happy doing that same work if asked by that coworker. reinforces how much people care about) Tj
+T*
+(human relationships and helping each other, and want AI to give time back ? or enhance time) Tj
+T*
+(together ? rather than become a layer separating people. ? Greg Brockman , President and) Tj
+T*
+(Co-Founder, OpenAI Tags: ai-ethics , ai-misuse , generative-ai , openai , ai , llms) Tj
+T*
+() Tj
+T*
+(4. The Apple Upgrade Situation) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-01T16:30:40Z) Tj
+T*
+(Link: https://randsinrepose.com/archives/the-apple-upgrade-situation/) Tj
+T*
+(Michael Lopp, at Rands in Repose: I have felt since it was announced that the Apple iPhone) Tj
+T*
+(Upgrade Program has not just been a deal, but a steal. The specifics: You apply for a loan for) Tj
+T*
+(a full-price iPhone at 0%. If approved, your payments are split over 24 months. Pay for 24) Tj
+T*
+(months, and the phone is yours. That was just the deal; the steal was that it was low effort) Tj
+T*
+(every single year to get a new phone. I?d re-up for a new phone, and Apple would forgive the) Tj
+T*
+(remaining payments of the loan because I?d signed up for another 24 months. Oh, and bonus,) Tj
+T*
+(AppleCare was included, which was a total steal because I hate iPhone cases \(iPhones are) Tj
+T*
+(designed to be felt\) and, uh, also I have been known to drop my phone. [...] At first glance,) Tj
+T*
+(the new plan looks cheaper. The original plan: one year of iPhone 17 Pro \(256GB, $1,099) Tj
+T*
+(sticker\) was ~$57/month. 12 payments, trade-in, restart: ~$684 for the year . The new one, same) Tj
+T*
+(phone: $45.99/month on the 12-month lease: $552 for the year . But wait! The first and most) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4529 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(important change to the new plan is that AppleCare is no longer included . Adding it back to) Tj
+T*
+(this phone at $13.99/month: $720 for the year . That?s probably the single best argument for...) Tj
+T*
+() Tj
+T*
+(5. Apple Q3 2026 Results) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-01T16:15:15Z) Tj
+T*
+(Link: https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/) Tj
+T*
+(Jason Snell: On Thursday, Apple announced record third-quarter earnings , with total revenue of) Tj
+T*
+($109.4B, up 16 percent from the year-ago quarter. iPhone revenue was up 22%, Mac revenue was up) Tj
+T*
+(10.4%, Services revenue was up 12%, and Wearables revenue was up 6%. iPad revenue was down 6%.) Tj
+T*
+(Six Colors also has their usual transcript of the analyst call , Tim Cook?s 90th and final one.) Tj
+T*
+(Over at MacRumors, Juli Clover wrote a retrospective on Tim Cook?s 15-year run as CEO : When) Tj
+T*
+(Cook took over as CEO, Apple?s revenue for all of 2011 was $108 billion. Apple reported $109.4) Tj
+T*
+(billion for Q3 2026, earning its 2011 revenue in a single quarter. We don?t have the numbers) Tj
+T*
+(for fiscal 2026 yet, but in fiscal 2025, revenue was $416 billion. [...] A day after Cook took) Tj
+T*
+(over in August 2011, Apple?s stock price was $13.35 \(split-adjusted\). Today, it opened at) Tj
+T*
+($304.81, a roughly 23◊ increase. Apple did alright under Cook. ?) Tj
+T*
+() Tj
+T*
+(6. The Differences Between the New ?Apple Upgrade? and the Old ?iPhone Upgrade Program?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-07-30T15:56:10Z) Tj
+T*
+(Link: https://9to5mac.com/2026/07/30/apple-upgrade-vs-iphone-upgrade-program-here-are-the-key-d) Tj
+T*
+(ifferences/) Tj
+T*
+(Ryan Christoffel, writing for 9to5Mac: Apple Upgrade launched this week, and the iPhone Upgrade) Tj
+T*
+(Program is being discontinued as a result. But despite some similarities, the two offerings are) Tj
+T*
+(not the same. Here are the key differences. I wrote yesterday that there seemingly is no catch) Tj
+T*
+(with the new Apple Upgrade program, but there?s at least one, which Christoffel?s piece doesn?t) Tj
+T*
+(note. When you lease an iPhone through Apple Upgrade, you need a cellular account on one of the) Tj
+T*
+(big three U.S. carriers: AT&T, T-Mobile, or Verizon. That kind of stinks, and I?m not quite) Tj
+T*
+(sure I understand why. You?re leasing the iPhone through Apple and Klarna, not the carrier, so) Tj
+T*
+(I don?t know why Apple cares. If you know why, shoot me a message and explain it. Is it just a) Tj
+T*
+(simplistic credit-risk evaluation, where prepaid plan-holders and MVNO users in general are) Tj
+T*
+(viewed suspiciously? I?ve been hearing a lot of good things about the higher-quality MVNOs,) Tj
+T*
+(especially US Mobile . \( Quinn Nelson mentioned last week on The Talk Show that he?s on US) Tj
+T*
+(Mobile.\) But if you?re not on one of the big three you can?t lease an iPhone through Apple) Tj
+T*
+(Upgrade. \(I think the old iPhone Upgrade Program required you to have a...) Tj
+T*
+() Tj
+T*
+(7. Making an agile version of a Windows Runtime delegate in C++/WinRT, part 10) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 31 Jul 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578) Tj
+T*
+(What failure of the context callback means. The post Making an agile version of a Windows) Tj
+T*
+(Runtime delegate in C++/WinRT, part 10 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Why polynomial coefficients?) Tj
+T*
+(Source: John D. Cook | Published: Sat, 01 Aug 2026 20:18:41 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/01/why-polynomial-coefficients/) Tj
+T*
+(Second order linear differential equations with polynomial coefficients form their own area of) Tj
+T*
+(study. This seems like a narrow class of equations, but it?s very important in applications.) Tj
+T*
+(This class of equations seems like a mathematically natural topic, but why is it so important) Tj
+T*
+(in applications? I did a PhD in differential equations without ever [?] The post Why polynomial) Tj
+T*
+(coefficients? first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Counting rooted trees) Tj
+T*
+(Source: John D. Cook | Published: Sat, 01 Aug 2026 16:15:53 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/01/counting-rooted-trees/) Tj
+T*
+(Combinatorial problems can be interesting for their own sake, but they are more interesting) Tj
+T*
+(when there is a connection to a problem outside combinatorics, and the more unexpected the) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4489 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(connection the better. Counting the number of unlabeled rooted trees [1] with n nodes is a pure) Tj
+T*
+(mathematics problem. Designing numerical methods for solving differential equations [?] The) Tj
+T*
+(post Counting rooted trees first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Runge-Kutta order versus stages) Tj
+T*
+(Source: John D. Cook | Published: Sat, 01 Aug 2026 15:58:15 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/01/butcher-barrier/) Tj
+T*
+(The textbook version of the Runge-Kutta method for solving differential equations has 4 stages) Tj
+T*
+(and has 4th order error. For lower order versions of RK the number of stages s also matches the) Tj
+T*
+(order of the error p. But in order to achieve error on the order of p ? 5, you need more than p) Tj
+T*
+([?] The post Runge-Kutta order versus stages first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Gadget Review: HIKMICRO D02 Thermal Camera ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 01 Aug 2026 11:34:43 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/gadget-review-hikmicro-d02-thermal-camera/) Tj
+T*
+(The good folks at Hikmicro have sent me their D02 Infrared Camera to review. It's part of their) Tj
+T*
+("Eco" series of thermal imagers - designed to be easy to use around the home and relatively) Tj
+T*
+(cheap. Despite the no-fills appearance, it packs in a lot of features which put some more) Tj
+T*
+(expensive models to shame. It even works with Linux. Shove in a USB-C cable to grab the photos) Tj
+T*
+(or even use it as a?) Tj
+T*
+() Tj
+T*
+(12. Reading List 08/01/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 01 Aug 2026 12:04:01 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-080126) Tj
+T*
+(Pepper-spray drones, China?s chip Manhattan Project, Commonwealth Fusion?s fundraise, and a) Tj
+T*
+(proposed Dulles Airport renovation.) Tj
+T*
+() Tj
+T*
+(13. This Week in Package Management: 1 August 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-08-01T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/08/01/this-week-in-package-management.html) Tj
+T*
+(Week eleven of the roundup, built from the package manager OPML feed collection and whatever) Tj
+T*
+(I?ve posted or boosted on Mastodon . Releases mise 2026.7.14?18 : the default shell-argument) Tj
+T*
+(settings are now global-only, so an untrusted repo?s local config can?t influence command) Tj
+T*
+(execution before trust evaluation runs. Experimental task output caching restores a task?s) Tj
+T*
+(declared outputs and replays logs when its sources, tools and environment are unchanged, and) Tj
+T*
+(experimental monorepo tasks now infer Node workspace dependency edges and import package.json) Tj
+T*
+(scripts as node: # tasks. Verdaccio 6.9.0 requires Node.js 22 as the minimum runtime and ships) Tj
+T*
+(a dual CJS+ESM build with an exports field, so import { runServer } from 'verdaccio' resolves a) Tj
+T*
+(real ES module. The bundled @verdaccio/config moves to js-yaml 4.3.0, resolving) Tj
+T*
+(GHSA-52cp-r559-cp3m . setup-uv v9.0.0 flips the prune-cache default to false to reduce load on) Tj
+T*
+(PyPI infrastructure. The major bump reflects that workflows may see higher GitHub Actions cache) Tj
+T*
+(usage as a result; the reasoning is written up in #967 . Renovate 43.282.0 has the mise manager) Tj
+T*
+(run mise lock in the MISE_SAFE=1 mode added last week , so lockfile updates against unt...) Tj
+T*
+() Tj
+T*
+(14. MkLinux and the pimped-out Apple Workgroup Server 9150) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-08-01T19:54:02.560-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html) Tj
+T*
+(As is typical here in the Floodgap lab, it all started so innocently: rebuilding a flaky Apple) Tj
+T*
+(Workgroup Server 9150, the odd duck of the Workgroup Server line and older cousin to our) Tj
+T*
+(beloved Apple Network Server. And then I just had to pimp it out for MkLinux. Before the sui) Tj
+T*
+(generis IBM AIX-based Apple Network Server , one of our favourite machines here at Floodgap,) Tj
+T*
+(there were the WGSes, the Workgroup Servers, Apple's well-intentioned but conflictingly) Tj
+T*
+(received line of Macintosh rebadges hopped up with high-spec options and special server) Tj
+T*
+(software. While certain users had long repurposed desktop Macs as ad-hoc servers, these) Tj
+T*
+(computers were the first Apple systems explicitly positioned and sold as such, and the first) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3039 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(generation was even advertised with A/UX, Apple's own hybrid System V UNIX implementation. A/UX) Tj
+T*
+(ultimately didn't survive the 1994 68K transition to PowerPC, but in 1996 Apple publicly) Tj
+T*
+(offered another option: run Linux, using the Mach microkernel. Although MkLinux emerged after) Tj
+T*
+(the 9150's discontinuation, it's still just an overgrown NuBus Power Mac, so between more RAM,) Tj
+T*
+(a beefier CPU upgrade and various video cards, by the end of this article we ought to have a) Tj
+T*
+(confi...) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: Why businesses lie about AI \(01 Aug 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 01 Aug 2026 12:29:28) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/08/01/dare-snot/) Tj
+T*
+(Today's links Why businesses lie about AI: Humoring the boss all the way into bankruptcy. Hey) Tj
+T*
+(look at this: Delights to delectate. Object permanence: Vinge x NYT; Syklarov x publishers;) Tj
+T*
+(Human hair castles; Gingrich's bot army; Accessibility v Web DRM; David Byrne x WinXP; Furries) Tj
+T*
+(don't fuck in fursuits; AI's pogo-stick grift. Upcoming appearances: Edinburgh, Sydney,) Tj
+T*
+(Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You) Tj
+T*
+(keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Why businesses lie about AI \(permalink\) Neoclassical economics assumes) Tj
+T*
+(rationality. The corollary of, "If you're so smart, why aren't you rich?" is "you're rich, so) Tj
+T*
+(you must be very smart!" Thus it is that many people assume that if powerful, well-compensated) Tj
+T*
+(CEOs insist that "AI is changing everything," well then, AI must be changing everything. But) Tj
+T*
+(the evidence for this "changing everything" thesis is thin on the ground. Despite a global) Tj
+T*
+(mania that has reduced the real, pressing need for digital sovereignty to the imaginary need to) Tj
+T*
+(create "sovereign AI," no one can really articulate the case for "sovereign AI...) Tj
+T*
+() Tj
+T*
+(16. Put A Tag On It) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-08-01T20:18:00Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17399769/pricing-guns-vs-barcodes-history) Tj
+T*
+(The pricing gun should have been a dead technology years before it actually was. But state laws) Tj
+T*
+(artificially kept it around as a shield against the scary barcode.) Tj
+T*
+() Tj
+T*
+(17. I'm \(mostly\) picking models on speed now, not intelligence) Tj
+T*
+(Source: Martin Alderson | Published: Sun, 02 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/speed-vs-intelligence/?utm_source=rss&utm_medium=rss&utm) Tj
+T*
+(_campaign=feed) Tj
+T*
+(For the first time I'm choosing my daily driver models on tokens per second rather than raw) Tj
+T*
+(intelligence. Why ~100tok/s might be the new 100ms, where the speed gains stop mattering, and) Tj
+T*
+(the price war that's coming.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004819 00000 n 
+0000004945 00000 n 
+0000009526 00000 n 
+0000009652 00000 n 
+0000014193 00000 n 
+0000014319 00000 n 
+0000017411 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+17539
+%%EOF
