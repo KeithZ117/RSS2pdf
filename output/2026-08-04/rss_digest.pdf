@@ -1,0 +1,410 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4032 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-04 12:15:21) Tj
+T*
+() Tj
+T*
+(1. Quoting Steve Yegge) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-04T00:42:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything) Tj
+T*
+(Gas Town was intended to be reusable, but I only ever wound up using it to build itself. Gas) Tj
+T*
+(Town fell apart at the seams with Opus 4.7. Up through 4.6 it was working brilliantly. With 4.7) Tj
+T*
+(we saw the introduction of the "just two more things" tic, which prevented Opus from ever) Tj
+T*
+(converging on being ready to do real work?it always wanted to fiddle with Gas Town itself. The) Tj
+T*
+(Opus tic never went away, so Gas Town effectively burned down. It had other problems, too, but) Tj
+T*
+(4.7 was the final straw. ? Steve Yegge , The Shape of Things to Come Tags: steve-yegge ,) Tj
+T*
+(coding-agents , generative-ai , ai , llms) Tj
+T*
+() Tj
+T*
+(2. Don't be a meat proxy) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-03T23:45:04+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything) Tj
+T*
+(Don't be a meat proxy Niklas Gruhn coins an excellent new term - meat proxy - for people who) Tj
+T*
+(blindly copy and paste the output of AI systems to their peers. By all means, prompt AI. But) Tj
+T*
+(don't just relay the output. Read it, understand it, validate it, and then write a response in) Tj
+T*
+(your own words \(a decent certificate that you've done the prior steps\). Making that effort is) Tj
+T*
+(value you can add. Via Lobste.rs Tags: definitions , ai , generative-ai , llms , ai-misuse) Tj
+T*
+() Tj
+T*
+(3. Quoting David Crawshaw's prompt) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-03T16:15:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything) Tj
+T*
+(Set up a nightly cron job that executes the prompt: fetch upstream changes to the and rebase) Tj
+T*
+(all local changes on top of upstream. Check that the software works as intended and replace the) Tj
+T*
+(current version. ? David Crawshaw's prompt , Devtools must be open source Tags:) Tj
+T*
+(prompt-engineering , coding-agents , generative-ai , ai , llms , open-source) Tj
+T*
+() Tj
+T*
+(4. TerminalWidget 1.0) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-04T02:32:33Z) Tj
+T*
+(Link: https://terminalwidget.app/) Tj
+T*
+(New app from Brett Terpstra: TerminalWidget lets you send output from commands, scripts, APIs,) Tj
+T*
+(and Shortcuts directly to widgets across macOS, iOS, and iPadOS with rich formatting, progress) Tj
+T*
+(bars, sparklines, and image support. It is available as a universal app on the App Store for) Tj
+T*
+($19.99. I don?t know what I?m going to use this for, but I know I want to use it. ?) Tj
+T*
+() Tj
+T*
+(5. [Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-03T22:26:01Z) Tj
+T*
+(Link: https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_c) Tj
+T*
+(ampaign=q32026) Tj
+T*
+(REST serves the developers building against your API. MCP serves the agents now trying to use) Tj
+T*
+(it. Most teams treat these as competing standards and have to pick one. They?re not rivals,) Tj
+T*
+(they?re layers: most MCP servers just call REST internally to do the real work. The best ones) Tj
+T*
+(don?t convert every endpoint into a tool, they design around what the agent?s trying to) Tj
+T*
+(accomplish. Shipping that server also means shipping OAuth 2.1 with scoped tokens. WorkOS) Tj
+T*
+(AuthKit already speaks that spec , so you skip building an auth provider on top. Read the) Tj
+T*
+(breakdown ? ?) Tj
+T*
+() Tj
+T*
+(6. John Ternus Has Rehired Former Hardware VP Laura Legros) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-03T22:01:41Z) Tj
+T*
+(Link: https://www.macrumors.com/2026/08/03/apple-john-ternus-hiring-retired-vp/) Tj
+T*
+(Juli Clover, MacRumors: Incoming Apple CEO John Ternus is rehiring Laura Legros, a former vice) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4641 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(president of hardware engineering who retired from Apple in 2022, reports Bloomberg . Legros) Tj
+T*
+(previously managed product delivery, development schedules, and coordination across engineering) Tj
+T*
+(teams. Under Ternus, she will work across different parts of the company, and report directly) Tj
+T*
+(to him. According to Bloomberg, Legros was one of Ternus? most trusted deputies before she) Tj
+T*
+(retired. She has presented at past Apple events, introducing the 2018 MacBook Air and the 2020) Tj
+T*
+(iPad Air. The 2018 introduction of the first retina MacBook Air was an interesting event . I) Tj
+T*
+(noted at the time that it was conspicuous how seldom Apple mentioned ?Intel?, despite the fact) Tj
+T*
+(that all that products introduced ran on Intel chips. Then you look at the specs of that) Tj
+T*
+(MacBook Air compared to the then-current iPad Pros \(see link above\) and you can see why Apple,) Tj
+T*
+(privately, was seething. ?) Tj
+T*
+() Tj
+T*
+(7. Indirect lessons from human alignment) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-08-02T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/human-alignment/) Tj
+T*
+(\(Inspired by a post from Eli Tyre .\) Many people make some variant of the following argument:) Tj
+T*
+(Evolution is an ?outer optimizer?. It is trying to make us maximize reproductive fitness. We) Tj
+T*
+(are ?inner optimizers?. We just do what feels good. But what feels good has been set by) Tj
+T*
+(evolution, which is hoping that it will make us maximize reproductive fitness. But we don?t) Tj
+T*
+(maximize reproductive fitness. In fact, birth rates are dropping everywhere. Therefore) Tj
+T*
+(evolution failed. The standard interpretation is that this shows that alignment is hard. We) Tj
+T*
+(have one example of an attempt \(by evolution\) to align the behavior of an intelligent system) Tj
+T*
+(\(us\) towards some goal \(maximize reproductive fitness\). And as soon as that intelligent system) Tj
+T*
+(\(still us\) was put in a different environment \(modernity\) it failed to continue to pursue that) Tj
+T*
+(goal \(you reading existential angst+science blogs instead of making/nurturing babies\). To be) Tj
+T*
+(clear, it?s likely good that evolution failed. A world where everyone woke up every day and) Tj
+T*
+(threw everything they?ve got into maximizing their number of descendants sounds grim. But say) Tj
+T*
+(that you want to build a new intelligent system and tune it to do what you want. Will it ke...) Tj
+T*
+() Tj
+T*
+(8. Invisible Problems) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Mon, 03 Aug 2026) Tj
+T*
+(07:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/invisible-problems) Tj
+T*
+(During the pandemic, we completed one of our largest projects at work. To celebrate, since we) Tj
+T*
+(couldn't meet in person, we all ordered food on DoorDash and played an online escape room game) Tj
+T*
+(together. We were on a Zoom call, helping each other out and having fun. The first challenge) Tj
+T*
+(was to escape a jail cell. To escape, each of us had to find clues in our own cell to figure) Tj
+T*
+(out how to open the doors. We each had to find an object that solved a piece of the puzzle, and) Tj
+T*
+(once we put them all together, the door would open. As a first challenge, it was easy enough.) Tj
+T*
+(Everyone found a brightly colored object in their room and described it to the team so we could) Tj
+T*
+(piece it together. Everyone but one team member. "Come on, read it, man, we can win this." He) Tj
+T*
+(froze. Someone jumped in to help: "Mine was the most obvious green object in the room. Just) Tj
+T*
+(look for something bright. Maybe blue, or orange, something that seems out of place." He didn't) Tj
+T*
+(respond. He just sat there, frozen on camera. We figured he was having internet connectivity) Tj
+T*
+(issues. We waited a good five minutes before he finally found it, and we moved on to the next) Tj
+T*
+(level. I didn't think much of that day. We finished the game, we had...) Tj
+T*
+() Tj
+T*
+(9. Creating a fake agile wrapper that is technically agile but is not useful outside its) Tj
+T*
+(home apartment, part 1) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 03 Aug 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260803-00/?p=112582) Tj
+T*
+(Looking for a COM reference that is between strong and weak. The post Creating a fake agile) Tj
+T*
+(wrapper that is technically agile but is not useful outside its home apartment, part 1 appeared) Tj
+T*
+(first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(10. Book Review: The Field Guide to Understanding 'Human Error' by Sidney Dekker ?????) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4136 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Terence Eden?s Blog | Published: Mon, 03 Aug 2026 11:34:02 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/book-review-the-field-guide-to-understanding-human-error) Tj
+T*
+(-by-sidney-dekker/) Tj
+T*
+(This is such a useful book. It makes the case that there's no such thing as "human error" -) Tj
+T*
+(instead most catastrophes are caused by system issues, misaligned incentives, and unrealistic) Tj
+T*
+(processes. You are not the custodian of an otherwise safe system that you need to protect from) Tj
+T*
+(erratic human beings. By its nature it is a little repetitive. I suspect it's the sort of book) Tj
+T*
+(students and?) Tj
+T*
+() Tj
+T*
+(11. Agentic coding techniques) Tj
+T*
+(Source: micahflee | Published: Mon, 03 Aug 2026 16:05:25 GMT) Tj
+T*
+(Link: https://micahflee.com/agentic-coding-techniques/) Tj
+T*
+(Since LLMs have been available, I've been doing a lot of coding using agents. Unlike shoving AI) Tj
+T*
+(into every app, replacing customer support with chatbots, generating endless streams of slop,) Tj
+T*
+(etc., agentic coding is actually useful. If used right ? and, crucially, by someone who) Tj
+T*
+(understands and reviews) Tj
+T*
+() Tj
+T*
+(12. Why smarter AI models could drive up compute prices 10x) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Mon, 03 Aug 2026 17:32:13 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video) Tj
+T*
+(The end of cheap compute?) Tj
+T*
+() Tj
+T*
+(13. Relative velocity and closing speed) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-08-03T20:01:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/) Tj
+T*
+(In Physics simulations or game engines it?s sometimes useful to determine the speed with which) Tj
+T*
+(two objects are approaching each other. This post will discuss the concept of closing speed ,) Tj
+T*
+(which is the normal component of the relative velocity of two objects. Relative velocity and) Tj
+T*
+(its components Suppose we ?) Tj
+T*
+() Tj
+T*
+(14. Welcoming the Nepalese Government to Have I Been Pwned) Tj
+T*
+(Source: Troy Hunt | Published: Mon, 03 Aug 2026 06:38:05 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/) Tj
+T*
+(Today, we welcome the 47th government onboarded to Have I Been Pwned?s free gov service: Nepal.) Tj
+T*
+(Their National Cyber Security Centre now has access to monitor Nepalese government domains) Tj
+T*
+(against the data in HIBP. This gives the NCSC the ability to identify exposure across) Tj
+T*
+(government email addresses and) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: Dualism \(03 Aug 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 03 Aug 2026 08:25:53) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/08/03/andor/) Tj
+T*
+(Today's links Dualism: Why not both? Hey look at this: Delights to delectate. Object) Tj
+T*
+(permanence: UK's Great Firewall falls; Mint the coins; Virtual pets v DRM; Getty copyfrauds) Tj
+T*
+(47,000 photos; Net Mexico-US illegal migration is zero; Build a wall \(around Trump Tower\);) Tj
+T*
+(Remote-hacking big rigs; Collectible AOL CDs; Indefinite Gitmo; Circuit City rips DVDs; Real) Tj
+T*
+(Names policies are abusive failures; Escher in a water drop; Maximally code-like bugs. Upcoming) Tj
+T*
+(appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances:) Tj
+T*
+(Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like) Tj
+T*
+(I said, I'll keep writin' 'em. Colophon: All the rest. Dualism \(permalink\) The greatest magic) Tj
+T*
+(trick of them all is lying. The reason you can't figure out that coin vanish even after the) Tj
+T*
+(conjurer performs it three times in a row is that they didn't do the same trick three times in) Tj
+T*
+(a row! They did three different tricks: "Didn't catch it? Here, let me do it again!" is a lie:) Tj
+T*
+(https://magiciansmag.com/3-cool-coin-disappearing-trick/ There's times when it makes sense to) Tj
+T*
+(treat two outcomes as the same, even if they were produced by very different means....) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 37 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004294 00000 n 
+0000004420 00000 n 
+0000009113 00000 n 
+0000009239 00000 n 
+0000013427 00000 n 
+0000013553 00000 n 
+0000013641 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+13769
+%%EOF
