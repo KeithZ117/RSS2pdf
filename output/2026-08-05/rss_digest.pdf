@@ -1,0 +1,392 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4571 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-05 12:10:56) Tj
+T*
+() Tj
+T*
+(1. New release of LLM adds support for reasoning traces, OpenAI Responses, server-side) Tj
+T*
+(tools, and smarter logging) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-04T23:58:24+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything) Tj
+T*
+(I released LLM 0.32 this morning, the most significant new version of LLM since the initial) Tj
+T*
+(launch of the project. The new version includes support for visible reasoning traces,) Tj
+T*
+(server-side provider tools, redesigned content-addressable SQLite logs, new models, and new) Tj
+T*
+(features enabled by the OpenAI Responses API. I also released a new version of the) Tj
+T*
+(llm-anthropic plugin with substantial updates of its own. Headline features for LLM CLI users) Tj
+T*
+(Running LLM against reasoning models now displays their reasoning traces to standard error, so) Tj
+T*
+(you can see what they are "thinking" without that information being included in the standard) Tj
+T*
+(output that you might pipe to another tool. Add -R/--hide-reasoning to turn this off. LLM) Tj
+T*
+(includes support out-of-the-box for the GPT-5.6 model family , and the new default model used) Tj
+T*
+(with llm "prompt" is now the inexpensive but capable GPT-5.6 Luna . LLM calls can now use) Tj
+T*
+(server-side tools from various providers. OpenAI provide a code execution environment as a) Tj
+T*
+(server-side tool; LLM can now run prompts that benefit from that like so: llm --tool) Tj
+T*
+(CodeInterpreter ' Show current python and SQLite versions ' OpenAI also gets a WebSearch tool.) Tj
+T*
+(The llm-anthropic p...) Tj
+T*
+() Tj
+T*
+(2. llm-anthropic 0.26) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-04T22:00:58+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything) Tj
+T*
+(Release: llm-anthropic 0.26 Includes new features enabled by LLM 0.32 : New models:) Tj
+T*
+(claude-fable-5 , claude-sonnet-5 , and claude-opus-5 . #75 , #76 Added server-side tools for) Tj
+T*
+(WebSearch , WebFetch , CodeExecution , and AnthropicMCP , available through LLM's -T interface) Tj
+T*
+(or Python tools= . The previous -o web_search* options have been removed in favor of -T) Tj
+T*
+(WebSearch . #79 Upgraded to llm>=0.32 . Reasoning, tool calls, tool results, and server-side) Tj
+T*
+(tool results now stream as typed events. Reasoning for llm CLI prompts now displays to standard) Tj
+T*
+(error unless you pass --hide-reasoning/-R . Simplified extended thinking to thinking and) Tj
+T*
+(thinking_effort \( low , medium , high , xhigh , or max \). Claude 5 models think by default; -o) Tj
+T*
+(thinking 0 disables thinking for Sonnet 5 and Opus 5, while Fable 5 always thinks.) Tj
+T*
+(-R/--hide-reasoning now omits reasoning from responses and logs. The thinking_budget ,) Tj
+T*
+(thinking_display , and thinking_adaptive options have been removed. #80 Tags: llm , anthropic ,) Tj
+T*
+(claude , model-context-protocol) Tj
+T*
+() Tj
+T*
+(3. PipeNetwork/minimax-h3-mlx) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-04T19:10:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything) Tj
+T*
+(PipeNetwork/minimax-h3-mlx MiniMax released MiniMax-H3 two days ago - they describe it as a "a) Tj
+T*
+(general-purpose, omni-modal generative system", which in practice means it accepts text,) Tj
+T*
+(images, audio and video and can use them to generate up to 15 second video clips with audio) Tj
+T*
+(included. This Python package ports it to MLX for running on Apple Silicon. I got it running on) Tj
+T*
+(my M5 Max MacBook Pro. I cloned the repo and ran the model like this: # First download the) Tj
+T*
+(models uvx --from huggingface_hub hf download MiniMaxAI/MiniMax-H3 \\ --include 'FL2VA/*') Tj
+T*
+(--exclude 'FL2VA/transformer/*' uvx --from huggingface_hub hf download) Tj
+T*
+(pipenetwork/MiniMax-H3-MLX-8bit # Now run the prompt uv run --with mlx-vlm \\) Tj
+T*
+(--with-requirements requirements.txt python scripts/generate.py \\ "a rainbow colored skunk) Tj
+T*
+(leaps over a mossy log in a supermarket" \\ -o skunk.mp4 \\ -c ~/.cache/huggingface/hub/models--M) Tj
+T*
+(iniMaxAI--MiniMax-H3/snapshots/fa9c8ab1eaa21c8ae25e7e40b83b2e6002f340af/FL2VA \\ -t ~/.cache/hug) Tj
+T*
+(gingface/hub/models--pipenetwork--MiniMax-H3-MLX-8bit/snapshots/3ac52081470b0488921c3ec3ba84a39) Tj
+T*
+(097bf2361 Here's the video I got for the prompt: a rainbow colored skunk leaps over a mossy log) Tj
+T*
+(in a supermarket Your brows...) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4134 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(4. ? OpenAI Responds to Apple?s Lawsuit and Motion for Preliminary Injunction: ?Apple Is) Tj
+T*
+(Getting This Wrong?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-04T22:51:19Z) Tj
+T*
+(Link: https://daringfireball.net/2026/08/openai_apple_is_getting_this_wrong) Tj
+T*
+(A blog post is an unusual way to respond to a high-stakes lawsuit, but OpenAI is an unusual) Tj
+T*
+(company. A few snippets from their post, and some commentary.) Tj
+T*
+() Tj
+T*
+(5. Yours Truly on TBPN Yesterday) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-04T18:34:06Z) Tj
+T*
+(Link: https://www.youtube.com/live/ruL8Q-TsbbI?t=4085) Tj
+T*
+(TBPN seems like a show I wouldn?t enjoy guesting on, but I actually enjoy it quite a bit. ?) Tj
+T*
+() Tj
+T*
+(6. Apple Seeks Preliminary Injunction Against OpenAI in Trade Secrets Case) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-04T16:02:35Z) Tj
+T*
+(Link: https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-opena) Tj
+T*
+(i-trade-secrets-case-2026-08-04/) Tj
+T*
+(Reuters: Apple on Monday asked a U.S. judge for a preliminary injunction barring two former) Tj
+T*
+(employees ?and OpenAI from accessing, acquiring, using or disclosing alleged confidential) Tj
+T*
+(information as it moves ahead with its trade secrets case. [...] The iPhone maker also filed a) Tj
+T*
+(concurrent motion on Monday seeking expedited discovery, including production of documents) Tj
+T*
+(relating to the defendants? alleged access ?of Apple?s proprietary and trade secret) Tj
+T*
+(information. It asked the judge to order the two ?former Apple employees named in the lawsuit,) Tj
+T*
+(Chang Liu and Tang Yew Tan, to sit for depositions, along with OpenAI employee Yu-Ting Peng and) Tj
+T*
+(an unnamed OpenAI employee who previously worked at ?Apple. The request for expedited discovery) Tj
+T*
+(and the depositions, I understand. Apple wants to move fast, and they want to get depositions) Tj
+T*
+(\(especially, I?m sure, with Tan\) now. The preliminary injunction request, though, I think) Tj
+T*
+(Reuters is underplaying here. I suggest reading Apple?s actual motion , not the news coverage.) Tj
+T*
+(From Apple?s motion: OpenAI, its people, and partners should not be permitted to develop,) Tj
+T*
+(release, and benefit from products using and developed with the benefit of Apple?s trade se...) Tj
+T*
+() Tj
+T*
+(7. Creating a fake agile wrapper that is technically agile but is not useful outside its) Tj
+T*
+(home apartment, part 2) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 04 Aug 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260804-00/?p=112586) Tj
+T*
+(Using a reference stored in the global interface table. The post Creating a fake agile wrapper) Tj
+T*
+(that is technically agile but is not useful outside its home apartment, part 2 appeared first) Tj
+T*
+(on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Mathematical alchemy) Tj
+T*
+(Source: John D. Cook | Published: Tue, 04 Aug 2026 13:18:58 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/04/metallic-alchemy/) Tj
+T*
+(After writing the previous post about metallic ratios, I thought about the analogy to alchemy) Tj
+T*
+(and the attempt to make precious metals out of base metals. When can you make one metallic) Tj
+T*
+(ratio out of another? Can you make the golden ratio out of the lead ratio? Before we can make) Tj
+T*
+(gold out of lead, [?] The post Mathematical alchemy first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Ratio of metallic ratios) Tj
+T*
+(Source: John D. Cook | Published: Tue, 04 Aug 2026 11:41:49 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/04/ratio-of-metallic-ratios/) Tj
+T*
+(The golden ratio is the first and best known of the metallic ratios. I?ve written about the) Tj
+T*
+(silver ratio a few times, most recently here. And I?ve mentioned the bronze ratio a couple) Tj
+T*
+(times. The metallic ratios after bronze don?t have standard names. The nth metallic ratio M\(n\)) Tj
+T*
+(is the number whose continued fraction representation [?] The post Ratio of metallic ratios) Tj
+T*
+(first appeared on John D. Cook .) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4387 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(10. brew install actions/checkout) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-08-04T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/08/04/brew-install-actions-checkout.html) Tj
+T*
+(In December I went through why uses: is a package manager with no lockfile, no integrity hashes) Tj
+T*
+(and no transitive visibility , and in April through the run of incidents that followed from) Tj
+T*
+(that. GitHub?s 2026 security roadmap has since committed to a lockfile, now in preview as) Tj
+T*
+(gh-actions-lock , and made immutable actions the preferred resolution path. Neither of those) Tj
+T*
+(changes adds any review between an action author tagging a release and the runner executing it.) Tj
+T*
+(Homebrew has run that kind of curated index for fifteen years and, as of the immutable-actions) Tj
+T*
+(rollout, stores its artifacts as OCI manifests on ghcr.io alongside the actions themselves, so) Tj
+T*
+(I spent some time working out how much of a GitHub Actions registry you could assemble from) Tj
+T*
+(Homebrew parts. Shared storage Immutable actions and Homebrew bottles are both OCI artifacts on) Tj
+T*
+(ghcr.io: actions/publish-immutable-action tars the action directory, pushes it as a layer with) Tj
+T*
+(artifactType: application/vnd.github.actions.package.v1+json , attaches a sigstore bundle) Tj
+T*
+(through the OCI referrers API, and tags the manifest with the semver, after which a workflow) Tj
+T*
+(referencing actions/checkout@4.2.2 resolves through pkg.actions.githubuserco...) Tj
+T*
+() Tj
+T*
+(11. The AI Demand Bubble) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 04 Aug 2026 15:49:28 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/the-ai-demand-bubble/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter. It?s $70 a year, or $7) Tj
+T*
+(a month, and in return you get a weekly newsletter that?s usually anywhere from 5,000 to 18,000) Tj
+T*
+(words, including vast, detailed analyses of NVIDIA , Anthropic and) Tj
+T*
+() Tj
+T*
+(12. Pluralistic: Post-American compute for a post-American Internet \(04 Aug 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 04 Aug 2026 11:14:27) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/08/04/technology-freedom-cooperative/) Tj
+T*
+(Today's links Post-American compute for a post-American Internet: Building cooperative human) Tj
+T*
+(rights computing infrastructure in Puerto Rico, the EU, Canada and Mexico. Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: Urine Luck; Germany v pornoscanners; Moorcock's 3-day) Tj
+T*
+(novels; Women's voices can never be "right"; Drone delivery v reality; Abortion activists: TNG;) Tj
+T*
+(AI coders are a marketing claim. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton,) Tj
+T*
+(London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em,) Tj
+T*
+(I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the) Tj
+T*
+(rest. Post-American compute for a post-American Internet \(permalink\) Obviously, the) Tj
+T*
+(non-American world has a digital sovereignty problem ? Trump has means, motive and opportunity) Tj
+T*
+(to order his tech companies to shut down any public official, large corporation, or individual) Tj
+T*
+(who displeases him:) Tj
+T*
+(https://pluralistic.net/2026/06/18/their-trillions-our-billions/#eyes-on-the-prize But) Tj
+T*
+(Americans face the same digital sovereignty risk. America is a lawless place now, where a) Tj
+T*
+(pliable Supreme Court and supine Congress have affirmed that "it's not...) Tj
+T*
+() Tj
+T*
+(13. Gig Review: Belle & Sebastian - If You?re Feeling Sinister at Margate Dreamland ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 04 Aug 2026 11:34:22 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/gig-review-belle-sebastian-if-youre-feeling-sinister-at-) Tj
+T*
+(margate-dreamland/) Tj
+T*
+(It's 1998 and Doogie, the guy across the hall in our student accommodation, will not stop) Tj
+T*
+(playing The Boy With The Arab Strap. Eventually I crack and ask him who the band are. He) Tj
+T*
+(infodumps on me with all the authority of an 18 year our music snob about this cool new) Tj
+T*
+(Scottish band called Belle & Sebastian. I slip him a tenner, a couple of Smirnoff Ice, and the) Tj
+T*
+(promise of my help on the next?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004826 00000 n 
+0000004952 00000 n 
+0000009138 00000 n 
+0000009264 00000 n 
+0000013703 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+13829
+%%EOF
