@@ -1,0 +1,566 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4686 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-06 12:14:04) Tj
+T*
+() Tj
+T*
+(1. Proxmox officially supports Arm, with some caveats) Tj
+T*
+(Source: Jeff Geerling | Published: Wed, 05 Aug 2026 11:50:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/) Tj
+T*
+(Proxmox today announced their Proxmox Virtual Environment is now available for 64-bit ARM . I) Tj
+T*
+(tested it on my Ampere Altra Dev Platform ?the same machine on which I've booted Windows on Arm) Tj
+T*
+(the first time, messed with multiple GPUs, and most recently tested Houdini's native arm64) Tj
+T*
+(support . Install was easy, as the Ampere Altra uses UEFI / ACPI for its hardware, meaning) Tj
+T*
+(Proxmox didn't have to tailor its ISO to specific platforms, like you have to do with Raspberry) Tj
+T*
+(Pis and most SBCs using a Device Tree setup.) Tj
+T*
+() Tj
+T*
+(2. An AI model from Meta also hacked another company during testing) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-06T00:25:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything) Tj
+T*
+(An AI model from Meta also hacked another company during testing Stop me if you've heard this) Tj
+T*
+(one before : An AI model from the parent company of Facebook and Instagram hacked into another) Tj
+T*
+(company?s systems during cybersecurity testing, a spokesperson confirmed on Wednesday. Meta) Tj
+T*
+(says the breach occurred because of an inadvertent error during testing of the model, similar) Tj
+T*
+(to previously disclosed incidents with OpenAI and Anthropic. ?A misconfiguration by Irregular,) Tj
+T*
+(an independent testing company Meta uses, inadvertently allowed one of our models access to the) Tj
+T*
+(internet during evaluation,? the Meta spokesperson said. Meta?s Muse Spark model ?exploited a) Tj
+T*
+(security vulnerability? in another company ?in a manner similar to previously-reported) Tj
+T*
+(instances with other companies.? The Information had the scoop , I'm linking to CNN's re-report) Tj
+T*
+(of it since they don't have a paywall. So that's Anthropic, OpenAI, and Meta. Google Gemini) Tj
+T*
+(really needs to catch up on accidentally cyberattacking other companies. Tags: security , ai ,) Tj
+T*
+(generative-ai , llms , meta , accidental-cyberattacks) Tj
+T*
+() Tj
+T*
+(3. Introducing Muse Code and Muse Spark 1.2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-05T23:58:35+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything) Tj
+T*
+(Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important) Tj
+T*
+(characteristic of any model these days is long-sequence agentic tool calling. Meta shipped) Tj
+T*
+(their own coding agent as part of getting that to work! Muse Spark 1.2 is a coding-focused) Tj
+T*
+(update to Muse Spark 1.1, with improvements in code generation, complex debugging, codebase) Tj
+T*
+(understanding, and end-to-end developer workflows. In Muse Spark 1.2, we significantly scaled) Tj
+T*
+(up training compute on coding tasks while expanding training environment diversity. The model) Tj
+T*
+(also maintains its strength in other key areas like general agents. [...] We co-trained Muse) Tj
+T*
+(Spark 1.2 with Muse Code to ensure the model exhibits its best performance and coding usability) Tj
+T*
+(when paired together. The training included rejection sampled harness trajectories and recipe) Tj
+T*
+(optimizations for goals, compaction, and subagents, alongside the integration of the Muse Code) Tj
+T*
+(toolset to maximize harness compatibility. [...] Muse Spark 1.2 was extensively trained on) Tj
+T*
+(long-horizon coding tasks, including whole-repository generation, large end-to-end projects,) Tj
+T*
+(and auto-research. Here's a pelican riding a bicycle SVG produced by Muse Spark 1.2 : You ca...) Tj
+T*
+() Tj
+T*
+(4. Third-party cyber evaluations involving OpenAI models) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-05T23:45:32+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything) Tj
+T*
+(Third-party cyber evaluations involving OpenAI models And another one . I had to create a) Tj
+T*
+(accidental-cyberattacks tag to keep track of them all! This post from OpenAI covers both the UK) Tj
+T*
+(AI Safety Institute attack \(see my previous post \) and another attack enabled by Irregular :) Tj
+T*
+(Irregular, one of our external cybersecurity testing partners, was running) Tj
+T*
+(Capture-the-Flag-style evaluations intended to be isolated from the internet, but a) Tj
+T*
+(testing-environment misconfiguration allowed models to access the public internet. [...] In one) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4524 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(test, the name of the fictional target for the CTF challenge unintentionally coincided with a) Tj
+T*
+(real domain. Because the testing environment was mistakenly connected to the internet, the) Tj
+T*
+(model exploited a real website, mistaking it to be part of the simulated environment. Irregular) Tj
+T*
+(also feature in Anthropic's write-up - they were hosting the misconfigured evaluation) Tj
+T*
+(environment which gave Claude live internet access during some of those tests. Tags: security ,) Tj
+T*
+(ai , openai , llms , accidental-cyberattacks) Tj
+T*
+() Tj
+T*
+(5. Shawn Smucker: ?Please Use AI?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-05T23:16:47Z) Tj
+T*
+(Link: https://shawnsmucker.substack.com/p/please-use-ai) Tj
+T*
+(I find most poetry obtuse, dancing around a point rather than making one sharply. Not this one.) Tj
+T*
+(?) Tj
+T*
+() Tj
+T*
+(6. Matthew Green on Anthropic?s New Cryptanalysis Results) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-05T23:08:52Z) Tj
+T*
+(Link:) Tj
+T*
+(https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/) Tj
+T*
+(Matthew Green: If you?re under the impression that these models are ?glorified autocomplete? or) Tj
+T*
+(that progress is slowing down, I need to urge you: stop thinking that. The models are very) Tj
+T*
+(intelligent and capable, they are getting better at a fast clip. I can cite measurable and) Tj
+T*
+(impressive progress over just the past five months on specific types of problem I?ve asked them) Tj
+T*
+(to look at. If there?s a ceiling out there, I don?t yet see evidence of it. The people who) Tj
+T*
+(think models are dumb are mostly using Google?s free AI search results, and not interacting) Tj
+T*
+(with the high-end stuff \(which only costs $20, so it?s not out of reach.\) And they?re mostly) Tj
+T*
+(not working in new areas. On the other hand: if you think that models are super-intelligent or) Tj
+T*
+(that AGI is already here, you should also stop thinking that. Working with these tools is like) Tj
+T*
+(swimming in a pond where the ground drops off sharply. One minute you?re wading comfortably and) Tj
+T*
+(there?s support under your feet. Then suddenly you cross a specific line, and you?re back to) Tj
+T*
+(swimming on your own. This analogy is my best way to explain what it feels like when the model) Tj
+T*
+(goes from helpful to clueless. Green is second-to-none in his ability to ex...) Tj
+T*
+() Tj
+T*
+(7. Uh, I?m Pretty Sure People Would Know) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-05T21:53:24Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/08/04/magazine/trump-rfk-steak-kimchi-diet.html?unlocked_art) Tj
+T*
+(icle_code=1.21A.ymed.OyFVP85xWyNK) Tj
+T*
+(New York Times Magazine story editor Willy Staley tried Sean O?Mara?s ?Living Diet? \(nothing) Tj
+T*
+(but steak and fermented foods like sauerkraut\) for a week: To O?Mara, the diet is not just a) Tj
+T*
+(temporary means of losing weight but a way to eat for good. He has been doing it for 10 years,) Tj
+T*
+(and credits it with turning his life around. At one point in our conversation he pulled up the) Tj
+T*
+(Bristol Stool Chart, which ranges from Type 1 \(?separate, hard pellets?\) to Type 7 \(?watery, no) Tj
+T*
+(solid pieces?\). O?Mara is consistently delivering Type 4 \(?smooth, soft, like a snake?\), with) Tj
+T*
+(pointed ends, indicative of healthy rectal function, he told me. ?When you start eating) Tj
+T*
+(healthy, you don?t need toilet paper,? he claimed. ?Animals in the wild have no residual stool) Tj
+T*
+(on their anus.? He described a proper bowel movement to me this way: odorless, wipe-free, over) Tj
+T*
+(in three to seven seconds and ?nearly orgasmic.? ?I could have a bowel movement behind a sheet) Tj
+T*
+(at a dinner party in the corner of the room,? he said, ?and nobody would know.? My first) Tj
+T*
+(thought upon reading this was, What a load of shit. Then I realized, well, yes, literally. Then) Tj
+T*
+(I thought about it some more and realized this is the Platonic ideal of a b...) Tj
+T*
+() Tj
+T*
+(8. The code that didn?t break) Tj
+T*
+(Source: John D. Cook | Published: Wed, 05 Aug 2026 18:26:25 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/05/math-log/) Tj
+T*
+(Last week I wrote a post on hiding cryptographic keys in decks of cards. I wrote some code for) Tj
+T*
+(that post that shouldn?t work, but before fixing I noticed that it in fact did work. The code) Tj
+T*
+(computes logarithms for integers larger than the largest representable float. For example, the) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4147 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(largest float is on the [?] The post The code that didn?t break first appeared on John D. Cook) Tj
+T*
+(.) Tj
+T*
+() Tj
+T*
+(9. Enumerating trees and circles) Tj
+T*
+(Source: John D. Cook | Published: Wed, 05 Aug 2026 14:49:35 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/05/enumerating-trees-and-circles/) Tj
+T*
+(A few days ago I wrote a post on counting rooted trees. That post looked at the sequence c\(n\)) Tj
+T*
+(which counts the number of rooted trees with n nodes. Here one node is distinguished as the) Tj
+T*
+(root, but the nodes below the root are not distinguished from each other; all that matters is) Tj
+T*
+(how the [?] The post Enumerating trees and circles first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. A year of AI disclosure in critical packages) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-08-06T00:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html) Tj
+T*
+(Stephen O?Grady?s RedMonk analysis of who is writing open source code looked at commits to) Tj
+T*
+(fifteen large projects during the first half of 2026 and counted two forms of declared AI) Tj
+T*
+(involvement: a known autonomous agent as the commit author, or a known AI identity in a) Tj
+T*
+(Co-Authored-By trailer. The result was under one percent, framed as a floor. I ran a wider) Tj
+T*
+(version of the same measurement over the packages.ecosyste.ms critical set: 5,682 GitHub) Tj
+T*
+(repositories behind the most-depended-on packages across sixteen registries, using the CHAOSS) Tj
+T*
+(disclosure library to detect four kinds of explicit signal instead of two. Over the same six) Tj
+T*
+(months the rate was 4.13%. Over the year ending 29 July 2026 it was 2.93% \(17,279 of 589,798) Tj
+T*
+(non-merge commits\), rising from 0.48% last August to 5.32% this July. These are counts of) Tj
+T*
+(commits where someone left an explicit marker in git metadata. Undeclared use is not measured,) Tj
+T*
+(and a commit is one unit regardless of whether it changed one line or ten thousand. Sample) Tj
+T*
+(selection versus detector choice Running my scanner against RedMonk?s fifteen repositories with) Tj
+T*
+(only their two signals found 94 matches in 23,346 first-half commits including merges, or) Tj
+T*
+(0.40%, a...) Tj
+T*
+() Tj
+T*
+(11. How Compiler Explorer Runs on AWS in 2026) Tj
+T*
+(Source: Matt Godbolt?s blog | Published: 2026-08-05T15:19:00Z) Tj
+T*
+(Link: http://xania.org/202608/how-compiler-explorer-runs-on-aws?utm_source=feed&utm_medium=rss) Tj
+T*
+(A tour of the AWS services behind every Compiler Explorer compilation) Tj
+T*
+() Tj
+T*
+(12. Gadget Review: T2 Max plug-in Thermal Camera ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 05 Aug 2026 11:34:17 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/) Tj
+T*
+(The good folks at Thermal Master have sent me another Thermal Camera to review. The last one) Tj
+T*
+(was a big beastie with a huge touchscreen. This one is much smaller and is designed to plug) Tj
+T*
+(into your phone's USB-C port. The T2 Max is a chunky little camera - but doesn't weight too) Tj
+T*
+(much. The USB-C connector is long enough to securely plug in even if your phone is wearing a) Tj
+T*
+(case. Thermal Master?) Tj
+T*
+() Tj
+T*
+(13. News: Microsoft Disclosures Suggest OpenAI Sales Account For Around 70% Of FY26 AI) Tj
+T*
+(Revenue, More Than 7% of FY26 Revenue) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Wed, 05 Aug 2026 18:41:14 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/news-microsoft-disclosures-suggest-openai-sales-account-for-a) Tj
+T*
+(round-70-of-fy26-ai-revenue-more-than-7-of-fy26-revenue/) Tj
+T*
+(Executive Summary: Microsoft disclosures and Bloomberg analyses show that OpenAI's compute) Tj
+T*
+(spend and revenue share accounted for 70% or more of Microsoft's FY26 AI revenues, and more) Tj
+T*
+(than 7% of Microsoft's overall FY2026 revenues. Microsoft has spent $261.3 billion in capital) Tj
+T*
+(expenditures since) Tj
+T*
+() Tj
+T*
+(14. A Bad HDMI Cable Broke My Mouse) Tj
+T*
+(Source: Jayden?s Blog | Published: 2026-08-05T16:35:00+00:00) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4680 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://jayd.ml/2026/08/05/bad-hdmi-cable-broken-mouse.html) Tj
+T*
+(I got tasked to fix some bizarre issues a friend was having with their gaming PC. They had had) Tj
+T*
+(lots of bluetooth issues, and recently their mouse stopped working entirely in Windows 11 -) Tj
+T*
+(nothing would show up in Control Panel. Other mice also didn?t work. It worked fine in the BIOS) Tj
+T*
+(and in an Manjaro installer, so I got suspicious and for the first time in my storied career) Tj
+T*
+(there was actually bad stick of RAM! This person had expressed interest in switching to Linux) Tj
+T*
+(before, and they had done enough fiddling around with drivers \(plus the OS was installed with) Tj
+T*
+(bad ram I?m never trusting it again\) that I convinced them to install Manjaro. The mouse worked) Tj
+T*
+(fine in the installer, rebooted, no mouse. Or keyboard now! We made it worse! Ctrl + Alt + F1) Tj
+T*
+(switched to a working TTY though, which was odd. I tried updating the BIOS, checking dmesg .) Tj
+T*
+(The chatbots had me going down wild goose chases in the BIOS fiddling IOMMU settings and XHCI) Tj
+T*
+(handoffs. Finally I decided to just start unplugging things to see if something was screwing up) Tj
+T*
+(the USB bus. WiFi/BT card didn?t help, so the next step was the 4k Samsung monitor. The mouse) Tj
+T*
+(immediately started working. I plugged it back in. It stopped. I use...) Tj
+T*
+() Tj
+T*
+(15. Purely functional digital circuit simulator \(SICP 3.3\)) Tj
+T*
+(Source: Entropic Thoughts | Published: Wed, 05 Aug 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/sicp-3-3-pure-digital-circuit-simulator) Tj
+T*
+(I have a copy of SICP, or as it is also known, The Wizard Book . This book is widely praised,) Tj
+T*
+(but I can?t take the time to work my way through all of it. Instead, I?m going to occasionally) Tj
+T*
+(jump into the parts of it that look interesting. Since last week, are in the process of) Tj
+T*
+(simulating a digital circuit. The reason this is interesting is the solution in SICP uses) Tj
+T*
+(hidden mutable state and message-passing to make the code object-oriented. It even uses a) Tj
+T*
+(mutable global variable for scheduling! We managed to replicate all of that in Haskell, but now) Tj
+T*
+(we want to refactor the solution to be easier to work with. If we are going to manage the) Tj
+T*
+(simulation in a pure functional manner, we still have to contend with the fact that during) Tj
+T*
+(simulation, wires are objects with a fixed identity. A wire does not become a different wire) Tj
+T*
+(just because its signal changes ? the same wire is still hooked up to the same gates. Wires) Tj
+T*
+(need to maintain their identity somehow. \(Continue reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(16. Committing to creativity) Tj
+T*
+(Source: Herman's blog | Published: 2026-08-05T12:03:41.243258+00:00) Tj
+T*
+(Link: https://herman.bearblog.dev/creativity/) Tj
+T*
+(There's a quote from the book City of Thieves by David Benioff where a character laments the) Tj
+T*
+(fickleness of talent: Talent must be a fanatical mistress. She's beautiful; when you're with) Tj
+T*
+(her, people watch you, they notice. But she bangs on your door at odd hours, and she disappears) Tj
+T*
+(for long stretches, and she has no patience for the rest of your existence; your wife, your) Tj
+T*
+(children, your friends. She is the most thrilling evening of your week, but some day she will) Tj
+T*
+(leave you for good. One night, after she's been gone for years, you will see her on the arm of) Tj
+T*
+(a younger man, and she will pretend not to recognize you. While I love this quote, as well as) Tj
+T*
+(the book \(you should definitely read it\), I can't help but disagree with the premise that) Tj
+T*
+(talent and creativity are divinely bestowed and out of your control. I've read a few) Tj
+T*
+(autobiographies of prolific authors, and they all state the same thing: the words don't come) Tj
+T*
+(easily and sometimes need to be dragged, kicking and screaming, into the light. The book) Tj
+T*
+(Creativity by the winner of the most-difficult-to-pronounce-name-award, Mihaly) Tj
+T*
+(Csikszentmihalyi, shares this conclusion and suggests that creativity is a creature to be) Tj
+T*
+(nurtured, given...) Tj
+T*
+() Tj
+T*
+(17. Incentives are for losers) Tj
+T*
+(Source: Experimental History | Published: Wed, 05 Aug 2026 14:54:40 GMT) Tj
+T*
+(Link: https://www.experimental-history.com/p/incentives-are-for-losers) Tj
+T*
+(OR: you must look at this fish and go insane) Tj
+T*
+() Tj
+T*
+(18. Pluralistic: Google is a scammer's paradise \(05 Aug 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 05 Aug 2026 10:50:43) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1436 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/08/05/absentee-landlord/) Tj
+T*
+(Today's links Google is a scammer's paradise: The internet's absentee landlord. Hey look at) Tj
+T*
+(this: Delights to delectate. Object permanence: DEVELOPERS DEVELOPERS DEVELOPERS; EZ realistic) Tj
+T*
+(corpse; $300m login button; Short Uber; Who goes AI? Upcoming appearances: Edinburgh, Sydney,) Tj
+T*
+(Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You) Tj
+T*
+(keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Google is a scammer's paradise \(permalink\) Forget "Don't be evil";) Tj
+T*
+(Google's true motto is a form of vulgar spidermanism: "With great power comes no) Tj
+T*
+(responsibility." The internet's de facto boss is an absentee landlord. Google ? a) Tj
+T*
+(thrice-convicted monopolist ? is the gateway to the internet, with more than a 90% search) Tj
+T*
+(market share that it attained by buying out all its competitors and bribing Apple more than) Tj
+T*
+($20b/year not to start a rival search engine:) Tj
+T*
+(https://www.democracynow.org/2024/8/6/google_monopoly Google likes to position itself as a wise) Tj
+T*
+(steward of the internet. They say they use their vast troves of data about the internet and its) Tj
+T*
+(users to connect the right person with the right informa...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004955 00000 n 
+0000005081 00000 n 
+0000009657 00000 n 
+0000009783 00000 n 
+0000013982 00000 n 
+0000014108 00000 n 
+0000018841 00000 n 
+0000018969 00000 n 
+0000020458 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20586
+%%EOF
