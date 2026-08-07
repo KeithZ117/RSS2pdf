@@ -1,0 +1,428 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4443 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-07 11:49:58) Tj
+T*
+() Tj
+T*
+(1. datasette 1.0a38) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-06T18:24:34+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/6/datasette/#atom-everything) Tj
+T*
+(Release: datasette 1.0a38 This release fixes a SQL injection security issue that affects) Tj
+T*
+(Datasette instances that serve a mixture of public and private tables in the same database,) Tj
+T*
+(with access configured using the Datasette permissions system . Site administrators who serve) Tj
+T*
+(private tables in this way are advised to disable the execute-sql permission ` on that database) Tj
+T*
+(to prevent users from accessing private tables using raw SQL queries. The bug that has been) Tj
+T*
+(fixed would have allowed users with access to any public table to execute SQL injection attacks) Tj
+T*
+(despite that restriction, giving them read-only access to data in private tables in the same) Tj
+T*
+(database. This fix is also available in Datasette 0.65.3 . Thankfully this particular) Tj
+T*
+(configuration - private tables and public tables exposed for the same database within the same) Tj
+T*
+(instance - is likely to be rare. I've not encountered an instance like that myself. Tags:) Tj
+T*
+(security , sql-injection , datasette) Tj
+T*
+() Tj
+T*
+(2. datasette 0.65.3) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-06T18:22:07+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything) Tj
+T*
+(Release: datasette 0.65.3 Back-ported the SQL Injection security fix from 1.0a38 . Tags:) Tj
+T*
+(datasette) Tj
+T*
+() Tj
+T*
+(3. Simon Willison on Technical Blogging) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-06T18:04:39+00:00) Tj
+T*
+(Link:) Tj
+T*
+(https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything) Tj
+T*
+(Simon Willison on Technical Blogging I was interviewed by Cynthia Dunlop for her "Write that) Tj
+T*
+(blog!" series back in January, but I just realized I never linked to the interview from my own) Tj
+T*
+(blog! It includes my answers to the following questions: Why did you start blogging ? and why) Tj
+T*
+(do you continue? What has been the most surprising impact of blogging for you? What blog post) Tj
+T*
+(are you most proud of and why? What post was the most difficult to write and how did you tackle) Tj
+T*
+(it? Any lessons learned that you want to share with the community? Your advice for people just) Tj
+T*
+(getting started with blogging? A few blogs that you particularly enjoy? I'll repeat my most) Tj
+T*
+(important piece of advice here: My number one tip for blogging is to lower your standards! Aim) Tj
+T*
+(to hit publish while you are still actively unhappy with what you have written, because the) Tj
+T*
+(only alternative is a huge folder full of drafts and never publishing anything at all. Nobody) Tj
+T*
+(will ever know how perfect the thing you intended to write would have been. The flaws you see) Tj
+T*
+(in your writing are invisible to everyone else. Tags: blogging , interviews) Tj
+T*
+() Tj
+T*
+(4. Gurman on OpenAI?s Device: ?A Doughnut-Shaped Speaker That Costs Over $300?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-06T23:47:32Z) Tj
+T*
+(Link: https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-sha) Tj
+T*
+(ped-speaker-that-costs-over-300?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOi) Tj
+T*
+(JTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0NjY3NSwiZXhwIjoxNzg2NjUxNDc1LCJhcnRpY2xlSWQiO) Tj
+T*
+(iJUSjlNQ01UOU5KTFUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pj0oCNz) Tj
+T*
+(7Ez90rn67tMWib-ed2PxcUAhAG2-hlVQ_DRg&leadSource=article-gifting) Tj
+T*
+(Mark Gurman, reporting for Bloomberg \(gift link\): OpenAI expects users to rely on the smart) Tj
+T*
+(speaker throughout the day. It will work similarly to the company?s ChatGPT voice mode on) Tj
+T*
+(smartphone apps, but with more advanced models for humanlike interactivity. The device is) Tj
+T*
+(designed to learn more about a user over time, letting it tailor conversations and act more) Tj
+T*
+(like a real person. The circle-shaped device will include parts that move on their own,) Tj
+T*
+(according to the people. That will help show when it?s responding and interacting with the) Tj
+T*
+(user. The goal is to make the object feel more alive than today?s stationary speaker products.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4306 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(The product will have speaker grills and microphones for fielding commands and conversing with) Tj
+T*
+(users. The battery-powered item will be designed to work in different positions ? in a user?s) Tj
+T*
+(hand, say, or placed on a nightstand or kitchen counter. OpenAI is also planning to include) Tj
+T*
+(lights on the device to demonstrate when it?s listening and make interactions feel more) Tj
+T*
+(personal. A camera system and other sensors, meanwhile, will perceive the surrounding) Tj
+T*
+(environment and feed visual information into the AI. This doesn?t sound like a ?smart speaker?) Tj
+T*
+(with lights...) Tj
+T*
+() Tj
+T*
+(5. OpenAI Files 28-Page Motion to Dismiss Apple?s Lawsuit \(PDF Link\)) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-06T21:13:04Z) Tj
+T*
+(Link: https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095) Tj
+T*
+(.59.0.pdf) Tj
+T*
+(This is more like it. No mealymouthing or wishy-washiness here. This is a strident defense.) Tj
+T*
+(I?ll quote just one line for now: Apple offers nothing because it has nothing because there is) Tj
+T*
+(nothing. Its Complaint cannot and does not state a misappropriation claim against Defendant) Tj
+T*
+(Tan. I?ll post more thoughts later, but if you?re following this lawsuit, you should read) Tj
+T*
+(OpenAI?s motion yourself. It?s cogently written, not mired in legalese. Legalese is generally a) Tj
+T*
+(sign of shitty lawyers. The law is meant to be practiced by lawyers, but understood by) Tj
+T*
+(everyone. The law is not a priesthood; motions in a lawsuit are not holy texts reserved for the) Tj
+T*
+(sainted few. What boggles my mind is that almost none of the outlets reporting on this today) Tj
+T*
+(linked to OpenAI?s actual motion. \(Kudos to Jess Weatherbed of The Verge, who did .\) Summaries) Tj
+T*
+(are necessary and commentary is good, but for chrissake link to the source document. ?) Tj
+T*
+() Tj
+T*
+(6. Brendan Leonard: ?Do It 14,000 Times Slower With This One Trick?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-06T20:23:52Z) Tj
+T*
+(Link: https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/) Tj
+T*
+(This comic from Brendan Leonard is a fine companion to yesterday?s items \( here and here \) on) Tj
+T*
+(pausing to consider if our use of AI is helping us focus our time on what we love to do, or,) Tj
+T*
+(instead, robbing us of the things that make us human. The bit about making a sandwich hit close) Tj
+T*
+(enough to home for me to make me laugh aloud. ?) Tj
+T*
+() Tj
+T*
+(7. Creating a fake agile wrapper that is technically agile but is not useful outside its) Tj
+T*
+(home apartment, part 3) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 05 Aug 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260805-00/?p=112591) Tj
+T*
+(Forcing an object into the global interface table. The post Creating a fake agile wrapper that) Tj
+T*
+(is technically agile but is not useful outside its home apartment, part 3 appeared first on The) Tj
+T*
+(Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Canadian Man Pleads Guilty in Snowflake Extortions) Tj
+T*
+(Source: Krebs on Security | Published: Thu, 06 Aug 2026 17:00:56 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/) Tj
+T*
+(A 26-year-old Canadian man once described as one of the most consequential cybercrime threat) Tj
+T*
+(actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than) Tj
+T*
+(165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of) Tj
+T*
+(Kitchener, Ontario, also admitted to stealing call and text history records of more than 100) Tj
+T*
+(million AT&T customers.) Tj
+T*
+() Tj
+T*
+(9. Zig's Io.Threaded is Neat) Tj
+T*
+(Source: matklad | Published: 2026-08-06T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/08/06/neat-io-threaded.html) Tj
+T*
+(std.Io.Threaded is one of the implementations of Zig's new Io interface that enables) Tj
+T*
+(concurrency. This is a boring just use threads impl. I personally find it neat though --- it) Tj
+T*
+(does this weird thing that I wanted to do for ages, that to my knowledge no one else is doing) Tj
+T*
+(properly, and implements it better than I thought to be possible.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4155 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(10. Calculating log\(1000!\)) Tj
+T*
+(Source: John D. Cook | Published: Thu, 06 Aug 2026 13:23:43 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/06/log1000/) Tj
+T*
+(The previous post pointed out that the following code such as the following unexpectedly works.) Tj
+T*
+(>>> from math import log, factorial >>> log\(factorial\(1000\)\) 5912.128178488163 If you don?t) Tj
+T*
+(find this unexpected, note that if you replace math.log with numpy.log the code will fail [1].) Tj
+T*
+(Functions like natural logarithm operate on real numbers. Real numbers are represented [?] The) Tj
+T*
+(post Calculating log\(1000!\) first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. SigV4 authentication is surprisingly complicated) Tj
+T*
+(Source: Xe Iaso's blog | Published: Thu, 06 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://www.tigrisdata.com/blog/sigv4/) Tj
+T*
+(SigV4 looks simple: sign a request, check the signature. Then you implement canonicalization,) Tj
+T*
+(clock skew, and a cache that isn't allowed to hold your key. Tigris is a drop-in replacement) Tj
+T*
+(for AWS S3 \(or GCS, anything S3API compatible\). As such, we need to be fully compatible with) Tj
+T*
+(both the mechanisms and semantics of S3 including the SigV4 authentication protocol . This is) Tj
+T*
+(the lingua franca of authentication in the object storage landscape; even Google Cloud Storage) Tj
+T*
+(has a way to enable SigV4 support so you can use existing applications against its object) Tj
+T*
+(storage service. At first I thought that SigV4 was fairly simple. Clients sign requests,) Tj
+T*
+(servers do the same work and make sure the result matches. The main sticking point is that the) Tj
+T*
+(cryptography involved is symmetric cryptography, the kind where both parties need to have the) Tj
+T*
+(same secrets. This makes some scaling issues weird, but we'll get into that in the future. Note) Tj
+T*
+(This is only going to be talking about authentication \(ensuring the identity of a remote) Tj
+T*
+(client\), not authorization \(ensuring the client has the permission to do something\).) Tj
+T*
+(Authorization will come in the future for reasons that will become obvious when you see that...) Tj
+T*
+() Tj
+T*
+(12. What Will the 21st Century ROAD to Housing Act Do for Housing Supply?) Tj
+T*
+(Source: Construction Physics | Published: Thu, 06 Aug 2026 12:02:32 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/what-will-the-21st-century-road-to) Tj
+T*
+(A few weeks ago the 21st Century ROAD to Housing Act became law. This is an enormous housing) Tj
+T*
+(bill that?s been in the works for roughly a year ? I first discussed it on Statecraft back in) Tj
+T*
+(2025 ? and folks are optimistic that it will, per its description, ?increase the supply of) Tj
+T*
+(housing in America.?) Tj
+T*
+() Tj
+T*
+(13. The Contracting Circle) Tj
+T*
+(Source: Fernando Borretti | Published: Fri, 07 Aug 2026 00:00:00 +0000) Tj
+T*
+(Link: https://borretti.me/article/the-contracting-circle) Tj
+T*
+(Why don't we believe LLMs are people?) Tj
+T*
+() Tj
+T*
+(14. The Earnest Era Ends) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-08-06T18:19:21Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17404612/glen-hansard-passing-reflection) Tj
+T*
+(When we lost Glen Hansard last week, his work still fresh and lively, it was a reminder that) Tj
+T*
+(the world has changed more than we think it has.) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: Eternal Sloptember \(06 Aug 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 06 Aug 2026 10:07:06) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/08/06/sin-is-when/) Tj
+T*
+(Today's links Eternal Sloptember: Mark Zuckerberg and the fantasy of social media without) Tj
+T*
+(socializing. Hey look at this: Delights to delectate. Object permanence: Delany x The Onion;) Tj
+T*
+(Duran Duran x Second Life; Spammers x blog pings; Privacywashing v Doordash; Good ideas are) Tj
+T*
+(popular. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend.) Tj
+T*
+(Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 852 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Eternal Sloptember) Tj
+T*
+(\(permalink\) I'm sure that working in social media ? dealing with people as mass statistical) Tj
+T*
+(abstractions ? is a cognitohazard, the sort of thing that could make anyone a little) Tj
+T*
+(solipsistic, convinced that everyone else is a kind of stimulus-responding automaton lacking) Tj
+T*
+(the interiority that you yourself experience. But when it comes to Mark Zuckerberg, I'm) Tj
+T*
+(increasingly convinced that he didn't acquire his worldview through the self-inflicted brain) Tj
+T*
+(damage of his long exposure to the back-end of a vast social media system. I think the causal) Tj
+T*
+(arrow points in the other direction: I think that Zuck founded Facebook because he doesn't) Tj
+T*
+(really...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004705 00000 n 
+0000004831 00000 n 
+0000009189 00000 n 
+0000009315 00000 n 
+0000013522 00000 n 
+0000013648 00000 n 
+0000014552 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14680
+%%EOF
