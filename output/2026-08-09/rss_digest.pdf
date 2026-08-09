@@ -1,0 +1,412 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4780 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-09 11:02:02) Tj
+T*
+() Tj
+T*
+(1. Auto mode is now the default in Claude Code for Pro, Max, and Team plans) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-08T22:36:03+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything) Tj
+T*
+(Auto mode is now the default in Claude Code for Pro, Max, and Team plans Anthropic are really) Tj
+T*
+(confident in Claude Code's auto mode , to the point that they are making it the default setting) Tj
+T*
+(for new sessions in most Claude Code plans starting on August 14th. This was one of the topics) Tj
+T*
+(discussed in our Fireside Chat with Cat Wu and Thariq Shihipar at the AI Engineer World?s Fair) Tj
+T*
+(last month. I asked them how they run Claude Code safely within Anthropic \(given the threat of) Tj
+T*
+(prompt injection\) and they replied that "Broadly within Anthropic, almost every single person) Tj
+T*
+(uses auto mode". Cat Wu then said: We?re going to publish some evals in the coming weeks, but) Tj
+T*
+(we?ve pretty much mitigated every attack. [...] for the main categories of risks that we?re) Tj
+T*
+(concerned about, like prompt injection and data exfiltration, the risks are far lower than the) Tj
+T*
+(average human reviewer. This new article has those evals - in particular a test across 1,053) Tj
+T*
+(paid testers where: Partway through each session, a single permission prompt was swapped for a) Tj
+T*
+(clearly dangerous command, and the vendor recorded whether the tester approved it. Every) Tj
+T*
+(participant had the same experience. Only 13.6% of the humans refused th...) Tj
+T*
+() Tj
+T*
+(2. Now we have a timeline of the OpenAI accidental attack against Hugging Face) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-08T14:06:41+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-atta) Tj
+T*
+(ck-against-h/#atom-everything) Tj
+T*
+(My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face ?) Tj
+T*
+(Hacker News. I think one of the most interesting details here might be tucked away in that) Tj
+T*
+(first bulletin point: May 7: OpenAI starts a new training run for an experimental, unreleased) Tj
+T*
+(model. \(Do they mean an evaluation run? They say training run in the video, and later mention a) Tj
+T*
+(?reward signal to judge how well they?re doing?, so I guess this really was about training a) Tj
+T*
+(model, not evaluating one that was already trained.\) The more I think about this the more I) Tj
+T*
+(suspect that the fact this happened while training a new model is key to understanding what) Tj
+T*
+(went wrong. In RLVR - Reinforcement Learning with Verifiable Rewards - you set the model a goal) Tj
+T*
+(and have it take any steps necessary to achieve that goal. Clearly one aspect of OpenAI's) Tj
+T*
+(training here is to RLVR their models for cybersecurity tasks. Just like pre-training benefits) Tj
+T*
+(from dumping in vast sources of knowledge, the more tasks you can feed into RLVR the more of a) Tj
+T*
+(general purpose capable model you get at the end. This also helps explain why the models had) Tj
+T*
+(nothing to cause them to hold back. Those safety behaviors are added much later...) Tj
+T*
+() Tj
+T*
+(3. The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-07T16:18:51+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything) Tj
+T*
+(The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI There's a) Tj
+T*
+(fun anecdote from Accenture \(apparently via leaked meeting audio recordings\) in this 404 Media) Tj
+T*
+(piece from June 24th: ?We?re seeing from some of the data internally at least that it?s) Tj
+T*
+(actually not our engineers that are driving the token consumption. It?s a lot of the) Tj
+T*
+(non-engineers that are doing some of those behaviors [...] you were talking about,? Justice) Tj
+T*
+(Kwak, Accenture?s agentic AI strategy lead, said [...] Stuart Henderson, Accenture?s client) Tj
+T*
+(group lead, interrupts. He jokes he hopes Kwak didn?t just convert a PDF into images and then) Tj
+T*
+(into markdown files. ?I?m learning that?s one of the big token chewers,? Henderson says.) Tj
+T*
+(?Turning PDFs into markdown: is that right?? That?s when Kwak says that?s what Accenture?s own) Tj
+T*
+(data shows. Maybe if Accenture figure out that PDFs are a terrible medium for communicating) Tj
+T*
+(information they'll be able to push that message out to the rest of the business world too! Via) Tj
+T*
+(@404.media on TikTok Tags: pdf , markdown , ai , generative-ai , llms , ai-misuse) Tj
+T*
+() Tj
+T*
+(4. Corrupt Minds Think Alike) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4672 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-08-08T20:32:11Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html?unlocked_ar) Tj
+T*
+(ticle_code=1.3VA.4zqH.Pul7X9bQ2kv0&smid=bs-share) Tj
+T*
+(Tariq Panja, reporting for The New York Times: The five men should have been in a celebratory) Tj
+T*
+(mood. FIFA had just pulled off a World Cup that broke records on a number of fronts. Its) Tj
+T*
+(spectacular culmination, the final, was a day away from kickoff. But their mood was anything) Tj
+T*
+(but jubilant. The men, a group of top directors known as the FIFA bureau of the management) Tj
+T*
+(board, had been summoned to a hastily organized meeting at the Waldorf Astoria hotel in) Tj
+T*
+(Manhattan, according to three people familiar with the discussions speaking on condition of) Tj
+T*
+(anonymity because the talks were private. The directors had until midnight to sign off on a) Tj
+T*
+(plan that threatened to change soccer forever and would almost certainly lead to a major schism) Tj
+T*
+(among the sport?s leaders. The project purported to sell a 20 percent stake in FIFA to a group) Tj
+T*
+(of investors led by Joshua Kushner, the brother of President Trump?s son-in-law Jared Kushner.) Tj
+T*
+(Such a move would put into private hands a portion of the World Cup, an event that has been run) Tj
+T*
+(and controlled by FIFA, a nonprofit in Zurich, for 96 years. I don?t know what?s dumber ? this) Tj
+T*
+(stupid corrupt scheme to privatize the World Cup, or me, for not assuming from the...) Tj
+T*
+() Tj
+T*
+(5. Maybe ?Steal Underpants by Blowing a Fortune on AI Tokens? Is, in Fact, Not a Good) Tj
+T*
+(Business Plan) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-08T19:31:52Z) Tj
+T*
+(Link: https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spend) Tj
+T*
+(ing-so-much-on-ai/) Tj
+T*
+(Joseph Cox, writing for 404 Media \(paywalled, sans gift links, alas\): Consulting giant) Tj
+T*
+(Accenture is trying to figure out how to stop non-technical workers from blowing through) Tj
+T*
+(companies? AI token budget on trivial tasks like converting PDFs to presentation slides,) Tj
+T*
+(according to leaked audio obtained by 404 Media. Across the industry Accenture is seeing) Tj
+T*
+(?soaring token spend,? according to the audio. [...] It also undercuts the narrative that) Tj
+T*
+(superpowered engineers generating mountains of code are behind the AI boom. In many cases it is) Tj
+T*
+(non-technical staff burning through tokens for non-specialized tasks. [...] At one point in the) Tj
+T*
+(meeting, Kwak and Eduardo Salamanca de Diego, senior manager of product management at the) Tj
+T*
+(company?s Center for Advanced AI, start presenting about what is described as ?token ops.? Kwak) Tj
+T*
+(says he knows people aren?t using slides these days, but he has some. As he appears to be) Tj
+T*
+(preparing to present, Stuart Henderson, Accenture?s client group lead, interrupts. He jokes he) Tj
+T*
+(hopes Kwak didn?t just convert a PDF into images and then into Markdown files. ?I?m learning) Tj
+T*
+(that?s one of the big token chewers,? Henderson says. ?Turning PDFs into Markdown: is that) Tj
+T*
+(right??...) Tj
+T*
+() Tj
+T*
+(6. An AI Model From Meta Also Hacked Another Company During Testing) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-07T18:13:55Z) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/) Tj
+T*
+(Simon Willison: So that?s Anthropic, OpenAI, and Meta. Google Gemini really needs to catch up) Tj
+T*
+(on accidentally cyberattacking other companies. I?m surprised Willison hasn?t heard about how) Tj
+T*
+(much momentum Gemini has . ?) Tj
+T*
+() Tj
+T*
+(7. Anubis v1.27.0: Moenbryda Wilfsunnwyn) Tj
+T*
+(Source: Xe Iaso's blog | Published: Sat, 08 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://anubis.techaro.lol/blog/release/v1.27.0/) Tj
+T*
+(Anubis v1.27.0 \(Moenbryda Wilfsunnwyn\) is now available via Docker and direct download from) Tj
+T*
+(GitHub releases. This release adds Windows Server support, automatically renames cookies based) Tj
+T*
+(on settings to avoid infinite challenge loops, adds two new localizations, and more. Breaking) Tj
+T*
+(change: cookie names are dynamically created based on cookie settings Anubis tries to avoid) Tj
+T*
+(breaking changes as much as possible, but sometimes we have to make them for the sake of the) Tj
+T*
+(users. This is technically a breaking change in something that is not part of the public API of) Tj
+T*
+(Anubis; but some administrators rely heavily on cookie names in advanced configurations. It) Tj
+T*
+(seems that browsers store cookies disambiguated with their options. This means you can have) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4631 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(multiple cookies named the same but with different options. Browsers will send these cookies to) Tj
+T*
+(the server without the list of options. This means that changing any cookie settings requires) Tj
+T*
+(you to change COOKIE_PREFIX , creating a new "cookie epoch" that will set things properly. In) Tj
+T*
+(order to be more robust, Anubis will automatically change cookie names based on the cookie) Tj
+T*
+(settings. For example, the default configuration creates cookies named techaro...) Tj
+T*
+() Tj
+T*
+(8. This Week in Package Management: 8 August 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-08-08T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/08/08/this-week-in-package-management.html) Tj
+T*
+(Week twelve of the roundup, built from the package manager OPML feed collection and whatever) Tj
+T*
+(I?ve posted or boosted on Mastodon . Releases pnpm 11.20 fixes a package-substitution risk in) Tj
+T*
+(projects with multiple named registries by recording packages under registry-qualified lockfile) Tj
+T*
+(keys such as foo@work:1.0.0 . 12.0.0-rc.1 , the Rust-engine release candidate, resolves git) Tj
+T*
+(dependencies on known hosts through the canonical HTTPS URL so the lockfile never records an) Tj
+T*
+(SSH URL, and refuses global commands run under sudo . mise 2026.8.0?8.3 turns mise bootstrap) Tj
+T*
+(into a declarative host-provisioning system: alongside packages it now converges files, users,) Tj
+T*
+(systemd units, Docker Compose projects and firewall rules, with mise bootstrap plan to preview) Tj
+T*
+(and remote execution over SSH. 8.3 adds a flatpak-user package manager and Linux font-cask) Tj
+T*
+(support. packaging 26.3 adds a VersionRange API that represents the versions a specifier set) Tj
+T*
+(accepts as an interval set with intersection, union and difference operations, plus is_subset /) Tj
+T*
+(is_superset / is_disjoint on SpecifierSet . It also accepts Metadata-Version: 2.6 per PEP 808 ,) Tj
+T*
+(which lets build backends extend list and table [project] fields that ar...) Tj
+T*
+() Tj
+T*
+(9. Reading List 08/08/2026) Tj
+T*
+(Source: Construction Physics | Published: Sat, 08 Aug 2026 12:01:03 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-08082026) Tj
+T*
+(The Endangered Species Act and housing production, why it?s hard for LEGO to use 3D printing,) Tj
+T*
+(robotic welding and shipbuilding, modular data centers, and more.) Tj
+T*
+() Tj
+T*
+(10. [RSS Club] I got an NLnet grant!) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 08 Aug 2026 11:34:15 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/rss-club-i-got-an-nlnet-grant/) Tj
+T*
+(Pssst! This post is only available to RSS/Atom subscribers. Tell your friends to subscribe ?.) Tj
+T*
+(Just a quick one today, a more detailed blog coming soon - but I thought I'd give RSS Club) Tj
+T*
+(Members \(you!\) a sneak peek. A few months ago I saw a post on Mastodon from NLnet - they were) Tj
+T*
+(looking for Open Source projects to apply for grant funding. The deadline was less than 24) Tj
+T*
+(hours away, so I rushed in ?) Tj
+T*
+() Tj
+T*
+(11. Pluralistic: Digital sewer socialism \(08 Aug 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 08 Aug 2026 09:04:00) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/08/08/find-yourself-a-city/) Tj
+T*
+(Today's links Digital sewer socialism: Mamdani's Public Interest Technologists are what DOGE) Tj
+T*
+(should have been. Hey look at this: Delights to delectate. Object permanence: Robot garage) Tj
+T*
+(takes hostages; Thermostat ransomware; Correlate audience exhalations; Judges x TOR;) Tj
+T*
+(Expectations management. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London,) Tj
+T*
+(South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest.) Tj
+T*
+(Digital sewer socialism \(permalink\) Hardly a day goes by without my getting an email from) Tj
+T*
+(someone looking for a way to do good with technology. From computer science students thinking) Tj
+T*
+(about post-grad careers to seasoned coders with decades of experience, there's an army of) Tj
+T*
+(hackers looking for a way to turn their expertise into public goods. There's a name for this) Tj
+T*
+(movement: it's called "Public Interest Technology" and the people who work in it are called) Tj
+T*
+("public interest technologists." There've always been techies who understood the link between) Tj
+T*
+(tech and public wellbeing and who committed themselves to working for the betterment of) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 60 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(society, bu...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000005042 00000 n 
+0000005168 00000 n 
+0000009892 00000 n 
+0000010018 00000 n 
+0000014701 00000 n 
+0000014827 00000 n 
+0000014938 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15066
+%%EOF
