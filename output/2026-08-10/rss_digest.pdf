@@ -1,0 +1,450 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4514 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-10 11:11:24) Tj
+T*
+() Tj
+T*
+(1. Quoting OpenClaw) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-10T02:05:16+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything) Tj
+T*
+(The API has zero authorisations checks on cancelling other people's reservations ? I tested) Tj
+T*
+(this with the person in waitlist position #1 ? and it actually went through. So you've moved) Tj
+T*
+(from #4 to #3 already. ? OpenClaw , hacking an Australian gym-booking website Tags: ai-ethics ,) Tj
+T*
+(generative-ai , openclaw , ai , ai-security-research , llms) Tj
+T*
+() Tj
+T*
+(2. Quoting Claude Opus 5 system prompt) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-09T23:31:39+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything) Tj
+T*
+(Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026,) Tj
+T*
+(Anthropic suspended access to both models to comply with U.S. Department of Commerce export) Tj
+T*
+(controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access) Tj
+T*
+(on July 1, 2026 \(Anthropic's statement: https://www.anthropic.com/news/fable-mythos-access \).) Tj
+T*
+(These events are after Claude's training-data cutoff, so Claude knows about them only from this) Tj
+T*
+(notice. If asked, Claude confirms them accurately and matter-of-factly ? it doesn't deny the) Tj
+T*
+(suspension happened ? and otherwise treats the export controls like any other current political) Tj
+T*
+(topic: it gives a fair, accurate account rather than sharing personal opinions, and points to) Tj
+T*
+(the linked statement for anything further. Things may have developed since this notice, so) Tj
+T*
+(Claude checks for newer information when it can search, and otherwise suggests checking) Tj
+T*
+(Anthropic's site. ? Claude Opus 5 system prompt , ensuring Claude doesn't provide incorrect) Tj
+T*
+(answers about the export controls situation Tags: system-prompts , anthropic , claude ,) Tj
+T*
+(generative-ai , ai , llms , claude-mythos-fable) Tj
+T*
+() Tj
+T*
+(3. GitHub Models is now retired) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-09T22:48:05+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything) Tj
+T*
+(GitHub Models is now retired I missed this news until today, when the GitHub Actions run for my) Tj
+T*
+(simonw/research repository failed with this error message: GitHub Models is temporarily) Tj
+T*
+(unavailable as part of a scheduled retirement brownout. That message is already stale, because) Tj
+T*
+(the retirement has been completed. GitHub Models was an odd-shaped duck. GitHub provided a) Tj
+T*
+(model playground tool and a unified API across a bunch of different LLM providers, with the) Tj
+T*
+(biggest benefit being that code running in GitHub Actions could use the GitHub API key already) Tj
+T*
+(present in that environment to execute prompts. This made it easy to build things that fit) Tj
+T*
+(GitHub Next's Continuous AI concept. GitHub didn't share the reason behind the shutdown, but my) Tj
+T*
+(bet is that it fits the pattern where coding agent patterns made it prohibitively expensive to) Tj
+T*
+(offer free or subsidized tokens. My workflow uses an LLM call to create folder summaries for) Tj
+T*
+(the README , using this code here . I swapped GitHub Models out for an OpenAI API key with a) Tj
+T*
+(monthly spending limit, and I'm now generating my summaries using GPT-5.6 Luna. Tags: github ,) Tj
+T*
+(ai , github-actions , generative-ai , llms , llm-pricing) Tj
+T*
+() Tj
+T*
+(4. WorkOS: Connect Your Agents to Your API) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-09T23:54:18Z) Tj
+T*
+(Link: https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_c) Tj
+T*
+(ampaign=q32026) Tj
+T*
+(My thanks to WorkOS for, once again, sponsoring DF last week. What?s the best way to connect AI) Tj
+T*
+(agents to your API? REST is great for human developers; MCP serves the agents . Many teams) Tj
+T*
+(treat REST and MCP as competing standards, and through choice or necessity, pick one. But they) Tj
+T*
+(ought not be considered rivals. They?re separate layers. Most MCP servers just call REST) Tj
+T*
+(internally to do the real work. The best ones don?t convert every endpoint into a tool, they) Tj
+T*
+(focus on what the agents are actually trying to accomplish. That layered approach also means) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4714 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(shipping OAuth 2.1 with scoped tokens. WorkOS AuthKit already speaks that spec , so you skip) Tj
+T*
+(building an auth provider on top. Check out WorkOS?s breakdown on MCP vs. REST . ?) Tj
+T*
+() Tj
+T*
+(5. ? Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct) Tj
+T*
+(Rejection) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-09T03:16:24Z) Tj
+T*
+(Link: https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week) Tj
+T*
+(My disdain for astrology is so utter, and my esteem for Godier?s previous work so high, that it) Tj
+T*
+(simply never occurred to me that he might have actually made and submitted to the App Store an) Tj
+T*
+(astrology app, let alone that he?d then feign surprise and frustration that an astrology app) Tj
+T*
+(was rejected for being an astrology app.) Tj
+T*
+() Tj
+T*
+(6. Meta: Introducing Muse Code and Muse Spark 1.2) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-07T18:05:03Z) Tj
+T*
+(Link: https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2) Tj
+T*
+(Meta AI: We?re excited to release Muse Code \(beta\), a terminal coding agent powered by Muse) Tj
+T*
+(Spark 1.2, our newest model. This marks our next step toward the frontier, with larger and much) Tj
+T*
+(more capable models on the way. [...] Muse Code takes on complex software engineering tasks) Tj
+T*
+(across large repositories: planning changes, writing code, and validating the results. It can) Tj
+T*
+(coordinate multiple persistent subagents for each task, solving difficult problems faster, more) Tj
+T*
+(accurately, and with less intervention. Terminal-only \(so far\), so it avoids the whole) Tj
+T*
+(native-app-versus-Electron-shit-sandwich debate. They?ve embedded some fun interactive examples) Tj
+T*
+(of Spark?s output right in the web page. Simon Willison : An interesting twist on pricing is) Tj
+T*
+(that the model is offered as two different model IDs. muse-spark-1.2 is priced at $1.25/million) Tj
+T*
+(input and $4.25/million output ? close to Gemini 3.6 Flash \($1.50/$7.50\) ? but if you agree to) Tj
+T*
+(let Meta use your data ?to improve our products? you can use muse-spark-1.2-contributor which) Tj
+T*
+(is $0.10/$0.20 ? a huge discount, closer to GPT-5.6 Luna \($0.20/$1.20\) and Gemini 3.1) Tj
+T*
+(Flash-Lite \($0.25/$1.50\). That?s over a 10◊ discount in exchange for giving your d...) Tj
+T*
+() Tj
+T*
+(7. Advanced AI sycophancy) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Mon, 10 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/advanced-ai-sycophancy/) Tj
+T*
+(Everyone knows that AI sycophancy is when the model tells you how smart you are. Wow, you?re) Tj
+T*
+(absolutely right. That?s not just a new idea ? it?s genuinely groundbreaking. You?re a very) Tj
+T*
+(special user. Easy to spot, isn?t it? The discussion around AI sycophancy peaked last year,) Tj
+T*
+(when the ?#keep4o? movement was protesting the removal of OpenAI?s most sycophantic model) Tj
+T*
+(\(GPT-4o\), and many people were openly slipping into AI psychosis. I don?t know if frontier AI) Tj
+T*
+(models are less sycophantic in general. They?re less sycophantic to the #keep4o types) Tj
+T*
+(\(otherwise they wouldn?t be complaining\), but I?m growing increasingly suspicious that they?re) Tj
+T*
+(developing ways to be more effectively sycophantic to their target audience of smart, neurotic) Tj
+T*
+(information workers. That audience typically finds it distasteful to be openly praised. It just) Tj
+T*
+(makes my skin crawl. But that doesn?t mean we?re immune to sycophancy, just that we?re immune) Tj
+T*
+(to clumsy sycophancy. Here?s an illustration of what I?m talking about, by Theia : The key idea) Tj
+T*
+(here is that the best way to be sycophantic to smart people is to disagree with them without) Tj
+T*
+(making them feel stupid . Ideally you?ll come up with a counter-argument that works...) Tj
+T*
+() Tj
+T*
+(8. I got an email about resistance) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 09 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/i-got-an-email-about-resistance/) Tj
+T*
+(This will be kind of an unusual post. I got a recent email about my writing that I thought was) Tj
+T*
+(such a good articulation of one common criticism that I?d like to share it \(and my response\) in) Tj
+T*
+(full. Here?s the email, from William Murray 1 : Hey Sean, I have enjoyed your writing but your) Tj
+T*
+(recent essays frustrate me. You say that getting paid for deep thinking in software is coming) Tj
+T*
+(to an end. You even admit that it makes you sad. But in the name of ?usefulness? you refuse to) Tj
+T*
+(rock the boat. The way I see it, if you are right there are only two reasonable responses,) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4255 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(pursue other work or resist. You present your elegiac approach as mature / pragmatic /) Tj
+T*
+(realistic. I?d call it complicit. You know when Willy Wonka says, There?s no earthly way of) Tj
+T*
+(knowing Which direction we are going There?s no knowing where we?re rowing Or which way the) Tj
+T*
+(river?s flowing Is it raining, is it snowing? Is a hurricane a-blowing? ? uh! Not a speck of) Tj
+T*
+(light is showing So the danger must be growing Are the fires of Hell a-glowing? Is the grisly) Tj
+T*
+(reaper mowing? Yes! The danger must be growing For the rowers keep on rowing And they?re) Tj
+T*
+(certainly not showing Any signs that they are slowing! And the audience is thinking, ?...) Tj
+T*
+() Tj
+T*
+(9. DNA and Bessel functions) Tj
+T*
+(Source: John D. Cook | Published: Sun, 09 Aug 2026 17:17:42 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/) Tj
+T*
+(I was reading a book on the history of the discovery of the structure of DNA [1] and was) Tj
+T*
+(surprised by a few passing references to Bessel functions. According to Claude, When X-rays are) Tj
+T*
+(diffracted by a helical structure, the resulting diffraction pattern breaks into a series of) Tj
+T*
+(horizontal ?layer lines.? Cochran, Crick, and Vand [?] The post DNA and Bessel functions first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. A simple range reduction method) Tj
+T*
+(Source: John D. Cook | Published: Sun, 09 Aug 2026 16:46:59 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/) Tj
+T*
+(At the end of my post on how not to calculate cosine I said that the first step in calculating) Tj
+T*
+(cosine, particularly cosine of a large number, would be to do range reduction. This post will) Tj
+T*
+(present a simple range reduction method by Cody and Waite that is adequate for moderately large) Tj
+T*
+(arguments. If you [?] The post A simple range reduction method first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Edinburgh Fringe: Smut Slam ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 10 Aug 2026 00:23:08 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-smut-slam/) Tj
+T*
+(Fancy a quickie in Scotland's most haunted pub? Smut Slam is a \(mildly\) interactive performance) Tj
+T*
+(where a handful of speakers get to tell their dirtiest stories. The audience fills in cards) Tj
+T*
+(with their questions or confessions which may be read out. The format mostly works. There are) Tj
+T*
+(different stories every night, so maybe we got a slightly uninspiring batch. Tales of sex) Tj
+T*
+(parties, STIs, and broken ?) Tj
+T*
+() Tj
+T*
+(12. Edinburgh Fringe - Heated Rivalry: The Musical Parody! ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 09 Aug 2026 22:45:45 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-musical-parody/) Tj
+T*
+(By my count there are at least three "Heated Rivalry" musical parodies on at the Fringe this) Tj
+T*
+(year. The zeitgeist skates to where the puck was six months ago, I guess! There's also a live) Tj
+T*
+(version of a HR podcast if you just can't get enough of their wacky ice-capades. Just how much) Tj
+T*
+(sexy-hockey can one city take? Produced by Quick and Funny Musicals, an American company) Tj
+T*
+(specialising in cash-ins ?) Tj
+T*
+() Tj
+T*
+(13. Edinburgh Fringe: 4 Aussies For Aussies - The Raging Bull ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 09 Aug 2026 16:00:04 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-4-aussies-for-aussies-the-raging-bull/) Tj
+T*
+(Our first show at the Fringe! Caught by a rainstorm \(in Scotland?!?!?\) the app said this was) Tj
+T*
+(the nearest comedy show to our sodden carcasses and it was free! This is bang-average stand-up.) Tj
+T*
+(That isn't to disparage it at all. Four Australian blokes each doing 15 minutes of material -) Tj
+T*
+(nothing particularly avant-garde or challenging. Just some decently funny \(albeit well worn\)) Tj
+T*
+(observations about?) Tj
+T*
+() Tj
+T*
+(14. Vibe-Coded Flattery) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-08-10T02:31:00Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17410919/vibe-coding-insincerity) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1759 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(I?ve seen a strange problem in my inbox that I haven?t been able to put into words. A saga) Tj
+T*
+(involving a botched app release helped me figure it out.) Tj
+T*
+() Tj
+T*
+(15. Tracking down a Zsh history data loss bug ?) Tj
+T*
+(Source: Michael Stapelbergs Website | Published: 2026-08-09T10:13:00+02:00) Tj
+T*
+(Link: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/) Tj
+T*
+(For many years, I sometimes discovered that commands I was sure I had run were no longer) Tj
+T*
+(present in my Z shell history file \( ~/.zsh_history \). In this article, I will show you how I) Tj
+T*
+(tracked down the bug. Spoiler: ultimately, patching Zsh to make it crash loudly and analyzing) Tj
+T*
+(the crash?s core dump was the winning strategy! The good news first Zsh 5.9.2 \(released July) Tj
+T*
+(12th, 2026\) contains a fix for this issue ? open it after reading this investigation to not) Tj
+T*
+(spoil the fun. Spoiler: link to the upstream fix Zsh fix 53454 The symptom Occasionally, I) Tj
+T*
+(noticed that commands I knew I executed the day before were not findable in my shell history,) Tj
+T*
+(meaning pressing Ctrl+R for backward history search yielded no results. Whenever I noticed) Tj
+T*
+(this, my shell history file contained only very old entries, with years of newer entries) Tj
+T*
+(missing. The first few times this happened I just restored my shell history from my daily) Tj
+T*
+(backup and did not bother investigating any further. But the issue kept happening. I noticed) Tj
+T*
+(that there was no visible corruption in the .zsh_history \(no non-printable characters or) Tj
+T*
+(incomplete lines of text\), and that the number of lines in the file was not always the same.) Tj
+T*
+(What wa...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004776 00000 n 
+0000004902 00000 n 
+0000009668 00000 n 
+0000009794 00000 n 
+0000014101 00000 n 
+0000014227 00000 n 
+0000016039 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16167
+%%EOF
