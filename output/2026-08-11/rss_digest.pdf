@@ -1,0 +1,550 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4289 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-11 11:04:13) Tj
+T*
+() Tj
+T*
+(1. Introducing Muse Glimmer) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-10T23:56:03+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything) Tj
+T*
+(Introducing Muse Glimmer Meta are back in the open weights game! Muse Glimmer is a brand new) Tj
+T*
+(30B model under a clean Apache 2.0 license \(a step up from the janky Llama licenses of old\).) Tj
+T*
+(They claim to have optimized it for exactly the kind of things I'm looking for in a local) Tj
+T*
+(model: End-to-end Agentic Task Completion. Muse Glimmer achieves strong success rates on) Tj
+T*
+(full-task benchmarks including DeepSearch QA, MCP-Atlas, ?-Bench and SWE-Bench, which measure) Tj
+T*
+(its ability to work within scaffolds, write and debug code, and resolve multi-turn requests) Tj
+T*
+(from start to finish. Reliable Tool Use. The model handles a wide range of function calls,) Tj
+T*
+(invoking tools with precise schemas throughout extended workflows. Multi-Step Reasoning. Muse) Tj
+T*
+(Glimmer chains reasoning over long horizons, sustaining coherent plans across complex, extended) Tj
+T*
+(workflows. [...] Here's a pelican which I generated using LM Studio's 18.16 GB version of the) Tj
+T*
+(model : I also tried it out with my llm-coding-agent plugin, running against a fresh checkout) Tj
+T*
+(of Datasette with the prompt: how does auth work? Here's the response , at the end of a long) Tj
+T*
+(transcript showing all of the tool calls it made to explore the codebase. I ran this u...) Tj
+T*
+() Tj
+T*
+(2. SQLite compressed text-history prototypes) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-09T22:05:00+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything) Tj
+T*
+(Research: SQLite compressed text-history prototypes I'm perennially interested in options for) Tj
+T*
+(storing revision histories in relational databases. While out on a dog walk I had a new idea:) Tj
+T*
+(how about taking the full text of every prior version in a big JSON array of strings and then) Tj
+T*
+(applying zlib or zstd compression to the whole thing? Surely that would compress really well) Tj
+T*
+(due to all of the repeated strings. The new GPT?Live voice mode in the ChatGPT iPhone app has) Tj
+T*
+(got really good, so I discussed the prototype with that. You still can't share URLs to voice) Tj
+T*
+(conversations, but here's what I said copied from the transcript as a proper stream of) Tj
+T*
+(consciousness: I have an interesting idea for a scheme for saving all previous versions of a) Tj
+T*
+(piece of text that's constantly edited in a SQLite database um column in as efficient a way as) Tj
+T*
+(possible. Okay, so I built these kinds of systems in the past, and it's always difficult to) Tj
+T*
+(come up with a efficient way to do this. Like the easiest way is you have a row for every) Tj
+T*
+(previous copy of the previous previous value of the string. But if it's a long document Like20) Tj
+T*
+(kilobytes of data, that means that every single edit adds another 20 kilobytes of dat...) Tj
+T*
+() Tj
+T*
+(3. datasette-auth-tokens 0.4a13) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-06T23:07:47+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/6/datasette-auth-tokens/#atom-everything) Tj
+T*
+(Release: datasette-auth-tokens 0.4a13 Upgraded for compatibility with `sqlite-utils 4. Tags:) Tj
+T*
+(datasette) Tj
+T*
+() Tj
+T*
+(4. [Sponsor] Drata) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-10T22:25:00Z) Tj
+T*
+(Link: https://drata.com/daring) Tj
+T*
+(Leverage autonomous AI agents to automate compliance, manage internal and third-party risk, and) Tj
+T*
+(continuously prove your security posture. ?) Tj
+T*
+() Tj
+T*
+(5. What?s New in iOS 27 Beta 5) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-10T21:54:25Z) Tj
+T*
+(Link: https://9to5mac.com/2026/08/10/heres-whats-new-with-ios-27-beta-5/) Tj
+T*
+(Zac Hall at 9to5Mac has a good rundown of new features and changes in beta 5. Some app icons) Tj
+T*
+(got tweaks \(the Siri app in particular looks much cooler now\), and a bunch of the existing) Tj
+T*
+(American and British Siri speaking voices now have the Pace and Expressivity adjustment) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4704 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(sliders. Also interesting: the OS 27 releases were stuck at beta 4 for 22 days. That?s a week) Tj
+T*
+(longer than usual. Will Hains \( my Kotoba friend \) maintains a wonderful single-page website) Tj
+T*
+(tracking iOS version release date history . For these summer ?next big version? comparisons,) Tj
+T*
+(it?s best to filter by ?*.0? releases. Do that at Hains?s website and you can see a fairly) Tj
+T*
+(clear pattern: betas 1 through 4 typically last about two weeks each; then starting with beta) Tj
+T*
+(5, Apple switches to a roughly weekly schedule until the end of the beta cycle. I wouldn?t read) Tj
+T*
+(anything into that other than to expect beta 6 next week and beta 7 the week after that. ?) Tj
+T*
+() Tj
+T*
+(6. ?Friday Night Baseball? Will Start Broadcasting Games Live, in Apple Immersive, on) Tj
+T*
+(Vision Pro) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-10T20:47:43Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball) Tj
+T*
+(-schedule/) Tj
+T*
+(Apple Newsroom: For the first time, baseball fans can take in all the action of ?Friday Night) Tj
+T*
+(Baseball? live in Apple Immersive on Apple Vision Pro, leveraging 3D video recorded in 8K with) Tj
+T*
+(a 180-degree field of view. On August 28, viewers with Vision Pro will experience the iconic) Tj
+T*
+(Red Sox vs. Yankees rivalry from unique camera angles that place viewers right in the game,) Tj
+T*
+(immersed in the drama of each at-bat, the celebrations in the dugout after a big hit, close) Tj
+T*
+(plays at the outfield wall, and more. The experience features bespoke commentary from Paul) Tj
+T*
+(Severino \(play-by-play\), Xavier Scruggs \(analyst\), and Michelle Margaux \(sideline reporter\);) Tj
+T*
+(dedicated replays; and an immersive graphics package that includes team lineups and stats) Tj
+T*
+(floating in the viewer?s space. During breaks in the action, the broadcast remains live,) Tj
+T*
+(immersing viewers in the stadium experience from all angles as ambisonic microphones capture) Tj
+T*
+(sounds in Spatial Audio. Hot damn, they even picked the best rivalry in sports to kick it off.) Tj
+T*
+(?) Tj
+T*
+() Tj
+T*
+(7. No, local models will not win) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Tue, 11 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/local-models-will-not-win/) Tj
+T*
+(Every time a new open-weight AI model is released, people say that local models are the future.) Tj
+T*
+(Why spend billions of dollars building out datacenters when everyone will just be able to run) Tj
+T*
+(AI models on their laptops or phones? I think this idea is doomed. No matter how strong) Tj
+T*
+(open-weight models get, most inference will always happen in AI datacenters. Local models are) Tj
+T*
+(too weak to be widely used Local models are never going to be as powerful . I think this point) Tj
+T*
+(should be obvious: all of the current frontier models \(closed and open-weights\) are far too big) Tj
+T*
+(to run on anything but a full GPU cluster in a datacenter. Of course, smaller models are) Tj
+T*
+(getting more intelligent over time. In a year you might be able to run something about as) Tj
+T*
+(strong as GPT-5.6-Sol on your laptop. But by then, you?ll think of GPT-5.6-Sol as too weak to) Tj
+T*
+(be useful. Many people deny this last point, but it?s true: almost everyone?s revealed) Tj
+T*
+(preference is to use the strongest available model in their price range . If AI progress had) Tj
+T*
+(stalled at GPT-4, I think we could have built some very powerful tools around it, but who?d use) Tj
+T*
+(GPT-4 today? As LLMs have gotten more capable, our expectations around them have grown:...) Tj
+T*
+() Tj
+T*
+(8. Failing after Success) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Mon, 10 Aug 2026) Tj
+T*
+(07:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/failing-after-success) Tj
+T*
+(What are you supposed to do after you've created the most successful product? Not just) Tj
+T*
+(successful, but the most useful. In an ideal world, you would sail into the sunset and enjoy) Tj
+T*
+(your riches. In this real world, you have to come up with another, even more successful) Tj
+T*
+(product, or you're a failure. That's why it feels like Stack Overflow has failed. I remember) Tj
+T*
+(being in the middle of debugging my code when I copied an error and pasted it into Google.) Tj
+T*
+(Right there in the search results, below the clearly marked sponsored link, was a link to Stack) Tj
+T*
+(Overflow, where a user had previously faced the exact issue I was facing. I clicked on it and) Tj
+T*
+(got "Error 503 Service Unavailable." Two seconds later, I was on Reddit, checking if SO was) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4181 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(down for everyone else. Then Hacker News. The memes started flowing shortly after. Developers) Tj
+T*
+(were touching grass for the first time in years. Productivity was down 100%. If there were any) Tj
+T*
+(way to measure the success of a company, that would be it. Stack Overflow went from receiving) Tj
+T*
+(hundreds of thousands of programming questions a day to less than a thousand today . Stack) Tj
+T*
+(Overflow never positioned itself as just another Q&A forum. It wasn't ExpertsExchange. The...) Tj
+T*
+() Tj
+T*
+(9. When the Aliens Finally Came to Visit) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Mon, 10 Aug 2026) Tj
+T*
+(04:26:49 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/when-the-aliens-came-to-visit) Tj
+T*
+(The aliens arrived, and their first instinct was to check our networks. They accessed one of) Tj
+T*
+(our most important websites. A government website. Unfortunately, they were met with a) Tj
+T*
+(reCAPTCHA. Are you a robot? They are not robots. But after fifteen minutes of squinting and) Tj
+T*
+(trying to select all the fire hydrants and traffic lights, they gave up. Defeated by a) Tj
+T*
+(checkbox, they returned to the stars.) Tj
+T*
+() Tj
+T*
+(10. Learning from historical mistakes) Tj
+T*
+(Source: John D. Cook | Published: Mon, 10 Aug 2026 14:34:21 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/10/learning-from-historical-mistakes/) Tj
+T*
+(The following extraordinary paragraph comes from Knuth?s TAOCP Volume 4A, right before the last) Tj
+T*
+(set of exercises. Many of the exercises below ask a modern reader to find and/or to correct) Tj
+T*
+(errors in the literature of bygone days. The point is not to gloat over how smart we are in the) Tj
+T*
+(21st century; the point [?] The post Learning from historical mistakes first appeared on John) Tj
+T*
+(D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Inverse differential equations) Tj
+T*
+(Source: John D. Cook | Published: Mon, 10 Aug 2026 14:32:42 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/10/inverse-differential-equations/) Tj
+T*
+(In science and engineering classes, you might describe a system using Newton?s laws and end up) Tj
+T*
+(with a differential equation. You then solve the differential equation, analytically or) Tj
+T*
+(numerically, to see how the solutions behave. You might also do the opposite, especially in a) Tj
+T*
+(mathematics class: look at what differential equation a set of functions [?] The post Inverse) Tj
+T*
+(differential equations first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Edinburgh Fringe: 15 Minutes of Shame ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 10 Aug 2026 20:43:10 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-15-minutes-of-shame/) Tj
+T*
+(Sex work is work, so we're told. There's no difference between picking up a night job stacking) Tj
+T*
+(shelves and a night job jacking-off on screen. Right? Perhaps a couple need a little bit of) Tj
+T*
+(extra cash and the siren song of OnlyFans is right there. Let's fire up the webcam and release) Tj
+T*
+(ourselves from financial drudgery! Then reality hits. The script by Sean Stillmaker sounds like) Tj
+T*
+(it was ripped?) Tj
+T*
+() Tj
+T*
+(13. Edinburgh Fringe - Kat Ronson: Millennial Girl ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 10 Aug 2026 17:45:36 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-kat-ronson-millennial-girl/) Tj
+T*
+(OMG! If you remember A/S/Ling your way through MSN to fill in your MySpace top 8, then you'll) Tj
+T*
+(love this show. You're also over 30 and, therefore, old. Ew. The stage is littered with a Nokia) Tj
+T*
+(3310, Bliss Magazine, and Charlie Red. Katie \(15/F/UK\) talks us through the complexities of her) Tj
+T*
+(nascent love life, what shag band colours mean, and which quotes sum up millennial angst. All) Tj
+T*
+(the while?) Tj
+T*
+() Tj
+T*
+(14. Edinburgh Fringe - Michael Brunstrˆm: William Tell vs the Algorithm ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 10 Aug 2026 15:57:27 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-michael-brunstrom-william-tell-vs-the-a) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4743 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(lgorithm/) Tj
+T*
+(The terror of AI has come to comedy. There are a dozen shows this year about the threat that) Tj
+T*
+(technology poses to the way we live, laugh, and love. In this case, AI stands for Austrian) Tj
+T*
+(Imperialism and the fight is for Switzerland's independence. Well, sort of. It gets a bit lost) Tj
+T*
+(in an endless stream of rambly diversions. There's a fine line between surrealist comedy and) Tj
+T*
+(utter nonsense. If you?) Tj
+T*
+() Tj
+T*
+(15. A License to Act) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 09 Aug 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/license-to-act/) Tj
+T*
+(In the past, search engines and the open web granted access to other people?s knowledge but the) Tj
+T*
+(task fell to you to synthesize an understanding from it and build a capability to act. Now with) Tj
+T*
+(LLMs, it?s possible to build things you don?t fully understand which then require a perpetual) Tj
+T*
+(license in order to have the capacity to maintain and modify. LLMs don?t just do things for) Tj
+T*
+(you, they do things instead of you ? and the doing is a huge part of the point. The struggle to) Tj
+T*
+(understand, to synthesize, to explain, it all has a byproduct: you! Your own capacity to act in) Tj
+T*
+(the world. But now you can rent that capacity. Every time you reach for the LLM instead of) Tj
+T*
+(struggling through it yourself, you?re borrowing against someone else?s capacity that you?re) Tj
+T*
+(not developing in yourself. It?s as if I used to be a car mechanic , fixing my own vehicles or) Tj
+T*
+(looking to other mechanics for advice or a demonstration on approaching my problems. That) Tj
+T*
+(process produced a working car ? the output I wanted ? but it also produced a capability within) Tj
+T*
+(myself to fix the next one that came along. But now, for expedience and speed, I drop all my) Tj
+T*
+(cars off the LLM dealer for fixes and maintenance. Fast and efficient ?...) Tj
+T*
+() Tj
+T*
+(16. Pluralistic: The bureaucratic AI arms-race is mutually assured destruction \(10 Aug) Tj
+T*
+(2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 10 Aug 2026 07:01:46) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/08/10/deep-state-wopr/) Tj
+T*
+(Today's links The bureaucratic AI arms-race is mutually assured destruction: The only way to) Tj
+T*
+(win is not to play. Hey look at this: Delights to delectate. Object permanence: Seymour Cray's) Tj
+T*
+(tunnels; War on moisture; $5 wrench cryptanalysis; Nauru files; People's Ride; German transit) Tj
+T*
+(upholstery fashion; Monopolies v small business; Linkedin will put you in ads; NZ Parliament) Tj
+T*
+(kicks itself off the internet; Adblock Plus v Facebook adblock-block; Cracking 100m VWs for) Tj
+T*
+($40; Trump as defective machine learning; Canada sucks at internet law; Goodhart's Law of AI.) Tj
+T*
+(Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The bureaucratic AI) Tj
+T*
+(arms-race is mutually assured destruction \(permalink\) According to an Economist editorial, "AI) Tj
+T*
+(is breaking the British state" by making it too easy to file complaints, demands and appeals,) Tj
+T*
+(which will "drown the state" with "demands as well-crafted as a first-class lawyer's":) Tj
+T*
+(https://archive.is/VTrj9 Let's pause a moment to appreciate the Economist's touching cred...) Tj
+T*
+() Tj
+T*
+(17. UPS finally refunded the overcharged tariff) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-08-09T20:36:22.854-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/08/ups-finally-refunded-overcharged-tariff.html) Tj
+T*
+(Last November UPS mistakenly charged me a $684 tariff on $355 worth of computer parts shipped) Tj
+T*
+(from Europe. It was shortly afterwards reduced to $51.30, but I had prepaid the tariff to avoid) Tj
+T*
+(warehouse fees, so UPS owed me $632.70. They finally issued the refund in July after repeatedly) Tj
+T*
+(E-mailing their accounting office in India approximately monthly. \(Phone number? Ha ha ha.\) I) Tj
+T*
+(don't know if these overcharges are still happening, but I've basically stopped importing) Tj
+T*
+(anything from outside the United States unless they pay the tariff for you, or until there is) Tj
+T*
+(more clarity. I'd also like to get that $51.30 back ? especially since they were Apple parts,) Tj
+T*
+(and one of the parts even said " MADE IN USA ." Until then, any new Australian computer) Tj
+T*
+(exploration is staying local to the in laws' in regional New South Wales, and it will be awhile) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 543 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(before we get any new Japanese systems to play with.) Tj
+T*
+() Tj
+T*
+(18. Watch out for cache read costs) Tj
+T*
+(Source: Martin Alderson | Published: Mon, 10 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/watch-out-for-cache-read-costs/?utm_source=rss&utm_mediu) Tj
+T*
+(m=rss&utm_campaign=feed) Tj
+T*
+(For long agentic sessions cache reads are most of the bill, not input or output tokens. KV) Tj
+T*
+(caches have shrunk dramatically while cache read pricing has barely moved.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004558 00000 n 
+0000004684 00000 n 
+0000009440 00000 n 
+0000009566 00000 n 
+0000013799 00000 n 
+0000013925 00000 n 
+0000018721 00000 n 
+0000018849 00000 n 
+0000019444 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+19572
+%%EOF
