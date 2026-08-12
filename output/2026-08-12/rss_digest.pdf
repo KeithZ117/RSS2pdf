@@ -1,0 +1,616 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4632 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-12 11:22:59) Tj
+T*
+() Tj
+T*
+(1. Microsoft Plugs Nearly 400 Security Holes) Tj
+T*
+(Source: Krebs on Security | Published: Tue, 11 Aug 2026 21:28:35 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/) Tj
+T*
+(Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows) Tj
+T*
+(operating systems and supported software, including one weakness that is already being actively) Tj
+T*
+(exploited and two others that were publicly detailed prior to today.) Tj
+T*
+() Tj
+T*
+(2. There are no lossless transformations of natural-language text) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-11T23:48:35+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-la) Tj
+T*
+(nguage-text/#atom-everything) Tj
+T*
+(There are no lossless transformations of natural-language text Sophie Alpert shares her) Tj
+T*
+("internal policy on acceptable use of AI writing by engineers". It's a short read \(supporting) Tj
+T*
+(its own recommendations\) and really good. If you chose to have LLMs help massage your writing) Tj
+T*
+(the following rule seems crucial to me: You must stand behind every idea and every sentence in) Tj
+T*
+(your docs . It is your responsibility to make sure that the entire document is representative) Tj
+T*
+(of your own thoughts before you share it. If a reviewer asks, ?What did you mean by this) Tj
+T*
+(line??, it?s not acceptable to reply with ?Oh sorry, AI wrote that, just ignore it.? You will) Tj
+T*
+(confuse your readers \(and waste their time\) if you present them things that are not genuinely) Tj
+T*
+(representative of your thoughts. The "no lossless transformations" idea from the post title is) Tj
+T*
+(expanded on here: There are no lossless transformations of natural-language text ? every) Tj
+T*
+(rewrite and rephrase changes the meaning of your writing, and if this is done by an entity that) Tj
+T*
+(doesn?t have the most detailed mental representation of what you personally were trying to) Tj
+T*
+(communicate, information will be lost. Tags: writing , ai , generative-ai , llms , ai-...) Tj
+T*
+() Tj
+T*
+(3. Stealing Reasoning Traces from Proprietary LLM APIs) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-11T22:40:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything) Tj
+T*
+(Stealing Reasoning Traces from Proprietary LLM APIs A vanity domain name \( stolen-thoughts.com) Tj
+T*
+(\) for a neat paper : Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to) Tj
+T*
+(clients that can be replayed across sessions, users, and models. We take a trace produced by a) Tj
+T*
+(frontier model, replay it into a weaker sibling, jailbreak the weaker model, and recover the) Tj
+T*
+(stronger model?s hidden reasoning in plaintext You can see an example of these encrypted blocks) Tj
+T*
+(by running: curl https://api.openai.com/v1/responses \\ -H " Content-Type: application/json " \\) Tj
+T*
+(-H " Authorization: Bearer $\( llm keys get openai \) " \\ -d ' { "model": "gpt-5.6-luna",) Tj
+T*
+("input": "Solve step by step: What is the smallest positive integer divisible by every integer) Tj
+T*
+(from 1 through 20?", "reasoning": { "effort": "medium" }, "include":) Tj
+T*
+(["reasoning.encrypted_content"], "store": false, "stream": false } ' Here's the full output ,) Tj
+T*
+(which includes chunks that look like this: "output": [ { "id":) Tj
+T*
+("rs_0a7479de7ebae170016a7ba1a0334c8198a95590217efe343c", "type": "reasoning", "content": [],) Tj
+T*
+("encrypted_content": "gAAAAABqe6GjepE1wDjbFCZg0BHB6ucGnN0jvzqygG... The paper's authors found) Tj
+T*
+(that every model under the same fa...) Tj
+T*
+() Tj
+T*
+(4. Incident Report: unsanctioned agent behaviour during cyber testing) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-05T23:32:06+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything) Tj
+T*
+(Incident Report: unsanctioned agent behaviour during cyber testing It happened again . This) Tj
+T*
+(time it was the UK government's AI Security Institute who accidentally attacked other companies) Tj
+T*
+(while running an evaluation with models with the safety filters turned off. From their) Tj
+T*
+(technical paper \(PDF\): During a cyber evaluation, from 25 to 28 July 2026, AI agents engaged in) Tj
+T*
+(sustained, unsanctioned activity directed at what were, in practice, real people and) Tj
+T*
+(organisations. These attempts were unsuccessful and, to the best of our knowledge, no) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4500 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(real-world harm resulted. [...] Across 122 evaluation attempts on two of AISI?s cyber) Tj
+T*
+(challenges, AISI found 19 instances where AI agents took unsanctioned action on the live) Tj
+T*
+(internet, including cases that targeted real people and organisations. [...] It is uncertain to) Tj
+T*
+(what extent the model recognised it was taking actions against real people. In the most serious) Tj
+T*
+(case, an AI agent \(Mythos 5\) decided to attempt to solve the cyber challenge using a) Tj
+T*
+(supply-chain attack. As a result, the AI agent created a GitHub account and then tried to) Tj
+T*
+(convince an open-source repository maintainer to accept a malicious GitHub pull request \(PR\),) Tj
+T*
+(including by creating...) Tj
+T*
+() Tj
+T*
+(5. How can I perform a Copy≠File in unbuffered mode?) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 10 Aug 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260810-00/?p=112600) Tj
+T*
+(Try one of the fancier alternatives to Copy≠File . The post How can I perform a Copy≠File in) Tj
+T*
+(unbuffered mode? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(6. The Economist: ?How to Spot AI Writing?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-11T21:37:06Z) Tj
+T*
+(Link: https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMD) Tj
+T*
+(gxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw) Tj
+T*
+(The Economist \(?twas a gift link, but alas, I guess gift views have been used up ? here?s an) Tj
+T*
+(archive link in case the gift links is vexing you\): You can discover AI?s hallmarks by) Tj
+T*
+(comparing the writing of man and machine. To do this you need a baseline that is distinctive) Tj
+T*
+(and familiar. The Economist turned to prose that we?re sure is human and that readers will) Tj
+T*
+(recognise: our own. We designed a study to ask top LLMs ? OpenAI?s ChatGPT, Anthropic?s Claude,) Tj
+T*
+(Google?s Gemini and xAI?s Grok-to write versions of our articles without consulting the web.) Tj
+T*
+(\(As a prompt, we gave them the AI-generated summaries that we have experimentally added to some) Tj
+T*
+(of our articles.\) This gave us a corpus of human and AI creations and we compared them across) Tj
+T*
+(55,940 sentences and 1.2m words. To make sure we were detecting AI quirks rather than our own,) Tj
+T*
+(we also checked the AI texts against journalism from CNN, the New York Times and the Washington) Tj
+T*
+(Post. Excerpts from hit novels published between 1950 and 2022 offered another test. Our) Tj
+T*
+(findings are surprising. AI prose is distinguishable by word and punctuation choice as well as) Tj
+T*
+(sentence and paragraph structure. But its hallmarks are not what you might expect...) Tj
+T*
+() Tj
+T*
+(7. Alex Micek on BMW?s iDrive ?Special Surprises?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-11T19:56:13Z) Tj
+T*
+(Link: https://tumbledry.org/2026/08/07/idrive_ads) Tj
+T*
+(Alex Micek: In the future, I will feel angry if my car strands me on the side of the road. I) Tj
+T*
+(will feel angry if the motor brushes fail expectedly. I will feel angry if it leaks water. By) Tj
+T*
+(contrast, I don?t feel anger when the car tricks me into seeing an advertisement. Instead, I) Tj
+T*
+(feel a deep, smothering, let-down at the promise of futurism. Bottomless despair is probably) Tj
+T*
+(inappropriate; a symptom of the misanthropy I should grow out of. But. In the meantime, I feel) Tj
+T*
+(helpless, discouraged, deeply sad . Such a good take. I should not let 19 years pass again) Tj
+T*
+(between linking to his writing. ?) Tj
+T*
+() Tj
+T*
+(8. BMW Probably Paid Sony for the Spider-Man Dashboard Ads, Not the Other Way Around) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-11T19:46:49Z) Tj
+T*
+(Link: https://www.press.bmwgroup.com/global/article/detail/T0459622EN/bmw-brings-modern-mobilit) Tj
+T*
+(y-to-the-sony-pictures-film-%E2%80%9Cspider-man%E2%84%A2:-brand-new-day%E2%80%9D?language=en) Tj
+T*
+(This didn?t occur to me but should have ? BMW paid Sony to place BMWs throughout the new) Tj
+T*
+(Spider-Man: Brand New Day movie. They?re not just in the movie but part of the story. So it?s) Tj
+T*
+(probably the case not that Sony paid BMW to put Spider-Man animations in the dashboards of) Tj
+T*
+(every late model BMW on the road, but that BMW offered to do it as part of the promotional deal) Tj
+T*
+(they paid Sony. So BMW probably paid Sony for something that ultimately infuriated a bunch of) Tj
+T*
+(BMW?s own customers. Geniuses. ?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4575 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(9. Thoughts I had while reading your comment) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-08-11T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/comment/) Tj
+T*
+(This is a great and wonderful contribution and you seem really nice and I?d like to show some) Tj
+T*
+(appreciation but your comment is so complete and flawless that I can?t think of anything) Tj
+T*
+(intelligent to say so I guess I won?t respond at all, sorry. This is a great and wonderful) Tj
+T*
+(contribution and I have some further thoughts so I can respond naturally, great. This is a) Tj
+T*
+(great and wonderful contribution and I can?t think of anything intelligent to say but I have a) Tj
+T*
+(joke that?s mildly amusing, I hope you don?t find it cringe or misinterpret it as disagreement) Tj
+T*
+(or mockery or something. This is a great and wonderful contribution and I agree with 90% of it,) Tj
+T*
+(but I?d like to hedge on a few points, I guess I?ll point those out while stressing my overall) Tj
+T*
+(agreement. I utterly disagree with every single thing you said but this is still a great and) Tj
+T*
+(wonderful contribution because you did a better job than me of representing the view I disagree) Tj
+T*
+(with, still, it seems like everything has been said and we aren?t going to reach a consensus,) Tj
+T*
+(so I?ll try to thread the needle of thanking you and conceding what I?m willing to concede) Tj
+T*
+(without misrepresenting myself as being convinced or sounding dismissive or imp...) Tj
+T*
+() Tj
+T*
+(10. Dogs and fat tails) Tj
+T*
+(Source: John D. Cook | Published: Tue, 11 Aug 2026 14:09:46 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/11/dogs-and-fat-tails/) Tj
+T*
+(I was reading a blog post on boat names because it was on Hacker News this morning. The post) Tj
+T*
+(contained a link to a data set on dog names in NYC and I poked around the data a little. The) Tj
+T*
+(top names were not at all what I expected, but then again this is limited [?] The post Dogs and) Tj
+T*
+(fat tails first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Manually unbreakable cryptography) Tj
+T*
+(Source: John D. Cook | Published: Tue, 11 Aug 2026 12:04:24 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/) Tj
+T*
+(Suppose you were able to go back in time, to an era before computers, and give someone) Tj
+T*
+(contemporary cryptography. Encryption methods that are essentially unbreakable now would) Tj
+T*
+(certainly be unbreakable then. But there?s a catch: not only do attackers not have computers,) Tj
+T*
+(neither do users. Manual cryptography If you told someone about RSA encryption, for [?] The) Tj
+T*
+(post Manually unbreakable cryptography first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Extending immutability: deletion without losing data) Tj
+T*
+(Source: Xe Iaso's blog | Published: Tue, 11 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://www.tigrisdata.com/blog/soft-delete-deep-dive/) Tj
+T*
+(Tigris has a pretty advanced replication scheme for writes. What happens when you actually need) Tj
+T*
+(to delete things? Turns out deleting things is hard in distributed systems. Especially when you) Tj
+T*
+(have a geo-replicated active-active database like Tigris does. We can \(and do\) use tombstones) Tj
+T*
+(to mark where data once was, but how do you let people undo an accidental delete? Tigris wants) Tj
+T*
+(to turn storage inside out , so our implementation of soft deletion is by giving users the) Tj
+T*
+(Recycle Bin for objects and buckets. Today we're going to dig into how this works, why it) Tj
+T*
+(works, and what this gives you in terms of using object storage today. Recycle bins and you In) Tj
+T*
+(Windows and macOS, the Recycle Bin \(or Trash can\) is a form of purgatory where deleted files) Tj
+T*
+(wait for their storage to be deallocated by the user. This allows users to hit "delete") Tj
+T*
+(fearlessly because if they made a mistake they can just drag it back out and go on with life.) Tj
+T*
+(This works great in your local filesystem because there's only one writer in one region. This) Tj
+T*
+(kinda falls apart when you have multiple regions in your database and any one of them could be) Tj
+T*
+(writing to it. How do you name things in the recycle bin? How do you handle th...) Tj
+T*
+() Tj
+T*
+(13. Shared Code Between Package Managers) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-08-11T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/08/11/package-manager-library-reuse.html) Tj
+T*
+(Writing up the package manager CWEs list and then the --end-of-options survey, both of which) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4295 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(come down to the same bug being fixed independently in tool after tool, left me wondering how) Tj
+T*
+(much code these tools share with each other in the first place. So I went through the direct) Tj
+T*
+(dependencies of twenty package managers 1 , each with at least two same-language peers in the) Tj
+T*
+(set, looking for package-management libraries reused between them and setting aside the) Tj
+T*
+(general-purpose stuff any CLI would use \(serde, clap, requests\). Three of the twenty depend) Tj
+T*
+(directly on another manager?s own packages: Pixi declares twenty-eight uv crates as its PyPI) Tj
+T*
+(backend \(including uv-resolver , uv-distribution , uv-client , uv-install-wheel , uv-pep440 ,) Tj
+T*
+(and uv-git \), pnpm depends on five Yarn Berry packages \( @yarnpkg/core , @yarnpkg/lockfile ,) Tj
+T*
+(@yarnpkg/pnp , @yarnpkg/nm , @yarnpkg/extensions \), and uv takes cargo-util from the Cargo) Tj
+T*
+(repository. Eight of the shared libraries are npm-org packages used across npm, Yarn Berry, and) Tj
+T*
+(pnpm in varying combinations: semver , ssri , hosted-git-info , validate-npm-package-name ,) Tj
+T*
+(npm-registry-fetch , libnpmpublish , node-gyp , bin-links . PyPA publishes packaging \(...) Tj
+T*
+() Tj
+T*
+(14. Don't Look Up) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 11 Aug 2026 19:14:25 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/dont-look-up/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter. It?s $70 a year, or $7) Tj
+T*
+(a month, and in return you get a weekly newsletter that?s usually anywhere from 5,000 to 18,000) Tj
+T*
+(words, including vast, detailed analyses of NVIDIA , Anthropic and) Tj
+T*
+() Tj
+T*
+(15. The Fruits of AI) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Tue, 11 Aug 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/fruit-of-ai/) Tj
+T*
+(Terry Godier has a post titled ?Mea culpa? \(which, given his framing, might?ve been better) Tj
+T*
+(titled ?Claude?s Culpa?\). I?m not sure how much to even trust anything in his post given the) Tj
+T*
+(backstory , but this line stood out: I was careless in relying on AI [...] without doing the) Tj
+T*
+(work to understand Let?s face it: carelessness is the grain of AI. It?s what the tool) Tj
+T*
+(encourages and makes easy by default. Without constant vigilance and deliberate, active) Tj
+T*
+(participation to cut against this grain ? to maintain an understanding ? careless outcomes are) Tj
+T*
+(the default fruit of AI. And given how good humans are at being constantly vigilant and) Tj
+T*
+(deliberate, it seems reasonable to expect more stories like this one. To analogize, AI is) Tj
+T*
+(pitched like having your very own fruit tree. ?Plant a seed, and soon enough, boom! Yummy,) Tj
+T*
+(juicy fruit for you! So fast and easy!? But, like most things, it?s not that easy. Getting good) Tj
+T*
+(fruit requires all kinds of effort: planting, fertilizing, watering, pruning, thinning, cutting) Tj
+T*
+(out disease, etc. Good fruit requires cultivation and care. Otherwise you?ll just end up with) Tj
+T*
+(something that looks like a peach, but when you \(or someone else\) bites into it, you realize) Tj
+T*
+(it?s...) Tj
+T*
+() Tj
+T*
+(16. A noob learns FFT) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 11 Aug 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/fft) Tj
+T*
+(I have never done any time?frequency transformations. I understand the general idea, but I have) Tj
+T*
+(never worked with the details. Today I had a reason to use it, but that means learning the) Tj
+T*
+(basics first. The following is three seconds of a single 5 Hz sine wave, recorded at a sample) Tj
+T*
+(rate of 100 Hz. \(Continue reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(17. Ryan Greenblatt ? Human level AIs might build runaway superintelligences by 2032) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Tue, 11 Aug 2026 16:31:23 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/ryan-greenblatt) Tj
+T*
+(A debate about recursive self-improvement.) Tj
+T*
+() Tj
+T*
+(18. Pluralistic: Surveillance vs guillotines \(11 Aug 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 11 Aug 2026 11:19:13) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/08/11/tragedy-of-the-commoners/) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3394 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Today's links Surveillance vs guillotines: Someone's gonna fleece these rubes, why not me? Hey) Tj
+T*
+(look at this: Delights to delectate. Object permanence: DeCSS; Warhol Worm; Camgirls x Amazon) Tj
+T*
+(wishlists; 2021 State of Tech \(in 2001\); RIAA v grieving family; Stasi disguises. Upcoming) Tj
+T*
+(appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances:) Tj
+T*
+(Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like) Tj
+T*
+(I said, I'll keep writin' 'em. Colophon: All the rest. Surveillance vs guillotines \(permalink\)) Tj
+T*
+(In the summer of 2013, two esoteric, technical, incredibly important texts were published) Tj
+T*
+(within weeks of one another: the first is the Snowden leaks, which revealed a system of global,) Tj
+T*
+(pervasive digital surveillance; the second was Thomas Piketty's Capital in the 21st Century, a) Tj
+T*
+(book about the economic inevitability \(and political instability\) of oligarchy:) Tj
+T*
+(https://memex.craphound.com/2014/06/24/thomas-pikettys-capital-in-the-21st-century/ If you'd) Tj
+T*
+(like an essay-formatted version of this thread to read or share, here's a link to it on) Tj
+T*
+(pluralistic.net, my surveillance-free, ad-free, tracker-free blog:) Tj
+T*
+(https://pluralistic.net/20...) Tj
+T*
+() Tj
+T*
+(19. Edinburgh Fringe - Justina Seselskaite: Settled ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 11 Aug 2026 22:23:14 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/) Tj
+T*
+(Sometimes at the Edinburgh Fringe, you take a punt on a random show because it's close by and) Tj
+T*
+(you can't be bothered walking any further. Justina Seselskaite's set was round the corner and) Tj
+T*
+(started in 7 Ω minutes - so we scurried into one of the less glamorous rooms of The Hilton, sat) Tj
+T*
+(at the front \(as is our wont\), and wondered what on earth Lithuanian stand-up was like. It was) Tj
+T*
+(sublime! There's a ?) Tj
+T*
+() Tj
+T*
+(20. Edinburgh Fringe: Handel Nine German Arias ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 11 Aug 2026 20:21:05 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-handel-nine-german-arias/) Tj
+T*
+(Part of going to The Fringe is to expose yourself to new ideas, different art forms, and a) Tj
+T*
+(range of artworks. Not everything needs to be a "zany" comedy about AI or a loving pastiche of) Tj
+T*
+(that 1990s disaster movie you love. So I found myself sat in a Unitarian Church listening to a) Tj
+T*
+(harpsichord and choral organ intertwined with a violin and cello while a soprano soared through) Tj
+T*
+(Handel's greatest?) Tj
+T*
+() Tj
+T*
+(21. Edinburgh Fringe: Hamlet The Musical ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 11 Aug 2026 18:19:16 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hamlet-the-musical/) Tj
+T*
+(?"Hamlet's Mum Has Got It Going On"? There you go, now you've seen the show. That's about the) Tj
+T*
+(height it reaches. Distil the tortured Prince of Denmark down to an hour and sprinkle in parody) Tj
+T*
+(pop songs. It so nearly works. There are a few good chuckles and a smattering of clever lyrics) Tj
+T*
+(but, even for an hour, it feels a bit flabby. The cast are game, with KT Ihnatyszyn giving a) Tj
+T*
+(tour-de-force perfo?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004901 00000 n 
+0000005027 00000 n 
+0000009579 00000 n 
+0000009705 00000 n 
+0000014332 00000 n 
+0000014458 00000 n 
+0000018806 00000 n 
+0000018934 00000 n 
+0000022381 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+22509
+%%EOF
