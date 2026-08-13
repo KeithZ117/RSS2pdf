@@ -1,0 +1,420 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4520 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-13 11:26:50) Tj
+T*
+() Tj
+T*
+(1. DeepSeek V4 Pro 0813 \(on OpenRouter\)) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-12T23:59:23+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/) Tj
+T*
+(DeepSeek V4 Pro 0813 \(on OpenRouter\) The latest DeepSeek Pro model is now available, via API) Tj
+T*
+(only. I had to link to OpenRouter because DeepSeek don't have any obvious announcement page for) Tj
+T*
+(their new model. I haven't been able to confirm if they plan to release the open weights, but) Tj
+T*
+(given the weights are available for both April's deepseek-ai/DeepSeek-V4-Pro and July's) Tj
+T*
+(deepseek-ai/DeepSeek-V4-Flash-0731 it seems likely. Interestingly I got very different looking) Tj
+T*
+(pelicans for the three different reasoning levels of low, medium, and high. I've not noticed) Tj
+T*
+(this kind of difference from any other model: Low: Medium: High: In terms of benchmarks... as) Tj
+T*
+(far as I can tell those were released to the Official DeepSeek WeChat Group, then copied and) Tj
+T*
+(pasted into a post on Reddit which was deleted by the moderators for being "low-effort", then) Tj
+T*
+(copied into this ASCII-art table on Hacker News . Tags: ai , generative-ai , llms ,) Tj
+T*
+(pelican-riding-a-bicycle , deepseek , llm-release , ai-in-china) Tj
+T*
+() Tj
+T*
+(2. alchemy-utils 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-12T19:51:30+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/12/alchemy-utils/) Tj
+T*
+(Release: alchemy-utils 0.1a0 I've long pondered what a database agnostic version of my) Tj
+T*
+(sqlite-utils Python library and CLI utility might look like. This morning \(literally a shower) Tj
+T*
+(project\) I tasked Codex and GPT-5.6 Sol Ultra with building a prototype: Do a research spike to) Tj
+T*
+(see what it would take to build a library with the same core API as SQLite-utils - in) Tj
+T*
+(particular the insert and upsert and insert_all and upsert_all and create and update methods,) Tj
+T*
+(and the table introspection stuff - but backed by SQLalchemy so it works for multiple database) Tj
+T*
+(engines Test against PostgreSQL and SQLite and duckdb Use ~/dev/sqlite-utils for reference) Tj
+T*
+(Create a git repo for this and commit and early and often - use uv init to start the project -) Tj
+T*
+(use red/green TDD and pytest, see ~/dev/django-sql-dashboard for one idea as to how the) Tj
+T*
+(PostgreSQL tests could work It took very few follow-up prompts to produce this project in a) Tj
+T*
+(state good enough to release as an alpha. Here's a one-liner I can use to list the rows in a) Tj
+T*
+(table in my local PostgreSQL copy of my blog's database: uvx --with 'alchemy-utils[postgresql]') Tj
+T*
+(alchemy-utils rows 'postgresql+psycopg://simon@localhost:5432/simonwillisonblog' redirects_r...) Tj
+T*
+() Tj
+T*
+(3. Quoting Florian Herrengt) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-12T15:08:47+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/12/florian-herrengt/) Tj
+T*
+(But then users start to report a weird bug. It's the 4th time your team has been trying to fix) Tj
+T*
+(it. I mean... asking AI to fix it. Unfortunately, it seems like not even Fable can figure it) Tj
+T*
+(out. You go talk to the person who worked on this feature. "So where does the data come from?") Tj
+T*
+("Hmm... actually I don't know. Let me ask Claude." You sit next to each other watching an) Tj
+T*
+(endless wall of text appear on the screen. Neither of you has any idea whether any of it is) Tj
+T*
+(true but Claude seems very confident. [...] This project has become so convoluted, with so many) Tj
+T*
+(layers and services, that no one on your team could possibly start to understand what's going) Tj
+T*
+(on. ? Florian Herrengt , AI is removing the middle class of software engineering Tags:) Tj
+T*
+(ai-misuse , cognitive-debt , generative-ai , ai , llms , ai-assisted-programming) Tj
+T*
+() Tj
+T*
+(4. Where Did the Productivity Gains Go?) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Wed, 12 Aug 2026) Tj
+T*
+(12:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/where-did-the-productivity-gains-go) Tj
+T*
+(There is a machine called Productivity, and on this machine there is a knob and a button. The) Tj
+T*
+(knob increases productivity, and the button is labeled "reset." My job was data entry at a) Tj
+T*
+(non-profit. It was my first job in the US where I didn't have to lift heavy objects. My main) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4676 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(task was entering collected donations into a database. The data source was email attachments,) Tj
+T*
+(which came in various formats. Excel files, Word files, and some directly embedded in the email) Tj
+T*
+(body. The database itself was FileMaker Pro. Every part of the process was wasteful. To receive) Tj
+T*
+(the emails in the first place, I had to call the person who collected the donation, argue with) Tj
+T*
+(them, and guide them through the process of emailing me the information. The donations were) Tj
+T*
+(collected at events, and the data was often just handwritten on a note. Once I got the email, I) Tj
+T*
+(would extract the content from the attachment and organize it into an Excel file. Then I would) Tj
+T*
+(manually enter it into the FileMaker database, one row at a time. In a full workday, I could) Tj
+T*
+(process no more than a dozen entries. So I decided to improve the process. I started from the) Tj
+T*
+(end. Entering data into the database was error-prone. I had to enter t...) Tj
+T*
+() Tj
+T*
+(5. The little-known winstart.bat batch file) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 11 Aug 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605) Tj
+T*
+(It had been there long before Windows 95, but nobody remembered. The post The little-known) Tj
+T*
+(winstart.bat batch file appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(6. Google Design Pisses Its Pants on Twitter/X) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-13T01:03:45Z) Tj
+T*
+(Link: https://x.com/googledesign/status/2087195277094695096) Tj
+T*
+(A few years ago I?d have looked at this post and maybe leaned toward the idea that a precocious) Tj
+T*
+(8th grader somewhere hacked into the @GoogleDesign Twitter account and tried to pass off their) Tj
+T*
+(little to-do app as having come from Google?s design team. But this is apparently real. I) Tj
+T*
+(almost hope it?s AI slop and that there aren?t any human designers there who think anything in) Tj
+T*
+(this app has appropriate proportions or is aesthetically pleasing. \( Here?s an XCancel link for) Tj
+T*
+(the x.com averse. You can just change any x.com/* URL to xcancel.com/*. But, alas, the XCancel) Tj
+T*
+(mirror of the original tweet loses the animation showing the UI in motion.\) ?) Tj
+T*
+() Tj
+T*
+(7. Joanna Stern on the Pixel 11 ?HiLight? Notification Light) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-12T21:23:30Z) Tj
+T*
+(Link: https://thenewthings.com/p/the-new-pixel-feature-i-want-on-my-iphone?gift_content=e9bf3eb) Tj
+T*
+(d-db33-4ee5-91b0-84d7acac3263) Tj
+T*
+(Joanna Stern, writing The New Thing \(gift link\): I used to love the blinking notification light) Tj
+T*
+(on my BlackBerry, and later my Droid 2. It was a simple way to know I had a message without) Tj
+T*
+(actually looking at my messages. Then BlackBerry let you customize the color, and it was a) Tj
+T*
+(rainbow dream. Google?s HiLight takes it a step further by letting you assign different colors) Tj
+T*
+(to VIP contacts. So when your phone is face down, you can tell who?s trying to reach you) Tj
+T*
+(without picking it up. It looks cool. The big bummer? At launch, it only works for phone calls.) Tj
+T*
+(Google told me it?s ?continuing to invest in this technology? and that messaging notifications) Tj
+T*
+(are coming. Still, it?s odd they aren?t there at launch, especially since Google found plenty) Tj
+T*
+(of colors for Gemini. The ring changes hue depending on whether the AI is listening, thinking) Tj
+T*
+(or responding. I have no interest in this because a few years ago I stopped ever putting my) Tj
+T*
+(iPhone on any surface face down. I don?t use a case, so setting the phone face down is a good) Tj
+T*
+(way to pick up scratches. I stopped doing that, ever, and now I?ve got a nearly year-old iPhone) Tj
+T*
+(17 Pro that seemingly doesn?t have even a micro abrasion on the display gla...) Tj
+T*
+() Tj
+T*
+(8. Google Introduces ?Camera Looks? With Pixel 11 Phones) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-12T20:58:15Z) Tj
+T*
+(Link:) Tj
+T*
+(https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography) Tj
+T*
+(David Imel, The Verge: But in our current moment, the photos people are drawn to are not) Tj
+T*
+(flawless ? and that?s created a real problem for the people making smartphone cameras. ?The gap) Tj
+T*
+(between what two random people want from their camera is growing dramatically,? says Isaac) Tj
+T*
+(Reynolds, who leads the Pixel camera team at Google. Some people want a perfectly optimized) Tj
+T*
+(photo, Reynolds says. ?But there?s a growing number of people who want something that they feel) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4154 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(is more authentic or traditional, by their definition.? That?s what Reynolds and the Pixel team) Tj
+T*
+(are setting out to solve with Camera Looks, a total rethink of how the camera captures and) Tj
+T*
+(styles an image on the Pixel 11 series. The phones include a new suite of processing tools) Tj
+T*
+(aimed at giving people much more control over the camera?s output. At first glance, they look a) Tj
+T*
+(lot like filters, with names like Black Tie, Classic, and most strikingly, Digi, in reference) Tj
+T*
+(to the growing trend of buying cheap digital cameras from the early aughts. But unlike a) Tj
+T*
+(filter, which generally applies editing tweaks after the processing happens, Camera Looks is) Tj
+T*
+(changing how image data is processed at the sensor level. This sounds a lot like Appl...) Tj
+T*
+() Tj
+T*
+(9. Cryptic but consistent) Tj
+T*
+(Source: John D. Cook | Published: Wed, 12 Aug 2026 13:17:03 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/12/cryptic-but-consistent/) Tj
+T*
+(Suppose you?ve never worked at the command line and you?re reading a book about the bash shell.) Tj
+T*
+(You read that !$ is a shortcut to refer to the last word of the previous command. That little) Tj
+T*
+(fact will almost certainly not stick in your head for a couple reasons. First, you probably see) Tj
+T*
+(no need [?] The post Cryptic but consistent first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Books I Enjoyed In 2026H1) Tj
+T*
+(Source: Fernando Borretti | Published: Wed, 12 Aug 2026 00:00:00 +0000) Tj
+T*
+(Link: https://borretti.me/article/books-i-enjoyed-in-2026-h1) Tj
+T*
+(A list.) Tj
+T*
+() Tj
+T*
+(11. Card Sharks) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-08-12T18:27:39Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17416577/greeting-cards-care-bears-cartoons-history) Tj
+T*
+(The 1980s proved surprisingly fruitful for licensed greeting card mascots. It turns out) Tj
+T*
+(American Greetings understood the Marvel playbook before Marvel did.) Tj
+T*
+() Tj
+T*
+(12. Weekly Update 516: Live From Vietnam) Tj
+T*
+(Source: Troy Hunt | Published: Wed, 12 Aug 2026 08:16:15 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-516/) Tj
+T*
+(A little wind noise, a little connectivity flakiness, and a little lip-sync issues from) Tj
+T*
+(YouTube, but look at that view! ? Back to business, it's the Brinks Home FAQ I found most) Tj
+T*
+(interesting this week. I mean, how do you write your own FAQ then fail to) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: Model collapse \(12 Aug 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 12 Aug 2026 08:55:27) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/08/12/insurance-value-of-biodiversity/) Tj
+T*
+(Today's links Model collapse: Living in a world that's trained on itself. Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: Wired v Dutch hackers; NYT v DMCA; Hair gel terrorist) Tj
+T*
+(threat does not exist; AT&T merger is a screwjob; Smart cities are stupid; RIP Reaganomics.) Tj
+T*
+(Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Model collapse) Tj
+T*
+(\(permalink\) One of my favorite rhetorical and analytical moves is joining things together) Tj
+T*
+(\(showing that two different, seemingly unrelated ideas are aspects of the same phenomenon\) and) Tj
+T*
+(taking them apart \(resolving a paradox by demonstrating that what appears to be one,) Tj
+T*
+(contradictory thing is actually two different things that have been lumped together\). "Taking) Tj
+T*
+(things apart" is a very useful framework for understanding AI. How do we resolve the \(seeming\)) Tj
+T*
+(paradox that some skilled workers report wonderful results from their work with AI, while) Tj
+T*
+(others are full of dire warnings about the lurking defects in their AI-assisted outputs?) Tj
+T*
+(Simple: the f...) Tj
+T*
+() Tj
+T*
+(14. OTel Isn't Going Well \(And I Made A Spreadsheet About It\)) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 471 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: matduggan.com | Published: Wed, 12 Aug 2026 11:14:11 GMT) Tj
+T*
+(Link: https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/) Tj
+T*
+(For years now one of the most reliable complaints I hear when I try to drag a team off their) Tj
+T*
+(vendor specific SDK and onto OpenTelemetry is some variation of: "why does it seem like this) Tj
+T*
+(isn't done yet?" Vendor SDKs for observability are, to put) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004782 00000 n 
+0000004908 00000 n 
+0000009636 00000 n 
+0000009762 00000 n 
+0000013968 00000 n 
+0000014094 00000 n 
+0000014617 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14745
+%%EOF
