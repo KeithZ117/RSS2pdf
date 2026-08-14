@@ -1,0 +1,460 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4253 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-14 11:24:06) Tj
+T*
+() Tj
+T*
+(1. sqlite-utils 4.2.1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-13T23:53:47+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/13/sqlite-utils-2/) Tj
+T*
+(Release: sqlite-utils 4.2.1 Fixes a crashing bug in sqlite-utils 4.2 . I'd introduced code that) Tj
+T*
+(looks like this: from typing_extensions import Self It turned out the typing-extensions package) Tj
+T*
+(was not listed as a dependency for sqlite-utils - it was installed by one of the other) Tj
+T*
+(dependencies in the dev dependency group , but when you uvx sqlite-utils directly you don't get) Tj
+T*
+(those dependencies. As part of fixing this I figured out how to run a smoke test to ensure the) Tj
+T*
+(CLI tool still works even without those dev dependencies, which can be run from the project) Tj
+T*
+(checkout: uv run --isolated --no-default-groups sqlite-utils --help The --no-default-groups) Tj
+T*
+(argument prevents it from installing that default dev group, and --isolated means that even if) Tj
+T*
+(there is a .venv/ folder containing extra dependencies they will be ignored for the duration of) Tj
+T*
+(that uv run command. Tags: packaging , python , sqlite-utils , uv) Tj
+T*
+() Tj
+T*
+(2. sqlite-utils 4.2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-13T20:11:29+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/13/sqlite-utils/) Tj
+T*
+(Release: sqlite-utils 4.2 Lots of improvements in this one relating to the table.transform\(\)) Tj
+T*
+(feature , which adds support for complex alter table operations by creating a fresh table,) Tj
+T*
+(copying across the data and then dropping and replacing the old one. transform\(\) now preserves) Tj
+T*
+(a much larger array of edge-case schema definitions, including check constraints, unique) Tj
+T*
+(constraints and even comments describing the columns. There are also new introspection) Tj
+T*
+(properties for check constraints, and a whole lot of other smaller changes. Includes) Tj
+T*
+(contributions from Bunlong Heng , ethanhawkes-gif , Rami Abdelrazzaq , nyxst4ck , and) Tj
+T*
+(ikatyal2110 . \(It later turned out 4.2 had a crashing bug , fixed in 4.2.1 .\) Tags: releases ,) Tj
+T*
+(sqlite , sqlite-utils) Tj
+T*
+() Tj
+T*
+(3. llm-gemini 0.33) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-13T19:37:34+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/13/llm-gemini/) Tj
+T*
+(Release: llm-gemini 0.33 It's been a while since the last llm-gemini release. This version of) Tj
+T*
+(the plugin adds support for today's Gemini 3.7 Flash release, plus gemini-3.6-flash ,) Tj
+T*
+(gemini-3.5-flash-lite and two embedding models gemini-embedding-2 and gemini-embedding-001 .) Tj
+T*
+(The plugin is also upgraded for compatibility with LLM 0.32, which means you can now see) Tj
+T*
+(reasoning traces and you can also enable server-side tools using this pattern: llm -m) Tj
+T*
+(gemini-3.7-flash -T CodeExecution \\ 'use python to calculate \(factorial of 13\) * 3' I had) Tj
+T*
+(Gemini 3.7 Flash draw me some pelicans riding bicycles at high, medium, and low thinking) Tj
+T*
+(efforts \(minimal, which was an option in 3.6 Flash, has been removed in 3.7.\) Here's the high) Tj
+T*
+(level one, which is pretty great: One catch though: the pelican I showed here was rendered with) Tj
+T*
+(Safari. Both Firefox and Chrome render it differently, due to Safari being more tolerant of) Tj
+T*
+(empty SVG elements than those other two browsers. They still display the bicycle, but the) Tj
+T*
+(pelican is missing entirely! Tags: google , ai , generative-ai , llms , llm , gemini ,) Tj
+T*
+(pelican-riding-a-bicycle , llm-release) Tj
+T*
+() Tj
+T*
+(4. The comments that go into code versus those that go into the pull request description) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 12 Aug 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607) Tj
+T*
+(Understanding the temporal relevance. The post The comments that go into code versus those that) Tj
+T*
+(go into the pull request description appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(5. Ceramic Shield 2 Is the Real Deal) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-13T15:46:41Z) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4829 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.tomsguide.com/phones/iphones/iphone-17-and-iphone-air-durability-testing-here) Tj
+T*
+(s-how-the-new-iphones-stand-up-to-bending-scratching-and-dropping) Tj
+T*
+(Philip Michaels, writing last September for Tom?s Guide: iPhone 17 torture test videos done by) Tj
+T*
+(JerryRigEverything indicate that Ceramic Shield 2 certainly resists scratching, with scratch) Tj
+T*
+(testing leaving only light scratches at level 7 on the Mohs scale of hardness. Scratches) Tj
+T*
+(typically show up on glass at levels 5 or 6 on that scale. ?Ceramic Shield 2 is indeed the best) Tj
+T*
+(we?ve ever seen,? JerryRigEverything remarks in the iPhone 17 Pro testing video . That backs up) Tj
+T*
+(Apple?s own Ceramic Shield 2 video , in which a mineral tip can be seen rubbing against a) Tj
+T*
+(Ceramic Shield 2-coated display. There?s residue left on the screen, but it?s material from) Tj
+T*
+(that tip, as it wipes away fairly easily. I mentioned yesterday that I try never to place my) Tj
+T*
+(iPhones face down, to avoid scratches, and that my nearly year-old iPhone 17 Pro seemingly has) Tj
+T*
+(not one visible scratch on the front glass. Not even a single micro abrasion I can see, even) Tj
+T*
+(when tilting it with the display off to hunt for them. Surely Apple?s Ceramic Shield 2, which) Tj
+T*
+(is intended to provide best-ever scratch resistance, is a factor too ? and likely the biggest) Tj
+T*
+(factor. Apple at its best. ?) Tj
+T*
+() Tj
+T*
+(6. TechCrunch on Google?s Pixel 11 Lineup) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-12T19:45:58Z) Tj
+T*
+(Link: https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/) Tj
+T*
+(Ivan Mehta, TechCrunch: With this year?s Pixel 11 series launch, Google is thinking more) Tj
+T*
+(agentic AI to complete your tasks. With Gemini, U.S.-based users will be able to order) Tj
+T*
+(groceries, book rides, or get coffee, for instance. Plus, Gemini can call businesses on users?) Tj
+T*
+(behalf for table reservations or appointments. Google said that users can take over or stop) Tj
+T*
+(tasks at any point in time and also review transcripts for AI-operated calls. Over the next few) Tj
+T*
+(weeks, a new slate of connected apps will be able to work with Gemini to get things done,) Tj
+T*
+(including Granola, Otter.ai, Wix, Fever, Get Your Guide, Localiza, OpenTable \(U.K.\),) Tj
+T*
+(Ticketmaster, iHeartRadio, Pandora, Angi, Thumbtack, and Zocdoc. I?ve never heard of most of) Tj
+T*
+(those apps, or, if I have heard of them, I thought they went defunct years ago. The one app) Tj
+T*
+(amongst those I do use, OpenTable, apparently only supports this Gemini integration in the) Tj
+T*
+(U.K.? Another knockout year for the Pixel phones and Android. ?) Tj
+T*
+() Tj
+T*
+(7. Hands-On With Google Pixel 11 Pro Fold) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-12T19:40:51Z) Tj
+T*
+(Link: https://www.engadget.com/2235294/google-pixel-11-pro-fold-hands-on/) Tj
+T*
+(Sam Rutherford, writing for Engadget: Granted, the P11 Pro Fold still includes IP68 dust and) Tj
+T*
+(water resistance, which is better than what you get on the Z Fold 8 line \(IP48\). But after) Tj
+T*
+(making an absolute tank of a foldable phone with last year?s model, I said Google really needed) Tj
+T*
+(to cut weight and thickness this generation, and it just hasn?t. Instead, it seems like Google) Tj
+T*
+(has leaned even more into the Pro Fold?s sturdiness with a new glass fibre material for its) Tj
+T*
+(rear panel that the company says is nearly impossible to crack. This is great in theory, but) Tj
+T*
+(obviously I wasn?t in a position to smash one of Google?s demo units in order to test that) Tj
+T*
+(claim. I have never seen anyone, anywhere, with a folding Pixel phone. Pretty sure I won?t this) Tj
+T*
+(year either . I played with a Pixel 10 Fold or whatever its name was last year at the Google) Tj
+T*
+(Store on Newbury street in Boston, which store felt like a small library or museum. The Pixel) Tj
+T*
+(Fold display was so plasticky that I had a moment where I wondered if the display units were) Tj
+T*
+(fake props, like at Ikea. But no, it was the real thing. And it cost $1,800 to start. ?) Tj
+T*
+() Tj
+T*
+(8. Hadamard Codes and Sphere Packing) Tj
+T*
+(Source: John D. Cook | Published: Fri, 14 Aug 2026 01:35:05 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/) Tj
+T*
+(Yesterday Levent Alpöge announced that he and his colleagues had discovered a new Hadamard) Tj
+T*
+(matrix using Claude AI. That motivated a post I wrote this morning on how to construct Hadamard) Tj
+T*
+(matrices. I mentioned in that post that these matrices arise in applications. This evening I) Tj
+T*
+(gave an example, describing how NASA used a Hadamard [?] The post Hadamard Codes and Sphere) Tj
+T*
+(Packing first appeared on John D. Cook .) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4137 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(9. How NASA?s Mariner 9 probe encoded images) Tj
+T*
+(Source: John D. Cook | Published: Thu, 13 Aug 2026 23:54:21 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/) Tj
+T*
+(NASA set Mariner 9 to photograph Mars in 1971. The images had to be encoded for transmission) Tj
+T*
+(using an error-correcting code, otherwise they would be significantly corrupted when they were) Tj
+T*
+(received on Earth. The images were encoded for transmission using a code based on Hadamard) Tj
+T*
+(matrices, specifically a \(32, 6, 16\) Hadamard code. This means [?] The post How NASA?s Mariner) Tj
+T*
+(9 probe encoded images first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Constructing Hadamard matrices) Tj
+T*
+(Source: John D. Cook | Published: Thu, 13 Aug 2026 15:02:41 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/13/constructing-hadamard-matrices/) Tj
+T*
+(A Hadamard matrix is an orthogonal matrix whose entires are all either 1 or ? 1. For example is) Tj
+T*
+(a Hadamard matrix of order 2. True to Stigler?s law of eponymy, James Joseph Sylvester) Tj
+T*
+(investigated Hadamard matrices before Jacques Hadamard. Sylvester saw how to bootstrap the) Tj
+T*
+(example above into more examples. If H is a [?] The post Constructing Hadamard matrices first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 13 Aug 2026 22:23:25 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/) Tj
+T*
+(Quite simply marvellous! Three Scottish divas giving us their interpretations of the greats) Tj
+T*
+(while backed by an excellent pianist. So many shows at the Fringe skimp on sets and props - not) Tj
+T*
+(this! A luscious array of costumes, hats, wigs, and ruby slippers bring the characters to life.) Tj
+T*
+(The framing is thin but serviceable - the backstage helpers are reminiscing about their) Tj
+T*
+(favourite stars and bring ?) Tj
+T*
+() Tj
+T*
+(12. Edinburgh Fringe: The Musical Mystery Caller ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 13 Aug 2026 20:21:53 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/) Tj
+T*
+(Walking down the street, I noticed a ringing phone box so, naturally, I answered it. What) Tj
+T*
+(happened next was a few minutes of pure fringe magic! I had a little chat with the caller, he) Tj
+T*
+(welcomed me to the smallest venue in the fringe, and then he improvised a banger of a song) Tj
+T*
+(based on my peculiar proclivities. What a treat to have a front row experience at a one man) Tj
+T*
+(\(and one audience member\)?) Tj
+T*
+() Tj
+T*
+(13. Edinburgh Fringe: Miscast Sondheim ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 13 Aug 2026 18:45:15 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/) Tj
+T*
+(I'm not sure what they're teaching at LAMDA, but it certainly isn't vocal projection. We were) Tj
+T*
+(forewarned about the technical difficulties - but if a trained stage singer can't reach the 6th) Tj
+T*
+(row of a tiny theatre, that can't be blamed on the backstage team. The show advertises itself) Tj
+T*
+(as: What happens when you take Sondheim?s most beloved music and turn it on its head? Ingénues) Tj
+T*
+(become villains, vi?) Tj
+T*
+() Tj
+T*
+(14. Supplier Security Questionnaire) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-08-13T17:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/08/13/supplier-security-questionnaire.html) Tj
+T*
+(From: Third-Party Risk Management To: [address extracted from package metadata] Subject: ACTION) Tj
+T*
+(REQUIRED: Annual Supplier Security Assessment Due: 5 business days from receipt Hi, Our) Tj
+T*
+(software inventory has identified you as the supplier of a software component in our production) Tj
+T*
+(estate \(the ?Component?\). All such suppliers are required to complete our standard security) Tj
+T*
+(assessment annually. We were unable to locate a procurement contact for your organisation and) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2377 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(are reaching out to the address in the package manifest. Where a question does not apply,) Tj
+T*
+(please state why. Blank responses are scored as a fail. Estimated time to complete: 20 minutes.) Tj
+T*
+(Kind regards, D. Ligence Third-Party Risk Management Section 1: General 1.1 Name of the) Tj
+T*
+(Component. 1.2 URL of the primary source repository. 1.3 The OSI-approved licence under which) Tj
+T*
+(the Component is distributed. 1.4 Monitored group mailbox for the maintainer team. 1.5 Current) Tj
+T*
+(GitHub star count for the primary repository. 1.6 Please account for any period of thirty days) Tj
+T*
+(or more in the past twelve months during which no commits were made to the primary repository.) Tj
+T*
+(Section 2: Security 2.1 URL of the supplier?s published vulnerability disclosure...) Tj
+T*
+() Tj
+T*
+(15. Another partial SSI trick with canonicalize) Tj
+T*
+(Source: Max Bernstein's Blog | Published: Thu, 13 Aug 2026 00:00:00 +0000) Tj
+T*
+(Link: https://bernsteinbear.com/blog/more-partial-ssi/?utm_source=rss) Tj
+T*
+(After reading Chris Fallin?s aegraph post , new ZJIT contributor dak2 landed a block-local) Tj
+T*
+(version of the canonicalize function in #16828 . The pseudocode of the block-local canonicalize) Tj
+T*
+(function looks like this: for block in function . reverse_post_order \(\): rewrite_map = {} for) Tj
+T*
+(insn in block . insns : insn . operands . map_in_place \( lambda o : rewrite_map . get \( o , o) Tj
+T*
+(\)\) if insn . opcode == "GuardType" : rewrite_map [ insn . val ] = insn As a refresher, this) Tj
+T*
+(turns IR like this: v0:Object = ... v1:Int = GuardType v0, Int ... do something with v1 v2:Int) Tj
+T*
+(= GuardType v0, Int ... do something with v2 into this: v0:Object = ... v1:Int = GuardType v0,) Tj
+T*
+(Int ... do something with v1 v2:Int = GuardType v1, Int ... do something with v2 Note that the) Tj
+T*
+(second use of v0 has been turned into v1 . This is important because a later constant-folding) Tj
+T*
+(pass can observe that the input v1 of GuardType v1, Int is already an Int and can therefore) Tj
+T*
+(replace all uses of v2 with v1 and delete the guard. Because in this local version we make a) Tj
+T*
+(new rewrite_map for each block, we don?t carry any rewrites across blocks \(but ZJIT still) Tj
+T*
+(gained a lot because until recently its IR was in maximal SSA form, so a block...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004515 00000 n 
+0000004641 00000 n 
+0000009522 00000 n 
+0000009648 00000 n 
+0000013837 00000 n 
+0000013963 00000 n 
+0000016393 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16521
+%%EOF
