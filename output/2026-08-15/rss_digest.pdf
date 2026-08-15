@@ -1,0 +1,476 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4415 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-15 10:13:29) Tj
+T*
+() Tj
+T*
+(1. Don't classify. Hallucinate!) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-14T21:54:35+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/) Tj
+T*
+(Don't classify. Hallucinate! I still have quite a bit of older content on my blog that I never) Tj
+T*
+(got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM in one go and) Tj
+T*
+(say "which of these tags match the following content". Doug Turnbull has a neat solution. Tell) Tj
+T*
+(the model to output tags without any details of the existing vocabulary, then use vector) Tj
+T*
+(embeddings against the existing corpus to find the concrete tags that are closest to the ones) Tj
+T*
+(the model imagined might fit! His example prompt suggests including an example of the shape of) Tj
+T*
+(your tags to help the model make a more useful guess: Your task is to create novel, never seen) Tj
+T*
+(before, furniture, home goods, or hardware classification that best fit a search query. Product) Tj
+T*
+(classifications might look like: Furniture / Living Room Furniture / Coffee Tables & End Tables) Tj
+T*
+(/ Coffee Tables DÈcor & Pillows / Decorative Pillows & Blankets / Throw Pillows Furniture /) Tj
+T*
+(Bedroom Furniture / Dressers & Chests Kitchen & Tabletop / Kitchen Organization / Food Storage) Tj
+T*
+(& Canisters School Furniture and Supplies / School Furniture / School Chairs & Seating /) Tj
+T*
+(Stackable Chairs Baby & Kids / Toddler & Kids Bedroom Furniture / Kids Be...) Tj
+T*
+() Tj
+T*
+(2. alchemy-utils 0.1a1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-13T03:03:17+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/13/alchemy-utils/) Tj
+T*
+(Release: alchemy-utils 0.1a1 Performance boost for DuckDB exports and CSV imports, see here .) Tj
+T*
+() Tj
+T*
+(3. There are no lossless transformations of natural-language text) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-11T23:48:35+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-la) Tj
+T*
+(nguage-text/) Tj
+T*
+(There are no lossless transformations of natural-language text Sophie Alpert shares her) Tj
+T*
+("internal policy on acceptable use of AI writing by engineers". It's a short read \(supporting) Tj
+T*
+(its own recommendations\) and really good. If you chose to have LLMs help massage your writing) Tj
+T*
+(the following rule seems crucial to me: You must stand behind every idea and every sentence in) Tj
+T*
+(your docs . It is your responsibility to make sure that the entire document is representative) Tj
+T*
+(of your own thoughts before you share it. If a reviewer asks, ?What did you mean by this) Tj
+T*
+(line??, it?s not acceptable to reply with ?Oh sorry, AI wrote that, just ignore it.? You will) Tj
+T*
+(confuse your readers \(and waste their time\) if you present them things that are not genuinely) Tj
+T*
+(representative of your thoughts. The "no lossless transformations" idea from the post title is) Tj
+T*
+(expanded on here: There are no lossless transformations of natural-language text ? every) Tj
+T*
+(rewrite and rephrase changes the meaning of your writing, and if this is done by an entity that) Tj
+T*
+(doesn?t have the most detailed mental representation of what you personally were trying to) Tj
+T*
+(communicate, information will be lost. Tags: writing , ai , generative-ai , llms , ai-...) Tj
+T*
+() Tj
+T*
+(4. ? You Don?t Need to Worry About Scratching Your iPhone Camera Lenses) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-14T17:16:15Z) Tj
+T*
+(Link: https://daringfireball.net/2026/08/iphone_camera_lens_scratch_resistance) Tj
+T*
+(The exposed lens covers are made of sapphire, not glass, and are thus incredibly scratch) Tj
+T*
+(resistant. And even if, somehow, do you pick up a scratch on a lens cover, it almost certainly) Tj
+T*
+(won?t affect image quality at all.) Tj
+T*
+() Tj
+T*
+(5. Google?s ?Material 3? Design Write-Up Is 93.3 Percent Embarrassing) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-14T16:33:55Z) Tj
+T*
+(Link: https://design.google/library/expressive-material-design-google-research) Tj
+T*
+(This page from Google Design on their ?Material 3? UI language came to my attention after my) Tj
+T*
+(snarky post about the ungainly new to-do app they bizarrely bragged about on Twitter/X this) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4428 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(week. I don?t think this ?Material 3? page is new ? I think it?s a few years old ? but I?d) Tj
+T*
+(never seen it before. First, it?s crazy that \(in desktop browsers with a mouse cursor\) they) Tj
+T*
+(change the I-beam cursor for text selection to ... a circle. I guess it looks kind of fun but) Tj
+T*
+(the whole point of the I-beam cursor is to enable precise character selection. They changed) Tj
+T*
+(that to something that makes precise selection as difficult as possible. It?d be better to just) Tj
+T*
+(use an arrow pointer than to replace the I-beam with a goddamn circle. This, from the UI design) Tj
+T*
+(team. Second, this paragraph made me honestly wonder if I was reading a spoof, a years-old) Tj
+T*
+(unfunny April Fool?s ?prank?. But as far as I can tell this is totally straight, not a prank:) Tj
+T*
+(These factors can be quantified in users? responses to new M3 Expressive designs. We found a) Tj
+T*
+(32% increase in subculture perception, which indicates that expressive design makes a brand) Tj
+T*
+(feel more relevant and ?in-the-know.? We also saw a 34% boost in modernity, making...) Tj
+T*
+() Tj
+T*
+(6. Google?s Pixel Watch 5) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-12T19:38:03Z) Tj
+T*
+(Link: https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearabl) Tj
+T*
+(es-smartwatch) Tj
+T*
+(Victoria Song, The Verge: The $399 Google Pixel Watch 5 isn?t about the hardware. Sure, there?s) Tj
+T*
+(a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition.) Tj
+T*
+(Under the hood, there?s a slightly faster Qualcomm processor and an itty-bitty battery bump.) Tj
+T*
+(There?s a $50 price hike from last year, too, because the Pixel Watch 5 isn?t immune to) Tj
+T*
+(RAMageddon ? none of us are. Otherwise, no one would blame you for looking at this watch and) Tj
+T*
+(thinking absolutely nothing?s changed. That?s because the big updates this year are all) Tj
+T*
+(software-based. I have never seen anyone in real life wearing a Pixel Watch. \(I?ve only seen a) Tj
+T*
+(handful of people using Pixel phones, and every single one of them was at a tech event of some) Tj
+T*
+(sort.\) You can also use AI to generate watchfaces. I created a watchface featuring ?fat cats) Tj
+T*
+(and an elegant font.? It didn?t quite do that. The fat cats weren?t characters, so much as) Tj
+T*
+(pleasantly plump, cat-shaped clock numbers. It?s a gimmicky way to shoehorn the Nano Banana) Tj
+T*
+(model onto the watch? but if that?s your thing, it works. Well I?m sure now I?ll see plenty of) Tj
+T*
+(people wearing Pixel Watches. ?) Tj
+T*
+() Tj
+T*
+(7. Forcing an ARM64X executable to run as a specific architecture) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 14 Aug 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260814-00/?p=112613) Tj
+T*
+(You can request the target machine architecture. The post Forcing an ARM64X executable to run) Tj
+T*
+(as a specific architecture appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. A little helper class for managing LPPROC_THREAD_ATTRIBUTE_LISTs) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 13 Aug 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260813-00/?p=112611) Tj
+T*
+(Another RAII-style wrapper. The post A little helper class for managing LPPROC_ THREAD_) Tj
+T*
+(ATTRIBUTE_ LIST s appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Who?s Tracking You? Use This New Service to Find Out) Tj
+T*
+(Source: Krebs on Security | Published: Fri, 14 Aug 2026 11:24:35 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/) Tj
+T*
+(It can be daunting to determine who's responsible for showing ads on the websites we visit, or) Tj
+T*
+(who's harvesting data from the mobile apps we use every day. That information is already) Tj
+T*
+(semi-public, but it is not easily parsed and traditionally much of it has remained walled away) Tj
+T*
+(in the hands of large advertising platforms. Not anymore: A powerful and free new service) Tj
+T*
+(called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn) Tj
+T*
+(a great deal about the entities that are tracking you.) Tj
+T*
+() Tj
+T*
+(10. Printing Lists) Tj
+T*
+(Source: matklad | Published: 2026-08-14T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/08/14/printing-lists.html) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3827 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(To print a comma-separated list, a concise idiom is to optionally print the comma first, before) Tj
+T*
+(the element:) Tj
+T*
+() Tj
+T*
+(11. Edinburgh Fringe: Target Audience ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 14 Aug 2026 18:45:41 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-target-audience/) Tj
+T*
+(Easily the best show I've seen at the Fringe. For plot-related reasons, a television company) Tj
+T*
+(asks a literary genius to create a "pro-weapons sitcom". It is a fast paced mix of the sitcoms) Tj
+T*
+(2012 and Episodes. The jokes come at a steady pace - some attack with the furiousity of) Tj
+T*
+(bullets, others the the subtlety of a knife in the night. All four of the cast are spectacular.) Tj
+T*
+(Turning the?) Tj
+T*
+() Tj
+T*
+(12. Edinburgh Fringe: Stand-up Philosophy ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 14 Aug 2026 15:16:26 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-stand-up-philosophy/) Tj
+T*
+(For a pay-what-you-want show this was decent. Three comedians doing sets on the theme of) Tj
+T*
+(philosophy - followed by a Q&A where the audience poses philosophical conundrums to them. It) Tj
+T*
+(more-or-less works as a gimmick. Although an early afternoon crowd may have been more likely to) Tj
+T*
+(ask questions anonymously. I've never seen a Sikh doing an unnervingly accurate impression of) Tj
+T*
+(Trump before. Daman?) Tj
+T*
+() Tj
+T*
+(13. Edinburgh Fringe: Waiting for Wonka ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 14 Aug 2026 12:31:07 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-waiting-for-wonka/) Tj
+T*
+(This play is fucked up! Such a brilliant concept - what happened to the kids from Charlie and) Tj
+T*
+(the Chocolate Factory after they were rejected by Wonka? Stuck together in a Big-Brotheresque) Tj
+T*
+(household, they trauma-dump on each other. New Zealand's Half Trick have shrunk their) Tj
+T*
+(full-length play into a Fringe-standard 60 minutes. That does make it a little brusque and,) Tj
+T*
+(simultaneously, a bit?) Tj
+T*
+() Tj
+T*
+(14. How This Blog Is Built) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-08-14T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/08/14/how-this-blog-is-built.html) Tj
+T*
+(It?s Jekyll, hosted on GitHub Pages.) Tj
+T*
+() Tj
+T*
+(15. How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II) Tj
+T*
+(Source: Construction Physics | Published: Fri, 14 Aug 2026 12:03:37 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/how-will-the-21st-century-road-to) Tj
+T*
+(This is the second installment of my look under the hood of the recently passed 21st Century) Tj
+T*
+(ROAD to Housing Act, looking at what each provision actually does and trying to suss out its) Tj
+T*
+(actual impact on housing supply.) Tj
+T*
+() Tj
+T*
+(16. Premium: How Much Money Does AI Need?) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 14 Aug 2026 15:48:21 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-how-much-money-does-ai-need/) Tj
+T*
+(I?ve heard from people in the past that my articles are too long, and I wanted to start by) Tj
+T*
+(saying that, for the most part, they?re going to stay long, because I feel like the only way) Tj
+T*
+(for me to make my arguments is to be) Tj
+T*
+() Tj
+T*
+(17. Oh Hey, It?s Not Just Me) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Fri, 14 Aug 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/its-not-just-me/) Tj
+T*
+(My whole life I?ve felt like I have great eyesight \(and I still do\). But lately I?ve been) Tj
+T*
+(noticing what feels like?some slippage. Nothing big. Just this feeling in the morning like, as) Tj
+T*
+(my brain and body wake up, my vision needs to as well. The strange novelty of this phenomenon) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2726 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(was operating in some small part of my subconscious the other day when I was scrolling the) Tj
+T*
+(internet and come across this post from Chris Coyier : you ever get to your mid fourties and) Tj
+T*
+(have your eyesight drop off a friggin cliff And I?m all like: And then even more people weighed) Tj
+T*
+(in on Chris? thread, like ?Hey me too!? This is why I love the web. I continually get that) Tj
+T*
+(feeling of, ?Oh hey, it?s not just me!? On both a personal and a professional level. And for) Tj
+T*
+(that I?m grateful. I love being able to connect with people in a way that makes me not feel so) Tj
+T*
+(alone \(or weird\) in my experience of life. In a polarized digital world, it?s good to remember) Tj
+T*
+(that the web can still draw you to folks rather than push them away. We?ve got a lot in common.) Tj
+T*
+(Reply via: Email ∑ Mastodon ∑ Bluesky) Tj
+T*
+() Tj
+T*
+(18. This Week on The Analog Antiquarian) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 14 Aug 2026 16:05:50 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/) Tj
+T*
+(Richard Goes to the Movies) Tj
+T*
+() Tj
+T*
+(19. Pluralistic: Capital formation \(14 Aug 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 14 Aug 2026 11:10:41) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/08/14/one-chokable-throat/) Tj
+T*
+(Today's links Capital formation: Going legit means going mainstream. Hey look at this: Delights) Tj
+T*
+(to delectate. Object permanence: London Copyfighters x Speaker's Corner; TSA v lipstick; Long) Tj
+T*
+(Beach v photographers; China x David Cameron's internet censorship; McMansion Hell;) Tj
+T*
+(Copyrighting an MTG deck; "Privacy preserving age verification" delenda est. Upcoming) Tj
+T*
+(appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances:) Tj
+T*
+(Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like) Tj
+T*
+(I said, I'll keep writin' 'em. Colophon: All the rest. Capital formation \(permalink\) Funny) Tj
+T*
+(thing about competition: there's both a pro-market and an anti-market case for a competitive) Tj
+T*
+(system. https://pluralistic.net/2026/08/13/one-chokable-throat/#too-clever-by-half If your) Tj
+T*
+(theory is that markets deliver prosperity by spurring businesses to provide the superior) Tj
+T*
+(products and services at lower prices needed to attract and retain workers and customers, then) Tj
+T*
+(competition is a must-have. Without competitors, companies are "too big to care":) Tj
+T*
+(https://pluralistic.net/2024/04/04/teach-me-how-to-shruggie/#kagi Meanwhile, if you think that) Tj
+T*
+(the pressure o...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004677 00000 n 
+0000004803 00000 n 
+0000009283 00000 n 
+0000009409 00000 n 
+0000013288 00000 n 
+0000013414 00000 n 
+0000016193 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16321
+%%EOF
