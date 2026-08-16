@@ -1,0 +1,412 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4174 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-16 10:20:31) Tj
+T*
+() Tj
+T*
+(1. CORS Chat) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-15T14:49:54+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/15/cors-chat/) Tj
+T*
+(Tool: CORS Chat I built this today \( with GPT-5.6-Sol xhigh \) to help test Qwen 3.8 27B running) Tj
+T*
+(in LM Studio on both my M5 MacBook Pro and an NVIDIA DGX Spark. It provides a web UI for) Tj
+T*
+(exercising an OpenAI-Responses-compatible chat endpoint. I've tried it against LM Studio with) Tj
+T*
+(the --cors option and OpenRouter, and both work fine. Conversations are persisted in the) Tj
+T*
+(browser and can be exported as copy-pasted JSON. One fun detail is that it notices SVG images) Tj
+T*
+(that are being generated and progressively renders them in the chat while the tokens are still) Tj
+T*
+(streaming in. Tags: svg , ai , generative-ai , llms , cors , openrouter , lm-studio) Tj
+T*
+() Tj
+T*
+(2. Northern Gannet) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-15T03:22:00+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/15/sighting-391300422/) Tj
+T*
+(Northern Gannet, in Pillar Point Harbor, CA, US This is Morris. Morris is a local celebrity:) Tj
+T*
+(the only known Northern Gannet \( Morus bassanus \) in the entire Pacific Ocean. They showed up) Tj
+T*
+(in the Farallon Islands off the coast of San Francisco 14 years ago . They have since made) Tj
+T*
+(Pillar Point harbor their home, where they are quite easy to spot: the only white bird with a) Tj
+T*
+(yellow head, usually hanging out with the smaller black Brandt?s cormorants near the harbor) Tj
+T*
+(sign visible from the end of the commercial pier. Tags: photography , wildlife , half-moon-bay) Tj
+T*
+() Tj
+T*
+(3. Stealing Reasoning Traces from Proprietary LLM APIs) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-11T22:40:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/) Tj
+T*
+(Stealing Reasoning Traces from Proprietary LLM APIs A vanity domain name \( stolen-thoughts.com) Tj
+T*
+(\) for a neat paper : Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to) Tj
+T*
+(clients that can be replayed across sessions, users, and models. We take a trace produced by a) Tj
+T*
+(frontier model, replay it into a weaker sibling, jailbreak the weaker model, and recover the) Tj
+T*
+(stronger model?s hidden reasoning in plaintext You can see an example of these encrypted blocks) Tj
+T*
+(by running: curl https://api.openai.com/v1/responses \\ -H " Content-Type: application/json " \\) Tj
+T*
+(-H " Authorization: Bearer $\( llm keys get openai \) " \\ -d ' { "model": "gpt-5.6-luna",) Tj
+T*
+("input": "Solve step by step: What is the smallest positive integer divisible by every integer) Tj
+T*
+(from 1 through 20?", "reasoning": { "effort": "medium" }, "include":) Tj
+T*
+(["reasoning.encrypted_content"], "store": false, "stream": false } ' Here's the full output ,) Tj
+T*
+(which includes chunks that look like this: "output": [ { "id":) Tj
+T*
+("rs_0a7479de7ebae170016a7ba1a0334c8198a95590217efe343c", "type": "reasoning", "content": [],) Tj
+T*
+("encrypted_content": "gAAAAABqe6GjepE1wDjbFCZg0BHB6ucGnN0jvzqygG... The paper's authors found) Tj
+T*
+(that every model under the same fa...) Tj
+T*
+() Tj
+T*
+(4. Drata) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-15T21:40:15Z) Tj
+T*
+(Link: https://drata.com/daring) Tj
+T*
+(My thanks to Drata for sponsoring last week at DF. Their message is short and sweet: Leverage) Tj
+T*
+(autonomous AI agents to automate compliance, manage internal and third-party risk, and) Tj
+T*
+(continuously prove your security posture. ?) Tj
+T*
+() Tj
+T*
+(5. Amazon Is Spiting Customers With Unhelpful Order Confirmation Emails) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-12T18:51:01Z) Tj
+T*
+(Link: https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gma) Tj
+T*
+(il-ai-agents-data) Tj
+T*
+(Mia Sato, The Verge: Earlier this summer, Amazon customers began noticing that emails related) Tj
+T*
+(to their online orders looked sparse: Order confirmation emails didn?t name specific items) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4595 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(anymore, and instead listed only item categories. ?Your Beauty item is confirmed!? an email) Tj
+T*
+(about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted) Tj
+T*
+(emails as well: ? Ordered: 1 Hardware item ,? ? Your Drugstore, Shoes, and other items are) Tj
+T*
+(here! ? and ? 1 Nutrition & Wellness, 1 Wireless Accessories ,? for example. The emails have) Tj
+T*
+(clip art-style illustrations of general product categories, and a shopper has to exit their) Tj
+T*
+(email and go to Amazon to see what item it?s actually referring to. Complaints about the vague) Tj
+T*
+(emails appear to have started in July; orders placed as recently as June contain thumbnails and) Tj
+T*
+(names of the exact item purchased. [...] ?As customers shop with us more frequently, including) Tj
+T*
+(on their phones, and use the ?Your Orders? page in the Amazon app to get real-time,) Tj
+T*
+(consolidated order details and delivery status, we?ve simplified several order-related emails) Tj
+T*
+(to direct customers to our app and website for the latest information on their orders,?...) Tj
+T*
+() Tj
+T*
+(6. App Store Scam of the Week: ?TabControl Extension? for Safari) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-12T15:06:05Z) Tj
+T*
+(Link: https://lapcatsoftware.com/articles/2026/8/4.html) Tj
+T*
+(Jeff Johnson: These purported reviews, all but one of which is 5 stars, are all in English. Yet) Tj
+T*
+(none of them is in the US App Store. I also looked at other English-speaking countries such as) Tj
+T*
+(Australia and Canada but found no reviews. Also suspicious is that the name of every reviewer) Tj
+T*
+(was a first name followed by an initial for the last name. If you?ve ever looked through App) Tj
+T*
+(Store user reviews, it?s unusual to find this naming format. In most cases, the name on App) Tj
+T*
+(Store user reviews is a uniquely chosen username, with no space character, often suffixed by a) Tj
+T*
+(number. The final and most conclusive evidence that these reviews are fake, totally invented) Tj
+T*
+(out of thin air by the developer \(or more likely, by an LLM\), is that the dates on the reviews,) Tj
+T*
+(such as ?Mar 12,? predate the release of TabControl Extension in the App Store! God only knows) Tj
+T*
+(what this obvious AI slop scam is doing with the data from users? Safari tabs. It?s currently) Tj
+T*
+(the 12th or 13th most popular Safari extension in the App Store. ?) Tj
+T*
+() Tj
+T*
+(7. Probability of correcting errors) Tj
+T*
+(Source: John D. Cook | Published: Sat, 15 Aug 2026 16:33:56 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/) Tj
+T*
+(Error correcting codes are most simply described in terms of the errors they can certainly) Tj
+T*
+(correct. For example, the Hadamard code used for the Mariner 9 probe to Mars encoded each 6-bit) Tj
+T*
+(pixel to a 32-bit codeword in such a way that the original pixel could be recovered if no more) Tj
+T*
+(than 7 bits were [?] The post Probability of correcting errors first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(8. Compressing a Hadamard matrix) Tj
+T*
+(Source: John D. Cook | Published: Sat, 15 Aug 2026 15:40:43 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/15/compressing-a-hadamard-matrix/) Tj
+T*
+(Hadamard matrices are in the news following the recent announcement of a newly discovered) Tj
+T*
+(Hadamard matrix. I?ve written three posts on Hadamard matrices recently, one as a sort of) Tj
+T*
+(introduction and two on applications: the error correcting code used in the Mariner 9 probe and) Tj
+T*
+(constructing sphere packings. A Hadamard matrix is an orthogonal matrix [?] The post) Tj
+T*
+(Compressing a Hadamard matrix first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Book Review: Slags by Emma Jane Unsworth ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 15 Aug 2026 11:34:42 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/) Tj
+T*
+(I'm really not sure what to make of this book. It was recommended by my book club as something) Tj
+T*
+(between tragedy and comedy. The characters are excruciatingly well written - if you \(or your) Tj
+T*
+(friends\) shoplifted Impulse body-spray back in the 1990s, you'll be hit by a terrifying wave of) Tj
+T*
+(nostalgia. It reminds me of this excellent essay by Marie Le Conte about consent. What can a) Tj
+T*
+(teenage girl?) Tj
+T*
+() Tj
+T*
+(10. Edinburgh Fringe: Hot Flush ? A Bold, We?re Old\(ish\) Burlesque Show ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 13 Aug 2026 16:45:02 +0000) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4145 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link:) Tj
+T*
+(https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/) Tj
+T*
+(Are menopausal women hot? It is often said that pornographic actresses move straight from) Tj
+T*
+("barely legal" to "MILF" without so much as moment in between. Unlike the fringe's other) Tj
+T*
+(burlesque shows - which seem to exclusively feature nymphettes and twinks with nary a grey hair) Tj
+T*
+(between them - Hot Flush focuses on the over 40s. Look, you probably don't want to read a) Tj
+T*
+(review of how tempting I found?) Tj
+T*
+() Tj
+T*
+(11. Edinburgh Fringe - Eleanor Morton: The Mermaid ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 13 Aug 2026 14:55:59 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-eleanor-morton-the-mermaid/) Tj
+T*
+(The undisputed queen of short-form viral video comedy snacks takes to the stage. Well, swims to) Tj
+T*
+(the stage. The Mermaid is a delightful and gentle amble through the confusing world of a girl) Tj
+T*
+(who just wants to become a mermaid. Less standup and more storytelling, nevertheless it packs) Tj
+T*
+(in the laughs with some rather clever jokes, a bit of bawdy humour, and - a rarity on The) Tj
+T*
+(Fringe - a decently?) Tj
+T*
+() Tj
+T*
+(12. Site update: a few posts have been removed) Tj
+T*
+(Source: Xe Iaso's blog | Published: Sat, 15 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/notes/2026/blogposts-removed/) Tj
+T*
+(TL;DR: hospital drugs are some shit, man) Tj
+T*
+() Tj
+T*
+(13. This Week in Package Management: 15 August 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-08-15T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/08/15/this-week-in-package-management.html) Tj
+T*
+(Week thirteen of the roundup, built from the package manager OPML feed collection and whatever) Tj
+T*
+(I?ve posted or boosted on Mastodon . Releases pnpm 12, the Rust rewrite, reached RC 5 and the) Tj
+T*
+(project published What?s different in pnpm 12 : commands, flags, settings and the lockfile) Tj
+T*
+(format are unchanged from pnpm 11, so upgrading is not a migration. RC 5 breaks dependency) Tj
+T*
+(cycles canonically during peer resolution by ordering cycle members by package id and always) Tj
+T*
+(cutting the closing edge in the same place, so the same dependencies produce the same lockfile) Tj
+T*
+(regardless of importer or resolution order. Hatch 1.18.0 adds a sources environment option that) Tj
+T*
+(redirects individual dependencies to a local path, Git repository, URL, alternate index or) Tj
+T*
+(workspace member at install time without altering the published metadata, and hatch build --all) Tj
+T*
+(to build every workspace member at once. Hatchling 1.32.0 lets the version command set a) Tj
+T*
+(version that is statically defined in project.version , rewriting pyproject.toml in place.) Tj
+T*
+(Renovate 44.24.0?44.30.3 adds support for GitHub?s Actions lockfile, relocking it alongside) Tj
+T*
+(uses: reference updates. 44.28.0 adds a gomodTidyAll option to run go mod tidy across...) Tj
+T*
+() Tj
+T*
+(14. Reading List ? 08/15/2026) Tj
+T*
+(Source: Construction Physics | Published: Sat, 15 Aug 2026 12:02:38 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-08152026) Tj
+T*
+(Home price declines, the Strategic Petroleum Reserve, The Boring Company fundraising, and more.) Tj
+T*
+() Tj
+T*
+(15. Concurrent Servers: Part 7 - Rust) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-08-15T09:41:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/) Tj
+T*
+(This is part 7 in a series of posts on writing concurrent network servers. In this part, we) Tj
+T*
+(discuss how the challenges described in earlier parts are tackled in the Rust programming) Tj
+T*
+(language. All posts in the series: Part 1 - Introduction Part 2 - Threads Part 3 - Event-driven) Tj
+T*
+(Part 4 - libuv ?) Tj
+T*
+() Tj
+T*
+(16. Training a Reinforcement Learning Model to Play Bonk.io) Tj
+T*
+(Source: Cats with power tools | Published: Sat, 15 Aug 2026 02:50:29 GMT) Tj
+T*
+(Link: https://blog.pixelmelt.dev/training-a-reinforcement-learning-model-to-play-bonk-io/) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 136 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Dissecting a web game to re implement the physics engine and train a neural network on it.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004436 00000 n 
+0000004562 00000 n 
+0000009209 00000 n 
+0000009335 00000 n 
+0000013532 00000 n 
+0000013658 00000 n 
+0000013846 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+13974
+%%EOF
