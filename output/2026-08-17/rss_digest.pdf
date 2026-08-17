@@ -1,0 +1,388 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4669 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-17 10:19:56) Tj
+T*
+() Tj
+T*
+(1. Markdown SVG upgrades) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-16T23:59:37+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/) Tj
+T*
+(I started building my markdown-svg-renderer tool in May , but I've since added enough features) Tj
+T*
+(to it that it's worth talking about here again. It's evolved into my ideal tool for sharing) Tj
+T*
+(Markdown transcripts that include SVG documents. Given my proclivity for drawing pelicans) Tj
+T*
+(riding bicycles this is a problem that I needed to solve! The tool is very simple. Navigate to) Tj
+T*
+(markdown-svg-renderer in your browser and paste in some Markdown to see it rendered... or save) Tj
+T*
+(that Markdown to a CORS-friendly URL or a GitHub Gist and paste in a URL to that document. The) Tj
+T*
+(URL option will give you a bookmarkable page, for example https://tools.simonwillison.net/markd) Tj
+T*
+(own-svg-renderer#url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F6f9e48293be5c916652d29f0dc0b0657) Tj
+T*
+(- which bakes in the URL to this Gist . If you visit the Gist you'll see raw SVG: In the) Tj
+T*
+(rendered tool that looks like this instead: As you can see, that SVG block in the Markdown has) Tj
+T*
+(been transformed into a rendered SVG \(in this case animated\) plus several tabs. The tabs are) Tj
+T*
+(the really fun bit. The PNG and JPEG tabs render that SVG to those image formats in the browser) Tj
+T*
+(and lets you copy or download them - useful for sharing on platforms that...) Tj
+T*
+() Tj
+T*
+(2. Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-16T22:00:39+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/16/qwen-38-27b/) Tj
+T*
+(Friday's big release was Qwen 3.8 27B , an Apache 2 licensed 27B parameter vision-capable LLM) Tj
+T*
+(from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent) Tj
+T*
+(size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was) Tj
+T*
+(impressive. Qwen's self-reported benchmarks for this model are eye-opening. They show a boost) Tj
+T*
+(from both Qwen 3.6 27B and the closed-weight Qwen 3.7-Plus, which was one of Qwen's strongest) Tj
+T*
+(models of any size as recently as May this year . It will be interesting to hear what) Tj
+T*
+(independent benchmarks have to say about the model. I've been running the model on two) Tj
+T*
+(different machines: my 128GB M5 Max MacBook Pro, and an NVIDIA DGX Spark . On both machines I'm) Tj
+T*
+(running LM Studio and their 17GB Q4_K_M quantized build . I also tried using llama-server) Tj
+T*
+(directly on the Spark. The default of extra high results in spectacular over-thinking Qwen's) Tj
+T*
+(documentation describes the model as defaulting to xhigh for the reasoning effort, and the LM) Tj
+T*
+(Studio GGUF I've been trying preserves that default: Qwen3.8 comes with official support for) Tj
+T*
+(reasoning_effort , which can be used to adjust reasoning depth and control cost: xhigh \(def...) Tj
+T*
+() Tj
+T*
+(3. Quoting Dario Amodei) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-16T15:05:36+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/16/dario-amodei/) Tj
+T*
+(I do agree that the public has a negative view of AI \(and that this is a big problem\), but I) Tj
+T*
+(don?t think it is primarily caused by me or any other AI leader warning about AI?s risks. I) Tj
+T*
+(think it is fundamentally a crisis of trust. I think that ordinary people don?t trust) Tj
+T*
+(companies, governments, or the tech industry and always suspect that we are cooking up some new) Tj
+T*
+(way to screw them over. The causes of this go back decades and AI is just the latest iteration) Tj
+T*
+(of it. I don?t think that a glitzy marketing campaign with a positive spin \(which some have) Tj
+T*
+(advocated that Anthropic do\) is the way to win back that trust ? at this point, saying that AI) Tj
+T*
+(will cure cancer is more a cliche than it is inspiring, and most people think it is deceptive.) Tj
+T*
+(The thing that will work is actually curing cancer . I think by far the most accurate criticism) Tj
+T*
+(of AI companies including Anthropic is that we haven?t yet delivered on our big promises to) Tj
+T*
+(benefit the world. That is totally on us, and I think it?s the criticism you should be making,) Tj
+T*
+(instead of all this stuff about messaging and marketing. ? Dario Amodei Tags: anthropic , ai ,) Tj
+T*
+(ai-backlash) Tj
+T*
+() Tj
+T*
+(4. The Information Profiles Cami Clark ? Dario Amodei?s Wife, Ivanka Trump?s Friend,) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4686 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(One-Time Would-Be Pornographer, and Anthropic?s ?First Lady?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-16T19:30:00Z) Tj
+T*
+(Link:) Tj
+T*
+(https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk) Tj
+T*
+(Cory Weinberg, Jemima McEvoy, Jessica E. Lessin, and Stephanie Palazzolo, writing for the) Tj
+T*
+(paywalled-without-gift-links The Information: As Amodei has hopscotched the globe to preach) Tj
+T*
+(about the potential and risks of AI ? from New Delhi to Davos to Sun Valley ? Clark has almost) Tj
+T*
+(always been near his side. Several people who know the couple describe Clark as Amodei?s) Tj
+T*
+(emotional ballast, someone he has sought counsel from during the turbulence of Anthropic?s) Tj
+T*
+(growth and clashes with Washington over the future of AI. Clark may well be the most) Tj
+T*
+(consequential person within Anthropic?s orbit who doesn?t have a formal role at the startup.) Tj
+T*
+(You might even call her the first lady of Anthropic. [...] And before Female Algorithm) Tj
+T*
+(Technologies, Clark tried her hand at building a pornographic film company, Eddice, that) Tj
+T*
+(planned to make movies with high-production values and female protagonists. She also hoped it) Tj
+T*
+(would have online shopping capabilities. In 2011, she tried to raise money for Eddice from) Tj
+T*
+(Jeffrey Epstein, who?d pleaded guilty to charges of soliciting a minor for prostitution three) Tj
+T*
+(years earlier, according to emails made public as part of the Epstein files released by the) Tj
+T*
+(Department of Jus...) Tj
+T*
+() Tj
+T*
+(5. ? Anthropic?s ?Watermark? Text Adulteration in Claude Is a Perversion of Writing) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-16T19:26:33Z) Tj
+T*
+(Link: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_) Tj
+T*
+(perversion_of_writing) Tj
+T*
+(It?s unacceptable for a tool to sacrifice an iota of clarity, coherence, meaning, quality, etc.) Tj
+T*
+(for the purpose of embedding hidden clues within the text to suggest its provenance. The idea) Tj
+T*
+(that anything other than *my* needs should factor into the generation of text *for me* is) Tj
+T*
+(patently offensive.) Tj
+T*
+() Tj
+T*
+(6. ?Anthropic?s Weak Watermarks Appease a Weak Law?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-16T17:30:00Z) Tj
+T*
+(Link: https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/) Tj
+T*
+(James Padolsey, on the Claude-text-watermarking-to-comply-with-an-EU-regulation imbroglio: The) Tj
+T*
+(same thought that led to this law could have applied to calculators at the time of their) Tj
+T*
+(inception, had their outputs revealed themselves through artefacts. Thankfully, a sum borne of) Tj
+T*
+(the brain is treated no differently from one produced by a calculator. Likewise with) Tj
+T*
+(spellcheckers. To make assistance suspect only once the tool becomes capable enough to compose) Tj
+T*
+(a whole sentence is not a principled boundary. It is a moral premium placed on difficulty) Tj
+T*
+(itself. Anthropic has nevertheless chosen a blanket, model-level implementation that appears) Tj
+T*
+(broader than the law?s minimum requirement. That may be convenient compliance engineering, but) Tj
+T*
+(it discards distinctions the law expressly attempted to preserve. The result is a signal broad) Tj
+T*
+(enough to implicate harmless and assistive use, yet fragile enough to be removed by a motivated) Tj
+T*
+(person through substantial recomposition. It risks concentrating suspicion on ordinary and) Tj
+T*
+(assistive users while remaining weakest against deliberate deception. Padolsey is the creator) Tj
+T*
+(of Declaude , a delightfully simple web app that allows you to ?Paste in AI-flavored t...) Tj
+T*
+() Tj
+T*
+(7. AI text watermarking is not a big deal) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 16 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/) Tj
+T*
+(People are pretty unhappy about Anthropic?s recent announcement that they?re planning to) Tj
+T*
+(include a hidden watermark in Claude model outputs. Will this lead to a mass exodus from) Tj
+T*
+(Anthropic models? Will the introduction of watermarking be a meaningful change for users? No.) Tj
+T*
+(AI text watermarking is not a big deal. It doesn?t make the text worse, it doesn?t make AI) Tj
+T*
+(outputs more detectable in practice, it doesn?t violate user privacy, and everyone?s going to) Tj
+T*
+(be doing it by 2027 regardless. Watermarked text is not lower-quality There is no meaningful) Tj
+T*
+(difference in quality between watermarked and unwatermarked text. I wrote about this more here) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3919 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(, but the two popular ways to do it ? Google?s SynthID-Text and Meta?s TextSeal ? are) Tj
+T*
+(completely transparent to the user. They work by replacing the pseudo-random logit sampler with) Tj
+T*
+(a different pseudo-random logit sampler. Suppose you were gambling on coin flips with your) Tj
+T*
+(friends, and instead of flipping a coin you decided to do this: Check the current time since) Tj
+T*
+(midnight in seconds Count that many words forward in the Encyclopaedia Britannica Count whether) Tj
+T*
+(the word you land on has an even or odd number of letters 1 That would still be random enoug...) Tj
+T*
+() Tj
+T*
+(8. Proportion of 1s in a Hadamard matrix) Tj
+T*
+(Source: John D. Cook | Published: Mon, 17 Aug 2026 01:16:39 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/) Tj
+T*
+(The first post in the recent series of posts on Hadamard matrices describes a way of) Tj
+T*
+(constructing new Hadamard matrices from two other Hadamard matrices by taking their Kronecker) Tj
+T*
+(product. Starting with a Hadamard matrix H0 and a Hadamard matrix G, you can construct a) Tj
+T*
+(sequence of Hadamard matrices by Hn+1 = G ? Hn for [?] The post Proportion of 1s in a Hadamard) Tj
+T*
+(matrix first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Thoughts on visiting the Edinburgh Fringe as a newbie) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 16 Aug 2026 11:34:21 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/) Tj
+T*
+(This was my first ever time at The Fringe?. Here are some scattered thoughts looking at the) Tj
+T*
+(good, the bad, and the annoying aspects of this madly extravagant exhibition of talent. We saw) Tj
+T*
+(23 shows together, and one separate show each. There were more hits than misses, but the) Tj
+T*
+(frustration of wasting your time on a bad show is rather heavy when there are literally) Tj
+T*
+(hundreds of other shows on offer. P?) Tj
+T*
+() Tj
+T*
+(10. Book Review: Coding Literacy by Annette Vee ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 13 Aug 2026 11:34:09 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/book-review-coding-literacy-by-annette-vee/) Tj
+T*
+(This is a disappointing and frustrating book - not least because it so nearly hits the mark.) Tj
+T*
+(The subtitle is "How Computer Programming Is Changing Writing" - but it never gets close to) Tj
+T*
+(discussing that topic, let alone deeply examining it. Instead, it is a book mostly focussed on) Tj
+T*
+(the history of what we mean by "literacy" and, by contrast, what it meant to be "illiterate".) Tj
+T*
+(As per the standard?) Tj
+T*
+() Tj
+T*
+(11. Edinburgh Fringe - Heated Rivalry: The Unauthorized Musical Parody ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 12 Aug 2026 21:22:09 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-unauthorized-musical) Tj
+T*
+(-parody/) Tj
+T*
+(There are at least four different Heated Rivalry shows at the Fringe this year. Earlier this) Tj
+T*
+(week we saw Edinburgh Fringe - Heated Rivalry: The Musical Parody!. This is different because) Tj
+T*
+(it is the unauthorized musical parody. Oh, and it is in the much larger Udderbelly venue. Some) Tj
+T*
+(people spend the fringe watching every possible interpretation of Timon of Athens - we decided) Tj
+T*
+(to go for doubles of ?) Tj
+T*
+() Tj
+T*
+(12. How I think about reducing AI costs) Tj
+T*
+(Source: Martin Alderson | Published: Sun, 16 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/how-i-think-about-reducing-ai-costs/?utm_source=rss&utm_) Tj
+T*
+(medium=rss&utm_campaign=feed) Tj
+T*
+(A practical framework for reducing AI costs - auditing token spend, killing legacy models,) Tj
+T*
+(moving workloads to open weights providers, and fixing the agent and tool inefficiencies that) Tj
+T*
+(quietly burn tokens.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004924 00000 n 
+0000005050 00000 n 
+0000009788 00000 n 
+0000009914 00000 n 
+0000013885 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+14011
+%%EOF
