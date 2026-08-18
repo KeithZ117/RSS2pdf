@@ -1,0 +1,376 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4487 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-18 10:15:42) Tj
+T*
+() Tj
+T*
+(1. ? Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-18T00:55:13Z) Tj
+T*
+(Link: https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking) Tj
+T*
+(I want the answers that I read to be cogent, lucid, accurate, blessedly terse ? and ideally to) Tj
+T*
+(strike a consistent tone that is pleasant to my reading ear. The genie is not going back in the) Tj
+T*
+(bottle.) Tj
+T*
+() Tj
+T*
+(2. Apple TV Still Has No Start Date for ?The Savant?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-17T21:55:29Z) Tj
+T*
+(Link: https://daringfireball.net/linked/2026/04/19/chastain-says-the-savant-will-be-released) Tj
+T*
+(The Savant is a political thriller series starring Jessica Chastain that was supposed to debut) Tj
+T*
+(a year ago . Apple ?postponed? it, apparently out of fear of upsetting extremist right-wing nut) Tj
+T*
+(jobs because the show is about an undercover investigator \(Chastain\) hunting down extremist) Tj
+T*
+(right-wing nut jobs. Chastain was not happy about the show being delayed. Last we heard about) Tj
+T*
+(the show was back in April, when Marc Malkin reported this for Variety : ?Before it was like,) Tj
+T*
+(?I don?t know if we?re going to see it,? but now I can say, ?We?re going to see it,?? Chastain) Tj
+T*
+(told me exclusively on Saturday at the Breakthrough Prize ceremony in Santa Monica. As for) Tj
+T*
+(when, sources tell me that Apple is planning for a July release. Given that it?s now the middle) Tj
+T*
+(of August, I think that a July release is looking less and less likely by the day. ?) Tj
+T*
+() Tj
+T*
+(3. No Update Since Early July Regarding Siri AI Coming to the EU, Ever) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-17T21:43:50Z) Tj
+T*
+(Link: https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d) Tj
+T*
+(The Financial Times, back on July 1, with the transcontinental byline ?Michael Acton in San) Tj
+T*
+(Francisco and Barbara Moens in Brussels? \(non-paywalled summaries from 9to5Mac and MacRumors \):) Tj
+T*
+(Apple chief executive Tim Cook and EU tech chief Henna Virkkunen held ?constructive? talks on) Tj
+T*
+(Tuesday as the two sides aim to lower the temperature in a bitter dispute over the iPhone) Tj
+T*
+(maker?s new ?Siri AI.? An EU spokesperson said the virtual meeting had involved a ?constructive) Tj
+T*
+(exchange on topics of common interest, on which the work continues?. The meeting included a) Tj
+T*
+(discussion of how Apple can launch its reinvented Siri in Europe while avoiding millions of) Tj
+T*
+(dollars in fines for violating the bloc?s flagship competition rules, according to two people) Tj
+T*
+(familiar with the talks. [ 9 paragraphs of explanatory backstory on the Siri AI/DMA standoff) Tj
+T*
+(elided ...] The dispute triggered a fierce public backlash against the commission, with) Tj
+T*
+(European officials reporting hundreds of emails from consumers accusing Brussels of depriving) Tj
+T*
+(Europeans of a new technology. One EU official said that a commission spokesperson had received) Tj
+T*
+(a stream of abusive messages, including several death threats. If there are actual...) Tj
+T*
+() Tj
+T*
+(4. Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-17T23:58:14+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/) Tj
+T*
+(Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as) Tj
+T*
+(GPT-5.6 Luna \(max\), and just one point behind GLM-5.2 \(max\) and DeepSeek V4 Pro 0813 \(max\) -) Tj
+T*
+(that GLM is 753B and that DeepSeek is 1.6B parameters, and Luna is size unknown but presumably) Tj
+T*
+(a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model . Via Hacker News Tags:) Tj
+T*
+(ai , generative-ai , llms , qwen , ai-in-china , artificial-analysis) Tj
+T*
+() Tj
+T*
+(5. We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-17T15:21:29+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-) Tj
+T*
+(amazon-ai-tra/) Tj
+T*
+(We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility Excellent piece) Tj
+T*
+(of reporting from 404 Media. For a while now there have been stories of book dealers receiving) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4507 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(orders for large volumes of books from apparently price-insensitive anonymous customers, widely) Tj
+T*
+(suspected to be companies looking to scan them for AI training \(see my previous coverage of) Tj
+T*
+(Anthropic's book scanning from June 2025.\) 404 Media investigated with an AirTag! In July, one) Tj
+T*
+(bookseller told me they received a very large order of around 1,000 books on Biblio, one of) Tj
+T*
+(these marketplaces. The seller agreed to put an Apple AirTag provided by 404 Media in one of) Tj
+T*
+(the books included in this order so we could see where the book was going. And by extension,) Tj
+T*
+(which company, AI or otherwise, was behind this massive order. The book ended up delivered to) Tj
+T*
+(the VGT3 corner of the LAS8 Amazon facility in the north east of Las Vegas, where the entrance) Tj
+T*
+(carried this on-the-nose logo of a dinosaur with a book! Photo credit: 404 Media Online forum) Tj
+T*
+(discussions between Amazon workers confirmed that VGT3 destructively scans large volumes of) Tj
+T*
+(books. Tags: amazon , journalism , ai , training-data , ai-ethics , 404-...) Tj
+T*
+() Tj
+T*
+(6. datasette-upload-dbs 0.5a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-11T20:35:13+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/) Tj
+T*
+(Release: datasette-upload-dbs 0.5a0 This plugin has been around for a while - it lets users) Tj
+T*
+(upload a brand new SQLite database to a hosted Datasette instance, at which point that database) Tj
+T*
+(will start being served by that instance. It can also be used to atomically swap a database) Tj
+T*
+(with a more recent version. The uploaded database is saved to a file, verified, then swapped in) Tj
+T*
+(so /name starts serving the new one. The new release adds a formalized API, so you can replace) Tj
+T*
+(an existing database \(or add a new one\) like this: curl -X POST \\ -H "Authorization: Bearer) Tj
+T*
+($API_TOKEN" \\ -H "Accept: application/json" \\ -F "db=@content.db" \\ -F "db_name=content" \\) Tj
+T*
+(https://your-instance.example.com/-/upload-dbs This means you can build fresh databases in an) Tj
+T*
+(environment such as GitHub Actions and swap them in production as soon as that build has) Tj
+T*
+(completed. Tags: datasette) Tj
+T*
+() Tj
+T*
+(7. How do functions like alloca allocate memory from the stack?) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 17 Aug 2026 15:54:40 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617) Tj
+T*
+(The usual probing. The post How do functions like alloca allocate memory from the stack?) Tj
+T*
+(appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. And then the men with guns tell you to do it anyway) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 17 Aug 2026 11:34:24 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/) Tj
+T*
+(In early February 2011 Egypt was in the middle of a political revolution. One morning,) Tj
+T*
+(everyone's phones suddenly pinged with an alert. The Armed Forces asks Egypt's honest and loyal) Tj
+T*
+(men to confront the traitors and criminals and protect our people and honour and our precious) Tj
+T*
+(Egypt. A series of messages arrived all ostensibly from the network provider Vodafone. All) Tj
+T*
+(pro-regime and all with the?) Tj
+T*
+() Tj
+T*
+(9. Edinburgh Fringe - James Rowland: Team Viking ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 12 Aug 2026 19:20:01 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-james-rowland-team-viking/) Tj
+T*
+(This is a technically precise and emotionally complex show with energetic delivery from a) Tj
+T*
+(talented performer. Sadly, it did nothing for me. I found it a little one note in terms of) Tj
+T*
+(storytelling. The rhythm of the story followed all the predictable beats which I thought was a) Tj
+T*
+(little repetitive. There's no doubt he's a gifted storyteller. The comedy is suitably dark with) Tj
+T*
+(some good moments of joy ?) Tj
+T*
+() Tj
+T*
+(10. Edinburgh Fringe - Garrett Millerick: We Tried it Your Way ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 12 Aug 2026 17:55:57 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/) Tj
+T*
+(Easily the worst show we've seen at the fringe. Garrett Millerick has trained an AI on his) Tj
+T*
+(stand up. Can it replace him? Yes, but only in the sense that the AI is obnoxiously dull and) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3653 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Millerick is simply obnoxious. He insulted a kid who he'd called on to stage to help him. Not) Tj
+T*
+(even in a jokey way, just being rude. His splenetic rants against religion and politics were) Tj
+T*
+(beyond tired. The dating?) Tj
+T*
+() Tj
+T*
+(11. Oops, Should?ve Thought of That) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 16 Aug 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/oops-shouldve-thought-of-that/) Tj
+T*
+(Gordon Brander writes : The thing about computers is that they can do anything you wish, so) Tj
+T*
+(long as you specify your wish in exacting detail. However, LLMs relieve this constraint. An LLM) Tj
+T*
+(can extrapolate what you mean \(more or less\) from just a few words. So computers can do vibes) Tj
+T*
+(now. It used to be that computers could only ever do exactly what you told them to do, nothing) Tj
+T*
+(more. If they did something unexpected \(a.k.a. a bug\), it was because you failed to 1\)) Tj
+T*
+(anticipate it could happen, or 2\) specify with greater detail that it shouldn?t happen. But in) Tj
+T*
+(this new world, computers can extrapolate your intent. LLMS can act like a fill-in-the-gap) Tj
+T*
+(machine, which alleviates you from the pedantic demands of coding from years past . There?s) Tj
+T*
+(going to be a lot more ?Oops, I didn?t mean to do that? in the future. This should be what) Tj
+T*
+(separates professional practitioners from hobbyists. A good practitioner recognizes that) Tj
+T*
+(leveraging some foresight is part and parcel of the job in order to mitigate unintended) Tj
+T*
+(consequences. Meanwhile, a hobbyist or amateur doesn?t even have the capability or experience) Tj
+T*
+(to understand the assumed intent of an LLM until it?s too late and users have been affected.) Tj
+T*
+(So...) Tj
+T*
+() Tj
+T*
+(12. Quake Shareware, a CD-ROM just a little too full) Tj
+T*
+(Source: Fabien Sanglard | Published: 17 Aug 2026 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/quake_shareware_cd/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' \(17 Aug) Tj
+T*
+(2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 17 Aug 2026 07:00:08) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/08/17/great-sousas-ghost/) Tj
+T*
+(Today's links Jennifer Jenkins' 'Music Copyright, Creativity, and Culture': The definitive) Tj
+T*
+(textbook \(with comics!\). Hey look at this: Delights to delectate. Object permanence: Hair-gel) Tj
+T*
+(bombers v bras; Hair-gel bombers v chemistry; AOL digs for spammer's platinum; Stross on) Tj
+T*
+(infosec in 2061; In-game Ponzi; Snowden on Shadow Brokers hack; Life v understanding advanced) Tj
+T*
+(math; "Greatest of Marlys!"; Housing and precarity; LLMs as slot-machines for coders;) Tj
+T*
+(Hypercard's backstory; Pirate Party; Fanbois' mental health v critics; Krugman calls for alien) Tj
+T*
+(invasion; Trump x Serbian genocidaires; The last Sandman Slim; Muphry?s Law; NSA created the) Tj
+T*
+(Shadow Brokers; DOJ kills private prisons; Walmart externalizes crime; "Sgt Augmento";) Tj
+T*
+(Zuckermuskian solipsism. Upcoming appearances: Sydney, Melbourne, Brighton, London, South Bend.) Tj
+T*
+(Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Jennifer Jenkins') Tj
+T*
+('Music Copyright, Creativity, and Culture' \(permalink\) Nobody explains copyright like Jennifer) Tj
+T*
+(Jenkins, the director of the Duke Center for the Public Domain, in which capacity she is r...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004742 00000 n 
+0000004868 00000 n 
+0000009427 00000 n 
+0000009553 00000 n 
+0000013258 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+13384
+%%EOF
