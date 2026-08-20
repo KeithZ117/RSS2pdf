@@ -1,0 +1,508 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4547 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-20 10:17:14) Tj
+T*
+() Tj
+T*
+(1. smolmachines / smolvm as a sandbox for untrusted Python & JavaScript) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-19T23:16:00+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/) Tj
+T*
+(Research: smolmachines / smolvm as a sandbox for untrusted Python & JavaScript I tasked Claude) Tj
+T*
+(Fable 5 running in Claude Code for web with the following research task: Put) Tj
+T*
+(https://smolmachines.com through its paces as a fast secure sandbox. Explore what it would take) Tj
+T*
+(to use this to run untrusted Python and JavaScript code in a way that is limited in what RAM) Tj
+T*
+(and CPU time it can take up \(protection against "while true"\) with no network access and) Tj
+T*
+(filesystem access only to designated files Goal is to be able to use this to execute) Tj
+T*
+(user-provided tasks for things like data transformations It quickly ran into a problem: the) Tj
+T*
+(Claude Code for web environment can't run smol machines . Quoting the notes it wrote : This) Tj
+T*
+(Claude Code container: Linux 6.18.5-fc-v20 \(itself a Firecracker guest\), 4 vCPU, 15GB RAM. No) Tj
+T*
+(/dev/kvm, no vmx/svm CPU flags ? no nested virt. smolvm machine run fails as expected: "kvm not) Tj
+T*
+(available". Plan B: GitHub Actions ubuntu runners DO expose /dev/kvm ? run the real test) Tj
+T*
+(battery via a temporary workflow on this branch, collect logs, remove workflow in final commit.) Tj
+T*
+(And Plan B is what it did , installing smolvm and running these tests directly in a GitHub) Tj
+T*
+(Actions runner...) Tj
+T*
+() Tj
+T*
+(2. Quoting Jeremy Morrell) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-19T22:56:31+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/19/jeremy-morrell/) Tj
+T*
+(My hypothesis is that there is a new opportunity for Extensible Software on the web . LLMs) Tj
+T*
+(radically lower the cost of authoring extensions, and modern sandbox primitives lower the) Tj
+T*
+(deployment cost and provide good security boundaries. We can build our app as a solid,) Tj
+T*
+(accountable core, and allow users to safely extend it in many directions by having LLMs fill in) Tj
+T*
+(the missing pieces. We can give our users super powers. ? Jeremy Morrell , Extensible Software) Tj
+T*
+(in the age of LLMs Tags: sandboxing , llms , ai , generative-ai) Tj
+T*
+() Tj
+T*
+(3. Conceptual integrity and counting lines of code) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-19T22:46:07+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/) Tj
+T*
+(Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the) Tj
+T*
+(subject of "How AI is changing software development". We had a really great conversation. Here) Tj
+T*
+(are a couple of my highlights from a lightly edited transcript \(prompt to Claude: "very minor) Tj
+T*
+(edits to remove disfluencies"\). This is the latest version of an argument I've been trying to) Tj
+T*
+(build about why sometimes it does make sense to talk about lines of code as an indicator of) Tj
+T*
+(productivity with coding agents, at 35:01 : A lot of people will tell you it makes no sense to) Tj
+T*
+(measure productivity in lines of code. I?d actually disagree, because there?s a hard limit. In) Tj
+T*
+(the before-times, a software engineer could produce a few hundred lines of production-ready) Tj
+T*
+(code per day ? and 200 lines of working, debugged, production-level code is an incredibly good) Tj
+T*
+(day. Most days you?d produce 50 or 60. If agents let you produce a thousand lines of debugged) Tj
+T*
+(code, that really is a very meaningful improvement ? as long as the code is the same quality:) Tj
+T*
+(maintainable, tested, all of that. You can get to that point with agents, but it takes a huge) Tj
+T*
+(amount of skill and knowledge and experience. That?s what senior engineer...) Tj
+T*
+() Tj
+T*
+(4. ?Dickover? Makes It Into The Guardian) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-18T16:03:32Z) Tj
+T*
+(Link: https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-n) Tj
+T*
+(ew-words-tech-hellscape) Tj
+T*
+(Stuart Heritage, writing for The Guardian, under the splendid headline ?Dickovers, Baggravation) Tj
+T*
+(and Botiquette: 18 New Words to Describe Our Tech Hellscape?: The ?dickover? is the scourge of) Tj
+T*
+(the modern age. Coined in May by John Gruber, a tech writer, it is defined as ?a modal panel,) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4568 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(popover, or curtain presented by a website or app, deliberately obscuring its own content to) Tj
+T*
+(frustrate the user?. Essentially, it is the thing \(or more often, things\) you have to click) Tj
+T*
+(away in order to read the thing you wanted to read. It is the ?accept cookies? box, the ?allow) Tj
+T*
+(notifications?? box, the ?sign in with Google? box, the pop-up video box, etc. We shouldn?t) Tj
+T*
+(fool ourselves into thinking that dickovers are the only terrible thing about technology in) Tj
+T*
+(2026. Until now, though, we have lacked the vocabulary to describe them, so here are some) Tj
+T*
+(suggestions. This was a delight to see, but it would have been nicer if it had included a link.) Tj
+T*
+(I remain quite fond of my self-exemplifying definition . Amongst Heritage?s suggested coinages,) Tj
+T*
+(I like baggravation \(maddening self-checkout retail kiosks\) and Schrˆdinger?s Wi-Fi \(public) Tj
+T*
+(Wi-Fi, especially on trains and planes, that simultaneously does and does no...) Tj
+T*
+() Tj
+T*
+(5. OpenAI Pot Complains That Google Kettle Is Black) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-18T14:54:28Z) Tj
+T*
+(Link: https://x.com/thsottiaux/status/2083373529081291076?s=12) Tj
+T*
+(Thibault Sottiaux, the OpenAI genius in charge of Codex and the new ChatGPT Homer Simpson car,) Tj
+T*
+(on Twitter/X: I don?t come often to GMail [ sic ] \(OpenAI is a Slack company\), but I swear,) Tj
+T*
+(every time I do open it, there is a new button somewhere around the top right corner. I mean,) Tj
+T*
+(he?s right about Google?s zero-taste just-keep-cramming-shit-in approach to Gmail, but it?s) Tj
+T*
+(almost hard to believe he could post this without any self-awareness that it?s the exact same) Tj
+T*
+(approach his Codex team has applied to ChatGPT. Gmail debuted in 2004 homely but wonderfully) Tj
+T*
+(simple \(which I?d argue was Google?s original, but now long-lost UI brand\). It was just your) Tj
+T*
+(email. Now it?s too complex to explain. ChatGPT?s original incarnation was) Tj
+T*
+(attractive-in-today?s-minimalist-fad-way and wonderfully simple. It was just AI chat. Now it?s) Tj
+T*
+(too complex to explain. \(ChatGPT?s original incarnation still exists, in the form of the) Tj
+T*
+(hard-to-find-if-you-don?t-already-have-it-installed Coke ChatGPT Classic , just like how Gmail,) Tj
+T*
+(after Google started needlessly complicating it, used to have a ?classic? view that many users) Tj
+T*
+(preferred but Google soon took away .\) ?) Tj
+T*
+() Tj
+T*
+(6. Nature Is Healing: MacOS 27 Golden Gate Beta 6 Adds Redesigned Traffic Light Window) Tj
+T*
+(Controls) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-18T12:32:38Z) Tj
+T*
+(Link: https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-li) Tj
+T*
+(ght-window-controls/) Tj
+T*
+(Zac Hall, 9to5Mac: macOS 27 Golden Gate beta 6 introduces redesigned traffic light window) Tj
+T*
+(controls. The new look resembles older Mac OS X systems with more detail in each button. Nice.) Tj
+T*
+(But these changes can?t improve fast enough for me ? I am impatient. The MacOS user interface) Tj
+T*
+(had been in a slow, steady, sad, no-fun decline for years, and then, a year ago, the bottom) Tj
+T*
+(fell out with the disaster of 26 Tahoe. But all the changes in 27 Golden Gate are in the right) Tj
+T*
+(direction. Golden Gate is not a mixed bag. Designers with taste and talent are clearly back at) Tj
+T*
+(the helm . And I love that they?re still pushing UI and icon changes in mid-August, entering) Tj
+T*
+(the home stretch of the .0 beta cycle. ?) Tj
+T*
+() Tj
+T*
+(7. Hands-on with Raspberry Pi's CM5 Programming Jig) Tj
+T*
+(Source: Jeff Geerling | Published: Wed, 19 Aug 2026 02:13:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/) Tj
+T*
+(In the before-times, when Raspberry Pi CM5s were \(relatively\) affordable, I built a number of) Tj
+T*
+(Pi clusters \( example \), and one of the most annoying parts of the build was flashing Raspberry) Tj
+T*
+(Pi OS to all the Pis. One, two, or even three Pis isn't a big deal, but once you hit 4+, the) Tj
+T*
+(process of plugging the Compute Module into a carrier board, plugging that into a computer,) Tj
+T*
+(managing Raspberry Pi Imager, and trying to match up details like a hostname, MAC address, and) Tj
+T*
+(the physical Pi itself, gets annoying.) Tj
+T*
+() Tj
+T*
+(8. Why did the Microsoft Entertainment Pack for Windows have a special sticker announcing) Tj
+T*
+(that it also had Tetris?) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 18 Aug 2026 14:00:00 +0000) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4482 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621) Tj
+T*
+(A contingency plan. The post Why did the Microsoft Entertainment Pack for Windows have a) Tj
+T*
+(special sticker announcing that it also had Tetris? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Good writing is obvious, not original) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Tue, 14 Jul 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/good-writing-is-obvious-not-original/) Tj
+T*
+(When you write, you should try to say things that are obviously true, and spend very little) Tj
+T*
+(time worrying about whether you?re being original. Ironically, this is the best way to do truly) Tj
+T*
+(original writing. Every important idea has been discussed already. I learned this in grad) Tj
+T*
+(school for philosophy 1 , but it?s true across the board. Almost every field 2 has generations) Tj
+T*
+(of very smart people who?ve spent their whole lives thinking about the biggest problems. If you) Tj
+T*
+(try to only write about ideas that are truly brand-new, you will restrict yourself to writing) Tj
+T*
+(about ideas that weren?t important enough to be considered before : in other words, trivia and) Tj
+T*
+(ephemera. What happens if you focus on the obvious instead? Writing about things that are) Tj
+T*
+(obviously true is surprisingly difficult. Writing about anything is difficult, because reality) Tj
+T*
+(has a surprising amount of detail . Still, writing about obvious things is especially) Tj
+T*
+(difficult, because they?re almost too obvious to see . It?s trivial for me to come up with) Tj
+T*
+(non-obvious things I believe \(for instance, I don?t like database foreign keys \), but it?s hard) Tj
+T*
+(for me to articulate the parts of what I believe that are truly fundamental. I thin...) Tj
+T*
+() Tj
+T*
+(10. What Is Reasoning) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-08-19T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/) Tj
+T*
+(A few weeks ago a paper was shared that showed how to extract reasoning traces from) Tj
+T*
+(closed-weight models. Together with online discussions about tricking models into leaking them,) Tj
+T*
+(it made me investigate it more out of curiosity. Twitter seems full of half-truths and) Tj
+T*
+(confusion about how this works, so perhaps this helps some to understand what is happening.) Tj
+T*
+(Hiding Traces Reasoning traces are usually hidden from us. We have lamented this , but mostly) Tj
+T*
+(have to accept it. Open-weight models thankfully reveal them, and from their behavior you can) Tj
+T*
+(see that their traces can be long and confusing. This is probably a good reason to separate) Tj
+T*
+(them from what is normally shown to users. At minimum, UIs need to detect them. The industry) Tj
+T*
+(has done a good job at making reasoning traces sound special and exotic, but they really are) Tj
+T*
+(just text: the model is trained to emit its thinking into a scratchpad as part of its response,) Tj
+T*
+(before its final answer. GPT-OSS?s Harmony response format makes this easy to see: analysis I) Tj
+T*
+(need to work this out ... assistant final The answer is ... The markers are special tokens, but) Tj
+T*
+(the reasoning between them uses ?the same text? as the final answer \(just that GPT chain...) Tj
+T*
+() Tj
+T*
+(11. Anubis continues to expose new ways people configure webservers) Tj
+T*
+(Source: Xe Iaso's blog | Published: Wed, 19 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/notes/2026/anubis-csp-worker-hell/) Tj
+T*
+(TL;DR: if admins turn off browser features, those features won't work in confusing ways that) Tj
+T*
+(are annoying to debug) Tj
+T*
+() Tj
+T*
+(12. Asymmetric Agents) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 19 Aug 2026 11:34:52 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/asymmetric-agents/) Tj
+T*
+(One of the promises of the AI-filled future is that we'll all have highly capable autonomous) Tj
+T*
+(servants "agents" to work for us. Even back in the 1990s, it was a common trope in) Tj
+T*
+(future-gazing to insist that a person's personal slave agent would negotiate on their behalf.) Tj
+T*
+(Ask your meek digital pal agent to find you a restuarant in town, tonight, for a hot date,) Tj
+T*
+(catering to your dietary preferences, ?) Tj
+T*
+() Tj
+T*
+(13. Why do OpenAI's GPT-2 weights beat mine? Part two: IFT dropout) Tj
+T*
+(Source: Giles' blog | Published: Fri, 14 Aug 2026 19:00:00 +0000) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4523 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.gilesthomas.com/2026/08/why-do-openai-gpt2-weights-beat-mine-2-ift-dropout) Tj
+T*
+(Wait, dropout! https://arxiv.org/pdf/2101.03961 -- p11 -- Regularizing large sparse models. Our) Tj
+T*
+(paper considers the common NLP approach of pre-training on a large corpus followed by) Tj
+T*
+(fine-tuning on smaller downstream tasks such as summarization or question answering. One issue) Tj
+T*
+(that naturally arises is overfitting since many fine-tuning tasks have very few examples.) Tj
+T*
+(During fine-tuning of standard Transformers, Raffel et al. \(2019\) use dropout \(Srivastava et) Tj
+T*
+(al., 2014\) at each layer to prevent overfitting. Our Switch Transformers have significantly) Tj
+T*
+(more parameters than the FLOP matched dense baseline, which can lead to more severe overfitting) Tj
+T*
+(on these smaller downstream tasks. Could that be it?! Model conf has dropout in it, so... Drop) Tj
+T*
+(rate was zero in the GPT-2 weights JSON files I had! Nothing in the paper but Raschka and also) Tj
+T*
+(https://huggingface.co/docs/transformers/v4.48.2/en/model_doc/gpt2#transformers.GPT2Config When) Tj
+T*
+(I did the extended/two-epoch runs, I wound up doing many more epochs for the IFT. Matching) Tj
+T*
+(pre-training OK, firstly let's do a run where we match the models' pre-train dropout. Test loss) Tj
+T*
+(Base dropout IFT epochs IFT score IFT rank OpenAI weights: medium 3.231442 Yes...) Tj
+T*
+() Tj
+T*
+(14. Use the built-in GELU, don't roll your own!) Tj
+T*
+(Source: Giles' blog | Published: Thu, 20 Aug 2026 02:00:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/08/built-in-gelu) Tj
+T*
+(Unsurprisingly, PyTorch's own built-in GELU function is faster than the hand-rolled one I've) Tj
+T*
+(been using to date. But I was surprised at how much faster using it made things when training) Tj
+T*
+(my models. I discovered this accidentally just now while working on something unrelated, but am) Tj
+T*
+(logging the details here for anyone else that might find it useful. The headline numbers: the) Tj
+T*
+(same code, training the same model on the same data, ran at about: 21,000 tokens per second) Tj
+T*
+(using the hand-rolled GELU from Sebastian Raschka 's book " Build a Large Language Model \(from) Tj
+T*
+(Scratch\) ". 25,000 tokens per second using PyTorch's built-in GELU with no arguments. 25,000) Tj
+T*
+(tokens per second using the built-in GELU with approximate="tanh" , which uses the same maths) Tj
+T*
+(as Raschka's version under the hood. That's a 20% increase in throughput for both of the) Tj
+T*
+(built-in versions -- definitely nothing to be sneezed at. And what is particularly interesting) Tj
+T*
+(is that there aren't that many GELUs going on -- it's a GPT-2 small-style model, with 12) Tj
+T*
+(layers. So that's 12 GELUs handling tensors shaped \(batch_size, seq_len, 4 * d_emb\) , which is) Tj
+T*
+(\(6, 1024, 3072\) for my training setup. Given that the rest of the model is doing...) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: The ordinariness of evil \(19 Aug 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 19 Aug 2026 07:36:27) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/08/19/banaility/) Tj
+T*
+(Today's links The ordinariness of evil: Stop selling AI \(bad\). Hey look at this: Delights to) Tj
+T*
+(delectate. Object permanence: Dot-crash bumwad; AP v fair use; Nym Wars; What's ctrl-F?) Tj
+T*
+(Pentagon lost $6.5T in a year; Voter ID is voter suppression; Become unoptimizable. Upcoming) Tj
+T*
+(appearances: Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've) Tj
+T*
+(been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said,) Tj
+T*
+(I'll keep writin' 'em. Colophon: All the rest. The ordinariness of evil \(permalink\) Maybe it) Tj
+T*
+(seems weird that AI bosses won't stop publicly rending their garments about the terrible) Tj
+T*
+(potential of their products, from the jobspocalypse that will ensue when AI can do our jobs) Tj
+T*
+(better than us, to the impending moment when the word-guessing programs learn too many words,) Tj
+T*
+(wake up and turn us all into paperclips. It seems weird that they won't stop fretting about) Tj
+T*
+(this terrible potential ? until you realize that every public pronouncement about this terrible) Tj
+T*
+(potential is also a public boast about its potential, period. That's very, very important,) Tj
+T*
+(because all AI really has is potential. Actual, existing AI is useful at the margins, if you...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004809 00000 n 
+0000004935 00000 n 
+0000009555 00000 n 
+0000009681 00000 n 
+0000014215 00000 n 
+0000014341 00000 n 
+0000018917 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+19045
+%%EOF
