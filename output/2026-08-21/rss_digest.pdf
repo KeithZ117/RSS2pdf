@@ -1,0 +1,480 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4745 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-21 10:22:56) Tj
+T*
+() Tj
+T*
+(1. ChatGPT search now uses the site:operator at scale) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-20T23:57:32+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/) Tj
+T*
+(ChatGPT search now uses the site:operator at scale Promptwatch is part of the emerging "GEO") Tj
+T*
+(space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer) Tj
+T*
+(tools and consulting to help your site increase its presence in replies to prompts inside tools) Tj
+T*
+(like ChatGPT. The Promptwatch product uses automation to track responses to prompts across) Tj
+T*
+(end-user chat products like ChatGPT, Claude, and Gemini. They publish aggregate reports on this) Tj
+T*
+(as part of their own content marketing strategy, which do seem to provide credible hints as to) Tj
+T*
+(otherwise invisible design changes to those products. Their own tracking shows a notable change) Tj
+T*
+(aligned with the GPT-5.6 rollout earlier this month: The percentage of all ChatGPT Search) Tj
+T*
+(fanout queries that contain the site:operator, per day. The share hovered between 0.3% and 0.5%) Tj
+T*
+(for weeks, dipped briefly to 0.15% on August 3 to 5 \(consistent with a staged rollout or) Tj
+T*
+(pre-launch experiment\), then jumped to 16-17% on August 8. It's important to note that these) Tj
+T*
+(figures only reflect the prompts for which they have automated tracking enabled. This) Tj
+T*
+(corresponds to OpenAI's somewhat vague August 6th announcement : For Plus and Pro us...) Tj
+T*
+() Tj
+T*
+(2. A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-20T15:37:00+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/20/bun-webview-json-api/) Tj
+T*
+(Research: A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView Today saw the long awaited) Tj
+T*
+(release of Bun 1.4 , the first stable version since the infamous Rust rewrite a few months ago) Tj
+T*
+(. Interestingly, the Rust rewrite was downplayed in the release notes, which introduced a) Tj
+T*
+(bewildering array of new features and claimed 2,900 additional bug fixes: Bun 1.4 adds +1,517) Tj
+T*
+(tests from the Node.js test suite - our biggest jump in Node.js compatibility since Bun 1.0.) Tj
+T*
+(Bun v1.4 also fixes over 2,900 issues. It reduces idle CPU usage by 5x, reduces memory usage by) Tj
+T*
+(up to 35%, and starts 50% faster on Linux. It adds Bun.Image , Bun.WebView , Bun.markdown ,) Tj
+T*
+(Bun.cron\(\) , Bun.Terminal , bun run --parallel , bun test --parallel , bun audit fix , bun) Tj
+T*
+(dedupe , and bun prune . And it rewrites Bun from Zig to Rust. Of these the one that most) Tj
+T*
+(caught my eye was Bun.WebView , which adds first class support for browser automation to Bun) Tj
+T*
+(core using either macOS WebKit or control of a local Chromium process via the Chrome DevTools) Tj
+T*
+(Protocol \(CDP\). I had Claude Code for web build a prototype of a web API providing the ability) Tj
+T*
+(to load a web page and then execute JavaScript against it, inspired by my shot-s...) Tj
+T*
+() Tj
+T*
+(3. Quoting Claude Opus 5 system prompt) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-09T23:31:39+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/) Tj
+T*
+(Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026,) Tj
+T*
+(Anthropic suspended access to both models to comply with U.S. Department of Commerce export) Tj
+T*
+(controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access) Tj
+T*
+(on July 1, 2026 \(Anthropic's statement: https://www.anthropic.com/news/fable-mythos-access \).) Tj
+T*
+(These events are after Claude's training-data cutoff, so Claude knows about them only from this) Tj
+T*
+(notice. If asked, Claude confirms them accurately and matter-of-factly ? it doesn't deny the) Tj
+T*
+(suspension happened ? and otherwise treats the export controls like any other current political) Tj
+T*
+(topic: it gives a fair, accurate account rather than sharing personal opinions, and points to) Tj
+T*
+(the linked statement for anything further. Things may have developed since this notice, so) Tj
+T*
+(Claude checks for newer information when it can search, and otherwise suggests checking) Tj
+T*
+(Anthropic's site. ? Claude Opus 5 system prompt , ensuring Claude doesn't provide incorrect) Tj
+T*
+(answers about the export controls situation Tags: system-prompts , anthropic , claude ,) Tj
+T*
+(generative-ai , ai , llms , claude-mythos-fable) Tj
+T*
+() Tj
+T*
+(4. Getting the Steam Deck LCD working on a Raspberry Pi) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4434 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Jeff Geerling | Published: Thu, 20 Aug 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/) Tj
+T*
+(The BOE TV070WXM-TV0 LCD used in the original Steam Deck can be had for around $30. It's a) Tj
+T*
+(serviceable 7" touchscreen with 400 nits of brightness and a resolution of 1280x800 \(for a) Tj
+T*
+(sharp 216 ppi\). The specs are a lot nicer than the Pi 7" Touch Display , which costs twice as) Tj
+T*
+(much, with giant bezels and half the resolution! Until today, the Steam Deck LCD didn't work) Tj
+T*
+(with a Raspberry Pi. But the folks at Scandent were trying to standardize on a mass-market) Tj
+T*
+(touchscreen for one of their own devices, and built a Linux kernel driver for it which they) Tj
+T*
+(intend to upstream.) Tj
+T*
+() Tj
+T*
+(5. MacOS 26.7 Tahoe Release Candidate Contains a Video Demonstrating Camera-Equipped) Tj
+T*
+(AirPods in Action) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-18T03:37:14Z) Tj
+T*
+(Link: https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/) Tj
+T*
+(Oops. ?) Tj
+T*
+() Tj
+T*
+(6. Trump Administration ?Not in Favor? of Apple Using Chinese RAM) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-16T16:34:12Z) Tj
+T*
+(Link: https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA) Tj
+T*
+(The Wall Street Journal \(gift link\): To help alleviate the supply crunch, Apple is looking to) Tj
+T*
+(Chinese manufacturers. ?The Trump administration is not in favor of that,? Lutnick said in an) Tj
+T*
+(interview after touring an Apple manufacturing facility in Houston. There have to be ?other) Tj
+T*
+(solutions to the memory issue, but it?s not great American companies using Chinese memory.?) Tj
+T*
+(Asked if he has relayed that message to Apple, Lutnick said ?plainly.? But: U.S. government) Tj
+T*
+(rules require American companies to secure a license before sharing product information with) Tj
+T*
+(CXMT and YMTC. The Chinese chip makers would need such information if they were to make) Tj
+T*
+(customized chips for Apple. But Apple is free to buy off-the-shelf parts from the companies,) Tj
+T*
+(and to negotiate prices with them. Apple?s chief operating officer, Sabih Khan, declined to) Tj
+T*
+(confirm that Apple was testing Chinese memory chips in an interview Thursday. But he said that) Tj
+T*
+(given the magnitude of the supply shortage, ?we have to look at all options,? including working) Tj
+T*
+(with existing suppliers to increase U.S. production. ?) Tj
+T*
+() Tj
+T*
+(7. XCancel ? An Unofficial Twitter/X Mirror) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-16T14:33:16Z) Tj
+T*
+(Link: https://xcancel.com/about) Tj
+T*
+(XCancel: XCancel is an instance of Nitter. Nitter is a free and open source alternative Twitter) Tj
+T*
+(front-end focused on privacy and performance. The source is available on GitHub at) Tj
+T*
+(https://github.com/zedeus/nitter [...] Using an instance of Nitter \(hosted on a VPS for) Tj
+T*
+(example\), you can browse Twitter without JavaScript while retaining your privacy. In addition) Tj
+T*
+(to respecting your privacy, Nitter is on average around 15 times lighter than Twitter, and in) Tj
+T*
+(most cases serves pages faster \(eg. timelines load 2-4◊ faster\). I personally don?t care for) Tj
+T*
+(Elon Musk?s X-rebranded Twitter. I also realize that some of you outright despise it, and,) Tj
+T*
+(worse, that under Musk, they make it difficult to view content if you?re not signed into an) Tj
+T*
+(account or if you have JavaScript disabled. So, sometimes, when I link to posts or threads on) Tj
+T*
+(Twitter/X, I include a link to the same content at XCancel. XCancel isn?t perfect, alas. Just) Tj
+T*
+(this week I linked to a tweet from Google Design that contained an animation of an Android app) Tj
+T*
+(that they were inexplicably proud to show off. The XCancel cache of that tweet only showed it) Tj
+T*
+(as animated to some people. Others just saw a static image. I don?t know why. That?s XCance...) Tj
+T*
+() Tj
+T*
+(8. On wrapping a callable in a lambda that just calls it with the same parameters) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 19 Aug 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624) Tj
+T*
+(Just use the callable directly. The post On wrapping a callable in a lambda that just calls it) Tj
+T*
+(with the same parameters appeared first on The Old New Thing .) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4364 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(9. AI-generated ASCII diagrams) Tj
+T*
+(Source: John D. Cook | Published: Thu, 20 Aug 2026 13:48:43 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/) Tj
+T*
+(I like AI-generated ASCII diagrams. Because nobody would ask AI to generate ASCII diagrams, and) Tj
+T*
+(so, it?s congruous. I like incongruity [1]. Aside from the incongruity of using a) Tj
+T*
+(gazillion-parameter neural network to make 1970?s style ASCII art, ASCII diagrams have some) Tj
+T*
+(uses. They?re absolutely tiny compared to image files. But more importantly they can [?] The) Tj
+T*
+(post AI-generated ASCII diagrams first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Better Batteries) Tj
+T*
+(Source: matklad | Published: 2026-08-20T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/08/20/better-batteries.html) Tj
+T*
+(One of the eternal schisms in programming is over the question of whether the standard library) Tj
+T*
+(should be minimal or encompassing. This is the wrong question to ask. The right one is:) Tj
+T*
+() Tj
+T*
+(11. Issues in the Repo) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-08-20T09:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/08/20/issues-in-the-repo.html) Tj
+T*
+(GitHub had a rough Monday this week, with git operations, Actions, and the issue tracker all) Tj
+T*
+(unavailable for several hours . Code being unreachable during a forge outage is annoying but) Tj
+T*
+(survivable because every contributor already has a full clone. Issues and pull request threads) Tj
+T*
+(going dark is a different matter, since for most projects those exist only in GitHub?s database) Tj
+T*
+(and nowhere else. I asked on Mastodon about tools that keep issue and review data inside the) Tj
+T*
+(repository so it clones and pushes with the code, and got pointed at more projects than I) Tj
+T*
+(expected, spanning about twenty years of people having a go at this. The projects sort by where) Tj
+T*
+(they physically put the data, and each storage location brings its own answers to the same) Tj
+T*
+(handful of questions: whether a plain git clone fetches it, what happens when two people edit) Tj
+T*
+(the same issue offline and then both push, whether you can read it without the tool installed,) Tj
+T*
+(whether it survives being pushed to a bare git host that has no support for the tool, and who) Tj
+T*
+(counts as the author of an issue when there are no forge accounts. I wrote about git?s) Tj
+T*
+(extension points last year and several of these tools use the custom-ref mechanism...) Tj
+T*
+() Tj
+T*
+(12. Our Servants Will Do That For Us) Tj
+T*
+(Source: Fernando Borretti | Published: Thu, 20 Aug 2026 00:00:00 +0000) Tj
+T*
+(Link: https://borretti.me/article/our-servants-will-do-that-for-us) Tj
+T*
+(Why the post-scarcity utopia is unlikely.) Tj
+T*
+() Tj
+T*
+(13. A Sloppy Interface Is a Security Liability ?) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Thu, 20 Aug 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/) Tj
+T*
+(In his talk ?Why AI Is Breaking Software Security As We Know It? \( my notes here \), Feross) Tj
+T*
+(Aboukhadijeh talks about the Axios npm incident and how the maintainer got phished by) Tj
+T*
+(succumbing to \(amongst other things\) a faux Microsoft Teams interface: this is the kind of) Tj
+T*
+(thing that AI makes easy to do, because it can vibe code that whole fake Microsoft Teams) Tj
+T*
+(interface pretty trivially You?ve probably seen these: interfaces designed to look like some) Tj
+T*
+(other product in order to provide a facade of authenticity and exploit someone. What struck me) Tj
+T*
+(in listening to Feross was this idea of how the quality of your interfaces can be a protection) Tj
+T*
+(mechanism against attackers. I don?t know if I?ve ever heard someone say that out loud ?) Tj
+T*
+(interface and interaction design as a security control ? but I?m saying it. Now, of course, not) Tj
+T*
+(everyone will consciously notice the level of polish that world-class professionals imbue in) Tj
+T*
+(digital interfaces. But some will. Personally, I?ve always used the quality and care of digital) Tj
+T*
+(experiences as a heuristic for judging authenticity ? and competency to be honest, e.g. ?If) Tj
+T*
+(this UI is so bad, what else will surely be bad?? Granted, it was a much more dependable) Tj
+T*
+(heur...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3134 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(14. Pluralistic: The actual epistemic crisis \(20 Aug 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 20 Aug 2026 23:41:21) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/08/20/epistemic-void/) Tj
+T*
+(Today's links The actual epistemic crisis: AI's assault on reality is an opportunistic) Tj
+T*
+(infection. Hey look at this: Delights to delectate. Object permanence: Disney goths; Running a) Tj
+T*
+(con room party; Equation Group's fuggly sourcecode; "Bubble"; "The Weight." Upcoming) Tj
+T*
+(appearances: Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've) Tj
+T*
+(been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said,) Tj
+T*
+(I'll keep writin' 'em. Colophon: All the rest. The actual epistemic crisis \(permalink\) AI is) Tj
+T*
+(alarming for many reasons: it's a dangerous financial bubble, an environmental catastrophe, and) Tj
+T*
+(a tool for eroding wages and labor power. But in addition to all that, AI is an epistemic) Tj
+T*
+(disaster. We've had photoshopped images, voice impersonators and visual effects for years, of) Tj
+T*
+(course, but with deepfakes, we've democratized access to reality-bending images, sounds and) Tj
+T*
+(videos that appear real but are not. It's harder than ever to know what's true. Politicians and) Tj
+T*
+(celebrities and activists show up in our feeds, declaring their fealty to this cause or) Tj
+T*
+(product, or their fury at some turn in the world's events. Battlefields mound high with bodies) Tj
+T*
+(an...) Tj
+T*
+() Tj
+T*
+(15. Introducing Dashboard Touch, a build-your-own version of Touch ID) Tj
+T*
+(Source: Anil Dash | Published: 2026-08-20T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/08/20/introducing-dashboard-touch/) Tj
+T*
+(For years, I?ve wanted to have a standalone version of Apple?s Touch ID authentication feature) Tj
+T*
+(for my Mac, but without having to use an Apple keyboard. \(I generally like their keyboards, but) Tj
+T*
+(my daily driver keyboard these days is a big clicky mechanical beast.\) I?d gone down various) Tj
+T*
+(dead ends of trying to find substitutes, and even checked out the efforts where people had) Tj
+T*
+(ripped apart expensive Apple keyboards just to scavenge the Touch ID sensors out of them. None) Tj
+T*
+(of them quite solved the problem. So today, I?m sharing an open source project called Dashboard) Tj
+T*
+(Touch , which lets you make your own Touch ID-style sensor for your Mac, using low-cost) Tj
+T*
+(off-the-shelf part. It?s based on an extensive refactoring of the excellent tinyTouch project) Tj
+T*
+(by Zimeng Xiong, who recently cracked the code on how to make a useful fingerprint scanner) Tj
+T*
+(system that?s also reasonably secure for regular Mac users. \(You should definitely check out) Tj
+T*
+(his project and support his new hardware build if you?re interested in this stuff.\) I took my) Tj
+T*
+(own approach to this work because I wanted to focus a lot on having a friendly web interface) Tj
+T*
+(for configuring exactly how the fingerprint sensor system works on your computer...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000005007 00000 n 
+0000005133 00000 n 
+0000009619 00000 n 
+0000009745 00000 n 
+0000014161 00000 n 
+0000014287 00000 n 
+0000017474 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+17602
+%%EOF
