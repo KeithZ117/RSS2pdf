@@ -1,0 +1,462 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4018 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-22 10:15:19) Tj
+T*
+() Tj
+T*
+(1. llm 0.32.1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-21T17:16:13+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/21/llm/) Tj
+T*
+(Release: llm 0.32.1 Fresh installs of LLM stopped working the other day because the OpenAI) Tj
+T*
+(Python library dropped its usage of httpx , and it turned out LLM depended on that library but) Tj
+T*
+(only installed it via a transitive openai dependency. This dot-release fixes that for the) Tj
+T*
+(moment by pinning to openai , and a soon-to-drop 0.33 release will switch from httpx to httpx2) Tj
+T*
+(. Tags: httpx , openai , llm) Tj
+T*
+() Tj
+T*
+(2. llm-openrouter 0.7) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-21T16:58:19+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/21/llm-openrouter/) Tj
+T*
+(Release: llm-openrouter 0.7 Now that this plugin is compatible with LLM 0.32 it works much) Tj
+T*
+(better with reasoning LLMs available through OpenRouter. Updated for compatibility with LLM) Tj
+T*
+(0.32 . Models now use OpenRouter's implementation of the Responses API . Three new server-side) Tj
+T*
+(tools: Shell , WebFetch , and WebSearch . Enable these with options like -T WebSearch . Tags:) Tj
+T*
+(llm , openrouter) Tj
+T*
+() Tj
+T*
+(3. Stop Making TUIs) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-21T16:07:32+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/21/stop-making-tuis/) Tj
+T*
+(Stop Making TUIs Thomas Ptacek advocates for building real native user interfaces for even the) Tj
+T*
+(smallest of personal tools, because coding agents have reduced the cost of getting a) Tj
+T*
+(usable-enough GUI up and running to almost nothing. I wrote about my vibe-coded bandwidth and) Tj
+T*
+(GPU monitoring macOS task bar apps back in March , and I'm still using both of those on a daily) Tj
+T*
+(basis. I'm not habitually knocking out real UIs for my other projects yet, but I'm running out) Tj
+T*
+(of excuses! Thomas: If you haven?t tried your hand at turning one of your 500 throwaway CLIs) Tj
+T*
+(into a native app, you?re doing yourself a disservice. Go build a native UI. It?ll probably) Tj
+T*
+(change the way you think. Tags: thomas-ptacek , ai , generative-ai , llms , vibe-coding ,) Tj
+T*
+(coding-agents) Tj
+T*
+() Tj
+T*
+(4. The Fourth Horseman of the File-Format-Hegemony Apocalypse) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-21T23:18:40Z) Tj
+T*
+(Link: https://techcommunity.microsoft.com/blog/onedriveblog/introducing-markdown-support-in-sha) Tj
+T*
+(repoint-and-onedrive/4512174) Tj
+T*
+(Microsoft?s iPhone app for OneDrive has long supported creating three new document types via a) Tj
+T*
+(big ?+? button right in its file viewer: Excel, Word, PowerPoint. It recently came to my) Tj
+T*
+(attention that they?ve added a fourth document type, and they even gave it real Microsoft-style) Tj
+T*
+(? they just have no taste ? file icon. Just look at it . The whole world?s coming to an end,) Tj
+T*
+(Mallory. ?) Tj
+T*
+() Tj
+T*
+(5. Walmart Finally Caves, Will Soon Support Apple Pay) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-21T19:34:55Z) Tj
+T*
+(Link: https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-wa) Tj
+T*
+(lmart-and-sams-club) Tj
+T*
+(Walmart: When we think about convenience, we think about a lot of things, but making shopping) Tj
+T*
+(feel simpler and more seamless from start to finish is a big part. And one of the moments where) Tj
+T*
+(that matters most is at checkout. We want customers and members to have choice in how they pay,) Tj
+T*
+(so they can check out in the way that works best for them. Now, beginning Aug. 24, we will be) Tj
+T*
+(adding Tap to Pay to our payment options at select Walmart stores and Sam?s Club locations,) Tj
+T*
+(with plans to roll it out to all U.S. stores and clubs by the end of 2026 and to fuel stations) Tj
+T*
+(by mid-2027. When I think about convenience, I think about CurrentC , scanning stupid-ass QR) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4365 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(codes, and waiting 12 years to adopt Apple Pay. ?) Tj
+T*
+() Tj
+T*
+(6. ? When New DF Posts Drop in a Forest and No One Is There to Read Them) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-21T16:09:11Z) Tj
+T*
+(Link: https://daringfireball.net/2026/08/df_posts_drop_in_a_forest) Tj
+T*
+(https://daringfireball.net/) Tj
+T*
+() Tj
+T*
+(7. Reducing C++ template bloat by factoring out the type-dependent portions of the) Tj
+T*
+(function, practical exam) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 21 Aug 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260821-00/?p=112632) Tj
+T*
+(Applying our principles. The post Reducing C++ template bloat by factoring out the) Tj
+T*
+(type-dependent portions of the function, practical exam appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Reducing C++ template bloat by factoring out the type-dependent portions of the) Tj
+T*
+(function) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 20 Aug 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629) Tj
+T*
+(Looking for consolidation points. The post Reducing C++ template bloat by factoring out the) Tj
+T*
+(type-dependent portions of the function appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. You should never be angry at work) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sat, 22 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/you-should-never-be-angry-at-work/) Tj
+T*
+(I try not to give a lot of prescriptive advice about working in tech companies 1 . There are) Tj
+T*
+(many ways to be successful, and every company works differently. If you?re shipping projects) Tj
+T*
+(and your management chain is happy, it doesn?t really matter how you?ve accomplished it.) Tj
+T*
+(However, there?s one thing that I do think is solid advice: you should never be angry at work .) Tj
+T*
+(Anger in the workplace Anger in the workplace is toxic. An angry colleague immediately becomes) Tj
+T*
+(a new problem to be managed, not a professional helping you manage problems. When someone is) Tj
+T*
+(visibly angry in a meeting or in Slack, it kills the entire atmosphere: other engineers will) Tj
+T*
+(often go quiet entirely, not wanting to make the situation worse. If you routinely ?get heated?) Tj
+T*
+(at work, the best-case scenario is that you?re part of a tight-knit team of confident people) Tj
+T*
+(who aren?t put off by it 2 . No harm, no foul. But the second someone comes onto your team) Tj
+T*
+(who?s not so confident, or you have to communicate outside of your team, it becomes a big) Tj
+T*
+(problem. Healthy workplaces route around anger in the same way that networks route around) Tj
+T*
+(damage. Emotionally unreliable engineers will get left out of conversations that might...) Tj
+T*
+() Tj
+T*
+(10. Readers can't identify watermarked AI text) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Fri, 21 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/) Tj
+T*
+(In the last few weeks, I?ve been complaining that everyone is wrong about AI watermarking: it) Tj
+T*
+(isn?t really anti-consumer and it doesn?t make the outputs any worse. The watermarking papers) Tj
+T*
+(demonstrate 1 that this is true, but I thought it might be interesting to put it to a practical) Tj
+T*
+(test. Given examples of watermarked and unwatermarked answers to the same prompt, could readers) Tj
+T*
+(tell which is which? To find out, I vibed up 2 https://sgoedecke.github.io/watermark-quiz/ , a) Tj
+T*
+(static site that quizzes readers. I used Qwen3-30B-A3B-Instruct-2507 on a rented H200 to) Tj
+T*
+(generate thirty responses: three responses per question, one of which was secretly watermarked) Tj
+T*
+(with SynthID-Text. The rented GPU cost around two dollars. To measure results, I just sent) Tj
+T*
+(users to a different page for each score, and aggregated visitors-per-page in my analytics 3 .) Tj
+T*
+(This would be easily spoofable if anyone cared enough to do so, but for a casual test I think) Tj
+T*
+(it?s acceptable. The first round of traffic I got to the quiz \(278 participants\) had these) Tj
+T*
+(slightly puzzling results: Score Participants 0 6 1 15 2 36 3 64 4 54 5 39 6 51 7 10 8 3 9 0 10) Tj
+T*
+(0 Pure random choice would lead to an average score of 3.33/10. However,...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4133 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(11. How would you know whether an ancient culture had zero?) Tj
+T*
+(Source: John D. Cook | Published: Fri, 21 Aug 2026 13:14:28 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/21/ancient-number-system/) Tj
+T*
+(A few weeks ago I wrote about the number system used in labeling spreadsheet columns. Labels) Tj
+T*
+(run from A through Z, then AA through AZ, etc. This looks a lot like base 26, but it?s not) Tj
+T*
+(quite the same. It has no analog of zero. If Z were like zero, Y would be followed by [?] The) Tj
+T*
+(post How would you know whether an ancient culture had zero? first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Rust Glancer) Tj
+T*
+(Source: matklad | Published: 2026-08-21T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/08/21/rust-glancer.html) Tj
+T*
+(Rust Glancer, a functional LSP server for Rust which uses two orders of magnitude less RAM, is) Tj
+T*
+(incredibly cool. Go check it out! This post started as a comment on lobste.rs, but I figured it) Tj
+T*
+(out that it's better to publish it somewhat more prominently. Don't expect polished writing) Tj
+T*
+(though!) Tj
+T*
+() Tj
+T*
+(13. Book Review: An Immense World - How Animal Senses Reveal the Hidden Realms Around Us) Tj
+T*
+(by Ed Yong ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 21 Aug 2026 11:34:36 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/book-review-an-immense-world-how-animal-senses-reveal-th) Tj
+T*
+(e-hidden-realms-around-us-by-ed-yong/) Tj
+T*
+(This is a detailed examination of the various senses possessed by animals. Some will be) Tj
+T*
+(intimately familiar to you - like sight and sound - whereas some will seem strange and uncanny) Tj
+T*
+(- like magnetic detection and electro-sensing. Some straddle an almost understandable space) Tj
+T*
+(like echolocation or tetra-chromatic vision. This isn't a game of Top Trumps where all the) Tj
+T*
+(animals are ranked by power.?) Tj
+T*
+() Tj
+T*
+(14. My agent.md to improve LLM-assisted code quality) Tj
+T*
+(Source: Fabien Sanglard | Published: 21 Aug 2026 00:00:00 +0000) Tj
+T*
+(Link: https://fabiensanglard.net/agent.md/index.html) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(15. A Need for Speed) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 21 Aug 2026 15:36:02 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/08/a-need-for-speed/) Tj
+T*
+(Looking back from the vantage point of today, it?s hard for even me to believe, but it?s true) Tj
+T*
+(all the same: I used to be a full-blown car guy. I bought my first car, a 1966 Volkswagen) Tj
+T*
+(Beetle, for $800 in 1989, when I was sixteen years old. The bad thing about a Beetle was [?]) Tj
+T*
+() Tj
+T*
+(16. Pluralistic: Born on technology's third base \(21 Aug 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 22 Aug 2026 01:19:10) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/08/21/world-historic-forces/) Tj
+T*
+(Today's links Born on technology's third base: Material forces shape life-chances. Hey look at) Tj
+T*
+(this: Delights to delectate. Object permanence: Glue; iPods v unions; RIP Jack Layton; Gibson) Tj
+T*
+(on cities; Britain's sweatshop for terminally ill help-hcalls; NYPL's open CDN; Radical juries.) Tj
+T*
+(Upcoming appearances: Sydney, Melbourne, Brighton, London, South Bend. Recent appearances:) Tj
+T*
+(Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like) Tj
+T*
+(I said, I'll keep writin' 'em. Colophon: All the rest. Born on technology's third base) Tj
+T*
+(\(permalink\) Any frank assessment of your own achievements starts with an equally frank) Tj
+T*
+(assessment of the world-historic forces that attended those achievements. For example, I often) Tj
+T*
+(tell young people who want to get into tech, "Well, if you don't have the foresight and work) Tj
+T*
+(ethic to be born in 1971, I can't really help you." When it comes to tech, being born in 1971 ?) Tj
+T*
+(to a computer scientist father, no less ? conferred a tremendous advantage for my career) Tj
+T*
+(chances. My dad ? a refugee ? came to Canada at a time when post-war public services meant that) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2190 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(he could become the first person in his family to go to university, all the way to a...) Tj
+T*
+() Tj
+T*
+(17. In Purgatory Everyone Likes Crepes: My Time at a Greek All-Inclusive) Tj
+T*
+(Source: matduggan.com | Published: Fri, 21 Aug 2026 09:00:05 GMT) Tj
+T*
+(Link:) Tj
+T*
+(https://matduggan.com/in-purgatory-everyone-likes-crepes-my-time-at-a-greek-all-inclusive/) Tj
+T*
+(I can?t remember the last time I was actually hot. It?s a thought that keeps looping through my) Tj
+T*
+(head as I stand next to a children?s play structure in a Greek all-inclusive waterpark. The sun) Tj
+T*
+(is beating down on an international community of) Tj
+T*
+() Tj
+T*
+(18. Why shaming people about AI slop isn?t enough to stop Big AI) Tj
+T*
+(Source: Anil Dash | Published: 2026-08-21T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/08/21/ai-slop-and-shame/) Tj
+T*
+(These days, the conversation in tech and business, and in a lot of society, is still all AI,) Tj
+T*
+(all the time. And one of the most fundamental questions boils down to: How do you get people to) Tj
+T*
+(change what they?re doing in regard to AI? For people who \(understandably\) have moral or) Tj
+T*
+(ethical objections to the many harms caused by Big AI, there?s the challenge of how to drive) Tj
+T*
+(action while lacking the resources and capital of the tech tycoons who?ve driven the broad) Tj
+T*
+(cultural push towards AI adoption. As a result of the power differential between those pushing) Tj
+T*
+(AI and those fighting its advances, the typical rhetorical tactic for AI critics has been to) Tj
+T*
+(try to attach stigma to the use of AI, and to the outputs of AI systems. There is also little) Tj
+T*
+(cultural discussion, or even mention , of alternative offerings that aren?t from the Big AI) Tj
+T*
+(companies, so the entire narrative is framed as either using the most harmful, exploitative,) Tj
+T*
+(damaging AI tools from the likes of OpenAI, or using nothing at all. And for the most part,) Tj
+T*
+(this has been pretty effective for people who have any taste or sense of culture. If you?re a) Tj
+T*
+(creator, or engaged in creative culture, you probably either can?t stand the AI aest...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004280 00000 n 
+0000004406 00000 n 
+0000008823 00000 n 
+0000008949 00000 n 
+0000013134 00000 n 
+0000013260 00000 n 
+0000015503 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15631
+%%EOF
