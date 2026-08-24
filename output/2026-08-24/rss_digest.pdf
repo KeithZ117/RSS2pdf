@@ -1,0 +1,358 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4536 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-24 10:22:29) Tj
+T*
+() Tj
+T*
+(1. Anthropic?s best AI model struggles to attract users as cheaper tools thrive) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-23T20:24:52+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users) Tj
+T*
+(-as-cheaper-t/) Tj
+T*
+(Anthropic?s best AI model struggles to attract users as cheaper tools thrive A few interesting) Tj
+T*
+(numbers in this FT story gathered from "people with knowledge of the matter": Anthropic's) Tj
+T*
+("annualized revenue" for July is up to $65bn - it was $47bn in May, and I collected more) Tj
+T*
+(historic numbers here . Anthropic expect Q3 to be profitable according to the same model they) Tj
+T*
+(used to declare Q2 profitable. "It also told investors that it had 6,000 customers that spend) Tj
+T*
+($100,000 annually or more." As for OpenAI, "annualised revenue has jumped 35 per cent in the) Tj
+T*
+(quarter to date and is now over $40bn, with the launch of GPT 5.6 in July jolting the company?s) Tj
+T*
+(performance after a sluggish start to the year". This article also introduced me to the Ramp AI) Tj
+T*
+(index , which uses billing data from 70,000 Ramp credit card using companies to estimate model) Tj
+T*
+(adoption. Here's Ramp's breakdown of Anthropic model spend for July 2026, which looks) Tj
+T*
+(reasonable given that Opus 5 was only released on July 24th, and supports the idea that Fable's) Tj
+T*
+(cost has made it a less popular model: Opus 4.8: 28.0% Sonnet 4.6: 8.3% Fable 5: 8.0% Opus 4.6:) Tj
+T*
+(6.9% Sonnet 5: 3.6% Opus 5: 3.5% Opus 4.7: 1.7% Sonnet 4.5: 1.3% Haiku 4.5: 1.0...) Tj
+T*
+() Tj
+T*
+(2. Quoting Drew Breunig) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-23T19:55:30+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/23/drew-breunig/) Tj
+T*
+(Prior to Fable, it felt silly to waste too much time improving your coding harness or context) Tj
+T*
+(strategies. A new model would arrive at the same price \(or cheaper!\) and paper over most of) Tj
+T*
+(your problems. But then Fable landed. It was \(and still is!\) incredible . But the cost was so) Tj
+T*
+(high and Opus was good enough \(as was 5.6, K3, and even GLM\) for most of the code we needed. So) Tj
+T*
+(we started to think about what work went where. ? Drew Breunig , Fable & The End of the Free) Tj
+T*
+(Lunch Tags: drew-breunig , anthropic , claude , llm-pricing , ai , llms , generative-ai ,) Tj
+T*
+(claude-mythos-fable) Tj
+T*
+() Tj
+T*
+(3. Quoting Matt Webb) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-21T15:06:26+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/21/matt-webb/) Tj
+T*
+(After I released version 1.0, I figured I would have to do the rotations myself. So I sat down) Tj
+T*
+(with ChatGPT and I didn?t get it to write the code, but I got it to educate me. With a patient,) Tj
+T*
+(interactive tutor, I was able to finally do what I hadn?t by reading books and asking) Tj
+T*
+(mathematician friends ? I learnt how to use quaternions just enough to make the app work. So) Tj
+T*
+(learning doesn?t stop just because I outsource a bunch of thinking to AI. It pushes me to learn) Tj
+T*
+(more. I like that as an outcome. ? Matt Webb , Galactic Compass 2: now with new augmented) Tj
+T*
+(reality mode Tags: matt-webb , generative-ai , chatgpt , education , ai , llms) Tj
+T*
+() Tj
+T*
+(4. Cooper Sharp Proves That American Cheese Can Be Great Cheese) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-23T17:36:28Z) Tj
+T*
+(Link: https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/) Tj
+T*
+(John Moltz, in his weekly members-only column for Six Colors \(no gift links, but Moltz?s column) Tj
+T*
+(is worth the subscription in and of itself\): This week Anthropic announced that in order to) Tj
+T*
+(identify AI from human-generated content it would be watermarking all text it generates by) Tj
+T*
+(subtly altering the randomness at which its models picked the next word. While this might seem) Tj
+T*
+(a perfectly cromulent means of accomplishing a worthy goal, it really rubbed John Gruber the) Tj
+T*
+(wrong way, as if someone suggested putting autocomplete Swiss on his Philly cheesesteak AI.) Tj
+T*
+(Cooper Sharp cheese is the way to go. The best new cheesesteak joint in town ? Uncle Gus?s ?) Tj
+T*
+(only offers Cooper Sharp, in fact. Surely a fair number of the hundreds and hundreds of bees) Tj
+T*
+(that have nested in Gruber?s extremely fancy bonnet are a result of the fact that this all) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4680 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(ostensibly in response to a mandate from the EU. But, as James Thomson has suggested, Anthropic) Tj
+T*
+(might actually want to watermark so that it doesn?t scoop up is own output to train its models,) Tj
+T*
+(thereby degrading the results. In fact, the company would probably love to be able to figure) Tj
+T*
+(out other companies? watermarks and have them not be able to figure out its wa...) Tj
+T*
+() Tj
+T*
+(5. Bluesky?s Active User Base Is Shrinking, and Remains Tiny Compared to Threads and) Tj
+T*
+(Twitter/X) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-21T13:36:58Z) Tj
+T*
+(Link: https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-exp) Tj
+T*
+(ands-beyond-the-app/) Tj
+T*
+(Sarah Perez, writing at TechCrunch last week: Decentralized social network Bluesky was one of) Tj
+T*
+(the bigger beneficiaries of the exodus from Elon Musk?s X in November 2024, following the U.S.) Tj
+T*
+(elections. But now, nearly two years later, the social network and would-be X competitor is) Tj
+T*
+(struggling to hold on to its momentum. According to data from digital intelligence provider) Tj
+T*
+(Similarweb , Bluesky?s mobile app had 10.4 million monthly active users worldwide in June 2026,) Tj
+T*
+(down 27.2% year-over-year. In addition, mobile daily active users continued to decline, falling) Tj
+T*
+(25.6% year-over-year in July to around 3 million. As always, take all third-party analytics and) Tj
+T*
+(usage data about app usage with an enormous grain of salt . Third-party data companies can only) Tj
+T*
+(estimate this data, they can?t know it. It?s like comparing polling data to election results .) Tj
+T*
+(But I think it?s obviously true that Threads and Twitter/X both have hundreds of millions of) Tj
+T*
+(active users, and Bluesky has like maybe 10 million. Even if Bluesky has three times more) Tj
+T*
+(actual users than Similarweb?s data suggests, that would still suggest that Bluesky?s user base) Tj
+T*
+(is an entire order of magnitude smaller than Threads or Twitter/X. A...) Tj
+T*
+() Tj
+T*
+(6. Bluesky Is Full of Anti-AI Zealots) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-21T12:52:47Z) Tj
+T*
+(Link: https://bsky.app/profile/masnick.com/post/3mtk7cuvbok2x) Tj
+T*
+(Mike Masnick, in a thread on Bluesky: Multiple people I know have told me that they love the) Tj
+T*
+(idea of Bluesky, and want it to succeed, but have abandoned it for X because they use agentic) Tj
+T*
+(tools in their work and find them incredibly useful, and feel that any mention of their usage) Tj
+T*
+(here leads to hate and ridicule. I wouldn?t bring this up if it was just one person, but it was) Tj
+T*
+(multiple people since the beginning of August who mentioned in passing something to the effect) Tj
+T*
+(of either ?I?d spend more time on Bluesky if people weren?t so anti-AI? or ?As much as I hate) Tj
+T*
+(to be there all the useful AI talk is on X.? [...] I?m not telling anyone what to do or what) Tj
+T*
+(tech to use or what to like or not like. I?m just relaying that the reputation this place now) Tj
+T*
+(has is one that a large segment of the population who are NOT fascists, saying they don?t feel) Tj
+T*
+(comfortable here because a main area of their interest is considered worthy of being mocked and) Tj
+T*
+(attacked. And even as I?ve explained that I?ve been able to have positive conversations about) Tj
+T*
+(productive AI usage here with many of you, the reputation of the community here as insisting) Tj
+T*
+(their own lived experience can?t possibly be real has driven them aw...) Tj
+T*
+() Tj
+T*
+(7. What exactly is modified about a modified Bessel function?) Tj
+T*
+(Source: John D. Cook | Published: Sun, 23 Aug 2026 18:40:57 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/23/modified-bessel-function/) Tj
+T*
+(Special functions often have arcane names that not very helpful without some context. The) Tj
+T*
+(previous post goes into some reasons for this. This post will expand on a point at the end of) Tj
+T*
+(the post about ?modified? functions. Things are given their names for reasons. Discovering) Tj
+T*
+(those reasons may help you understand their motivation and [?] The post What exactly is) Tj
+T*
+(modified about a modified Bessel function? first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(8. Why special function terminology is arcane) Tj
+T*
+(Source: John D. Cook | Published: Sun, 23 Aug 2026 17:56:03 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/23/arcane-terminology/) Tj
+T*
+(Special functions are special because they?re useful. They can also be shrouded in arcane) Tj
+T*
+(terminology. These two facts are related. The more widely useful a function is, the more likely) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 2572 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(it is that the function will be discovered independently multiple times. Independent) Tj
+T*
+(discoveries lead to varying definitions and notations. For example, there are two widely [?]) Tj
+T*
+(The post Why special function terminology is arcane first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Death to px, long live ch!) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 23 Aug 2026 11:34:52 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/) Tj
+T*
+(Pixels are a lie. Even if you think you're drawing something with "pixel perfect" accuracy,) Tj
+T*
+(your monitor is lying to you. There is no grid of platonically perfect squares. In CSS, pixels) Tj
+T*
+(are a double lie: Note that 1px doesn't necessarily equal one physical device pixel. On HD) Tj
+T*
+(displays, it may span multiple physical pixels. Similarly, 1cm in CSS often doesn't correspond) Tj
+T*
+(to one hundredth of SI?) Tj
+T*
+() Tj
+T*
+(10. Fixing an eMachines EL1200 BIOS bug with Claude) Tj
+T*
+(Source: Downtown Doug Brown | Published: Sun, 23 Aug 2026 19:28:10 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://www.downtowndougbrown.com/2026/08/fixing-an-emachines-el1200-bios-bug-with-claude/) Tj
+T*
+(I?m no stranger to pushing hardware past its limits. For example, seven years ago, I tracked) Tj
+T*
+(down an issue that prevented 16 GB of RAM being used in a motherboard that only supported 8. It) Tj
+T*
+(ended up being a one-line GRUB hack to fix one of the ACPI tables that was mistakenly) Tj
+T*
+(overlapping a PCI [?]) Tj
+T*
+() Tj
+T*
+(11. Welcoming the Sri Lankan Government to Have I Been Pwned) Tj
+T*
+(Source: Troy Hunt | Published: Sun, 23 Aug 2026 06:39:45 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/) Tj
+T*
+(Today, we welcome the 48th government onboarded to Have I Been Pwned?s free gov service: Sri) Tj
+T*
+(Lanka. Sri Lanka CERT now has access to monitor Sri Lankan government domains against the data) Tj
+T*
+(in HIBP, helping identify exposed government accounts and respond when they appear in new data) Tj
+T*
+(breaches.) Tj
+T*
+() Tj
+T*
+(12. The summer of open weights) Tj
+T*
+(Source: Martin Alderson | Published: Sun, 23 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/the-summer-of-open-weights/?utm_source=rss&utm_medium=rs) Tj
+T*
+(s&utm_campaign=feed) Tj
+T*
+(Winter 2025 was the tipping point for coding agents. Summer 2026 is shaping up to be the same) Tj
+T*
+(for open weights - and compute supply, not model quality, is now setting the price.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004791 00000 n 
+0000004917 00000 n 
+0000009649 00000 n 
+0000009775 00000 n 
+0000012399 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+12525
+%%EOF
