@@ -1,0 +1,426 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4436 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-25 10:18:07) Tj
+T*
+() Tj
+T*
+(1. llm-anthropic 0.27) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-24T16:27:04+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/24/llm-anthropic/) Tj
+T*
+(Release: llm-anthropic 0.27 This release of the Anthropic plugin for LLM mainly provides) Tj
+T*
+(compatibility with the recently released anthropic v1.0.0 Python library, which switches from) Tj
+T*
+(httpx to httpx2 . OpenAI made the same change in their v3.0.0 release two weeks ago. Anthropic) Tj
+T*
+(provide this migration guide for upgrading to 1.0, so I prompted Fable 5 in Claude Code with:) Tj
+T*
+(Upgrade to anthropic>=1 - read) Tj
+T*
+(https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/refs/heads/main/MIGRATION.md) Tj
+T*
+(and get the tests passing Here's the resulting PR . Tags: python , httpx , llm , anthropic ,) Tj
+T*
+(claude) Tj
+T*
+() Tj
+T*
+(2. Your executable is a SQLite database) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-24T11:38:15+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/) Tj
+T*
+(Your executable is a SQLite database Farid Zakaria describes a neat Linux pattern for creating) Tj
+T*
+(a SQLite database file that can be directly used as an executable binary. The trick sets the) Tj
+T*
+(SQLite file format's 4-byte application ID \(68 bytes into the file\) to SELF, standing for) Tj
+T*
+(Structured Executable & Linkable Format. The various components of the ELF executable format) Tj
+T*
+(are then arranged into a number of different SQLite tables, using this schema . Their self-exec) Tj
+T*
+(interpreter \( C code here \) can then extract and execute the necessary pieces. You can) Tj
+T*
+(additionally use a Linux mechanism called binfmt_misc to teach the kernel to execute that any) Tj
+T*
+(time it encounters an executable matching that binary pattern. Farid uses NixOS here, but) Tj
+T*
+(without NixOS I think registration looks something like this: printf '%s\\n') Tj
+T*
+(':self:M:68:SELF::/usr/local/bin/self-exec:' \\ > /proc/sys/fs/binfmt_misc/register Via Hacker) Tj
+T*
+(News Tags: c , linux , sqlite) Tj
+T*
+() Tj
+T*
+(3. [Sponsor] Finalist 4: Inspired by Paper Day Planners) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-25T00:37:24Z) Tj
+T*
+(Link: https://www.finalist.works/?utm_source=df-aug-2026) Tj
+T*
+(Finalist 4 is the biggest update yet to the paper-inspired day planner for iPhone, iPad, Mac,) Tj
+T*
+(and now Apple Watch. The headline is Notes, in the app or as a folder of Markdown files that) Tj
+T*
+(round-trips with Obsidian. Tasks in those files land on the right day, next to your reminders) Tj
+T*
+(and events, even inside the macOS menu bar app. The rebuilt Timeline lets you pencil tasks into) Tj
+T*
+(your day, and Apple Pencil gets special powers to sketch the plan in seconds. There?s tons) Tj
+T*
+(more, brewed over four months with 1,000 beta testers. Try it free on the App Store. ?) Tj
+T*
+() Tj
+T*
+(4. Apple Rethinks Plan to Merge ?Hide My Email? Domain Name With ?Sign In With Apple?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-24T23:33:50Z) Tj
+T*
+(Link: https://developer.apple.com/news/?id=1ptvdtcm) Tj
+T*
+(Apple Developer News: Starting later this year, new Sign in with Apple addresses, previously) Tj
+T*
+(issued on privaterelay.appleid.com , will be issued on private.icloud.com . Existing addresses) Tj
+T*
+(on privaterelay.appleid.com will continue to work and forward mail to users without) Tj
+T*
+(interruption. After further consideration and reviewing community feedback, iCloud+ Hide My) Tj
+T*
+(Email addresses will remain on icloud.com . Back in June, Apple announced plans to merge both) Tj
+T*
+(systems onto the new private.icloud.com domain. The objection to this plan was rather obvious:) Tj
+T*
+(it?s fine for Sign In With Apple to use an easily distinguishable domain name, because the only) Tj
+T*
+(sites that see such email addresses are those that support Sign In With Apple \(SIWA\). The) Tj
+T*
+(problem with moving Hide My Email \(HME\) addresses to a distinguishable domain name is that we) Tj
+T*
+(often want to use such hidden email addresses on sites that would prefer to block those) Tj
+T*
+(addresses and try to force us to use our ?real? addresses. A little birdie suggested to me) Tj
+T*
+(after I wrote about it in June that there were strong objections to the merger internally all) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4270 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(along, from the HME side. Seems like those objections have won out. ?) Tj
+T*
+() Tj
+T*
+(5. ? What Is the Point of the DMA?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-24T22:47:20Z) Tj
+T*
+(Link: https://daringfireball.net/2026/08/what_is_the_point_of_the_dma) Tj
+T*
+(If you believed that the point of the DMA was to open up competition, choice, and freedom for) Tj
+T*
+(developers, yeah, I bet it does seem bonkers that the European Commission has signed off on) Tj
+T*
+(compliance where Apple charges 15 percent commissions on links to the web from apps distributed) Tj
+T*
+(on the App Store, and that Apple will collect a 5 percent Core Technology Commission even for) Tj
+T*
+(apps distributed on third-party app marketplaces, using third-party payment processing.) Tj
+T*
+() Tj
+T*
+(6. Comparing the two holograms on the Windows 95 box) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 24 Aug 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260824-00/?p=112643) Tj
+T*
+(Filling in with your imagination. The post Comparing the two holograms on the Windows 95 box) Tj
+T*
+(appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(7. Anger, Anxiety and Agency) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-08-24T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/) Tj
+T*
+(Sean Goedecke wrote a post arguing that you should never be angry at work ? a post with which I) Tj
+T*
+(strongly agree. Anger can be a useful signal, but being angry at work rarely improves the) Tj
+T*
+(situation. More often, it makes life worse for the people around you, many of whom have no more) Tj
+T*
+(power over the source of your anger than you do. I did learn that lesson, but it did not come) Tj
+T*
+(naturally. One thing in particular that I learned is that in a company there is a shared) Tj
+T*
+(vision, and if you don?t agree with it and are not in a position to change it, you should not) Tj
+T*
+(start a mutiny, not even a small-scale one. Nothing good comes from that. In the discussion) Tj
+T*
+(around that topic, one of the most upvoted comments on the Lobsters thread asked a question I) Tj
+T*
+(had to think about quite a bit: How can you work in tech right now and not be angry? In the) Tj
+T*
+(context of the thread, this was clearly also about AI and agents. For me, the emotions I would) Tj
+T*
+(expect in tech vis-a-vis these new developments are disorientation and anxiety, but not anger.) Tj
+T*
+(Anxiety as an emotion does not require someone to blame. Right now, I find it reasonable to) Tj
+T*
+(feel anxious about an uncertain future. Who knows what our professions will turn...) Tj
+T*
+() Tj
+T*
+(8. Numerical \(in\)stability of recurrece relations) Tj
+T*
+(Source: John D. Cook | Published: Tue, 25 Aug 2026 01:47:47 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/) Tj
+T*
+(The previous post gave several examples of three-term recurrence relations for special) Tj
+T*
+(functions. These relations can be computationally useful, but they have to be applied) Tj
+T*
+(carefully. Several years ago I wrote a post on stable and unstable recurrences. In that post I) Tj
+T*
+(show that the stability of the recurrence relation for Bessel functions produces depends [?]) Tj
+T*
+(The post Numerical \(in\)stability of recurrece relations first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Three-term recurrences) Tj
+T*
+(Source: John D. Cook | Published: Mon, 24 Aug 2026 14:14:55 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/24/three-term-recurrences/) Tj
+T*
+(There many examples of families of functions where each function can be computed as a linear) Tj
+T*
+(combination of the two previous terms where a and b are functions of x but not on n. This is) Tj
+T*
+(called a three-term recurrence formula. It?s amazing how often you can run into three-term) Tj
+T*
+(recurrence formulas. There are theorems that give conditions [?] The post Three-term) Tj
+T*
+(recurrences first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. The von Mises-Fisher distribution) Tj
+T*
+(Source: John D. Cook | Published: Mon, 24 Aug 2026 14:14:25 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/24/von-mises-fisher/) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4531 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Probability density function must integrate to 1, and so if you know a density function up to a) Tj
+T*
+(constant, the constant is determined. When you?re looking at a probability density f\(x\) for the) Tj
+T*
+(first time, it helps to ignore the normalizing constant. Concentrate on the part of the) Tj
+T*
+(function involving x and know that the normalizing [?] The post The von Mises-Fisher) Tj
+T*
+(distribution first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Why do audience members choose specific shows at the Edinburgh Fringe?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 24 Aug 2026 11:34:45 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edi) Tj
+T*
+(nburgh-fringe/) Tj
+T*
+(On our recent trip to the Edinburgh Fringe, I was bemused by just how little effort performers) Tj
+T*
+(put in to finding out why people had selected their show. Taking a show to the Edinburgh Fringe) Tj
+T*
+(is ridiculously expensive with some performers paying tens of thousands of pounds. The way) Tj
+T*
+(performers recoup the costs of performing is by getting people to pay to see a show. Acts are) Tj
+T*
+(spending huge amounts?) Tj
+T*
+() Tj
+T*
+(12. Getting an LLM to Make Me a Tool for Enriching the Color Metadata in My Icon) Tj
+T*
+(Collection) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 23 Aug 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/use-llm-to-add-color-metadata/) Tj
+T*
+(On my icon gallery sites , I have metadata I?ve manually added over the years to tag certain) Tj
+T*
+(icons as being predominantly ?blue? or ?orange? or some other color. Then I use this metadata) Tj
+T*
+(to present icons of \(roughly\) the same color. It?s kinda neat to be able to browse a wall of) Tj
+T*
+(icons that are all the same color. The thing is: I know there are a lot of icons I?ve missed) Tj
+T*
+(tagging over the years. But I have no idea how many, and figuring that out seems like a really) Tj
+T*
+(arduous task. How do I go through 2,000+ icons and find all the ones that look predominantly) Tj
+T*
+(?orange? but haven?t been tagged as such yet? Seems like a good task to throw at an LLM. But I) Tj
+T*
+(don?t want to just say, ?Go tag everything that?s missing? and blindly trust the output. I need) Tj
+T*
+(to be able to make a decisions as to whether I think a particular color is ?orange? or not.) Tj
+T*
+(What I need is a tool for the job. I?m a very visual thinker, so to continue curating these) Tj
+T*
+(color categorizations, I need some way for the computer to do its thing really, really fast,) Tj
+T*
+(and then pull me into the loop to visually make decisions. Here?s how I am thinking about about) Tj
+T*
+(accomplishing this task: Create a page with a list of colors on the left \(...) Tj
+T*
+() Tj
+T*
+(13. distributed identity) Tj
+T*
+(Source: the website of jyn | Published: 2026-08-24T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/distributed-identity/) Tj
+T*
+(Git makes it stupidly hard to change or hide your identity) Tj
+T*
+() Tj
+T*
+(14. Pluralistic: How Canada can help Americans and defeat America \(23 Aug 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 24 Aug 2026 21:29:38) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/08/24/elbows-really-up/) Tj
+T*
+(Today's links How Canada can save Americans and defeat America: True Carneyism has never been) Tj
+T*
+(tried. Hey look at this: Delights to delectate. Object permanence: Brazil v AIDS drug patents;) Tj
+T*
+(TSA v gel-bras; After the Siege \(Russian\); Names are hard; Layton's last message; Hospital bill) Tj
+T*
+(secrets; "The Unraveling"; Friction cannot be reduced, only redistributed; Free Kevin; EFF v) Tj
+T*
+(Barney; MP3tunes; "Ghosts With Shit jobs"; Ikea as dystopian design-fiction; Torturing "young) Tj
+T*
+(conservatives"; Roald Dahl body yeast ale; Prisoners die of heat; Privacy v antitrust; The) Tj
+T*
+(internet is boring \(2001\); TSA v explosive water; Internet Archive x 9/11; Peter Thiel x) Tj
+T*
+(litigation financing startup; Universities v unions. Upcoming appearances: Sydney, Melbourne,) Tj
+T*
+(Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. How Canada can save Americans and defeat America \(permalink\) As Canada) Tj
+T*
+(is learning \(the hard way\), the "art" of all of Trump's deals can be summed up in a single) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 601 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(word: "renege": https://pluralistic.net/2026/07/22/table-flipper/#graveyard-of-indispensab...) Tj
+T*
+() Tj
+T*
+(15. Weekly Update 518: IoT Doorlock Nirvana with UniFi) Tj
+T*
+(Source: Troy Hunt | Published: Mon, 24 Aug 2026 04:19:51 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-518/) Tj
+T*
+(I genuinely think I've nailed the IoT door lock situation! Well, Ubiquiti has, but I think I've) Tj
+T*
+(worked out how to put it all into a residential house and have it make sense. There are a few) Tj
+T*
+(basic tenets: Main power \(never have to rely on) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004698 00000 n 
+0000004824 00000 n 
+0000009146 00000 n 
+0000009272 00000 n 
+0000013855 00000 n 
+0000013981 00000 n 
+0000014634 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14762
+%%EOF
