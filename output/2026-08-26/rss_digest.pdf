@@ -1,0 +1,604 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4307 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-26 10:24:34) Tj
+T*
+() Tj
+T*
+(1. EVE Online: The Move to Python 3 Begins!) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-25T22:59:30+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/) Tj
+T*
+(EVE Online: The Move to Python 3 Begins! EVE Online has been one of the most interesting case) Tj
+T*
+(studies in Python at scale for over twenty years now. They've been running on Stackless Python) Tj
+T*
+(since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python) Tj
+T*
+(2.7 in 2010 . Their upgrade to Python 3 will start using the futurize script against 2.4) Tj
+T*
+(million lines of code, followed by careful manual review of the ~20,000 places where Python 2) Tj
+T*
+(and 3 behavior differ - for example 1 / 2 is 0 in Python 2 but is 0.5 in Python 3. There's) Tj
+T*
+(nothing in this announcement about how they plan to replace Stackless, but at their conference) Tj
+T*
+(last year they presented Scheduling in Carbon: Leaving Stackless Python Behind describing how) Tj
+T*
+(they replaced Stackless in the Carbon engine for their more recent game EVE Frontier, using) Tj
+T*
+(their \(now open source\) carbonengine/scheduler library. Via Lobster.rs Tags: eve-online ,) Tj
+T*
+(migrations , python , python3 , stackless) Tj
+T*
+() Tj
+T*
+(2. Debugging Ubiquiti's 5G Backup on AT&T) Tj
+T*
+(Source: Jeff Geerling | Published: Tue, 25 Aug 2026 14:18:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/) Tj
+T*
+(For a mobile 'mini homelab' project I'm working on, I wanted to use 5G Internet as a primary) Tj
+T*
+('on-to-go' connection, but still have the ability to plug in another Internet connection when I) Tj
+T*
+(put the mobile rack I'm building in a fixed location. I'll have more on that project soon, but) Tj
+T*
+(I figured this project was a good way to check out Ubiquiti's solutions, especially considering) Tj
+T*
+(many of their smaller gear fits nicely within the dimensions of a mini rack \(the 3U DeskPi) Tj
+T*
+(RackMate TT is pictured above\).) Tj
+T*
+() Tj
+T*
+(3. Foot Guns for Sale) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Tue, 25 Aug 2026) Tj
+T*
+(07:15:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/foot-gun-for-sale) Tj
+T*
+(I don't think it's going to work out the way everybody thinks it will. The current narrative,) Tj
+T*
+(at least the one pushed by the companies selling the shovels, is that AI will become) Tj
+T*
+(centralized. Anthropic and OpenAI will offer safe, vetted AI. Developers will become mere) Tj
+T*
+(prompt-engineers, submitting requests to these benevolent gatekeepers. They have tamed the) Tj
+T*
+(dragon. We will benefit only if we become tenants to their API-driven fiefdoms, paying by the) Tj
+T*
+(token for the privilege of renting intelligence. ?They didn?t care that they?d seen it work in) Tj
+T*
+(practice because they already knew it couldn?t work in theory? - Clay Shirky I complain about) Tj
+T*
+(AI frequently on this blog, but not because I don?t think it is useful. I use it quite) Tj
+T*
+(frequently on my day to day. But what I hate is hype and fake narratives. In fact, I believe) Tj
+T*
+(that the opposite of their narrative will come true. Technology will continue to improve) Tj
+T*
+(whether Moore?s Law becomes a relic of the past or not. It?s been called dead, yet CPUs and) Tj
+T*
+(GPUs are becoming faster than ever. I do not believe for one second that developers with) Tj
+T*
+(pre-LLM experience will end up on the losing side. And if technology continues to improve, then) Tj
+T*
+(we won?t n...) Tj
+T*
+() Tj
+T*
+(4. XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at) Tj
+T*
+(X Corp) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-25T22:44:18Z) Tj
+T*
+(Link: https://xcancel.com/) Tj
+T*
+(XCancel: On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease) Tj
+T*
+(and desist the service XCancel. The service XCancel is stopped until further notice. We are) Tj
+T*
+(seeking legal advice and won?t share more details for now. Thank you for the trust you have put) Tj
+T*
+(in these two years of XCancel. I didn?t want to jinx them, but this obvious threat hanging over) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4560 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(their head was the main reason I never linked only to XCancel rather than directly to tweets on) Tj
+T*
+(x.com. This sucks not just because some people don?t want to visit x.com, but because XCancel) Tj
+T*
+(was a faster-loading website with no bullshit. ?) Tj
+T*
+() Tj
+T*
+(5. Dolly Parton Dies at 80) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-25T22:39:12Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html) Tj
+T*
+(Bill Friskics-Warren for The New York Times: Her death was announced in a video posted on) Tj
+T*
+(social media by her nephew Bryan Seaver. No cause was provided. Concerns about Ms. Parton?s) Tj
+T*
+(health were raised last year as she postponed and later canceled a Las Vegas residency, and) Tj
+T*
+(intensified to the point that she took to social media in October to announce, ?I ain?t dead) Tj
+T*
+(yet.? This May, she said that she had responded well to treatment after her immune and) Tj
+T*
+(digestive systems had, as she put it, ?got all out of whack? in recent years. From her) Tj
+T*
+(hardscrabble beginnings to glittering stardom, Ms. Parton?s life was the stuff of make-believe.) Tj
+T*
+(With her voluptuous figure, sparkly stage costumes and blond bouffant wigs, she was likened by) Tj
+T*
+(the writer Chet Flippo to the Big Rock Candy Mountain, the Depression-era symbol of abundance.) Tj
+T*
+(Her songs spoke to millions, confronting privation and loss even as they radiated possibility) Tj
+T*
+(and hope. She was, quintessentially, a uniter of people. In 2019, The New York Times ran a) Tj
+T*
+(story with the headline ?Is There Anything We Can All Agree On? Yes: Dolly Parton.? Hillary) Tj
+T*
+(Clinton, on Threads : Dolly Parton did all the good she could, for all the people she could,) Tj
+T*
+(fo...) Tj
+T*
+() Tj
+T*
+(6. Update Regarding the Base Prices of the M5 Max Mac Studio) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-25T22:17:40Z) Tj
+T*
+(Link:) Tj
+T*
+(https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios) Tj
+T*
+(I made a mistake in my table earlier today regarding the base price of the M5 Max Mac Studio ,) Tj
+T*
+(but my mistake was because of a rather sneaky design in Apple?s purchasing flow. Apple?s web) Tj
+T*
+(interface looks like this: Both of the available M5 Max SoCs have 18-core CPUs, but the entry) Tj
+T*
+(model \(that starts at $2,500\) has a 32-core GPU, and the upgraded chip has a 40-core GPU. That) Tj
+T*
+(upgrade is labeled ?+ $300?, which makes it look as though the starting price for the) Tj
+T*
+(18/40-core model is $2,800. That?s the price I put in the original version of my chart. But if) Tj
+T*
+(you select that option, you?ll notice that the actual starting price jumps from $2,500 to) Tj
+T*
+($3,100 ? a $600 difference, not $300. The reason is that the $2500 18/32-core version only) Tj
+T*
+(comes with one option for RAM: 32 GB. The 18/40-core chip has three tiers for RAM: 48, 64, and) Tj
+T*
+(128 GB. So when you switch from the 18/32-core chip to the 18/40-core chip, you don?t just get) Tj
+T*
+(8 extra GPU cores \(which Apple is saying costs $300\), but the base RAM jumps from 32 to 48 GB,) Tj
+T*
+(and that costs you an additional $300. Apple does show a blue notification stripe when you) Tj
+T*
+(change chips here, which states ?Based on your new selection, other parts of your co...) Tj
+T*
+() Tj
+T*
+(7. Theatre Review: Cats at Regent's Park Open Air Theatre ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 25 Aug 2026 11:34:22 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/theatre-review-cats-at-regents-park-open-air-theatre/) Tj
+T*
+(Cats is so silly! In the olden days, after a wild animal was slaughtered, the tribe's shaman) Tj
+T*
+(would wear the skin and re-enact the hunt. As he became one with the beast, the people slowly) Tj
+T*
+(understood the ways of nature. Cats is a similarly spiritual experience wherein we watch) Tj
+T*
+(androgynous sylphs gyrate across the stage and believe \(if only for a moment\) that the human) Tj
+T*
+(has become feline, all in?) Tj
+T*
+() Tj
+T*
+(8. Uranium from P?Ìbram \(Czechia\)) Tj
+T*
+(Source: Maurycy's Blog | Published: Tue, 25 Aug 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/misc/rocks3/) Tj
+T*
+(All images are links to high quality versions. RC-102: 1.7 kCPS [43 uSv/h]. AB+: 55 CPS, 1960) Tj
+T*
+(CPS Uraninite nodules in calcite \(?\). Unlike the Colorado plateau rocks, the veins are nice and) Tj
+T*
+(clean \(although not chemically pure\) which results in a shiny surface. RC-102: 1.1 kCPS [37) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4675 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(uSv/h] Chunk of Uraninite growing on calcite. It has nice botryoidal formations of massive) Tj
+T*
+(Uraninite along with some areas where the shape of the underlying calcite crystal is visible. A) Tj
+T*
+(few of the "bubbles" are broken, showing the individual crystals that grew on the matrix.) Tj
+T*
+(RC-102: 300 kCPS [14 uSv/h]. AB+: 25 CPS, 704 CPS Ugly Uraninite chip. Might glue this inside a) Tj
+T*
+(cloud chamber or something: it's small, crumbly and weathered. RC-102: 3.2 kCPS [112 uSv/h]) Tj
+T*
+(Uraninite coating "granite". RC-102: 1.3 kCPS [32 uSv/h]. AB+: 26 CPS, 1200 CPS Granite with) Tj
+T*
+(Uraninite veins running through it. A nice crystal of calcite is visible in the third photo.) Tj
+T*
+(Uraninite veins running through calcite \(?\). This might look cool if cut and polished. RC-102:) Tj
+T*
+(732 CPS [15 uSv/h]. AB+: 1.75 CPS, 240 CPS This piece has a \(somewhat metamorphic\) sedimentary) Tj
+T*
+(host rock, which is very different from the other pieces. Geology notes : Th...) Tj
+T*
+() Tj
+T*
+(9. Hardening the Override Flag) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-08-25T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/08/25/hardening-the-override-flag.html) Tj
+T*
+(I?ve been reading through the recent run of incidents where package-manager infrastructure was) Tj
+T*
+(the attack surface, as one does on a Sunday afternoon. One question I kept coming back to was) Tj
+T*
+(whether the tools have any defences at the flag and config level. Every package manager has an) Tj
+T*
+(override that turns off a check: --allow-unauthenticated , --break-system-packages ,) Tj
+T*
+(--ignore-scripts , an env var that points the resolver at a different registry. If a) Tj
+T*
+(compromised install script can pass those as easily as a person at a keyboard can, the check) Tj
+T*
+(does very little. So I went looking at how command-line tools more generally handle their) Tj
+T*
+(dangerous overrides, sudo and curl and rm and the rest, and the catalogue got long enough to) Tj
+T*
+(write up on its own. Names and channels GNU rm goes back and re-reads argv after option parsing) Tj
+T*
+(has finished. getopt_long accepts any unambiguous prefix of a long option, which would make) Tj
+T*
+(--no-p a valid spelling of --no-preserve-root , so rm checks the literal string and rejects) Tj
+T*
+(anything shorter with ?you may not abbreviate the ?no-preserve-root option?. --preserve-root) Tj
+T*
+(has been the default since 2006 , and the override requires the full flag every time, on top) Tj
+T*
+(of...) Tj
+T*
+() Tj
+T*
+(10. Adding diagrams to my static site generator with D2) Tj
+T*
+(Source: Giles' blog | Published: Tue, 25 Aug 2026 23:00:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/08/adding-d2) Tj
+T*
+(A lot of the time when I've been writing posts for this blog, I've felt that a diagram would) Tj
+T*
+(really help. But they're a pain to produce well, and I think I underuse them as a result. I) Tj
+T*
+(wanted to fix that, and wound up adding D2 support to my static site generator. I think it) Tj
+T*
+(works pretty well! In the past, I've tried drawing my own diagrams in LibreOffice and exporting) Tj
+T*
+(as SVG, but my complete lack of artistic skill doesn't help: Asking an AI to do it for me) Tj
+T*
+(helped in simple cases: ...but with something less standard \(there must be a million neural) Tj
+T*
+(network diagrams in their training sets\) it can be really fiddly to get something right. I did) Tj
+T*
+(some investigations into the various diagram-generating tools out there, and decided to give D2) Tj
+T*
+(a go. It has a simple language for specifying what your diagram should show, and the output is) Tj
+T*
+(pretty nice: Here's the source for that diagram: style.fill: transparent tokens: Tokens tokens) Tj
+T*
+(-> llm.token-embeddings llm: "" { token-embeddings: Token embeddings position-embeddings:) Tj
+T*
+(Position embeddings plus: "+" { shape: circle width: 36 height: 36 style.font-size: 24) Tj
+T*
+(style.fill: transparent } token-embeddings -> plus position-embeddings -> plus input-em...) Tj
+T*
+() Tj
+T*
+(11. The AI Hater's Manifesto) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 25 Aug 2026 16:57:38 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/the-ai-haters-manifesto/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter. It?s $70 a year , $18 a) Tj
+T*
+(quarter , or $7 a month , and in return you get a weekly newsletter that?s usually anywhere) Tj
+T*
+(from 10,000 to 18,000 words, including vast, detailed analyses of) Tj
+T*
+() Tj
+T*
+(12. A curmudgeon tries a language server) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 25 Aug 2026 00:00:00 +0200) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4447 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://entropicthoughts.com/curmudgeon-tries-language-server) Tj
+T*
+(I write code roughly the same way I did ten years ago: I make edits in my text editor, I switch) Tj
+T*
+(over to a terminal window and I run a command to compile and execute the code. I look at the) Tj
+T*
+(result, then switch back to my editor. If I am unsure of what happens, I either add tracer) Tj
+T*
+(prints to the code and restart the program, or I restart the program in a debugger. If I hit an) Tj
+T*
+(exception that crashes my program, I fix the problem and then restart it. I?m envious of what) Tj
+T*
+(Lisp programmers do. Lisp development typically happens by typing code directly into the REPL) Tj
+T*
+(to add, remove, and replace parts of the live, running system. A Lisp programmer does not need) Tj
+T*
+(to ?switch over? to something else because they are already inside their program process. They) Tj
+T*
+(never ?compile and execute? the code because the code is already running and they edit it by) Tj
+T*
+(hot-swapping code. They never restart in a debugger because they are already inside their) Tj
+T*
+(program process and can inspect anything they want. They don?t have to restart the program on) Tj
+T*
+(exceptions, because the condition system allows resuming the crashing code from anywhere in the) Tj
+T*
+(stack after the system has been patched with a fix. \(Continue reading th...) Tj
+T*
+() Tj
+T*
+(13. Have You Heard the Good News About Microlighter?) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Tue, 25 Aug 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/shipping-microlighter/) Tj
+T*
+(Dave Rupert wrote about shipping microlighter : a tool for handling syntax highlighting using) Tj
+T*
+(the CSS Custom Highlights API . I saw his post the day he released it, and I had an) Tj
+T*
+(implementation PR up for my blog by end of day. Then, like I do with so many things, I let it) Tj
+T*
+(sit there. This is the period where my subconscious takes over. It does the work of, ?How do I) Tj
+T*
+(actually feel about that? Do I want to merge it? Do I have any regrets about what I did?? If I) Tj
+T*
+(still want to merge it after a few days, that?s usually a good sign that I?ll be happy with the) Tj
+T*
+(work. \(Sometimes after a few days I say, ?What the hell was I thinking?? and then it?s easy to) Tj
+T*
+(simply close the PR with zero regrets.\) Well it?s a few days later and I still feel good about) Tj
+T*
+(it, so time to ship! My PR for this is pretty straightforward: Remove highlight.js dependency) Tj
+T*
+(\(and related plumbing\) On paths that 1\) match my post pages \(i.e. /YYYY/:slug \), and 2\) have) Tj
+T*
+(code on them, pull microlighter deps from a CDN and run it. Done. Granted, there are trade-offs) Tj
+T*
+(to this approach. I get it. Dave?s explainer for this tool on The ShopTalk Show vibed with me) Tj
+T*
+(because I?ve been in his shoes many times: ?Whoops, somehow syntax highlig...) Tj
+T*
+() Tj
+T*
+(14. The Negative Option) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-08-25T02:45:00Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective) Tj
+T*
+(In the 1980s and 1990s, Columbia House could do no wrong?it was a great way to get 12 CDs for a) Tj
+T*
+(penny. But its business model kind of set the stage for a lot of bad e-commerce.) Tj
+T*
+() Tj
+T*
+(15. Dylan Patel ? Anthropic & OpenAI will have most of the world?s compute by 2028) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Tue, 25 Aug 2026 15:32:57 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/dylan-patel-3) Tj
+T*
+("Every force is screeching towards centralization.") Tj
+T*
+() Tj
+T*
+(16. A Cautionary Tale About Data Breach Claims, Verification and Carhartt) Tj
+T*
+(Source: Troy Hunt | Published: Tue, 25 Aug 2026 21:51:08 GMT) Tj
+T*
+(Link:) Tj
+T*
+(https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/) Tj
+T*
+(You're not going to believe this, but turns out you can't always take criminals at their word.) Tj
+T*
+(Actually, I'll walk that back a bit as it may not even be the cybercrime guys who got this) Tj
+T*
+(wrong, but it all starts here: ?Cyber) Tj
+T*
+() Tj
+T*
+(17. Actually good advice) Tj
+T*
+(Source: Experimental History | Published: Tue, 25 Aug 2026 14:28:03 GMT) Tj
+T*
+(Link: https://www.experimental-history.com/p/actually-good-advice) Tj
+T*
+(don?t tell someone they look like Beaker from The Muppets, etc.) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3137 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(18. Extending life perception) Tj
+T*
+(Source: Herman's blog | Published: 2026-08-25T11:59:44.765013+00:00) Tj
+T*
+(Link: https://herman.bearblog.dev/extending-life-perception/) Tj
+T*
+(I write about journaling a lot , since it?s honestly my most important practice. In my most) Tj
+T*
+(recent post on the subject I made the case that active recall is an effective way to remember) Tj
+T*
+(things, whether that be ideas, thoughts, or events. I'd like to expand on that post and make) Tj
+T*
+(the case that journaling extends life perception. To wax philosophical for a moment: long life) Tj
+T*
+(perception and long lifespan are, when it comes down to it, effectively the same thing. If we) Tj
+T*
+(live in the infinite now , then the only thing separating an actual long life from the) Tj
+T*
+(perception of a long life is perception . This intuitively makes sense, and you've likely) Tj
+T*
+(experienced this yourself. Years that are filled with novelty tend to feel longer and are more) Tj
+T*
+(memorable than years of consistently similar days. It's partly why time feels so much longer as) Tj
+T*
+(a child, since all experiences are fairly novel and there's explicit progression though the) Tj
+T*
+(different phases of school, which stands in stark contrast to, say, a few years of working the) Tj
+T*
+(same job and rarely taking vacation or trying anything new. Those few years can easily condense) Tj
+T*
+(into a handful of memories, and so the perception of those years is fairly short...) Tj
+T*
+() Tj
+T*
+(19. Forgejo hack: How to set a starting issue and pull request number) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Tue, 25 Aug 2026 13:38:15 GMT) Tj
+T*
+(Link: https://blog.miguelgrinberg.com/post/forgejo-hack-how-to-set-a-starting-issue-and-pull-re) Tj
+T*
+(quest-number) Tj
+T*
+(I'm currently working on migrating my open source projects from GitHub to a self-hosted Forgejo) Tj
+T*
+(instance. As part of this effort I often end up looking through the Forgejo source code to) Tj
+T*
+(figure out if there are hidden ways to configure certain things to my liking when I can't do it) Tj
+T*
+(on the administration UI. I thought I'd start putting my discoveries in writing here, in case) Tj
+T*
+(they can help others. So here goes the first one. One of the aspects of the migration that is) Tj
+T*
+(tricky is how to transition issues and pull requests. What makes the most sense to me is to) Tj
+T*
+(only use Forgejo to track issues and pull requests going forward, leaving all the issues and) Tj
+T*
+(pull requests created up to the migration point on GitHub. Of course whether this is a good or) Tj
+T*
+(bad idea is debatable, but considering all the options I have decided that this is the solution) Tj
+T*
+(that is going to inflict the least pain on me. The one problem with this approach is that I) Tj
+T*
+(would end up having duplicate issue numbers, because Forgejo would start creating issues and) Tj
+T*
+(pull requests all the way back from #1 , and all those low numbers have been used on the GitHub) Tj
+T*
+(side. So I wanted to hack my Forgejo instance so that issues start from...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004576 00000 n 
+0000004702 00000 n 
+0000009314 00000 n 
+0000009440 00000 n 
+0000014167 00000 n 
+0000014293 00000 n 
+0000018793 00000 n 
+0000018921 00000 n 
+0000022111 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+22239
+%%EOF
