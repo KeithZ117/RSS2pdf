@@ -1,0 +1,358 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4352 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-27 18:58:28) Tj
+T*
+() Tj
+T*
+(1. Qwen3.8-Flash-Next) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-26T23:52:58+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/26/qwen38-flash-next/) Tj
+T*
+(Qwen3.8-Flash-Next Another open weights model from Qwen. This one is "a multimodal MoE model) Tj
+T*
+(that also serves as an early preview of the architecture used in Qwen4". It's pretty big: 125B) Tj
+T*
+(tokens, but only 6B active which means it gets a significant performance boost. I've been) Tj
+T*
+(trying it out on a DGX Spark using these Unsloth quantized models . I'm still exploring the) Tj
+T*
+(model - so far I've tried the 72.5GB UD-IQ1_S one \(producing these pelicans \) and the 78.9GB) Tj
+T*
+(UD-Q2_K_XL \(producing these \). My favorite so far was this xhigh reasoning effort one from) Tj
+T*
+(UD-Q2_K_XL: Via Hacker News Tags: ai , generative-ai , llms , qwen , pelican-riding-a-bicycle ,) Tj
+T*
+(ai-in-china , nvidia-spark) Tj
+T*
+() Tj
+T*
+(2. Quoting Paul Dix) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-26T08:07:55+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/26/paul-dix/) Tj
+T*
+(The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months) Tj
+T*
+(to produce a reliable piece of software that is currently running on millions of developer) Tj
+T*
+(machines is absolutely mind blowing. And you can say, ?well it?s not that impressive because) Tj
+T*
+(they had an oracle to compare against, so it was simple to go from one language to another?,) Tj
+T*
+(but I think that?s selling this entire thing short. If you can build a verification system and) Tj
+T*
+(give proper direction, AI can produce a highly complex, highly sophisticated piece of software) Tj
+T*
+(and it can continue to refine it until it just works. ? Paul Dix , The end of programming Tags:) Tj
+T*
+(coding-agents , ai-assisted-programming , generative-ai , bun , ai , llms) Tj
+T*
+() Tj
+T*
+(3. POSIWID: The Purpose of a System Is What It Does) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-26T20:18:04Z) Tj
+T*
+(Link: https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does) Tj
+T*
+(Wikipedia: The purpose of a system is what it does \(POSIWID\) is a heuristic in systems thinking) Tj
+T*
+(coined by the British management consultant Stafford Beer , who stated that there is ?no point) Tj
+T*
+(in claiming that the purpose of a system is to do what it constantly fails to do?. It is used) Tj
+T*
+(in systems theory, and is generally invoked to counter the notion that the purpose of a system) Tj
+T*
+(can or should be read from the intentions of those who design, operate, or promote it. When a) Tj
+T*
+(system?s side effects or unintended consequences reveal that its behaviour is poorly) Tj
+T*
+(understood, then the POSIWID perspective can balance political understandings of system) Tj
+T*
+(behaviour with a more straightforwardly descriptive view. I don?t recall seeing POSIWID before,) Tj
+T*
+(but I love the concept. A friend sent this to me, with the quip that I forgot to include a link) Tj
+T*
+(to it in my ? What Is the Point of the DMA? ? piece this week. Indeed, it encapsulates my) Tj
+T*
+(arguments about the DMA specifically and the European Commission generally. The purpose the DMA) Tj
+T*
+(is what it does, not what you imagine it is intended to do. In the same vein, I have been) Tj
+T*
+(thinking too about the famous anecdote reported by Adam Lashinsky for Fortune back i...) Tj
+T*
+() Tj
+T*
+(4. Apple?s Polishing Cloth Is Now Just $9) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-26T19:18:40Z) Tj
+T*
+(Link: https://9to5mac.com/2026/08/25/apple-releases-new-polishing-cloth-for-9/) Tj
+T*
+(Chance Miller: Not to be overshadowed by the new Mac mini and Mac Studio , Apple today has also) Tj
+T*
+(released an updated version of its Polishing Cloth. In an age of everything getting more) Tj
+T*
+(expensive, the new Polishing Cloth is cheaper than before at $9 \(down from $19\). [...] Apple) Tj
+T*
+(released the Polishing Cloth in October 2021 and sold out almost instantly. While it has become) Tj
+T*
+(a meme, it is genuinely a good polishing cloth for your Apple gear. Moore?s Law comes for) Tj
+T*
+(everything eventually. ?) Tj
+T*
+() Tj
+T*
+(5. ?Surprise and Shine? Apple Event: Wednesday 9 September) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 3939 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-08-26T19:16:34Z) Tj
+T*
+(Link: https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/) Tj
+T*
+(Zac Hall, 9to5Mac: Apple has officially announced its next product event, where it will unveil) Tj
+T*
+(the iPhone 18 Pro lineup and its first foldable iPhone. The event will take place on September) Tj
+T*
+(9 at 10 am, PT. The tagline reads ?Surprise and shine,? and the invitation features a glowing) Tj
+T*
+(Apple logo with a sun shining through. Apple generally prefers Tuesdays, but on years when) Tj
+T*
+(Labor Day falls in the second week of September, they move it to Wednesday. ?) Tj
+T*
+() Tj
+T*
+(6. Why didn?t the Windows Entertainment Pack just run the MS-DOS version inside an) Tj
+T*
+(emulator?) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 25 Aug 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260825-00/?p=112645) Tj
+T*
+(It wouldn't be a Windows Entertainment Pack then, would it? The post Why didn?t the Windows) Tj
+T*
+(Entertainment Pack just run the MS-DOS version inside an emulator? appeared first on The Old) Tj
+T*
+(New Thing .) Tj
+T*
+() Tj
+T*
+(7. What is the quality of software that AI writes?) Tj
+T*
+(Source: John D. Cook | Published: Wed, 26 Aug 2026 18:51:13 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/26/what-is-the-quality-of-software-that-ai-writes/) Tj
+T*
+(AI-powered coding agents increase productivity for many developers. But do these agents produce) Tj
+T*
+(good-quality code? Some say this doesn?t matter, we are heading toward dark software factories) Tj
+T*
+(with source code never inspected, and maybe we should eliminate source code altogether??source) Tj
+T*
+(code is the new assembly code?. Others have a different view. Humans sometimes need to [?] The) Tj
+T*
+(post What is the quality of software that AI writes? first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(8. Junk solutions) Tj
+T*
+(Source: John D. Cook | Published: Wed, 26 Aug 2026 12:16:17 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/26/junk-solutions/) Tj
+T*
+(When you?re interested in studying a family of functions, it can be useful to look at a) Tj
+T*
+(differential equation that the functions solve. This is a theme I?ve written about several) Tj
+T*
+(times, most recently here and here, but also three years ago here. Orthogonal polynomials are) Tj
+T*
+(mathematically elegant as well as very useful in applications [1]. [?] The post Junk solutions) Tj
+T*
+(first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Ultraspherical) Tj
+T*
+(Source: John D. Cook | Published: Wed, 26 Aug 2026 10:51:32 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/26/ultraspherical/) Tj
+T*
+(When I hear the term ultraspherical I think of something extremely spherical. For example, a) Tj
+T*
+(baseball is spherical, but a billiard ball is more spherical. Maybe a highly polished billiard) Tj
+T*
+(ball is ultraspherical. Using this line of thought, the term ultraspherical polynomial is) Tj
+T*
+(inexplicable. This is an example of the arcane terminology I wrote about recently. In [?] The) Tj
+T*
+(post Ultraspherical first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. If your VS Code remotes stopped working, downgrade to v1.124.x) Tj
+T*
+(Source: Xe Iaso's blog | Published: Wed, 26 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/notes/2026/vscode-remotes-not-working-downgrade/) Tj
+T*
+(Quality software reigns again) Tj
+T*
+() Tj
+T*
+(11. How to make VS Code go back to the old UI) Tj
+T*
+(Source: Xe Iaso's blog | Published: Wed, 26 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/notes/2026/vscode-ui-revert/) Tj
+T*
+(What do you wanna bet someone's gonna get promoted for deleting this workaround from the code?) Tj
+T*
+() Tj
+T*
+(12. Gadget Review: Thermal Master P3 Macro Lens ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 26 Aug 2026 11:34:52 +0000) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 2815 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/) Tj
+T*
+(The good folks at Thermal Master have sent me their latest camera to review - and it is a bit) Tj
+T*
+(different to all the others I've tried. Whereas previous cameras are good for bird watching, or) Tj
+T*
+(wildlife spotting, or finding leaks at home - the P3 has a manual macro lens and is) Tj
+T*
+(specifically designed for getting close-up and personal with your electronics. Yup! See just) Tj
+T*
+(how hot your CPU is getting?) Tj
+T*
+() Tj
+T*
+(13. Futurism Is Always Extreme) Tj
+T*
+(Source: Fernando Borretti | Published: Wed, 26 Aug 2026 00:00:00 +1000) Tj
+T*
+(Link: https://borretti.me/article/futurism-is-always-extreme) Tj
+T*
+(Rigorous thinking about the future produces extreme outcomes.) Tj
+T*
+() Tj
+T*
+(14. Can Self-Hosting Be Simple?) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-08-27T03:11:28Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17432610/self-hosting-third-place-strategy) Tj
+T*
+(You can go into the deep end way too easily with a self-hosting project. But is a less-is-more) Tj
+T*
+(approach possible? Here?s what my attempt to build a ?third-place? box taught me.) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: The age of disinvention \(25 Aug 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 26 Aug 2026 03:21:38) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/08/25/gammamax/) Tj
+T*
+(Today's links The age of disinvention:) Tj
+T*
+(?1??2??0??0???1??2??0??0????1??2??0??0???1??2??0??0???1??2??0??0???1??2??0??0??? Hey look at) Tj
+T*
+(this: Delights to delectate. Object permanence: Metacrap; CmdrTaco retires; Chalk memorial for) Tj
+T*
+(Jack Layton; By all means tread on these people. Upcoming appearances: Sydney, Melbourne,) Tj
+T*
+(Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. The age of disinvention \(permalink\) They disinvented the VCR. You might) Tj
+T*
+(think that the reason we don't have VCRs anymore is because VCRs were supplanted by DVDs, PVRs) Tj
+T*
+(and streaming, but that's not the case. They had it in for the VCR from the very start, and) Tj
+T*
+(they never stopped trying to kill it. Eventually, they succeeded. The VCR was one of the) Tj
+T*
+(fastest-adopted technologies in the history of the world, and it was disruptive. The fact that) Tj
+T*
+(you could record shows to watch later, skip the ads, build a library of your favorites, even) Tj
+T*
+(loan your tapes around ? it drove the studios and broadcasters nuts. The VCR hit the market) Tj
+T*
+(under a cloud of litigation, and the lawsuits went al...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004607 00000 n 
+0000004733 00000 n 
+0000008724 00000 n 
+0000008850 00000 n 
+0000011717 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+11843
+%%EOF
