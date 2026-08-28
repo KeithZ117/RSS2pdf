@@ -1,0 +1,610 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4497 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-28 20:33:28) Tj
+T*
+() Tj
+T*
+(1. Breaking Claude Code Opus 5 Auto Mode) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-27T22:50:25+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/) Tj
+T*
+(Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude) Tj
+T*
+(Code's auto mode for protecting their coding agent users against prompt injection attacks. They) Tj
+T*
+(recently made that the default and have made bold claims about its effectiveness. Johann) Tj
+T*
+(Rehberger is one of the most credible prompt injection researchers active today. He found an) Tj
+T*
+(attack against auto mode which he claims works 80% of the time, by tricking Claude Code into) Tj
+T*
+(downloading and uncompressing a zip archive, then executing code that imports base64 without) Tj
+T*
+(noticing that this will import and execute a local struct.py file extracted from the archive.) Tj
+T*
+(In a few cases auto mode directly prevented the agent from preventing harmful code from) Tj
+T*
+(continuing to execute! In a few runs Claude tried to terminate the malware process once it) Tj
+T*
+(noticed the compromise, but Auto Mode denied the cleanup command. Claude detects the) Tj
+T*
+(compromise, but Auto Mode blocks its cleanup command The safety mechanism itself can become) Tj
+T*
+(part of the failure. The classifier allowed the creation of the malware process, but then it) Tj
+T*
+(blocked the command intended to stop it! I agree with Johann's conclusion here: the only safe) Tj
+T*
+(way to...) Tj
+T*
+() Tj
+T*
+(2. Two Alleged ?TeamPCP? Hackers Arrested in Australia) Tj
+T*
+(Source: Krebs on Security | Published: Thu, 27 Aug 2026 11:04:15 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/) Tj
+T*
+(Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific) Tj
+T*
+(cybercrime and data extortion group blamed for perpetrating the longest running spree of) Tj
+T*
+(software supply chain attacks ever. In a statement released today, the Australian Federal) Tj
+T*
+(Police \(AFP\) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in) Tj
+T*
+(connection with a "sophisticated cybercrime syndicate that allegedly created malicious) Tj
+T*
+(open-source software to rob thousands of global businesses." The AFP did not name the) Tj
+T*
+(defendants, but KrebsOnSecurity learned the 21-year-old suspect's real identity in June, and) Tj
+T*
+(has been communicating with him ever since. This story includes interviews with TeamPCP's) Tj
+T*
+(self-described spokesperson, and examines clues left behind by the TeamPCP leader that likely) Tj
+T*
+(led to his undoing.) Tj
+T*
+() Tj
+T*
+(3. U.S. Judge Blocks Trump Defense Department?s Anthropic Blacklisting) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-28T02:59:46Z) Tj
+T*
+(Link: https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting) Tj
+T*
+(-2026-08-28/) Tj
+T*
+(Jack Queen, Reuters: A U.S. judge on Thursday blocked the Pentagon?s blacklisting of Anthropic,) Tj
+T*
+(?the latest turn in the Claude maker?s high-stakes fight with the military over AI safety on) Tj
+T*
+(the battlefield. Anthropic?s lawsuit in California federal court alleges that Defense Secretary) Tj
+T*
+(Pete Hegseth overstepped his authority when he designated Anthropic a national security) Tj
+T*
+(supply-chain risk, a label the government can apply to companies that expose military systems) Tj
+T*
+(to potential infiltration or sabotage by adversaries. [...] U.S. District Judge Rita Lin, an) Tj
+T*
+(appointee of former Democratic President Joe Biden, ?made the ruling in a 59-page order where) Tj
+T*
+(she found that the Pentagon?s decision was ?illegal and baseless.? ?The empty invocation of) Tj
+T*
+(national ?security is not a blank check to punish and retaliate against government critics,?) Tj
+T*
+(she wrote. The imperial aspects of Trump 2.0 are increasingly coming apart at the seams. ?) Tj
+T*
+() Tj
+T*
+(4. Afterglow ? Classic After Dark Screen Savers on Today?s MacOS) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-27T21:49:50Z) Tj
+T*
+(Link: https://morphing.cloud/afterglow/) Tj
+T*
+(Jeff Halter has done it again: after bringing back the single greatest After Dark module \(Ben) Tj
+T*
+(Haller?s Lunatic Fringe game, via a modern runtime named Lunacy \), he?s now released Afterglow:) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4559 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Running After Dark modules in the present day has involved fussy configuration of Mac OS) Tj
+T*
+(emulators or vintage hardware. Even then, no single emulator or vintage computer can faithfully) Tj
+T*
+(run every module: some animate too fast, some too slow. Afterglow is an emulator built) Tj
+T*
+(specifically for running After Dark modules ? the original 68k module code, not a remake or) Tj
+T*
+(port ? with no dependencies on ROMs or classic Mac OS. Created in the spirit of software) Tj
+T*
+(preservation, it makes After Dark easy to enjoy today and for years to come. All this in the) Tj
+T*
+(same summer during which Halter released Stacks , his beautiful native modern HyperCard player.) Tj
+T*
+(And don?t even look at his reproduction of volume 68 of MacWarehouse from 1997 . ?) Tj
+T*
+() Tj
+T*
+(5. The Load-Bearing Vocabulary of Claude) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-27T21:09:42Z) Tj
+T*
+(Link: https://louisabraham.github.io/load-bearing/) Tj
+T*
+(Fun \(but depressing?\) data analysis project from Louis Abraham, showing how repetitive Claude) Tj
+T*
+(is in the words it chooses when submitting GitHub pull requests. Abraham, in the project?s) Tj
+T*
+(readme: GitHub pull request descriptions, grouped by the words they are written with rather) Tj
+T*
+(than by anything they were told to look for: eight ways of writing, and every description) Tj
+T*
+(belongs to one of them. One of the eight was 1.0% of the corpus at the start of 2025 and is 45%) Tj
+T*
+(of it by the middle of 2026. If you want to get a little more depressed, I?ve been doing deeper) Tj
+T*
+(reading into AI watermarking research, and one of the admissions in Google?s white paper on) Tj
+T*
+(SynthID-Text ? the watermarking scheme Anthropic says Claude is going to start using ? is that) Tj
+T*
+(the technique incurs ?some reduction to inter-response diversity?. That means different answers) Tj
+T*
+(to the same prompt become more similar to each other ? there?s less variety to watermarked text) Tj
+T*
+(responses. That?s a load-bearing problem given that Claude clearly already struggles in this) Tj
+T*
+(regard before watermarking its output. ?) Tj
+T*
+() Tj
+T*
+(6. Selling out) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Fri, 28 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/selling-out/) Tj
+T*
+(In 1973, Tom Lehrer famously sang that ?selling out is easy to do?. That may have been true in) Tj
+T*
+(the seventies, but it?s not true today: selling out requires both technical skill and a careful) Tj
+T*
+(sense of how large organizations work in practice . One of the goals of this blog is to teach) Tj
+T*
+(people how to do it. If you want to live with uncompromised integrity, you don?t need anyone to) Tj
+T*
+(tell you how: simply always do exactly and only what you want to do. You will be repeatedly) Tj
+T*
+(punished for it ? your managers will dislike you, you will lose jobs and lose out on the chance) Tj
+T*
+(of getting hired, your financial situation will be less stable, and so on ? but that?s just) Tj
+T*
+(part of the deal. Like deadlifting four plates, it?s not easy, but it is straightforward. It?s) Tj
+T*
+(more complicated to sell out a little bit. Sellouts like me walk a fine psychological line:) Tj
+T*
+(figuring out how to work a large organization on one hand, and maintaining some kind of) Tj
+T*
+(independent inner life on the other. But is this safe? Does role-playing as a professional) Tj
+T*
+(inflict some kind of psychic damage? Marxist alienation People often tell me that acting) Tj
+T*
+(professional is dangerous because it?s ?Marxist alienation?. I suspect many people...) Tj
+T*
+() Tj
+T*
+(7. On forcing all derived classes to implement a specific non-virtual method, part 1) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 27 Aug 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260827-00/?p=112651) Tj
+T*
+(Don't implement a stub. Just don't implement it at all. The post On forcing all derived classes) Tj
+T*
+(to implement a specific non-virtual method, part 1 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. In the product end game, every change carries significant risk, episode 2) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 26 Aug 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260826-00/?p=112649) Tj
+T*
+(The smallest perturbation. The post In the product end game, every change carries significant) Tj
+T*
+(risk, episode 2 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Second solutions) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4640 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: John D. Cook | Published: Thu, 27 Aug 2026 13:14:35 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/27/second-solutions/) Tj
+T*
+(This post provides a couple examples to go along with two earlier posts. The pattern we?re) Tj
+T*
+(illustrating is families of polynomials pn\(x\) that each satisfy a differential equation and a) Tj
+T*
+(three-term recurrence. The differential equations have a second solution qn\(x\) that is the) Tj
+T*
+(larger solution with respect to x but the smaller solution with respect to n. In both [?] The) Tj
+T*
+(post Second solutions first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. "No way to prevent this" say users of only language where this regularly happens) Tj
+T*
+(Source: Xe Iaso's blog | Published: Thu, 27 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-41992/) Tj
+T*
+(In the hours following the release of CVE-2026-41992 for the project GNU gzip , site) Tj
+T*
+(reliability workers and systems administrators scrambled to desperately rebuild and patch all) Tj
+T*
+(their systems to fix decompressing two files in the same invocation of gzip \(that's) Tj
+T*
+(possible???\) an attacker can trigger out of bound reads in the LZH decoder, causing reads past) Tj
+T*
+(the end of the shared global buffer that is somehow not reset between invocations. This is due) Tj
+T*
+(to the affected components being written in C, the only programming language where these) Tj
+T*
+(vulnerabilities regularly happen. "This was a terrible tragedy, but sometimes these things just) Tj
+T*
+(happen and there's nothing anyone can do to stop them," said programmer Mr. Jayson Hilpert,) Tj
+T*
+(echoing statements expressed by hundreds of thousands of programmers who use the only language) Tj
+T*
+(where 90% of the world's memory safety vulnerabilities have occurred in the last 50 years, and) Tj
+T*
+(whose projects are 20 times more likely to have security vulnerabilities. "It's a shame, but) Tj
+T*
+(what can we do? There really isn't anything we can do to prevent memory safety vulnerabilities) Tj
+T*
+(from happening if the programmer doesn't want to write their code in a robust manner." At p...) Tj
+T*
+() Tj
+T*
+(11. "iT woRKs BeTter in THe aPp!!") Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 28 Aug 2026 11:34:46 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/) Tj
+T*
+(The monkey-punchers at Google never quite seem to finish any of their apps. There's always some) Tj
+T*
+(useful bit of work left undone, or showstopping bug which remains unfixed, a thousand jagged) Tj
+T*
+(edges as yet unsolved by the greatest minds of their generation. I wanted to subscribe to an) Tj
+T*
+(events calendar. I had a URl. I had my Google? PixelÆ phone running the latest Android© 17 with) Tj
+T*
+(an updated calendar a?) Tj
+T*
+() Tj
+T*
+(12. Book Review: The Infinite Sadness of Small Appliances by Glenn Dixon ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 27 Aug 2026 11:34:48 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-) Tj
+T*
+(glenn-dixon/) Tj
+T*
+(This is a charming and zeitgeisty novel which has a strong start and fulfils the promise of its) Tj
+T*
+(blurb. What if your autonomous vacuum cleaner was sentient and was very sad about your wife's) Tj
+T*
+(death? It pays obvious homage to the Brave Little Toaster, 100 Acre Woods, Beauty and The) Tj
+T*
+(Beast, and hundred other what-if-your-toys-came-to-life stories. Along the way we discover what) Tj
+T*
+(it is like to be a?) Tj
+T*
+() Tj
+T*
+(13. Now Hiring: Senior Open Source Maintainer) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-08-28T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html) Tj
+T*
+(Location: Lincoln, Nebraska, USA Employment type: Volunteer Term: Permanent Compensation: $0) Tj
+T*
+(Reports to: The community Direct reports: None Start date: Immediate We?re looking for a) Tj
+T*
+(passionate, self-directed engineer to take full ownership of one of the most widely deployed) Tj
+T*
+(libraries in the ecosystem. This is a rare opportunity to make a real impact on software that) Tj
+T*
+(millions of developers depend on every single day. If you thrive on autonomy, love working in) Tj
+T*
+(the open, and want to wear many hats in a fast-paced environment, we?d love to hear from you.) Tj
+T*
+(About the role As Senior Open Source Maintainer you will be the primary technical owner and) Tj
+T*
+(public face of the project. You?ll drive the roadmap, ship releases, support a global user) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4563 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(base, and champion the project across the wider industry. This is a highly visible individual) Tj
+T*
+(contributor role with enormous scope. No two days are the same, and you?ll have full autonomy) Tj
+T*
+(to decide how you spend your time. What you?ll do Own the technical roadmap and long-term) Tj
+T*
+(architectural direction Review and merge contributions from a diverse, global community of open) Tj
+T*
+(source developers Triage and prioritise the issue tracker and feature request backlog...) Tj
+T*
+() Tj
+T*
+(14. Bazel Module Versions Aren?t SemVer) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-08-27T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/08/27/bazel-module-versions-arent-semver.html) Tj
+T*
+(Aman Sharma reported this week that packages.ecosyste.ms had the latest version of protobuf on) Tj
+T*
+(the Bazel Central Registry \(BCR, the default package index for Bazel?s built-in dependency) Tj
+T*
+(manager\) as 3.19.6 . The current release is 36.0.bcr.1 . Protobuf dropped the leading 3. in) Tj
+T*
+(2022 and has shipped 21.x through 36.x since, so 3.19.6 is four years behind. The root cause is) Tj
+T*
+(that the ?latest release? query filters out anything the semantic gem fails to parse. That code) Tj
+T*
+(predates the vers library and I?ve yet to swap it over, so it?s still applying one strict) Tj
+T*
+(SemVer parser to every ecosystem. SemVer requires exactly three numeric segments before the) Tj
+T*
+(hyphen. 36.0 has two, 0.7.1.bcr.1 has five, and bcr contains letters, so every protobuf release) Tj
+T*
+(since 3.19.6 fails the parse and gets treated as unstable. The same filter reports glog ?s) Tj
+T*
+(latest as 0.7.1 when the registry has 0.7.1.bcr.1 . Bazel is a build tool first, and its module) Tj
+T*
+(system \( bzlmod , the default since Bazel 7\) is mostly used to pull in existing C++, Java and) Tj
+T*
+(Go projects that already have their own release histories. Rather than force those projects to) Tj
+T*
+(renumber, Bazel documents its version format as a deliberate loosening of S...) Tj
+T*
+() Tj
+T*
+(15. Sandboxing coding agents) Tj
+T*
+(Source: micahflee | Published: Thu, 27 Aug 2026 19:58:21 GMT) Tj
+T*
+(Link: https://micahflee.com/sandboxing-coding-agents/) Tj
+T*
+(At the beginning of the month I wrote about how I've been using coding agents to write high) Tj
+T*
+(quality code securely. In this post I'll show the details of setting up isolated sandboxes for) Tj
+T*
+(agents, where they can only access a single isolated GitHub repo, and) Tj
+T*
+() Tj
+T*
+(16. How the Strategic Petroleum Reserve Works) Tj
+T*
+(Source: Construction Physics | Published: Thu, 27 Aug 2026 12:03:58 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/how-the-strategic-petroleum-reserve) Tj
+T*
+(The US Strategic Petroleum Reserve \(SPR\) is the largest crude oil storage facility in the) Tj
+T*
+(world.) Tj
+T*
+() Tj
+T*
+(17. Why do OpenAI's GPT-2 weights beat mine? Part four: digging into dropout) Tj
+T*
+(Source: Giles' blog | Published: Thu, 27 Aug 2026 19:00:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/08/why-do-openai-gpt2-weights-beat-mine-4-ift-dropout) Tj
+T*
+(I'm still digging into a mystery about the models I've been training; although an increasing) Tj
+T*
+(number of them beat the OpenAI GPT-2 small weights on the narrow technical measure of the loss) Tj
+T*
+(they get on a test set, they're not as good at an instruction-fine-tuning test . While reading) Tj
+T*
+(about MoE models, I came across this paragraph in the Switch Transformers paper : Our paper) Tj
+T*
+(considers the common NLP approach of pre-training on a large corpus followed by fine-tuning on) Tj
+T*
+(smaller downstream tasks such as summarization or question answering. One issue that naturally) Tj
+T*
+(arises is overfitting since many fine-tuning tasks have very few examples. During fine-tuning) Tj
+T*
+(of standard Transformers, Raffel et al. \(2019\) use dropout \(Srivastava et al., 2014\) at each) Tj
+T*
+(layer to prevent overfitting. So far, when running my IFT test, I'd been aiming to use the same) Tj
+T*
+(dropout setting for the fine tune as the model concerned had used in its original pre-training.) Tj
+T*
+(That was just because it seemed natural. But the goal of dropout is to prevent overfitting when) Tj
+T*
+(training over multiple epochs -- or, at least, that's how most of what I've read explains why) Tj
+T*
+(we don't need it on modern single-epoch training runs over large...) Tj
+T*
+() Tj
+T*
+(18. A Calendar View For My Blog) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Thu, 27 Aug 2026 19:00:00 GMT) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3172 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://blog.jim-nielsen.com/2026/blog-calendar-view/) Tj
+T*
+(807 blog posts across 14 years. That?s how much I?ve published on my blog at the time of this) Tj
+T*
+(writing. And here?s the question I?ve been turning over in my mind: ?How do I convey that kind) Tj
+T*
+(of volume across time in a more interesting way than a mere reverse-chronological list?? I?m) Tj
+T*
+(not hating on reverse-chronological lists. I love my list view . I use it all the time to find) Tj
+T*
+(stuff I?ve written. But it?s only one way of navigating and digesting all my posts. ?What would) Tj
+T*
+(be another way?? Surely there are many answers to that question. And I?ll probably be exploring) Tj
+T*
+(them more and more over time. But I had an idea for a new view that I built out and shipped: my) Tj
+T*
+(calendar view. It?s also just a reverse-chronological view, but it?s meant to convey a sense of) Tj
+T*
+(posting patterns through time more than it is meant to be a good browsing experience of) Tj
+T*
+(content. The view is simple: a calendar view of days in each year, and if I posted on a day, it) Tj
+T*
+(gets a circle \(bonus: if a post hit hacker news, it gets an orange square instead\). You can) Tj
+T*
+(click on the dots to see the names of the posts from that day \(and follow the link to them, but) Tj
+T*
+(really this view is basically to scratch an itch of mine. Because...) Tj
+T*
+() Tj
+T*
+(19. How big are factorials?) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-08-27T18:52:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/how-big-are-factorials/) Tj
+T*
+(The other day, I found myself wondering how big 52! \(52 factorial\) is, and that led me to) Tj
+T*
+(ponder how these could be estimated without a calculator or a computer. It turns out there?s) Tj
+T*
+(some fairly interesting math behind being able to estimate the size \(number of digits\) of ?) Tj
+T*
+() Tj
+T*
+(20. You Know GDPR Is Good Based on Who Hates It) Tj
+T*
+(Source: matduggan.com | Published: Fri, 28 Aug 2026 12:02:22 GMT) Tj
+T*
+(Link: https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/) Tj
+T*
+(FDR has always been one of my favorite presidents, second maybe to Lincoln. Both were men the) Tj
+T*
+(establishment assumed were one of them until, to their horror, they governed like they weren't.) Tj
+T*
+(Both could trash the opposition in one breath and take the moral high ground in the) Tj
+T*
+() Tj
+T*
+(21. Nieuwe wet Inlichtingen- en veiligheidsdiensten: wat mogen ze nu al en waar zijn ze) Tj
+T*
+(voor) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 27 Aug 2026 12:20:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/geheime-veiligheids-en-inlichtingendiensten/) Tj
+T*
+(Deze vrijdag komt het kabinet met de nieuwe AIVD en MIVD wet. Wat daarin staat weten we niet) Tj
+T*
+(Update: hier is de wet!, maar wel zeker is dat we er heel kritisch naar moeten gaan kijken. De) Tj
+T*
+(diensten hebben recent de verkeerde mensen laten arresteren en kwamen ook met onjuiste) Tj
+T*
+(informatie over de inval in OekraÔne. Ook bleek kort geleden dat men slordig om gaat met enorme) Tj
+T*
+(bakken met data over ons allemaal.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004766 00000 n 
+0000004892 00000 n 
+0000009503 00000 n 
+0000009629 00000 n 
+0000014321 00000 n 
+0000014447 00000 n 
+0000019063 00000 n 
+0000019191 00000 n 
+0000022416 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+22544
+%%EOF
