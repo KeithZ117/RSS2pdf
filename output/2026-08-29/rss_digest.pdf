@@ -1,0 +1,178 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4328 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-29 15:42:03) Tj
+T*
+() Tj
+T*
+(1. Just a rumour of a bug is enough to find a security exploit these days) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-28T22:12:02+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/) Tj
+T*
+(Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a) Tj
+T*
+(professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this) Tj
+T*
+(somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of) Tj
+T*
+(attempted exploits within minutes of patches being shared for discussion: This normally takes a) Tj
+T*
+(few days and a release within a week or two is reasonable. Within about ten minutes \(!\) this) Tj
+T*
+(website was fielding probes for percent-encoded traversal sequences, indicating that automated) Tj
+T*
+(watchers are keeping an eye on public repositories. Modern coding agents have become so) Tj
+T*
+(effective at finding flaws that the slightest hint at a new bug can be enough information for) Tj
+T*
+(them to find it, something Anil has been able to demonstrate using his own agents, switching to) Tj
+T*
+(DeepSeek V4 Pro? when Claude Fable refused the task. Anil points out that this rate of) Tj
+T*
+(discovery appears incompatible with existing open source embargo practices for new issues. If) Tj
+T*
+(an issue can become an exploit this fast, we need to figure out new processes for keeping our) Tj
+T*
+(communities safe. rclone maintainer Nick Craig-Wood confirms in the Hacker N...) Tj
+T*
+() Tj
+T*
+(2. Building a mini Homelab that fits in my carry-on) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 28 Aug 2026 10:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/) Tj
+T*
+(I'm traveling to Chicago for VCF Midwest next month. I'll be demoing NTP time history on) Tj
+T*
+(vintage Macs, with my own GPS-derived NTP service hosted on an Xserve G5, synced via NTP or a) Tj
+T*
+(strange AppleTalk timing extension from the 1990s . So I built a little 'portable homelab') Tj
+T*
+(\(pictured above\) that supports 1-10 Gbps networking, can run off a small battery for at least) Tj
+T*
+(an hour, switches between multiple WANs \(so I can get my own 5G Internet connection, in case I) Tj
+T*
+(need it\), and gives me 12 wired Ethernet connections.) Tj
+T*
+() Tj
+T*
+(3. On forcing all derived classes to implement a specific non-virtual method, part 2) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 28 Aug 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260828-00/?p=112654) Tj
+T*
+(Explicitly denying that you implement the method. The post On forcing all derived classes to) Tj
+T*
+(implement a specific non-virtual method, part 2 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(4. Making the unnecessary easier) Tj
+T*
+(Source: John D. Cook | Published: Fri, 28 Aug 2026 14:35:36 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/08/28/making-the-unnecessary-easier/) Tj
+T*
+(I watched a few videos this morning, looking for ideas of what I could use AI to do. In one) Tj
+T*
+(video, someone had an agent monitor tech news sites every 30 minutes to notify him of a variety) Tj
+T*
+(of developments. No doubt that?s less effort than visiting a bunch of sites every half hour,) Tj
+T*
+(but [?] The post Making the unnecessary easier first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(5. Premium: The Hater's Guide To Circular Financing \(Part One\)) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 28 Aug 2026 15:55:36 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-one/) Tj
+T*
+([NVIDIA Company Meeting, the present day, YMCA playing] JENSEN HUANG : We love NVIDIA, don?t we) Tj
+T*
+(folks? We?re the biggest, most-beautiful semiconductor company, we make the biggest, hottest) Tj
+T*
+(GPUs for Clammy Sammy and Wario Amodei ?s huge, beautiful AI labs, but they can?t) Tj
+T*
+() Tj
+T*
+(6. This Week on The Analog Antiquarian) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 28 Aug 2026 16:14:15 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/) Tj
+T*
+(Rehabilitating Richard) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 555 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(7. What GLM-5.3 Flash running on Chinese hardware actually means) Tj
+T*
+(Source: Martin Alderson | Published: Sat, 29 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/?utm_source=rss&utm_mediu) Tj
+T*
+(m=rss&utm_campaign=feed) Tj
+T*
+(Z.AI ran a full model release on domestically manufactured Chinese chips. Impressive, but EUV) Tj
+T*
+(lithography is a hard wall and the gap with Western inference hardware is more likely to widen) Tj
+T*
+(than close.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000004577 00000 n 
+0000004703 00000 n 
+0000005309 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+5435
+%%EOF
