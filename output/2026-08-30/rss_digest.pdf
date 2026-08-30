@@ -1,0 +1,324 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4526 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-30 14:18:33) Tj
+T*
+() Tj
+T*
+(1. You have to beat the models at something) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 30 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/you-have-to-beat-the-models-at-something/) Tj
+T*
+(In 2025, I wrote that software engineers ought to be assessed by ?value over replacement? : not) Tj
+T*
+(how much money they made for their company, but how much they would have made compared to the) Tj
+T*
+(average engineer in their position. I?ve always found it vaguely silly when engineers put) Tj
+T*
+(?built a product that made $X? on their resumes, when they just did the JIRA tickets that came) Tj
+T*
+(across their desk. Today, value over replacement is even more important. A replacement-level) Tj
+T*
+(engineer in the 2010s was fine : maybe not worth promoting, but still worth paying , because) Tj
+T*
+(writing code had a high fixed cost. Now writing code costs a hundred bucks a month . What are) Tj
+T*
+(you doing that GPT-5.6-Sol or Claude Opus 5 wouldn?t do in your position? Why is it worth) Tj
+T*
+(paying an extra two or three orders of magnitude for? This is a scary thought. But you?re not) Tj
+T*
+(doing yourself any favors by pretending that LLMs can?t actually write code and it?s all just a) Tj
+T*
+(scam, or that LLM-written code is inherently so bad as to cause companies using it to collapse) Tj
+T*
+(next year. We are not going to wake up in 2027 to find that the AI craze is over and everyone) Tj
+T*
+(is writing code by hand again. You ought to put some serious thought into w...) Tj
+T*
+() Tj
+T*
+(2. Introducing Hy4 Preview) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-29T23:53:13+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/29/hy4/) Tj
+T*
+(Introducing Hy4 Preview New open weight text input \(no vision\) LLM from Chinese company Tencent) Tj
+T*
+(today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging) Tj
+T*
+(Face . This is a big size increase from their previous Hy3 in July, which was 295B, 21B active,) Tj
+T*
+(256,000 context, 598GB. I recently started using model chat templates to better understand) Tj
+T*
+(their capabilities. Here's Hy4's chat_template.jinja on Hugging Face, which includes this) Tj
+T*
+(section: {% - if not reasoning_effort is defined %} {% - set reasoning_effort = 'high' %} {% -) Tj
+T*
+(elif reasoning_effort not in [ 'high' , 'no_think' ] %} {% - if reasoning_effort is none %} {{-) Tj
+T*
+(raise_exception\('reasoning_effort error : None, should be no_think/high'\) }} {% - else %} {{-) Tj
+T*
+(raise_exception\('reasoning_effort error : ' + reasoning_effort + ', should be no_think/high'\)) Tj
+T*
+(}} {% - endif %} {% - endif %} So it looks like there are just two reasoning effort levels:) Tj
+T*
+("high" \(the default\) and "no_think" \(reason by disabled\). I tried my "Generate an SVG of a) Tj
+T*
+(pelican riding a bicycle" prompt with the default high reasoning via OpenRouter and got this :) Tj
+T*
+(Quoting the reasoning trace: [...] Let's maybe add a helmet? It could imp...) Tj
+T*
+() Tj
+T*
+(3. ? Thoughts and Observations on Apple?s First Immersive MLB Broadcast, a Yankees 1-0 Win) Tj
+T*
+(Over the Red Sox) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-29T17:53:34Z) Tj
+T*
+(Link:) Tj
+T*
+(https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast) Tj
+T*
+(It felt like something new and different. Something at least as different from watching on TV) Tj
+T*
+(as watching on TV is different from merely listening on radio. It?s profound.) Tj
+T*
+() Tj
+T*
+(4. Apple Announces Price Increase for Apple TV and Apple One Subscriptions) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-28T21:52:37Z) Tj
+T*
+(Link: https://9to5mac.com/2026/08/28/apple-announces-price-increase-for-apple-tv-and-apple-one-) Tj
+T*
+(subscriptions/) Tj
+T*
+(Chance Miller, 9to5Mac: Here are the full details on the price increases: Apple TV \(monthly\):) Tj
+T*
+($14.99 \(up from $12.99\) Apple TV \(annual\): $119 \(up from $99\) Apple One Individual: $21.95 \(up) Tj
+T*
+(from $19.95\) Prices for other Apple One plans are unchanged. When Apple increased the price of) Tj
+T*
+(Apple Music last month, it also raised the Apple One Family and Apple One Premier plans, but) Tj
+T*
+(not the Individual plan. The higher prices go into effect today for new subscribers. Apple says) Tj
+T*
+(existing subscribers will be notified of the price increase about a month before they are) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4609 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(charged the new price. Seems poetic that Tim Cook?s last action as CEO is a goose to services) Tj
+T*
+(revenue. ?) Tj
+T*
+() Tj
+T*
+(5. ?I?m the Guy Who Destroys Antique Books After We Scan Them Into Our Company?s) Tj
+T*
+(Insatiable AI Platform?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-28T21:35:22Z) Tj
+T*
+(Link: https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-t) Tj
+T*
+(hem-into-our-companys-insatiable-ai-platform) Tj
+T*
+(Jack Loftus, writing at McSweeney?s: People assume scanning is the exciting part. And, sure, it) Tj
+T*
+(is impressive. They shear off the spine, separate the pages, and run everything through these) Tj
+T*
+(enormous machines so the computer can absorb every sentence ever written and use it to create) Tj
+T*
+(some fairly compelling LinkedIn posts. But then, boy oh boy, the wheeled cart carrying those) Tj
+T*
+(decimated remains comes to me. That is where the human touch enters the process, assuming you) Tj
+T*
+(count industrial shredders and a giant burn pit out back as an extension of the hand, which I) Tj
+T*
+(certainly do. \( Via Michael Sippey .\) ?) Tj
+T*
+() Tj
+T*
+(6. Technical note: transfer files over an ethernet patch cable) Tj
+T*
+(Source: Maurycy's Blog | Published: Sat, 29 Aug 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/misc/etherfiles/) Tj
+T*
+(It's possible to just connect two computers together with Ethernet and do a bit of IP) Tj
+T*
+(configuration: # On sender ... ip address add dev eth0 fd42:dead:beef::1/48 ip link set dev) Tj
+T*
+(eth0 up # On receiver ... ip address add dev eth0 fd42:dead:beef::2/48 ip link set dev eth0 up) Tj
+T*
+(After a few seconds, pings should work: # On receiver ... / # ping fd42:dead:beef::1 64 bytes) Tj
+T*
+(from fd42:dead:beef::1: icmp_seq=1 ttl=64 time=0.649 ms 64 bytes from fd42:dead:beef::1:) Tj
+T*
+(icmp_seq=2 ttl=64 time=0.376 ms 64 bytes from fd42:dead:beef::1: icmp_seq=3 ttl=64 time=0.414) Tj
+T*
+(ms 64 bytes from fd42:dead:beef::1: icmp_seq=4 ttl=64 time=0.340 ms ... and so should this: #) Tj
+T*
+(On receiver ... socat - TCP6-LISTEN: 1234 | dd status = progress > big_file.tar.gz # On sender) Tj
+T*
+(... socat - 'TCP6-CONNECT: [fd42:dead:beef::2] : 1234 ' big_file.tar.gz These commands assume) Tj
+T*
+(you are using Linux, but this trick works everywhere. A nothing-special patch cable and) Tj
+T*
+(ethernet jack should have no problem hitting ~900 Mbits/second, which is 6.7 GB per minute.) Tj
+T*
+(Fancy network cards will allow speeds orders of magnitude faster, but it's already much faster) Tj
+T*
+(than USB flash or cloud storage. Other options ... for transferring a file larger than 10 G...) Tj
+T*
+() Tj
+T*
+(7. A simple "copy this code" button in JavaScript) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 29 Aug 2026 11:34:49 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/) Tj
+T*
+(Next to all the code samples on this blog is a little "copy" button. That makes it easier to) Tj
+T*
+(grab any of the code I've shared. The HTML and JS is delightfully simple: ? The) Tj
+T*
+(navigator.clipboard.writeText needs a user interaction to w?) Tj
+T*
+() Tj
+T*
+(8. This Week in Package Management: 29 August 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-08-29T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/08/29/this-week-in-package-management.html) Tj
+T*
+(Week fifteen of the roundup, built from the package manager OPML feed collection and whatever) Tj
+T*
+(I?ve posted or boosted on Mastodon . pnpm 12 pnpm 12.0 is the stable release of the Rust) Tj
+T*
+(rewrite. The commands, flags, settings and lockfile format from pnpm 11 carry over unchanged; a) Tj
+T*
+(companion what?s different post lists the seven behavioural changes. Git dependencies on) Tj
+T*
+(GitHub, GitLab and Bitbucket now resolve through the host?s canonical HTTPS URL regardless of) Tj
+T*
+(how they were specified, so lockfiles record only the canonical HTTPS URL for those hosts.) Tj
+T*
+(Dependency cycles are broken canonically during peer resolution, so the lockfile is a pure) Tj
+T*
+(function of the dependency graph. Cycle-heavy workspaces resolve peers 2-3x faster with roughly) Tj
+T*
+(25% less memory. Globally installed tools resolve to the version pinned in the current project,) Tj
+T*
+(and pnpm can provision npm, Yarn and Bun as managed tools with a pnx command for one-off runs.) Tj
+T*
+(Unrecognised keys in pnpm-workspace.yaml are now errors. On the 11.x branch, 11.23 reworks the) Tj
+T*
+(registries setting so an Artifactory or GitLab registry can keep its tarball URLs out of) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1258 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(pnpm-lock.yaml , and 11.24 restores pnpm approve-builds --global and groups recursiv...) Tj
+T*
+() Tj
+T*
+(9. The Server Called Paranoia: Defend Autistici/Inventati) Tj
+T*
+(Source: micahflee | Published: Sat, 29 Aug 2026 19:40:15 GMT) Tj
+T*
+(Link: https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/) Tj
+T*
+(For twenty-five years, an Italian hacker collective has built communications infrastructure) Tj
+T*
+(designed to survive censorship, surveillance and police raids. On August 26, the United States) Tj
+T*
+(designated it a terrorist organization. On September 25, the wind-down period ends.) Tj
+T*
+() Tj
+T*
+(10. Reading List 08/29/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 29 Aug 2026 12:03:07 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-082926) Tj
+T*
+(Sinking London homes, US magnesium manufacturing, the World Humanoid Robot games, catastrophic) Tj
+T*
+(flooding in Nepal, and more.) Tj
+T*
+() Tj
+T*
+(11. The Rise and Fall of Agent Civilizations) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Sat, 29 Aug 2026 22:47:53 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/openai-huggingface) Tj
+T*
+(The whole OpenAI/Hugging Face story in plain English) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004781 00000 n 
+0000004907 00000 n 
+0000009568 00000 n 
+0000009694 00000 n 
+0000011004 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+11130
+%%EOF
