@@ -1,0 +1,324 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4253 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-08-31 14:46:01) Tj
+T*
+() Tj
+T*
+(1. Understanding ChatGPT Work) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-08-30T23:59:47+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) Tj
+T*
+(OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since.) Tj
+T*
+(It is an extraordinarily confusing and very powerful product. Here's what I've figured out) Tj
+T*
+(about it so far. ChatGPT Work is actually two products The more interesting version of ChatGPT) Tj
+T*
+(Work is the one that runs in the cloud. This can be accessed via chatgpt.com or through the) Tj
+T*
+(ChatGPT mobile apps. Let's call it Work Cloud . If you install the ChatGPT desktop app - the) Tj
+T*
+(app that used to be called Codex - you gain access to a thing called ChatGPT Work that can) Tj
+T*
+(access files and run programs directly on your computer. Let's call that one Work Local . This) Tj
+T*
+(one feels more like regular Codex re-skinned to be less intimidating to) Tj
+T*
+(non-software-developers. For the rest of this article I'm going to talk exclusively about Work) Tj
+T*
+(Cloud. Work is for paid subscribers only Right now, ChatGPT Work \(in both flavors\) is available) Tj
+T*
+(only to $20/month and up subscribers. Free users and $8/month Go users do not have access. Work) Tj
+T*
+(has features that aren't available in Chat The interface for accessing Work is a tab selector,) Tj
+T*
+(which presents it as an alternative to Chat: The obvious question is when should I use Chat,...) Tj
+T*
+() Tj
+T*
+(2. Before NTP there were Time and Daytime) Tj
+T*
+(Source: Jeff Geerling | Published: Sun, 30 Aug 2026 17:09:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/) Tj
+T*
+(In building an NTP time demo on old Macs for VCF Midwest , I came across RFC 867 and RFC 868 ,) Tj
+T*
+(for the 'Daytime' and 'Time' Protocols, respectively. My first exposure to any form of network) Tj
+T*
+(time was when I upgraded from a used PowerBook 180c to my first 'new' computer, a Power Mac G3,) Tj
+T*
+(in 2000. With the introduction of Mac OS 8.5, Apple added a 'Network Time Server' option in the) Tj
+T*
+(Date & Time Control Panel.) Tj
+T*
+() Tj
+T*
+(3. Finalist 4) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-30T18:35:22Z) Tj
+T*
+(Link: https://www.finalist.works/?utm_source=df-aug-2026) Tj
+T*
+(My thanks to Finalist for sponsoring last week at Daring Fireball. Finalist is a remarkable,) Tj
+T*
+(ambitious, and novel app for iPhone, iPad, and the Mac from indie developer Slaven Radic. It?s) Tj
+T*
+(a planner inspired by paper day planners. I wrote quite a bit about Finalist when it first) Tj
+T*
+(sponsored DF back in December ? you should read that post . I?ve been using Finalist ever) Tj
+T*
+(since. It?s a really good app. I?ll just reiterate from the first post that what really) Tj
+T*
+(resonates for me is the idea of adding tasks to days, not assigning dates to tasks. If you add) Tj
+T*
+(some tasks and then never actually do them, they?re still there, but they?re in the past, not) Tj
+T*
+(harassing you in an ever-growing list of undone stuff today. Finalist 4, which just came out a) Tj
+T*
+(few weeks ago, is the biggest update yet. The headline new feature is notes, in the app or as a) Tj
+T*
+(folder of Markdown files that round-trips with Obsidian . Tasks in those files land on the) Tj
+T*
+(right day, next to your reminders and events, even inside the Mac menu bar app. Finalist?s) Tj
+T*
+(rebuilt Timeline lets you pencil tasks into your day, and Apple Pencil gets special powers to) Tj
+T*
+(sketch the plan in seconds. There?s tons more , brewed over four months with 1,000 bet...) Tj
+T*
+() Tj
+T*
+(4. ?How Americans See E.U. Tech?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-28T21:27:21Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=gGlpBuW6ZFc) Tj
+T*
+(I think at least half a dozen people have sent me a link to this video and now that I?ve) Tj
+T*
+(watched it, I understand why. Perfect. ?) Tj
+T*
+() Tj
+T*
+(5. We Certainly Have Made a Hames Out of This) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-28T19:42:59Z) Tj
+T*
+(Link: https://daringfireball.net/linked/2026/08/28/trump-lake-ontario) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4299 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(I mentioned earlier that for anyone going along with the ruse that Lake Ontario is now named) Tj
+T*
+(Lake America, the HOMES mnemonic no longer holds, the only two valid words in English with the) Tj
+T*
+(new five letters are hames and shame , and that hames is rather too obscure. But it?s not so) Tj
+T*
+(obscure in Ireland, where they use it in an idiom : to make a hames of something is to make a) Tj
+T*
+(mess of it. With that in mind, it?s hard to say which is more apt for this embarrassment, hames) Tj
+T*
+(or shame . \(The other longstanding Great Lakes mnemonic is the phrase ?Super Man Helps Every) Tj
+T*
+(One?, which I don?t love because neither Superman nor everyone ought to be treated as two) Tj
+T*
+(words, but it does have the advantage of sorting the lakes geographically from west to east.\) ?) Tj
+T*
+() Tj
+T*
+(6. New Pebble Weather App + Software Updates) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Sun, 30 Aug 2026 00:00:00 GMT) Tj
+T*
+(Link: https://repebble.com/blog/new-pebble-weather-app-software-updates) Tj
+T*
+(All Pebble Time 2 invites have been sent and we're now in-stock! It?s been a long Time coming,) Tj
+T*
+(but if you have been waiting, now is your?) Tj
+T*
+() Tj
+T*
+(7. Cores in space: The core memory module from a 1980 Spacelab computer) Tj
+T*
+(Source: Ken Shirriff's blog | Published: 2026-08-30T09:42:42.929-07:00) Tj
+T*
+(Link: http://www.righto.com/2026/08/spacelab-core-memory.html) Tj
+T*
+(Spacelab was a reusable laboratory that could be carried in the Space Shuttle's cargo bay,) Tj
+T*
+(providing lab space for astronauts and experiments. 1 Because Spacelab was a European project,) Tj
+T*
+(it used a French-built minicomputer, the Mitra 125 MS, 2 rather than the Shuttle's main) Tj
+T*
+(computers, IBM-built AP-101 systems. For storage, the Spacelab computer contained 128 kilobytes) Tj
+T*
+(of RAM. Rather than silicon memory, the computer used magnetic core memory, with each bit) Tj
+T*
+(stored in a tiny ferrite ring. In this article, I take a close look at this computer's core) Tj
+T*
+(memory system. The core stack from the Spacelab computer. I removed the top board to show the) Tj
+T*
+(core planes. The illustration below shows how Spacelab fit inside the Shuttle's cargo bay. The) Tj
+T*
+(pressurized laboratory is the cylindrical module in the front of the cargo bay, connected to) Tj
+T*
+(the Shuttle by a tunnel. Experiments were mounted on pallets behind the laboratory. The) Tj
+T*
+(laboratory held three identical Mitra computers. 3 One computer managed Spacelab itself, while) Tj
+T*
+(the second computer managed the experiments. The third computer provided a backup in case of) Tj
+T*
+(failures. Spacelab was a pressurized cylinder in the Shuttle's cargo bay, connected to th...) Tj
+T*
+() Tj
+T*
+(8. Recreating a 2010 Experiment) Tj
+T*
+(Source: Matt Godbolt?s blog | Published: 2026-08-30T19:40:00Z) Tj
+T*
+(Link: http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&utm_medium=rss) Tj
+T*
+(Hooking a BBC Master up as a serial terminal to browse the web again) Tj
+T*
+() Tj
+T*
+(9. ActivityBot is the recipient of an NLnet grant!) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 30 Aug 2026 11:34:55 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/) Tj
+T*
+(Back in February, I applied for NLnet's Next Generation Zero grant. They were looking for) Tj
+T*
+(Fediverse projects to help rewild the social media landscape. Or, as they describe it: Reclaim) Tj
+T*
+(the public nature of the internet Small and medium-sized R&D grants between 5.000 and 50.000) Tj
+T*
+(euro, with the possibility to scale up. I run ActivityBot - it is a single-file ActivityPub) Tj
+T*
+(server suitable for?) Tj
+T*
+() Tj
+T*
+(10. On Inevitability) Tj
+T*
+(Source: Fernando Borretti | Published: Mon, 31 Aug 2026 00:00:00 +1000) Tj
+T*
+(Link: https://borretti.me/article/on-inevitability) Tj
+T*
+(Why superintelligent AI is not inevitable.) Tj
+T*
+() Tj
+T*
+(11. My Experience Has Nuance, Yours Is a Data Point) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Mon, 31 Aug 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/) Tj
+T*
+(Eric Bailey has a fun little post about how we need more than a few icons to express the nuance) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1780 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(of our shared human experience. For example, he suggests Netflix provide some feedback buttons) Tj
+T*
+(to indicate the kinds of experiences we all share consuming and rating media: ?Just because I) Tj
+T*
+(expressed interest in this show does not mean I want to be inundated with recommendations for) Tj
+T*
+(its genre? ?Disregard [that I pressed ?thumbs up?] my cat walked over the keyboard? ?I am) Tj
+T*
+(making bad choices and hatewatching this? \(which reminds me of \) What?s great about the) Tj
+T*
+(examples in Eric?s post is how familiar they are. We can read them and laugh because we?ve had) Tj
+T*
+(the same thought ? ?I?m pressing ?thumbs up? here, but what I really mean is?? We know when we) Tj
+T*
+(click that button that it?s a reductive expression of our experience that?ll be erroneously) Tj
+T*
+(interpreted, but we do it anyway. As Bryan Cantrill shared from his experience: There's no way) Tj
+T*
+(to indicate, ?I?m engaging with this, but I hate myself for doing it.? I need another mouse) Tj
+T*
+(button that is like, ?I?m clicking on this, but I?m rage clicking on it and for my own mental) Tj
+T*
+(health could you not drag more of this in front of me please?? We know these fe...) Tj
+T*
+() Tj
+T*
+(12. Forgejo hack #2: Integration with Read The Docs) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Sun, 30 Aug 2026 16:02:08 GMT) Tj
+T*
+(Link: https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs) Tj
+T*
+(In this second Forgejo Hack installment I'll tell you how to connect a git repository that) Tj
+T*
+(lives in your self-hosted Forgejo instance to Read the Docs , so that commits to the repository) Tj
+T*
+(automatically trigger documentation builds, exactly like it works with GitHub.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004508 00000 n 
+0000004634 00000 n 
+0000008985 00000 n 
+0000009111 00000 n 
+0000010943 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+11069
+%%EOF
