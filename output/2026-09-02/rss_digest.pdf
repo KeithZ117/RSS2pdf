@@ -1,0 +1,462 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4623 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-02 13:31:04) Tj
+T*
+() Tj
+T*
+(1. FBI Probes Service Selling 153M+ Drivers Licenses) Tj
+T*
+(Source: Krebs on Security | Published: Tue, 01 Sep 2026 22:40:28 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/) Tj
+T*
+(A new identity theft service launched on the dark web this week is selling digital scans of) Tj
+T*
+(more than 153 million drivers licenses from people in the United States and Canada. Based on) Tj
+T*
+(interviews with individuals whose licenses are available for purchase on this service, it) Tj
+T*
+(appears to be siphoning images collected by a widely-used identity verification company based) Tj
+T*
+(in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal) Tj
+T*
+(Bureau of Investigation \(FBI\) today launched an official inquiry into the source of the images.) Tj
+T*
+() Tj
+T*
+(2. Claude Fable 5.1 made me a really nice animated pelican) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-01T23:57:28+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/1/claude-fable-5-1/) Tj
+T*
+(Today is Claude Fable \(and Mythos\) 5.1 day . Anthropic say that Fable 5.1 "sets a new standard) Tj
+T*
+(for coding, knowledge work, and long-running problem-solving tasks". Their announcement spends) Tj
+T*
+(a notable amount of time on scientific research, boasting of a 52.6% score on the brand new) Tj
+T*
+(Terminal-Bench-Science 0.1 benchmark \(first announced on August 27th \), up from 24.7% for Fable) Tj
+T*
+(5, 29.0% for Opus 5 and 22.4% for GPT-5.6 Sol. Other benchmarks show slightly improved scores,) Tj
+T*
+(but none as impressive as the Science one. But how well can it pelican? Back in July I wrote) Tj
+T*
+(about how I was losing faith in the pelican benchmark - its connection to how good the models) Tj
+T*
+(were at other tasks didn't seem to hold as strongly as it did back in 2025 . The most) Tj
+T*
+(interesting insights I get from it now are comparisons within model families, and particularly) Tj
+T*
+(comparisons for the same prompt at different reasoning effort levels. Fable 5.1 has five) Tj
+T*
+(reasoning levels: low, medium, high, xhigh, max - and no option to turn off reasoning entirely.) Tj
+T*
+(I fixed an issue in llm-anthropic which caused reasoning traces not to be correctly recorded,) Tj
+T*
+(then ran some prompts. Here's the full set of pelicans for all of the reasoning...) Tj
+T*
+() Tj
+T*
+(3. Codex bundles LibreOffice) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-01T19:03:01+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/1/codex-libreoffice/) Tj
+T*
+(I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something) Tj
+T*
+(interesting. The OpenAI Codex desktop app \(since rebranded to just ChatGPT\) has 1.7GB of stuff) Tj
+T*
+(in there in a folder called codex-primary-runtime , including a full Python installation, a) Tj
+T*
+(full Node.js installation, and native binaries for Poppler , git, and the LibreOffice open) Tj
+T*
+(source office suite \(which forked from OpenOffice.org in 2010\): The) Tj
+T*
+(~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/documents) Tj
+T*
+(folder includes skills which tell Codex how to find and use those binaries. Tags: codex ,) Tj
+T*
+(generative-ai , openai , ai , llms , openoffice , open-source) Tj
+T*
+() Tj
+T*
+(4. GeoJSON Map Viewer) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-01T18:05:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/1/geojson/) Tj
+T*
+(Tool: GeoJSON Map Viewer I was helping Natalie gather some maps of local political boundaries) Tj
+T*
+(\(for the Granada Community Services District and the Midcoast Community Council and found a) Tj
+T*
+(need to display some GeoJSON files on a map and export that as a PNG. I asked GPT-5.6-Sol for) Tj
+T*
+(suggestions of tools and it proactively built one. After some iterations using Claude Code for) Tj
+T*
+(web and Fable 5.1 we got to this finished tool. As for the GeoJSON.. it turns out if you ask) Tj
+T*
+(ChatGPT Work to provide boundaries for almost anything it will churn away extracting and) Tj
+T*
+(combining files from different Government data sources and build exactly what you need. I got) Tj
+T*
+(this polygon from: I want a polygon that represents the exact boundary of the El Granada GCSD) Tj
+T*
+(And this one from: Get me a GeoJSON file for the boundary \(or boundaries if that makes sense\)) Tj
+T*
+(for the MCC - Midcoast Community Council - that operates near Half Moon Bay CA Here's a link) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4387 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(that displays both of them at the same time on the new GeoJSON map viewing tool. Tags:) Tj
+T*
+(geospatial , tools , geojson , chatgpt) Tj
+T*
+() Tj
+T*
+(5. Tim Cook?s Departure Memo on His Last Day as CEO) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-01T18:11:57Z) Tj
+T*
+(Link: https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-da) Tj
+T*
+(y-as-ceo/) Tj
+T*
+(Tim Cook: There is something truly special about Apple. I am most proud of what an annual) Tj
+T*
+(report could never capture. This place is proof that culture triumphs over everything. We share) Tj
+T*
+(a belief that what we build matters, and that we have both the opportunity and the) Tj
+T*
+(responsibility to leave the world better than we found it. That purpose is part of what makes) Tj
+T*
+(this place extraordinary. Apple helps nurture it, but I believe it lived within each of you) Tj
+T*
+(long before you arrived here. It is what brought you to this company and what continues to) Tj
+T*
+(drive the work you do every day. Together, we have created something far greater than any one) Tj
+T*
+(of us could have imagined or accomplished alone. And that?s the secret to our success. We bring) Tj
+T*
+(out the best in each other. We lift each other up. We have made it possible to leave our ?dent) Tj
+T*
+(in the universe,? as Steve once described it, because of who we are and what we believe,) Tj
+T*
+(because of what we value and how we see the world. How fortunate we are. How fortunate I am.) Tj
+T*
+(That?s the best paragraph of the memo. I like those last two ?fortunate? lines, and I think) Tj
+T*
+(they?re the most open Cook gets. But on the whole the memo reads to me like the classic Far) Tj
+T*
+(Si...) Tj
+T*
+() Tj
+T*
+(6. Apple Reveals Forensic Evidence From Chang Liu?s MacBook in OpenAI Lawsuit) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-01T17:36:08Z) Tj
+T*
+(Link: https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/) Tj
+T*
+(Chance Miller, 9to5Mac: In today?s filing, Apple says that Liu?s lawyers recently handed over) Tj
+T*
+(his MacBook that he used after leaving Apple. According to Apple, an ?initial forensic) Tj
+T*
+(analysis? of that MacBook revealed four things, quoted from Apple?s filing: Mr. Liu not only) Tj
+T*
+(downloaded a confidential Apple circuit schematic but also used it in his work at OpenAI; Far) Tj
+T*
+(from his unauthorized access to Apple?s third-party cloud storage being unknown to him, Mr. Liu) Tj
+T*
+(and others at OpenAI were well-aware of that access; Mr. Liu, upon learning of Apple?s internal) Tj
+T*
+(investigation of him, sent instructions for destroying evidence to an OpenAI colleague who) Tj
+T*
+(confirmed she would comply; and Mr. Liu used a tool in his work at OpenAI that has the same) Tj
+T*
+(name as an internal Apple engineering application used for Apple development work. 9to5Mac is) Tj
+T*
+(hosting a copy of the original filing from Apple?s lawyers. The first point seems really bad) Tj
+T*
+(for OpenAI. On the fourth point, I?m not sure what Apple is alleging here ? I think they?re) Tj
+T*
+(alleging that Liu took an Apple internal engineering app with him over to OpenAI? This is the) Tj
+T*
+(entirety of that allegation from Apple?s filing: D. New evidence shows previously u...) Tj
+T*
+() Tj
+T*
+(7. [Sponsor] WorkOS: How to Give an Agent a Task Instead of a Token) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-01T07:59:07Z) Tj
+T*
+(Link: https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&utm_medi) Tj
+T*
+(um=newsletter&utm_campaign=q32026) Tj
+T*
+(Give an agent an access token and it spreads: into the context window, into tool call logs,) Tj
+T*
+(into notes it keeps between steps. Each copy works from anywhere, long after the fact. Relay) Tj
+T*
+(keeps the credential at WorkOS. Your agent names the user, WorkOS attaches that token,) Tj
+T*
+(refreshes it, and releases it only to allowlisted hosts. A hijacked agent session is a live) Tj
+T*
+(process you can kill. Learn how it works ? ?) Tj
+T*
+() Tj
+T*
+(8. Microspeak: Funded / unfunded) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 01 Sep 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260901-00/?p=112662) Tj
+T*
+(People are our most valuable asset. The post Microspeak: Funded / unfunded appeared first on) Tj
+T*
+(The Old New Thing .) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4655 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(9. Git Submodules as a Package Manager) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-09-01T09:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html) Tj
+T*
+(I added a worktree to a repository last week to try a branch alongside the main checkout, ran) Tj
+T*
+(git submodule update --init in it because the build needed the vendored dependencies, and when) Tj
+T*
+(I was done went to clean up with git worktree remove , which git refused. Per the man page only) Tj
+T*
+(clean worktrees can be removed, and ?unclean worktrees or ones with submodules? need --force .) Tj
+T*
+(Submodules get their own clause in that sentence, distinct from dirty state. git worktree move) Tj
+T*
+(is stricter again and refuses outright on any worktree containing submodules. I?d spent the) Tj
+T*
+(previous week cataloguing how command-line tools harden their --force flags, and here was git) Tj
+T*
+(requiring one because two of its own features had collided. GitHub?s git 2.5 announcement) Tj
+T*
+(introduced git worktree in July 2015 with a one-line caveat: ?It?s not recommended to use git) Tj
+T*
+(worktree with a repository that contains submodules.? Eleven years later git still requires) Tj
+T*
+(--force to remove a worktree that has submodules and refuses to move one. In between, worktree) Tj
+T*
+(add had to be patched to ignore submodule.recurse because honouring it made the internal reset) Tj
+T*
+(--hard recurse into submodule paths that were still empty in the fresh w...) Tj
+T*
+() Tj
+T*
+(10. Book Review: ActivityPub by Evan Prodromou ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 01 Sep 2026 11:34:18 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/09/book-review-activitypub-by-evan-prodromou/) Tj
+T*
+(As part of my grant from NLnet to improve my Fediverse bot project, I'm spending time making) Tj
+T*
+(sure I understand all the fundamentals of ActivityPub. The problem with Internet standards is) Tj
+T*
+(they're scattered all over the place. Abandoned forums, half-maintained wikis, mailing lists) Tj
+T*
+(with obscure rules, and monolithic blocks of text. Sometimes you just want one book which) Tj
+T*
+(collates all the info and?) Tj
+T*
+() Tj
+T*
+(11. New Post: A Crash Course in Predicate Logic) Tj
+T*
+(Source: Computer Things | Published: Tue, 01 Sep 2026 18:30:01 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/new-post-a-crash-course-in-predicate-logic/) Tj
+T*
+(Logic for Programmers has now been out for a month! To celebrate, I'm releasing the entire) Tj
+T*
+(second chapter, "A Crash Course in Logic", for free on my blog. Read it here!) Tj
+T*
+() Tj
+T*
+(12. Hyperscale Normalization) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 01 Sep 2026 17:39:44 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/hyperscale-normalization/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter. It?s $70 a year , $18 a) Tj
+T*
+(quarter , or $7 a month , and in return you get a weekly newsletter that?s usually anywhere) Tj
+T*
+(from 10,000 to 18,000 words, including vast, detailed analyses of) Tj
+T*
+() Tj
+T*
+(13. Nobody Believes It, Everybody Does It) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Tue, 01 Sep 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/nobody-believes-it-everybody-does-it/) Tj
+T*
+(Speaking of things we know individually, but let slide collectively , here?s Jeremy Keith) Tj
+T*
+(talking about how we all used Flash : Remember when almost every website had a Flash intro?) Tj
+T*
+(Everyone knew they were annoying and uneccessary, but everyone else was doing it. And here?s) Tj
+T*
+(John Gruber writing about his experience with those marketing schemes that trade your personal) Tj
+T*
+(information for a discount: The marketing shitbirds who press for these schemes [?] do so by) Tj
+T*
+(pointing to data that shows that they do convert some number of users. ?It works? they claim,) Tj
+T*
+(pointing to data. What doesn?t show up in their data are interactions like mine. They don?t) Tj
+T*
+(have analytics that measure that I now consider their website an antagonist to avoid at all) Tj
+T*
+(costs. There?s a funny thing about us humans: we place trust in systems that our own individual) Tj
+T*
+(experience tells us are flawed. For example: KPIs: we know metrics get optimized at the expense) Tj
+T*
+(of reality, but leadership treats dashboards as a reflection of truth. Performance reviews: we) Tj
+T*
+(know they?re political and subjective, yet companies leverage them for promotions,) Tj
+T*
+(compensation, even firings. Standardized testing: we know tests don?t measure real abili...) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1985 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(14. Ajeya Cotra ? Inside the OpenAI agent swarm that hacked Hugging Face) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Tue, 01 Sep 2026 15:41:06 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/ajeya-cotra) Tj
+T*
+("This might be the clearest warning shot we ever get.") Tj
+T*
+() Tj
+T*
+(15. Claude comment detection) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 01 Sep 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/ai-comment-classifier) Tj
+T*
+(Here?s a comment I read in the code I was working on. Walk the entire collection to locate) Tj
+T*
+(flagged clusters. Skip it altogether when the cached, dirty-tracked flag count says there are) Tj
+T*
+(none \(the usual case\): nothing needs marking, so the walk is pure waste. When the count is) Tj
+T*
+(stale \(e.g. right after an edit\) or non-zero, we fall through to the real lookup, so stale) Tj
+T*
+(marks never show. Same eventually-consistent signal the ?Flags? badge relies on. One thing in) Tj
+T*
+(this comment caught my mind: the small parenthetical that says ?the usual case?. If that were) Tj
+T*
+(true, it would be important information! However, this comment is generated by the LLM model) Tj
+T*
+(Claude, which has no sense of what counts as the usual case in this domain. But by generating) Tj
+T*
+(that comment, it tricks every future reader \(both human and robot\) into believing in a property) Tj
+T*
+(of the system that does not exist. \(Continue reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(16. Weekly Update 519: Breaches & Data Integrity) Tj
+T*
+(Source: Troy Hunt | Published: Tue, 01 Sep 2026 22:26:38 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-519/) Tj
+T*
+(It does feel like I've bitten off too much and am now chewing like crazy this week. The 3D) Tj
+T*
+(printing talk with Elle in Oslo, the "normal" NDC infosec talk, the cyber-broken talk with) Tj
+T*
+(Scott in Copenhagen and then those ratbag hackers keep dumping more) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004885 00000 n 
+0000005011 00000 n 
+0000009450 00000 n 
+0000009576 00000 n 
+0000014283 00000 n 
+0000014409 00000 n 
+0000016447 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16575
+%%EOF
