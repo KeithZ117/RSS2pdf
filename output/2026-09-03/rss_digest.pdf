@@ -1,0 +1,434 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4652 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-03 13:31:40) Tj
+T*
+() Tj
+T*
+(1. llm-gemini 0.34) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-02T16:39:38+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/2/llm-gemini/) Tj
+T*
+(Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and) Tj
+T*
+(high thinking levels. #146 Fixed async responses failing to record the resolved model version.) Tj
+T*
+(Thanks, Charlie Tonneslan . #137 Google released Gemini 3.8 Flash \(and 3.8 Flash Cyber, but) Tj
+T*
+(that's available to "trusted defenders" only\) today. Here are the pelicans for high, medium,) Tj
+T*
+(and low. This is high: For comparison, here are the same pelicans generated using Gemini 3.7) Tj
+T*
+(Flash . Something I appreciate about Gemini Flash is that it's fast, cheap, and competent at) Tj
+T*
+(things like HTML and JavaScript. I was messing around with it and prompted "make me a cool) Tj
+T*
+(thing in html" and it built this , which is certainly a cool thing in HTML! Took 13 seconds,) Tj
+T*
+(cost 1.8 cents. Your browser does not support HTML5 video. If you click through to the demo) Tj
+T*
+(you'll see one more thing I built with Gemini 3.8 Flash. My markdown-svg-renderer tool lets me) Tj
+T*
+(feed in the URL to a Gist with Markdown in and renders that markdown with fenced code blocks) Tj
+T*
+(for SVG correctly rendered. I used Gemini 3.8 Flash \(with my very basic llm-coding-agent coding) Tj
+T*
+(agent plugin\) to add support for HTML as well, so now any HTML blocks in the...) Tj
+T*
+() Tj
+T*
+(2. Claude's new system prompt really doesn't want to reproduce song lyrics) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-02T14:16:42+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/) Tj
+T*
+(Anthropic publish the system prompts for their Claude consumer applications \( Claude.ai and the) Tj
+T*
+(Claude mobile apps - sadly not for Claude Cowork or Claude Code\). I love that they do this, and) Tj
+T*
+(that they share not just the current prompts but historic changes to their prompts as well.) Tj
+T*
+(They used to keep all of the prompts on a single page, but when I checked today I noticed they) Tj
+T*
+(had re-arranged those prompts into an index page and then a page per model - here's the page) Tj
+T*
+(for Haiku 4.5 for example, which has the original prompt from October 15th 2025 and an updated) Tj
+T*
+(prompt from January 18th 2026. A neat thing about Anthropic's platform.claude.com/docs site is) Tj
+T*
+(that it's designed to be usable by LLMs. You can add .md to any page to get back the content as) Tj
+T*
+(Markdown - here's the system prompt index page and the Markdown prompts for Fable 5.1 . TL;DR:) Tj
+T*
+(this makes it really easy to diff the prompts. Don't reproduce song lyrics Don't draw) Tj
+T*
+(copyrighted characters or logos Tweaks to Claude's answering style The missing end_conversation) Tj
+T*
+(guidelines Recommended substance support sites Reliable cutoff date of June 2026 How I'm) Tj
+T*
+(tracking these prompts Don't reproduce song lyrics Let's start with the mos...) Tj
+T*
+() Tj
+T*
+(3. Quoting Rick Brewster) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-02T05:50:57+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/2/rick-brewster/) Tj
+T*
+(Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will) Tj
+T*
+(never be completed enough for Paint.NET's use. And I can't just "disable" the use of Direct2D.) Tj
+T*
+(So, instead, Paint.NET now has an internal, from-scratch, clean-room reverse-engineered rewrite) Tj
+T*
+(of Direct2D that it uses on WINE \(triggered by using /wine \). It lives in) Tj
+T*
+(PaintDotNet.Windows.Direct2D1.Managed.dll . This was written by our good friend Claude ,) Tj
+T*
+(without whom this would NOT have been possible and would NEVER have happened. [...] Most of) Tj
+T*
+(this code is, as they say, "vibe coded." By that I mean that it has not been thoroughly) Tj
+T*
+(reviewed, it's more "trust me bro" style. I cannot possibly review 180,000 lines of code, it's) Tj
+T*
+(just way way way too much. For reference, the rest of Paint.NET is about 700,000 lines of code) Tj
+T*
+(and I've been working on it for over 20 years. [...] At times, Claude was working with the fury) Tj
+T*
+(of 10 freshly unshackled Einstein genius-level 10x coders. And other times ... well, not so) Tj
+T*
+(much. I had to babysit Claude quite a bit to make sure it did resource management correctly) Tj
+T*
+(\(for awhile it just wasn't doing the COM equivalent of AddRef\(\) for reference counted objects,) Tj
+T*
+(oops\)...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4699 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(4. iOS 27 Introduces New ?iPhone Handoff? Feature) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-02T20:58:28Z) Tj
+T*
+(Link: https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/) Tj
+T*
+(Joe Rossignol, MacRumors: ?iPhone Handoff? can be set up from the Settings app, under the) Tj
+T*
+(Cellular menu. During the setup process, you can choose which iPhone you want to be the main) Tj
+T*
+(device that you use most often and which one you want to be the companion device. Apple says a) Tj
+T*
+(user?s main eSIM will remain on the main iPhone, while the companion iPhone will receive a) Tj
+T*
+(companion eSIM, and this will enable you to switch between the devices back and forth while) Tj
+T*
+(using the same phone number. All cellular settings are managed on the main iPhone, and location) Tj
+T*
+(sharing is based on whichever iPhone is actively using the phone number. This sounds amazing) Tj
+T*
+(for those of us who use multiple iPhones. It?s not a common use case but it?s not that unusual.) Tj
+T*
+(Developers come to mind, as do, ahem , new-phone reviewers. I presume there are a lot of people) Tj
+T*
+(in Cupertino who use multiple iPhones, too. The only downside is that it requires carrier) Tj
+T*
+(support. Hopefully they?ll all adopt it as quickly as they did for, say, cellular Apple) Tj
+T*
+(Watches. ?) Tj
+T*
+() Tj
+T*
+(5. Elizabeth Warren?s Incoherent Outrage Regarding Apple?s Tariff Refund) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-27T20:46:08Z) Tj
+T*
+(Link: https://www.warren.senate.gov/newsroom/press-releases/warren-pushes-giant-corporations-to) Tj
+T*
+(-give-billions-in-tariff-refunds-back-to-consumers/) Tj
+T*
+(Speaking of tariff refunds , here?s an official statement from Senator Elizabeth Warren from a) Tj
+T*
+(few weeks ago: U.S. Senator Elizabeth Warren \(D-Mass.\) wrote to Target, Apple, Amazon, Nike,) Tj
+T*
+(Motorola, Walmart, and Energizer pushing these companies ? each of which have or are expected) Tj
+T*
+(to receive massive rebates from the Trump Administration for tariffs paid last year ? to) Tj
+T*
+(provide refunds to customers. ?I urge you to pass along any refund you may receive to the) Tj
+T*
+(consumers who paid higher prices for your products while the tariffs were in place,? wrote) Tj
+T*
+(Senator Warren. On Twitter/X, she posted : NEW: Apple reportedly got $2.2 BILLION back in) Tj
+T*
+(tariff refunds. Amazon got $600 MILLION. What?s their plan to give YOU your money back? Warren) Tj
+T*
+(published the letters she sent to the CEOs, including Tim Cook : Reports indicate that Apple) Tj
+T*
+(has applied for a refund of the roughly $3.3 billion in tariffs you paid in 2025, and as of) Tj
+T*
+(July 30th, that you have received nearly $2.2 billion in refunds. This amounts to a) Tj
+T*
+(multi-billion dollar windfall, which could still grow if more of your refund petitions are) Tj
+T*
+(granted. You have claimed that you ?plan to reinvest any amount we receive back into U.S.) Tj
+T*
+(innovation a...) Tj
+T*
+() Tj
+T*
+(6. Panic Is Refunding Tariff Fees to Playdate Buyers) Tj
+T*
+(Source: Daring Fireball | Published: 2026-08-27T20:10:13Z) Tj
+T*
+(Link:) Tj
+T*
+(https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers) Tj
+T*
+(Nicole Carpenter and Diego Arg¸ello, reporting for Game Developer: ?There was a specific window) Tj
+T*
+(of time this year where we charged tariffs to customers,? Panic co-founder Cabel Sasser) Tj
+T*
+(explained in an e-mail to Game Developer confirming the news. ?We tried absorbing the cost for) Tj
+T*
+(a while, but that was financially difficult for a small company like ours. We made the tariff a) Tj
+T*
+(very obvious and clearly labeled line item on checkout for any customer affected.? Panic also) Tj
+T*
+(set up a website to explain the 19% tariff surcharge. [...] The refund amount a customer will) Tj
+T*
+(get back depends on how much they purchased. ?It?s just not our money to keep, and it felt) Tj
+T*
+(really good to give it back,? Sasser said. ?That?s an easy way to know you made the right) Tj
+T*
+(decision.? He continued: ?Still, it took a lot of work for us to file all the paperwork to get) Tj
+T*
+(the refund from the government, and it took work to build a little system to process the) Tj
+T*
+(refund, and sometimes it felt like, wait, why are we seemingly doing more work than even) Tj
+T*
+(gigantic companies are on this issue? That felt weird. But I guess it makes sense in a way,) Tj
+T*
+(because our small size means we?re far more directly affected by something like a tariff.?...) Tj
+T*
+() Tj
+T*
+(7. The perils of binding to value types in XAML) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 02 Sep 2026 14:00:00 +0000) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4249 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://devblogs.microsoft.com/oldnewthing/20260902-00/?p=112668) Tj
+T*
+(Loss of identity. The post The perils of binding to value types in XAML appeared first on The) Tj
+T*
+(Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. How to protect yourself from workslop) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Wed, 02 Sep 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/how-to-protect-yourself-from-workslop/) Tj
+T*
+(?Workslop? is when your colleagues or bosses communicate with you by pasting big chunks of) Tj
+T*
+(AI-generated text. The core problem with workslop is that the effort involved is asymmetrical ,) Tj
+T*
+(like a denial-of-service attack : it takes almost no effort to produce text with AI, but it) Tj
+T*
+(still costs effort to read 1 . Here are some ways to protect yourself. If you have enough) Tj
+T*
+(authority or social capital, you can and should simply tell them ?hey, don?t do that? \(for) Tj
+T*
+(instance, if you?re a senior engineer and an intern starts doing this to you\). This is the) Tj
+T*
+(easiest way to handle workslop. But you probably aren?t in a position to have that conversation) Tj
+T*
+(with all of your colleagues, and you certainly can?t have it with everyone in your management) Tj
+T*
+(chain. One step above just telling a colleague to stop is to drive them around like a coding) Tj
+T*
+(agent . I wrote about this in AI makes weak engineers less harmful : if a colleague is simply) Tj
+T*
+(pasting your messages into Claude Code and sending you the outputs, you can treat them like a) Tj
+T*
+(high-latency Slack interface to Claude Code. It won?t be as good as a normal coding agent, but) Tj
+T*
+(it?ll often be better than nothing. Another strategy is to use AI to fight AI . Th...) Tj
+T*
+() Tj
+T*
+(9. Static Allocation, Constant Work) Tj
+T*
+(Source: matklad | Published: 2026-09-02T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/09/02/static-allocation-constant-work.html) Tj
+T*
+(In reply to this email:) Tj
+T*
+() Tj
+T*
+(10. Second Quest) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-09-03T03:24:54Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17438215/mapquest-unexpected-revival) Tj
+T*
+(In a normal culture, a company as gray-haired as MapQuest would not be having a straight-on) Tj
+T*
+(cultural revival in 2026. But our culture is not normal.) Tj
+T*
+() Tj
+T*
+(11. Pluralistic: Unpermissioned research \(02 Sep 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 02 Sep 2026 10:19:10) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/09/02/scrape-scrope-scrap/) Tj
+T*
+(Today's links Unpermissioned research: Fighting Trump means preserving the internet, which) Tj
+T*
+(means scraping. Hey look at this: Delights to delectate. Object permanence: Leaked advanced) Tj
+T*
+(PalmOS device specs; Stalwart workers; "I, Rowboat"; SMS uprising; Facebook v switching costs;) Tj
+T*
+(Capitalism of fools. Upcoming appearances: D?browa GÛrnicza, Warsaw, Brighton, London,) Tj
+T*
+(Budapest, South Bend, Hudson, Victoria, Vancouver. Recent appearances: Where I've been. Latest) Tj
+T*
+(books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep) Tj
+T*
+(writin' 'em. Colophon: All the rest. Unpermissioned research \(permalink\) After half a century) Tj
+T*
+(of neoliberalism, we are all drenched in capitalism's established religion, the worship of) Tj
+T*
+(property rights. We are so marinated in property worship that even capitalism's critics frame) Tj
+T*
+(their critiques in "property talk," to the exclusion of other, more important rights, like) Tj
+T*
+(human rights, labor rights and privacy rights. To do this is to surrender before the battle) Tj
+T*
+(even starts. Critics lose when they allow oligarchs and their apologists to choose a) Tj
+T*
+(battlefield where they have a nearly unbeatable advantage. Take privacy: privacy is a human) Tj
+T*
+(right, not...) Tj
+T*
+() Tj
+T*
+(12. VC isn?t VC anymore ? understanding the rise of Cancer Capital) Tj
+T*
+(Source: Anil Dash | Published: 2026-09-02T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/09/02/cancer-capital/) Tj
+T*
+(We really, really need to talk about venture capital. Because it?s not ?venture capital?) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1247 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(anymore. There?s a huge disconnect between what most people think of VC, where an investor has) Tj
+T*
+(a big fund and cuts checks to help a founder build a company, and the current reality, where a) Tj
+T*
+(handful of billionaire extremists use the cover of ?VC? to advance an outrageous agenda where) Tj
+T*
+(they?re accountable to no one. I?m gonna explain this from a standpoint that almost never gets) Tj
+T*
+(articulated: I?ve personally raised tens of millions of dollars in venture capital funding as) Tj
+T*
+(CEO of startups, and been directly involved as a board member or advisor in raising hundreds of) Tj
+T*
+(millions more. I?ve sat in board rooms, across the table from the people I?m talking about) Tj
+T*
+(here, or been at the industry events that they frequent. So this isn?t sour grapes because) Tj
+T*
+(these VCs wouldn?t cut me a check, or some chip on my shoulder about these investors due to a) Tj
+T*
+(business deal. This is what I know about these bad actors because I?m part of the community of) Tj
+T*
+(creators and inventors who build the things that they used to invest in ? back when they still) Tj
+T*
+(cared about innovation. Many of the trends in society and politics that peo...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004914 00000 n 
+0000005040 00000 n 
+0000009791 00000 n 
+0000009917 00000 n 
+0000014218 00000 n 
+0000014344 00000 n 
+0000015644 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15772
+%%EOF
