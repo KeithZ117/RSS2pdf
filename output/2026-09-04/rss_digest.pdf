@@ -1,0 +1,476 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4265 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-04 13:36:31) Tj
+T*
+() Tj
+T*
+(1. GPT?6 Astra) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-03T20:18:41+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/3/gpt6-astra/) Tj
+T*
+(GPT?6 Astra GPT-6 Astra is "rolling out today to a limited set of organizations and over the) Tj
+T*
+(coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as) Tj
+T*
+(well as through the OpenAI API and AWS" - I've not tried it yet myself, so I don't have a great) Tj
+T*
+(deal to say about it yet. It's going to be API priced at the same rate as Claude Fable 5 and) Tj
+T*
+(5.1: $10/million input and $50/million output. This is clearly OpenAI's Fable competitor, and) Tj
+T*
+(appears to score higher than Fable on most of OpenAI's self-reported benchmarks. Most) Tj
+T*
+(impressively, Astra scores 99.9% on the recent \(released in March\) ARC-AGI 3 benchmark - though) Tj
+T*
+(notably Fable 5 does not yet have a published result, and the ARC-AGI blog notes that the 99.9%) Tj
+T*
+(score was achieved for $19K using OpenAI's custom "Provider Adapter harness", while the default) Tj
+T*
+(ARC-AGI harness scored 62.7% for $26K. The Provider Adapter harness preserves opaque reasoning) Tj
+T*
+(state between requests and uses compaction for longer conversations, allowing the model to) Tj
+T*
+(reuse prior work. Unsurprisingly, given the recent Hugging Face incident , Astra is a beast at) Tj
+T*
+(security tasks. It scores 100% on ExploitBench \(GPT-5.6 Sol got 78.5%\), 4...) Tj
+T*
+() Tj
+T*
+(2. Quoting Tarn Adams) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-01T17:01:11+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/1/tarn-adams/) Tj
+T*
+(They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about) Tj
+T*
+(dwarf AI. It doesn't exist. It's dwarf behavior , and they misbehave sometimes ? Tarn Adams ,) Tj
+T*
+(co-creator of Dwarf Fortress Tags: ai , game-design) Tj
+T*
+() Tj
+T*
+(3. datasette-mcp 0.2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-01T15:30:12+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/1/datasette-mcp/) Tj
+T*
+(Release: datasette-mcp 0.2 "rows" from execute_sql is now an array of objects. Previously it) Tj
+T*
+(was an array of arrays. This should help weaker models avoid losing track of which positional) Tj
+T*
+(array element maps to which column. #1 Now depends on mcp>=2.1.1 . This is the first non-alpha) Tj
+T*
+(release of the plugin. I'm confident it's ready as I've been using it quite a bit myself. Tags:) Tj
+T*
+(datasette , model-context-protocol) Tj
+T*
+() Tj
+T*
+(4. OpenAI Soft-Releases GPT?6 Astra) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-04T01:35:24Z) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/3/gpt6-astra/) Tj
+T*
+(Simon Willison: GPT-6 Astra is ?rolling out today to a limited set of organizations and over) Tj
+T*
+(the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users,) Tj
+T*
+(as well as through the OpenAI API and AWS? ? I?ve not tried it yet myself, so I don?t have a) Tj
+T*
+(great deal to say about it yet. It?s going to be API priced at the same rate as Claude Fable 5) Tj
+T*
+(and 5.1: $10/million input and $50/million output. This is clearly OpenAI?s Fable competitor,) Tj
+T*
+(and appears to score higher than Fable on most of OpenAI?s self-reported benchmarks. ?) Tj
+T*
+() Tj
+T*
+(5. Phil Schiller Steps Down From Running App Store and Product Events) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-03T16:39:09Z) Tj
+T*
+(Link: https://www.bloomberg.com/news/articles/2026-08-31/apple-s-phil-schiller-steps-down-from-) Tj
+T*
+(running-app-store-and-product-events?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY) Tj
+T*
+(2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODE5Mzk5NywiZXhwIjoxNzg4Nzk4Nzk3LCJhcnRpY2xl) Tj
+T*
+(SWQiOiJUS0VDTE1LSkg2VjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.G1) Tj
+T*
+(fAbZQH31AQBLUajPYPUJ7BqRyeIUN7SbxQZFAqMXE) Tj
+T*
+(Mark Gurman: Apple Inc.?s Phil Schiller, one of the most visible and influential executives) Tj
+T*
+(across both the Steve Jobs and Tim Cook eras, has stepped down from his role leading the App) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4434 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Store and product events. The 66-year-old executive, who was Apple?s senior vice president of) Tj
+T*
+(marketing until leaving that job in 2020, made the latest change in recent days, according to) Tj
+T*
+(people with knowledge of the matter. This is true, I?ve confirmed. Seems natural for this to) Tj
+T*
+(coincide with the CEO transition. What a run for Schiller. ?) Tj
+T*
+() Tj
+T*
+(6. MapQuest Refuses to Relabel Lake Ontario, Rewarded With Surge in Popularity) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-03T16:30:09Z) Tj
+T*
+(Link: https://thehill.com/homenews/administration/6063924-mapquest-tops-apple-google-maps-in-do) Tj
+T*
+(wnloads-after-refusing-trumps-lake-america-change/?ref=ihnatko.com) Tj
+T*
+(Finya Swai, reporting for The Hill two days ago: MapQuest has surged in popularity on the app) Tj
+T*
+(charts after the mapping service said it would not rename Lake Ontario to ?Lake America? after) Tj
+T*
+(President Trump signed an executive order changing its name. The company said its mobile app) Tj
+T*
+(received hundreds of thousands of downloads after it announced Thursday that the name Lake) Tj
+T*
+(Ontario would remain on its apps, despite Trump directing the Interior Department to update the) Tj
+T*
+(lake?s name in the Geographic Names Information System \(GNIS\). By Monday morning, MapQuest had) Tj
+T*
+(climbed to No. 1 among navigation apps in Apple?s U.S. app store and No. 4 in non-gaming apps.) Tj
+T*
+(In Canada, which shares the lake with the U.S., the app reached No. 2 overall over the weekend.) Tj
+T*
+(The app?s usage also jumped to roughly 50 times its normal level, according to MapQuest. Here) Tj
+T*
+(we are on Thursday and MapQuest still holds the #1 spot , ahead of ChatGPT, Vinted \(never heard) Tj
+T*
+(of it\), ?TikTok Pro - Events? \(a confusing new app, apart from the main TikTok client\), ESPN) Tj
+T*
+(Fantasy Sports \(the NFL season is about to start\), Claude, and Gemini. When opportunity knocks,) Tj
+T*
+(you need to open the door. The political corner that both Apple a...) Tj
+T*
+() Tj
+T*
+(7. The case of the progress callback that never got called when progress happened) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 03 Sep 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260903-00/?p=112672) Tj
+T*
+(Are you talking to the right guy? The post The case of the progress callback that never got) Tj
+T*
+(called when progress happened appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Hugging Face Easter Egg) Tj
+T*
+(Source: John D. Cook | Published: Thu, 03 Sep 2026 23:34:41 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/09/03/hugging-face-easter-egg/) Tj
+T*
+(NVIDIA has offered by buy Hugging Face for $12,930,300,000. 129303 is the Unicode code point) Tj
+T*
+(for the Hugging Face emoj \(U+1F917\), which you can verify with the following Python code. >>>) Tj
+T*
+(import unicodedata >>> 129303 == 0x1F917 True >>> unicodedata.name\(chr\(0x1F917\)\) 'HUGGING FACE') Tj
+T*
+(Related posts Prevent characters from displaying as emoji Unicode, Tolkien, and Privacy Unicode) Tj
+T*
+([?] The post Hugging Face Easter Egg first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. New RSA number factored) Tj
+T*
+(Source: John D. Cook | Published: Thu, 03 Sep 2026 17:21:45 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/09/03/new-rsa-number-factored/) Tj
+T*
+(Eric Lu announced on X today that he has factored RSA-260, a number N with 260 digits \(862) Tj
+T*
+(bits\) that is the product of two large primes [1]. RSA numbers are challenge problems posed to) Tj
+T*
+(gauge the security of RSA encryption, which rests on the difficulty of factoring large numbers) Tj
+T*
+([2]. The naming scheme is [?] The post New RSA number factored first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III) Tj
+T*
+(Source: Construction Physics | Published: Thu, 03 Sep 2026 19:20:13 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c) Tj
+T*
+(This is my third and final essay looking at the 21st Century ROAD to Housing Act, and how it?s) Tj
+T*
+(likely to affect housing supply.) Tj
+T*
+() Tj
+T*
+(11. Putting my JAX-trained models on the Hugging Face Hub) Tj
+T*
+(Source: Giles' blog | Published: Thu, 03 Sep 2026 18:00:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/09/jax-models-on-hugging-face) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4669 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(I hadn't uploaded the models that I trained using JAX to the Hugging Face Hub because) Tj
+T*
+(Transformers has been PyTorch-only since version 5 \(though they say they're working to add) Tj
+T*
+(interoperability with JAX in the future\), so it would have been tough to get them working) Tj
+T*
+(natively with AutoModelForCausalLM and the like. But then it dawned on me that I'd already) Tj
+T*
+(written a conversion script that could take my JAX safetensors files and convert them into ones) Tj
+T*
+(compatible with my PyTorch code. It's actually those converted models that I use for my evals) Tj
+T*
+(-- so I could use my existing PyTorch script to upload them. So, I've now uploaded) Tj
+T*
+(PyTorch-compatible versions of all of my JAX-trained models: " Writing an LLM from scratch,) Tj
+T*
+(part 34b -- from bigrams to GPT-2, one component at a time \(in JAX\) ") Tj
+T*
+(gpjt/jax-no-mha-bias-no-dropout -- the first full LLM trained in the post, in the "Adding) Tj
+T*
+(LayerNorm" section. gpjt/jax-no-mha-bias-with-dropout -- the second full LLM trained in the) Tj
+T*
+(post, in the "Dropout" section. gpjt/jax-with-mha-bias-no-dropout -- the third full LLM trained) Tj
+T*
+(in the post, in the "Adding bias to the MHA output projections" section. " Why do OpenAI's) Tj
+T*
+(GPT-2 weights beat mine? Part three:...) Tj
+T*
+() Tj
+T*
+(12. Can We Stop With the Uptime Percentages?) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Thu, 03 Sep 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/) Tj
+T*
+(I was reading Jason Gorman?s article ?The Wall Confronting Reliable Coding Agent Autonomy? and) Tj
+T*
+(he says: the journey from 90% to 99% reliability is just as hard as it was to get to 90%. And) Tj
+T*
+(from 99% to 99.9% is just as hard again. This stood out, as I?ve been experiencing more and) Tj
+T*
+(more ?downtime? in my day-to-day work. GitHub?s down. CI?s down. AI?s down. Slack?s down.) Tj
+T*
+(Downtime?s going mainstream! More and more I find myself visiting service status pages , where) Tj
+T*
+(I?m confronted with a wall of colors and numbers like this: 100%? 99.72%? 99.09%? 98.98%? Those) Tj
+T*
+(don?t all seem so different or bad? I mean, those are all an A in grade school. Then I have to) Tj
+T*
+(remind myself of Jason?s point and re-interpret the numbers, which is more like reading) Tj
+T*
+(earthquake measurements . The difference between a 6.2 and a 7.8 might not seem that big, but) Tj
+T*
+(it represents a massive difference in magnitude. Uptime percentages have a similar problem:) Tj
+T*
+(99.9% and 99.99% look pretty much the same, but the latter is 10◊ less! Infrastructure people) Tj
+T*
+(understand this. They even have a shorthand for it: two nines, three nines, four nines. They) Tj
+T*
+(intuitively grasp the difference because they swim in these numbers every day. Bu...) Tj
+T*
+() Tj
+T*
+(13. simple is not small) Tj
+T*
+(Source: the website of jyn | Published: 2026-08-27T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/simple-is-not-the-same-as-small/) Tj
+T*
+(small programs hide coupling) Tj
+T*
+() Tj
+T*
+(14. Pluralistic: Preparing for a post-Trump internet \(03 Sep 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 03 Sep 2026 08:45:19) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/09/03/broken-arrows/) Tj
+T*
+(Today's links Preparing for a post-Trump internet: You'd better hope it's also a post-American) Tj
+T*
+(internet. Hey look at this: Delights to delectate. Object permanence: Barnum and Bailey v) Tj
+T*
+(journalism; Wired's Wikipedia article is a wiki; Singapore's national wifi; Twitter arguments.) Tj
+T*
+(Upcoming appearances: D?browa GÛrnicza, Warsaw, Brighton, London, Budapest, Edmonton, South) Tj
+T*
+(Bend, Hudson, Calgary, Winnipeg, Vancouver, Victoria, Ottawa. Recent appearances: Where I've) Tj
+T*
+(been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said,) Tj
+T*
+(I'll keep writin' 'em. Colophon: All the rest. Preparing for a post-Trump internet \(permalink\)) Tj
+T*
+(What if post-Trump America is even worse? I know, it's tempting to think of Trump as a cause,) Tj
+T*
+(rather than an effect ? as an aberration who dragged America into fascism. Trump is) Tj
+T*
+(exceptional, but the thing that makes him exceptional isn't his corruption, recklessness or) Tj
+T*
+(cruelty. What makes Trump exceptional is his ability to cajole, intimidate and flatter) Tj
+T*
+(America's most corrupt, reckless and cruel people into a coalition. These people hate each) Tj
+T*
+(other. Nick Fuentes drifts off to sleep every night furiously fantasizing about turning Stephen) Tj
+T*
+(Mi...) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2630 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(15. De nieuwe AIVD/MIVD wet: een eerste overzicht) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 03 Sep 2026 13:20:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/de-wiv-202x/) Tj
+T*
+(In mijn vorige artikel schreef ik hoeveel de AIVD en MIVD nu al mogen. Inmiddels is het nieuwe) Tj
+T*
+(wetsvoorstel gepubliceerd, en wat blijkt, men wil nog veel ruimere bevoegdheden, met veel) Tj
+T*
+(minder toezicht. Ik heb veel vragen gekregen wat nou het ergste is aan de nieuwe wet, maar het) Tj
+T*
+(is in z?n geheel een totale uitholling van de rechtsstaat door diensten die zijn losgezongen) Tj
+T*
+(van de maatschappij en zelden of nooit naar zichzelf kijken als de resultaten tegenvallen.) Tj
+T*
+() Tj
+T*
+(16. You Should be Using Rootless Containers) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Thu, 03 Sep 2026 14:59:54 GMT) Tj
+T*
+(Link: https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers) Tj
+T*
+(The other day a serious vulnerability was disclosed in one of the newer Linux distributions) Tj
+T*
+(\(the one led by the racist, so it isn't getting a mention here\). The issue was interesting) Tj
+T*
+(because it was caused by a non-standard Docker configuration that their installer applied by) Tj
+T*
+(default, without alerting users that this configuration was creating a security risk. The end) Tj
+T*
+(result was that any process running on these systems had the ability to elevate itself to root,) Tj
+T*
+(without password, sudo or any prompts to the user. While this incident did not affect me, it) Tj
+T*
+(served as a reminder that it is difficult to set up Docker in a way that is secure. If you are) Tj
+T*
+(interested in understanding what the issues with Docker are and what can be done to address) Tj
+T*
+(them, then you are in the right place.) Tj
+T*
+() Tj
+T*
+(17. A reasonably practical guide to validating RFC 9421 HTTP Signatures for ActivityPub in) Tj
+T*
+(PHP) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 03 Sep 2026 11:34:12 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http) Tj
+T*
+(-signatures-for-activitypub-in-php/) Tj
+T*
+(If you're reading this, you've probably been hitting your head against a brick wall trying to) Tj
+T*
+(parse and decipher the new HTTP Signatures sent by Mastodon and other Fediverse servers. This) Tj
+T*
+(is a basic and somewhat incomplete guide to accepting these signatures. I'm sure there are) Tj
+T*
+(various gotchas, but it works with the signatures I've seen in the wild. Shut Up And Show Me) Tj
+T*
+(The Code! OK, wow, no?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004527 00000 n 
+0000004653 00000 n 
+0000009139 00000 n 
+0000009265 00000 n 
+0000013986 00000 n 
+0000014112 00000 n 
+0000016795 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16923
+%%EOF
