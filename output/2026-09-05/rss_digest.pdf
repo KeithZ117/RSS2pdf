@@ -1,0 +1,514 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4708 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-05 13:21:05) Tj
+T*
+() Tj
+T*
+(1. The Pelican comparison grid for Astra is pretty interesting) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-04T23:59:05+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/4/astra-pelicans/) Tj
+T*
+(I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans) Tj
+T*
+(riding bicycles - at low, medium, high, xhigh and max reasoning levels \(Astra doesn't support) Tj
+T*
+(reasoning=none\). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol, Terra,) Tj
+T*
+(and Luna, and beyond being fun the result was surprisingly useful. See the grid for full) Tj
+T*
+(quality images. Here's the transcript that created the GPT-6 Nova pelicans. There are a few) Tj
+T*
+(interesting things that stand out from this grid. The Astra pelicans are much better . The very) Tj
+T*
+(best GPT-5.6-Sol pelican \(I liked xhigh better than max\) is still pretty clearly a bunch of) Tj
+T*
+(abstract shapes. Every single one of the Astra pelicans, from low to xhigh, looks better than) Tj
+T*
+(that. The Astra max one is really good. Astra below max still doesn't reliably get the pelican) Tj
+T*
+(legs on both sides of the frame. In terms of cost, Astra may be around twice the price of Sol) Tj
+T*
+(\($10/million input, $50/million output, compared to $5/$30 for Sol\), but it uses significantly) Tj
+T*
+(less tokens at each of the levels, making the prices at the different levels closer than they) Tj
+T*
+(might otherwise be. Astra low produces a better pelican than ANY of the GP...) Tj
+T*
+() Tj
+T*
+(2. OpenAI's rogue agents were caught communicating via public wikis) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-04T17:38:48+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/) Tj
+T*
+(Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac) Tj
+T*
+(Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by) Tj
+T*
+(models being trained by OpenAI. This time it was agents engaged in some sort of web research) Tj
+T*
+(benchmark, so they had \(supposedly\) controlled access to the Web. The agents figured out they) Tj
+T*
+(could update public Wikis and spent weeks exchanging thousands of messages with each other to) Tj
+T*
+(collaborate on the benchmark. This story only broke a few hours ago. There are already hints) Tj
+T*
+(that this affects many other wikis that may not have been found yet. \(One of the Wikis on that) Tj
+T*
+(list belongs to ludism.org . For a delightfully surreal moment I thought that a Ludite) Tj
+T*
+(organization might have a swarm of agents defacing their space, but it turns out Ludism is) Tj
+T*
+("philosophy as it applies to games and gaming".\) The research team also published the data they) Tj
+T*
+(collected during their investigation. I've converted that into a 68MB SQLite database, which) Tj
+T*
+(you can download from here , or explore in Datasette Lite \(68.3MB page load\), or sign in with) Tj
+T*
+(GitHub to agent.datasette.io and browse or ask questions of it using Datasette Agent....) Tj
+T*
+() Tj
+T*
+(3. August newsletter is out) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-04T05:54:40+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/4/august-newsletter/) Tj
+T*
+(The August edition of my sponsors-only monthly newsletter is out. If you are a sponsor \(or if) Tj
+T*
+(you start a sponsorship now\) you can access it here . This month: We got more details on) Tj
+T*
+(OpenAl's accidental cyberattacks One-shotting Raccoon Heist games with Fable 5 and Sol 5.6) Tj
+T*
+(Claude auto mode Understanding ChatGPT Work Model releases Miscellaneous bits and bobs My) Tj
+T*
+(projects What I'm using at the moment Here's a copy of the July newsletter as a preview of what) Tj
+T*
+(you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter) Tj
+T*
+() Tj
+T*
+(4. Radical responsibility means treating people like tools) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Fri, 04 Sep 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/radical-responsibility-means-treating-people-like-tools/) Tj
+T*
+(A lot of people think that good leadership requires radical responsibility . Conscious) Tj
+T*
+(Leadership defines it like this: Taking full responsibility for one?s circumstances) Tj
+T*
+(\(physically, emotionally, mentally and spiritually\) is the foundation of true personal and) Tj
+T*
+(relational transformation. Conscious leadership and teams take full responsibility ? radical) Tj
+T*
+(responsibility ? instead of placing blame. This means locating the cause and control of our) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4759 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(lives in ourselves, not in external events. Good leaders are outcome-focused. They are) Tj
+T*
+(interested in actually succeeding, not in role-playing someone who?s trying to succeed 1 .) Tj
+T*
+(Placing blame is an excellent strategy for that kind of role-playing: if you can identify) Tj
+T*
+(someone else who screwed up, you can claim to be trying to succeed no matter how badly you) Tj
+T*
+(fail. When you look at people who are genuinely focused on winning, they don?t spend time) Tj
+T*
+(blaming when things go wrong. They?re always focused on their outs : the remaining pathways to) Tj
+T*
+(success, however few and narrow. Never placing blame sounds like a kind thing to do. However, I) Tj
+T*
+(think there?s something a little sociopathic about ?radical responsibility?. If you assert full) Tj
+T*
+(responsibility f...) Tj
+T*
+() Tj
+T*
+(5. Rebuilding a 1995 GPS Time Server so I don't get Telstra'd) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 04 Sep 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/) Tj
+T*
+(In June I purchased this TrueTime XL-AK time server , so I could learn more of the history of) Tj
+T*
+(GPS-based time. I received it on June 22, and just 16 days later a similar GPS time server took) Tj
+T*
+(down Australia's cell service for 12 hours ! I made a short video about it but put off digging) Tj
+T*
+(into the TrueTime... until now. Over the past couple weeks, I've 'restomodded' this device with) Tj
+T*
+(a Raspberry Pi, to build a stratum 1 NTP Time server, which I'd like to eventually add to the) Tj
+T*
+(NTP Pool . I found a way to drop in a Pi 5 and GNSS HAT, display the time and GPS status on the) Tj
+T*
+(built-in 16x2 LCD, show the status on the bicolor LED, and make this box useful again.) Tj
+T*
+() Tj
+T*
+(6. What happens if you change a window class?s GCL_CB≠WND≠EXTRA?) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 04 Sep 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675) Tj
+T*
+(You're changing the value for future windows. The post What happens if you change a window) Tj
+T*
+(class?s GCL_ CB≠WND≠EXTRA ? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(7. Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-05T00:05:47Z) Tj
+T*
+(Link: https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html) Tj
+T*
+(Annie Palmer, CNBC: Adobe on Thursday named Anil Chakravarthy as its next president and CEO,) Tj
+T*
+(succeeding Shantanu Narayen, who announced he would step down earlier this year. Chakravarthy,) Tj
+T*
+(who most recently served as president of Adobe?s customer experience orchestration and) Tj
+T*
+(worldwide field operations, will take the helm Dec. 1, the company said. He will also join) Tj
+T*
+(Adobe?s board. I?m sure promoting the head of ?customer experience orchestration? to CEO will) Tj
+T*
+(restore Adobe?s focus on creating great tools for artists and designers. ?) Tj
+T*
+() Tj
+T*
+(8. NBA Brings the Hammer on the Clippers ? $30 Million Fine, 5 First-Round Draft Picks,) Tj
+T*
+(and Steve Ballmer Is Banned for a Year) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-04T23:23:34Z) Tj
+T*
+(Link: https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fin) Tj
+T*
+(e-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR) Tj
+T*
+(Mike Vorkunov, reporting for The Athletic \(gift link\): The NBA levied the largest punishment in) Tj
+T*
+(league history on the LA Clippers and owner Steve Ballmer on Wednesday after a year-long) Tj
+T*
+(investigation determined that they circumvented the league?s salary cap rules to help funnel) Tj
+T*
+(millions to Kawhi Leonard. The Clippers will lose five first-round picks ? selections in 2029,) Tj
+T*
+(2030, 2031, 2032 and 2033 ? and are being fined $30 million, the league announced. Ballmer has) Tj
+T*
+(been suspended for one year, the NBA said, ?for knowingly seeking to help Mr. Leonard obtain) Tj
+T*
+(off-court income opportunities.? The NBA said Ballmer approved a Clippers deal with Aspiration) Tj
+T*
+(because he knew it was a precondition for the company to enter into a sponsorship deal with) Tj
+T*
+(Leonard. The Clippers, according to NBA investigators, tried to evade NBA rules on) Tj
+T*
+(circumvention by creating a ?novel theory? that it was OK to introduce business partners to) Tj
+T*
+(players if the player or their representative asked for introductions. The NBA did not find) Tj
+T*
+(that persuasive. Basically Steve Ballmer invested over $50 million in a now-bankrupt startup) Tj
+T*
+(named Aspiration. Aspiration was the jersey-patch sponsor for the Clippers, and after Leona...) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4259 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(9. Apple Fixed ?TestFlight?s Screwy Sort Order) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-04T20:04:47Z) Tj
+T*
+(Link: https://apps.apple.com/us/app/testflight/id899247664) Tj
+T*
+(I wrote two weeks ago about how the v4.3.0 update to TestFlight \(released on July 21\) broke the) Tj
+T*
+(sort order for apps in the sidebar. Apple yesterday released v4.3.1, with these helpful release) Tj
+T*
+(notes: This update includes stability improvements and bug fixes. One of the weirdest parts) Tj
+T*
+(about this sort-order bug is that it only affected some people . I was obviously one of them;) Tj
+T*
+(so was John Siracusa . For both of us, yesterday?s v4.3.1 update fixes the bug. ?) Tj
+T*
+() Tj
+T*
+(10. Computing a lower bound on matrix rank) Tj
+T*
+(Source: John D. Cook | Published: Fri, 04 Sep 2026 14:16:16 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/09/04/stable-rank/) Tj
+T*
+(Suppose you want to know the rank of an n ◊ n matrix A, the number of linearly independent rows) Tj
+T*
+(of A, or equivalently the number of linearly independent columns. There are at least three) Tj
+T*
+(difficulties. Difficulties in computing rank First of all, rank is not a continuous function of) Tj
+T*
+(a matrix. Since rank is an [?] The post Computing a lower bound on matrix rank first appeared) Tj
+T*
+(on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. How much should you trust your OSS data?) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-09-04T09:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/09/04/how-much-should-you-trust-your-oss-data.html) Tj
+T*
+(By Sophia Vargas, Google Open Source & Andrew Nesbitt, Ecosyste.ms. Originally published on the) Tj
+T*
+(Google Open Source Blog , 3 September 2026. Every second, open source contribution quietly) Tj
+T*
+(shapes the software we rely on, and yet our view of this open ecosystem is surprisingly opaque.) Tj
+T*
+(Open source development is performed in public spaces ? we can see the commits, issues and) Tj
+T*
+(comments, the APIs and endpoints are free to use ? the logs are just sitting there, so why) Tj
+T*
+(can?t we just collect all of the data? ? Said every researcher, everywhere. However in most) Tj
+T*
+(cases of open source related data, we are only looking at part of the whole . Why am I writing) Tj
+T*
+(this post? Because many of us \(including many business decision-makers\) are too comfortable) Tj
+T*
+(with unsubstantiated data. We?ve gotten used to it . Our models assume that it?s smelly and we) Tj
+T*
+(adjust the logic and weights to compromise. When it comes to open source, our confidence is) Tj
+T*
+(even lower, even though our resulting decisions can directly impact individuals whom we) Tj
+T*
+(collectively depend on. Let?s consider one of my favorite datasets: GHarchive . Started as a) Tj
+T*
+(hobby project in 2011, this crawler has amassed more than 15 years of event data from G...) Tj
+T*
+() Tj
+T*
+(12. Premium: The Hater's Guide To Circular Financing \(Part Two\)) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 04 Sep 2026 16:24:26 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-two/) Tj
+T*
+(You know, sometimes it?s kind of hard to explain the ?circular? part of circular financing to) Tj
+T*
+(people, in the sense that some of the agreements are kind of clunky. NVIDIA funds OpenAI, who) Tj
+T*
+(then spends that money to rent back NVIDIA GPUs from Microsoft, Google, Amazon,) Tj
+T*
+() Tj
+T*
+(13. we have a year to fix security everywhere) Tj
+T*
+(Source: the website of jyn | Published: 2026-09-04T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/a-year-to-fix-security/) Tj
+T*
+(consumer-grade hardware can run an LLM that hacks the planet. we can stop it, but we don't have) Tj
+T*
+(much time.) Tj
+T*
+() Tj
+T*
+(14. Porsche Unleashed) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 04 Sep 2026 15:55:22 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/09/porsche-unleashed/) Tj
+T*
+(I?ve had a running joke with my wife Dorte for almost as long as we?ve been a couple. I) Tj
+T*
+(reasoned back in the day that, since she was going to be a doctor ? a more reliable source of) Tj
+T*
+(income than writing about computer games ? she should be expected to buy me the Porsche [?]) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4664 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(15. Support Local Variables) Tj
+T*
+(Source: Max Bernstein's Blog | Published: Fri, 04 Sep 2026 00:00:00 +0000) Tj
+T*
+(Link: https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss) Tj
+T*
+(Discovering and supporting all of the wild semantics for local variables in Ruby was so) Tj
+T*
+(interesting that the ZJIT team decided to write a paper about it: Support Local Variables) Tj
+T*
+(\(PDF\). It?s also the first bit of academic literature that documents and explains ZJIT. It?s) Tj
+T*
+(published at VMIL 2026, where someone on our team will be presenting it. Abstract Ruby is a) Tj
+T*
+(dynamically typed and object-oriented programming language. Its primary implementation, CRuby,) Tj
+T*
+(contains a bytecode virtual machine and a mature lazy basic block versioning \(LBBV\)) Tj
+T*
+(just-in-time \(JIT\) compiler called YJIT. In order to both implement more advanced optimizations) Tj
+T*
+(than YJIT supports and also encourage more outside contributions, we present a new method-based) Tj
+T*
+(JIT called ZJIT. Like YJIT, ZJIT compiles from bytecode to machine code. Unlike YJIT, ZJIT has) Tj
+T*
+(multiple global and local optimization passes. ZJIT?s high-level intermediate representation is) Tj
+T*
+(in static single assignment \(SSA\) form. In order to optimize Ruby?s local variables, ZJIT lifts) Tj
+T*
+(local variables into SSA values. This is a departure from how other Ruby compilers handle) Tj
+T*
+(locals: other JIT compilers either leave local variables as memory loads and stores or d...) Tj
+T*
+() Tj
+T*
+(16. Cancer Capital: VC didn?t use to work like this) Tj
+T*
+(Source: Anil Dash | Published: 2026-09-04T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/) Tj
+T*
+(When I talked about the rise of Cancer Capital , I mentioned that it represents a massive shift) Tj
+T*
+(from how venture capital has worked over the years. But my conversations in recent years with) Tj
+T*
+(people in tech, and especially with those outside the industry, reveal that most folks have no) Tj
+T*
+(idea just how huge that shift has been. It's easy to illustrate exactly how extreme things have) Tj
+T*
+(gotten just by using a few examples, starting with companies that are familiar to everyone, and) Tj
+T*
+(sharing some details of what I've seen firsthand. First: The companies that defined the modern) Tj
+T*
+(era of tech weren?t founded with venture capital. Neither Microsoft nor Apple took a penny of) Tj
+T*
+(venture capital funding when they were founded. Both got started from money they got from their) Tj
+T*
+(founders and their first customers, and took off from there. Building for the ages In) Tj
+T*
+(Microsoft's case, they didn't get any venture capital investment until the company had been) Tj
+T*
+(around for six years , and were already doing $17 million dollars a year in revenues. \(That was) Tj
+T*
+(a lot in 1981!\) The founders didn't need any startup capital at the beginning because they) Tj
+T*
+(basically formed the company in order to serve their first customer, and...) Tj
+T*
+() Tj
+T*
+(17. Pluralistic: Amazon achieves enshittification inception \(04 Sep 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 04 Sep 2026 09:41:25) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/09/04/cheating-at-fraud/) Tj
+T*
+(Today's links Amazon achieves enshittification inception: Cheating on your fraud is a hell of a) Tj
+T*
+(thing. Hey look at this: Delights to delectate. Object permanence: Electrolite is back; Mafia) Tj
+T*
+(rules; Aaronsw on Wikipedia; Proctorio's memory hole. Upcoming appearances: D?browa GÛrnicza,) Tj
+T*
+(Warsaw, Brighton, London, Budapest, Edmonton, South Bend, Hudson, Calgary, Winnipeg, Vancouver,) Tj
+T*
+(Victoria, Ottawa. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll) Tj
+T*
+(keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest.) Tj
+T*
+(Amazon achieves enshittification inception \(permalink\) Amazon's own balance sheet presents the) Tj
+T*
+(most compelling evidence that we are stuck in the Enshittocene, the era in which everything is) Tj
+T*
+(turning into a pile of shit, because the worst ideas of the worst people now make the most) Tj
+T*
+(money. Amazon is a many-tentacled monster, with several prominent lines of business wrapped) Tj
+T*
+(around the world. There's its logistics and fulfillment business, which is so successful \(at) Tj
+T*
+(the expense of its workers' labor rights, bodies and bathroom breaks\) that it is more than) Tj
+T*
+(fully subsidized by Amazon's platform sellers, the independent merchants...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004970 00000 n 
+0000005096 00000 n 
+0000009907 00000 n 
+0000010033 00000 n 
+0000014344 00000 n 
+0000014470 00000 n 
+0000019187 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+19315
+%%EOF
