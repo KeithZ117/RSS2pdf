@@ -1,0 +1,422 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4445 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-06 13:37:39) Tj
+T*
+() Tj
+T*
+(1. Introducing GPT-6 Astra for developers) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-05T23:27:48+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/) Tj
+T*
+(Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar) Tj
+T*
+(creature at 1m59s : Across the board, Astra has more attention to detail, better understanding) Tj
+T*
+(of the user's prompt, and can build more sophisticated outputs. In particular, it excels at) Tj
+T*
+(building 3D models. I've seen it make incredible renderings of gardens, shipyards, animals ,) Tj
+T*
+(cityscapes, even Dyson spheres. Astra really does believe in putting a red neckerchief on a) Tj
+T*
+(pelican riding a bicycle. Via Hacker News comment Tags: ai , openai , generative-ai , llms ,) Tj
+T*
+(pelican-riding-a-bicycle , gpt-6-astra) Tj
+T*
+() Tj
+T*
+(2. Using Blender with coding agents on macOS) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-05T15:51:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/) Tj
+T*
+(TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT) Tj
+T*
+(Codex on my Mac recently. Getting it to work with coding agents is really easy: install the) Tj
+T*
+(full Mac application from blender.org and run a prompt like this: Use the already install) Tj
+T*
+(/Applications/Blender to render a scene of a pelican riding a bicycle In this case I followed) Tj
+T*
+(that up with these two prompts: OK add a background and a lot of flair Then: OK make it a whole) Tj
+T*
+(lot better And got this image, generated using Blender's Python API : Tags: ai , generative-ai) Tj
+T*
+(, llms , blender , pelican-riding-a-bicycle , coding-agents , gpt-6-astra) Tj
+T*
+() Tj
+T*
+(3. Python 3.15.0 candidate 2 is here!) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-01T14:59:18+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/1/python-315-rc-2/) Tj
+T*
+(Python 3.15.0 candidate 2 is here! Hugo van Kemenade \(release manager for Python 3.14 and 3.15\)) Tj
+T*
+(announces the final release candidate for Python 3.15, scheduled for release in October:) Tj
+T*
+(Entering the release candidate phase, only reviewed code changes which are clear bug fixes are) Tj
+T*
+(allowed between this release candidate and the final release. [...] We strongly encourage) Tj
+T*
+(maintainers of third-party Python projects to prepare their projects for 3.15 during this) Tj
+T*
+(phase, and publish Python 3.15 wheels on PyPI to be ready for the final release of 3.15.0, and) Tj
+T*
+(to help other projects do their own testing. Any binary wheels built against Python 3.15.0) Tj
+T*
+(release candidates will work with future versions of Python 3.15. Back in 2021 I found a bug in) Tj
+T*
+(Python 3.10 by running my test suites against it... but I hadn't done this during the RC) Tj
+T*
+(period, so that bug had already shipped! Since then I've always paid much closer attention to) Tj
+T*
+(these RCs. The new RC isn't available for GitHub Actions just yet - keep an eye on) Tj
+T*
+(actions/python-versions for that. For the moment though you can add this to a testing matrix:) Tj
+T*
+(strategy : matrix : python-version : ["3.14", "3.15"] steps : - uses : actions/setup-python@v7) Tj
+T*
+(wi...) Tj
+T*
+() Tj
+T*
+(4. Gloria Steinem?s Final Essay) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-05T19:42:43Z) Tj
+T*
+(Link:) Tj
+T*
+(https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350) Tj
+T*
+(Gloria Steinem, in a posthumous essay for The New Yorker: For me, saying that I am a feminist) Tj
+T*
+(has always meant that I believe in the social, economic, and political equality of all males) Tj
+T*
+(and females of all races and groups. I know this sounds too simple to need a word, but equality) Tj
+T*
+(is still the exception, not the rule. Maybe we should call it egalitarianism, or even humanism.) Tj
+T*
+(The problem with humanism is that it is often interpreted as being anti-religion, so I don?t) Tj
+T*
+(think it?s inclusive enough. Regardless of what we call it, it just means treating each of us) Tj
+T*
+(as uniquely human. The experiences of race and gender and class are very real and important,) Tj
+T*
+(but they are also constructed and changeable. Our humanity is consistent and sacred. Still, for) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4223 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(some, it remains a mystery why women need a movement to distinguish our efforts toward) Tj
+T*
+(equality. For me, it seems quite obvious. ?) Tj
+T*
+() Tj
+T*
+(5. ?Bob and Van?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-05T16:08:24Z) Tj
+T*
+(Link: https://marco.org/2026/09/04/bob-and-van) Tj
+T*
+(Marco Arment: And I can?t help but feel that maybe we were better off before we knew everyone?s) Tj
+T*
+(hot takes on everything. The town coffee shop was just a coffee shop. We weren?t publicly) Tj
+T*
+(shamed for going there because one of the owners was an ass. It was just a place to hang out) Tj
+T*
+(with our friends. ?) Tj
+T*
+() Tj
+T*
+(6. Vinted) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-04T19:55:45Z) Tj
+T*
+(Link: https://www.vinted.com/) Tj
+T*
+(Remarking on MapQuest taking the #1 spot in the App Store \(in the wake of their decision to) Tj
+T*
+(ignore President Trump?s fiat renaming of Lake Ontario to ?Lake America?\), I mentioned) Tj
+T*
+(yesterday that I?d never heard of Vinted, the #3 app. \(A day later and MapQuest is still #1, by) Tj
+T*
+(the way.\) Vinted, it turns out, is an eBay-like market for buying and selling used clothing.) Tj
+T*
+(From a Lithuanian startup and the whole thing has been popular in Europe for a while, and) Tj
+T*
+(obviously now is gaining popularity in the U.S. ?) Tj
+T*
+() Tj
+T*
+(7. Latent Powers) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-09-05T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/9/5/latent-powers/) Tj
+T*
+(A few weeks ago I felt like it would be fun to see if I can make one of those cheap Chinese) Tj
+T*
+(CarPlay dongles run something other than the stock firmware. The idea was that rather than just) Tj
+T*
+(forwarding CarPlay, why not do something more interesting with them? They all work quite) Tj
+T*
+(similarly: they act as bridges between your car and the phone. From there they deal with video) Tj
+T*
+(and audio streams and pass some other data through. Most of them also bring up a custom UI for) Tj
+T*
+(pairing and have a web interface that your phone can reach for updates. Long story short: I had) Tj
+T*
+(a conversation with Fable and Sol via Pi about what could be done with such a dongle or whether) Tj
+T*
+(I should use a Raspberry Pi instead if I wanted to do my own thing there. I figured it might be) Tj
+T*
+(quite fun to run my own code while still allowing regular CarPlay to pass through. Through) Tj
+T*
+(working with the LLM I learned about CatPlay , which is a Rust reimplementation of the CarPlay) Tj
+T*
+(protocol that can run on Carlinkit devices. In particular, it can run on the Carlinkit Mini) Tj
+T*
+(Ultra, which I figured would be easy enough to buy. I do have a few CarPlay adapters around,) Tj
+T*
+(but I did not have that particular model, so I bought one on Amazon. Twen...) Tj
+T*
+() Tj
+T*
+(8. Proof of the rank-trace theorem) Tj
+T*
+(Source: John D. Cook | Published: Sat, 05 Sep 2026 17:04:13 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/09/05/proof-of-the-rank-trace-theorem/) Tj
+T*
+(The previous post discussed the motivation for and application of the rank-trace theorem. This) Tj
+T*
+(post will give a proof. Suppose A is a real symmetric matrix. The rank-trace inequality says) Tj
+T*
+(where tr is the trace operator, the sum of the elements along the diagonal of the matrix. Terse) Tj
+T*
+(proof Here?s the proof in a nutshell: diagonalize A [?] The post Proof of the rank-trace) Tj
+T*
+(theorem first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Book Review: The Passing of the Dragon and Other Stories by Ken Liu ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 05 Sep 2026 11:34:47 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/09/book-review-the-passing-of-the-dragon-and-other-stories-) Tj
+T*
+(by-ken-liu/) Tj
+T*
+(This is a gorgeous set of short stories - and a good deal more accessible than some of the) Tj
+T*
+(heavyweight prose Liu has previously been involved with. Some of the stories contain sentences) Tj
+T*
+(which are complex jewels to be savoured. What I particularly like is the way he moves between) Tj
+T*
+(almost-prosaic Earth-bound stories to the the most extraordinary flights of fancy. One story) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4450 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(might be set in a?) Tj
+T*
+() Tj
+T*
+(10. This Week in Package Management: 5 September 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-09-05T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/09/05/this-week-in-package-management.html) Tj
+T*
+(Week sixteen of the roundup, built from the package manager OPML feed collection and whatever) Tj
+T*
+(I?ve posted or boosted on Mastodon . I added Terraform, OpenTofu, Elm and PSResourceGet release) Tj
+T*
+(feeds to the OPML this week. Releases pnpm 12.1 adds the workspace task scheduler to the Rust) Tj
+T*
+(CLI, dispatching each package as soon as its dependencies finish where the previous scheduler) Tj
+T*
+(waited for a whole topological batch, and moves login credentials into structured global) Tj
+T*
+(config. 12.3 makes the global command shims native executables on every platform and extends) Tj
+T*
+(the trust-policy flags to pnpm remove and pnpm update . On the 11.x line, 11.25 backports the) Tj
+T*
+(task scheduler and adds --resume-from for recursive runs. rustup 1.29.1 checks for toolchain) Tj
+T*
+(updates in parallel during rustup update and installs multiple components concurrently in) Tj
+T*
+(rustup component add . Conan 2.32.0 adds LoongArch64 host detection, Xcode 26.6 and gcc 16.2) Tj
+T*
+(support, and lets XcodeToolchain accept arbitrary xcconfig build settings. PDM 2.29.0 exports) Tj
+T*
+(editable local dependencies with relative paths in requirements files, and restricts locked) Tj
+T*
+(packages to the platform they were resolved for when appending targets with pdm loc...) Tj
+T*
+() Tj
+T*
+(11. Reading List - 09/05/2026) Tj
+T*
+(Source: Construction Physics | Published: Sat, 05 Sep 2026 12:03:33 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-09052026) Tj
+T*
+(SpaceX?s turbine blade factory, Fervo?s deal with Google, Delhi?s cheap metro, why recycling is) Tj
+T*
+(overrated, and more.) Tj
+T*
+() Tj
+T*
+(12. Pluralistic: Google skates \(05 Sep 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 05 Sep 2026 08:04:11) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/09/05/divorce-court/) Tj
+T*
+(Today's links Google skates: Another federal judge loses a game of peek-a-boo. Hey look at) Tj
+T*
+(this: Delights to delectate. Object permanence: Memory-hacking ads; "Dzur"; NZ Ministry of DRM;) Tj
+T*
+(Canadians v looking at the internet; Advice for self-publishers; Advice for writers; Why) Tj
+T*
+(Wikipedia works. Upcoming appearances: D?browa GÛrnicza, Warsaw, Brighton, London, Budapest,) Tj
+T*
+(Edmonton, South Bend, Hudson, Calgary, Winnipeg, Vancouver, Victoria, Ottawa. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Google skates) Tj
+T*
+(\(permalink\) Rome wasn't overthrown in a day. Oligarchies are stubborn, and by the time they've) Tj
+T*
+(established and entrenched themselves, they have resources, power blocs and even mercenaries) Tj
+T*
+(they can deploy to repel would-be dethroners. The USA got its first antimonopoly law, the) Tj
+T*
+(Sherman Act, in 1890, but it took 22 years before that law could be used to crush John D) Tj
+T*
+(Rockefeller's corrupt, sprawling empire. Senator John Sherman promoted his law as a way of) Tj
+T*
+(preventing monopolies from emerging, warning the Senate that they would struggle to overthrow) Tj
+T*
+(the "autocrats...) Tj
+T*
+() Tj
+T*
+(13. avalanche technology) Tj
+T*
+(Source: computers are bad | Published: 05 Sep 2026 00:00:00 UT) Tj
+T*
+(Link: https://computer.rip/2026-09-05-avalanche.html) Tj
+T*
+(One of the downsides of having written here for six years now is that my messy, ever-growing) Tj
+T*
+(text file of topics for future articles contains a bunch of ideas that have been there for) Tj
+T*
+(about six years. Part of the problem is that I just have to scroll so far up to even see them) Tj
+T*
+(now, part of it is that some of them are on topics where I do not feel equipped to write a good) Tj
+T*
+(formal treatment. So let's consider this an easy, breezy episode of Computers Are Bad as I) Tj
+T*
+(knock out one of those items. One of these O. G. topics, line three, is "avalanche technology.") Tj
+T*
+(I will admit that I am a little fuzzy on what this originally meant, but I have a few good) Tj
+T*
+(guesses. First, though, let's just take a step back and talk a little bit about the) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 554 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(practicalities of the avalanche. For a lot of you, avalanches are probably a pretty abstract) Tj
+T*
+(issue. For me, as well?I snowboard but I'm not that good at it, and the kind of mid-tier ski) Tj
+T*
+(area where you will find me tumbling down the hill \(Ski Santa Fe, towards Totemoff's\) manages) Tj
+T*
+(their slopes to avoid the potential for avalanche as much as possible. This requires some) Tj
+T*
+(expertise in avalanche risks and it's never quite perfect, but it's pretty good. Snow that) Tj
+T*
+(is...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004707 00000 n 
+0000004833 00000 n 
+0000009108 00000 n 
+0000009234 00000 n 
+0000013736 00000 n 
+0000013862 00000 n 
+0000014468 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14596
+%%EOF
