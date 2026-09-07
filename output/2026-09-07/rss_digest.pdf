@@ -1,0 +1,448 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4578 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-07 13:47:24) Tj
+T*
+() Tj
+T*
+(1. Research acceleration: The view inside OpenAI) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-06T23:57:40+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/) Tj
+T*
+(Research acceleration: The view inside OpenAI Apparently today is RSI day at OpenAI, for) Tj
+T*
+(Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay An) Tj
+T*
+(Alien Mind \(by Chief Scientist Jakub Pachocki\) talk about it, and this one doesn't even bother) Tj
+T*
+(to expand the acronym. Included are details on how OpenAI's own research team are using coding) Tj
+T*
+(agents. Like pretty much everyone else 2026 has been the year that agentic engineering really) Tj
+T*
+(took off at OpenAI, best illustrated by this chart: I'm intrigued at what caused that) Tj
+T*
+(significant acceleration in AI spend per researcher in late July - my best guess is that's when) Tj
+T*
+(internal employees gained access to the model later released as GPT-6 Astra. Tags: ai , openai) Tj
+T*
+(, generative-ai , chatgpt , llms , coding-agents , november-2025-inflection ,) Tj
+T*
+(recursive-self-improvement) Tj
+T*
+() Tj
+T*
+(2. The purpose of DNS is to spread scams) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-06T14:40:07+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/) Tj
+T*
+(The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support) Tj
+T*
+(of his take that "the Domain Name System's purpose seems to be a vector for criminals to run) Tj
+T*
+(scams on people at a terrifyingly high rate". On this Interisle report \( via Andrew Campling \),) Tj
+T*
+(Terence says: It says 85 million new registrations of gTLDs were made in 2025. Of those 8.5) Tj
+T*
+(million were added to blocklists by May 2025. It reckons that a 10% abuse rate is the likely) Tj
+T*
+(floor for these numbers and it's probably closer to 20%. One in five newly registered domains) Tj
+T*
+(with a gTLD are scams. That's a bloody crisis. I had no idea. Apparently ICANN have been) Tj
+T*
+(discussing this problem for years. Tags: dns , scams , terence-eden) Tj
+T*
+() Tj
+T*
+(3. There's No Limit to How Bad Code Can Get) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-06T09:08:06+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/) Tj
+T*
+(My comment on There's No Limit to How Bad Code Can Get ? Lobste.rs. [In reply to a comment) Tj
+T*
+(about burning it down to start from scratch when technical debt becomes overwhelming] In my) Tj
+T*
+(experience it's so rare for that to work. You announce the old thing is irrecoverably drowning) Tj
+T*
+(in tech debt. You spin up a team to rewrite it from scratch. Work begins. Meanwhile the old) Tj
+T*
+(thing remains a moving target: it's running the core business, so changes are still necessary.) Tj
+T*
+(The developers working on it know that it's going to be made obsolete by the new thing soon, so) Tj
+T*
+(they don't have any incentive to go beyond the smallest effort possible to add the new) Tj
+T*
+(features. Technical debt continues to mount. Meanwhile, the team working on the new thing are) Tj
+T*
+(ambitious and probably a little naive. They start out at a great pace - it's greenfield after) Tj
+T*
+(all - but as time progresses it becomes apparent that nobody fully understands the behavior and) Tj
+T*
+(scope of the thing they are replacing. If it was well documented and tested it wouldn't need to) Tj
+T*
+(be replaced, after all... After months \(or even years\) without delivering value, the pressure) Tj
+T*
+(is on to "ship it", so the new system is launched to handle a subset of what...) Tj
+T*
+() Tj
+T*
+(4. Meta AI Has a Native Mac App Now, and It Seems Decent) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-06T20:44:27Z) Tj
+T*
+(Link:) Tj
+T*
+(https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/) Tj
+T*
+(Zac Hall, writing for 9to5Mac on August 19: The new Meta AI desktop app is version 1.0 beta at) Tj
+T*
+(launch and weighs just 16MB once installed. Based on initial inspection, it runs natively on) Tj
+T*
+(Apple silicon Macs with macOS 15 or later, using an AppKit and SwiftUI shell with WebKit for) Tj
+T*
+(richer chat content. In other words, this is not an Electron app or a repackaged iPad release.) Tj
+T*
+(It includes Mac-specific hooks, making the desktop experience more robust than the Meta AI) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4640 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(mobile app. Quick Invoke uses Option-Space to place a compact Meta AI composer over whatever) Tj
+T*
+(you are doing. A separate dictation feature lets you hold a shortcut, speak, and have the) Tj
+T*
+(resulting words typed into any app, from Mail and documents to code editors. Meta AI can also) Tj
+T*
+(attach another Mac window to a conversation. With Screen Recording and Accessibility) Tj
+T*
+(permission, the app reads the window?s visible text and captures a screenshot for the next) Tj
+T*
+(question. This is context gathering rather than computer control for now. Passes the Settings) Tj
+T*
+(window sniff test too ? it actually has a Settings window. Meta, institutionally, seems more) Tj
+T*
+(keen on native Mac apps than they are native Windows apps . ?) Tj
+T*
+() Tj
+T*
+(5. WorkOS: How to Give an Agent a Task Instead of a Token) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-06T19:06:27Z) Tj
+T*
+(Link: https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&utm_medi) Tj
+T*
+(um=newsletter&utm_campaign=q32026) Tj
+T*
+(My thanks to WorkOS for once again sponsoring Daring Fireball. Give an agent an access token) Tj
+T*
+(and it spreads: into the context window, into tool call logs, into notes it keeps between) Tj
+T*
+(steps. Each copy works from anywhere, long after the fact. Relay keeps the credential at) Tj
+T*
+(WorkOS. Your agent names the user, WorkOS attaches that token, refreshes it, and releases it) Tj
+T*
+(only to allowlisted hosts. A hijacked agent session is a live process you can kill. Learn how) Tj
+T*
+(it works at WorkOS?s blog. ?) Tj
+T*
+() Tj
+T*
+(6. Matt Haughey: ?The Car Industry A/B Tested Selling a Car With and Without CarPlay and) Tj
+T*
+(the Results Are Not Shocking?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-06T19:04:12Z) Tj
+T*
+(Link: https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and) Tj
+T*
+(-without-carplay-and-the-results-are-not-shocking/) Tj
+T*
+(Matt Haughey: One case in point is the Honda Prologue EV. It?s a partnership between Honda and) Tj
+T*
+(Chevrolet, where the Prologue is basically a Chevy Blazer EV with Honda badges, slight visual) Tj
+T*
+(differences in the sheetmetal and interior, but all the underpinnings are straight up Chevy.) Tj
+T*
+(Even though the keys say Honda on a Prologue, it?s a General Motors key design with a Honda) Tj
+T*
+(logo over it. But one big difference the Prologue has from the Blazer it is based on is this:) Tj
+T*
+(it includes Apple CarPlay and Android Auto integration. [...] For the years these cars were) Tj
+T*
+(sold together, the Honda outsold the Blazer by 43%, 73%, and 166% in each time period. Today in) Tj
+T*
+(2026, people are buying a Honda Prologue over one and a half times more often than the Chevy) Tj
+T*
+(Blazer EV the Prologue is based on. It?s not a perfect test. It?s reasonable to argue that) Tj
+T*
+(Honda has a better brand and reputation than Chevrolet, and is just plain better at selling) Tj
+T*
+(cars. But the trendline over the last three years is pretty stark. ?) Tj
+T*
+() Tj
+T*
+(7. It took a year to ship WebAssembly in Anubis) Tj
+T*
+(Source: Xe Iaso's blog | Published: Sun, 06 Sep 2026 00:00:00 GMT) Tj
+T*
+(Link: https://anubis.techaro.lol/blog/2026/anubis-wasm/) Tj
+T*
+(After a year of work, hundreds of commits, 5 generations of pull requests, dozens of tests,) Tj
+T*
+(rewriting part of Anubis in Rust, the first compiler bug of my career, and at least three times) Tj
+T*
+(making my tower run out of ram I think I have finally done it. The next version of Anubis will) Tj
+T*
+(ship with WebAssembly-based proof of work checks that admins can enable in their thresholds or) Tj
+T*
+(bot rules: thresholds : - name : moderate - suspicion expression : all : - weight > = 10 -) Tj
+T*
+(weight action : CHALLENGE challenge : algorithm : argon2id difficulty : 6 This makes Anubis) Tj
+T*
+(challenges use a memory-hard proof of work function \( argon2id \) instead of just a CPU hard) Tj
+T*
+(one. It also means that the "hey Claude vibeslop me a CUDA Anubis solver" route is on its way) Tj
+T*
+(to being fundamentally dead. Overall, this project taught me a lot of things about how) Tj
+T*
+(WebAssembly works in practice, what the rough edges are when operating on the bleeding edge) Tj
+T*
+(like I am, and led to the first genuine compiler bug of my career. Today I want to take you) Tj
+T*
+(through the journey and process behind adding these WebAssembly based proof of work checks and) Tj
+T*
+(all the problems that came up along the way. Why use WebAssembly in the first place? T...) Tj
+T*
+() Tj
+T*
+(8. Conflict resolution is ?fun?) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4575 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Xe Iaso's blog | Published: Tue, 01 Sep 2026 00:00:00 GMT) Tj
+T*
+(Link: https://www.tigrisdata.com/blog/conflict-resolution-is-fun/) Tj
+T*
+(One of the hardest problems in distributed systems is conflict resolution, or the same basic) Tj
+T*
+(problem as merge conflicts in Git. Git merge conflicts happen when your branch differs from) Tj
+T*
+(upstream in a way that Git can?t easily work its way around so it exposes both sides of the) Tj
+T*
+(changes to humans and has the human \(or their agent\) figure out which side is ?correct?.) Tj
+T*
+(Distributed systems don?t really have this same flow as the scale of changes is often) Tj
+T*
+(impossible for any human or team of humans to keep up with. As a result, we really want to have) Tj
+T*
+(our own business logic define which side of a conflict wins. FoundationDB doesn?t let us do) Tj
+T*
+(that out of the box, so we had to make our own layer. The neat part about being able to do this) Tj
+T*
+(is that this lets us control the replication behaviour of buckets based on user needs. The) Tj
+T*
+(three main ways it differs are with single-region buckets , multi/dual-region buckets , and) Tj
+T*
+(global buckets . I?m going to cover the replication differences in the order of complexity.) Tj
+T*
+(Single-region buckets One of the easiest conflict resolution methods we have is a single-region) Tj
+T*
+(bucket , which prevents any need for it. In this mode all actions are reverse proxied to the...) Tj
+T*
+() Tj
+T*
+(9. The purpose of DNS is to spread scams) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 06 Sep 2026 11:34:20 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/) Tj
+T*
+(I imagine everyone here has received an unsolicited message telling them that their tax is) Tj
+T*
+(overdue and that they urgently need to visit Genuine-Tax-Payment-Website.fart or that a parcel) Tj
+T*
+(is delayed at customs and you can pay a small sum for its release at) Tj
+T*
+(Almost-The-Right-Acronym.ak You know it is a scam. Most people just mark as spam and move on) Tj
+T*
+(with their day. But a significant number of people ?) Tj
+T*
+() Tj
+T*
+(10. Pluralistic: How corporate America built a better Roach Motel \(07 Sep 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 07 Sep 2026 05:29:25) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/09/06/hotels-california/) Tj
+T*
+(Today's links How corporate America built a better Roach Motel: Hostages beat customers every) Tj
+T*
+(day. Hey look at this: Delights to delectate. Object permanence: 3-hole punches; Warner Bros v) Tj
+T*
+(Warner Bros; Privacy wars get worse; "Weapons of Math Destruction"; HK elections go to) Tj
+T*
+(pro-democracy reformers; Stock buybacks are swindles; NZ v Open source; MSFT patches DRM faster) Tj
+T*
+(than other bugs; Wikipedia's worst arguments; Pirates x Iceland. Upcoming appearances:) Tj
+T*
+(Brighton, London, Budapest, Edmonton, South Bend, Hudson, Calgary, Winnipeg, Vancouver,) Tj
+T*
+(Victoria, Ottawa. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll) Tj
+T*
+(keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest.) Tj
+T*
+(How corporate America built a better Roach Motel \(permalink\) "If economists wished to study the) Tj
+T*
+(horse, they wouldn?t go and look at horses. They'd sit in their studies and say to themselves,) Tj
+T*
+('What would I do if I were a horse?'" -Ely Devons Half a century ago, a group of lavishly) Tj
+T*
+(financed economists from the University of Chicago \(the "neoliberals"\) convinced governments) Tj
+T*
+(all over the world to completely upend the way they treated monopolies. Up until then, th...) Tj
+T*
+() Tj
+T*
+(11. Weekly Update 520: The Unscripted Edition) Tj
+T*
+(Source: Troy Hunt | Published: Sun, 06 Sep 2026 23:31:36 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-520/) Tj
+T*
+(I've started playing around with YouTube's "create video thumbnail", which hopefully will give) Tj
+T*
+(me back a bit of time in my day \(it used to be a manual job in Photoshop\) and be a bit more) Tj
+T*
+(interesting. And on that note, the imagery it&) Tj
+T*
+() Tj
+T*
+(12. Have the frontier labs mixed up AI safety and security?) Tj
+T*
+(Source: Martin Alderson | Published: Sun, 06 Sep 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/ai-safety-vs-security/?utm_source=rss&utm_medium=rss&utm) Tj
+T*
+(_campaign=feed) Tj
+T*
+(The recent agent sandbox escapes at OpenAI and Anthropic look less like a technical failure and) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1715 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(more like a philosophical one - treating security controls as though they only need to work) Tj
+T*
+(most of the time.) Tj
+T*
+() Tj
+T*
+(13. Debian Code Search: Fast TurboPFor with Go SIMD) Tj
+T*
+(Source: Michael Stapelbergs Website | Published: 2026-09-06T09:00:00+02:00) Tj
+T*
+(Link: https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/) Tj
+T*
+(This August, I accomplished what I wanted for many years: I deleted the last cgo dependency in) Tj
+T*
+(Debian Code Search! This was made possible by Go?s recently introduced SIMD support, because) Tj
+T*
+(now we can implement the TurboPFor integer compression format as efficiently ? more) Tj
+T*
+(efficiently, in fact, by using the newer AVX512 instruction set! ? as the reference) Tj
+T*
+(implementation. Background: Why does DCS need a fast Integer Codec? Debian Code Search \(DCS\) is) Tj
+T*
+(a search engine that allows searching all the Open Source source code within Debian, with) Tj
+T*
+(either literal search expressions or regular expression search queries. A search engine uses an) Tj
+T*
+(inverted index: a map from term to documents containing the term. Each document is typically) Tj
+T*
+(represented most efficiently by using an id, so the index consists of many lists of document) Tj
+T*
+(ids. When searching, it is important to quickly decode these lists to answer the search query.) Tj
+T*
+(However, there is a point of diminishing returns where the decoding speed, even though it can) Tj
+T*
+(still be measurably improved quite a bit, no longer influences the overall query duration. From) Tj
+T*
+(2012 \(its inception\) to 2019, Debian Code Search used to use a small index format, and que...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004840 00000 n 
+0000004966 00000 n 
+0000009658 00000 n 
+0000009784 00000 n 
+0000014411 00000 n 
+0000014537 00000 n 
+0000016305 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16433
+%%EOF
