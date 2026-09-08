@@ -1,0 +1,340 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4135 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-08 13:40:37) Tj
+T*
+() Tj
+T*
+(1. I found an old interview mine \(2017\)) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Mon, 07 Sep 2026) Tj
+T*
+(23:20:02 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude) Tj
+T*
+(I was debugging an issue and I found a link to my blog! Interviewing a senior software engineer) Tj
+T*
+(Biggest challenge so far in any coding project? My biggest challenge isn't code per se. It is) Tj
+T*
+(explaining to someone else what I am trying to do with the code. It is surprisingly hard to) Tj
+T*
+(convert the thoughts in my head \(or the code\) into something coherent someone else can) Tj
+T*
+(understand. I still believe that. I don't even remember when we had this discussion, but I'm) Tj
+T*
+(glad Walter has kept it up. And a great reminder of my priorities. If you weren't coding, what) Tj
+T*
+(would you be doing? I'd be a writer. \(not a good one, but one nonetheless\) Yep.) Tj
+T*
+() Tj
+T*
+(2. Clickable whitespace) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Mon, 07 Sep 2026) Tj
+T*
+(21:53:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/clickable-whitespace) Tj
+T*
+(It's easier for someone in my position, after working 20 years in this field to talk about) Tj
+T*
+(morals. I can disagree with the choices my employer makes. In fact, I can walk away. But I) Tj
+T*
+(remember the dilemma I felt I was in, earlier in my career. The lead developer stood behind me) Tj
+T*
+(while I was working on a feature and asked me to make a div clickable. That's it. Technically,) Tj
+T*
+(it's the simplest thing you can do. But, I hesitated. He watched from behind as I tabbed) Tj
+T*
+(through every application on my computer, doing everything but what he asked. "Just make it) Tj
+T*
+(clickable," he said again. I have made divs clickable a thousand times in my then short career,) Tj
+T*
+(I knew that html standards were merely a suggestion. But this one rubbed me the wrong way.) Tj
+T*
+(Instead I said, "I already have an anchor tag below, the div doesn't need to be clickable.") Tj
+T*
+("The fuck you're talking about? Just do it." We got into an argument, and I ended up doing) Tj
+T*
+(exactly what he said. A little after I pushed my code, he revisited my code and added a slight) Tj
+T*
+(delay to my click event using setTimeout to disconnect the user action to what occurred after.) Tj
+T*
+(If what I'm saying sounds a bit vague, that's how it was framed at a time. We had disc...) Tj
+T*
+() Tj
+T*
+(3. llm 0.35) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-07T23:54:54+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/7/llm/) Tj
+T*
+(Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra . Tags: openai , llm ,) Tj
+T*
+(gpt-6-astra) Tj
+T*
+() Tj
+T*
+(4. Creepy crawlies) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-07T23:08:58+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/7/creepy-crawlies/) Tj
+T*
+(Creepy crawlies Konstantin Ryabitsev discusses how bad the "background radiation" of abusive) Tj
+T*
+(crawlers has become from the perspective of git.kernel.org , the official Git repository for) Tj
+T*
+(the Linux kernel: TL;DR: we spend more CPU cycles rendering commits for scrapers than we spend) Tj
+T*
+(on all other kinds of legitimate access, including git clones. At any one time, across 5) Tj
+T*
+(geo-distributed nodes, there are 14 CPU cores doing nothing but rendering git commits as html.) Tj
+T*
+(I worry about this a lot from the perspective of Datasette, which serves a huge number of) Tj
+T*
+(crawlable web pages. Via Hacker News Tags: crawling , git , linux , datasette , ai-ethics) Tj
+T*
+() Tj
+T*
+(5. Quoting Jakub Pachocki) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-07T22:26:25+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/7/jakub-pachocki/) Tj
+T*
+(The strongest argument I see for continuing to train much smarter models quickly is the need to) Tj
+T*
+(build defensive systems against the dangers posed by other AI. [...] We will need powerful,) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4551 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(aligned AI for defense; to secure infrastructure, to protect against rogue agents in real time,) Tj
+T*
+(and to invent entirely new protective measures. This will be a primary focus of OpenAI?s) Tj
+T*
+(deployment efforts. At the same time, even with the uncertainty that comes from anticipated) Tj
+T*
+(broad AI progress and the need to build defensive systems, we must not let that become an) Tj
+T*
+(excuse for recklessness. The idea of racing forward at all costs seems absurd once one) Tj
+T*
+(internalizes the seriousness of the stakes. ? Jakub Pachocki , Chief Scientist at OpenAI Tags:) Tj
+T*
+(ai-ethics , openai , ai) Tj
+T*
+() Tj
+T*
+(6. Automatically detecting AI text in my browser) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Tue, 08 Sep 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/deckard/) Tj
+T*
+(Automated AI text detection is currently an underserved niche. The only game in town is Pangram) Tj
+T*
+(, which does an excellent job but desperately needs more competition. In a few years, I would) Tj
+T*
+(be surprised if every major social network doesn?t scan new posts 1 and comments for AI content) Tj
+T*
+(in order to tag them \(or simply remove them\). I like that I can rely on Pangram to confirm my) Tj
+T*
+(suspicions when I read something that sounds like AI. But it?d be much better if I could choose) Tj
+T*
+(to avoid AI-generated text in the first place. What I want is something that runs in the) Tj
+T*
+(background and automatically scans text on websites I visit, without me having to ask for it. I) Tj
+T*
+(could build something like this on top of Pangram, but it?d cost money , and in general I don?t) Tj
+T*
+(like the idea of sending every piece of text my browser sees to a third-party service. What) Tj
+T*
+(about local models? The open-source models available for AI text detection are fine . Pangram) Tj
+T*
+(claims a 99.66% detection rate with a 0.004% false positive rate. I benchmarked 2 a bunch of) Tj
+T*
+(small local models against a combination of AI-detection datasets and got these results: Model) Tj
+T*
+(/ variant Human falsely flagged AI-involved text caught Gradient ? M...) Tj
+T*
+() Tj
+T*
+(7. [Sponsor] Glyphs 4) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-07T22:16:26Z) Tj
+T*
+(Link: https://glyphsapp.com/) Tj
+T*
+(Glyphs 4 is here: a Mac-native app for creating fonts, lettering, icons, and pictograms. Draw) Tj
+T*
+(with flexible strokes and efficiently reuse shapes across huge glyph sets, explore variable) Tj
+T*
+(vector designs with complex higher-order interpolation. Build and manage massive font families) Tj
+T*
+(and icon sets with ease, export all modern font formats, SVG, PNG and PDF. Hundreds of) Tj
+T*
+(refinements and native Tahoe support make designing, testing and shipping your vectors smoother) Tj
+T*
+(than ever. Glyphs 4: Create. Love the process. Discover Glyphs 4 , and use code FIREBALL to) Tj
+T*
+(save $30 if you purchase in the next month. ?) Tj
+T*
+() Tj
+T*
+(8. Trackables 1.5) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-07T22:01:27Z) Tj
+T*
+(Link: https://trackables.app/) Tj
+T*
+(Trackables: There are plenty of health tracking apps. Surprisingly, nearly all of them are) Tj
+T*
+(bloated, subscription-gated, or blatantly harvesting our data; often all three. We wanted) Tj
+T*
+(something simpler, less annoying and more fun, that?s where it started. Trackables turns the) Tj
+T*
+(data your Apple Watch already collects ? activity, sleep, steps, heart rate ? into a clear,) Tj
+T*
+(friendly, transparent interface. Totally free of charge, totally private, made by a small team) Tj
+T*
+(of ex-Apple folks. \(They might add a paid tier in the future, but core functionality will) Tj
+T*
+(remain free.\) I?ve been using Trackables for months and it?s just a better dashboard to the) Tj
+T*
+(stats I care about than the Health app itself. \(One interesting detail: HealthKit only makes) Tj
+T*
+(raw data available to apps. Apple Health?s ?sleep score? isn?t part of that data ? only the raw) Tj
+T*
+(input, like how many hours you slept, and how much time was spent in each sleep stage. So) Tj
+T*
+(Trackables computes its own sleep score. When I bother to compare, Trackable?s score is almost) Tj
+T*
+(always similar to Apple?s, but seldom exactly the same. But I personally find that Trackable?s) Tj
+T*
+(sleep score corresponds better to how I feel I slept. Which, admittedly, is usually pre...) Tj
+T*
+() Tj
+T*
+(9. The Onion?s Exclusive Interview With Larry Ellison) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-07T20:09:27Z) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1994 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/) Tj
+T*
+(The Onion: The Onion: How did you get into the entertainment industry? Ellison: I remember) Tj
+T*
+(going to the movies as a kid, and when the houselights went down and that hush fell over the) Tj
+T*
+(crowd, I?d think to myself: I?d like to build a massive propaganda apparatus one day. ?) Tj
+T*
+() Tj
+T*
+(10. Ngram error rate) Tj
+T*
+(Source: John D. Cook | Published: Mon, 07 Sep 2026 18:35:45 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/) Tj
+T*
+(The Online Etymological Dictionary gives the following etymology for grok: grok \(v.\)) Tj
+T*
+(?understand empathically,? 1961, an arbitrary formation by U.S. science fiction writer Robert) Tj
+T*
+(A. Heinlein \(1907-1988\) in his book ?Stranger in a Strange Land.? In the book it is a) Tj
+T*
+(transliteration of a Martian word and is said to mean etymologically ?to drink.? It attained) Tj
+T*
+([?] The post Ngram error rate first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. The Education of a Doomer) Tj
+T*
+(Source: Fernando Borretti | Published: Tue, 08 Sep 2026 00:00:00 +1000) Tj
+T*
+(Link: https://borretti.me/article/the-education-of-a-doomer) Tj
+T*
+(How and why I went from AI optimist to AI doomer.) Tj
+T*
+() Tj
+T*
+(12. Kunsten '92 praatje: De AI Trein) Tj
+T*
+(Source: Bert Hubert's writings | Published: Sun, 06 Sep 2026 13:37:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/kunsten92-paradiso-2026/) Tj
+T*
+(Zondag 6 september mocht ik voor het Paradisodebat van Kunsten ?92 de aftrap geven voor twee) Tj
+T*
+(uur discussie over AI. Er is een uitstekende video-opname van het hele evenement \(link naar) Tj
+T*
+(mijn bijdrage\). Ik ben de organisatie erg dankbaar voor de uitnodiging voor dit publiek te) Tj
+T*
+(spreken. Voor mij als nerd uit de tech scene was dit een heel fijn uitstapje, eens ?gluren bij) Tj
+T*
+(de buren?. Want daar word je altijd wijzer van.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004390 00000 n 
+0000004516 00000 n 
+0000009119 00000 n 
+0000009245 00000 n 
+0000011291 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+11417
+%%EOF
