@@ -1,0 +1,514 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4601 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-12 13:27:52) Tj
+T*
+() Tj
+T*
+(1. OpenAI agents attacked RubyGems back in May) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-12T00:42:25+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/) Tj
+T*
+(OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from) Tj
+T*
+(Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on) Tj
+T*
+(the agent attack on disused wikis \( previously \) last week. This time they're noting that it) Tj
+T*
+(looks very likely that an OpenAI agent swarm was behind an attack against the RubyGems package) Tj
+T*
+(repository first reported on May 12th by Maciej Mensfeld of the RubyGems security team : We're) Tj
+T*
+(dealing with a major malicious attack on @rubygems right now. Signups are paused for the time) Tj
+T*
+(being. Hundreds of packages involved - mostly targeting us, but some carrying exploits. The) Tj
+T*
+(team has been on this for hours. More details to follow once we're through it. Those packages) Tj
+T*
+(turned out to carry some very suspicious patterns: Many of them included "oai" in their name,) Tj
+T*
+(or the author field, or the fake email address they provided. The files they were accessing) Tj
+T*
+(were similar in character to the files retrieved by the wiki agents, using similar tricks) Tj
+T*
+(\(r.jina.ai\) - and OpenAI have confirmed the wiki agents were theirs. The code in the packages) Tj
+T*
+(appeared to be LLM-authored. I find point 2 the most convincing, given what we le...) Tj
+T*
+() Tj
+T*
+(2. So you want to use OpenRouter?) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-11T22:49:18+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/) Tj
+T*
+(So you want to use OpenRouter? One of OpenRouter's selling points is that it "handles fallbacks) Tj
+T*
+(automatically and picks the most cost-effective option for each request", so you can call a) Tj
+T*
+(single API endpoint for a model and get routed to the best available backend provider. Mohamed) Tj
+T*
+(Moustafa points out a whole set of ways that this can cause you problems. Different providers) Tj
+T*
+(run different serving software with different optimizations and settings, which means that the) Tj
+T*
+(same OpenRouter endpoint can serve model requests that behave in different ways. Some providers) Tj
+T*
+(even lack vision capability for vision models, and the way the reasoning effort option is) Tj
+T*
+(processed can differ as well. Thankfully you can control which provider is routed to using the) Tj
+T*
+(provider.only option . The /endpoints method returns the list of available providers for a) Tj
+T*
+(specific model ID. Via Hacker News Tags: ai , generative-ai , llms , openrouter) Tj
+T*
+() Tj
+T*
+(3. Quoting Boris Cherny) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-11T17:47:11+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/11/boris-cherny/) Tj
+T*
+(Production code written by Claude should have a higher bar than if it was written by a human.) Tj
+T*
+(At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint) Tj
+T*
+(rules, lots of tests, Claude-driven end to end tests, Claude-powered fuzzers running daily,) Tj
+T*
+(automated code reviews and security reviews, automated code refactoring, and so on. Without) Tj
+T*
+(these, you can end up with a mess that is hard to maintain down the line. ? Boris Cherny Tags:) Tj
+T*
+(claude , ai , claude-code , llms , coding-agents , ai-assisted-programming , generative-ai ,) Tj
+T*
+(agentic-engineering , boris-cherny , anthropic) Tj
+T*
+() Tj
+T*
+(4. Don't build tools for AI agents) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sat, 12 Sep 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/dont-build-tools-for-ai-agents/) Tj
+T*
+(Lots of people are making the case that we should stop building software for human users and) Tj
+T*
+(start building it for AI agents. This kind of makes sense. For instance, my AI agents now use) Tj
+T*
+(Datadog way more than I use it myself, purely by virtue of them moving much more quickly and) Tj
+T*
+(running in parallel. But I think most attempts to build ?X for AI agents? are going to fail.) Tj
+T*
+(Here are three reasons why: First, tools that are good for AI agents are also good for humans .) Tj
+T*
+(If you took a popular software product ? say, Jira ? and tried to redesign it for AI agents,) Tj
+T*
+(you would end up with something very similar to Jira. Agents use a computer in the same way) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4619 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(human engineers do, by entering text and making API calls. They ingest new information in the) Tj
+T*
+(same way humans do, by reading and viewing images. They prioritize and delegate and categorize) Tj
+T*
+(in the same way humans do. This isn?t intrinsic to how AI works ? we could potentially design) Tj
+T*
+(agents that are more inhuman ? but human-like agents are pound-for-pound more useful in our) Tj
+T*
+(current world. As an example, let?s imagine that humanoid robots have become ubiquitous. What) Tj
+T*
+(kind of tools would you build for them? Well, they?re shaped like humans, wi...) Tj
+T*
+() Tj
+T*
+(5. Why is the x86 undefined instruction called ud2? Why 2?) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 10 Sep 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689) Tj
+T*
+(It came after ud0 and ud1 . The post Why is the x86 undefined instruction called ud2 ? Why 2?) Tj
+T*
+(appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(6. You Can Drop SEO) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Fri, 11 Sep 2026) Tj
+T*
+(20:30:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/you-can-drop-the-seo) Tj
+T*
+(I started learning web development around the time the term search engine optimization, SEO,) Tj
+T*
+(was becoming more common. You could still see the shift between pre-SEO content and post-SEO) Tj
+T*
+(content. A popular article titled "Forgotten" \(a great story\) was suddenly republished as) Tj
+T*
+("Forgotten: My Adventures as an Employee the System Forgot to Erase." Both titles and content) Tj
+T*
+(were filled with keywords that signaled to search engines what the page was about. Articles) Tj
+T*
+(basically catered to the search engines and only incidentally served people. On my own website,) Tj
+T*
+(I remember editing page titles several times, then waiting a few days to see if Google noticed) Tj
+T*
+(the changes and ranked me better. In fact, before Google introduced personalized results, I) Tj
+T*
+(built a tool at my job to track how our website ranked for different combinations of keywords.) Tj
+T*
+(When personalized search results arrived, a lot of tools became obsolete. It was still useful,) Tj
+T*
+(though, to track keywords for generalized metrics. But now AI Overviews are here. And it's not) Tj
+T*
+(just Google's, plenty of people go straight to ChatGPT and ask the large language model their) Tj
+T*
+(questions directly. While the information returned might be sourced from re...) Tj
+T*
+() Tj
+T*
+(7. Last Year?s iPhone Share Amongst Users of Widgetsmith) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-12T00:19:57Z) Tj
+T*
+(Link: https://mastodon.social/@_Davidsmith/117253170115740653) Tj
+T*
+(David Smith, developer of the widely-used Widgetsmith , on Mastodon: The eve of iPhone 18 Pro) Tj
+T*
+(pre-orders seems a good time to look back at the iPhone 17 family?s adoption. Here?s the 17) Tj
+T*
+(family data as a percentage of overall usage for Widgetsmith. Generally they followed the usual) Tj
+T*
+(adoption pattern, and overall did very well ending at around 20% of total usage. With the) Tj
+T*
+(exception of the Air really struggling to find market share. For comparison the 16 Plus ended) Tj
+T*
+(its first year at around 1.4% \(vs the Air?s 0.3%\). The chart looks rough for the iPhone Air.) Tj
+T*
+(Amongst all Widgetsmith users, here?s the share as of September by model: iPhone 17 7.2% iPhone) Tj
+T*
+(17 Pro Max 5.9% iPhone 17 Pro 5.8% iPhone 17e 0.5% iPhone Air 0.3% But if we only consider the) Tj
+T*
+(19.7 percent of Widgetsmith users using one of these new 17-generation iPhones, the percentages) Tj
+T*
+(look like this: iPhone 17 36.5% iPhone 17 Pro Max 29.9% iPhone 17 Pro 29.4% iPhone 17e 2.5%) Tj
+T*
+(iPhone Air 1.5% In the entire year since the iPhone Air was announced, I?ve never seen Apple) Tj
+T*
+(advertise it. No billboards, no commercials. It raises a chicken/egg question: did no one buy) Tj
+T*
+(it because Apple didn?t market it, or did Apple not market it because no o...) Tj
+T*
+() Tj
+T*
+(8. Clarus the Dogcow Easter Egg in Apple?s OS 27 Settings) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-11T20:33:03Z) Tj
+T*
+(Link:) Tj
+T*
+(https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/) Tj
+T*
+(Benjamin Mayo, 9to5Mac: Many have complained that Apple design has been sapped of some of its) Tj
+T*
+(trademark whimsy in recent years. Well, here?s the latest example of how the tides seem to be) Tj
+T*
+(changing. Buried in the Settings app on iOS 27, Apple has hidden an easter egg that hails back) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3877 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(from classic Mac OS; Clarus the Dogcow. Here?s how to trigger it ? Very fun. Alas, this easter) Tj
+T*
+(egg isn?t present in MacOS 27, only iOS 27. But the MacOS 27 version of the Liquid Glass) Tj
+T*
+(settings panel does have a drawing glitch that makes the magnifying glass in the fake search) Tj
+T*
+(field flicker terribly , so Golden Gate does have that going for it. Update: A bunch of readers) Tj
+T*
+(have kindly reported that the Clarus easter egg is present in MacOS 27 Golden Gate, illustrated) Tj
+T*
+(on X by Andreas Storm and at 512 Pixels by Stephen Hackett . I still can?t get it to work on) Tj
+T*
+(the MacBook Neo I?m running the latest beta of Golden Gate on though. One of the readers who) Tj
+T*
+(sent a note says they don?t see the magnifying glass flicker, either. ?) Tj
+T*
+() Tj
+T*
+(9. XCancel Is Back) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-11T19:15:19Z) Tj
+T*
+(Link: https://xcancel.com/cdclegal) Tj
+T*
+(XCancel: Following the legal progress as announced in the Nitter GitHub project . The XCancel) Tj
+T*
+(service is resumed. More details will be shared on the Nitter GitHub project page. Glad to hear) Tj
+T*
+(it and I wish them well, but I think Zhenyi Tan?s Litterbox Safari extension is a much better) Tj
+T*
+(solution for viewing tweets on X without going to X. ?) Tj
+T*
+() Tj
+T*
+(10. [RSS Club] Sneak peek at new DOI functionality) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 11 Sep 2026 11:34:12 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/09/rss-club-sneak-peek-at-new-doi-functionality/) Tj
+T*
+(If you're reading this, you're part of RSS Club! A top secret society of cool people who) Tj
+T*
+(subscribe to my feed. This post is not available on the web or via email. I've been playing) Tj
+T*
+(about with Rogue Scholar. It's an open-access publication which allows blogs to get a) Tj
+T*
+(persistent Digital Object Identifier. If I've set everything up correctly \(not a given\) then) Tj
+T*
+(all new posts on this site will be?) Tj
+T*
+() Tj
+T*
+(11. Where Has Construction Automation Been Successful?) Tj
+T*
+(Source: Construction Physics | Published: Fri, 11 Sep 2026 12:04:09 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/where-has-construction-automation) Tj
+T*
+(Construction is famously labor intensive: direct labor makes up close to 50% of the cost of) Tj
+T*
+(constructing a new single-family home in the US, compared to around 6 to 8% of the cost of) Tj
+T*
+(manufacturing a car.) Tj
+T*
+() Tj
+T*
+(12. Premium: The Hater's Guide To Broadcom) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 11 Sep 2026 14:05:01 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-the-haters-guide-to-broadcom/) Tj
+T*
+(According to The Information , in early 2024, Broadcom CEO Hock Tan hosted a ?coffee chat? with) Tj
+T*
+(employees of the recently-acquired VMWare , and introduced them to his particular brand of) Tj
+T*
+(management: At that time, VMware?s Palo Alto, Calif., campus sprawled over 18 buildings and 100) Tj
+T*
+(acres) Tj
+T*
+() Tj
+T*
+(13. AI researchers debate how close we are to recursive self-improvement) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Fri, 11 Sep 2026 16:28:11 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/john-beren-charlie) Tj
+T*
+(?We're nowhere near the ceiling.?) Tj
+T*
+() Tj
+T*
+(14. This Week on The Analog Antiquarian) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 11 Sep 2026 15:28:46 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/) Tj
+T*
+(The Tudor Kings) Tj
+T*
+() Tj
+T*
+(15. The Worst Spam Emails) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-09-11T13:41:09Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17445398/ilands-agents-email-spam-kaixin-tang) Tj
+T*
+(Making sense of iLands, the company whose AI agents emailed me half a dozen times in two days) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4232 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(offering to do my research. Turns out they?re just bots trying to keep their own lights on by) Tj
+T*
+(trying to take my job.) Tj
+T*
+() Tj
+T*
+(16. Weekly Update 521: Breach Perception v. Reality) Tj
+T*
+(Source: Troy Hunt | Published: Fri, 11 Sep 2026 20:37:33 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-521/) Tj
+T*
+(I think what really resonates with me this week is being able to completely turn the tables on) Tj
+T*
+(perceptions around things like AI being the big bad hacking tool the news would have you) Tj
+T*
+(believe. There's the stat I talk about where it's had literally 0%) Tj
+T*
+() Tj
+T*
+(17. At 25, we are all New Yorkers, again) Tj
+T*
+(Source: Anil Dash | Published: 2026-09-11T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/09/11/25-we-are-all-new-yorkers-again/) Tj
+T*
+(Every year, for 25 years, I?ve written on the observance of this anniversary. Some years, it?s) Tj
+T*
+(been for me, some years it?s been for the people who?ve been with me along the way. Some years,) Tj
+T*
+(I didn?t know why I was even doing it any more. But this year, for the first time in a long) Tj
+T*
+(time, I can feel exactly what story I want to tell. Right from the day of the attacks, that) Tj
+T*
+(evening , I remember people all around the world saying to us, ?Today, we are all New Yorkers.?) Tj
+T*
+(It was so earnest, a statement so sincere, that I am still surprised how much it moved me. It) Tj
+T*
+(might be hard for folks to imagine now, but it felt so real , that people everywhere ?) Tj
+T*
+(including people across America ? felt like they loved us in New York City, and they were) Tj
+T*
+(grieving with us, and cared about us. And now we?re here in 2026, where it?s been wondrous to) Tj
+T*
+(watch the world, for the first time since then, tell us once again that? their hearts are with) Tj
+T*
+(New York City. This time, not in grief, but in joyous celebration. Celebration of our) Tj
+T*
+(victories: Knicks in five ! The Liberty and Gotham FC were champs less than two weeks after) Tj
+T*
+(that! The World Cup lit the city up! Hip hop fans in the city came together for career-cap...) Tj
+T*
+() Tj
+T*
+(18. I Am a Flat-Rate Monthly Responsibility Service) Tj
+T*
+(Source: matduggan.com | Published: Fri, 11 Sep 2026 12:00:18 GMT) Tj
+T*
+(Link: https://matduggan.com/i-am-a-flat-rate-monthly-responsibility-service/) Tj
+T*
+(Most people, when asked why they do what they do, lie. This isn?t because they?re malicious but) Tj
+T*
+(it?s because the honest justification for a career is rarely noble. It?s usually a combination) Tj
+T*
+(of a decent paycheck, tolerable hours, and whatever neurosis you) Tj
+T*
+() Tj
+T*
+(19. Pluralistic: Inefficiency is bad, actually \(11 Sep 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 11 Sep 2026 14:55:56) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/09/11/mazzucato-thought/) Tj
+T*
+(Today's links Inefficiency is bad, actually: Now, "resiliency" on the other hand? Hey look at) Tj
+T*
+(this: Delights to delectate. Object permanence: Canada's DMCA; Socialism x Pledge of) Tj
+T*
+(Allegiance; Hate the player and the game; Making Light's 9/11; 9/11 survivor registry; Secure) Tj
+T*
+(email caused 9/11; German Pirates; Hollywood's Canadian MP; Reverse Centaurs resolve the AI) Tj
+T*
+(paradox. Upcoming appearances: Manchester, Budapest, Edmonton, South Bend, Hudson, Calgary,) Tj
+T*
+(Winnipeg, Vancouver, Victoria, Ottawa. Recent appearances: Where I've been. Latest books: You) Tj
+T*
+(keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Inefficiency is bad, actually \(permalink\) The most reliable way to lose) Tj
+T*
+(a political battle is to let your adversary define the terms. For example, if you're an artist) Tj
+T*
+(and you let your boss define the fight over AI, he'll make it all about "IP" \(not labor\) and) Tj
+T*
+(ask you to help secure a victory that will make him richer and you poorer:) Tj
+T*
+(https://pluralistic.net/2026/09/02/scrape-scrope-scrap/ If we want to win these important) Tj
+T*
+(battles, we can't let our adversaries define them. That's the blunder we made 50 years ago,) Tj
+T*
+(when we let the...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004863 00000 n 
+0000004989 00000 n 
+0000009660 00000 n 
+0000009786 00000 n 
+0000013715 00000 n 
+0000013841 00000 n 
+0000018126 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+18254
+%%EOF
