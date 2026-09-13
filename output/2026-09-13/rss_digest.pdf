@@ -1,0 +1,492 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4100 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-13 13:43:50) Tj
+T*
+() Tj
+T*
+(1. Generating running routes with GPT-6 Astra and ChatGPT Work) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-12T23:56:42+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/12/astra-running-routes/) Tj
+T*
+(Here's a neat thing I had ChatGPT Work with GPT-6 Astra \(Max\) do this morning: I live at .) Tj
+T*
+(Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked) Tj
+T*
+(for 27 minutes and produced exactly what I'd asked for, as both an embedded visualization and) Tj
+T*
+(downloadable GPX file and GeoJSON files. Here's that 5K route: When I asked it how it had) Tj
+T*
+(created the route, it replied: I used Nominatim to locate the address and Overpass to download) Tj
+T*
+(local OpenStreetMap roads and trails , then calculated the loops locally. Frustratingly, the) Tj
+T*
+(actual code it ran and exact details of what it did weren't visible to me in the ChatGPT UI. I) Tj
+T*
+(see this lack of transparency is an anti-feature. By the time I thought to ask for a copy of) Tj
+T*
+(the Python code it had used, ChatGPT was unable to provide it. This appears to be because the) Tj
+T*
+(thread had been compacted. I think any LLM system that uses compaction needs to both preserve) Tj
+T*
+(the pre-compacted text and make that text available via agent tool calls, to protect against) Tj
+T*
+(this kind of problem. As for displaying the map to me, that used the visualize skill . It) Tj
+T*
+(created a file called /workspace/el-granada-5k-share.html to embed directly into th...) Tj
+T*
+() Tj
+T*
+(2. California Brown Pelican) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-12T21:16:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/12/sighting-399708714/) Tj
+T*
+(California Brown Pelican, in San Mateo County, CA, US The Pacifica Pier shut down at the start) Tj
+T*
+(of June after a crack in the concrete walkway made access to the pier unsafe. It has since been) Tj
+T*
+(entirely taken over by pelicans! Tags: wildlife) Tj
+T*
+() Tj
+T*
+(3. Quoting Paul Ford) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-12T18:00:21+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/12/paul-ford/) Tj
+T*
+(For a while, I must admit, it looked as if software developer roles like mine were done for.) Tj
+T*
+(How could we fight against tireless robots? But our industry is slowly realizing that making) Tj
+T*
+(truly cutting-edge software still requires humans to think and work together, to maximize their) Tj
+T*
+(skill sets and to practice their respective crafts. A.I. can write very good software, but it) Tj
+T*
+(also makes it easy to do someone else?s job badly, which is part of why all those projects) Tj
+T*
+(fail. Now that everyone can code, it?s become clearer why many shouldn?t. ? Paul Ford , A.I.) Tj
+T*
+(Was Supposed to Give Us New Killer Apps. What Happened? Tags: paul-ford , generative-ai ,) Tj
+T*
+(deep-blue , ai , llms) Tj
+T*
+() Tj
+T*
+(4. Unread 5.0) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-12T19:27:37Z) Tj
+T*
+(Link: https://www.goldenhillsoftware.com/2026/09/unread-50/) Tj
+T*
+(John Brayton: Unread 5.0 is available now from the App Store . This update adds these) Tj
+T*
+(improvements and more: Improvements around hero images, article list thumbnails, and widget) Tj
+T*
+(thumbnails Syncing with FreshRSS and Miniflux The ability to quickly mark old articles read I?m) Tj
+T*
+(a NetNewsWire man personally, but I?ve long admired Unread as a different, very good take on a) Tj
+T*
+(feed reader. Just a gorgeous app. One of the very best things about RSS is that feed readers) Tj
+T*
+(take such different shapes and approaches. ?) Tj
+T*
+() Tj
+T*
+(5. Post Peek ? Litterbox-Inspired Tweet Viewing Extension for Chrome) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-12T18:05:01Z) Tj
+T*
+(Link: https://github.com/tsvb/post-peek) Tj
+T*
+(Tim VanBenschoten: Post Peek is an independent, open-source project inspired by Litterbox , the) Tj
+T*
+(Safari extension by Zhenyi Tan \(And a Dinosaur\). ?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4680 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(6. Where Are the AI-Generated Killer Apps?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-12T16:23:57Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html?unlocked_article_) Tj
+T*
+(code=1.AlE.C9EE.H2j5a1eHFUbQ&smid=nytcore-ios-share) Tj
+T*
+(Paul Ford, writing for The New York Times \(gift link\): For a while, I must admit, it looked as) Tj
+T*
+(if software developer roles like mine were done for. How could we fight against tireless) Tj
+T*
+(robots? But our industry is slowly realizing that making truly cutting-edge software still) Tj
+T*
+(requires humans to think and work together, to maximize their skill sets and to practice their) Tj
+T*
+(respective crafts. A.I. can write very good software, but it also makes it easy to do someone) Tj
+T*
+(else?s job badly, which is part of why all those projects fail. Now that everyone can code,) Tj
+T*
+(it?s become clearer why many shouldn?t. Ford, linking to his own column on Bluesky : I just) Tj
+T*
+(want one killer app before we get a killer robot. ?) Tj
+T*
+() Tj
+T*
+(7. AI is breaking our proxies for expertise) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 13 Sep 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/) Tj
+T*
+(Mathematicians are broadly not anti-AI. They?re more culturally open to using AI as a tool) Tj
+T*
+(than, say, artists or writers 1 . However, now that more and more genuinely prestigious) Tj
+T*
+(problems have fallen to AI, that might be changing. Almost five thousand mathematicians) Tj
+T*
+(\(including twenty-five Fields medalists\) have signed a declaration called A Severe Misaligment) Tj
+T*
+(of AI in Mathematics . The core argument goes something like this: In recent months, the) Tj
+T*
+(success of AI in solving major mathematical problems has made headlines even outside) Tj
+T*
+(mathematical circles. But solving problems is only a tool and proxy for achieving the primary) Tj
+T*
+(goal of conceptual understanding and insight. Forgetting this in the world of AI may turn the) Tj
+T*
+(tool against the primary goal. Indeed, the mass production at faster and faster pace of) Tj
+T*
+(?true/false? statements could destroy fertile ground instead of breathing life into new ideas.) Tj
+T*
+(A lot of people online have interpreted this as the expected complaint from any field that gets) Tj
+T*
+(automated: translators did it, artists and programmers have been doing it, and now it?s the) Tj
+T*
+(turn of the mathematicians. I think this is too dismissive. Understanding the concrete problem) Tj
+T*
+(mathemati...) Tj
+T*
+() Tj
+T*
+(8. Microcode in Intel's 8087 floating-point chip: the scale instruction) Tj
+T*
+(Source: Ken Shirriff's blog | Published: 2026-09-12T08:45:16.101-07:00) Tj
+T*
+(Link: http://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html) Tj
+T*
+(In the 1970s, floating-point arithmetic was a mess. Computer manufacturers had a dozen) Tj
+T*
+(incompatible arithmetic standards. Moreover, floating-point systems were designed around) Tj
+T*
+(hardware simplicity rather than mathematical rigor, leading to problems with numerical) Tj
+T*
+(stability. This changed when Intel introduced the 8087 floating-point coprocessor chip in 1980,) Tj
+T*
+(designed to be as accurate as possible, even in the corner cases. The 8087 became popular) Tj
+T*
+(because it could be installed in the IBM PC, making floating-point operations up to 100 times) Tj
+T*
+(faster in applications ranging from spreadsheets to CAD. But more importantly, the 8087 became) Tj
+T*
+(the floating-point standard used by most computers today. The 8087 implemented its instructions) Tj
+T*
+(in complex low-level code called microcode. I'm part of a group, the Opcode Collective, that is) Tj
+T*
+(reverse-engineering this microcode, and I've recently made some progress. In this post, I) Tj
+T*
+(examine the microcode for one of the 8087's instructions? FSCALE ?and describe how this) Tj
+T*
+(microcode works. The FSCALE \(Floating-point Scale\) instruction provides a quick way to scale a) Tj
+T*
+(number by a power of two, much faster than a multiplication. I figured that FSCALE was a) Tj
+T*
+(simple,...) Tj
+T*
+() Tj
+T*
+(9. P\(doom\)) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-09-12T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/9/12/pdoom/) Tj
+T*
+(This week some flavor of ?AI is going to kill us all? went viral. In particular one where an) Tj
+T*
+(employee put his personal probability of that happening above 10%. Which made me go to the) Tj
+T*
+(Wikipedia page of P\(doom\) and I realized that Dario Amodei?s apparent probability of something) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4679 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(bad happening seems to be between 10-25%. And well, Dario then wrote about pacing the frontier) Tj
+T*
+(. And Sam read it and wants to pace too . And well, so does Musk . I encourage you strongly to) Tj
+T*
+(read the post, because I think it?s a good one. And yet, when I read the post I could not help) Tj
+T*
+(but feel in strong opposition to it, despite the fact that I think I?m on the same page with) Tj
+T*
+(regard to all observations and, to a large degree, the concerns. I thought it might be) Tj
+T*
+(interesting to write down my present-day thoughts on this, even if for no other reason than for) Tj
+T*
+(myself to look back at it a year or two from now. What Is Doom? What I really appreciate about) Tj
+T*
+(Dario?s post is that he lays out a scenario that is not a huge stretch but also one that) Tj
+T*
+(describes a clear, unfortunate outcome we should fight: persistent botnets and other forms of) Tj
+T*
+(nuisance. And well, we don?t have to look very far to see the issues left and rig...) Tj
+T*
+() Tj
+T*
+(10. Everyone should slow down AI development except for me) Tj
+T*
+(Source: Xe Iaso's blog | Published: Sat, 12 Sep 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) Tj
+T*
+(The power of science is staggering! Every day we're making new advancements in the field of) Tj
+T*
+(generative artificial intelligence via judicious application of large language model inference) Tj
+T*
+(technology. However, as we approach the next critical threshold in capability, we must look) Tj
+T*
+(forward to ensure that we're not inadvertently creating a bad user experience in the form of) Tj
+T*
+(mass societal collapse due to our technology replacing organic contributions in the workplace.) Tj
+T*
+(As such, I am calling for the AI industry globally to pause all frontier model research and) Tj
+T*
+(development. This will let Techaro's Lygma AGI lab catch up so we can dominate the world with) Tj
+T*
+(our Intelliga series of models \(where if you pay we remove the subliminal advertising that says) Tj
+T*
+(being a catgirl is an ideal outcome\). We want to give people the ability to have cat ears and) Tj
+T*
+(we believe that AGI is the only way to do it. Our plan is to invent artificial general) Tj
+T*
+(intelligence and then ask it to figure out how to give people cat ears. I think that this is a) Tj
+T*
+(flawless plan that has absolutely no downsides for anyone involved, and if we do this together,) Tj
+T*
+(bro, we can absolutely make sure that AGI development happens at a pace that i...) Tj
+T*
+() Tj
+T*
+(11. ActivityPub - How to send an updated user profile to Mastodon and the Fediverse) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 12 Sep 2026 11:34:02 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/09/activitypub-how-to-send-an-updated-user-profile-to-masto) Tj
+T*
+(don-and-the-fediverse/) Tj
+T*
+(Let's suppose you've updated the description of your ActivityPub account from "World's Number 1) Tj
+T*
+(Taylor Swift Fan" to "This account is now a Nickleback Truther". How do you let the rest of the) Tj
+T*
+(Fediverse know that you've changed your allegiance? By default, most Mastodon instances won't) Tj
+T*
+(periodically poll your account information just to see if you've updated it. So how does the) Tj
+T*
+(information get?) Tj
+T*
+() Tj
+T*
+(12. Reading List ? 09/12/2026) Tj
+T*
+(Source: Construction Physics | Published: Sat, 12 Sep 2026 12:32:46 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-09122026) Tj
+T*
+(City permitting speeds, more efficient ground source heat pump drilling, an Amazon Air crash in) Tj
+T*
+(Miami, cooling paint, and more.) Tj
+T*
+() Tj
+T*
+(13. This Week in Package Management: 12 September 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-09-12T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/09/12/this-week-in-package-management.html) Tj
+T*
+(Week seventeen of the roundup, built from the package manager OPML feed collection and whatever) Tj
+T*
+(I?ve posted or boosted on Mastodon . Releases pnpm 12.4 can manage npm, Cargo, and Python) Tj
+T*
+(dependencies in the same workspace: enable Cargo and Python in pnpm-workspace.yaml and one pnpm) Tj
+T*
+(install handles all three, each from its own manifest, backed by pnpm?s shared store,) Tj
+T*
+(authentication, and offline cache. It also adds a pnpm pipeline command for CI-style task) Tj
+T*
+(graphs and binaries for six more architectures. 12.4.1 fixes installs on filesystems that) Tj
+T*
+(refuse hard links or copy-on-write clones. On the 11.x line, 11.26 backports workspace: ranges) Tj
+T*
+(in catalogs, the trust-policy flags on remove and update , and pnpm change check for CI.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3700 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RubyGems and Bundler 4.1.0.beta1 adds content-addressable gem support, ML-DSA post-quantum) Tj
+T*
+(signatures for the signed-gem workflow, an opt-in OS credential store for gem and bundler) Tj
+T*
+(credentials, and a --cooldown flag on gem install , update and outdated . Pixi 0.80.0 adds) Tj
+T*
+(experimental conda-script support: a comment header in a script file declares channels,) Tj
+T*
+(dependencies, and an entrypoint, and Pixi solves and caches the environment then runs the) Tj
+T*
+(script without a...) Tj
+T*
+() Tj
+T*
+(14. A Dick Smith VZ200 without the Dick Smith \(but with a serial port\)) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-09-12T19:17:52.821-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html) Tj
+T*
+(Australians! They walk among us ! Do not be deceived by those charming faces! They might be) Tj
+T*
+(your parent! They might sleep in the same bed as you at night! A half-breed might write the) Tj
+T*
+(very blog you read! For the preservation of our precious bodily fluids , we must remove the) Tj
+T*
+(scurrilous larrikin influence of Australia upon our American home computers, and I know exactly) Tj
+T*
+(where to start! Why allow Dick Smith's name \(even though he'd already sold Dick Smith) Tj
+T*
+(Electronics' controlling interest to Woolies by then but stop ruining my intro\) to corrupt) Tj
+T*
+(this, um, rubber-keyed diminutive beige home computer when we can return it to its prior,) Tj
+T*
+(pristine, plasticky state as it once rolled out from a glorious Asian factory ? Let us restore) Tj
+T*
+(it to its purest virginal roots! Let this American, possibly sold in Canada, original of a Hong) Tj
+T*
+(Kong-manufactured super-cheap home computer that was also sold in Europe but never mind that) Tj
+T*
+(flourish once more! ... after, of course, we compare this seppo VTech VZ200 with the Dick Smith) Tj
+T*
+(units and the bumper crop of crap American home computers in 1983, and fix the keyboard and) Tj
+T*
+(video. Then , to avoid wrecking it with a botched logic board repair, we'll bolt on a US...) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: LLMs are real, AI is fake \(12 Sep 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 12 Sep 2026 11:14:10) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/09/12/god-in-the-box/) Tj
+T*
+(Today's links LLMs are real, AI is fake: No, it didn't "go rogue." Hey look at this: Delights) Tj
+T*
+(to delectate. Object permanence: Why 9/11 Means We Must Support My Politics; Blogs x 9/11;) Tj
+T*
+(Jimmy Wales v Britannica's EiC; Hollywood astroturfs Australia; Agents v queer YA; Soft) Tj
+T*
+(landings for dirty cops; Leaked Stingray manual. Upcoming appearances: Budapest, Edmonton,) Tj
+T*
+(South Bend, Hudson, Calgary, Winnipeg, Vancouver, Victoria, Ottawa. Recent appearances: Where) Tj
+T*
+(I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I) Tj
+T*
+(said, I'll keep writin' 'em. Colophon: All the rest. LLMs are real, AI is fake \(permalink\) Once) Tj
+T*
+(you understand the corporate culture of AI "hyperscalers" consists primarily of everyone) Tj
+T*
+(cooking their brains by locking themselves in the bathroom, holding flashlights under their) Tj
+T*
+(chins, and saying "Aaaaaaaaaay Eyeeeeeee" until they wet themselves in terror, a lot of things) Tj
+T*
+(snap into focus: https://pluralistic.net/2023/06/04/ayyyyyy-eyeeeee/ It explains how a company) Tj
+T*
+(can simultaneously be staffing up an enterprise sales division while also constantly freaking) Tj
+T*
+(out at the thought that its product has "a 10% chance of ending humanity": https://www.l...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004362 00000 n 
+0000004488 00000 n 
+0000009220 00000 n 
+0000009346 00000 n 
+0000014077 00000 n 
+0000014203 00000 n 
+0000017956 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+18084
+%%EOF
