@@ -1,0 +1,392 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4544 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-14 13:54:32) Tj
+T*
+() Tj
+T*
+(1. Glyphs 4) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-13T21:44:17Z) Tj
+T*
+(Link: https://glyphsapp.com/) Tj
+T*
+(My thanks to Glyphs for sponsoring this last week at DF. Glyphs 4 is a truly native Mac app for) Tj
+T*
+(creating fonts, lettering, icons, and pictograms. Glyphs lets you draw with flexible strokes) Tj
+T*
+(and efficiently reuse shapes across huge sets of glyphs, and explore variable vector designs) Tj
+T*
+(with complex higher-order interpolation. Glyphs lets you build and manage massive font family) Tj
+T*
+(and icon sets with ease, and it exports all modern font formats, as well as SVG, PNG, and PDF.) Tj
+T*
+(Earlier this year Glyph co-creators Georg Seifert and Rainer Scheichelbauer were awarded the) Tj
+T*
+(RIT Frederic W. Goudy Award for their work on Glyphs. The list of previous winners of this) Tj
+T*
+(prestigious award reads like a hall of fame for typography: Matthew Carter, Adrian Frutiger,) Tj
+T*
+(Gudrun and Hermann Zapf, Robert Bringhurst, and Robert Slimbach, to name a few. Glyphs hits my) Tj
+T*
+(personal interests hard. I?m deeply interested in and fascinated by typography, and nothing) Tj
+T*
+(pleases me more than a Mac-assed Mac app. I am not, however, a typeface designer. Glyphs is so) Tj
+T*
+(good, though, that it makes me want to be. This comment from one Glyphs user says a lot: ?After) Tj
+T*
+(using Glyphs, the pen tool in Illustrator feels like carving a chicken wi...) Tj
+T*
+() Tj
+T*
+(2. Yours Truly on Off Protocol With Jim Ray) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-12T15:36:53Z) Tj
+T*
+(Link: https://atproto.com/off-protocol/2026-09-11-make-your-own-thing-john-gruber) Tj
+T*
+(My old friend Jim Ray now runs developer relations at Bluesky, and part of that gig is hosting) Tj
+T*
+(a podcast, Off Protocol \(?a show about building a better Internet?\). I was delighted to appear) Tj
+T*
+(as his latest guest. I generally don?t like talking about my career, but I did enjoy talking) Tj
+T*
+(about it with Jim. He has that effect on people. ?) Tj
+T*
+() Tj
+T*
+(3. T-Mobile Is Charging $5/Month for iPhone Handoff) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-12T15:24:09Z) Tj
+T*
+(Link: https://www.t-mobile.com/news/devices/iphone-18-pro-iphone-duo-apple-watch-release) Tj
+T*
+(T-Mobile, in their iPhone 18 Pro / iPhone Duo press release: Plus, T?Mobile is one of the first) Tj
+T*
+(to support Apple?s new iPhone Handoff feature, where customers with two compatible iPhone) Tj
+T*
+(models can use their T?Mobile number across both devices and choose which phone is active at) Tj
+T*
+(any given time. The secondary iPhone works seamlessly, including essential T?Mobile services) Tj
+T*
+(like calls, texts, data, mobile hotspot, Scam Shield and T-Satellite on eligible plans,) Tj
+T*
+(allowing customers to get the most from two devices without clunky handoffs or the hassle of) Tj
+T*
+(managing another number. iPhone Handoff is available on any iPhone with iOS 27 via iPhone) Tj
+T*
+(settings and ready to use from day one on the new iPhone 18 Pro lineup and iPhone Duo. T?Mobile) Tj
+T*
+(is introducing the feature at $5/month. This seems like a ridiculous thing to charge for. It?s) Tj
+T*
+(not adding a separate device to your plan, like adding a cellular iPad or even an Apple Watch.) Tj
+T*
+(It?s just switching your active eSIM between two iPhones. You can do this for free, now, on any) Tj
+T*
+(carrier via Settings ? Cellular ? but it takes a bunch of taps, confirmation on both iPhones,) Tj
+T*
+(and a few minutes for the carrier to register the eSIM transfer. iPhone Handoff...) Tj
+T*
+() Tj
+T*
+(4. commit-rewriter 0.1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-14T00:28:10+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/14/commit-rewriter/) Tj
+T*
+(Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit) Tj
+T*
+(messages for the Datasette security releases . The initial commits were full of coding agent) Tj
+T*
+(cruft and references to issue IDs from our private repository, so they weren't fit for) Tj
+T*
+(publication. If you want to edit the commit messages for a repository you can run it like this:) Tj
+T*
+(uvx commit-rewriter path/to/repo Omit the path if you are already in the directory for that) Tj
+T*
+(repo. When you submit your edits the tool creates a timestamped branch of your current repo) Tj
+T*
+(state - to allow you to revert if you need to - and then rewrites every commit from the first) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4691 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(one you edited to the most recent. Tags: git , projects , python , ai-assisted-programming) Tj
+T*
+() Tj
+T*
+(5. shot-scraper 1.12) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-13T23:58:14+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/13/shot-scraper/) Tj
+T*
+(Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation) Tj
+T*
+(tool. You can now take a WebP screenshot of a web page like this: shot-scraper) Tj
+T*
+(https://simonwillison.net -o screenshot.webp --quality 80 The --quality option sets the quality) Tj
+T*
+(- without that option the WebP file will be lossless. In my experience WebP screenshots are) Tj
+T*
+(almost always significantly smaller in file size than their JPEG or PNG equivalents. See the PR) Tj
+T*
+(for some examples. I shipped this feature so I could use it to generate the screenshot for my) Tj
+T*
+(new commit-rewriter tool . Tags: playwright , shot-scraper) Tj
+T*
+() Tj
+T*
+(6. Feeling sad about AI) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-11T17:28:37+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/) Tj
+T*
+(My comment on Feeling sad about AI ? Hacker News. I'm not sure how useful it is to say this,) Tj
+T*
+(but I think a lot of people \(myself included, a few years ago now\) have been through this) Tj
+T*
+(moment of existential crisis and come out the other side. The initial reaction, when some) Tj
+T*
+(coding agent does a piece of work that would have taken you a week in an hour and does it well) Tj
+T*
+(, is to be very disheartened by it. Once you come to terms with the idea that translating an) Tj
+T*
+(exact specification into decent code isn't a unique skill any more, you can start looking at) Tj
+T*
+(the larger set of problems that you face as a software engineer and realize that there is so) Tj
+T*
+(much left , and your existing skill and experience mean you can master these new tools, provide) Tj
+T*
+(value, and execute at a level far greater than anyone who is just getting started building) Tj
+T*
+(software using agents without any of your depth. If you don't want your profession to change at) Tj
+T*
+(all then you're going to have a tough time with this - but that's surely been true for the) Tj
+T*
+(history of software engineering? Has there ever been any stability to the tools and language we) Tj
+T*
+(use beyond about a five year time horizon? These changes are happening a bit faste...) Tj
+T*
+() Tj
+T*
+(7. Slow developer experience will bottleneck fast models) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Mon, 14 Sep 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/) Tj
+T*
+(Right now developer experience is measured in seconds. If your tests take a second to run,) Tj
+T*
+(that?s good; if they take thirty seconds, that?s bad. Any faster than a second doesn?t really) Tj
+T*
+(matter, because most of your time is spent either thinking or waiting for an AI agent to spin.) Tj
+T*
+(Shaving milliseconds off your dev server reload time or whatever is pointless: that?s not the) Tj
+T*
+(bottleneck. It will be. Small models are getting faster and faster, and smart models are) Tj
+T*
+(getting smaller. I think most engineers will still want to use the smartest available model ?) Tj
+T*
+(software engineering is hard ? but we will increasingly see faster models get used as subagents) Tj
+T*
+(or for well-understood tasks. This is largely uncharted territory. Very few people have) Tj
+T*
+(developed intuitions for what it is going to be like to work with agents that run at thousands) Tj
+T*
+(of tokens-per-second. GPT-6-Astra can run at about sixty tokens per second. That means you) Tj
+T*
+(spend a lot of time waiting for it to think. You work with it like you would work with another) Tj
+T*
+(human: delegating a task and then context-switching until that task is complete. If you haven?t) Tj
+T*
+(yet, have a play around with Jimmy , Taalas? version of LLaMA-3.1-8B running 1 at...) Tj
+T*
+() Tj
+T*
+(8. AI Forces You to Commit to Your Initial Belief) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Sun, 13 Sep 2026) Tj
+T*
+(20:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/making-changes-mid-sentence) Tj
+T*
+(Have you ever watched any old hacker movie lately? The hacker can write at 180 WPM, never using) Tj
+T*
+(the backspace or changing his mind ever. It?s like before they ever started, they already knew) Tj
+T*
+(the last character they would type on the screen. But that?s not how it works in real life, at) Tj
+T*
+(least not for me. The idea changes mid-sentence. That's probably how most of the code I write) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4621 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(ends up. I start with an idea in my mind. I think it's brilliant, maybe it?s a way to) Tj
+T*
+(restructure the code, an overall design, or a specific paradigm. But when I start writing it,) Tj
+T*
+(something else pops up. Seeing it halfway down the page, I realize it's not quite what I was) Tj
+T*
+(imagining, and I change direction. The same principle applies when I'm writing a blog post or a) Tj
+T*
+(story. I feel like I have a perfect concept in my head, but the moment I start putting words) Tj
+T*
+(down, things shift and I adjust accordingly. That's why the final text rarely matches the) Tj
+T*
+(original vision. It?s as if writing itself is the process of refining the idea. This process is) Tj
+T*
+(lost when you use AI. You don't write out the details of an idea as you go; instead, you just) Tj
+T*
+(give it the gist of it. It generates an entire wall of text instantly, and no...) Tj
+T*
+() Tj
+T*
+(9. Anecdotally, programmers dislike "reduce") Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Sun, 13 Sep 2026 00:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/) Tj
+T*
+(In short: from my experience, people like map and filter , but not reduce . I use functions) Tj
+T*
+(like map and filter all the time. When I put that code up for review, my peers rarely complain.) Tj
+T*
+(I get plenty of feedback about other decisions, but not about my use of map and filter . I) Tj
+T*
+(cannot say the same for reduce . Often, when I?ve submitted a patch with reduce inside, I get a) Tj
+T*
+(comment like, ?this part is hard to read.? And I see reduce way less than map , filter , some ,) Tj
+T*
+(and so on. Anecdotally, I have come to believe that programmers don?t like reduce as much. I) Tj
+T*
+(don?t know why, but I have a few theories: reduce is harder to read. reduce is less familiar.) Tj
+T*
+(reduce can have worse performance compared to other options. reduce is less elegant in) Tj
+T*
+(languages I use, like JavaScript, Python, and Swift. In my blissful stint as a Clojure) Tj
+T*
+(developer, I did not get this feedback. I?m wrong, and I?m seeing a trend that?s not real. I) Tj
+T*
+(usually just change reduce to something else and move on. Even though I prefer it, I don?t) Tj
+T*
+(usually care much. But it?s a little social phenomenon I?ve observed, and I thought I?d) Tj
+T*
+(document it. I?ve also noticed this less recently, possibly because code review is less) Tj
+T*
+(thoroug...) Tj
+T*
+() Tj
+T*
+(10. Preserving Netlify Analytics Data Beyond 30 Days) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 13 Sep 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/) Tj
+T*
+(I?ve got Netlify Analytics turned on for a few of my websites. I use it send myself a little) Tj
+T*
+(daily digest that alerts me when folks link to my writing, be it an individual sending me a few) Tj
+T*
+(referrals, a newsletter sending me a few hundred, or Hacker News sending me thousands. But) Tj
+T*
+(sometimes I want to know more than, ?What happened with traffic in the last 24 hours??) Tj
+T*
+(Sometimes I want to know, ?What happened with traffic in the last month?? I can log in to) Tj
+T*
+(Netlify to answer that question. Sometimes I want to know, ?What happened with traffic in the) Tj
+T*
+(last six months?? Netlify doesn?t have an answer for that because they only store the last) Tj
+T*
+(thirty days of traffic data. I?ve known about this limitation for years and always thought, ?I) Tj
+T*
+(really should just start saving that data for myself.? But, you know, laziness. How bad do I) Tj
+T*
+(really want it? The answer, it seems, was ?I only want it if it?s _easy_?. Enter Val Town . Val) Tj
+T*
+(Town makes this kind of task easy. Each ?Val? is it?s own little bucket of scoped computing) Tj
+T*
+(primitives for just such a task: Code \(run a script that fetches data\) Secrets \(securely store) Tj
+T*
+(my Netlify access token\) Storage \(my own little SQLite database for persisting data ov...) Tj
+T*
+() Tj
+T*
+(11. Fixing an NZXT Signal 4K30 part 2: the green/pink video bug) Tj
+T*
+(Source: Downtown Doug Brown | Published: Sun, 13 Sep 2026 21:02:59 +0000) Tj
+T*
+(Link: https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pin) Tj
+T*
+(k-video-bug/) Tj
+T*
+(Last year, I repaired an NZXT Signal 4K30 USB capture device that I bought on eBay for cheap.) Tj
+T*
+(It was completely dead, and the cause turned out to be a bad solder joint on an inductor, which) Tj
+T*
+(prevented power from getting to a crucial part of the board. After I fixed it, I tried using) Tj
+T*
+([?]) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004799 00000 n 
+0000004925 00000 n 
+0000009668 00000 n 
+0000009794 00000 n 
+0000014467 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+14593
+%%EOF
