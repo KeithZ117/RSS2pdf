@@ -1,0 +1,420 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4487 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-15 13:55:49) Tj
+T*
+() Tj
+T*
+(1. The contagion of fear) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-14T21:18:13+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/) Tj
+T*
+(The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob) Tj
+T*
+(Coxon confirming that many Anthropic researchers believe AI "could kill us all by the end of) Tj
+T*
+(the decade". Bryan shares a story of his own youthful mistakes causing unjustified panic among) Tj
+T*
+(less technical peers, and warns against doing the same: These ghoulish claims strike brazenly) Tj
+T*
+(at the hearth, and given the obvious importance of AI, it is unsurprising that they have leapt) Tj
+T*
+(into the mainstream, with people asking the natural question: how would that happen? The) Tj
+T*
+(answers always rely on hand-wavy extrapolation into the future; for example, Jacob Coxon cites) Tj
+T*
+("hacking critical infrastructure" and "extinction-level bioweapons" without further) Tj
+T*
+(elaboration. But Coxon is not an expert on critical infrastructure, nor on bioweapons ? nor,) Tj
+T*
+(for that matter, on extinction. [...] That said, we should not expect the public to understand) Tj
+T*
+(LLMs, critical infrastructure, bioweapons, extinction biology, etc. ? that burden must lie with) Tj
+T*
+(those making the claim. The lesson that I learned \(shamefully\) decades ago is that domain) Tj
+T*
+(experts, by way of their expertise, implicitly hold the public?s trust ? and we must n...) Tj
+T*
+() Tj
+T*
+(2. What blog posts influenced your thinking the most?) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-14T20:21:48+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/14/influences/) Tj
+T*
+(My comment on What blog posts influenced your thinking the most? ? Lobste.rs. An early Joel) Tj
+T*
+(Spolsky one for me was The Law of Leaky Abstractions . I read that near the start of my career) Tj
+T*
+(and it's encouraged me to always be looking for improved understanding of the layers under) Tj
+T*
+(where I'm working, just in case one of those abstractions leaks. A more recent one, from 2018,) Tj
+T*
+(is Migrations: the sole scalable fix to tech debt by Will Larson. I absolutely love his idea) Tj
+T*
+(that migrations \(e.g. replacing one service with a new one, or switching database engines, or) Tj
+T*
+(whatever\) are part and parcel of software engineering and are a skill that you should invest in) Tj
+T*
+(and get good at, not avoid or treat as special one-offs. The Engineer/Manager Pendulum by) Tj
+T*
+(Charity Majors was hugely influential for me. I was stuck in engineering management and worried) Tj
+T*
+(that if I switched back to being an "Individual Contributor" \(ugh I hate that term\) I'd damage) Tj
+T*
+(my career. Charity gave me permission to make the switch by pointing out that many of the most) Tj
+T*
+(successful software developers pendulum from one track to the other multiple times over their) Tj
+T*
+(career, and doing so makes you better at both sides. Tags: joel-spolsky ,...) Tj
+T*
+() Tj
+T*
+(3. Quoting Laurie Voss) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-14T14:34:29+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/14/laurie-voss/) Tj
+T*
+(The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is) Tj
+T*
+(following, and I'm assuming it gets there. What's left of making software is finding out what) Tj
+T*
+(people actually want, defining it precisely, and making it pleasant to use. That cost is per) Tj
+T*
+(piece of software and doesn't transfer, so as the amount of software goes to infinity, which it) Tj
+T*
+(will because there's no ceiling on demand, that cost becomes the whole job. ? Laurie Voss , We) Tj
+T*
+(are all Product Engineers now Tags: laurie-voss , generative-ai , agentic-engineering , ai ,) Tj
+T*
+(llms , deep-blue , careers) Tj
+T*
+() Tj
+T*
+(4. Why didn?t Read≠Directory≠ChangesW provide a way to correlate the two sides of a rename) Tj
+T*
+(operation?) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 14 Sep 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260914-00/?p=112696) Tj
+T*
+(Perhaps it wasn't necessary, or perhaps it didn't occur to them that this a problem. The post) Tj
+T*
+(Why didn?t Read≠Directory≠ChangesW provide a way to correlate the two sides of a rename) Tj
+T*
+(operation? appeared first on The Old New Thing .) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4234 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(5. How can I remove the Close button from my window caption?) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 11 Sep 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260911-00/?p=112691) Tj
+T*
+(Not through normal means. The post How can I remove the Close button from my window caption?) Tj
+T*
+(appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(6. Apple?s 27.0 OS Updates) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-14T19:41:41Z) Tj
+T*
+(Link: https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/) Tj
+T*
+(Armin Briegel at Scripting OS X has compiled links for all the release notes for all of today?s) Tj
+T*
+(OS updates \(features, developer, security\). In addition to the 27.0 updates, Apple also) Tj
+T*
+(released 26.7 updates and MacOS 15.8 Sequoia. Big day. ?) Tj
+T*
+() Tj
+T*
+(7. Dumpster Fire ? Litterbox-Inspired Extension for Firefox) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-14T14:47:43Z) Tj
+T*
+(Link: https://addons.mozilla.org/en-US/firefox/addon/dumpster-fire/) Tj
+T*
+(Miles Abbott: Open x.com links in a popup so you can read the one post and leave. Port of the) Tj
+T*
+(Litterbox Safari extension. Litterbox is a cleverer name, but Dumpster Fire is funnier. ?) Tj
+T*
+() Tj
+T*
+(8. XCancel Shuts Down Again) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-14T13:24:10Z) Tj
+T*
+(Link: https://xcancel.com/) Tj
+T*
+(XCancel: Unfortunately, due to a new development in the ongoing legal proceedings, we are) Tj
+T*
+(required to suspend this service again until further notice. We can?t share more details. Not) Tj
+T*
+(surprised, and not sure what to make of the ?can?t share more details? part. Again, if you want) Tj
+T*
+(to avoid visiting X but want to see the content posted there linked from other sites \(and,) Tj
+T*
+(let?s admit it at this point: there?s not just a lot posted on X, it is outright resurgent in) Tj
+T*
+(popularity\), install a browser extension like Litterbox \(Safari\) or Post Peek \(Chrome\). ?) Tj
+T*
+() Tj
+T*
+(9. Interpreting Pangram) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-09-14T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/) Tj
+T*
+(Yesterday David Sacks wrote a tweet and within a few minutes people did, what they usually do,) Tj
+T*
+(and they asked Pangram if it was AI. And Pangram said it?s entirely AI generated . To which) Tj
+T*
+(David replied that these AI detectors are bogus . Now Pangram has a pretty low false positive) Tj
+T*
+(rate, but if you have ever used an LLM as a writing assitant, you will have probably noticed) Tj
+T*
+(that it claims your posts 100% AI, even though you don?t feel like they are. Pangram itself is) Tj
+T*
+(a trained model, that attempts to detect segments of text as being definitely human, definitely) Tj
+T*
+(AI and a mixture of the two. If you want to know how it works, they published a paper . The) Tj
+T*
+(short summary is that they are manufacturing its own training data by starting from collections) Tj
+T*
+(of known human authored text. An LLM is then tasked to understand the text and write a fresh) Tj
+T*
+(new text on the same topic. They also let the LLM perform partial edits on that original human) Tj
+T*
+(text and through that they can pick up on these co-authored details. Pangram claims their model) Tj
+T*
+(to have rates of 0.0041% false AI accusations and 0.34% missed AI text. So now that we know) Tj
+T*
+(this I figured it might be fun to have an LLM re-create David?s tweet....) Tj
+T*
+() Tj
+T*
+(10. Guessing the meaning of a number) Tj
+T*
+(Source: John D. Cook | Published: Mon, 14 Sep 2026 10:44:45 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/09/14/guessing-the-meaning-of-a-number/) Tj
+T*
+(Suppose I give you an n-digit number and ask you what it represents. This seems impossible, and) Tj
+T*
+(in theory it is impossible. But in practice it?s often possible. Apps on a phone may) Tj
+T*
+(automatically interpret a 10-digit number as a phone number or a 16-digit number as a package) Tj
+T*
+(tracking number. And very often these interpretations are [?] The post Guessing the meaning of) Tj
+T*
+(a number first appeared on John D. Cook .) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4169 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(11. Esoteric HTML - ismap vs CSS) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 14 Sep 2026 11:34:53 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/) Tj
+T*
+(The HTML specification is old and, while there is beauty in longevity, there's an inevitable) Tj
+T*
+(build-up of boondoggles and baggage. Some elements like have sadly been consigned to the) Tj
+T*
+(dustbin of history - but there are still vestigial attributes just waiting to trip up the) Tj
+T*
+(unwary. If you're young, you may never have heard of Image Maps. Back in the bad-old-days,) Tj
+T*
+(there weren't many good?) Tj
+T*
+() Tj
+T*
+(12. The expectations of privacy in driverless cars) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 13 Sep 2026 11:34:13 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/) Tj
+T*
+(Do riders in autonomous vehicles think that they are in a private space? Here's a fascinating) Tj
+T*
+(story from California where an robotaxi was redirected from its intended destination and,) Tj
+T*
+(instead, delivered its misbehaving passengers to the police. The 15-year-old passengers were) Tj
+T*
+(riding in a driverless autonomous car around San Mateo Monday afternoon. The teens drank) Tj
+T*
+(alcohol inside the Waymo taxi?) Tj
+T*
+() Tj
+T*
+(13. AI Is Already In Dangerous Hands) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Mon, 14 Sep 2026 16:23:50 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/ai-is-already-in-dangerous-hands/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter, and you can subscribe) Tj
+T*
+(on the following links: $70 a year , $18 a quarter , or $7 a month . In return you get a weekly) Tj
+T*
+(newsletter that?s usually anywhere from 10,000 to 18,) Tj
+T*
+() Tj
+T*
+(14. alt.time-capsule.reopened) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-09-15T02:58:29Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17462130/usenet-rewind-archive-revival-website) Tj
+T*
+(A new tool for digging into Usenet history holds much potential for researchers. But it?s also) Tj
+T*
+(a reminder that many users thought, at the time, that it was ephemeral. \(They were wrong.\)) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: But do you use keyboard shortcuts? \(14 Sep 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 14 Sep 2026 11:02:27) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/09/14/cult-taylorism/) Tj
+T*
+(Today's links But do you use keyboard shortcuts?: AI people are WEIRD. Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: "Changeling"; Sony Rootkit vs CD drives; Google's) Tj
+T*
+(scumbag lobbyists; NJ's e-voting coverup; Spying sex toys; Scott Walker dark money leak;) Tj
+T*
+("REAMDE"; Snowden's pardon. Upcoming appearances: Budapest, Edmonton, South Bend, Hudson,) Tj
+T*
+(Calgary, Winnipeg, Vancouver, Victoria, Ottawa. Recent appearances: Where I've been. Latest) Tj
+T*
+(books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep) Tj
+T*
+(writin' 'em. Colophon: All the rest. But do you use keyboard shortcuts? \(permalink\) Of all the) Tj
+T*
+(weird recurring motifs of the stories people tell me about the AI labor wars, the weirdest is) Tj
+T*
+(when bosses demand to be reassured that their contractors and workers will absolutely use AI to) Tj
+T*
+(get the job done. That's weird for the obvious reason that for most people "AI" is a synonym) Tj
+T*
+(for "low quality." No one ever said "My kid's math teacher was replaced with AI" in a happy) Tj
+T*
+(tone of voice. No one ever said, "Oh, great, they replaced their customer service department) Tj
+T*
+(with AI chatbots!" My teenager and her friends use "That's so AI" as a shorthand for "That's) Tj
+T*
+(l...) Tj
+T*
+() Tj
+T*
+(16. Hoe wordt de overheid weer 'van de IT'?) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 14 Sep 2026 14:45:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/hoe-word-je-weer-van-de-it/) Tj
+T*
+(De korte versie: De Nederlandse overheid ?is niet \(echt\) van de IT?, en legt vrijwel altijd) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 480 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(haar oor direct of indirect te luisteren bij een door big-tech gedomineerd ecosysteem om te) Tj
+T*
+(bepalen wat te doen. En daardoor valt de keuze vrijwel altijd weer op Amerikaanse platformen,) Tj
+T*
+(gerund door derden, onder Amerikaans \(afluister\)recht. En tegenwoordig ook vol met AI \(of je) Tj
+T*
+(nou wilt of niet\). Om weer grip op IT te krijgen, en een eigen en autonomer pad te kiezen, moet) Tj
+T*
+(er een hoop veranderen.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004749 00000 n 
+0000004875 00000 n 
+0000009161 00000 n 
+0000009287 00000 n 
+0000013508 00000 n 
+0000013634 00000 n 
+0000014166 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14294
+%%EOF
