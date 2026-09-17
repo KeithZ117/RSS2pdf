@@ -1,0 +1,468 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4279 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-17 13:51:41) Tj
+T*
+() Tj
+T*
+(1. Data Broker Radaris Loses Domains in Privacy Fight) Tj
+T*
+(Source: Krebs on Security | Published: Wed, 16 Sep 2026 18:14:22 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/) Tj
+T*
+(The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove) Tj
+T*
+(personal information from its vast empire of people-search services online. That reputation) Tj
+T*
+(caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy) Tj
+T*
+(law that provides for hefty fines against data brokers that publish personal information on) Tj
+T*
+(state law enforcement officials. In the face of repeated stonewalling and prevarication by) Tj
+T*
+(attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen) Tj
+T*
+(other data broker domains be transferred to the plaintiffs.) Tj
+T*
+() Tj
+T*
+(2. datasette 1.0a40) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-16T23:51:43+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/16/datasette/) Tj
+T*
+(Release: datasette 1.0a40 Same security fix as 0.65.5 , plus some neat new features and bug) Tj
+T*
+(fixes: Plugins can now launch and manage background tasks using the new) Tj
+T*
+(datasette.add_background_task\(\) method. Thanks, Alex Garcia . I've migrated Datasette to httpx2) Tj
+T*
+(for features like the internal datasette.client.get\(\) method. A whole lot of bug fixes , many) Tj
+T*
+(of them stemming from a recent effort to triage issues for a 1.0 stable release. Tags: security) Tj
+T*
+(, datasette) Tj
+T*
+() Tj
+T*
+(3. datasette 0.65.5) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-16T23:51:08+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/16/datasette-2/) Tj
+T*
+(Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested) Tj
+T*
+(table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in) Tj
+T*
+(GHSA-h547-rmjf-5m2m . Tags: security , datasette) Tj
+T*
+() Tj
+T*
+(4. Claude Cowork and chat are now one Claude) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-16T18:09:49+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/16/one-claude/) Tj
+T*
+(Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was) Tj
+T*
+(increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and) Tj
+T*
+(chat are merging into one Claude. Bring a quick question, or hand over a report due at noon,) Tj
+T*
+(and Claude takes it from there, even after you?ve closed your laptop. [...] This is rolling out) Tj
+T*
+(to Pro and Max plans first, in the Claude app on web, desktop, and mobile over the coming weeks) Tj
+T*
+(to existing and new users on these plans. I guess this means Claude is becoming a general agent) Tj
+T*
+(in its own right. Echoes of OpenAI renaming their Codex desktop app to ChatGPT a few weeks ago.) Tj
+T*
+(On the one hand, this saves me some work, in that I was planning to finally figure out the) Tj
+T*
+(boundaries between Cowork and regular Claude and write a follow-up to my piece on Understanding) Tj
+T*
+(ChatGPT Work . I have a hunch that figuring out what this actually means in terms of features) Tj
+T*
+(and surfaces is still going to take quite a bit of work. Via Hacker News Tags: ai ,) Tj
+T*
+(generative-ai , llms , anthropic , claude , general-agents) Tj
+T*
+() Tj
+T*
+(5. Jev means structured output is interesting again) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Wed, 16 Sep 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/jev-means-structured-output-is-interesting-again/) Tj
+T*
+(I don?t write blog posts about new models. That?s Simon Willison?s beat, and he?s very good at) Tj
+T*
+(it. But I want to write about Jev , which is a different kind 1 of AI model: a ?System One? 2) Tj
+T*
+(model. As it turns out, it?s not that different from an ordinary LLM with structured output,) Tj
+T*
+(but the interface it uses is very cool and I hope it becomes more widespread. How Jev is) Tj
+T*
+(different from LLMs Ordinary LLMs take in some human-language prompt and produce some) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4307 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(human-language output. They do so autoregressively : first they produce one token, then the) Tj
+T*
+(next, then the next, and so on. User: Who invented the sandwich? LLM: The sandwich was invented) Tj
+T*
+(by the Earl of Sandwich. This makes them extremely flexible, since they can do literally) Tj
+T*
+(anything a computer can do. But it also makes them slow and weird. Slow, because they have to) Tj
+T*
+(run a whole new generation pass per-token, and weird, because the space of human language is so) Tj
+T*
+(broad that you can get really odd behavior from a model trained on it. Jev takes a) Tj
+T*
+(human-language prompt, but it does not produce human-language output. It only produces) Tj
+T*
+(structured output. User: { state: "What color is the sky?", choices: ["blue", "red", "yellow"]) Tj
+T*
+(} Jev: { a...) Tj
+T*
+() Tj
+T*
+(6. Why do Microsoft job levels start in the high 50?s instead of starting at a sane number) Tj
+T*
+(like 1?) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 15 Sep 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260915-00/?p=112700) Tj
+T*
+(It used to start at 1, but that was the old system. The post Why do Microsoft job levels start) Tj
+T*
+(in the high 50?s instead of starting at a sane number like 1? appeared first on The Old New) Tj
+T*
+(Thing .) Tj
+T*
+() Tj
+T*
+(7. Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can?t Get Started on) Tj
+T*
+(Duo-Adapted Apps) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-16T22:40:41Z) Tj
+T*
+(Link: https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes) Tj
+T*
+(A note flagged ?Important? atop the Xcode 27.2 release notes: The iOS SDK and simulator support) Tj
+T*
+(for iPhone Duo will be available later this month in an upcoming release of Xcode 27.1.) Tj
+T*
+(Adapting apps for the Duo is not just a simple ?recompile with the new SDK?. It?s different.) Tj
+T*
+(For just about all apps it?s going to be a significant amount of work, and for some apps it?s) Tj
+T*
+(going to be a lot of work. But without Xcode 27.1, developers cannot get started. Developers) Tj
+T*
+(wanted this SDK a week ago. And when day one preorder buyers start using their Duos on October) Tj
+T*
+(23, they?re going to wish Apple had shipped this SDK last week too. ?) Tj
+T*
+() Tj
+T*
+(8. Is That a Duo in Ternus?s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-16T22:21:30Z) Tj
+T*
+(Link: https://x.com/DEADLINE/status/2099645816361332775) Tj
+T*
+(Note the reaction from the Deadline reporter. ?) Tj
+T*
+() Tj
+T*
+(9. Woz Launches Merch Store) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-16T21:38:27Z) Tj
+T*
+(Link: https://x.com/stevewoz/status/2100074363605397658) Tj
+T*
+(Steve Wozniak: I?ve decided it?s time to have a little more fun on X this year! ?? I get to) Tj
+T*
+(speak at some amazing events, meet fascinating people, hear great stories, and occasionally) Tj
+T*
+(find myself in places I never expected to be. So I figured? why not share some of those moments) Tj
+T*
+(here? He announced this on X, you will note, not ?social media?. ?) Tj
+T*
+() Tj
+T*
+(10. You can run git on object storage if you re-make packfiles) Tj
+T*
+(Source: Xe Iaso's blog | Published: Tue, 15 Sep 2026 00:00:00 GMT) Tj
+T*
+(Link: https://www.tigrisdata.com/blog/objgit-packfiles/) Tj
+T*
+(It sure seems that a bunch of companies are trying to ship a git product of some kind as of) Tj
+T*
+(late. Wonder why that is. Either way, I?m building a Git server backed by object storage as an) Tj
+T*
+(open-source project . It sounded simple enough to start: Git looks like a filesystem, so let?s) Tj
+T*
+(use a filesystem as a translation layer on top of object storage to make Git speak object) Tj
+T*
+(storage. This model worked? ok, I guess? But it didn?t work for real-world size repositories,) Tj
+T*
+(so I needed a different approach. Git stores everything in Objects , so why not store those as) Tj
+T*
+(objects in Tigris? Turns out Git packfiles and how they intersected with my \(admittedly) Tj
+T*
+(somewhat terrible\) filesystem shim were the main reason why it was slow. I ended up having to) Tj
+T*
+(invent my own packfile format with a columnar store that?s object storage native. This is the) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4200 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(fruit of all of my performance analysis, metrics annotations, and more Texas-style distributed) Tj
+T*
+(systems work than you can make your k8s cluster shake sticks at. This approach worked) Tj
+T*
+(surprisingly well for production-sized repositories, so I?m sticking with this new Packfile) Tj
+T*
+(format for now. It seems the least obtrusive change to make Git Objects feel like object...) Tj
+T*
+() Tj
+T*
+(11. Converting between cosine similarity and concentration ratio) Tj
+T*
+(Source: John D. Cook | Published: Wed, 16 Sep 2026 16:05:11 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/09/16/concentration-ratio/) Tj
+T*
+(I?ve written three posts on cosine similarity lately. The first looked at interpreting cosine) Tj
+T*
+(similarity. The second looked at an approximation related to the first. The third looked at how) Tj
+T*
+(ranking according to cosine similarity works better than cosine similarity itself. Normalized) Tj
+T*
+(word vectors are points on a high dimensional sphere, and geometry in high [?] The post) Tj
+T*
+(Converting between cosine similarity and concentration ratio first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Coffee + milk ? latte) Tj
+T*
+(Source: John D. Cook | Published: Wed, 16 Sep 2026 15:06:58 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/09/16/coffee-milk-latte/) Tj
+T*
+(Yesterday I wrote about the canonical example of how vector embeddings of words add: ?king? ?) Tj
+T*
+(?man? + ?woman? ? ?queen? This should be interpreted as saying that the word vector for king,) Tj
+T*
+(minus the word vector for man, plus the word vector for woman, is in some sense close to the) Tj
+T*
+(word vector for queen. This post will [?] The post Coffee + milk ? latte first appeared on John) Tj
+T*
+(D. Cook .) Tj
+T*
+() Tj
+T*
+(13. Fibonacci product) Tj
+T*
+(Source: John D. Cook | Published: Wed, 16 Sep 2026 12:04:09 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/09/16/fibonacci-product/) Tj
+T*
+(The product of four consecutive Fibonacci numbers equals the product of two consecutive) Tj
+T*
+(integers. For example, 3 × 5 × 8 × 13 = 39 × 40. I ran across this theorem in a note [1] that) Tj
+T*
+(says ?The product of any four consecutive Fibonacci numbers is twice a triangular number.?) Tj
+T*
+(Since triangular numbers have [?] The post Fibonacci product first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(14. How to get a DOI for your blog posts) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 16 Sep 2026 11:34:28 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/) Tj
+T*
+(Each new post on this blog now has a Digital Object Identifier. This post looks at the how and) Tj
+T*
+(the why of getting one, whether it is useful, and any issues you might experience if you go) Tj
+T*
+(down this path. Table of ContentsBackgroundGetting a DOI the easy wayLet's Go Rogue!Automatic) Tj
+T*
+(Submission of New ContentManual Submission of Old ContentGetting the DOIGenerating your own) Tj
+T*
+(DOIMaking the DOI?) Tj
+T*
+() Tj
+T*
+(15. Flock cameras are riddled with security vulnerabilities and hard-coded credentials) Tj
+T*
+(Source: micahflee | Published: Wed, 16 Sep 2026 20:48:47 GMT) Tj
+T*
+(Link: https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-co) Tj
+T*
+(ded-credentials/) Tj
+T*
+(This morning, DDoSecrets published an exciting new dataset: Filesystem images of the partitions) Tj
+T*
+(from an in-use Flock ALPR camera. 404 Media and Wired published a joint investigation into it.) Tj
+T*
+(I downloaded the dataset and am now thoroughly nerd-sniped. Hackers from a collective called) Tj
+T*
+(stegan0gram collected the data. ?) Tj
+T*
+() Tj
+T*
+(16. The LLMs yearn for the spines) Tj
+T*
+(Source: Computer Things | Published: Wed, 16 Sep 2026 19:58:30 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/the-llms-yearn-for-the-spines/) Tj
+T*
+(Earlier this year I worked on a couple of AI-generated TLA+ specifications, and one thing I've) Tj
+T*
+(noticed was that they all used the word "spine" somewhere. Then I saw some non-TLA+ public) Tj
+T*
+(projects use "spine" too and got curious if it was a new LLMism \(LLisM?\). If it is, we should) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2632 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(see it appear in a discontinuous jump in the number of code projects that use "spine". The) Tj
+T*
+(proper way to thoroughly explore this would be via the GitHub archive data dump but that'd take) Tj
+T*
+(forever and I have a full time job now. Instead, I'm going to use GitHub Search . We can't) Tj
+T*
+(filter code samples by date but can filter pull requests, which seems like an acceptable enough) Tj
+T*
+(proxy. Here's a graph of the number of public PRs each year with "spine" in the title: I) Tj
+T*
+(stopped 2026 at 2026-09-01, meaning the first nine months of this year have seen 20 times more) Tj
+T*
+("spine" PRs as all of 2025. Now it could be the case that that GitHub grew, like, a lot in the) Tj
+T*
+(last year. Maybe the 20x increase is due there being 20x as many pull requests. We can account) Tj
+T*
+(for this by comparing it against all public PRs : 1 If "spine" wasn't an LLisM, we would expect) Tj
+T*
+(only a 1.5xish increase from 2025, not a 20x increase. One other possible c...) Tj
+T*
+() Tj
+T*
+(17. Pluralistic: How an AI moratorium can save AI bosses \(16 Sep 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 16 Sep 2026 07:52:58) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/09/16/beggar-thy-neighbor/) Tj
+T*
+(Today's links How an AI moratorium can save AI bosses: If you can't impose switching costs,) Tj
+T*
+(just eliminate the competition. Hey look at this: Delights to delectate. Object permanence:) Tj
+T*
+(Flash Worms; This Film is Not Yet Rated; Libdem copyright sabotage; Religion worth more than) Tj
+T*
+(Big Tech; Geographic tubemap; Selective censorship resistance. Upcoming appearances: Budapest,) Tj
+T*
+(Edmonton, Boston, South Bend, Hudson, Calgary, Winnipeg, Vancouver, Victoria, Ottawa. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. How an AI) Tj
+T*
+(moratorium can save AI bosses \(permalink\) There's lots of reasons to believe the "hyperscaler") Tj
+T*
+(model of AI can never be profitable, and not just because of its gigantic expenditures and) Tj
+T*
+(negative unit economics \(the companies lose money with every new customer and every new use,) Tj
+T*
+(and they lose more money with each generation of their products\):) Tj
+T*
+(https://pluralistic.net/2025/09/27/econopocalypse/#subprime-intelligence The industry) Tj
+T*
+(strenuously denies this, of course. They insist that they are only days away from turning their) Tj
+T*
+(balance sheets right side up. All...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004541 00000 n 
+0000004667 00000 n 
+0000009026 00000 n 
+0000009152 00000 n 
+0000013404 00000 n 
+0000013530 00000 n 
+0000016215 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16343
+%%EOF
