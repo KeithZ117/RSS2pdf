@@ -1,0 +1,306 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4083 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-20 13:49:57) Tj
+T*
+() Tj
+T*
+(1. datasette-auth-github 1.0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-19T19:52:02+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/19/datasette-auth-github/) Tj
+T*
+(Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io) Tj
+T*
+(demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out) Tj
+T*
+(that the plugin was setting cookies without a Max-Age parameter, so they were expiring at the) Tj
+T*
+(end of a browser session \(which in Mobile Safari seems to happen pretty often, independently of) Tj
+T*
+(how you are using the app.\) I fixed that in #80 and, since this plugin has been around for) Tj
+T*
+(quite a while and is tested against both Datasette 0.65.x and Datasette 1.0ax, I decided to) Tj
+T*
+(bump it up to a 1.0 release. I'm trying to get better at promoting stable plugins to 1.0. Tags:) Tj
+T*
+(github , plugins , datasette) Tj
+T*
+() Tj
+T*
+(2. California Sea Lion, Brandt's Cormorant) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-19T17:10:08+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/19/sighting-401567341/) Tj
+T*
+(California Sea Lion, Brandt's Cormorant, in Pillar Point Harbor, CA, US I only noticed this) Tj
+T*
+(after I had taken the photo: Morris the Northern Gannet is peeking out from behind the base of) Tj
+T*
+(the sign. Tags: wildlife) Tj
+T*
+() Tj
+T*
+(3. The Creative Spirit of Who Framed Roger Rabbit) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-18T14:36:41+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/) Tj
+T*
+(The Creative Spirit of Who Framed Roger Rabbit I love Who Framed Roger Rabbit , the 1988 movie) Tj
+T*
+(by Robert Zemeckis. I haven't watched it in quite a few years, and Cypress Frankenfeld just) Tj
+T*
+(pointed out this sequence from early in the movie: It's a pelican riding a bicycle! Look) Tj
+T*
+(closely and you'll note that the pelican is animated while the bicycle is a real bicycle.) Tj
+T*
+(Apparently they filled the wheels with water to add stability, then set it running and guided) Tj
+T*
+(it with a cable. Cypress gathered more details on the scene. What a delight. Via) Tj
+T*
+(@cypressf.bsky.social Tags: animation , film , pelican-riding-a-bicycle) Tj
+T*
+() Tj
+T*
+(4. Tyler Stalman?s iPhone 18 Pro Camera Review) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-19T16:29:00Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=m6cDErtCKAc) Tj
+T*
+(Splendid video. Love that Stalman shot photos side-by-side with a film SLR using Kodak Portra) Tj
+T*
+(400, for comparison to Apple?s new film-look Photographic Styles. ?) Tj
+T*
+() Tj
+T*
+(5. Austin Mann?s iPhone 18 Pro Camera Review, From Dunton, Colorado) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-19T15:37:39Z) Tj
+T*
+(Link: https://www.austinmann.com/trek/iphone-18-pro-camera-review-dunton) Tj
+T*
+(Austin Mann: I?m here at the beautiful Dunton River Camp in southwest Colorado, where I?ve) Tj
+T*
+(spent the last week testing the new camera and features on the iPhone 18 Pro. Beyond the) Tj
+T*
+(variable aperture and Pro Controls, Apple also built in a bunch of other new features like) Tj
+T*
+(Photographic Styles 3 with film texture and grain control, 4K Time-lapse and Focus Tracking. As) Tj
+T*
+(always, when I start a field test I?m asking one question: How will this new tech make our) Tj
+T*
+(pictures and videos better? Outstanding example photos, a terrific video that illustrates how) Tj
+T*
+(some of the new ?pro controls? in the Camera app work, and some terrific examples of) Tj
+T*
+(Photographic Styles 3. \(I love how Mann takes these new phones to exotic locales around the) Tj
+T*
+(globe each year, and I take them to the hardware store .\) ?) Tj
+T*
+() Tj
+T*
+(6. Warren Buffett, at 96, Steps Down as Chairman at Berkshire Hathaway) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-18T19:29:12Z) Tj
+T*
+(Link: https://www.berkshirehathaway.com/news/sep1826.pdf) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4577 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Warren Buffett, in a letter to Berkshire shareholders: Recently, I celebrated my 96th birthday) Tj
+T*
+(with family and friends, including one of my great-grandchildren, who had just turned one. He?s) Tj
+T*
+(moving a bit faster than I am these days. [...] So the timing is right to complete the) Tj
+T*
+(transition. I will become Chairman Emeritus and remain a Director. My son, Howard, will succeed) Tj
+T*
+(me as Chairman. Howard has been a Berkshire Director for 33 years. That is a longer) Tj
+T*
+(apprenticeship than I served before taking the reins at the age of 34. Greg runs the company;) Tj
+T*
+(Howard will guard its culture and values ? both worth more than anything on our balance sheet.) Tj
+T*
+(Think of Howard as a policy the shareholders own and hope never to claim against. Not many) Tj
+T*
+(71-year-olds rise to the position of chairman at leading corporations. ?) Tj
+T*
+() Tj
+T*
+(7. Grit your teeth and ship it) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 20 Sep 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/grit-your-teeth-and-ship-it/) Tj
+T*
+(Being good at building and being good at shipping are two separate skills. In the short term,) Tj
+T*
+(they?re actually countervailing: if you have a gift for building, you?re likely to be worse at) Tj
+T*
+(shipping. Ira Glass has a classic quote about this. All of us who do creative work, we get into) Tj
+T*
+(it because we have good taste. But there is this gap. For the first couple years you make) Tj
+T*
+(stuff, it?s just not that good. It?s trying to be good, it has potential, but it?s not. But) Tj
+T*
+(your taste, the thing that got you into the game, is still killer. And your taste is why your) Tj
+T*
+(work disappoints you. The only way around this is to grit your teeth and ship it . You have to) Tj
+T*
+(force yourself to publish things you?ve made even when you think they?re crap. Programming) Tj
+T*
+(Gifted programmers have a nearly pathological desire to build elegant, correct, neat systems.) Tj
+T*
+(That?s what motivates them to learn the arcane details of their languages, or to spend time) Tj
+T*
+(polishing and refactoring over and over again. But it?s also what makes them reluctant to ship.) Tj
+T*
+(Any flaws in the software bother them on an emotional level. If they ship with those flaws,) Tj
+T*
+(they feel like people will think they weren?t paying enough attention to notic...) Tj
+T*
+() Tj
+T*
+(8. Finding Bugs) Tj
+T*
+(Source: matklad | Published: 2026-09-19T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/09/19/finding-bugs.html) Tj
+T*
+(Are generative \(randomized\) tests significantly more effective than example-based unit-tests at) Tj
+T*
+(discovering bugs? There's an interesting discussion about this on lobste.rs. One argument in) Tj
+T*
+(favor of unit tests is, paraphrasing) Tj
+T*
+() Tj
+T*
+(9. This Week in Package Management: 19 September 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-09-19T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/09/19/this-week-in-package-management.html) Tj
+T*
+(Week eighteen of the roundup, built from the package manager OPML feed collection and whatever) Tj
+T*
+(I?ve posted or boosted on Mastodon . I added nineteen feeds to the OPML this week, mostly) Tj
+T*
+(project blogs, plus GNU Guix, Zig and the Reproducible Builds monthly reports. Releases) Tj
+T*
+(Homebrew 7.0.0 overlaps package preparation with downloads for faster installs, sandboxes) Tj
+T*
+(formula and cask operations \(home-directory reads are blocked by default\), and adds brew vulns) Tj
+T*
+(, backed by a new CC0-licensed OSV-format advisory database. It also ships BrewUI, a native) Tj
+T*
+(macOS app for browsing and installing packages, drops macOS 10.15 support, and moves Intel Macs) Tj
+T*
+(to Tier 3. Patch releases through 7.0.4 fix Perl bottle relocation under the shorter prefix and) Tj
+T*
+(restrict which files are verified when tapping. Swift 6.4 makes Swift Build the default build) Tj
+T*
+(system in SwiftPM and adds SBOM generation in SPDX and CycloneDX formats via SE-0509 . pnpm) Tj
+T*
+(12.5 extends the Python support added in 12.4: each workspace project selects its own) Tj
+T*
+(interpreter against requires-python \(downloaded from python-build-standalone if missing\),) Tj
+T*
+(projects with a [build-system] install as editable, and a shared-environment setting resolves) Tj
+T*
+(m...) Tj
+T*
+() Tj
+T*
+(10. Reading List 09/19/2026) Tj
+T*
+(Source: Construction Physics | Published: Sat, 19 Sep 2026 12:03:09 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-09192026) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 776 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(AirBnB?s housing accelerator, rising steel prices, a resurgence of US coal power, low-head) Tj
+T*
+(dams, and more.) Tj
+T*
+() Tj
+T*
+(11. Notes on discrete-time Fourier series and transform) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-09-19T09:39:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/) Tj
+T*
+(The following are my notes on discrete-time Fourier series \(DTFS\), as well as the discrete-time) Tj
+T*
+(Fourier transform \(DTFT\). These topics serve as an important theoretical underpinning to the) Tj
+T*
+(digital processing of signals by computers using the DFT \(which will be covered in a future) Tj
+T*
+(post\). For discrete-time signals, we use ?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004338 00000 n 
+0000004464 00000 n 
+0000009093 00000 n 
+0000009219 00000 n 
+0000010046 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+10172
+%%EOF
