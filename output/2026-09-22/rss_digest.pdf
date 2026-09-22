@@ -1,0 +1,476 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4176 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-22 13:55:07) Tj
+T*
+() Tj
+T*
+(1. Raspberry Pi locks down Pi 5 RAM upgrades in firmware) Tj
+T*
+(Source: Jeff Geerling | Published: Mon, 21 Sep 2026 12:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/) Tj
+T*
+(Raspberry Pi added a feature in their firmware that restricts users from swapping RAM chips ,) Tj
+T*
+(sometimes even RAM chips of the same capacity from other Raspberry Pi boards. Apparently there) Tj
+T*
+(were people buying cheap 1 or 2 gig Pi 5s, soldering in some cheap and sometimes unreliable 8) Tj
+T*
+(gig RAM chips, and selling them as new 8 gig Pi 5s . Now I totally understand where Raspberry) Tj
+T*
+(Pi's coming from. They don't wanna support Pis being sold like this, because flaky RAM and) Tj
+T*
+(dodgy resellers are a huge problem. Especially with how profitable can be in the current AI) Tj
+T*
+(bubble.) Tj
+T*
+() Tj
+T*
+(2. [Sponsor] Mux: Turn Your Video Into Context) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-21T23:04:15Z) Tj
+T*
+(Link: https://www.mux.com/?utm_campaign=fireball&utm_source=DF) Tj
+T*
+(Video isn?t just something to stream; it?s structured data you build with. Mux Robots, hosted) Tj
+T*
+(AI workflows, turns video into context. Generate chapters, find key moments, translate audio,) Tj
+T*
+(and more, through one API call, with no model hosting to maintain. Each workflow is evaluated) Tj
+T*
+(against real video, not generic benchmarks. Configure the workflows once, and every new upload) Tj
+T*
+(runs automatically. Mux is video infrastructure trusted by Patreon, Substack, and Perplexity.) Tj
+T*
+(Start building for free. Use code FIREBALL for an extra $50 credit. ?) Tj
+T*
+() Tj
+T*
+(3. Lex Friedman Brings Back Strategery) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-21T22:52:44Z) Tj
+T*
+(Link: https://lexontech.org/strategery-is-back-and-im-the-developer) Tj
+T*
+(I first recommended Strategery back in May 2009 , including a link to Friedman?s review at) Tj
+T*
+(Macworld . I described it thus: Strategery is a beautiful $2 Risk-like strategy game for the) Tj
+T*
+(iPhone. Lots of fun and the gameplay has a great feel. Still lots of fun and still has a great) Tj
+T*
+(feel. It now costs $5 , but, if you?re an existing user ? even if you only paid $2 back when I) Tj
+T*
+(told you to 17 years ago ? it?s a free update. And it?s a great story: the original Strategery) Tj
+T*
+(game finally gave up the compatibility ghost with iOS 27 . Friedman made his own version of the) Tj
+T*
+(game, including multiplayer support, but before releasing it on his own under a new name, he) Tj
+T*
+(reached out to the original developers and it turns out everyone was happy to make a deal.) Tj
+T*
+(Sometimes all you need to do is ask. \(First thing you should do after installing the new) Tj
+T*
+(version is go into settings and turn on ?Classic Hex Edges?. The default style ? Lex edges? ?) Tj
+T*
+(doesn?t look right.\) ?) Tj
+T*
+() Tj
+T*
+(4. GM Confirms They?re Still Smoking Crack) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-21T21:52:50Z) Tj
+T*
+(Link: https://x.com/JoannaStern/status/2102105565195288859) Tj
+T*
+(Joanna Stern, on X: GM has confirmed it is NOT rolling phone projection to GM EVs. Instead this) Tj
+T*
+(announcement is specific to JUST their new gas powered light-duty pickups, which have always) Tj
+T*
+(supported Apple CarPlay and Android Auto. ?) Tj
+T*
+() Tj
+T*
+(5. It's Not Just True, It's False) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Tue, 22 Sep 2026) Tj
+T*
+(01:49:51 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/its-not-just-true-its-false) Tj
+T*
+(We?ve given in to using LLMs for writing at work. From emails and Slack comments to full-on) Tj
+T*
+(documentation, everything is AI-generated. However, I?ve realized it only ever saves me time) Tj
+T*
+(when I?m being lazy. That is, it?s great at converting meetings into transcripts, summarizing) Tj
+T*
+(those transcripts into action items, and keeping information accessible. But it?s pretty bad) Tj
+T*
+(because the result is ridden with invisible errors. But what counts as an error if you trust) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4764 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(the LLM and never meticulously read the output? And how much time are you really saving if you) Tj
+T*
+(end up spending that time proofreading? I went back to a meeting transcript after a developer) Tj
+T*
+(struggled to turn my AI-generated summary into a coherent ticket. Looking through the source) Tj
+T*
+(transcript, I noticed that at one point it recorded the word "embroidery." I mean, we work for) Tj
+T*
+(a large telecom company, the chances of me using that word are slim to none. Nevertheless, the) Tj
+T*
+(AI summarized the conversation and included "embroidery" as an action item. In the words of) Tj
+T*
+(Claude himself: It's not just true, it's false. I chuckled, but it made me think about all the) Tj
+T*
+(BI slop we generate daily in the name of using AI technology. It feels help...) Tj
+T*
+() Tj
+T*
+(6. What?s the highest legal FILETIME? Is it safe to use?) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 21 Sep 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711) Tj
+T*
+(Being wary of how people use it and how it interacts with other types. The post What?s the) Tj
+T*
+(highest legal FILETIME ? Is it safe to use? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(7. Comparing exception behavior of magic statics, std::call_once, and std::async) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 18 Sep 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260918-00/?p=112709) Tj
+T*
+(Do you try again or give up? The post Comparing exception behavior of magic statics, std::) Tj
+T*
+(call_ once , and std:: async appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Jev introduces a new shape of LLM - System One, aka Decision Models) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-21T23:09:20+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/21/jev/) Tj
+T*
+(Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they) Tj
+T*
+(are calling "System One models" \(I'm with Maggie Appleton, I think "decision models" is a) Tj
+T*
+(better name for these\). Jev is an interesting variant on the usual LLM format: it still accepts) Tj
+T*
+(text inputs, but instead of text output it returns floating point numbers corresponding to) Tj
+T*
+(categories, yes/no questions, ratings, and associated confidence scores. TypeSafe describe Jev) Tj
+T*
+(like this: Think of Jev as a frontier-intelligence function call: unstructured state in, typed) Tj
+T*
+(probabilistic decisions out. It's also very fast, and really cheap . Regular LLMs are priced in) Tj
+T*
+(terms of input and output tokens, with output generally charged at significantly higher rates.) Tj
+T*
+(Jev charges only for input - output is free - and the input price of their first model is) Tj
+T*
+($0.042 per million tokens - cheaper even than OpenAI's GPT-5 Nano \($0.05/million\). Jev lets you) Tj
+T*
+(ask questions about text or semi-structured data. You compose a "state" object containing a) Tj
+T*
+(string, array of strings, or set of name-value pairs - this might describe an article, or a) Tj
+T*
+(customer, or any other kind of record. You then send that to their API with o...) Tj
+T*
+() Tj
+T*
+(9. Cloudflare Python Workers are now generally available) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-21T22:25:44+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/) Tj
+T*
+(Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's) Tj
+T*
+(support for running Python code in their server-side Workers platform is now stable: "Python is) Tj
+T*
+(now a first-class, fully supported language on the Cloudflare Developer Platform". A neat thing) Tj
+T*
+(about this is how it works. Cloudflare are running Python compiled to WebAssembly via Pyodide) Tj
+T*
+(in their V8-based workerd runtime. This comes with some limitations, documented here - most) Tj
+T*
+(notably both multiprocessing and threading are non-functional in the WebAssembly VM. One) Tj
+T*
+(particularly interesting detail of this is the local development environment story - their) Tj
+T*
+(pywrangler development tool \(confusingly packaged as workers-py on PyPI\) runs a full local) Tj
+T*
+(simulation of their stack, including executing code with Pyodide in WebAssembly in V8 in a) Tj
+T*
+(123MB workerd binary, which for me ended up in) Tj
+T*
+(node_modules/@cloudflare/workerd-darwin-arm64/bin/workerd . Python Workers represent a) Tj
+T*
+(significant investment in the wider Python ecosystem by Cloudflare. The release announcement is) Tj
+T*
+(credited to Gyeongjae Choi, Dominik Picheta, and Hood Chatham - Gyeongjae and Hood are both) Tj
+T*
+(Pyodide core maintainers. Via Hacker News Ta...) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4184 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(10. MCP was always a bad idea?) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-20T20:24:41+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/20/hn-49779718/) Tj
+T*
+(My comment on MCP was always a bad idea? ? Hacker News. This article entirely misses the value) Tj
+T*
+(that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a) Tj
+T*
+(full-blown terminal agent \(Claude Code, Codex, Meta Muse, OpenClaw etc\) with unfettered) Tj
+T*
+(internet access - just let it call APIs directly. If you want to operate something that's less) Tj
+T*
+(YOLO than that, you'll find yourself wanting: Control over exactly which external services it) Tj
+T*
+(can access A way to handle authentication that doesn't allow the agent to directly access API) Tj
+T*
+(keys A sensible UI to allow users to connect and authenticate further services Strong audit) Tj
+T*
+(logging for what's going on MCP makes all of that so much easier to provide. Thinking MCP is) Tj
+T*
+(obsolete because full coding agents don't need it misses out on all of the other things we) Tj
+T*
+(might want to build. Tags: hacker-news , model-context-protocol) Tj
+T*
+() Tj
+T*
+(11. Haversine law) Tj
+T*
+(Source: John D. Cook | Published: Mon, 21 Sep 2026 23:13:22 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/09/21/haversine-law/) Tj
+T*
+(Suppose you want to solve a triangle. You know two sides and the angle between them. Then you) Tj
+T*
+(can solve for the third side using the law of cosines. Now suppose you want to solve a big) Tj
+T*
+(triangle, a triangle on the surface of the earth so large that the curvature of the earth) Tj
+T*
+(matters. You [?] The post Haversine law first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Abusing CD-Rs, DVD-Rs, and BD-Rs for Science) Tj
+T*
+(Source: Jayden?s Blog | Published: 2026-09-05T11:41:00+00:00) Tj
+T*
+(Link: https://jayd.ml/2026/09/05/burned-media-torture-test.html) Tj
+T*
+(I?ve been on an optical media kick lately, having a grand old time burning discs and whatnot.) Tj
+T*
+(One bit of advice that consistently comes up: don?t let your burned discs get exposed to) Tj
+T*
+(sunlight; the dye layer is UV after all, and since the sun is a deadly laser it can damage your) Tj
+T*
+(precious bits. Naturally, this advice needs to be tested to determine what actually happens if) Tj
+T*
+(you disregard it. I had a friendly LLM shart out some scripts to generate max-size iso images) Tj
+T*
+(and sha256sum them from the disc, and burned using k3b: Verbatim CD-R \(at max speed, 40x\)) Tj
+T*
+(Verbatim CD-RW \(at max speed, 40x\) Verbatim DVD-R \(at max speed, 16x\) I also have a second) Tj
+T*
+(DVD-R that long story short had 615 buffer underruns while burning. It passed verification, but) Tj
+T*
+(it seemed like a poor test subject. I exposed it though because it would be interesting if) Tj
+T*
+(using Burnfree made it degrade faster Verbatim BD-R \(at max speed, 12x\) The CD and DVD were) Tj
+T*
+(burned with a brand new \(old stock\) Hitachi-LG data storage GHD0N , the Blu-ray with a brand) Tj
+T*
+(new LG WH16NS60 . The blanks were also just purchased from Amazon, so hopefully they are fresh.) Tj
+T*
+(I verified each burn with k3b as well as my slop-script, and placed them in a zipl...) Tj
+T*
+() Tj
+T*
+(13. Writing Rust code that's faster than state-of-the-art libraries by asking agents to) Tj
+T*
+(make the code faster) Tj
+T*
+(Source: Max Woolf's Blog | Published: Mon, 21 Sep 2026 09:30:00 -0700) Tj
+T*
+(Link: https://minimaxir.com/2026/09/agentic-iteration/) Tj
+T*
+(c?mon, try doing a breakthrough) Tj
+T*
+() Tj
+T*
+(14. Cursed Napster) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-09-21T14:38:49Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17468568/napster-ai-pivot) Tj
+T*
+(If you haven't looked at the Napster website lately, get ready for some major AI-related) Tj
+T*
+(indigestion. The former music-sharing rebel is now peddling AI digital twins of teachers and) Tj
+T*
+(serving the Saudi market.) Tj
+T*
+() Tj
+T*
+(15. A Great Story Capturing the Essence of Being Online in 2026) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Mon, 21 Sep 2026 19:00:00 GMT) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2972 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://blog.jim-nielsen.com/2026/online-in-2026/) Tj
+T*
+(I made a note of it , but Bryan Cantrill wrote a post about the ex-Anthropic employee who) Tj
+T*
+(pegged the probability of AI killing humanity in the next decade at >10%. The article is a good) Tj
+T*
+(one and you should read it, but what I want to capture here is a side story from Cantrill on) Tj
+T*
+(the Oxide and Friends podcast where he talks about how proud he was of this phrase from his) Tj
+T*
+(post: ?These ghoulish claims strike brazenly at the hearth?? . He notes that someone online) Tj
+T*
+(commented on that phrase, saying it sounded like a mix of classic literature and a line from) Tj
+T*
+(The Simpsons . Amused, Cantrill says he came up with the line all by himself, so he knew it) Tj
+T*
+(wasn?t a classic literature reference nor a line from The Simpsons . But just to be sure, he) Tj
+T*
+(Google?d it: ?These ghoulish claims strike brazenly at the hearth? with ?The Simpsons? tagged) Tj
+T*
+(on to the end. To his surprise, Google?s AI told him that the line was, in fact, a line from) Tj
+T*
+(The Simpsons . Here?s Google?s response \(as reported by Cantrill\): During the Springfield) Tj
+T*
+(mayoral debate on Channel 6, Sideshow Bob dramatically delivers the line ?these ghoulish claims) Tj
+T*
+(strike brazenly at the hearth of Springfield? while turning the debate against Mayor...) Tj
+T*
+() Tj
+T*
+(16. Pluralistic: The Claude Delusion \(21 Sep 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 21 Sep 2026 11:24:31) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/09/21/sunsetting/) Tj
+T*
+(Today's links The Claude Delusion: What if we're the ones having hallucinations? Hey look at) Tj
+T*
+(this: Delights to delectate. Object permanence: 9/11 v sex; 9/11 v flags; US customs v) Tj
+T*
+(diplomatic Vegemite; CIA torture survivors speak; HP's inky timebomb; "The Raven" pop-up; Forex) Tj
+T*
+(v Zimbabwe's internet; Shirky v "expert Wikipedia": McSweeney's v RIAA; Italy's internet) Tj
+T*
+(disconnection law; Facehugger mask; "Goliath"; Netzpolitik v German surveillance; Ted Cruz v) Tj
+T*
+(internet founders; Epipencil; Framework laptops; "The Actual Star;" Pilots tell passengers to) Tj
+T*
+(tackle suspected terrorists; $2000 rotary phone; French DRM activists demand arrest; US child) Tj
+T*
+(rearing costs up 40%; Calyx beats telcos; Wells Fargo whistleblower retaliation; David) Tj
+T*
+(Graeber's "Mutual Aid"; Still censorship \(even if it's not a First Amendment violation\).) Tj
+T*
+(Upcoming appearances: Berkeley, Edmonton, Boston, South Bend, Hudson, Calgary, Winnipeg, Paris,) Tj
+T*
+(Vancouver, Victoria, Ottawa, Kilkenny, Montreal. Recent appearances: Where I've been. Latest) Tj
+T*
+(books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep) Tj
+T*
+(writin' 'em. Colophon: All the rest. The Claude Delusion \(permalink\) One of the less) Tj
+T*
+(remarked-upon...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004438 00000 n 
+0000004564 00000 n 
+0000009380 00000 n 
+0000009506 00000 n 
+0000013742 00000 n 
+0000013868 00000 n 
+0000016893 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+17021
+%%EOF
