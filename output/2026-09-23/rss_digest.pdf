@@ -1,0 +1,542 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4606 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-23 13:36:09) Tj
+T*
+() Tj
+T*
+(1. SF October 14th: A Birds of a Feather Session on Agentic Engineering) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-23T02:53:19+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/) Tj
+T*
+(SF October 14th: A Birds of a Feather Session on Agentic Engineering I'm hosting an evening) Tj
+T*
+(event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building) Tj
+T*
+(weird and interesting things with and on top of coding agents. Think of it as an agentic) Tj
+T*
+(show-and-tell: ?Compare notes with other builders and experimenters on things you?re trying,) Tj
+T*
+(what you're learning, and what you haven?t figured out yet. We?re especially interested in work) Tj
+T*
+(you haven?t discussed publicly, odd experiments, or unfinished projects that don?t have an) Tj
+T*
+(obvious market. ?Expect one flowing conversation with an informal show-and-tell. Sharing) Tj
+T*
+(something you?re working on is encouraged but no presentation is required. This isn't about) Tj
+T*
+(product pitches, it's about much earlier explorations than that. This agentic AI stuff is) Tj
+T*
+(weird! Let's celebrate and lean into that weirdness. Tags: events , ai , generative-ai , llms ,) Tj
+T*
+(coding-agents , jesse-vincent , agentic-engineering) Tj
+T*
+() Tj
+T*
+(2. Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-22T23:46:41+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/) Tj
+T*
+(Yesterday was Grok 4.7 \( pelicans \) and MiMo v2.6 Flash/Pro \( more pelicans \). Today Anthropic) Tj
+T*
+(released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna .) Tj
+T*
+(It's going to take a while to get a good read on all of these new models, but here are my) Tj
+T*
+(impressions so far. GPT-6 Sol and Luna are half the price of their GPT-5.6 equivalents GPT-5.6) Tj
+T*
+(Luna was already my favorite model for building applications against, because it combined) Tj
+T*
+(excellent performance with being really cheap . Somehow GPT-6 Luna is half the price of that) Tj
+T*
+(again - and GPT-6 Sol had a similar reduction compared to GPT-5.6 Sol. Here's what the pricing) Tj
+T*
+(landscape looks like today: Model Input Cached input Output GPT-6 Luna $0.10/M $0.01/M $0.50/M) Tj
+T*
+(GPT-5.6 Luna $0.20/M $0.02/M $1.20/M Grok 4.7 $2/M $0.50/M $6/M GPT-6 Sol $2/M $0.20/M $10/M) Tj
+T*
+(GPT-5.6 Terra $2/M $0.20/M $12/M Claude Opus 5.5 $4/M $0.20/M $20/M GPT-5.6 Sol $4/M $0.40/M) Tj
+T*
+($20/M Claude Fable 5.1 $10/M $0.25/M $50/M GPT-6 Astra $10/M $1/M $50/M Note that GPT-5.6 has a) Tj
+T*
+(scheduled 25% price increase for November, so GPT-6 is half the price of the promotional) Tj
+T*
+(pricing for those models. \(With GPT-5.6 Terra priced the same as GPT-6 Sol, any...) Tj
+T*
+() Tj
+T*
+(3. llm 0.36) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-22T18:48:37+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/22/llm/) Tj
+T*
+(Release: llm 0.36 New OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna .) Tj
+T*
+(#1702 Model plugins can now declare supports_conversation = False for models that only accept) Tj
+T*
+(single-turn prompts. LLM raises llm.ConversationNotSupported when these models receive) Tj
+T*
+(assistant or tool history, and llm chat rejects them before starting a session. See Models that) Tj
+T*
+(do not support conversations . The first plugin to use this is llm-typesafe . #1692 Reasoning) Tj
+T*
+(traces in the Markdown output of llm logs are now wrapped in tags. #1701 Plus bug fixes from) Tj
+T*
+(five new contributors . Tags: openai , llm) Tj
+T*
+() Tj
+T*
+(4. Meta?s Muse Logomark, Designed by Jessica Hische) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-22T22:51:09Z) Tj
+T*
+(Link: https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/) Tj
+T*
+(Bill McCool, writing at Dieline: This past Wednesday, lettering artist, designer, and author) Tj
+T*
+(Jessica Hische took to Threads to announce that she had worked alongside Meta?s team to create) Tj
+T*
+(the icon and logotype for their agentic AI, Muse. Acknowledging that people would be ?mad) Tj
+T*
+(because it?s AI and Meta,? Hische sought to explain at least why she had taken the gig in the) Tj
+T*
+(first place. Obviously, she took some flak for working with Meta. While plenty of comments) Tj
+T*
+(voiced support, just as many chastised her for even considering the project, which I can mostly) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4613 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(sum up as a general narrative thread of ?How could you?? FWIW, it?s pretty rich to criticize) Tj
+T*
+(someone for working with Meta while you?re very much using a Meta product to issue said) Tj
+T*
+(criticism. But I digress. I like the Muse mark/icon . It?s both an obvious ?M? and yet at the) Tj
+T*
+(same time, not an ?M?. It?s friendly but not un-serious. And, as Meta chief AI officer Alexandr) Tj
+T*
+(Wang noted today on X \(not Threads\), it doesn?t look like a butthole . \(Yet Meta AI?s logo/icon) Tj
+T*
+(is a little butthole-y.\) ?) Tj
+T*
+() Tj
+T*
+(5. Meta?s New Muse AI Agent Read Jason Aten?s Messages Database) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-22T21:26:24Z) Tj
+T*
+(Link: https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-a) Tj
+T*
+(sked-it-to/91408202) Tj
+T*
+(Jason Aten, writing for Inc: Then, yesterday, I was having a conversation with my Primary) Tj
+T*
+(Technology podcast co-host, Stephen Robles, about the new iPhones. Moments later, I got a push) Tj
+T*
+(notification from Muse suggesting that the conversation we were having would make for a good) Tj
+T*
+(column and offered to put together research for me to write about. It even flagged a message) Tj
+T*
+(from my editor about having a column ready for Monday. Not only had I not asked it to do that) Tj
+T*
+(sort of thing, I never gave it permission to read my messages. In fact, I remember explicitly) Tj
+T*
+(choosing not to let it have access to my messages, calendar, and other personal information.) Tj
+T*
+(Stranger still was what happened when I asked Muse how it knew. Like I told Aten on Threads ,) Tj
+T*
+(Muse was right about one thing: it did give him a good idea for a column. Later on, Aten) Tj
+T*
+(writes: I also want to be clear about something else: If your response to this is that, of) Tj
+T*
+(course, Meta would do this ? it?s Meta ? you are just letting them off the hook. You?re) Tj
+T*
+(normalizing behavior that should not be normal, and you should not let them off the hook. My) Tj
+T*
+(response to this is a little more complex than that. At the top level, this is why I don?t r...) Tj
+T*
+() Tj
+T*
+(6. Why Didn?t Google Build Muse?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-22T20:51:12Z) Tj
+T*
+(Link: https://spyglass.org/why-didnt-google-build-muse/) Tj
+T*
+(MG Siegler, writing at Spyglass: The number one response I?ve gotten to my thoughts on Meta?s) Tj
+T*
+(Muse personal assistant agent is some variation of ?I will never trust Meta with my data.? But) Tj
+T*
+(the number two response is arguably more interesting \(and related\): ?Why didn?t Google build) Tj
+T*
+(this?? The short answer to this is undoubtedly: they?re working on it. But the longer answer is) Tj
+T*
+(probably more interesting here too. Siegler?s take is basically that Google lacks focus.) Tj
+T*
+(They?ve got multiple AI agent products, none of which are hitting ? which as he points out has) Tj
+T*
+(been their decades-long problem with messaging apps . Say what you want about Meta as a company) Tj
+T*
+(and Mark Zuckerberg as a leader, but they \(and he\) have focus. I make fun of them \(and him\) for) Tj
+T*
+(going all-in on ?the metaverse? only to lose all interest in it just a few years later, but to) Tj
+T*
+(play devil?s advocate, that?s how focus works. ?) Tj
+T*
+() Tj
+T*
+(7. Nathaniel Bowditch) Tj
+T*
+(Source: John D. Cook | Published: Tue, 22 Sep 2026 14:01:30 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/09/22/nathaniel-bowditch/) Tj
+T*
+(A couple days ago a friend told me about the book Carry On, Mr. Bowditch, a fictional account) Tj
+T*
+(of the life of Nathaniel Bowditch \(1773?1838\). I?ve been listening to the book on Audible, and) Tj
+T*
+(apparently it?s only lightly fictionalized. Bowditch was a self-educated mathematician and) Tj
+T*
+(astronomer, best known for his book The American Practical Navigator, [?] The post Nathaniel) Tj
+T*
+(Bowditch first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(8. Are LLMs still surprisingly bad at some simple tasks?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 22 Sep 2026 11:34:27 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/09/are-llms-still-surprisingly-bad-at-some-simple-tasks/) Tj
+T*
+(Last year I ran an experiment to test the ability of modern LLMs to correctly answer a) Tj
+T*
+(relatively straightforward question. Every single one of them got it wrong. Some missed) Tj
+T*
+(information, some made up false statements, none were right. Of course the fanbois variously) Tj
+T*
+(claimed that I was holding it wrong, my prompts were shit, I should have chosen better) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4639 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(defaults, and - my favourite - that it?) Tj
+T*
+() Tj
+T*
+(9. Package Manager Threat Model, Revisited) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-09-22T09:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/09/22/package-manager-threat-model-revisited.html) Tj
+T*
+(I?ve spent a fair chunk of the last four months pointing the package manager CWE list and the) Tj
+T*
+(threat model questions at real package managers, in some cases with help . Ten targets, mostly) Tj
+T*
+(clients, a couple of registries, a mix of tools I?d used and tools I?d only read about. I also) Tj
+T*
+(re-ran the advisory search that produced the original CWE list, filtered to everything) Tj
+T*
+(published since May, to see what everyone else had been finding in the same window. The two) Tj
+T*
+(lists have now been merged into a maintained page at /package-manager-threat-model/ .) Tj
+T*
+(Advisories 126 advisories against 23 package managers and registries between May and) Tj
+T*
+(mid-September. About a quarter of everything ever filed against the same set of tools, which is) Tj
+T*
+(mostly explained by three coordinated audits \(one of pnpm producing twenty advisories over June) Tj
+T*
+(and July, one of Homebrew, which I help maintain, producing thirteen, one of Flatpak producing) Tj
+T*
+(ten in a single day\) plus the OCI-registry implementations working through the same) Tj
+T*
+(authorisation and DoS bugs the self-hosted language registries had five years earlier. Path) Tj
+T*
+(traversal is still the top of the table by a distance, 33 advisories, and almost all of them) Tj
+T*
+(come from...) Tj
+T*
+() Tj
+T*
+(10. Unfinished Work in Package Security) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-09-22T09:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/09/22/unfinished-work-in-package-security.html) Tj
+T*
+(In May 2026, an Nx contributor installed a malicious dependency that had been published 77) Tj
+T*
+(minutes earlier. The repository had a seven-day cooldown configured, but its pinned pnpm) Tj
+T*
+(version predated support for the setting. The client skipped the check and installed the) Tj
+T*
+(package. The stolen credentials contributed to a malicious Nx Console extension release a week) Tj
+T*
+(later. Package-manager defaults have improved even in the last few months , including release) Tj
+T*
+(cooldowns and restrictions on installation scripts. Going back through what I?ve written this) Tj
+T*
+(year, I keep running into work left to each consumer, in the gaps between controls that work on) Tj
+T*
+(their own: checking that a configured policy takes effect across the tools they use, or finding) Tj
+T*
+(someone who can publish a fix when a scanner turns up a vulnerability. Installation permissions) Tj
+T*
+(Nx had already suffered a different compromise in August 2025 , when an npm post-install script) Tj
+T*
+(stole credentials and uploaded them to public GitHub repositories. The script ran with the) Tj
+T*
+(developer?s permissions, including access to unrelated credentials and the network, with no) Tj
+T*
+(separate approval for either. pip?s build-system interface can execute a backend...) Tj
+T*
+() Tj
+T*
+(11. Where're All The AI Chips?) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 22 Sep 2026 14:35:46 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/wherere-all-the-ai-chips/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter, and you can subscribe) Tj
+T*
+(on the following links: $70 a year , $18 a quarter , or $7 a month . In return you get a weekly) Tj
+T*
+(premium newsletter including vast, detailed analyses of NVIDIA , Anthropic and OpenAI&) Tj
+T*
+() Tj
+T*
+(12. Cheaper LLM labelling) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 22 Sep 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/cheaper-llm-labeling) Tj
+T*
+(I have a small project where I needed to label commits as either ?maintenance? or ?new) Tj
+T*
+(development?. The obvious way to do it is with a cheap but relatively capable LLM, like GPT 5.6) Tj
+T*
+(Luna. I tested it on a small set of commits and manually verified its labelling, and it emitted) Tj
+T*
+(the same label as I would have for the entire test set. That was good enough for me to roll out) Tj
+T*
+(on a wider scale. If we have Simon Willison?s llm CLI tool installed \(and you should ? it?s) Tj
+T*
+(great!\), we can call it in a pipe from Perl, and read its response. My script had a loop that) Tj
+T*
+(retried the request a few times, but without that bookkeeping, the code for this is simple) Tj
+T*
+(enough. In[1]: sub classify { my \($msg\) = @_; my $pid = open2\( my $output, my $prompt, 'llm -m) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4347 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(openrouter/openai/gpt-5.6-luna' \); print $prompt prompt_template\($msg\); close $prompt; # Slurp) Tj
+T*
+(the entire response and chomp off the # trailing newline. chomp\(my $result = do { local $/; }\);) Tj
+T*
+(waitpid\($pid, 0\); return $result; } \(Continue reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(13. Apple?s Performa in-store demo software from 1993) Tj
+T*
+(Source: Downtown Doug Brown | Published: Tue, 22 Sep 2026 06:12:01 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://www.downtowndougbrown.com/2026/09/apples-performa-in-store-demo-software-from-1993/) Tj
+T*
+(Last year, I bought a Macintosh Performa 410 on eBay. I wasn?t expecting it to be special in) Tj
+T*
+(any way. The main reason I was interested in it was because I suspected it would have) Tj
+T*
+(originally come with System 7.1P3, which was a weird Performa-specific OS version that nobody) Tj
+T*
+(had preserved at the time. If [?]) Tj
+T*
+() Tj
+T*
+(14. tokens too cheap to meter) Tj
+T*
+(Source: the website of jyn | Published: 2026-09-16T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/tokens-too-cheap-to-meter/) Tj
+T*
+(tokens are going to be as cheap as electricity within the decade) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: Bonta sold us out to Trump's oligarchs \(22 Sep 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 22 Sep 2026 08:19:01) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/09/22/happy-chudmas/) Tj
+T*
+(Today's links Bonta sold us out to Trump's oligarchs: A "settlement" that promises less than) Tj
+T*
+(nothing. Hey look at this: Delights to delectate. Object permanence: Warren on taxing the rich) Tj
+T*
+(and class warfare; Psychology v reproducibility; Copyright troll sentenced for beating Uber) Tj
+T*
+(driver; "Halloween Moon"; Enshittification of solar. Upcoming appearances: Berkeley, Edmonton,) Tj
+T*
+(Boston, Brighton, South Bend, Hudson, Calgary, Winnipeg, Paris, OVancouver, Victoria, Ottawa,) Tj
+T*
+(Kilkenny, Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em,) Tj
+T*
+(I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the) Tj
+T*
+(rest. Bonta sold us out to Trump's oligarchs \(permalink\) Well, fuck. California Attorney) Tj
+T*
+(General Rob Bonta just surrendered to the Trump-aligned Ellison billionaires who want to take) Tj
+T*
+(over and destroy Warners, merging it with the chudded out husk they've made of Paramount,) Tj
+T*
+(leaving these two colossal, corrupt, useless assholes to control Warners, Paramount and Tiktok:) Tj
+T*
+(https://www.reuters.com/legal/litigation/paramount-settles-with-california-other-states-clearin) Tj
+T*
+(g-major-hurdle-warner-bros-2026-09-21/ In announcing the settlement, Bonta's offi...) Tj
+T*
+() Tj
+T*
+(16. Weekly Update 522: Live From Oslo with Scott Helme) Tj
+T*
+(Source: Troy Hunt | Published: Wed, 23 Sep 2026 05:18:34 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-522/) Tj
+T*
+(Heads up: the first 7 mins is a bit quiet until we worked out the external mic was misbehaving) Tj
+T*
+(- sorry! But get through that and have a listen to Scott's experiences with how Report URI is) Tj
+T*
+(identifying malware-infected machines within orgs, all due to CSP reporting. It&) Tj
+T*
+() Tj
+T*
+(17. On reading books) Tj
+T*
+(Source: Herman's blog | Published: 2026-09-22T13:27:56.346630+00:00) Tj
+T*
+(Link: https://herman.bearblog.dev/on-reading-books/) Tj
+T*
+(I grew up in a house stuffed full of books, with no television, and electricity for only an) Tj
+T*
+(hour or two per day \(while the generator was running\). There were shelves full of old science) Tj
+T*
+(fiction \(Asimov and Heinlein\), as well as books on history, some good old fantasy, and other) Tj
+T*
+(smatterings collected from second-hand bookstores over the years. My mother read to us each) Tj
+T*
+(night when we were children, starting with Dr Seuss, all the way to Harry Potter, where she did) Tj
+T*
+(the spooky voices during the Voldemort scenes, which had me walking up and down the room with) Tj
+T*
+(my fingers in my ears, humming to myself, until the scary parts were over. Naturally, this led) Tj
+T*
+(to me reading a lot as a teenager and young adult. Up until I left home at 18, I would fall) Tj
+T*
+(asleep each night reading by candlelight, which sounds very romantic and, in hindsight,) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 438 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(definitely contributed to good sleep growing up. At university, I read substantially less. I) Tj
+T*
+(suddenly had a computer in my room, reliable electricity, and downloaded series to watch. I) Tj
+T*
+(never stopped reading, but certainly felt my attention span erode as a result \(I also think) Tj
+T*
+(Family Guy circa 2012 rotted my brain irreparably\). As you can probably tell by now, I...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004875 00000 n 
+0000005001 00000 n 
+0000009666 00000 n 
+0000009792 00000 n 
+0000014483 00000 n 
+0000014609 00000 n 
+0000019009 00000 n 
+0000019137 00000 n 
+0000019627 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+19755
+%%EOF
