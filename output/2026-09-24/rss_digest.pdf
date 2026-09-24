@@ -1,0 +1,312 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4616 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-24 13:55:10) Tj
+T*
+() Tj
+T*
+(1. Changes to App Tracking Transparency in the E.U.) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-23T23:41:46Z) Tj
+T*
+(Link: https://developer.apple.com/app-store/user-privacy-and-data-use/) Tj
+T*
+(Apple Developer: As part of agreements with select European competition authorities, Apple is) Tj
+T*
+(introducing changes to its App Tracking Transparency framework in the European Union. Beginning) Tj
+T*
+(with iOS 27.2 and iPadOS 27.2, developers will have the option to use an alternative version of) Tj
+T*
+(the App Tracking Transparency system prompt in the EU. The requirements for when you must seek) Tj
+T*
+(permission to track users will remain the same. Due to legal requirements, only the alternative) Tj
+T*
+(version of the system prompt is available for apps distributed in Germany, France, Italy,) Tj
+T*
+(Poland, and Romania. In addition, for users in the European Union, you can reprompt [ sic ] a) Tj
+T*
+(user via the App Tracking Transparency system prompt one year after the user?s previous choice) Tj
+T*
+(in your app?s App Tracking Transparency system prompt, regardless of whether that choice was to) Tj
+T*
+(accept or reject. A user cannot be re-prompted if they have disabled ?Allow Apps to Request to) Tj
+T*
+(Track? \(renamed to ?Allow Apps to Request to Link Your Activity Across Companies? in the EU\) in) Tj
+T*
+(their device?s Settings. As Benjamin Mayo notes , ?Allow Apps to Request to Link Your Activity) Tj
+T*
+(Across Companies? is catchy. The gist of this is that there a...) Tj
+T*
+() Tj
+T*
+(2. ? The iPhone 4 ?Antennagate? Press Conference Q&A ? Finally) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-23T22:15:05Z) Tj
+T*
+(Link: https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a) Tj
+T*
+(I don?t know what truck this video fell off the back of, why it took 16 years, or how it came) Tj
+T*
+(into the hands of ?Sir Mix-A-Lot Rare Music?, but I?m sure glad it did.) Tj
+T*
+() Tj
+T*
+(3. ?Prepare to Ship? Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship) Tj
+T*
+(With a Battery That Would Otherwise Exceed International Shipping Regulations) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-23T20:12:16Z) Tj
+T*
+(Link: https://support.apple.com/en-us/127848) Tj
+T*
+(Apple Support: iPhone 18 Pro Max offers a huge increase in battery life, in part due to) Tj
+T*
+(increasing the battery capacity to over 20 watt-hours \(Wh\). Devices with a single-cell battery) Tj
+T*
+(over 20 Wh have additional shipping requirements in most countries and regions. To address) Tj
+T*
+(these requirements, iPhone 18 Pro Max uses an innovative battery-firmware solution that limits) Tj
+T*
+(battery capacity to below 20 Wh from the time it?s manufactured through its transport from the) Tj
+T*
+(factory. When you activate your iPhone, the limit is removed and the battery?s full charging) Tj
+T*
+(capacity is available. After activation, if you need to ship your iPhone 18 Pro Max for a) Tj
+T*
+(repair, trade-in, return, or as a gift for example, use the Prepare to Ship feature in) Tj
+T*
+(Settings. This feature discharges your battery to below 20 Wh and sets a charge limit so your) Tj
+T*
+(iPhone stays below this limit while shipping. This can be reversed and you can reset your) Tj
+T*
+(charge limit after shipping. The battery in iPhone 18 Pro Max is safe, including for shipping) Tj
+T*
+(and air travel. This process is needed only to meet shipping requirements and isn?t required) Tj
+T*
+(while traveling or for any other iPhone model. \( Via The Verge .\) ?) Tj
+T*
+() Tj
+T*
+(4. Gemini 3.8 TTS Playground) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-23T17:12:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/23/gemini-tts-playground/) Tj
+T*
+(Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today -) Tj
+T*
+(gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts . They come with a library of over 2,000) Tj
+T*
+(voices, plus the ability to create a custom voice with "just a 30-second audio sample of your) Tj
+T*
+(voice or a voice you have the rights to use". I vibe coded this bring-your-own-key playground) Tj
+T*
+(interface with GPT-6 Astra, taking advantage of the open CORS policy of the underlying Gemini) Tj
+T*
+(API. A notable feature of the API is that it makes it easy to define a full conversation) Tj
+T*
+(between multiple characters, each with different voices and voice style instructions. Here's a) Tj
+T*
+(short demo clip of a conversation between two pelicans debating if they should move to the) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4219 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Pacifica Pier . I had Claude 4.5 Opus write the script and generate a URL to render it using) Tj
+T*
+(the tool . Your browser does not support the audio element. It took ~20 seconds to generate 1m) Tj
+T*
+(18s of audio using Gemini 3.8 Flash TTS \(not the cheaper Flash-Lite\), at a cost of 2.74 cents.) Tj
+T*
+(Tags: text-to-speech , gemini) Tj
+T*
+() Tj
+T*
+(5. Shadow roots, explained with live examples) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-23T16:37:18+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/23/shadow-roots/) Tj
+T*
+(Tool: Shadow roots, explained with live examples Prompt to Fable 5.1 Medium: Build an artifact) Tj
+T*
+(to explain shadow roots in CSS with interactive examples Tags: css) Tj
+T*
+() Tj
+T*
+(6. Quoting @therealcornpop) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-22T18:03:21+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/22/therealcornpop/) Tj
+T*
+(Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and) Tj
+T*
+(YouTube, right? [...] It's not just the general AI-isms of "it's not X, it's Y", or the rule of) Tj
+T*
+(three, or the really weird broken staccato-like way of writing where you just say a lot of) Tj
+T*
+(things with all these punctuation marks. and it sounds really deep, but it's not. It's the lack) Tj
+T*
+(of anything . It's the lack of a definitive sort of spear of your voice. It's the fact I can) Tj
+T*
+(tell you don't have opinions about the thing that you're talking about. ? @therealcornpop , on) Tj
+T*
+(TikTok Tags: tiktok , ai , ai-misuse) Tj
+T*
+() Tj
+T*
+(7. When working with Win32 FILETIME, don?t forget that you have std::chrono now) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 23 Sep 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260923-00/?p=112726/) Tj
+T*
+(Let the library do the math for you. The post When working with Win32 FILETIME , don?t forget) Tj
+T*
+(that you have std::chrono now appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. A brief history of Windows scroll bar shortcuts) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 22 Sep 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/) Tj
+T*
+(Right-clicking and shift-clicking. The post A brief history of Windows scroll bar shortcuts) Tj
+T*
+(appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Navigation with only addition, subtraction, and tables) Tj
+T*
+(Source: John D. Cook | Published: Wed, 23 Sep 2026 14:11:52 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/09/23/navigation-minimum/) Tj
+T*
+(In the novel Carry On, Mr. Bowditch, a sailor asked Nathaniel Bowditch to teach him how to do) Tj
+T*
+(navigational calculations, but the man only knows how to add and subtract by counting on his) Tj
+T*
+(fingers. He had not heard of multiplication. Bowditch is surprised, but realizes if he made) Tj
+T*
+(tables of logs of trig functions, [?] The post Navigation with only addition, subtraction, and) Tj
+T*
+(tables first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Make Money to Make More Websites) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Wed, 23 Sep 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/) Tj
+T*
+(I was listening to the episode ?Make Your Own Thing? from the Off Protocol podcast where Jim) Tj
+T*
+(Ray interviews John Gruber. They cover a variety of topics, including Gruber?s thoughts on the) Tj
+T*
+(dilution of personal brand by publishing through ?chain? platforms like Substack \(I quite) Tj
+T*
+(enjoyed the metaphor of a personal website where you publish your stuff to that of a) Tj
+T*
+(chef/restaurant, but that?s a separate post\). Around ~1:13:00, Gruber quotes Walt Disney who) Tj
+T*
+(said, ?We don't make movies to make money, we make money to make more movies.? And he goes on) Tj
+T*
+(to argue that when you?re forced to choose one of these priorities over the other ? because you) Tj
+T*
+(will undoubtedly face decisions where the two sets of values come into direct opposition ? the) Tj
+T*
+(company that prioritizes making movies over making money is fundamentally a different company) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1109 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(than the one that chooses making money over making movies. If you ultimately prioritize making) Tj
+T*
+(money, then what?s going to be ultimately great about your company is you make a lot of money) Tj
+T*
+(\(for shareholders, for owners, for yourself, for whomever\). Conversely, if you ultimately) Tj
+T*
+(prioritize making movies, than what?s going to be ultimately great about your company...) Tj
+T*
+() Tj
+T*
+(11. The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same) Tj
+T*
+(Source: Steve Blank | Published: Wed, 23 Sep 2026 13:00:12 +0000) Tj
+T*
+(Link: https://steveblank.com/2026/09/23/the-year-ai-came-for-us-teaching-entrepreneurship-will-) Tj
+T*
+(never-be-the-same/) Tj
+T*
+(This post previously appeared in Poets and Quants. 15 years ago, my Lean LaunchPad class) Tj
+T*
+(changed how entrepreneurship is taught. The class is now taught in hundreds of universities) Tj
+T*
+(worldwide and helped launch thousands of startups. But this past summer, I got thinking about) Tj
+T*
+(whether AI killed our Lean LaunchPad class, and with it the [?]) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004871 00000 n 
+0000004997 00000 n 
+0000009268 00000 n 
+0000009394 00000 n 
+0000010555 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+10681
+%%EOF
