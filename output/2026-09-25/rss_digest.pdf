@@ -1,0 +1,360 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4054 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-25 13:56:26) Tj
+T*
+() Tj
+T*
+(1. commit-rewriter 0.2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-24T20:06:53+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/24/commit-rewriter/) Tj
+T*
+(Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx) Tj
+T*
+(commit-rewriter --branch other to run against another branch. #3 Tags: git) Tj
+T*
+() Tj
+T*
+(2. datasette 1.0a41) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-24T19:15:23+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/24/datasette/) Tj
+T*
+(Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this) Tj
+T*
+(release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which) Tj
+T*
+(is now documented for other plugins to use . Tags: javascript , datasette , web-components ,) Tj
+T*
+(alex-garcia , opentelemetry) Tj
+T*
+() Tj
+T*
+(3. llm-anthropic 0.29) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-22T17:14:55+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/22/llm-anthropic/) Tj
+T*
+(Release: llm-anthropic 0.29 Adds support for Claude Opus 5.5 : llm -m claude-opus-5.5 "prompt) Tj
+T*
+(goes here" Tags: llm , anthropic) Tj
+T*
+() Tj
+T*
+(4. Why is the human body so crap except for the liver?) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-09-24T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/liver/) Tj
+T*
+([ Epistemic Status: Speculative unifying theory of biology.] I don?t know about you, but I) Tj
+T*
+(greatly resent having to be a biological organism and subject to all the poor engineering and) Tj
+T*
+(design decisions that entails. This has many manifestations. A recent one is often wondering,) Tj
+T*
+(why is the entire body such garbage except for the liver? Take the kidneys. Once you reach) Tj
+T*
+(adulthood, they start to slowly decay. You can damage them through not-obviously-dangerous) Tj
+T*
+(stuff like taking too much vitamin D or taking ibuprofen while dehydrated . Significant damage) Tj
+T*
+(typically leads to scarring and a permanent reduction in function. Or take the gums. If you) Tj
+T*
+(brush too hard or don?t floss enough, they may retreat down your teeth, never to return. Most) Tj
+T*
+(of the body is like that. But the liver. My friends, the liver! If it?s injured, it will) Tj
+T*
+(usually heal without scars. As you age, it typically maintains near full strength. You can give) Tj
+T*
+(half of your liver to someone else and it will regrow to full size and function in a few) Tj
+T*
+(months. I?d like to find whoever designed the liver and have them make me a full body. Except) Tj
+T*
+(here?s a theory: It?s good that most of the body is fragile crap. It would be better if s...) Tj
+T*
+() Tj
+T*
+(5. No, really, you need to pass all unhandled messages to DefWindowProc, part 2) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 24 Sep 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260924-00/?p=112728/) Tj
+T*
+(Another example to add to the list. The post No, really, you need to pass all unhandled) Tj
+T*
+(messages to DefWindowProc, part 2 appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(6. Victoria Song on Meta Muse?s Cuteness) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-24T22:30:24Z) Tj
+T*
+(Link: https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute?view_token=eyJhbGciOiJ) Tj
+T*
+(IUzI1NiJ9.eyJpZCI6IkFlVU9GbXpuZFUiLCJwIjoiL2NvbHVtbi85OTk5OTkvb3B0aW1pemVyLW1ldGEtbXVzZS1haS1jd) Tj
+T*
+(XRlIiwiZXhwIjoxNzkwNzAxNDAwLCJpYXQiOjE3OTAyNjk0MDB9.chaHCz3wgiI4jn9EzA11I7fHhqQkEmn17aCiXtOBPEU) Tj
+T*
+(Victoria Song, in her Optimizer column/newsletter for The Verge: I?ve been aggressively) Tj
+T*
+(avoiding Muse since it launched a few weeks ago. Sure, some of that is because I was busy) Tj
+T*
+(testing other devices. But the number-one reason why is that I am horribly vulnerable when) Tj
+T*
+(faced with extreme cuteness. Alas, at Meta Connect, I couldn?t escape this pink-cheeked fella) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4733 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(with his plush ivory fur, and so I finally downloaded the app once I returned to my hotel room.) Tj
+T*
+(He was plastered on every screen during the keynote. My eye twitched with maximum cute) Tj
+T*
+(aggression when Meta CTO Andrew Bosworth showed us his Muse agent Cooper. The duderino was) Tj
+T*
+(dressed in a lil pilot outfit because he?s Boz?s test pilot. My face scrunched with rage when) Tj
+T*
+(Cooper picked up his pudgy round arms to wave. It?s the cutest thing I?ve ever seen at a tech) Tj
+T*
+(keynote. The tiny demon in my head thought to itself, ?I WANT TO SQUISH ITS LITTLE FACE.? [...]) Tj
+T*
+(Most people I know would say that Meta stuffing an AI agent into everything and anything feels) Tj
+T*
+(sinister. Now look at Jolly?s little smile. Tell me it doesn?t make the corners of your mouth) Tj
+T*
+(twitch slightly upward. If you honestly say no, you?re stronger than I am. What attracted...) Tj
+T*
+() Tj
+T*
+(7. Joanna Stern Interviews Mark Zuckerberg) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-24T20:53:03Z) Tj
+T*
+(Link: https://thenewthings.com/p/exclusive-mark-zuckerberg-interview) Tj
+T*
+(Great interview from Stern, as usual, seemingly conducted on the old set of Three?s Company .) Tj
+T*
+(She opened by asking if AI is going to wipe out humanity, and I think Zuck whiffed by not) Tj
+T*
+(simply laughing and saying no. She also directly asked his thoughts on people calling Meta) Tj
+T*
+(Glasses ?pervert glasses?. Regarding the shift from ?the metaverse? to AI, Zuckerberg likened) Tj
+T*
+(it to Apple having started work on touchscreen tablets and then pivoting to turn the technology) Tj
+T*
+(into the iPhone first. His point being that it?s not that iPads weren?t a big successful idea,) Tj
+T*
+(but they?re not as big as phones. There are four big players in consumer AI: Google, Meta,) Tj
+T*
+(OpenAI, and Anthropic. I don?t think Zuckerberg mentioned any of the others by name ? neither) Tj
+T*
+(in his Meta Connect keynote , nor in this interview with Stern. But much of what he unveiled) Tj
+T*
+(and explained, in both, makes the case for Meta as the leader in this space. Compared to) Tj
+T*
+(Google, Meta is highly focused and Google is seemingly utterly unfocused . Focus matters when) Tj
+T*
+(you?re trying to ship something new while exploring uncharted territory. Compared to OpenAI and) Tj
+T*
+(Anthropic, Meta has consumer-product chops. If there?s no moat around the AI model...) Tj
+T*
+() Tj
+T*
+(8. Meta Connect Keynote 2026) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-24T20:30:01Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=SdKFDIAGF24) Tj
+T*
+(Meta?s annual keynote yesterday was a tight 55-minute live event held on their campus in Menlo) Tj
+T*
+(Park. I watched the whole thing this morning, before recording tomorrow?s episode of Dithering) Tj
+T*
+(. \(Which you should subscribe to.\) It was a good keynote. Consumer products announced:) Tj
+T*
+(Third-generation Meta Glasses with cameras. A new glasses product: Ray-Ban Meta Audio . These) Tj
+T*
+(are audio-only smart glasses, with microphones and speakers, but no camera. Zuckerberg pitched) Tj
+T*
+(them as being less expensive, having longer battery life, and looking much more like regular) Tj
+T*
+(glasses. All of those things are true, but he deftly avoided the privacy backlash against) Tj
+T*
+(glasses with cameras. They?re not that much less expensive than the camera models, starting at) Tj
+T*
+($350. Meta VR Glasses . Slogan: ?The weight is over.? Some similarities to Vision Pro: use) Tj
+T*
+(cases include immersive movies and sports, virtual displays for computing, and gaming; the) Tj
+T*
+(computer is a thick phone-sized puck connected to the glasses via a cable. Some significant) Tj
+T*
+(differences from Vision Pro: Meta VR Glasses only weigh 100g; Vision Pro weighs 750?800g. It?s) Tj
+T*
+(almost an order of magnitude difference by weight. Also: these are only going to cost...) Tj
+T*
+() Tj
+T*
+(9. Some thoughts on HTML's proposed previewsrc attribute) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 24 Sep 2026 11:34:54 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/) Tj
+T*
+(One of the great things about modern HTML is that it tries to standardise stuff that developers) Tj
+T*
+(are already doing. If there are a myriad ways of, for example, loading video onto a page - then) Tj
+T*
+(browsers and other interested parties should work out how to make a standard element. An) Tj
+T*
+(interesting new proposal has been brought forth by Microsoft. There are a dozen ways to show a) Tj
+T*
+(preview of an?) Tj
+T*
+() Tj
+T*
+(10. Package Manager Sandboxing) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-09-24T09:00:00+00:00) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3307 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://nesbitt.io/2026/09/24/package-manager-sandboxing.html) Tj
+T*
+(Homebrew 7.0.0 shipped on September 13th with ?stronger sandboxing? in the opening line of the) Tj
+T*
+(release notes. Installation is being split into a fetch phase that has network access and) Tj
+T*
+(writable caches, and an install phase that runs offline with read-only caches. Sandboxed builds) Tj
+T*
+(are blocked from reading your home directory by default. Cask install hooks run confined, and a) Tj
+T*
+(cask sandbox escape via LaunchServices was closed in the same release by denying app launching,) Tj
+T*
+(Mach services, and Unix socket connections. Formula post_install and cask flight blocks, which) Tj
+T*
+(are arbitrary Ruby today, are deprecated in favour of declarative *_steps delivered as signed) Tj
+T*
+(data, with a removal deadline of December 2027. Homebrew, which I help maintain, has run macOS) Tj
+T*
+(formula builds under sandbox-exec since 2015 . The last four months turned that from a) Tj
+T*
+(build-hygiene measure into a stated security programme. 6.0.0 in June brought a Linux build) Tj
+T*
+(sandbox based on Bubblewrap and made third-party taps require explicit trust before their Ruby) Tj
+T*
+(is evaluated. By July the Bubblewrap implementation had been replaced with Landlock , which is) Tj
+T*
+(built into the kernel and works inside unprivileged Docker, and by August...) Tj
+T*
+() Tj
+T*
+(11. Shrinking a Fedora virtual disk) Tj
+T*
+(Source: Entropic Thoughts | Published: Thu, 24 Sep 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/shrinking-fedora-virtual-disk) Tj
+T*
+(I have a weird setup for my laptop. In summary, I have been irrationally scared of running) Tj
+T*
+(Fedora on bare, dual-GPU metal, so I run it in a virtual machine with Hyper-V on Windows as a) Tj
+T*
+(hypervisor. The idea was to let Windows manage GPUs and power management stuff like) Tj
+T*
+(hibernation, and then use Fedora as my main UI to the computer. This has worked surprisingly) Tj
+T*
+(well, but that?s only because my expectations were low to begin with. The VM can barely access) Tj
+T*
+(the hardware of the underlying machine: it can?t use the GPU, it can?t use the front-facing) Tj
+T*
+(camera, Linux starts thrashing weirdly when the VM runs out of memory, among other quirks I?ve) Tj
+T*
+(learned to work around. Thus, I?ve wanted to re-install on bare metal for a while, but!) Tj
+T*
+(problem! Come on a journey with me. It?s got a hero with hubris, mistakes, tension, and a) Tj
+T*
+(cliffhanger. \(Continue reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(12. So yeah it was written using AI) Tj
+T*
+(Source: Bert Hubert's writings | Published: Thu, 24 Sep 2026 17:45:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/) Tj
+T*
+(As of this week, I?m suddenly seeing people dismiss points made in otherwise readable articles) Tj
+T*
+(because Pangram says these were \(partially\) AI authored. I hate the origins and consequences of) Tj
+T*
+(GenAI more than almost anyone. I can?t wait for the bubble to burst also. I presented in) Tj
+T*
+(Amsterdam on how AI has killed my professional field. AND YET. If you discover that an opinion) Tj
+T*
+(piece was authored with or by GenAI, by all means feel free not to engage with it.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004309 00000 n 
+0000004435 00000 n 
+0000009220 00000 n 
+0000009346 00000 n 
+0000012705 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+12831
+%%EOF
