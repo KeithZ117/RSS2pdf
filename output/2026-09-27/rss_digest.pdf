@@ -1,0 +1,372 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4614 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-27 14:22:29) Tj
+T*
+() Tj
+T*
+(1. K?k?p? Party) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-26T23:39:06+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/26/kakapo-party/) Tj
+T*
+(Tool: K?k?p? Party I presented a closing keynote for the WeAreDevelopers World Congress North) Tj
+T*
+(America yesterday. As a STAR moment I decided to weave in references to the record breaking) Tj
+T*
+(k?k?p? breeding season we had in 2026. For my closing slide I wanted to celebrate, and I had) Tj
+T*
+(seen some buzz around how good Claude Opus 5.5 was at creating pixel art animations. So I) Tj
+T*
+(rounded up three Kakapo photos from Google image search and dropped them into Claude with this) Tj
+T*
+(prompt: Here are some photos of kakapo parrots just to remind you what they look like I need) Tj
+T*
+(you to make an animation in animated pixel art on HTML 5 canvas of obviously pixel art kakapo) Tj
+T*
+(jumping up and down having a party with confetti and suchlike - there should be at least 20 of) Tj
+T*
+(them Here's the transcript , and this is the resulting page . It's pretty great! I wanted to) Tj
+T*
+(embed it in a Keynote presentation file, so I downloaded the HTML and told a local Claude Code) Tj
+T*
+(session: Make me a video of file:///Users/simon/Downloads/kakapo-party.html - you need to load) Tj
+T*
+(it in a browser and click on it a few times to get the confetti effect, the video should be 15s) Tj
+T*
+(long don't start clicking until 3s in make sure several clicks are spread...) Tj
+T*
+() Tj
+T*
+(2. llm-typesafe 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-22T15:54:16+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/22/llm-typesafe/) Tj
+T*
+(Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's) Tj
+T*
+(new Jev model . Install it like this: llm install llm-typesafe Then set an API key \( get one) Tj
+T*
+(here , the waitlist seems to move pretty fast\): llm keys set typesafe # Paste key And now you) Tj
+T*
+(can ask yes/no "noul" questions like this: llm -m jev 'Please refund my last payment.' \\ -s) Tj
+T*
+('Does this message explicitly request a refund?' Output: {"type": "noul", "noul": 0.99} Or) Tj
+T*
+(choice questions like this: cat message.txt | llm -m jev \\ -s ' Which team should handle this) Tj
+T*
+(message? If billing and technical issues both occur, choose billing. ' \\ -o answer_type choice) Tj
+T*
+(\\ -o criteria ' { "billing":"Charges, invoices, payments, or refunds", "technical":"Problems) Tj
+T*
+(installing or using the product", "other":"Neither category fits" } ' Or scoring questions like) Tj
+T*
+(this: cat report.txt | llm -m jev \\ -s ' How reproducible is the problem described in this) Tj
+T*
+(report? ' \\ -o answer_type score \\ -o criteria ' [ "No reproduction instructions", "Some) Tj
+T*
+(instructions, but important steps are missing", "Complete steps with expected and actual) Tj
+T*
+(results" ] ' See the README for more details. Tags: projects , llm , jev) Tj
+T*
+() Tj
+T*
+(3. Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-17T22:13:05+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/17/hn-49747390/) Tj
+T*
+(My comment on Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint ? Hacker News.) Tj
+T*
+(If you want to try out out the GGUFs from) Tj
+T*
+(https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf#th... be aware that you need Prism's) Tj
+T*
+(llama.cpp fork to get them to work, from) Tj
+T*
+(https://github.com/PrismML-Eng/llama.cpp/releases/tag/prism-... This should work: cd /tmp # Get) Tj
+T*
+(the Prism macOS runtime curl -fL https://github.com/PrismML-Eng/llama.cpp/releases/download/pri) Tj
+T*
+(sm-b10685-7dffb15/llama-prism-b10685-7dffb15-bin-macos-arm64.tar.gz -o bonsai-runtime.tar.gz) Tj
+T*
+(tar -xzf bonsai-runtime.tar.gz # Get the ~5.95 GB GGUF model: curl -fL https://huggingface.co/p) Tj
+T*
+(rism-ml/Ternary-Bonsai-2-27B-gguf/resolve/main/Ternary-Bonsai-2-27B-PTQ1_0.gguf -o) Tj
+T*
+(Ternary-Bonsai-2-27B-PTQ1_0.gguf # Run the server, I used port 8331) Tj
+T*
+(./llama-prism-b10685-7dffb15/llama-server \\ -m Ternary-Bonsai-2-27B-PTQ1_0.gguf \\ --port 8331) Tj
+T*
+(-ngl 99 -fa on -c 32768 Then open http://localhost:8331 for the \(very good\) baked in) Tj
+T*
+(llama-server web UI... or run a prompt via the API like this: uvx llm openai endpoint) Tj
+T*
+(http://127.0.0.1:8331/v1 \\ --model bonsai-2-27b --responses hi That's running at ~20) Tj
+T*
+(token/second for me on an M5 Pro \(after a serv...) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4523 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(4. Reelizer Returns) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-26T21:08:08Z) Tj
+T*
+(Link: https://www.reelizer.com/) Tj
+T*
+(Back in 2011 I linked to Reelizer, a splendid archive of movie posters curated by Roger Erik) Tj
+T*
+(Tinch . Reelizer went away for a few years, but Tinch has brought it back, seemingly better) Tj
+T*
+(than ever. Huzzah. ?) Tj
+T*
+() Tj
+T*
+(5. Alexandr Wang: ?Why I?m Building Muse?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-26T20:34:54Z) Tj
+T*
+(Link: https://x.com/alexandr_wang/status/2103551714536439951) Tj
+T*
+(Alexandr Wang, blogging on X: Now imagine every person on earth with a second mind beyond their) Tj
+T*
+(own. A general manager whose whole job is to find out what you want and make sure it happens.) Tj
+T*
+(Someone that hears the half-sentence, ?I feel like there?s something more I could be doing,?) Tj
+T*
+(and helps fill in the blanks. This might not be a genie in a bottle, but it can be someone that) Tj
+T*
+(says, ?This is the thing you?ve been dreaming of your whole life. Let?s go get it. Here?s how.?) Tj
+T*
+(And then builds a plan. Sends the email. Makes the phone call. Finds the funding. Keeps you on) Tj
+T*
+(schedule. Clears the way and solves all the problems it can until the human part, the wanting) Tj
+T*
+(and the dreaming, is all that?s left. Via Manton Reece , who writes: This is a mission) Tj
+T*
+(statement. It?s ambitious and clear. Compared to Meta?s usual ?connecting people? pitch ? which) Tj
+T*
+(we just translate to ?scale to everyone and serve ads? ? this new statement from Alexandr feels) Tj
+T*
+(almost shockingly personal and new. ?) Tj
+T*
+() Tj
+T*
+(6. Apple?s Other Recent ?Duo?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-26T19:41:39Z) Tj
+T*
+(Link: https://support.apple.com/en-us/111812) Tj
+T*
+(I keep mentioning Apple?s 1992 groundbreaking PowerBook Duo series as a precedent of the iPhone) Tj
+T*
+(Duo?s name. But of course in 2020, Apple released the MagSafe Duo Charger, a wonderful) Tj
+T*
+(Lightning peripheral for charging an iPhone and Apple Watch at the same time. It even folded. A) Tj
+T*
+(brief note on the PowerBook Duo, while I?m at it. I got an email this month from a now-retired) Tj
+T*
+(former Apple employee who helped spearhead that project, and he emphasized that the internal) Tj
+T*
+(motto was always ?Best of Both Worlds?, abbreviated internally to just ?BOBW?. At the time,) Tj
+T*
+(laptops were just profoundly less powerful than desktop computers, but desktop computers of) Tj
+T*
+(course were the opposite of ?portable?. The Macintosh Duo was a terrific success, because it) Tj
+T*
+(really did achieve that ?best of both worlds? experience. Here?s a 2015 retrospective on the) Tj
+T*
+(PowerBook Duo by Christopher Phin that captures and illustrates just how groundbreaking it was.) Tj
+T*
+(BOBW is exactly what the iPhone Duo needs to be. It needs to be a great iPhone on the outside,) Tj
+T*
+(and a great mini tablet on the inside. ?) Tj
+T*
+() Tj
+T*
+(7. Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC) Tj
+T*
+(Source: Ken Shirriff's blog | Published: 2026-09-26T09:20:56.564-07:00) Tj
+T*
+(Link: http://www.righto.com/2026/09/8087-tangent-cordic.html) Tj
+T*
+(I hope you're not tired of the 8087, because I have another article about Intel's) Tj
+T*
+(floating-point chip. 1 In 1980, Intel introduced the 8087, making floating-point operations) Tj
+T*
+(much faster in the IBM PC and other systems. In this article, I look at the algorithm behind) Tj
+T*
+(the chip's tangent instruction. One popular approach for trigonometric functions is an) Tj
+T*
+(algorithm called CORDIC. Another approach is a polynomial approximation. The 8087 combined the) Tj
+T*
+(two to obtain both high accuracy and high performance. The 8087 provided an enormous speedup) Tj
+T*
+(over the 8086 microprocessor, computing a tangent in 90 microseconds rather than 13,000) Tj
+T*
+(microseconds. 2 By examining the circuitry and microcode of the 8087, I can explain the) Tj
+T*
+(algorithm behind the tangent instruction, called FPTAN . To explore the 8087's circuitry, I) Tj
+T*
+(popped the lid off a chip with a chisel and created a high-resolution image with a microscope.) Tj
+T*
+(The microcode ROM is the large rectangular region in the center of the die, holding the 1648) Tj
+T*
+(micro-instructions that control the chip. The bottom half of the chip \(red box\) is the) Tj
+T*
+(datapath, the circuitry that performs floating-point calculations on 80-bit values. 3 A) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3234 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(close-up of the 8087's dat...) Tj
+T*
+() Tj
+T*
+(8. This Week in Package Management: 26 September 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-09-26T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/09/26/this-week-in-package-management.html) Tj
+T*
+(Week nineteen of the roundup, built from the package manager OPML feed collection and whatever) Tj
+T*
+(I?ve posted or boosted on Mastodon . Releases pnpm 12.6 adds an autoDedupe setting that) Tj
+T*
+(resolves compatible dependency versions to a single one during install, and pnpm add) Tj
+T*
+(--save-types for the matching @types/* package. 12.7 has the global node shim read .nvmrc and) Tj
+T*
+(.node-version when devEngines.runtime is unset, and adds pnpm publish --publish-wait-timeout to) Tj
+T*
+(block until a published package is available before dependents publish. RubyGems 4.1.0.beta1) Tj
+T*
+(adds content-addressable gems, an opt-in OS credential store for gem and Bundler credentials,) Tj
+T*
+(ML-DSA post-quantum signatures for the signed-gem workflow, and a --cooldown flag on gem) Tj
+T*
+(install , update and outdated . npm 12.1.0 supports read-write-stage-only granular access) Tj
+T*
+(tokens for staged publishing, and npm stage reports the status of packages held in staging. A) Tj
+T*
+(--provenance-file argument now takes precedence over OIDC-generated provenance. Poetry 2.5.0) Tj
+T*
+(adds an installer.builtin-uninstall setting that removes packages itself instead of calling) Tj
+T*
+(pip, supports Python 3.15, and stops sending credentials configured for an HTTPS repository) Tj
+T*
+(over...) Tj
+T*
+() Tj
+T*
+(9. No errors, no warnings, no gods, no masters - HTML Purity is a Fetish) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 26 Sep 2026 11:34:02 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/09/no-errors-no-warnings-no-gods-no-masters-html-purity-is-) Tj
+T*
+(a-fetish/) Tj
+T*
+("The problem with defending the purity of the HyperText Markup Language is that HTML is about) Tj
+T*
+(as pure as a cribhouse whore. The standard doesn't just borrow concepts from better languages;) Tj
+T*
+(on occasion, HTML has pursued other programming languages down alleyways to beat them) Tj
+T*
+(unconscious and rifle their pockets for new syntax." Englitch is an pretty goode langwidge.) Tj
+T*
+(even you no grok all the?) Tj
+T*
+() Tj
+T*
+(10. Reading List 2026-09-26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 26 Sep 2026 10:17:46 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-2026-09-26) Tj
+T*
+(ASML?s lack of European sales, a California distributed power plant, Starlink as a planetary) Tj
+T*
+(barometer, and more.) Tj
+T*
+() Tj
+T*
+(11. Rusty thoughts on "Parse, don't validate") Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-09-26T08:25:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/) Tj
+T*
+(Like many programmers, I find Alexis King's Parse, don't validate article fascinating, because) Tj
+T*
+(it gives a name to an idiom that seems familiar and important - one I've observed and used in) Tj
+T*
+(the past without naming it explicitly. This post is a review of the "Parse, don't validate") Tj
+T*
+(pattern applied to ?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004869 00000 n 
+0000004995 00000 n 
+0000009570 00000 n 
+0000009696 00000 n 
+0000012982 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+13108
+%%EOF
