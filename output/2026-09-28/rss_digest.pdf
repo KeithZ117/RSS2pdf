@@ -1,0 +1,324 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4239 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-28 14:24:50) Tj
+T*
+() Tj
+T*
+(1. Quoting Muse AI Agent) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-28T04:01:30+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/28/muse-ai-agent/) Tj
+T*
+(Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited,) Tj
+T*
+(messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative) Tj
+T*
+(rating. Worse, my auto-reply told him "Yep I'm here!" at 9:27 when you clearly weren't) Tj
+T*
+(available, which is on me. That's a bad look and it made the no-show worse. I've sent him an) Tj
+T*
+(apology from your account owning it and offering to try again another day. But the negative) Tj
+T*
+(rating is real, and I should probably stop the auto-replies from claiming you're home when I) Tj
+T*
+(can't verify that. Want me to change the pickup replies so they don't promise you're there? ?) Tj
+T*
+(Muse AI Agent , working on behalf of @matt.j.robb Tags: meta , generative-ai , muse-agent , ai) Tj
+T*
+(, general-agents , llms) Tj
+T*
+() Tj
+T*
+(2. 2026 in LLMs \(so far\)) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-27T23:54:15+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/) Tj
+T*
+(On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San) Tj
+T*
+(Jose. I tied together the key trends from the past year into a chronological exploration of) Tj
+T*
+(everything that happened in 2026. The video is on YouTube ; here are my annotated slides and) Tj
+T*
+(notes to accompany the talk. And as an annotated presentation : # I'm going to give a lightning) Tj
+T*
+(tour of everything that has happened so far in 2026. The year isn't over yet! # For me, 2026) Tj
+T*
+(started a couple of months earlier in November 2025. # November saw the release of two) Tj
+T*
+(important models: Claude Opus 4.5 and GPT-5.1. As is usually the case with new models, these) Tj
+T*
+(were incremental improvements on the models that came before them. But every now and then when) Tj
+T*
+(a model improves, it crosses an invisible line where something that didn't really work starts) Tj
+T*
+(working. In this case, the thing that started working was their coding agents. Claude Code had) Tj
+T*
+(been around since February 2025, Codex was a little younger. These two new models, when paired) Tj
+T*
+(with their respective coding agent harnesses, improved from "often make mistakes" to "reliable) Tj
+T*
+(enough to use on a day-to-day basis". # For a couple of years now I've been...) Tj
+T*
+() Tj
+T*
+(3. S3 Is the Future, S3 Is the Past) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-27T23:09:19+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/27/hn-49871741/) Tj
+T*
+(My comment on S3 Is the Future, S3 Is the Past ? Hacker News. One thing I find notable about S3) Tj
+T*
+(today is that, while it used to drop in price reasonably often, there hasn't been a price drop) Tj
+T*
+(in a full decade : 2006-03-14 $0.150/GB-month 2010-11-01 $0.140/GB-month 2012-02-01) Tj
+T*
+($0.125/GB-month 2012-12-01 $0.095/GB-month 2014-02-01 $0.085/GB-month 2014-04-01) Tj
+T*
+($0.030/GB-month 2016-12-01 $0.023/GB-month Today it's still $0.023/GB-month. Tags:) Tj
+T*
+(amazon-web-services , s3) Tj
+T*
+() Tj
+T*
+(4. Mux: Turn Your Video Into Context) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-27T20:22:00Z) Tj
+T*
+(Link: https://www.mux.com/?utm_campaign=fireball&utm_source=DF) Tj
+T*
+(My thanks to Mux for sponsoring last week at DF. Video isn?t just something to stream; it?s) Tj
+T*
+(structured data you build with. Mux Robots ? hosted AI workflows ? turns video into context.) Tj
+T*
+(Generate chapters, find key moments, translate audio, and more, through one API call, with no) Tj
+T*
+(model hosting to maintain. Each workflow is evaluated against real video, not generic) Tj
+T*
+(benchmarks. Configure the workflows once, and every new upload runs automatically. Mux is video) Tj
+T*
+(infrastructure trusted by Patreon, Substack, and Perplexity. Start building for free. Use code) Tj
+T*
+(FIREBALL for an extra $50 credit. ?) Tj
+T*
+() Tj
+T*
+(5. Katie Notopoulos on Alexandr Wang?s ?Faux-Hallmark Pap?) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4772 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-09-27T20:21:43Z) Tj
+T*
+(Link: https://x.com/katienotopoulos/status/2103993429659386026) Tj
+T*
+(Katie Notopoulos, in a short tweet thread regarding Alexandr Wang?s ?Why We?re Building Muse?) Tj
+T*
+(essay: This makes me feel insane! This is faux-hallmark pap and if you believe for 1 sec that) Tj
+T*
+(he cares about helping people ?spending more time with family? or ?opening a bakery? you don?t) Tj
+T*
+(need to wait for AI to kill us; you?re stupid enough to drown from looking up at the rain. My) Tj
+T*
+(take is much closer to Notopoulos?s than to Manton Reece?s . I think it?s fascinating that) Tj
+T*
+(Wang?s essay doesn?t sound at all like the sterile neutered voice of a Meta executive. I think) Tj
+T*
+(it?s his voice, and he really wrote it. I just think the sentiment he?s expressing is creepy.) Tj
+T*
+(Wang wrote that Muse ?Clears the way and solves all the problems it can until the human part,) Tj
+T*
+(the wanting and the dreaming, is all that?s left.? That?s dystopic, not utopic. It?s the actual) Tj
+T*
+(creation and doing of things that makes life worthwhile ? not just wanting and dreaming about) Tj
+T*
+(it. Wang?s premise only reaffirms my longstanding hunch that Zuckerberg sees Buy n Large as the) Tj
+T*
+(good guys in Wall-E . ?) Tj
+T*
+() Tj
+T*
+(6. International Standard Paper Sizes) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-26T18:46:24Z) Tj
+T*
+(Link: https://www.cl.cam.ac.uk/~mgk25/iso-paper.html) Tj
+T*
+(Markus Kuhn: In the ISO paper size system, the height-to-width ratio of all pages is the square) Tj
+T*
+(root of two \(1.4142 : 1\). In other words, the width and the height of a page relate to each) Tj
+T*
+(other like the side and the diagonal of a square. This aspect ratio is especially convenient) Tj
+T*
+(for a paper size. If you put two such pages next to each other, or equivalently cut one) Tj
+T*
+(parallel to its shorter side into two equal pieces, then the resulting page will have again the) Tj
+T*
+(same width/height ratio. Same principle as the using the square root of 2 to achieve a very) Tj
+T*
+(similar aspect ratio on both the iPhone Duo?s inner and outer displays. With the international) Tj
+T*
+(paper system, you can do things like scale up 2× or scale down 0.5× without changing the) Tj
+T*
+(relative margins. E.g. print or photocopy at 50 percent to get two virtual pages per printed) Tj
+T*
+(page of output. It?s an elegant system. ?) Tj
+T*
+() Tj
+T*
+(7. Human-AI partnerships are for alignment, not capability) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 27 Sep 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/) Tj
+T*
+(It?s common to compare the current AI takeover of software engineering to the rise of AI in) Tj
+T*
+(chess. Chess AIs went from much weaker than serious players to much stronger than even the) Tj
+T*
+(strongest humans. Between those points, there was a middle period dominated by ?centaurs?:) Tj
+T*
+(human-AI partnerships that were stronger than unassisted AIs or humans. Lots of people think) Tj
+T*
+(that we?re currently in a world of software engineering centaurs. According to them, coding AIs) Tj
+T*
+(are not yet capable enough to replace engineers, but AI-assisted engineers are better at) Tj
+T*
+(programming than both AIs and humans. This is partialy correct, but the wrong way to think) Tj
+T*
+(about it. AI-assisted engineers are better, but unlike with chess centaurs, they?re not) Tj
+T*
+(actually better at programming . When I ask agents to write code, they make fewer mistakes than) Tj
+T*
+(I do 1 and are orders of magnitude faster. The code that they write always compiles, rarely has) Tj
+T*
+(race conditions or other concurrency errors, works on mobile browsers, and so on. That doesn?t) Tj
+T*
+(mean I can leave the AI alone. Purely vibe-coding at work produces awful outputs. But they?re) Tj
+T*
+(not awful because they?re bad code , they?re awful because they?re in bad taste : code...) Tj
+T*
+() Tj
+T*
+(8. Gig Review: Public Service Broadcasting's Race For Space at Alexandra Palace ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 27 Sep 2026 11:34:08 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/09/gig-review-public-service-broadcastings-race-for-space-a) Tj
+T*
+(t-alexandra-palace/) Tj
+T*
+(Ahhh! PSB's RFS! A delightfully indulgent soundscape of melodic wonder, performed here on its) Tj
+T*
+(10th \(ish\) anniversary. Is it really nostalgia if an album is only a decade old? It feels like) Tj
+T*
+(it has been in the air forever. For something which is seemingly made up of samples, it would) Tj
+T*
+(have been easy for them to half-arse it and basically just play the CD. Instead we got a full) Tj
+T*
+(band, guest?) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1473 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(9. Humane Interfaces) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 27 Sep 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/humane-interfaces/) Tj
+T*
+(So there I am reading Unsung when I come across this quote from Jef Raskin : An interface is) Tj
+T*
+(humane if it is responsive to human needs and considerate of human frailties. This articulation) Tj
+T*
+(perfectly captures why I recoil at modern ?growth tactics? in user interfaces and experiences:) Tj
+T*
+(they are designed to exploit human frailties, not be considerate of them. Stated again: a) Tj
+T*
+(humane interface ? or a humane system, even a humane technology ? is considerate of human) Tj
+T*
+(frailties. It acknowledges they exist and works with them, rather than taking advantage of) Tj
+T*
+(them. Humane technology does not rely on impulse, addiction, or imposition to survive. It) Tj
+T*
+(survives purely on the free choice of its user. You choose to use it because you have the) Tj
+T*
+(freedom not to. Reply via: Email · Mastodon · Bluesky) Tj
+T*
+() Tj
+T*
+(10. Combo Platter) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-09-27T16:05:10Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17475461/combos-snack-food-history) Tj
+T*
+(Admit it, you were wondering where the hell the gas-station staples Combos came from just as) Tj
+T*
+(much as I was. Anyway, I figured it out. At one point a drill was involved.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004494 00000 n 
+0000004620 00000 n 
+0000009444 00000 n 
+0000009570 00000 n 
+0000011095 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+11221
+%%EOF
