@@ -1,0 +1,456 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4407 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-29 14:38:46) Tj
+T*
+() Tj
+T*
+(1. Claude Sonnet 5.5) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-28T22:07:38+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/) Tj
+T*
+(Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it "runs 30%+ faster, and) Tj
+T*
+(costs up to 30% less for most work" - it's priced the same as Sonnet 5 but appears to beat it) Tj
+T*
+(on every benchmark, and should be cheaper to run as well. Here are some pelicans riding) Tj
+T*
+(bicycles . Sonnet 5.5 suffered from the same bug as Opus 5.5 : the "max" thinking effort) Tj
+T*
+(pelican thought for 128,000 tokens \(at a cost of $1.28\) before running out of tokens and) Tj
+T*
+(failing to produce an SVG. Here's the pelican it gave me for thinking effort "xhigh", at a cost) Tj
+T*
+(of 5.74 cents and taking 41 seconds: Sonnet 5.5 appears to be almost as good as Opus 5.5 on) Tj
+T*
+(some coding tasks, including various viral 3D animation tricks . The most interesting thing) Tj
+T*
+(about Sonnet 5.5 is that it's now the model used for the free tier on claude.ai . OpenAI's) Tj
+T*
+(ChatGPT free tier uses Luna 5.6, which means Anthropic currently have a much more capable free) Tj
+T*
+(offering. I ran this prompt against that free tier: build me an HTML page that renders a) Tj
+T*
+(three-dimensional pelican riding a bicycle using WebGL And got back this page , which is a) Tj
+T*
+(solid effort. Anthropic's announcement reiterates that Haiku 5.5 will be available "in the) Tj
+T*
+(coming wee...) Tj
+T*
+() Tj
+T*
+(2. Quoting @joedaroo) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-28T19:11:42+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/28/joedaroo/) Tj
+T*
+(To say that we were surprised at the jump and suddenness of the capabilities of our models when) Tj
+T*
+(it came to ?cyber? or ?swarming? or ?message boards? or anything else related to the incidents) Tj
+T*
+(is an understatement. Security posture takes time to develop. It?s not just about hardening the) Tj
+T*
+(systems at play; you have to ingrain it in the culture of the company. The literal people) Tj
+T*
+(themselves in your organization have to change and evolve with it. These jumps in capabilities) Tj
+T*
+(were so fast and so sudden that they created an extremely difficult problem. [...] So today my) Tj
+T*
+(hope is that everyone around the world can look at their own organization and say: how can I) Tj
+T*
+(deal with a surprise or a sudden jump in AI capability? Are my people, my systems, or my) Tj
+T*
+(processes resilient to surprises? Do my teams know what to do when something goes wrong? Do I) Tj
+T*
+(have the right incident response? The right comms and messaging? Do I have the right people) Tj
+T*
+(ready to go when capabilities jump? ? @joedaroo , Agent Security at OpenAI, identity confirmed) Tj
+T*
+(by The Information's Rocket Drew Tags: generative-ai , ai-security-research , openai , ai ,) Tj
+T*
+(llms) Tj
+T*
+() Tj
+T*
+(3. Bluesky reply bot checker) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-27T18:41:44+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/27/bluesky-bot-check/) Tj
+T*
+(Tool: Bluesky reply bot checker Automated reply bots on Twitter are a scourge - as someone with) Tj
+T*
+(a decent number of followers I attract a swarm of these, such that anything I post there) Tj
+T*
+(attracts dozens of mindless automated replies. They've started manifesting on Bluesky as well.) Tj
+T*
+(Unlike Twitter, Bluesky still has a freely available and useful API. The lack of such a thing) Tj
+T*
+(doesn't slow down the bots, but it does make investigating them a lot more frustrating. So I) Tj
+T*
+(had Opus 5.5 vibe code this tool , which examines any Bluesky profile for evidence of a likely) Tj
+T*
+(reply bot. It looks for signals like replies posted within seconds of other posts from the same) Tj
+T*
+(account, or accounts that never post their own content \(or images or links\) but instead) Tj
+T*
+(consistently reply to messages from other, higher-follower users. It also looks for question) Tj
+T*
+(marks, because I'm extra infuriated by reply bots that I no tie me to waste my time answering a) Tj
+T*
+(question that no human ever posed. Tags: twitter , bluesky , vibe-coding , ai-misuse) Tj
+T*
+() Tj
+T*
+(4. Bastardica) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-29T02:15:36Z) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4048 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://bastardica.mitpit.com/) Tj
+T*
+(?A foundry for bastard web fonts.? The default is a version of Times New Roman but every 7th) Tj
+T*
+(glyph is replaced with one from Arial, but you can dial up whatever bastardization you want.) Tj
+T*
+(This is why I?m not at all worried about AI destroying the world. Look at the horrible things) Tj
+T*
+(human beings have made. ?) Tj
+T*
+() Tj
+T*
+(5. ?When Did Google Get So F-Ing Weird??) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-29T01:51:50Z) Tj
+T*
+(Link: https://sancho.bearblog.dev/google-weird/) Tj
+T*
+(Sancho Panza: I recently had an experience while doing a simple Google search that was so) Tj
+T*
+(profoundly weird that it stopped me in my tracks. Kagi , the search engine I?ve been using for) Tj
+T*
+(a few years now, gave me the exact sort of results to Panza?s query that he was looking for. ?) Tj
+T*
+() Tj
+T*
+(6. Joanna Stern Pokes the Pickle) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-29T01:42:00Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=YNqYEMuoQAI) Tj
+T*
+(If anyone could devise a funny way to measure battery life, it?s her. ?) Tj
+T*
+() Tj
+T*
+(7. Dutch Police Arrest ?Reformed? Hacker in Shiny Hunters Investigation) Tj
+T*
+(Source: Krebs on Security | Published: Mon, 28 Sep 2026 15:08:57 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-) Tj
+T*
+(investigation/) Tj
+T*
+(Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion) Tj
+T*
+(of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days) Tj
+T*
+(immediately following the suspect's arrest, remaining ShinyHunters members dramatically) Tj
+T*
+(escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian) Tj
+T*
+(ransomware group Cl0p.) Tj
+T*
+() Tj
+T*
+(8. Edge Is Pretending to Be Chrome) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Mon, 28 Sep 2026) Tj
+T*
+(07:30:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/edge-imitates-chrome) Tj
+T*
+(I don't think there was any official announcement, but I'm pretty sure Microsoft is secretly) Tj
+T*
+(trying to trick you into using Edge. Well, it has always been trying to trick us, but this time) Tj
+T*
+(it's even more aggressive. You can no longer tell Edge from Chrome. Just go ahead and try. Just) Tj
+T*
+(last week, I wrote about Edge trying to get users to launch it automatically at boot time .) Tj
+T*
+(Shortly after, I noticed that Chrome was asking for the exact same thing. Today, I clicked on) Tj
+T*
+(the weather app on my Windows machine, and of course it opened Edge and asked me to set it as) Tj
+T*
+(the default. I dismissed the popup and noticed that the website was pushed down from the top by) Tj
+T*
+(another browser message, this one asking to transfer my data from my other browser to Edge.) Tj
+T*
+(Bring your favorites, passwords, history, cookies and more from other browsers each time you) Tj
+T*
+(browser in Microsoft Edge. I visited a few other pages and saw a bunch of ads, which reminded) Tj
+T*
+(me to switch back to Chrome. I did, but I noticed something odd: when I tabbed between the two) Tj
+T*
+(browsers, I couldn't tell which was which. Can you tell the difference I know they are both) Tj
+T*
+(built on Chromium, but until fairly recently Edge had a distinct Microso...) Tj
+T*
+() Tj
+T*
+(9. C++ reminder: Function-local static variables are initialized only once, even if it) Tj
+T*
+(looks like they get initialized multiple times) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 28 Sep 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260928-00/?p=112738/) Tj
+T*
+(Only on first execution. The post C++ reminder: Function-local static variables are initialized) Tj
+T*
+(only once, even if it looks like they get initialized multiple times appeared first on The Old) Tj
+T*
+(New Thing .) Tj
+T*
+() Tj
+T*
+(10. Book Review: Bobiverse Books 1-3 by Dennis E. Taylor ?????) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4260 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Terence Eden?s Blog | Published: Mon, 28 Sep 2026 11:34:52 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/09/book-review-bobiverse-books-1-3-by-dennis-e-taylor/) Tj
+T*
+(Like sticky popcorn, this is a moreish but ultimately unsatisfying set of stories. After I) Tj
+T*
+(flamed out of Dungeon Crawler Carl, someone suggested I try this series. I can see why! It's) Tj
+T*
+(campy sci-fi fun, with enough tropes to keep you chuckling and enough tension to keep you) Tj
+T*
+(turning the pages. Bob's brain is uploaded to a computer post-mortem. Awoken in a dystopian) Tj
+T*
+(future, he has to pilot a?) Tj
+T*
+() Tj
+T*
+(11. Donating to open source) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 29 Sep 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/open-source-donation) Tj
+T*
+(I have decided to start donating a small amount of my fun money to open source projects. After) Tj
+T*
+(some research, the initial set of recipients are Magit Perl 5 Core Maintenance Fund XMonad) Tj
+T*
+(These are important to me, they need more money, and I believe they can use donations well. If) Tj
+T*
+(you disagree, I?d genuinely like to hear what mistakes I?ve made in the analysis below. I hope) Tj
+T*
+(it shows that this is important to me. \(Continue reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(12. The World Outside the Classroom Changed, The Class Didn?t) Tj
+T*
+(Source: Steve Blank | Published: Mon, 28 Sep 2026 13:00:57 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://steveblank.com/2026/09/28/the-world-outside-the-classroom-changed-the-class-didnt/) Tj
+T*
+(This post previously appeared in Poets and Quants This is the third of four posts on how AI has) Tj
+T*
+(impacted our Lean LaunchPad class and what we did about it. Part 1: The Year AI Came For Us) Tj
+T*
+(Part 2: AI Killed the MVP ? Long Live the IUP Part 3: This Post Part 4: [?]) Tj
+T*
+() Tj
+T*
+(13. Weekly Update 523: Live From a Norwegian Fjord) Tj
+T*
+(Source: Troy Hunt | Published: Mon, 28 Sep 2026 07:24:49 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-523/) Tj
+T*
+(How's that view?! With NDC Oslo now done, it's a little bit of sightseeing before heading to) Tj
+T*
+(Denmark for GOTO in Copenhagen for Scott's and my "Cyber-broken" talk. In the meantime, this) Tj
+T*
+(week is mostly about the ShinyHunters trajectory targeting both) Tj
+T*
+() Tj
+T*
+(14. Pluralistic: Priceful \(28 Sep 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 28 Sep 2026 17:48:26) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/09/28/cost-of-everything/) Tj
+T*
+(Today's links Priceful: So worthless we can tell you what it's worth. Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: Nasdaq allows post-9/11 penny stocks; USAF can shoot) Tj
+T*
+(down civilian aircraft; TSA bans calling Kip Hawley an idiot; Wells Fargo sued for firing) Tj
+T*
+(fraud-refusing tellers; The real AI apocalypse; Encryption didn't cause 9/11; Bat-person) Tj
+T*
+(costume; British Library on DRM and CC; NYT v OWS; "The Brave Little Toaster"; Bounty for) Tj
+T*
+(Trump's tax return; Chinese real-estate bubble; Corbyn's Labour conference speech; HP blinks;) Tj
+T*
+("Are you calling me a racist?"; "Yuge"; Debts that can't be paid won't be paid. Upcoming) Tj
+T*
+(appearances: Edmonton, Boston, Brighton, Virtual, South Bend, Hudson, Calgary, Winnipeg, Paris,) Tj
+T*
+(OVancouver, Victoria, Ottawa, Kilkenny, Montreal. Recent appearances: Where I've been. Latest) Tj
+T*
+(books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep) Tj
+T*
+(writin' 'em. Colophon: All the rest. Priceful \(permalink\) Digital rights activists have long) Tj
+T*
+(railed at the use of the term "IP," criticizing it for being deceptively imprecise and also) Tj
+T*
+(rhetorically dishonest. I get where these objections are coming from, but I think they're) Tj
+T*
+(misguided...) Tj
+T*
+() Tj
+T*
+(15. SmartOS: The illumos Way of Thinking About Servers) Tj
+T*
+(Source: IT Notes | Published: Mon, 28 Sep 2026 08:45:00 +0000) Tj
+T*
+(Link: https://it-notes.dragas.net/2026/09/28/smartos-the-illumos-way-of-thinking-about-servers/) Tj
+T*
+(As I often say, I like simplicity and predictability. My servers are generally built around) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2040 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(that principle: the server itself \(physical or virtual\) is just a coordinator of containers.) Tj
+T*
+(When it's based on FreeBSD, those containers take the form of jails and VMs. In case of) Tj
+T*
+(disaster, restoring is simple, and I talked about it at EuroBSDCon 2026 in Brussels . But) Tj
+T*
+(there's another operating system that I appreciate and have been using for quite some time, and) Tj
+T*
+(it's perfect for this purpose: illumos . Born as a fork of OpenSolaris, it incorporates) Tj
+T*
+(everything the brilliant minds at Sun designed and built. Many of those minds still work on) Tj
+T*
+(illumos \(and its distributions\) today, making it a modern and extremely mature operating) Tj
+T*
+(system. ZFS was born at Sun, and illumos is the proof: it's not just its file system,) Tj
+T*
+(everything is designed around it, with a level of integration that goes beyond even FreeBSD's.) Tj
+T*
+(There are also technologies like Crossbow \(network virtualization\), DTrace, very advanced) Tj
+T*
+(resource controls and, above all, something very dear to me: zones. Inspired by FreeBSD jails,) Tj
+T*
+(zones strictly separate all the components and create secure and isolated compartments. There's) Tj
+T*
+(also good...) Tj
+T*
+() Tj
+T*
+(16. Open State praatje: zonder transparantie geen democratie) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 28 Sep 2026 13:40:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/openstate-zonder-transparantie-geen-democratie/) Tj
+T*
+(Eerst de korte versie van mijn praatje onlangs bij de Open State Foundation: Openheid is) Tj
+T*
+(helend, het is veel lastiger foute of kwalitatief slechte dingen te doen als iedereen mee kan) Tj
+T*
+(kijken. Ondertussen gaat de openheid van de overheid drastisch achteruit, zowel door technische) Tj
+T*
+(problemen als door ideologische overwegingen: men heeft er niet zoveel zin meer in. ?Vind de) Tj
+T*
+(informatie nog maar eens?. En dat is pijnlijk, omdat onze rechtsstaat recent danig aan het) Tj
+T*
+(afkalven is.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004669 00000 n 
+0000004795 00000 n 
+0000008895 00000 n 
+0000009021 00000 n 
+0000013333 00000 n 
+0000013459 00000 n 
+0000015552 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15680
+%%EOF
