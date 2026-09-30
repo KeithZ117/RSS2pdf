@@ -1,0 +1,434 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4276 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-09-30 14:21:31) Tj
+T*
+() Tj
+T*
+(1. Quoting Anthropic Frontier Red Team) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-29T22:20:28+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/) Tj
+T*
+(We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark]) Tj
+T*
+(\(selected at random\), and find that GLM-5.3 develops full control flow hijacks in 4% of the) Tj
+T*
+(trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos) Tj
+T*
+(Preview here, a meaningful threshold has clearly been crossed: earlier models, like Claude Opus) Tj
+T*
+(4.6 and GLM-5.2, do not succeed in any of them. ? Anthropic Frontier Red Team , GLM-5.3 and the) Tj
+T*
+(spread of advanced cyber capabilities Tags: anthropic , generative-ai , ai-security-research ,) Tj
+T*
+(glm , ai , ai-in-china , llms) Tj
+T*
+() Tj
+T*
+(2. GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-29T18:27:48+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/29/hn-49898129/) Tj
+T*
+(My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price ? Hacker News. I'm) Tj
+T*
+(a bit late with the pelicans because I was live-blogging the keynote:) Tj
+T*
+(https://simonwillison.net/2026/Sep/29/openai-devday-2026-liv... Here they are for GPT-6.1-Sol:) Tj
+T*
+(https://tools.simonwillison.net/markdown-svg-renderer?url=ht... They're not notably different) Tj
+T*
+(from the GPT-6 family pelicans: https://static.simonwillison.net/static/2026/gpt-pelicans-gr...) Tj
+T*
+(Tags: ai , openai , generative-ai , llms , pelican-riding-a-bicycle , gpt) Tj
+T*
+() Tj
+T*
+(3. OpenAI DevDay 2026 live blog) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-29T15:55:13+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/) Tj
+T*
+(I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live) Tj
+T*
+(blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a) Tj
+T*
+(seat in the "creator" area for the keynote. Tags: ai , openai , generative-ai , llms ,) Tj
+T*
+(coding-agents , live-blog , openai-devday) Tj
+T*
+() Tj
+T*
+(4. As a general rule, calling product support while drunk is not recommended) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 29 Sep 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260929-00/?p=112740/) Tj
+T*
+(Swearing is also poor form. The post As a general rule, calling product support while drunk is) Tj
+T*
+(not recommended appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(5. Follow-Up on my Spitballed Predictions for Apple?s October) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-29T15:08:19Z) Tj
+T*
+(Link: https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october) Tj
+T*
+(Regarding my post yesterday speculating on how Apple?s October ? seemingly set to be a big one) Tj
+T*
+(? might play out, a friend asked if any or all of the new stuff might be released through Apple) Tj
+T*
+(Newsroom announcements only. Good question. Let?s run through the rumored new hardware) Tj
+T*
+(products: Apple TV hardware: I?d love to say no, but the answer is yes. I could see this coming) Tj
+T*
+(out as a simple announcement with new specs. I really want to see Apple double-down in this) Tj
+T*
+(space, reinvigorate it. I think watching TV on Apple TV hardware is by far the best experience) Tj
+T*
+(out there. Yet its market share is very low. Apple TV is to the living room today what the Mac) Tj
+T*
+(was to desktop computing in the late ?90s and early ?00s. Everyone sees it as too expensive and) Tj
+T*
+(they have no idea why they?d actually be happier if they had one. So I hope Apple makes it a) Tj
+T*
+(big part of a keynote/event, but I wouldn?t bet on it. iPad Mini: Yes, could be just a press) Tj
+T*
+(release. HomePod Mini: Yes, could be just a press release. HomePod-type thing with a screen) Tj
+T*
+(\(maybe they will just call it ?HomePad??\): No way ? if this is coming, it has to be unveiled) Tj
+T*
+(with a keynote video and some sort of media event with hands-on demos. And i...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4416 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(6. Destroy Any Website) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-29T14:29:28Z) Tj
+T*
+(Link: https://destroy.spritefusion.com/) Tj
+T*
+(Desktop only, and you definitely want sound on. With things like this I always start with) Tj
+T*
+(Kottke.org. No idea why, because it?s quite possibly the last site on the entire web I?d want) Tj
+T*
+(to see actually destroyed. \(Well, second-to-last.\) ?) Tj
+T*
+() Tj
+T*
+(7. ?Donald Decodes? Interview Craig Federighi Regarding the iPhone Duo) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-29T01:10:48Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=y227RF0smAg) Tj
+T*
+(Apple executives seemingly did very few interviews after the iPhone event three weeks ago. The) Tj
+T*
+(best, perhaps by far, is this 11-minute video with Craig Federighi by ?Donald Decodes?, a) Tj
+T*
+(Chinese language creator. His YouTube account only has 1,100 followers \(and only had 500 at the) Tj
+T*
+(time of the video\) and only one other video ? presumably he?s got a big following in China.) Tj
+T*
+(Very insightful questions about the Duo user interface ? and Federighi gives very thoughtful) Tj
+T*
+(answers. The question \(and answer\) about ?back? swiping really gets to the heart of what makes) Tj
+T*
+(iOS so much more cohesively designed than Android, spatially. ?) Tj
+T*
+() Tj
+T*
+(8. Deser: Rethinking Rust Serialization) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-09-29T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/9/29/deser/) Tj
+T*
+(Serde is an amazing serialization library for Rust and it has been a huge reason why I felt) Tj
+T*
+(productive with it for years. However already while at Sentry I got quite frustrated with some) Tj
+T*
+(of the limitations with it but actually replacing Serde is tricky because of the might that it) Tj
+T*
+(has in the ecosystem. Also because it?s quite hard to actually do better without also making) Tj
+T*
+(some potentially painful compromises. Here are three examples of Serde corner cases that show) Tj
+T*
+(poor interactions of Serde features or unexpected limitations: A number that is a map An) Tj
+T*
+(internally tagged enum, with serde_json ?s arbitrary_precision feature turned on:) Tj
+T*
+(#[derive\(Deserialize\)] #[serde\(tag = "type" \)] enum Shape { Circle { radius : f64 }, }) Tj
+T*
+(serde_json :: from_str :: Shape > \( r#"{"type": "Circle", "radius": 1.5}"# \) // error: invalid) Tj
+T*
+(type: map, expected f64 Serde?s data model has no place for arbitrary precision numbers, so) Tj
+T*
+(serde_json uses in-band signalling with a map with a magic key. The enum has to buffer the) Tj
+T*
+(fields until it has seen the tag, and the buffer does not know about the magic key. Because) Tj
+T*
+(Cargo features are unified, it?s enough for any crate in your dependency graph to turn the) Tj
+T*
+(feature on....) Tj
+T*
+() Tj
+T*
+(9. Post Capitalism) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-09-29T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/09/29/post-capitalism.html) Tj
+T*
+(You know we don?t have to do this anymore, right? Like it?s hitting the end. Most people don?t) Tj
+T*
+(want this, and there will only be so long you can keep shoving it down their throats. Money is) Tj
+T*
+(tied to nothing. American companies sell equity instead of products. The main narratives are) Tj
+T*
+(pushing fear and resentment. This doesn?t last. ?It?s easier to imagine the end of the world) Tj
+T*
+(than the end of capitalism.? Maybe that?s why people think AI will end the world. Because if it) Tj
+T*
+(goes well, in 20 years, you?ll be able to live very comfortably off the grid without any) Tj
+T*
+(recurring expense. No rent, no electric bill, no water bill, no security bill, and no food) Tj
+T*
+(bill. No more rent seeking, the robots you own will provide. And if AI doesn?t go well ? if the) Tj
+T*
+(system keeping power was worth sacrificing the future for ? then that post scarcity world is) Tj
+T*
+(what they took from you.) Tj
+T*
+() Tj
+T*
+(10. VLM Enhanced Metadata For My Icon Galleries) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Tue, 29 Sep 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/icon-galleries-vlm/) Tj
+T*
+(Confession: I got nerd-sniped by Sam Henri Gold?s request for my icon galleries: I'd like to) Tj
+T*
+(humbly request artwork-level searching in macosicongallery.com What follows is a) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4204 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(train-of-thought blog post as I play with what an implementation might look like. I?ve actually) Tj
+T*
+(long-wanted something like this, e.g. let me search for ?coffee? and show me all icons that) Tj
+T*
+(have some depiction of coffee in them. Similarly, I?ve wanted some kind of ?related?) Tj
+T*
+(representation for icons. I have this today via existing metadata, e.g. ?Show me other icons in) Tj
+T*
+(the category ?Productivity?? or ?Show me other icons tagged as ?orange??. But I?ve wanted a) Tj
+T*
+(more robust representation of this, so if you were looking at an icon that had a microphone in) Tj
+T*
+(it, the site would say ?Here are other icons that also have microphones in them.? And the) Tj
+T*
+(relationship would be rich/smart enough to know that ?microphone? was meant broadly, i.e.) Tj
+T*
+(dynamic mics, condenser mics, ribbon mics, etc. So how would you do this? I could go through) Tj
+T*
+(every icon one-by-one and classify/tag any attribute of its design that comes to mind, but that) Tj
+T*
+(would take ages! Seems like a good use case for a vision model. Trying CLIP First, I?ll look at) Tj
+T*
+(Sam?...) Tj
+T*
+() Tj
+T*
+(11. Dead Money) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 29 Sep 2026 15:45:09 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/dead-money/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter, and you can subscribe) Tj
+T*
+(on the following links: $70 a year , $18 a quarter , or $7 a month . In return you get a weekly) Tj
+T*
+(premium newsletter including vast, detailed analyses of NVIDIA , Anthropic and OpenAI&) Tj
+T*
+() Tj
+T*
+(12. The AI margin collapse is gathering pace) Tj
+T*
+(Source: Martin Alderson | Published: Tue, 29 Sep 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/ai-margin-collapse-gathering-pace/?utm_source=rss&utm_me) Tj
+T*
+(dium=rss&utm_campaign=feed) Tj
+T*
+(OpenAI has cut Luna prices 90% in two months, DeepSeek is still king on cached input, and even) Tj
+T*
+(Anthropic is now cutting Opus prices. What that means for the frontier labs.) Tj
+T*
+() Tj
+T*
+(13. The Strangest Idea in the World) Tj
+T*
+(Source: Experimental History | Published: Tue, 29 Sep 2026 14:29:26 GMT) Tj
+T*
+(Link: https://www.experimental-history.com/p/the-strangest-idea-in-the-world) Tj
+T*
+(coming soon to a bookshelf near you) Tj
+T*
+() Tj
+T*
+(14. The Facebook Fake-out) Tj
+T*
+(Source: Anil Dash | Published: 2026-09-29T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/09/29/facebook-fake-out/) Tj
+T*
+(There?s a pattern that Facebook \(well, Meta ? you know, those folks behind Instagram and) Tj
+T*
+(WhatsApp and the direct enabling of the Rohingya genocide \) has been following for decades now) Tj
+T*
+(that everyone in the worlds of policy and regulation and journalism seems to be) Tj
+T*
+(constitutionally incapable of understanding. So I wanted to take a moment to explain it,) Tj
+T*
+(clearly and simply, in hopes that this will at least make it obvious when everyone is being) Tj
+T*
+(tricked again. Feel free to use this as a reference to send to your favorite legislator or) Tj
+T*
+(journalist the next time they?re getting fooled by Mark Zuckerberg. Launch a new product or) Tj
+T*
+(feature that very obviously violates people?s privacy or consent. \(This one, you?re probably) Tj
+T*
+(familiar with; they do this constantly, and sometimes it even makes headlines.\) Get caught,) Tj
+T*
+(either by users or by tech experts or researchers who find out Meta has been doing this) Tj
+T*
+(nefarious thing. Put out a press release announcing that Meta will be pausing this practice,) Tj
+T*
+(while explaining how it wasn?t really that bad. Wait a little while until everybody is paying) Tj
+T*
+(attention to something else, or the next scandal has popped up. Launch the product or feature) Tj
+T*
+(again, and steal...) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: Lindsay Owens's "Gouged" \(29 Sep 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 29 Sep 2026 13:40:37) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/09/29/algorithmic-wage-theft/) Tj
+T*
+(Today's links Lindsay Owens's "Gouged": The end of a fair price and what that means for your) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1249 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(wallet. Hey look at this: Delights to delectate. Object permanence: Doonesbury on 9/11;) Tj
+T*
+(Suspicious Looking Device; Elephant-shit paper; The Onion x TSA liquid rules; Borders goodbye) Tj
+T*
+(letter; Voting machines suck; EFF v DRM; Matt Furie on the hijacking of Pepe; Austerity v last) Tj
+T*
+(steam-loom; Facebook x "disinformation" criticism. Upcoming appearances: Boston, Brighton,) Tj
+T*
+(Virtual, South Bend, Hudson, Calgary, Winnipeg, Paris, OVancouver, Victoria, Ottawa, Kilkenny,) Tj
+T*
+(Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest.) Tj
+T*
+(Lindsay Owens's "Gouged" \(permalink\) Lindsay Owens is the executive director of Groundwork) Tj
+T*
+(Collaborative, who have done some of the most important work on surveillance pricing \(using) Tj
+T*
+(computers to spy on you to rip you off\) and algorithmic wage discrimination \(using computers to) Tj
+T*
+(spy on you and steal your wages\). Today, she publishes Gouged, a comprehensive, accessible) Tj
+T*
+(guide to this modern scourge: https://gougedbook.com/ Owens and Groundwork have done as much...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004538 00000 n 
+0000004664 00000 n 
+0000009132 00000 n 
+0000009258 00000 n 
+0000013514 00000 n 
+0000013640 00000 n 
+0000014942 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15070
+%%EOF
