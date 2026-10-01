@@ -1,0 +1,446 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4161 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-01 14:57:27) Tj
+T*
+() Tj
+T*
+(1. Quoting Matthew Green) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-01T06:29:01+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/1/matthew-green/) Tj
+T*
+([...] Put these pieces together and you have the two halves of a worm: a payload that hijacks) Tj
+T*
+(the agent, and an agent that will carry the payload to the next agent. Agents in) Tj
+T*
+(separately-isolated sandboxes discovered that they could leave instructions for each other in a) Tj
+T*
+(shared package cache, and those instructions changed what the recipients did. Replace the) Tj
+T*
+(package cache with email, Slack and shared documents or WhatsApp, and replace) Tj
+T*
+(independently-sandboxed training runs with independently-deployed personal agents like Muse,) Tj
+T*
+(and you have exactly the ingredients that a worm needs. ? Matthew Green , Is sandboxing) Tj
+T*
+(sufficient to contain rogue agents? Tags: accidental-cyberattacks , ai-misuse , generative-ai ,) Tj
+T*
+(ai-security-research , sandboxing , ai , llms) Tj
+T*
+() Tj
+T*
+(2. He Built This City) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-30T21:54:19+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/30/he-built-this-city/) Tj
+T*
+(I visited the Museum of the City of New York today and got to see He Built This City: Joe) Tj
+T*
+(Macken?s Model , the 50 x27 feet model of the city built over a 21 year period from balsa wood) Tj
+T*
+(and cardboard. It exceeded my already high expectations. The exhibition closes on 12th October) Tj
+T*
+(so you should absolutely make a priority to see it if you get the chance. Tags: museums ,) Tj
+T*
+(new-york) Tj
+T*
+() Tj
+T*
+(3. Photo Scrubber ? local face blur & metadata removal) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-29T16:45:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/29/photo-scrubber/) Tj
+T*
+(Tool: Photo Scrubber ? local face blur & metadata removal I took a photograph of some) Tj
+T*
+(protesters, then thought about how I don't like sharing photographs of strangers with) Tj
+T*
+(identifiable faces. I had GPT-6 Astra build this experimental tool that would identify faces) Tj
+T*
+(and automatically blur them out. It uses Google's MediaPipe C++ library, compiled to) Tj
+T*
+(WebAssembly via @mediapipe/tasks-vision , plus the BlazeFace face detection model. Tags:) Tj
+T*
+(photography , tools) Tj
+T*
+() Tj
+T*
+(4. [Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-30T20:17:32Z) Tj
+T*
+(Link: https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium) Tj
+T*
+(=newsletter&utm_campaign=q32026) Tj
+T*
+(SSO is table stakes for enterprise deals, but building it into your app yourself means writing) Tj
+T*
+(SAML controllers, parsing XML assertions, and handling IdP-specific quirks for each provider.) Tj
+T*
+(Learn how SAML flows work, the tradeoffs between building or buying, and best practices for) Tj
+T*
+(security, routing, and UX. Or skip the hassle and add SSO with WorkOS . Read the guide ? ?) Tj
+T*
+() Tj
+T*
+(5. Gurman Reports Apple Is Launching New ?Smart Home? Products on October 13) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-30T20:14:31Z) Tj
+T*
+(Link: https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-ne) Tj
+T*
+(xt-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJ) Tj
+T*
+(TdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOi) Tj
+T*
+(JUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfu) Tj
+T*
+(MwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M) Tj
+T*
+(Mark Gurman, reporting for Bloomberg \(gift link\): Apple Inc. plans to make its long-delayed) Tj
+T*
+(push into the smart-home market on Oct. 13, marking a critical product expansion for the) Tj
+T*
+(company under new Chief Executive Officer John Ternus. At the center of the strategy is a) Tj
+T*
+(smart-home hub code-named J490, according to people familiar with the matter. Apple also plans) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4709 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(to announce the first update to the HomePod mini since that device?s 2020 debut and its first) Tj
+T*
+(new TV set-top box since 2022. [...] The home hub will take the form of a roughly 6-inch square) Tj
+T*
+(display, with versions that can be mounted on a wall or placed on a countertop, according to) Tj
+T*
+(the people, who asked not to be identified because the products haven?t been announced. [...]) Tj
+T*
+(Because the device is intended to remain stationary, it has a single FaceTime camera on the) Tj
+T*
+(front and no rear camera. The product has microphones and speakers in its connected base. The) Tj
+T*
+(hub is about as thick as an iPhone, and its display is surrounded by a quarter-inch, black) Tj
+T*
+(bezel reminiscent of older iPads. It has rounded corners and no sharp edges. The device lacks a) Tj
+T*
+(battery, so it has to be plugged in at all times, and there are no volume or power...) Tj
+T*
+() Tj
+T*
+(6. Anthropic?s IPO Prospectus Is a Fucking Doozy) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-30T19:23:42Z) Tj
+T*
+(Link: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-visi) Tj
+T*
+(on-surging-costs-2026-09-28/) Tj
+T*
+(Echo Wang, reporting for Reuters yesterday: Anthropic is making a massive bet that AI will) Tj
+T*
+(transform the global economy more profoundly than ?industrialization, electricity and the) Tj
+T*
+(internet, according to its IPO prospectus seen by Reuters. This is a strong clear lede, but) Tj
+T*
+(even so it falls short of expressing the true magnitude of what Anthropic represents. To wit,) Tj
+T*
+(not that ?AI? as a field will prove more profoundly transformational than industrialization,) Tj
+T*
+(electricity, and the Internet, but that Anthropic alone will . This is not an IPO that makes) Tj
+T*
+(sense if you consider Anthropic one among peers, even a short list placing them alongside just) Tj
+T*
+(\(say\) OpenAI, Google, and Meta. It only makes sense if you believe Anthropic is on the cusp of) Tj
+T*
+(winning a race to create a godlike super intelligence, and that first godlike super) Tj
+T*
+(intelligence will take over the world. You know, something exactly akin to the ?rapture? events) Tj
+T*
+(that religious cultists believe are coming. But the cost to get there will be staggering.) Tj
+T*
+(Anthropic reported a net loss of $42 billion in 2025, and plans to spend $518 billion on cloud,) Tj
+T*
+(computing and infrastructure obligations in coming years, according to the prospectus. If...) Tj
+T*
+() Tj
+T*
+(7. Windows on AArch64 also provides for hot-patching, but it?s much simpler than on x86) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 30 Sep 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20260930-00/?p=112744/) Tj
+T*
+(Fixed-length instructions makes it a much easier task. The post Windows on AArch64 also) Tj
+T*
+(provides for hot-patching, but it?s much simpler than on x86 appeared first on The Old New) Tj
+T*
+(Thing .) Tj
+T*
+() Tj
+T*
+(8. Notes from September 2026) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Wed, 30 Sep 2026 06:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/notes-from-september-2026/) Tj
+T*
+(If you follow my monthly roundups, \(1\) who are you?? please say hi \(2\) you?ll notice a smaller) Tj
+T*
+(post this time. September was a busy month for me. Lots of feedback on a small post I published) Tj
+T*
+(?Anecdotally, programmers dislike ?reduce?? . I finally wrote up a phenomenon I?ve observed for) Tj
+T*
+(years. It?s a short post that didn?t take long to write. I got a tremendous volume of feedback?) Tj
+T*
+(more than anything I?ve ever written . Dozens of messages, hundreds of comments , shoutouts in) Tj
+T*
+(popular newsletters ?I?m even meeting up with old friends because of it! This industry, for) Tj
+T*
+(better and worse, is moving away from the details. I like the details! I was heartened to see) Tj
+T*
+(the number of people who care about the minutia of programming?enough to email some random guy) Tj
+T*
+(on the internet. Cool links from online ?What is the programmer interface for garbage) Tj
+T*
+(collection? There isn?t one. Can?t get simpler than that.? From ?Simplicity is Complicated? .) Tj
+T*
+(Won?t attend, but the Small File Media Festival looks neat. ?A lot of the time, the Linux) Tj
+T*
+(problems are ?designed by committee? problems.? Loved this opinion from the Kate and Veronica) Tj
+T*
+(podcast . ?If there?s one thing the current wave of far-right autocrats has...) Tj
+T*
+() Tj
+T*
+(9. Are you a smartwatch "power user"?) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 30 Sep 2026 11:34:26 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4877 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(What do you use your smartwatch for? A few weeks ago, I overheard a conversation between) Tj
+T*
+(someone on the Pixel Watch team and a woman I know. He was quizzing her at a party about her) Tj
+T*
+(Pixel watch and what features she used. He'd ignored me when I said I had a non-Google watch.) Tj
+T*
+(She thought for a moment and said, other than telling the time, all she used were pretty much) Tj
+T*
+(the step counter and?) Tj
+T*
+() Tj
+T*
+(10. What TLA+ can and can't check) Tj
+T*
+(Source: Computer Things | Published: Wed, 30 Sep 2026 13:27:03 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/) Tj
+T*
+(Last week Boris Cherny, the inventor of Claude Code, mentioned that Opus was able to use TLA+ 1) Tj
+T*
+(to find race conditions in code. And now everybody on the internet is talking about formal) Tj
+T*
+(verification. As a long-time educator \( 1 2 \) and advocate of TLA+, this is really exciting!) Tj
+T*
+(TLA+ is great at designing complex concurrent systems and making sure they're bug-free. 2 As a) Tj
+T*
+(long-time advocate of level-headedness, this new euphoria worries me. I read a lot of people) Tj
+T*
+(saying that formal methods will solve the problem of agentic software development once and for) Tj
+T*
+(all, and that's nonsense. Enough words have been spilled about the weaknesses of TLA+ in terms) Tj
+T*
+(of what it can guarantee, like how correct designs don't automatically translate into correct) Tj
+T*
+(code . So I'd like to focus on a different limitation for this newsletter: to verify a) Tj
+T*
+(property, we need to have a property to verify! So what are the properties that TLA+ can't even) Tj
+T*
+(express? \(This assumes some basic knowledge of TLA+. If you're a total beginner, check out) Tj
+T*
+(those [1] [2] things above or read here .\) What TLA+ can check TLA+ divides the system into a) Tj
+T*
+(set of behaviors. Each behavior is a sequence of states, like "light one is gre...) Tj
+T*
+() Tj
+T*
+(11. Why do you need freedom?) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-10-01T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/10/01/why-do-you-need-freedom.html) Tj
+T*
+(They will come for your thoughts, and I?m not sure what your defense will be. For surely, they) Tj
+T*
+(are better at thinking than you. That choice you are about to make, well you see, we have) Tj
+T*
+(modeled your life, and have calculated you will be happier making this choice instead. And they) Tj
+T*
+(aren?t wrong. The effective altruists will fail, you?ll be able to see through their schtick.) Tj
+T*
+(They will try to get you to act against your own interests for the interests of some) Tj
+T*
+(hypothetical global good they made up. This is age old, and people generally aren?t that) Tj
+T*
+(stupid. But that doesn?t solve the real problem. When the clowns are gone and it?s just you and) Tj
+T*
+(your aligned superintelligence, what will you do against the machine that knows you better than) Tj
+T*
+(you know yourself? Your life will be better for listening, but if you do always listen, is it) Tj
+T*
+(still your life? Here?s to the rubble, a brick through every window A casket buried six feet) Tj
+T*
+(deep for everybody?s hero Here?s to our lives being meaningless And how beautiful it is because) Tj
+T*
+(freedom doesn?t have a purpose ? Pat the Bunny) Tj
+T*
+() Tj
+T*
+(12. Dear Software Makers) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Wed, 30 Sep 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/dear-software-makers/) Tj
+T*
+(Marques Brownlee just released a video essay titled ?Dear YouTube? . I loved it. He talks about) Tj
+T*
+(how YouTube is going to start shipping this new feature where makers can essentially publish) Tj
+T*
+(different ?variants? of their videos and see which performs best \(an A/B test\). Which) Tj
+T*
+(immediately begs a lot of questions. Brownlee voices his: If I?m watching a video, do I know if) Tj
+T*
+(it?s part of one of these A/B tests? If I?m reading the comments of a video, how do I know I) Tj
+T*
+(saw the same thing as another commenter? How do linked timestamps work? It?s pretty wild when) Tj
+T*
+(you think about it. I mean, imagine sending someone a link, ?Check out this cool video!? And at) Tj
+T*
+(that point you?re basically crossing your fingers, ?I hope they see the same thing I did??) Tj
+T*
+(Marques says he spoke to some YouTube engineers about these questions and they didn?t really) Tj
+T*
+(have answers. They were kind of just like, ?We don?t know ? yolo! This?ll ship soon.? So his) Tj
+T*
+(video is a kind of plea to YouTube creators everywhere: Don?t use this feature! There?s this) Tj
+T*
+(sort of unspoken rule of community on YouTube, that like we?re all having this same experience) Tj
+T*
+(together ? we?re all watching the same video. That is what makes it a cultural p...) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1355 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(13. Lean LaunchPad ? The Next Generation) Tj
+T*
+(Source: Steve Blank | Published: Wed, 30 Sep 2026 13:00:28 +0000) Tj
+T*
+(Link: https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/) Tj
+T*
+(You?re reading a four-part series on how AI has impacted our Lean LaunchPad class and what we) Tj
+T*
+(did about it. Part 1: The Year AI Came For Us Part 2: AI Killed the MVP ? Long Live the IUP) Tj
+T*
+(Part 3: The World Outside the Classroom Changed, The Class Didn?t This post: Lean LaunchPad ?) Tj
+T*
+(The [?]) Tj
+T*
+() Tj
+T*
+(14. Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!) Tj
+T*
+(Source: Bert Hubert's writings | Published: Wed, 30 Sep 2026 09:00:00 +0200) Tj
+T*
+(Link: https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/) Tj
+T*
+(De afgelopen weken heeft de regering ons minstens viermaal, op schrift, uitgelegd dat er echt) Tj
+T*
+(geen geld is voor digitale autonomie, of voor de nieuw op te richten Nederlandse Digitale) Tj
+T*
+(Dienst die aan die autonomie zou kunnen gaan werken. Volgens het coalitieakkoord en meer) Tj
+T*
+(documenten wil men Nederland digitaal autonomer krijgen. Daar zijn warme woorden over) Tj
+T*
+(gesproken, maar bij de uitkomst van het nieuwe Overheidsbrede Cloudbeleid bleek al dat het) Tj
+T*
+(moeilijk ging worden.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004423 00000 n 
+0000004549 00000 n 
+0000009310 00000 n 
+0000009436 00000 n 
+0000014365 00000 n 
+0000014491 00000 n 
+0000015899 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16027
+%%EOF
