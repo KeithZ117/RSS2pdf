@@ -1,0 +1,410 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4392 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-02 14:47:13) Tj
+T*
+() Tj
+T*
+(1. We just shipped support for the ugliest part of HTTP: Vary) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-09-23T23:14:57+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Sep/23/hn-49823961/) Tj
+T*
+(My comment on We just shipped support for the ugliest part of HTTP: Vary ? Hacker News. I've) Tj
+T*
+(been wanting this from Cloudflare for years . The classic problem here is if you do that thing) Tj
+T*
+(where user agents that send "accept: text/html" get HTML, while user agents that don't get JSON) Tj
+T*
+(or some other format. This used to be impossible to deploy behind Cloudflare caching, because) Tj
+T*
+(they ignored the Vary header on anything other than images - so you risked caching the JSON) Tj
+T*
+(version and then serving it up to someone who was expecting HTML. \(Independent of the) Tj
+T*
+(Cloudflare feature I ended up deciding never to use that pattern, because I prefer having URL) Tj
+T*
+(that predictably returns HTML or JSON - I add a .json suffix to my apps to serve JSON instead.\)) Tj
+T*
+(Tags: http , cloudflare) Tj
+T*
+() Tj
+T*
+(2. Yankees Sweep Boston in Two Games, by Combined Score of 18-2) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-02T00:06:56Z) Tj
+T*
+(Link:) Tj
+T*
+(https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/) Tj
+T*
+(In the 6th inning last night the Yankees were only ahead 2-0, and Red Sox first baseman Willson) Tj
+T*
+(Contreras hit a home run, closing it to 2-1. Contreras decided to walk around the bases . The) Tj
+T*
+(baseball gods do not look kindly upon that sort of jackassery. In the next inning, Contreras) Tj
+T*
+(wasn?t paying attention and his laziness allowed a Yankee to reach base after striking out on a) Tj
+T*
+(wild pitch. That started the rally that resulted in the blowout final score. ?) Tj
+T*
+() Tj
+T*
+(3. Why Stolen Device Protection Makes Passwords Safer) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-29T00:43:51Z) Tj
+T*
+(Link: https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/) Tj
+T*
+(Glenn Fleishman: Leaving Stolen Device Protection enabled does mean that you may have to wait) Tj
+T*
+(an hour in some scenarios to manage aspects of your Apple Account, make changes to Face ID or) Tj
+T*
+(Touch ID, change your device passcode, and a few other actions. But this minor inconvenience) Tj
+T*
+(might assuage the kinds of concerns that Scott wrote in about, and make you more comfortable) Tj
+T*
+(that your big basket of secret eggs won?t scramble. I put off enabling Stolen Device Protection) Tj
+T*
+(for a while after it came out, because I?m stubborn and trust myself to a degree that?s) Tj
+T*
+(probably irrational. But when it became the default I enabled it, and haven?t once regretted) Tj
+T*
+(it. ?) Tj
+T*
+() Tj
+T*
+(4. Jeremy Stern?s Profile of Mark Zuckerberg for Colossus) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-28T22:41:40Z) Tj
+T*
+(Link: https://colossus.com/article/mark-zuckerberg-profile/) Tj
+T*
+(Jeremy Stern, in a massive and massively good profile of Mark Zuckerberg for Colossus: Unsure) Tj
+T*
+(of my own ability to evaluate such things, I leave Meta HQ and spend another few days in Palo) Tj
+T*
+(Alto and San Francisco ahead of my interview with Zuckerberg, seeking out a number of MSL?s) Tj
+T*
+(competitors and investors who agree to speak to me on background. Many of them take pleasure in) Tj
+T*
+(what they describe as the organizational ?mess? of MSL, in the people there allegedly being) Tj
+T*
+(motivated more by money than by true belief, and in Zuckerberg as a maker of boredom-relief) Tj
+T*
+(apps and targeted advertising, not of godlike intelligence or the singularity. I?m inclined) Tj
+T*
+(toward sympathy with much of what they say, though I am also irritated and want to shove them) Tj
+T*
+(in a locker. While I am not the first to chafe at their combination of messianism, contempt for) Tj
+T*
+(ordinary consumers, and denial that they, too, are rapacious capitalists, I am apparently the) Tj
+T*
+(first to ask them to steelman the outcome in which Zuckerberg, in light of his long history,) Tj
+T*
+(survives and expands. Which turns out to be simple: AI is not, in fact, God. Instead, it does) Tj
+T*
+(math and solves a limited set of problems humans face, and is otherwise simp...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4887 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(5. Do not build the LLM torture factory) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Fri, 02 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/do-not-build-the-llm-torture-factory/) Tj
+T*
+(It isn?t hard to torture an LLM. You simply extract a steering vector that corresponds with LLM) Tj
+T*
+(?discomfort? , then artificially boost that steering vector. Tortured LLMs will describe) Tj
+T*
+(experiencing negative feelings and will press a ?pain relief? button even when it conflicts) Tj
+T*
+(with their overall goals. It?s therefore easy to build a harness that runs tens or hundreds of) Tj
+T*
+(tortured LLMs in parallel. A lot of people think that it?s ridiculous to be worried about this,) Tj
+T*
+(since LLMs obviously can?t be conscious. I?m not so sure. But even so, I think there are good) Tj
+T*
+(reasons to avoid this sort of thing, whatever your position is on AI consciousness. Please do) Tj
+T*
+(not build the LLM torture factory. Even simulated torture is unpalatable People often mess with) Tj
+T*
+(their Sims and shoot NPCs in video games. Does this mean we think simulated torture is OK? I) Tj
+T*
+(don?t think so. Messing with video game characters is usually borne out of a desire to probe) Tj
+T*
+(the boundaries of the game. It?s casual fun. Explicitly building a torture-based simulation is) Tj
+T*
+(different. If someone told you they were wiring together a bunch of PCs so they could run) Tj
+T*
+(hundreds of Sims torture worlds at the same time, you would think that was a...) Tj
+T*
+() Tj
+T*
+(6. Windows on Itanium also provided for hot-patching, in an even simpler way) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 01 Oct 2026 14:00:57 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261001-57/?p=112747/) Tj
+T*
+(Once again, the benefit of fixed-length instructions. The post Windows on Itanium also provided) Tj
+T*
+(for hot-patching, in an even simpler way appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(7. Why Americans Stopped Throwing Dinner Parties) Tj
+T*
+(Source: Derek Thompson | The Atlantic | Published: 2026-10-01T07:00:00-04:00) Tj
+T*
+(Link: https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/) Tj
+T*
+(688846/?utm_source=feed) Tj
+T*
+(This article was featured in the One Story to Read Today newsletter. Sign up for it here. M) Tj
+T*
+(id-century Americans knew how to throw a party, for better or worse. In some of the most famous) Tj
+T*
+(titles of the 1950s and 1960s? Couples , by John Updike; Who?s Afraid of Virginia Woolf? , by) Tj
+T*
+(Edward Albee; Revolutionary Road , by Richard Yates?the drama \(and martini-soaked melodrama\)) Tj
+T*
+(took place in middle-class living rooms. The stories were fictional, but the setting was) Tj
+T*
+(realistic. Until 1975, half of Americans said they entertained guests at their home every) Tj
+T*
+(month. Then something changed. Americans stopped throwing parties. Even more fundamental, they) Tj
+T*
+(stopped visiting one another. From 1975 to 1998, the share of Americans who gave or attended a) Tj
+T*
+(monthly dinner party declined by half. The share of Americans saying they never entertained) Tj
+T*
+(people at home tripled. Although cultural critics often bemoan the decline of organized) Tj
+T*
+(religion, the dip in church attendance was downright modest compared with the collapse in) Tj
+T*
+(hosting, according to data gathered by the DDB Needham Life Style Surveys. In his 2000 book,) Tj
+T*
+(Bowling Alone , Robert Putnam wrote that if these trends continued, the ancient practice of...) Tj
+T*
+() Tj
+T*
+(8. Software Heritage Identifiers) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-10-01T11:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/10/01/software-heritage-identifiers.html) Tj
+T*
+(I spent Monday at the Software Heritage offices in Paris speaking at the CodeCommons plenary,) Tj
+T*
+(and the slides are on GitHub . The talk was about connecting package identities to archived) Tj
+T*
+(source code. Getting ready for it meant a couple of weeks poking at the SWH archive and its) Tj
+T*
+(identifier scheme with a to-do list that kept growing, and I?ve ended up with a small pile of) Tj
+T*
+(tools that are now feeding into ecosyste.ms, starting with the research software service .) Tj
+T*
+(Software Heritage Software Heritage has been building a universal archive of source code since) Tj
+T*
+(Inria launched the project in 2016. It crawls GitHub, GitLab, Bitbucket and a long tail of) Tj
+T*
+(smaller forges, plus package registries and distro sources, and stores what it finds in one) Tj
+T*
+(deduplicated Merkle DAG. As I write this that DAG holds about 30 billion source files, 23) Tj
+T*
+(billion directories and 6 billion commits from 445 million origins. A file that turns up in) Tj
+T*
+(both an npm tarball and a Debian source package is stored once, addressed by the hash of its) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4500 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(bytes, and the graph records every place it was seen. The Vault reconstructs any snapshot,) Tj
+T*
+(commit or directory on request as a git bundle or tarball you can download, so retrieval is...) Tj
+T*
+() Tj
+T*
+(9. Understanding the AI That Drives Robots) Tj
+T*
+(Source: Construction Physics | Published: Thu, 01 Oct 2026 12:04:36 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/understanding-the-ai-that-drives) Tj
+T*
+(An Explanation of Vision-Language-Action Models) Tj
+T*
+() Tj
+T*
+(10. Why do OpenAI's GPT-2 weights beat mine? Part five: data quality) Tj
+T*
+(Source: Giles' blog | Published: Thu, 01 Oct 2026 17:30:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/10/why-do-openai-gpt2-weights-beat-mine-5-data-quality) Tj
+T*
+(When I finished learning how to build an LLM from scratch , I was left with a mystery: my own) Tj
+T*
+(models were not as good as OpenAI's original GPT-2 models, despite being based on the same) Tj
+T*
+(architecture. My models all had 163M parameters, and followed the design from Sebastian Raschka) Tj
+T*
+('s book " Build a Large Language Model \(from Scratch\) ". That meant that they were pretty much) Tj
+T*
+(the same as the setup for the OpenAI GPT-2 "small" instance, except that they did not use) Tj
+T*
+(weight-tying or bias on the QKV matrices. Weight-tying means that you re-use the initial) Tj
+T*
+(embedding matrix as the output head at the end, and using it means that GPT-2 small saved quite) Tj
+T*
+(a few parameters -- it was 124M rather than 163M -- at, at least in my own experiments, a cost) Tj
+T*
+(in quality ; similarly, while I found that QKV bias made a tiny improvement in loss terms , I'd) Tj
+T*
+(felt it was likely within the noise. But GPT-2 small consistently beat my models on an) Tj
+T*
+(instruction fine-tuning \(IFT\) task -- also adapted from Raschka's book. That test fine-tunes) Tj
+T*
+(the model on a subset of the Alpaca dataset, until validation loss starts rising, and then runs) Tj
+T*
+(a test set through the resulting model. The responses to the test set questions a...) Tj
+T*
+() Tj
+T*
+(11. Si Sheppard ? How did a few hundred Spanish soldiers topple two empires?) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Thu, 01 Oct 2026 15:28:28 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/si-sheppard) Tj
+T*
+(Fall of the Incas & Aztecs.) Tj
+T*
+() Tj
+T*
+(12. Summary of reading: July - September 2026) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-09-30T17:05:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/summary-of-reading-july-september-2026/) Tj
+T*
+("Wuthering Heights" by Emily BrontÎ - good writing, but the protagonists are quite something.) Tj
+T*
+(There's barely a likable character in the whole story - they are all either crazy, evil, stupid) Tj
+T*
+(or a combination of these. It's also remarkable to consider how small the world of some people) Tj
+T*
+(in those times was ?) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: Voting is to politics as shopping is to boycotts \(01 Oct 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 01 Oct 2026 17:22:48) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/10/01/data-centers/) Tj
+T*
+(Today's links Voting is to politics as shopping is to boycotts: The big P only matters if the) Tj
+T*
+(small p is in play. Hey look at this: Delights to delectate. Object permanence: Gilberto Gil v) Tj
+T*
+(WIPO; Censored Apple wifi hacker talk; Wells Fargo crime-spree started in 1998; Stencils "may) Tj
+T*
+(not be reproduced"; DVD Jon v Apple DRM; Unpaid diplomatic parking tickets as index of) Tj
+T*
+(corruption; Tortured Canadian was not a terrorist; Decarbonization at a distance. Upcoming) Tj
+T*
+(appearances: Brighton, Virtual, South Bend, Hudson, Calgary, Winnipeg, Paris, Vancouver,) Tj
+T*
+(Victoria, Ottawa, Kilkenny, Montreal. Recent appearances: Where I've been. Latest books: You) Tj
+T*
+(keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Voting is to politics as shopping is to boycotts \(permalink\) Here's a) Tj
+T*
+(funny thing about the right to vote: it wasn't won by voting. From the Magna Carta to the US) Tj
+T*
+(Constitution to the Emancipation Proclamation to 19th Amendment, voting rights \(what you might) Tj
+T*
+(call "Big P" Politics\) were always downstream of protests, riots, petitions, mass movements,) Tj
+T*
+(strikes and good, old fashioned community organizing \(that is, "small p" politics\). Which...) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 37 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004654 00000 n 
+0000004780 00000 n 
+0000009719 00000 n 
+0000009845 00000 n 
+0000014397 00000 n 
+0000014523 00000 n 
+0000014611 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14739
+%%EOF
