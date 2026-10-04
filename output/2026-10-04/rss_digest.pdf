@@ -1,0 +1,488 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4224 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-04 14:39:32) Tj
+T*
+() Tj
+T*
+(1. We're going to need default hard budget caps on pretty much everything) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-03T23:34:02+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) Tj
+T*
+(Here's a product feature which the world is going to need a whole lot more of over the coming) Tj
+T*
+(months and years: default hard budget caps . I'm talking about the feature of pay-by-usage) Tj
+T*
+(services and APIs that lets you say "after $X/month, cut this thing off and return errors".) Tj
+T*
+(These need to be hard limits. Soft caps, "after $X/month, send me a warning email", will not) Tj
+T*
+(cut it. Coding agents, and personal agents \(coding agents wrapped in a less threatening UI\),) Tj
+T*
+(greatly reduce the friction of spinning up code that can do useful things. Sometimes those) Tj
+T*
+(things cost money - calls to paid APIs, or hosted web applications, or systems that can bill) Tj
+T*
+(for additional storage and compute. Nobody wants to wake up to an email sent at midnight) Tj
+T*
+(warning about a budget limit and find that, while they slept, their rogue service had consumed) Tj
+T*
+(several hundred \(or several thousand\) more dollars of usage. An argument against this is that) Tj
+T*
+(businesses don't want their hosted applications to start throwing errors because some budget) Tj
+T*
+(was exceeded. I expect that most businesses and individuals would prefer errors to a surprise) Tj
+T*
+($10,000+ bill. I think hard budget caps need to be the default. If someone wants to liv...) Tj
+T*
+() Tj
+T*
+(2. September sponsors-only newsletter) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-03T22:00:31+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/3/newsletter/) Tj
+T*
+(I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor) Tj
+T*
+(\(or start a sponsorship now\) you can access it here . This month: More Fable class models A) Tj
+T*
+(pricing war 3D graphics, Blender, and pixel art LLMs come for mathematics So many more) Tj
+T*
+(accidental cyberattacks The vulnapocalypse comes for Datasette What I'm using right now My) Tj
+T*
+(software releases this month 2026 in LLMs \(so far\) Here's a copy of the August newsletter as a) Tj
+T*
+(preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags:) Tj
+T*
+(newsletter) Tj
+T*
+() Tj
+T*
+(3. Rex's Dino Store) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-02T22:57:38+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/2/rex-s-dino-store/) Tj
+T*
+(Museum: Rex's Dino Store Located just before the turnstiles in the Grand Army Plaza subway) Tj
+T*
+(station at the north end of Brooklyn's Prospect Park is this former newsstand which is now) Tj
+T*
+(operated by a dinosaur. The density of dinosaur puns is exceptional . Tags: art , new-york) Tj
+T*
+() Tj
+T*
+(4. WorkOS) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-03T21:23:10Z) Tj
+T*
+(Link: https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium) Tj
+T*
+(=newsletter&utm_campaign=q32026) Tj
+T*
+(My thanks to WorkOS for sponsoring this last week, once again, at DF. SSO is table stakes for) Tj
+T*
+(enterprise deals, but building it into your app yourself means writing SAML controllers,) Tj
+T*
+(parsing XML assertions, and handling IdP-specific quirks for each provider. Learn how SAML) Tj
+T*
+(flows work, the tradeoffs between building or buying, and best practices for security, routing,) Tj
+T*
+(and UX. Or, skip the hassle and add SSO with WorkOS . Read their developer?s guide to learn) Tj
+T*
+(more ? everything from how SSO works to why WorkOS is the fastest way to add it. ?) Tj
+T*
+() Tj
+T*
+(5. Apple Confirms iPhone 18 Pro Max AT&T Cellular Issues, Affected Devices Require) Tj
+T*
+(Hardware Replacement) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-03T18:21:14Z) Tj
+T*
+(Link: https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affec) Tj
+T*
+(ted-devices-require-hardware-replacement/) Tj
+T*
+(Chance Miller, 9to5Mac: In a statement to 9to5Mac, Apple said: We have identified an issue) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4534 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(affecting a small number of iPhone 18 Pro Max users on the AT&T network that may cause a device) Tj
+T*
+(to lose service and be unable to make calls. We released iOS 27.0.1 earlier this week and) Tj
+T*
+(strongly encourage all iPhone 18 Pro Max users to update now, and are also issuing a carrier) Tj
+T*
+(settings update today. These updates together are meant to help prevent this issue from) Tj
+T*
+(occurring. The carrier settings update for the iPhone 18 Pro Max will download automatically) Tj
+T*
+(over the next 14 days. However, users can manually trigger the download by going to Settings,) Tj
+T*
+(choosing General, then About. Apple explains that the software updates will help prevent future) Tj
+T*
+(issues for iPhone 18 Pro Max users on AT&T. The software updates will not restore service on) Tj
+T*
+(devices that have already lost it. Apple says that iPhone 18 Pro Max users who have already) Tj
+T*
+(lost service will need a hardware replacement. Those users should contact Apple Support or) Tj
+T*
+(AT&T, or visit an Apple Store or AT&T location. As we reported this morning , iPhone 18 Pro Max) Tj
+T*
+(users affected by this problem can?t connect to AT&T?s network for calls, texts, and d...) Tj
+T*
+() Tj
+T*
+(6. Duo-Man) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-28T16:35:02Z) Tj
+T*
+(Link: https://x.com/viditb/status/2104103592726765722) Tj
+T*
+(Vidit Bhargava \(developer of LookUp and Movie Buzz \): Duo-Man offers the complete walkman) Tj
+T*
+(experience on the iPhone Duo. Open the Duo to pick and ?insert? the cassette, Close the Duo to) Tj
+T*
+(start listening. Yes, I actually recorded the button clicks and static noise from a real) Tj
+T*
+(Walkman! More like this, please. ?) Tj
+T*
+() Tj
+T*
+(7. Why is there no Windows hot-patching support for other architectures like 32-bit ARM) Tj
+T*
+(and MIPS?) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 02 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261002-00/?p=112753/) Tj
+T*
+(They either predate hot-patching or never needed it. The post Why is there no Windows) Tj
+T*
+(hot-patching support for other architectures like 32-bit ARM and MIPS? appeared first on The) Tj
+T*
+(Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Shipping is the foundation) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sat, 03 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/shipping-is-the-foundation/) Tj
+T*
+(There are lots of skills involved in being a successful engineer at a big tech company. Running) Tj
+T*
+(effective meetings, writing good design docs, fleshing out tickets and epics, improving team) Tj
+T*
+(processes, tech leading small groups of engineers, and so on. But all of these rest on the) Tj
+T*
+(foundation of being able to ship. In Dota 2, the early game involves ?laning?: competing with) Tj
+T*
+(an enemy player to collect resources from a small area. There are many, many strategies and) Tj
+T*
+(considerations involved in laning. But the simplest possible approach is just to run at your) Tj
+T*
+(opponent and attack them until they?re forced to either run away or die. All the other laning) Tj
+T*
+(strategies must solve that problem first, because it doesn?t matter how well you play if you?re) Tj
+T*
+(forced out of the playing area. If you get that wrong, it doesn?t matter how much else you get) Tj
+T*
+(right. In Magic: the Gathering and Starcraft, many players adopt an ?aggro? strategy of) Tj
+T*
+(building an attacking force as early as possible before the enemy player has time to construct) Tj
+T*
+(a defense. That constrains the entire strategy space of the game, because it doesn?t matter how) Tj
+T*
+(clever your plan is if it loses to aggro every time. Even when there are no...) Tj
+T*
+() Tj
+T*
+(9. Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Sun, 04 Oct 2026) Tj
+T*
+(02:30:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep) Tj
+T*
+(Three years ago, I bought an Asus laptop, specifically the Zenbook Pro 17. It's a powerful) Tj
+T*
+(machine and works just fine for my needs, but it had one problem that made me want to either) Tj
+T*
+(return it or throw it out the window. I would work on projects for hours on end and close the) Tj
+T*
+(lid when I was done. I haven't manually shut down a computer in more than 10 years. I only do) Tj
+T*
+(so after a forced update or during a debugging session. So I would close the lid, and a couple) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4679 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(of hours later I would open it back up. Instead of waking from sleep, the computer would start) Tj
+T*
+(from scratch as if it had been turned off and the battery was nearly dead. That meant) Tj
+T*
+(everything I had open was closed. I'm lucky that most of the applications I run can restore a) Tj
+T*
+(previous session, but it was extremely annoying. I had a similar issue with my previous Asus,) Tj
+T*
+(and I had blamed Windows for it. The computer often woke from sleep just so Microsoft could) Tj
+T*
+(perform an update, which used up all my battery. Sometimes I would open my backpack to find a) Tj
+T*
+(dead laptop that was warm to the touch. I've written this blog post at least five times. Each) Tj
+T*
+(time I thought I had solved the issue, but then it came back. This time, though, I...) Tj
+T*
+() Tj
+T*
+(10. Miquel?s pivot theorem) Tj
+T*
+(Source: John D. Cook | Published: Sat, 03 Oct 2026 22:53:41 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/03/miquels-pivot-theorem/) Tj
+T*
+(Euclidean geometry dates back at least to Euclid \(circa 300 BC\), and so you might think it?s) Tj
+T*
+(been pretty well picked over by now. And yet people still occasionally discover new plane) Tj
+T*
+(geometry theorems. Some of these new theorems are complicated, asking question that the) Tj
+T*
+(ancients would not have asked. But once in a while [?] The post Miquel?s pivot theorem first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. This Week in Package Management: 3 October 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-10-03T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/10/03/this-week-in-package-management.html) Tj
+T*
+(Week twenty of the roundup, built from the package manager OPML feed collection and whatever) Tj
+T*
+(I?ve posted or boosted on Mastodon . Releases mise 2026.10.0 requires keyless cosign bundles to) Tj
+T*
+(match a pinned signer identity and stops GitHub attestation workflow checks accepting partial) Tj
+T*
+(matches. 2026.9.18 added an include key that lets mise.toml pull a shared config fragment from) Tj
+T*
+(a git repository or OCI registry, limited to tools, env, vars, hooks and aliases, with paranoid) Tj
+T*
+(mode requiring a full commit sha or OCI digest. npm 12.2.0 accepts OIDC authentication for npm) Tj
+T*
+(dist-tag , previously token-only. On the registry side, trusted publishing configurations now) Tj
+T*
+(have an opt-in dist-tag permission , off by default, so a workflow can manage latest , next and) Tj
+T*
+(similar tags without a long-lived token. pnpm 12.9 adds a per-registry networkConcurrency) Tj
+T*
+(setting, records every installed project in the store, and stops pnpm login forwarding) Tj
+T*
+(credentials in the request body to another origin on redirect. 12.8 warns when pnpm pack or) Tj
+T*
+(pnpm publish would put a .env file in the tarball. RubyGems 4.0.22 keeps credentials on) Tj
+T*
+(redirects only within the same origin. It also validates the version field in Gem::...) Tj
+T*
+() Tj
+T*
+(12. Reading List 2026-10-03) Tj
+T*
+(Source: Construction Physics | Published: Sat, 03 Oct 2026 13:14:44 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-2026-10-03) Tj
+T*
+(A Senate permitting reform bill, the potential of Tesla?s Cybercab, the Navy?s $200 billion) Tj
+T*
+(worth of shipyard renovations, returning a SR-71 to service, and more.) Tj
+T*
+() Tj
+T*
+(13. Dyson CameraJet) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-10-03T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/10/03/dyson-camerajet.html) Tj
+T*
+(So when I saw Dyson had a $500 toothbrush , I was excited. Finally, advertising that targets) Tj
+T*
+(me! I love brushing my teeth, and I have more money than I know how to spend. Not because I?m) Tj
+T*
+(particularly rich, but because most stuff doesn?t really appeal to me. Like if I owned a) Tj
+T*
+(helicopter it would just be a headache, because like imagine one day I get a call from the) Tj
+T*
+(hangar saying the hangar is flooding and the water is rising and you need to move your) Tj
+T*
+(helicopter. I?m thousands of miles away and need a helicopter pilot in the next 30 minutes, a) Tj
+T*
+(new place to store it, was the maintenance even done will we even be able to take off on short) Tj
+T*
+(notice and really I just am upset with myself because I made the poor decision to purchase a) Tj
+T*
+(helicopter, and once I come back to reality I feel relieved that I don?t own a helicopter and) Tj
+T*
+(this scenario will never happen to me. I do however, by means of my birthday, own a Dyson) Tj
+T*
+(CameraJet \(pictured above\). It broke within 30 seconds of the first brushing. None of the LEDs) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3401 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(turn on anymore. I spent an hour investigating, finally opening the user removable battery) Tj
+T*
+(compartment to find the Spearmint Dyson Low-foaming mouth rinse had leaked inside. And by) Tj
+T*
+(how...) Tj
+T*
+() Tj
+T*
+(14. Connect Sony WH-1000XM3 on Arch Linux and a buggy UGREEN Bluetooth adapter) Tj
+T*
+(Source: Jayden?s Blog | Published: 2026-10-03T09:25:00+00:00) Tj
+T*
+(Link: https://jayd.ml/2026/10/03/sony-headphones-action-bluetooth-adapter.html) Tj
+T*
+(Tried to connect to my Sony WH-1000XM3 headphones on Arch Linux KDE, it would try and connect) Tj
+T*
+(but fail with The setup of WH-1000XM3 failed . I have a UGREEN USB Bluetooth 5.3 Adapter) Tj
+T*
+(adapter, which contains an Actions ATS2851 chipset. Apparently this is a known chipset quirk) Tj
+T*
+(with Sony headphones and this adapter . Attempting to connect manually with bluetoothctl would) Tj
+T*
+(just stall out: bluetoothctl]> scan bredr SetDiscoveryFilter success Discovery started [CHG]) Tj
+T*
+(Controller F4:4E:FC:77:8F:36 Discovering: yes [NEW] Device 54:3A:D6:26:7A:E4 [TV] Samsung Q80AA) Tj
+T*
+(65 TV [NEW] Device CC:DE:AD:BE:EE:FF WH-1000XM3 [bluetoothctl]> scan off Discovery stopped) Tj
+T*
+([CHG] Device CC:DE:AD:BE:EE:FF RSSI is nil [CHG] Device 54:3A:D6:26:7A:E4 RSSI is nil [CHG]) Tj
+T*
+(Controller F4:4E:FC:77:8F:36 Discovering: no [bluetoothctl]> pair CC:DE:AD:BE:EE:FF Attempting) Tj
+T*
+(to pair with CC:DE:AD:BE:EE:FF [CHG] Device CC:DE:AD:BE:EE:FF Connected: yes [DEL] Device) Tj
+T*
+(54:3A:D6:26:7A:E4 [TV] Samsung Q80AA 65 TV [WH-1000XM3]> The Workaround This only happens when) Tj
+T*
+(you do initial pairing. If you skip pair it apparently works. power off power on agent off) Tj
+T*
+(agent KeyboardDisplay default-agent scan bredr \(wait for headphones to appear\) scan o...) Tj
+T*
+() Tj
+T*
+(15. Pluralistic: Economic probabilities for our grandchildren \(03 Oct 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 03 Oct 2026 12:07:59) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/10/03/full-employment/) Tj
+T*
+(Today's links Economic probabilities for our grandchildren: If only data centers would stop) Tj
+T*
+(hogging all the copper. Hey look at this: Delights to delectate. Object permanence: RIAA v P2P;) Tj
+T*
+(Infoseek's anti-terror brain-scanner; Copyrighting every phone number; Carving pumpkins with) Tj
+T*
+(cookie-cutters; Polish women go on strike; Latent labor in material world; Hitler's meth;) Tj
+T*
+("Flying Saucers Are Real!"; Hope, not optimism; Broadcast Flag talk; David Suzuki's free) Tj
+T*
+(research; "Inquisitor's Apprentice"; California's tax ban made the rich MUCH richer; Union) Tj
+T*
+(organizers caught Wells Fargo; Power poses aren't real; "Ghosts"; Criticizing tech; "Savage) Tj
+T*
+(Love A-Z." Upcoming appearances: Brighton, Virtual, South Bend, Hudson, Calgary, Winnipeg,) Tj
+T*
+(Paris, OVancouver, Victoria, Ottawa, Kilkenny, Montreal. Recent appearances: Where I've been.) Tj
+T*
+(Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll) Tj
+T*
+(keep writin' 'em. Colophon: All the rest. Economic probabilities for our grandchildren) Tj
+T*
+(\(permalink\) The post-war "peace dividend" owed its existence to three factors: industrial) Tj
+T*
+(capacity, political freedom and pent-up demand. Industrial capacity: freed up by the war's end) Tj
+T*
+(and the...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004486 00000 n 
+0000004612 00000 n 
+0000009198 00000 n 
+0000009324 00000 n 
+0000014055 00000 n 
+0000014181 00000 n 
+0000017635 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+17763
+%%EOF
