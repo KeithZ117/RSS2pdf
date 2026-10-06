@@ -1,0 +1,416 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4442 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-06 15:17:42) Tj
+T*
+() Tj
+T*
+(1. Quoting Felix Rieseberg) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-05T23:56:47+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/5/felix-rieseberg/) Tj
+T*
+(The "old" version of Cowork runs model inference in the cloud, executing tool calls in an) Tj
+T*
+(Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and) Tj
+T*
+(security reasons - mapping in just the data you explicitly added to your session. People loved) Tj
+T*
+(what they were able to do with Claude but didn't love the disk, battery, and performance cost) Tj
+T*
+(of running the VM locally. Also, people didn't love that closing your laptop means the work) Tj
+T*
+(stops. The "new" version of Cowork runs model inference and the VM in the cloud. Each session) Tj
+T*
+(gets its own sandbox, not sharing state with other sessions. When the VM needs something on the) Tj
+T*
+(users' device \(like a file\), the desktop app is responsible for that file access tool call.) Tj
+T*
+([...] We think this solves a lot of problems we've heard about \(like using Cowork from a phone,) Tj
+T*
+(keeping work running, or getting all the same power without losing battery to the VM\) ? Felix) Tj
+T*
+(Rieseberg , Anthropic, see also this help page Tags: claude-cowork , anthropic , claude ,) Tj
+T*
+(generative-ai , ai , general-agents , llms) Tj
+T*
+() Tj
+T*
+(2. Qwen3.8 27B addition in words) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-04T23:34:00+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/) Tj
+T*
+(Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he) Tj
+T*
+(ran over two years ago using GPT-4o to see how well it could "compute the sum but return the) Tj
+T*
+(answer in words" across increasingly large numbers. Here's the chart he shared of those) Tj
+T*
+(results: I'm confident GPT-4o didn't cheat and use a calculator, especially since it got so) Tj
+T*
+(many of the calculations wrong, but I was inspired to run the experiment again on local) Tj
+T*
+(hardware \(a DGX Spark\) to explore the effect in a fully controlled environment. I pasted his) Tj
+T*
+(image into a Codex Remote session \(GPT-6 Astra\) and had it run the same experiment using) Tj
+T*
+(Qwen3.8-27B-Q4_K_M.gguf . Here's the result for a run of 30 attempts per combination with) Tj
+T*
+(reasoning disabled: Then I ran it again with reasoning enabled. This took a lot longer per) Tj
+T*
+(pair, so instead of running 30 samples per square I ran just one - which results in a much less) Tj
+T*
+(visually appealing heatmap since each square is either 100% or 0%: It got the right answer in) Tj
+T*
+(167 out of 169 attempts, and since these were one-shot I'm confident a second run would produce) Tj
+T*
+(different results here. Here's a version of the report that includes the reasoning traces) Tj
+T*
+(from...) Tj
+T*
+() Tj
+T*
+(3. pwasm 0.2a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-01T17:10:31+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/1/pwasm/) Tj
+T*
+(Release: pwasm 0.2a0 pwasm is one of my folly projects - an entirely vibe-coded pure Python) Tj
+T*
+(WebAssembly engine that I built in January during my first bout of AI mania . I hadn't touched) Tj
+T*
+(it since January, so I decided to let Claude Opus 5.5 loose on it and see if it could make any) Tj
+T*
+(significant improvements: Evaluate current state of pwasm - then consider what it would take to) Tj
+T*
+(get the MicroPython and micro JavaScript experiments from the research repo working under it -) Tj
+T*
+(and what it would take to speed it up 42 commits later \(with minimal follow-up prompting\) it) Tj
+T*
+(now handles almost all of the WASM specification, and the wheel from PyPI bundles working WASM) Tj
+T*
+(builds of MicroPython , QuickJS and Micro QuickJS . I wouldn't trust this thing at all - hence) Tj
+T*
+(the alpha version tag - but it's interesting seeing how today's models can improve on the work) Tj
+T*
+(of models from 10 months ago. Tags: python , webassembly , vibe-coding) Tj
+T*
+() Tj
+T*
+(4. Steve Jobs, Walking Through a Mockup for Apple Park in 2010) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-06T02:49:44Z) Tj
+T*
+(Link: https://book.stevejobsarchive.com/#photo-37) Tj
+T*
+(What an apt photo, today of all days. What a gift Make Something Wonderful is. ?) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4195 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(5. [Sponsor] Sunnny) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-05T23:49:05Z) Tj
+T*
+(Link: https://sunnny.com/) Tj
+T*
+(How can B2B software be so friggin? delicious? Early access drops 10/19. Spread the love. ?) Tj
+T*
+() Tj
+T*
+(6. OpenAI Announces Their Text Watermarking Plans) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-05T22:59:14Z) Tj
+T*
+(Link: https://openai.com/index/eu-text-provenance/) Tj
+T*
+(OpenAI, today: The EU AI Act requires generative AI providers to make generated text) Tj
+T*
+(identifiable in a machine-readable way. Text watermarking and detection remain early) Tj
+T*
+(technologies with significant limitations, and views about their benefits and responsible uses) Tj
+T*
+(are still developing. Our phased approach reflects both the EU AI Act requirements as well as) Tj
+T*
+(the technology?s limitations, with an emphasis on transparency about what a text watermark can) Tj
+T*
+(and cannot tell people: Starting today, API customers globally will be able to opt in to text) Tj
+T*
+(watermarking for select models. Text watermarking will remain off by default in the API. Over) Tj
+T*
+(the coming weeks, we will add an invisible watermark to eligible ChatGPT and Codex text output) Tj
+T*
+(in the European Union. We?re opening applications to access our text watermark detector. Access) Tj
+T*
+(will initially be limited to approved researchers and expert organizations that can help us) Tj
+T*
+(evaluate and improve the technology. First, unlike Anthropic, OpenAI is only forcing this upon) Tj
+T*
+(users in the EU, where it?s mandated by their ill-considered 2024 regulation. Second, also) Tj
+T*
+(unlike Anthropic, OpenAI has made this available via an API so developers should be able...) Tj
+T*
+() Tj
+T*
+(7. If somebody tries to hot-patch an already-hot-patched function, how do they avoid) Tj
+T*
+(conflicts?) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 05 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/) Tj
+T*
+(Hot-patching is for Windows, not for you. The post If somebody tries to hot-patch an) Tj
+T*
+(already-hot-patched function, how do they avoid conflicts? appeared first on The Old New Thing) Tj
+T*
+(.) Tj
+T*
+() Tj
+T*
+(8. Benchmark In Milliseconds) Tj
+T*
+(Source: matklad | Published: 2026-10-05T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/10/05/benchmark-milliseconds.html) Tj
+T*
+(How long should a micro benchmark run? My rule of thumb is to tweak the input size until the) Tj
+T*
+(benchmark takes about 300ms, for the following reasons:) Tj
+T*
+() Tj
+T*
+(9. The indicators of a quality website \(somewhat silly\)) Tj
+T*
+(Source: Maurycy's Blog | Published: Sun, 04 Oct 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/misc/quality/indicators.html) Tj
+T*
+(You know it's a good website when it: Uses subdomains \(except for username.platform.com\) ...) Tj
+T*
+(especially multiple levels Has a non-standard port number in URL Is served over a plaintext) Tj
+T*
+(connection Uses very nearly default styles All tag names are written in SCREAMING CASE The path) Tj
+T*
+(ends in .html The URL has meaningful directories and names The HTML has typos Has commented out) Tj
+T*
+(draft work Handmade index pages --> Of course, these are all just indicators of age. 1. The use) Tj
+T*
+(of subdomains fell out of favor due to IP address exhaustion and reverse proxy software. If) Tj
+T*
+(your going to be setting up a proxy anyways, it doesn't make much sense to fiddle around with) Tj
+T*
+(DNS. \(which often makes setting up TLS harder\) On my site, the server handling / and /mcu) Tj
+T*
+(aren't even on the same continent. At one point, it was standard practice to setup a subdomains) Tj
+T*
+(per protocol in case one had to be moved to new infrastructure, but HTTP is the last one) Tj
+T*
+(standing: public access FTP/Gopher/Telnet are just about extinct. Even in places where they) Tj
+T*
+(absolutely should be used, subdomains seem to have fallen out of fashion. Many companies will) Tj
+T*
+(register a new domain for an internal service instead of putting it under their...) Tj
+T*
+() Tj
+T*
+(10. [RSS Club] Changes to the RSS and Atom feeds) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4559 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Terence Eden?s Blog | Published: Mon, 05 Oct 2026 11:34:03 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/) Tj
+T*
+(This content is exclusive to RSS and Atom subscribers. It is not on the web. Shhhhh! A few) Tj
+T*
+(weeks ago I accidentally broke some of your feed readers. I was using blocks in the feed. That) Tj
+T*
+(allows me to put in raw HTML without the need for escaping. Unfortunately, some feed readers) Tj
+T*
+(unescaped text which should have remained escaped. Confusing, innit? Anyway, if you've a mind) Tj
+T*
+(to, I'd b?) Tj
+T*
+() Tj
+T*
+(11. Missing Link) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-10-06T02:59:08Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance) Tj
+T*
+(Some spare thoughts about Link, a newspaper that turned 20 years old today?but more or less) Tj
+T*
+(changed my life. It's been 18 years, but I still miss that job.) Tj
+T*
+() Tj
+T*
+(12. Pluralistic: Scrutinized \(05 Oct 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 05 Oct 2026 18:58:11) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/10/05/pervert-glasses/) Tj
+T*
+(Today's links Scrutinized: Pervert glasses vs the authentic self. Hey look at this: Delights to) Tj
+T*
+(delectate. Object permanence: DRM-free in the UK; Maple-leaf roses; Italian Wikipedia shuts) Tj
+T*
+(down; Vancouver's property speculator tax works; Ex-Soviet leftists launch "September"; "The) Tj
+T*
+(Every"; Nielsen x Chinese internet; Get-a-cluevog; Cat EULA; Heart carafe; Millennials screwed;) Tj
+T*
+(Apple's unlawful evil. Upcoming appearances: Virtual, South Bend, Hudson, Calgary, Winnipeg,) Tj
+T*
+(Paris, OVancouver, Victoria, Ottawa, Kilkenny, Oxford, Montreal. Recent appearances: Where I've) Tj
+T*
+(been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said,) Tj
+T*
+(I'll keep writin' 'em. Colophon: All the rest. Scrutinized \(permalink\) We're repeatedly told) Tj
+T*
+(that the killer app for pervert glasses ? Meta's AI-enabled camera glasses and their imitators) Tj
+T*
+(? is that they will remind you of someone's name and spare you the social awkwardness of not) Tj
+T*
+(recognizing them. I admit to finding this proposition very seductive. I'm mildly face-blind \(I) Tj
+T*
+(had two aunts I wasn't able to reliably tell apart until I was 12 or 13 and one of them changed) Tj
+T*
+(her hair\), and I meet a lot of people and often find myself incredib...) Tj
+T*
+() Tj
+T*
+(13. We are going to kill ?unalive?) Tj
+T*
+(Source: Anil Dash | Published: 2026-10-06T00:00:00Z) Tj
+T*
+(Link: https://anildash.com/2026/10/06/kill-unalive/) Tj
+T*
+(I talk to a lot of old people, those who were born in the 20th century, and if I ask them what) Tj
+T*
+(the word ?unalive? means, they usually have no idea what I?m talking about, except for some of) Tj
+T*
+(them who have kids or who study Internet culture. This will, of course, probably seem very) Tj
+T*
+(weird to most people who were born in or grew up in the 21st century. Just to recap for the) Tj
+T*
+(olds: ?unalive? is the word you use to represent concepts like dying, or death, or killing or) Tj
+T*
+(being killed, on digital platforms where saying those words accurately will cause the algorithm) Tj
+T*
+(to punish or censor you. Or, maybe, where the perception is that using those words will result) Tj
+T*
+(in being censored by the algorithm, and no one is actually willing to find out what happens if) Tj
+T*
+(you use the forbidden words. This sort of attack on people?s expression started on platforms) Tj
+T*
+(like TikTok, where nearly all content is distributed through an algorithmic feed, but has since) Tj
+T*
+(become ubiquitous in nearly all digital media that we see. In fact, these tics are now so) Tj
+T*
+(prevalent that it?s routine to hear people using this kind of language in everyday life, even) Tj
+T*
+(though there?s not yet an algorithm to appease in the physical world. I?v...) Tj
+T*
+() Tj
+T*
+(14. How fast is Python 3.15?) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Mon, 05 Oct 2026 10:13:17 GMT) Tj
+T*
+(Link: https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15) Tj
+T*
+(It's October once again, and that means it is time to take the new release of Python for a spin) Tj
+T*
+(\(technically, it is the 3.15.0rc3 release that I'm using, the official 3.15 release is still a) Tj
+T*
+(few days out\). As I did with my Python 3.14 performance article of a year ago, today I'm) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 337 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(sharing a new run of my informal Python benchmark, comparing Python 3.15 against previous) Tj
+T*
+(interpreters all the way back to 3.10. If you are not interested in the charts and the tables) Tj
+T*
+(and just want to read my analysis, feel free to jump to the conclusions section at the end.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004704 00000 n 
+0000004830 00000 n 
+0000009077 00000 n 
+0000009203 00000 n 
+0000013814 00000 n 
+0000013940 00000 n 
+0000014329 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14457
+%%EOF
