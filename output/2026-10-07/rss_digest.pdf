@@ -1,0 +1,564 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4556 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-07 14:56:27) Tj
+T*
+() Tj
+T*
+(1. Quoting Jake Boggan) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-07T04:47:55+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/7/jake-boggan/) Tj
+T*
+(I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the) Tj
+T*
+(greats. While I was there I started working on Barnette's Conjecture which came to occupy my) Tj
+T*
+(thoughts over the next 24 years of my life, on and off as I worked in many different fields.) Tj
+T*
+(Last summer I even thought for a few days that I had actually solved it. But it's supposedly) Tj
+T*
+(proven here - problem 180 . I don't know what to think exactly. I spent thousands of hours on) Tj
+T*
+(that problem. I really enjoyed it. Hearing that it is solved somehow makes me sad in a far-off) Tj
+T*
+(way, like hearing an ex-girlfriend died suddenly in a car crash. I don't know, there's probably) Tj
+T*
+(a lot of people feeling odd emotions tonight. ? Jake Boggan , Hacker News comment on) Tj
+T*
+(openai/math Tags: openai , mathematics , deep-blue , llms , ai , generative-ai) Tj
+T*
+() Tj
+T*
+(2. OpenAI ?rogue? agent activities found on Wikimedia projects) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-07T00:16:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/) Tj
+T*
+(OpenAI ?rogue? agent activities found on Wikimedia projects Given how tempting a target wikis) Tj
+T*
+(are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that) Tj
+T*
+(activity once they went looking: The Wikimedia Foundation conducted its own investigation to) Tj
+T*
+(see whether Wikimedia websites had been similarly affected by AI agents, focusing on those) Tj
+T*
+(operated by OpenAI. We can confirm that we have discovered some activity by these ?rogue?) Tj
+T*
+(OpenAI agents on Wikimedia platforms. The unauthorized bot activities included edits to our) Tj
+T*
+(wikis, some unsuccessful attempts to exploit a public note-taking tool we host, and heavy) Tj
+T*
+(traffic, which are described more below. They found evidence of agents editing sandbox pages,) Tj
+T*
+(trying to use pieces of infrastructure such as Etherpad to help proxy content from elsewhere,) Tj
+T*
+(and saw widespread crawling and "hundreds of thousands of data queries" to their Wikidata Query) Tj
+T*
+(Service. My best guess is that most of this was a similar \(or the same\) swarm of agents as) Tj
+T*
+(those that defaced that German wiki while training for research tasks. The Wikipedia sandbox) Tj
+T*
+(wiki edits appear to have started on May 12th, and the initial test edits to the UseModWik...) Tj
+T*
+() Tj
+T*
+(3. Quoting Victoria Kim) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-06T23:58:56+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/6/victoria-kim/) Tj
+T*
+(Since the Medicare breach, OpenAI has put in place additional monitoring to allow ?immediate) Tj
+T*
+(intervention? by staff to stop training if the company?s models access the internet in ways) Tj
+T*
+(they?re not supposed to, Mr. Kwon [chief strategy officer at OpenAI] said. ? Victoria Kim ,) Tj
+T*
+(Reporting from the Australian parliament Tags: accidental-cyberattacks , generative-ai ,) Tj
+T*
+(ai-security-research , openai , ai , llms) Tj
+T*
+() Tj
+T*
+(4. Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-06T18:17:43Z) Tj
+T*
+(Link: https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligenc) Tj
+T*
+(e-from-macos-27/) Tj
+T*
+(Scharon Harding, Ars Technica: Unlike with previous versions of macOS, macOS 27 Golden Gate) Tj
+T*
+(doesn?t have a toggle for turning off Apple Intelligence. That makes disabling AI features that) Tj
+T*
+(you may not want more difficult. It also means that the AI models necessary for running Apple) Tj
+T*
+(Intelligence will take up space on your disk , even if you don?t use them or if you go through) Tj
+T*
+(your settings to individually find and disable AI capabilities. In response, a developer known) Tj
+T*
+(as Om Lahore on GitHub last week created RemoveMacAI, a command-line tool that allows macOS 27) Tj
+T*
+(users to ?turn off Apple Intelligence on macOS 27? in a way that is ?fully reversible,? per the) Tj
+T*
+(GitHub page . They said that Apple?s Intelligence models take up ?about 12GB,? but the models) Tj
+T*
+(can actually take up over 30GB, The Verge noted. RemoveMacAI ?turns off Siri, Writing Tools,) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4763 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Genmoji, Image Playground, the ChatGPT extension, and all the summaries, then it deletes the) Tj
+T*
+(models and stops macOS from downloading them again. Dictation still works because it?s a) Tj
+T*
+(separate setting,? the developer said in a Reddit post first spotted by MacRumors . Sounds) Tj
+T*
+(crazy but it?s not rm ing files in the /System/ folder ? it uses techniques...) Tj
+T*
+() Tj
+T*
+(5. Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs?s Death) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-05T19:19:35Z) Tj
+T*
+(Link: https://x.com/johnternus/status/2107093462118199562) Tj
+T*
+(John Ternus, posting on X: The way Steve taught us to care about every detail, every) Tj
+T*
+(experience, every person, still guides our work today. Forever grateful. Tim Cook , also on X) Tj
+T*
+(\(with a photo I don?t recall seeing before\): There are people who leave a mark on the world,) Tj
+T*
+(and then there are people who change it entirely. Steve changed the world and so many lives in) Tj
+T*
+(the process. He certainly changed my life forever. His spirit lives on in everything he created) Tj
+T*
+(and everyone he inspired. ?) Tj
+T*
+() Tj
+T*
+(6. Regarding the Provenance of Charm Within Meta) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-25T17:07:33Z) Tj
+T*
+(Link: https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-mus) Tj
+T*
+(e-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2U) Tj
+T*
+(iOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSW) Tj
+T*
+(QiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7am) Tj
+T*
+(XXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8&leadSource=article-gifting) Tj
+T*
+(Mark Gurman, reporting for Bloomberg Wednesday, after Meta?s 2026 Connect keynote \(gift link\):) Tj
+T*
+(Meta Platforms Inc. unveiled a palm-sized, dedicated gadget for using Muse, the company?s) Tj
+T*
+(popular new artificial intelligence assistant, pushing deeper into the AI devices market with a) Tj
+T*
+(surprise announcement. The product, unveiled on stage by Meta Chief Executive Officer Mark) Tj
+T*
+(Zuckerberg, was born out of the company?s new design lab led by former Apple Inc. interface) Tj
+T*
+(design chief Alan Dye and its Superintelligence AI group. [...] Dye, the former Apple design) Tj
+T*
+(executive, and Billy Sorrentino, one of his top deputies at the iPhone maker, were two of the) Tj
+T*
+(driving forces behind the project and the creation of the Muse character-based interface,) Tj
+T*
+(Bosworth said. Meta recruited the executives at the end of 2025 , forcing Apple to shake up its) Tj
+T*
+(own design team to fill the void left by their absence. Dye and Sorrentino hired a slew of) Tj
+T*
+(other designers from Apple as well, and they contributed to Muse Charm as well as the interface) Tj
+T*
+(of its Muse smartphone apps, Bosworth said. On today?s episode of Dithering \(which you should) Tj
+T*
+(subscribe to\), Ben Thompson dropped a juicy tidbit about this \(starting around 5m...) Tj
+T*
+() Tj
+T*
+(7. How to read code) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Wed, 07 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/how-to-read-code/) Tj
+T*
+(Everyone knows how to read a book. Beginning at the first page, you read each word in order 1 ,) Tj
+T*
+(stopping periodically to think, until you arrive at the last word on the last page. That?s how) Tj
+T*
+(you read a newspaper article, or a poem, or an email. Why would reading code be any different?) Tj
+T*
+(Why code is different English text is designed to be read in order. In fact, there are almost) Tj
+T*
+(no constraints on the order of a text aside from how you want the reader to consume it. In) Tj
+T*
+(writing this post, I could put the ideas I want to convey in any order I like. Code, on the) Tj
+T*
+(other hand, is designed to be run by a computer. The order is thus primarily determined by) Tj
+T*
+(non-human factors. I cannot simply move 2 a line of code to the beginning of a file or function) Tj
+T*
+(because I think it provides a better introduction to the program for human readers. The other) Tj
+T*
+(big difference is that English text is always read as a final product, while code is usually) Tj
+T*
+(read as a diff . We software engineers spend most of our time reading subtle changes to) Tj
+T*
+(existing code, not brand-new programs. Imagine if reading this post was like that. You would) Tj
+T*
+(read each successive draft in the order I wrote them, consuming the post as a cha...) Tj
+T*
+() Tj
+T*
+(8. A Terminal Protocol for Program Status \(OSC 7501\)) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Tue, 06 Oct 2026 00:00:00 GMT) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4293 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://mitchellh.com/writing/program-status-osc7501) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(9. Why does the compiler sometimes use ud2 and sometimes int 3 for code that shouldn?t) Tj
+T*
+(execute?) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 06 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261006-00/?p=112757/) Tj
+T*
+(It shouldn't execute, but for different reasons. The post Why does the compiler sometimes use) Tj
+T*
+(ud2 and sometimes int 3 for code that shouldn?t execute? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(10. Lissajous and Bowditch) Tj
+T*
+(Source: John D. Cook | Published: Wed, 07 Oct 2026 00:21:52 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/06/lissajous-and-bowditch/) Tj
+T*
+(I was skimming through David Well?s book The Penguin Dictionary of Curious and Interesting) Tj
+T*
+(Geometry and was surprised by this entry: Lissajous figures or Bowditch curves First discussed) Tj
+T*
+(by Nathaniel Bowditch in 1815, and later by Jules Antoine Lissajous in 1857 ? I wrote a couple) Tj
+T*
+(posts about Lissajous curves years ago, and recently I wrote [?] The post Lissajous and) Tj
+T*
+(Bowditch first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. A topological model for provability logic) Tj
+T*
+(Source: John D. Cook | Published: Tue, 06 Oct 2026 19:46:28 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/06/godel-lob/) Tj
+T*
+(Gˆdel?s incompleteness theorem illustrated the need to distinguish between what is true and) Tj
+T*
+(what is provable. There are true statements that cannot be proven. Let ?p denote the assertion) Tj
+T*
+(that p is provable in Peano arithmetic. The logic with this interpretation for the ? operator) Tj
+T*
+(is the Gˆdel-Lˆb logic, also called provability logic. This is a [?] The post A topological) Tj
+T*
+(model for provability logic first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. What is Codemode) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-10-06T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/10/6/codemode/) Tj
+T*
+(More than a year ago I wrote a few posts here that recommended people not to load custom tools) Tj
+T*
+(into their context \(or MCP servers\) but to just use more scripts. Most importantly I wrote that) Tj
+T*
+(Code Is All You Need and I wrote about that MCP needs code . With Pi 1.0 we now added MCP) Tj
+T*
+(support via Codemode which in some ways is a long time coming, but then also maybe somewhat) Tj
+T*
+(surprising to some. So I want to share some updated thoughts on this blog on what this all) Tj
+T*
+(means. What Are Tools When a harness like Pi provides tools for an LLM to call, it does so by) Tj
+T*
+(supplying some tool definitions which then translate into some token structure on the server) Tj
+T*
+(side. Whether a model is encouraged to call a tool is the result of the reinforcement learning) Tj
+T*
+(process. Something I wrote about before if you want to learn more. One of the reasons we) Tj
+T*
+(strongly lean towards CLI and bash is because it allows easy composition of calls, and because) Tj
+T*
+(the model also learns how the file system works when it?s trained. So when it invokes a tool) Tj
+T*
+(like echo foo > /tmp/test.txt the model also learns that after that tool call, there is now a) Tj
+T*
+(file called test.txt in /tmp . However bash has one fundamental limitation which i...) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: Swapping money for expertise \(06 Oct 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 06 Oct 2026 12:58:26) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/10/06/nonfungible/) Tj
+T*
+(Today's links Swapping money for expertise: Money can't buy me love. Hey look at this: Delights) Tj
+T*
+(to delectate. Object permanence: "Tempo"; Yahoo censors MEP's torture debate video; Scotland's) Tj
+T*
+(money-laundry; A textbook scam; DOS the IRS then charge for access; Just trying to make a buck.) Tj
+T*
+(Upcoming appearances: Virtual, South Bend, Hudson, Calgary, Winnipeg, Paris, Vancouver,) Tj
+T*
+(Victoria, Ottawa, Kilkenny, Sheffield, Oxford, Montreal. Recent appearances: Where I've been.) Tj
+T*
+(Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4454 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(keep writin' 'em. Colophon: All the rest. Swapping money for expertise \(permalink\) Since the) Tj
+T*
+(mid-1950s, we have changed the thing that "AI" refers to every 5-10 years. The current thing) Tj
+T*
+(we're calling "AI" is about a decade old, and all this label-switching leads to a lack of) Tj
+T*
+(clarity as to what \(this\) "AI" is. Unless you know that, you can't understand AI's technical) Tj
+T*
+(capabilities, limitations, and \(most of all\) its political economy. The thing we now call "AI") Tj
+T*
+(is a lineal descendant of the thing we were calling "AI" immediately before to the current "AI") Tj
+T*
+(emerged: that preceding AI is regular-degular "machine learning" \(another flex...) Tj
+T*
+() Tj
+T*
+(14. Una Watch - SDK and Writing Your First App) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 06 Oct 2026 11:34:25 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/) Tj
+T*
+(I don't know why hardware manufacturers find it so hard to write decent documentation. As I've) Tj
+T*
+(said before you need to actually test your readme. The Una Watch development instructions are) Tj
+T*
+(scattered across a bunch of different files. So here's how to go from zero to your first) Tj
+T*
+("Hello, World!" Glance app with the minimum of fuss. This all assumes a fairly modern Debian /) Tj
+T*
+(Ubuntu / Pop OS Linux. ?) Tj
+T*
+() Tj
+T*
+(15. Credit Crunch) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 06 Oct 2026 14:54:08 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/credit-crunch/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter, and you can subscribe) Tj
+T*
+(on the following links: $70 a year , $18 a quarter , or $7 a month . In return you get a weekly) Tj
+T*
+(premium newsletter including vast, detailed analyses of NVIDIA , Anthropic and OpenAI&) Tj
+T*
+() Tj
+T*
+(16. Predicting Peace) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 06 Oct 2026 00:00:00 +0200) Tj
+T*
+(Link: https://entropicthoughts.com/forecasting-peace) Tj
+T*
+(I have long struggled with predicting when peace will occur. Actually, I?m struggling with) Tj
+T*
+(predicting anything relating to war, but let?s focus on when peace arrives for now. There are) Tj
+T*
+(two such questions in the current ACX 2026 competition: Will there be a cease-fire in Ukraine) Tj
+T*
+(in 2026? Will there be a cease-fire in Sudan in 2026? When I entered my forecast for these) Tj
+T*
+(questions, I did it based on Laplace?s rule of succession, i.e. as a function of their duration) Tj
+T*
+(only. This is sort of justified if war durations are heavy-tailed, which would mean that the) Tj
+T*
+(longer they go on for, the less likely it is that peace comes soon. But I don?t know if that is) Tj
+T*
+(true. \(Continue reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(17. Apple?s App Icon HOA) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Tue, 06 Oct 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/app-icon-hoa/) Tj
+T*
+(Louie Mantia has a great post about how app icons are converging towards the squircle on iOS) Tj
+T*
+(and macOS. His post reads like a history. If you?re wondering, ?How did we get to a place where) Tj
+T*
+(all app icons are becoming squircles?? Mantia?s post answers that question by starting at the) Tj
+T*
+(beginning. It?s hard to walk away from Mantia?s article without a sense of empathy for Apple?s) Tj
+T*
+(position, like ?Oh ok, I get why they?re doing what they?re doing. It makes sense.? Apple?s) Tj
+T*
+(direction is kind of a tacit acknowledgement to how most people are shipping app icons. Apple) Tj
+T*
+(is ?paving the cowpaths? as it were, because most app icons are just brand logos. Nowadays,) Tj
+T*
+(it?s these bland, big-business logo icons that make up a good chunk of iOS Home Screens and) Tj
+T*
+(macOS Docks, instead of the beautiful, illustrative app icons that used to dominate our) Tj
+T*
+(devices. So many app icons are just logos in a squircle, so Apple made tools like the Icon) Tj
+T*
+(Composer and glass effects to help make that approach look good by default. Apple is helping) Tj
+T*
+(most people most of the time make app icons that don?t suck. [Apple is making] it easier for) Tj
+T*
+(all apps to fit in on the platform, especially apps built by designers and developers...) Tj
+T*
+() Tj
+T*
+(18. Checkboxes are never round) Tj
+T*
+(Source: Daniel De Laney | Published: Thu, 03 Sep 2015 00:00:00 +0000) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1404 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://danieldelaney.net/checkboxes/) Tj
+T*
+(I?ve noticed a worrying number of professional designers mixing up basic form elements lately.) Tj
+T*
+(Checkboxes and radio buttons, particularly. This is the Jobs page on Designer News : Sorry,) Tj
+T*
+(this video didn?t work. See that ?Remote Friendly? control? It?s a trick control . It looks) Tj
+T*
+(like a radio button, but it behaves like a checkbox. It?s deceptive. It leads us to expect one) Tj
+T*
+(kind of behavior, a standard since 1984 , then does something else. Here?s another example from) Tj
+T*
+(Aeon Magazine : Sorry, this video didn?t work. The ?Daily? and ?Weekly? controls look like) Tj
+T*
+(radio buttons, but they behave like checkboxes. Because the controls are dressed up like a) Tj
+T*
+(control they aren?t, a user could easily make mistakes. He might accidentally select both) Tj
+T*
+(options, expecting one selection to clear the other. He could even select neither option and) Tj
+T*
+(still click ?Subscribe?. I have no idea what that does. Interactive things have perceived) Tj
+T*
+(affordances ; the way they look tells us what they do and how to use them. That?s why) Tj
+T*
+(checkboxes are square and radio buttons are round. Their appearance isn?t just for show?it) Tj
+T*
+(signals what to expect from them. Making a checkbox round is like labeling the Push side of a) Tj
+T*
+(doo...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004825 00000 n 
+0000004951 00000 n 
+0000009766 00000 n 
+0000009892 00000 n 
+0000014237 00000 n 
+0000014363 00000 n 
+0000018870 00000 n 
+0000018998 00000 n 
+0000020455 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20583
+%%EOF
