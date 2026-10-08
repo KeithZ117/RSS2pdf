@@ -1,0 +1,504 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4502 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-08 15:04:19) Tj
+T*
+() Tj
+T*
+(1. Quoting Ben Affleck) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-07T23:14:58+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/7/ben-affleck/) Tj
+T*
+(I've always been kind of into computers since I was young. And then when film started to move) Tj
+T*
+(from analog film to digital, I became more interested in that aspect of it. And the visual) Tj
+T*
+(effects workflow for many years has included machine learning. So I can write like pretty) Tj
+T*
+(shitty Python scripts and stuff like that because with convolutional neural networks, which) Tj
+T*
+(were the sort of precursors to what the transformer can do, which is just much more computation) Tj
+T*
+(simultaneously, you would do things like look at what's called a tensor, which is just the) Tj
+T*
+(numerical translation of a visual image in numbers ? like the batch number, the frame number,) Tj
+T*
+(the red, green, and blue values of each pixel in each frame. And a tensor, you use a) Tj
+T*
+(convolutional neural network to identify patterns in that that would reveal what's called edge) Tj
+T*
+(detection or feature extraction, which is just identifying patterns enough to know like this is) Tj
+T*
+(where the window ledge is, so we can more easily take the green screen image out and replace it) Tj
+T*
+(with something. ? Ben Affleck , Pythonista Tags: machine-learning , python) Tj
+T*
+() Tj
+T*
+(2. Claude Haiku 5.5) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-07T20:56:21+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/) Tj
+T*
+(As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku) Tj
+T*
+(5.5 . The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago ,) Tj
+T*
+(and was priced at $1/million input and $5/million output - relatively expensive even back then,) Tj
+T*
+(and a full 10x the price of OpenAI's GPT-6 Luna , released last month. The new Haiku exactly) Tj
+T*
+(matches the price of GPT-6 Luna - $0.10/$0.50 - up to 100,000 tokens. Beyond 100,000 tokens the) Tj
+T*
+(price increases 5x to $0.50/$2.50. Luna itself has a price increase at 272,000 tokens but only) Tj
+T*
+(to $0.20/$0.75. Haiku 5.5 also uses a new, less generous tokenizer. My Claude Token Counter) Tj
+T*
+(tool shows that the same long prompt uses around 1.25x as many tokens with Haiku 5.5 compared) Tj
+T*
+(to Haiku 4.5, so there's a hidden price increase there. If your workloads fit in 100,000) Tj
+T*
+(tokens, Haiku is the same price as Luna and reports higher benchmark scores. Above 100,000) Tj
+T*
+(tokens, Luna looks like a much better deal. The most recent release of llm-anthropic finally) Tj
+T*
+(fixed it so I don't need to ship a new version of that plugin for every new model. I tested the) Tj
+T*
+(new model like this: llm install -U llm-anthropic llm anthropic refresh llm...) Tj
+T*
+() Tj
+T*
+(3. Anti-Patterns in Software Blogging) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-07T14:53:51+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/) Tj
+T*
+(Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael) Tj
+T*
+(warns against "meandering intros", misjudging your reader's existing knowledge, assuming) Tj
+T*
+(they'll read your previous posts, and excessive formality. He also warns against overreliance) Tj
+T*
+(on links as an excuse not to explain terminology. This one hurt! I do this all the time, but I) Tj
+T*
+(have a nagging suspicion that almost nobody ever clicks on them. \(In a Lobste.rs comment) Tj
+T*
+(Michael clarifies that "My rule of thumb is that my article should still make sense to the) Tj
+T*
+(reader even if they don't click any links". That works for me.\) This point about using your own) Tj
+T*
+(voice is crucial: Beginner software bloggers suffer from a mass delusion that you have to write) Tj
+T*
+(in a stiff, overly formal way for people to take you seriously [...] Just write the way you) Tj
+T*
+(talk. With so many developers delegating their writing to AI, software blogging is becoming) Tj
+T*
+(bland and homogenous. Readers are hungry for writing with personality. Via Lobste.rs Tags:) Tj
+T*
+(blogging , writing , michael-lynch) Tj
+T*
+() Tj
+T*
+(4. Jaguar Type 01) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-07T23:22:28Z) Tj
+T*
+(Link: https://insideevs.com/news/810839/jaguar-type-01-launch-ev/) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4858 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(This is a cool car. It doesn?t look like anything else and it looks like it?s been pulled a few) Tj
+T*
+(years from the future. I don?t know about this whole trend where cars don?t have rear windows) Tj
+T*
+(though. I get it that you just use the camera but my old habits says I want to see out the back) Tj
+T*
+(sometimes. But the only reason I wouldn?t buy this thing is that turd of a new logo Jaguar went) Tj
+T*
+(with. I could not abide driving around in something with this typographic calamity . ?) Tj
+T*
+() Tj
+T*
+(5. Gurman Strikes Again: ?Apple?s Smart Home Push Includes Doorbell, Lock, Thermostat) Tj
+T*
+(Codeveloped With LG?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-07T22:02:43Z) Tj
+T*
+(Link: https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorb) Tj
+T*
+(ell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3) Tj
+T*
+(VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY) Tj
+T*
+(2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9) Tj
+T*
+(.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo) Tj
+T*
+(The incomparable Mark Gurman, reporting for Bloomberg: Apple Inc.?s upcoming push into smart) Tj
+T*
+(home devices will include a doorbell, thermostat and other accessories developed through an) Tj
+T*
+(unusual partnership with LG Electronics Inc. The products will be part of an ecosystem of) Tj
+T*
+(devices that work with Apple?s new smart home hub, as well as an upgraded HomePod mini and) Tj
+T*
+(fresh TV set-top box, according to people with knowledge of the matter. The new Apple devices) Tj
+T*
+(are set to be introduced on Oct. 13. The products developed with South Korea?s LG will also) Tj
+T*
+(include a smart deadbolt lock, indoor security camera, outdoor security camera and floodlight) Tj
+T*
+(camera, said the people, who asked not to be identified because the undertaking is private.) Tj
+T*
+(Though the two companies worked together to develop the accessories, the products will carry) Tj
+T*
+(the LG brand. The South Korean firm is handling manufacturing and product support. Gurman has) Tj
+T*
+(more than ?people familiar with the matter? \(or Matter, for that matter\) ? he cites FCC filings) Tj
+T*
+(from LG that have product names and illustrations of some of the devices? rear panels \(with the) Tj
+T*
+(connectors\). As Gurman himself notes, this is somewhat unusual for Apple, but it?s...) Tj
+T*
+() Tj
+T*
+(6. Muse Looks Cute, but Looks Are Deceiving) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-25T16:38:39Z) Tj
+T*
+(Link: https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-) Tj
+T*
+(point-entirely/91409363) Tj
+T*
+(Jason Aten, in a good follow-up to his previous column at Inc. \( the one where he described how) Tj
+T*
+(Muse, running on his Mac, read his Messages database\): The entire reason Muse is interesting is) Tj
+T*
+(that it isn?t just a chatbot, but can actually do things for you. But that promise also comes) Tj
+T*
+(with a pretty high bar of responsibility. If your goal is to put a powerful AI agent on) Tj
+T*
+(millions of devices, you have to be incredibly clear about what?s happening, and what people) Tj
+T*
+(are agreeing to. If your primary audience does not understand what Full Disk Access means, you) Tj
+T*
+(should not surprise them with ?I?m reading your text messages.? It?s unreasonable to expect) Tj
+T*
+(them to learn about things like virtual machines, permission architectures, macOS TCC, Sentinel) Tj
+T*
+(agents, or database synchronization in order to understand what the thing is doing or what is) Tj
+T*
+(happening with their personal information. Having an agent installed on people?s computers that) Tj
+T*
+(appears overeager to access their information or take action on their behalf isn?t helpful.) Tj
+T*
+(It?s terrifying. Aten makes some good points about the inherent tension between Muse ?) Tj
+T*
+(especially in the context of running on your Mac desktop ? being powerful cuttin...) Tj
+T*
+() Tj
+T*
+(7. ShinyHunters Extorted Boeing Spin-off Prior to Arrests) Tj
+T*
+(Source: Krebs on Security | Published: Wed, 07 Oct 2026 13:48:45 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/) Tj
+T*
+(A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group) Tj
+T*
+(ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other) Tj
+T*
+(members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker) Tj
+T*
+(handle "Rey," was detained as ShinyHunters was in the process of extorting a business unit) Tj
+T*
+(recently divested by the global aerospace company Boeing, which manufactures the fleet of) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4077 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(planes used by the employer of Rey's father -- Royal Jordanian Airlines.) Tj
+T*
+() Tj
+T*
+(8. How can undefined opcodes ud0 and ud1 have parameters? How undefined were they?) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 07 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261007-00/?p=112759/) Tj
+T*
+(They weren't defined, not even as undefined. The post How can undefined opcodes ud0 and ud1) Tj
+T*
+(have parameters? How undefined were they? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Pluralistic: Disloyalty \(07 Oct 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 07 Oct 2026 13:58:46) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/10/07/gouged/) Tj
+T*
+(Today's links Disloyalty: Air Canada's frequent flier fuckery. Hey look at this: Delights to) Tj
+T*
+(delectate. Object permanence: Indie booksellers v internet; Coke pays dieticians to astroturf) Tj
+T*
+(soda taxes; Voting in a voter-suppression state; Facebook v your use of Facebook. Upcoming) Tj
+T*
+(appearances: Hudson, Calgary, Winnipeg, Paris, Vancouver, Victoria, Ottawa, Kilkenny,) Tj
+T*
+(Sheffield, Oxford, Montreal. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Disloyalty \(permalink\) Up until very recently indeed, airlines were the) Tj
+T*
+(only businesses that I dealt with regularly that practiced "price discrimination," charging) Tj
+T*
+(different customers different prices for the same seats. Economists broadly like this) Tj
+T*
+("second-order" price discrimination, where a company charges customers different prices based) Tj
+T*
+(on the circumstances of the purchase, such as a bakery discounting bread at the end of the day.) Tj
+T*
+(When an airline cranks up the price of an itinerary that doesn't include a Saturday stay,) Tj
+T*
+(they're using that fact as a proxy for "price-insensitive" business travelers whose bosses can) Tj
+T*
+(afford to...) Tj
+T*
+() Tj
+T*
+(10. Consequences of progress toward the Riemann Hypothesis) Tj
+T*
+(Source: John D. Cook | Published: Wed, 07 Oct 2026 22:29:28 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/) Tj
+T*
+(The Riemann Hypothesis \(RH\) is the conjecture that all the zeros of the Riemann zeta function) Tj
+T*
+(?\(s\) in the critical strip, i.e. the region of the complex plane with real part between 0 and) Tj
+T*
+(1, have real part equal to Ω. The Quasi Riemann Hypothesis \(QRH\) says that there exists a) Tj
+T*
+(constant ? The post Consequences of progress toward the Riemann Hypothesis first appeared on) Tj
+T*
+(John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Faster Fourier Transform) Tj
+T*
+(Source: John D. Cook | Published: Wed, 07 Oct 2026 21:41:47 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/) Tj
+T*
+(The Fast Fourier Transform \(FFT\) algorithm can compute the discrete Fourier transform of a) Tj
+T*
+(sequence of length n in time O\(n log n\). OpenAI recently posted a paper saying there is an) Tj
+T*
+(algorithm that could compute the discrete Fourier transform in O\(n \(log n\)1 ? ?\) time for ? =) Tj
+T*
+(10?13. This result is amazing. It seemed that [?] The post Faster Fourier Transform first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Irrationality exponent of ?) Tj
+T*
+(Source: John D. Cook | Published: Wed, 07 Oct 2026 21:19:20 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/) Tj
+T*
+(For a real number x, the irrationality index ?\(x\) is a way of measuring how well x can be) Tj
+T*
+(approximated by rational numbers. If x is rational, ?\(x\) = 1. If x is irrational, ?\(x\) ? 2.) Tj
+T*
+(OpenAI recently published a proof that ?\(?\) = 2. Almost all real numbers have irrationality) Tj
+T*
+(exponent 2, so the new result says [?] The post Irrationality exponent of ? first appeared on) Tj
+T*
+(John D. Cook .) Tj
+T*
+() Tj
+T*
+(13. On Git Refs) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3790 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: matklad | Published: 2026-10-07T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/10/07/git-ref.html) Tj
+T*
+(I have recently improved my mental model of Git. Consider these two git commands:) Tj
+T*
+() Tj
+T*
+(14. Package Management RFCs) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-10-07T11:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/10/07/package-management-rfcs.html) Tj
+T*
+(Package registries, manifest formats, lockfiles, version ranges and identifiers all have) Tj
+T*
+(written specifications of some kind, spread across six kinds of venue. Specifications show up) Tj
+T*
+(in package management mostly as an invisible layer of the dependency tree , where an HTTP) Tj
+T*
+(library is built against RFC 9110 and a JSON parser against ECMA-404, and the documents) Tj
+T*
+(covering package management itself are spread just as thinly. I went looking for the IETF?s) Tj
+T*
+(share, since wire protocols between independently written implementations are what the RFC) Tj
+T*
+(series exists for, and found nine documents, most of them concerned with firmware updates on) Tj
+T*
+(IoT devices. The rest is distributed among Ecma, ISO, CNCF and OASIS, the enhancement proposal) Tj
+T*
+(processes individual ecosystems run for themselves, and for a couple of registries a service?s) Tj
+T*
+(own API reference. Which venue a document is published in determines whether a second client, a) Tj
+T*
+(mirror or an archival reconstruction can rely on it, since each of those requires specified) Tj
+T*
+(behaviour rather than whatever a given server returns this week. Venues Package management) Tj
+T*
+(specifications are published in six kinds of venue: the IETF, the industry standards bodies,...) Tj
+T*
+() Tj
+T*
+(15. Monte-Carlo simulations) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-10-07T19:34:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/monte-carlo-simulations/) Tj
+T*
+(Monte Carlo simulations \(or methods \) is the technique of applying randomness and the Law of) Tj
+T*
+(large numbers to the solution of various scientific and engineering problems. One of its first) Tj
+T*
+(documented uses was by Stanislaw Ulam and John von Neumann for nuclear weapon simulations after) Tj
+T*
+(WWII [1] . In this post ?) Tj
+T*
+() Tj
+T*
+(16. Shopify went back to native. I think the bigger shift is formal verification) Tj
+T*
+(Source: Martin Alderson | Published: Wed, 07 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/shopify-native-formal-verification/?utm_source=rss&utm_m) Tj
+T*
+(edium=rss&utm_campaign=feed) Tj
+T*
+(Agents have collapsed the cost of building native apps twice. But I think they will also make) Tj
+T*
+(formal verification the default way software gets written.) Tj
+T*
+() Tj
+T*
+(17. Anti-Patterns in Software Blogging) Tj
+T*
+(Source: Refactoring English | Published: Wed, 07 Oct 2026 00:00:00 +0000) Tj
+T*
+(Link: https://refactoringenglish.com/blog/anti-patterns-software-blogging/) Tj
+T*
+(In software development, we collect anti-patterns to recognize common traits that lead to poor) Tj
+T*
+(outcomes in our software. I thought it would be helpful to do the same for software blogging,) Tj
+T*
+(so I?ve catalogued the most frequent mistakes I see from beginner bloggers. The meandering) Tj
+T*
+(intro Preamble still counts as meandering ?The reader knows everything I know except this one) Tj
+T*
+(thing? Overreliance on links The sequel injection bug Excessive formality Fumbling on the) Tj
+T*
+(basics of rendering HTML Page overflow on mobile Unreadable font Summary The meandering intro) Tj
+T*
+(The most common mistake in software blogging, by far, is meandering. I constantly find myself) Tj
+T*
+(several paragraphs into a post with no idea what the author is trying to tell me.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004764 00000 n 
+0000004890 00000 n 
+0000009800 00000 n 
+0000009926 00000 n 
+0000014055 00000 n 
+0000014181 00000 n 
+0000018024 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+18152
+%%EOF
