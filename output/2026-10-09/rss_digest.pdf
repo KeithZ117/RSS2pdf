@@ -1,0 +1,436 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 3898 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-09 15:11:06) Tj
+T*
+() Tj
+T*
+(1. ttok 1.0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-09T00:34:43+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/9/ttok/) Tj
+T*
+(Release: ttok 1.0 I released ttok 0.4 , ran uv tool upgrade ttok , piped a file into the new) Tj
+T*
+(version... and realized that it was defaulting to the GPT-4 tokenizer when it should very) Tj
+T*
+(clearly default to GPT-5/GPT-6 instead! I figured switching the default was a reasonable excuse) Tj
+T*
+(to finally ship a 1.0. OpenAI haven't actually confirmed that GPT-6 uses the same tokenizer as) Tj
+T*
+(the GPT-5 family yet - there's an angry issue about it - but I found this commit by William Liu) Tj
+T*
+(which reports on an experiment he ran confirming that the tokenizers are likely the same: All) Tj
+T*
+(seven GPT models \(5.5, 5.6 Sol/Terra/Luna, 6 Astra/Sol/Luna\) report 44,794 tokens and match) Tj
+T*
+(each other on every one of the 31 fixtures. GPT-6 introduces no input-count change on this) Tj
+T*
+(corpus. Tags: projects , ai , openai , generative-ai , llms , tokenization) Tj
+T*
+() Tj
+T*
+(2. ttok 0.4) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-08T23:34:28+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/8/ttok/) Tj
+T*
+(Release: ttok 0.4 ttok is my CLI tool for counting tokens, using OpenAI's open source tiktoken) Tj
+T*
+(library. It hasn't been in updated in a couple of years, but I finally fixed a Click warning,) Tj
+T*
+(updated CI, and added a --list-models command to list available models. It works with uvx , so) Tj
+T*
+(you can count tokens in anything like this: cat file.txt | uvx ttok Tags: projects , ai ,) Tj
+T*
+(openai , generative-ai , llms , tokenization) Tj
+T*
+() Tj
+T*
+(3. Quoting Carson Gross) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-08T21:05:44+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/8/carson-gross/) Tj
+T*
+(Computer programming is, fundamentally, about two things: Problem-solving using computers) Tj
+T*
+(Learning to control complexity while solving these problems I have a hard time imagining a) Tj
+T*
+(future where knowing how to solve problems with computers and how to control the complexity of) Tj
+T*
+(those solutions is less valuable than it is today, so I think it will continue to be a viable) Tj
+T*
+(career even with the advent of AI tools. ? Carson Gross Tags: computer-science , carson-gross ,) Tj
+T*
+(careers , ai) Tj
+T*
+() Tj
+T*
+(4. If one anti-malware software is good, does that make two better?) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 08 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261008-00/?p=112762/) Tj
+T*
+(Not always. The post If one anti-malware software is good, does that make two better? appeared) Tj
+T*
+(first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(5. Let?s Check In on Trump?s Blog) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-08T22:52:35Z) Tj
+T*
+(Link: https://truthsocial.com/@realDonaldTrump/posts/117406176604364910) Tj
+T*
+(An actual post from the sitting president of the United States: The White House considers) Tj
+T*
+(anyone that uses the term, ?Artificial Intelligence,? as opposed to the highly accepted new and) Tj
+T*
+(more accurate term, ?Super Intelligence,? THE ENEMY! President DONALD J. TRUMP This, from the) Tj
+T*
+(self-professed ? party of free speech ?. Trump?s screws are so loose you can hear them rattling) Tj
+T*
+(around. ?) Tj
+T*
+() Tj
+T*
+(6. Apple Is Slow-Rolling iOS 27 Adoption, So Far) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-08T19:30:36Z) Tj
+T*
+(Link: https://mastodon.social/@_Davidsmith/117355154519434137) Tj
+T*
+(David Smith, last week: Been really interesting to watch the iOS 27 adoption curve over the) Tj
+T*
+(first two weeks. Clearly on a different path than previous years. Still steadily growing, at a) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4403 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(similar rate to the ?steady growth? phase of most years, but without the big surge at the) Tj
+T*
+(start. Given that this rate is largely controlled by Apple?s automatic update logic, I suspect) Tj
+T*
+(it?s a deliberate choice. Likely because it lets them manage the Siri AI waiting list and avoid) Tj
+T*
+(a big queue on day one. Smith?s numbers are from analytics from users of Widgetsmith and) Tj
+T*
+(Pedometer++. If you look at his chart for Widgetsmith , there?s really no explanation other) Tj
+T*
+(than Apple pushing automatic updates to users more slowly than in any previous year, and I) Tj
+T*
+(think it makes sense that this is to gate admissions to Siri AI. You can also see from his) Tj
+T*
+(chart that Apple has been slowing down updates to initial .0 versions in recent years ? the) Tj
+T*
+(adoption rates were much faster for iOS 15 and 16 back in 2021 and 2022. Note too that every) Tj
+T*
+(year Apple makes it more and more likely that users will opt into automatic software updates.) Tj
+T*
+(The overwhelming majority of iOS users get OS updates when their devices update themselve...) Tj
+T*
+() Tj
+T*
+(7. Joz Announces ?Welcome Home? Keynote Coming Tuesday, 13 October) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-08T19:00:09Z) Tj
+T*
+(Link: https://x.com/gregjoz/status/2108226096407994858) Tj
+T*
+(It?s almost like you can predict the timing of such things , if you pay attention to Apple?s) Tj
+T*
+(consistent patterns. ?) Tj
+T*
+() Tj
+T*
+(8. 20 Minutes of Political Debate, Brought to You by Commercial Breaks) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Fri, 09 Oct 2026) Tj
+T*
+(04:59:23 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/20-minutes-of-political-debate) Tj
+T*
+("I'm sorry, you're out of time, we have to move on. Senator, what's your response? You have) Tj
+T*
+(three minutes." Watching a political debate these days feels useless. Candidates get two) Tj
+T*
+(minutes to make their case, and their opponents get even less time to reply. I'm reminded of) Tj
+T*
+(Amusing Ourselves to Death by Neil Postman, where he argues that what passes for debate on TV) Tj
+T*
+(is nothing more than an audition or a performance review. It is only an opportunity to come up) Tj
+T*
+(with catchy sound bites or to appear likable. On the other hand, if you want long-form,) Tj
+T*
+(one-sided podcasts where politicians can babble uninterrupted for hours without being) Tj
+T*
+(challenged, you can tune into Joe Rogan, Lex Fridman, or whichever pseudo-comedian is trending.) Tj
+T*
+(Our choices seem locked between traditional media, where you barely have time to clear your) Tj
+T*
+(throat, and one-sided online echo chambers. So why not a third option? Two candidates sitting) Tj
+T*
+(down in a long-form podcast format. Debate the issues, prove your point, and take turns. No) Tj
+T*
+(commercial breaks required. If it takes three hours, it takes three hours. This format isn't) Tj
+T*
+(new, in fact, it plagues social media right now. The problem is that it's mostly driven by) Tj
+T*
+(infl...) Tj
+T*
+() Tj
+T*
+(9. Privacy policies and modal logic) Tj
+T*
+(Source: John D. Cook | Published: Thu, 08 Oct 2026 13:43:02 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/) Tj
+T*
+(If you?ve followed this blog for a while, you may know that I do a lot of work with data) Tj
+T*
+(privacy and that I have an interest in modal logic. Recently these two worlds collided: I) Tj
+T*
+(became aware of work that uses modal logic to reason about data privacy. The story begins with) Tj
+T*
+(Helen Nissenbaum?s [?] The post Privacy policies and modal logic first appeared on John D. Cook) Tj
+T*
+(.) Tj
+T*
+() Tj
+T*
+(10. Theatre Review: Hay Fever at Wyndham's Theatre ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 08 Oct 2026 11:34:40 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/10/theatre-review-hay-fever-at-wyndhams-theatre/) Tj
+T*
+(I'm a theatrical cheapskate. I'm on all those last-minute seat-filler websites. I'll happily) Tj
+T*
+(take a chance on an experimental play for a tenner a ticket or sit in an inexplicably unsold) Tj
+T*
+(cheap seat at a major show. My philosophy is that the worst seat at the best show is preferable) Tj
+T*
+(to the best seat at the worst show. But, once in a while, I'll splash out and pay full price.) Tj
+T*
+(When the email landed?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4695 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(11. The Rise and Fall of the Plasma Screen) Tj
+T*
+(Source: Construction Physics | Published: Thu, 08 Oct 2026 12:02:36 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen) Tj
+T*
+(In 1960, a team at the University of Illinois released the first version of their PLATO) Tj
+T*
+(?computerized instruction system,? a network of what would eventually be thousands of computer) Tj
+T*
+(terminals connected to large mainframe computers.) Tj
+T*
+() Tj
+T*
+(12. ?Getting off the Modernization Treadmill?) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Thu, 08 Oct 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/) Tj
+T*
+(My notes from this talk by Alexander Petros at Big Sky DevCon 2026 . Alex starts by noting how) Tj
+T*
+(?modernize? used to mean something along the lines of ?update this thing that was made before I) Tj
+T*
+(was born?. But now ?modernize? means something more like ?update this thing from 5-10 years) Tj
+T*
+(ago? \(hence the framing of the talk, the ?modernization treadmill?\). Using a real-world example) Tj
+T*
+(of an incredibly slow website that was required to access state-sponsored programs for welfare,) Tj
+T*
+(Alex points out the disparity in conditions between those of us who make software and those who) Tj
+T*
+(have to use them: The people who develop these websites are usually doing so on high-powered) Tj
+T*
+(internet connections and high-powered devices, but they're not using them in the conditions) Tj
+T*
+(that the people who most need those benefits are going to be. Then he shows a Reddit thread) Tj
+T*
+(where somebody essentially posted, ?I?m having problems with this website. I?ve been waiting) Tj
+T*
+(for months for my application to go through. Any suggestions?? And one Reddit user responded,) Tj
+T*
+(?The best thing you can do is go into the physical office, get a case worker, and your problems) Tj
+T*
+(will be solved within the hour.? The irony. I guess we've come full...) Tj
+T*
+() Tj
+T*
+(13. iFlac: Sync your FLAC files to your iPhone from Linux) Tj
+T*
+(Source: Jayden?s Blog | Published: 2026-10-08T18:33:00+00:00) Tj
+T*
+(Link: https://jayd.ml/2026/10/08/iflac-sync-flacs-to-iphone.html) Tj
+T*
+(COGNITOHAZARD WARNING: This README is written by a real life meat computer but the rest of the) Tj
+T*
+(project is 100% vibecoded https://github.com/jaydens-tasty-slop/iFlac I have a growing FLAC) Tj
+T*
+(collection that I?d like on my phone, but I don?t want to have to boot Windows to use the Apple) Tj
+T*
+(Music app or \(shudders\) iTunes. Had a friendly robot write this project to sync your FLAC files) Tj
+T*
+(to your iPhone. Based off of: libimobiledevice and the approach ByeTunes It works by pairing) Tj
+T*
+(your PC then injecting rows into Apple Music?s sqlite database \(!!\). Seems to work fine from my) Tj
+T*
+(testing on an iPhone 12. TIP: Don?t use Bluetooth or this whole exercise was pointless -) Tj
+T*
+(Bluetooth will compress your delicious lossless audio.) Tj
+T*
+() Tj
+T*
+(14. Get Player Stats From Your Minecraft Server Logs) Tj
+T*
+(Source: Jayden?s Blog | Published: 2026-10-08T18:26:00+00:00) Tj
+T*
+(Link: https://jayd.ml/2026/10/08/minecraft-log-analyzer.html) Tj
+T*
+(NOTE: The subject of this post was vibecoded, but this post is 100% written by a real life) Tj
+T*
+(human being I have a Minecraft server with about 6 years of logs \(covid minecraft server baby!\)) Tj
+T*
+(and I always wondered who has played the most and when, so I had a friendly robot slop together) Tj
+T*
+(a little go app you can run on a cronjob to generate an HTML report. For a demo of the report,) Tj
+T*
+(see here: https://jaydens-tasty-slop.github.io/minecraft-log-analyzer/ Here?s the repo:) Tj
+T*
+(https://github.com/jaydens-tasty-slop/minecraft-log-analyzer It saves events it parses out of) Tj
+T*
+(the logs into a sqlite database, then incrementally parses new files daily if you run it in a) Tj
+T*
+(cronjob. Features Server Stats: Total unique players Total play time in hours Play time by year) Tj
+T*
+(Play time by player Player Stats: Play time \(hours\) \(and by year\) Play time with other players) Tj
+T*
+(\(see who plays with who\) Sessions Time played Social time \(with at least 1 other player on\)) Tj
+T*
+(Loner time \(playing alone\) Longest, shortest, and average session Longest, shortest, and) Tj
+T*
+(minimum in-game lifetime Deaths Chat messages / commands Previous aliases Chat Messages: By) Tj
+T*
+(default there is also a chat log rendered \(but not linked to from other pages\) Pa...) Tj
+T*
+() Tj
+T*
+(15. Swemak: Colemak for Swedish) Tj
+T*
+(Source: Entropic Thoughts | Published: Thu, 08 Oct 2026 00:00:00 +0200) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1044 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://entropicthoughts.com/swemak) Tj
+T*
+(I have written before about my Swedish Colemak hack, but I never explained what makes it so) Tj
+T*
+(good. This is a better image what it looks like: If you?re struggling to find the difference) Tj
+T*
+(against normal Colemak, look at the cluster of five keys next to the return key. This layout) Tj
+T*
+(makes room for the three Swedish letters ≈ , ƒ , and ÷ , by only changing five keys in total,) Tj
+T*
+(and they have changed very thoughtfully: \(Continue reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(16. Let?s Deconstruct Photoshop) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-10-08T16:54:14Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17492299/artcraft-vibe-coding-creative-cloud-remake) Tj
+T*
+(A quixotic new project takes an AI-first approach to battling Adobe, and while it?s unclear) Tj
+T*
+(where it leads, it raises important questions about what happens when companies ignore their) Tj
+T*
+(users.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004160 00000 n 
+0000004286 00000 n 
+0000008741 00000 n 
+0000008867 00000 n 
+0000013614 00000 n 
+0000013740 00000 n 
+0000014837 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14965
+%%EOF
