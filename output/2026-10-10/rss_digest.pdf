@@ -1,0 +1,456 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4429 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-10 14:45:42) Tj
+T*
+() Tj
+T*
+(1. Radxa's Q8B has 2x the performance and expansion of the Pi 5) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 09 Oct 2026 15:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/) Tj
+T*
+(There was a time I'd look at a board like the Radxa Dragon Q8B \(at left, above\) and be like,) Tj
+T*
+("there's no way I'd spend $209 on an SBC with 8 gigs of RAM". But we're in 2026, and seeing the) Tj
+T*
+(8 gig Raspberry Pi 5 going for almost the same amount, I figured I'd give it a shot. On paper ,) Tj
+T*
+(the Q8B beats the Pi 5 in pretty much every way. A lot of that is thanks to this Snapdragon 8cx) Tj
+T*
+(Gen 3 chip, which is the same chip I tested on Microsoft's Windows Dev Kit 2023 .) Tj
+T*
+() Tj
+T*
+(2. Quoting The New York Times) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-10T02:04:12+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/10/the-new-york-times/) Tj
+T*
+(Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the) Tj
+T*
+(targeted websites. But two sources with knowledge of the incidents said Anthropic?s A.I. agents) Tj
+T*
+(had submitted 20 visa applications through a form available on the State Department?s website.) Tj
+T*
+(All the applications were incomplete and were not processed, they said. ? The New York Times ,) Tj
+T*
+(Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website Tags:) Tj
+T*
+(accidental-cyberattacks , anthropic , generative-ai , ai , llms) Tj
+T*
+() Tj
+T*
+(3. Deno is joining Cloudflare) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-09T22:48:37+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/) Tj
+T*
+(Deno is joining Cloudflare The Deno team released the first version of celld back in August -) Tj
+T*
+(their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today,) Tj
+T*
+(Cloudflare are acquiring Deno outright, with the goal of building on celld to "make workerd) Tj
+T*
+(self-hosting a first-class supported way to build and run apps using the Workers programming) Tj
+T*
+(model" \(see the Cloudflare blog .\) The bad news is that Deno itself will not be maintained by) Tj
+T*
+(Cloudflare beyond the next year: We will support the Deno runtime for another year with monthly) Tj
+T*
+(releases containing bug fixes and security updates. After that year we will end our development) Tj
+T*
+(of the Deno runtime. Deno will remain open source, and we welcome others who want to continue) Tj
+T*
+(its development. Deno \(and Node.js\) creator Ryan Dahl explained that decision in a comment on) Tj
+T*
+(Hacker News: It's a joint decision and I agree with it. I'm most invested in its success and) Tj
+T*
+(have put the most work into it - and I no longer think it's where I can do the most important) Tj
+T*
+(work. There are some good ideas in Deno and it's well engineered - but it ultimately is not) Tj
+T*
+(solving big problems. It has been sucked into the gravity well of node...) Tj
+T*
+() Tj
+T*
+(4. Quoting Matthew Green) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-09T15:02:29+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/9/matthew-green/) Tj
+T*
+(Everyone is very concerned about being respectable, so I?m going to be the goofball who raises) Tj
+T*
+(worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance) Tj
+T*
+(we functionally lose confidence in our existing public-key encryption algorithms. [...] The) Tj
+T*
+(problem here is that the speed of AI producing surprises, and the speed of human beings) Tj
+T*
+(replacing standards \(even with the very best AI assistance\) are just orders of magnitude) Tj
+T*
+(different. You only recover from a surprise like this if you do the preparation in advance. ?) Tj
+T*
+(Matthew Green , on Twitter. I looked it up and Minicrypt is Russell Impagliazzo?s hypothetical) Tj
+T*
+(world in which public-key encryption is impossible. Tags: ai-security-research , matthew-green) Tj
+T*
+(, cryptography , standards , llms , ai , generative-ai) Tj
+T*
+() Tj
+T*
+(5. I Was Not Blown Away by Eli Tan?s ?I Was Blown Away? Review of Meta Muse) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-25T14:41:29Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_co) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4461 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(de=1.D1E.Wram.T8Ww85vXKKYU) Tj
+T*
+(Eli Tan, writing for The New York Times, ?I Gave My Life Over to Meta?s A.I. Agent and Was) Tj
+T*
+(Blown Away? \(gift link\): For one final task, I asked Wren for a good way to spend that $44.99) Tj
+T*
+(it had saved me. At this point, it knew my life pretty well. I thought it might suggest) Tj
+T*
+(something altruistic, like donating the money to charity or buying flowers for my girlfriend,) Tj
+T*
+(who was recovering from surgery. Instead, it suggested something even better ? buying bowls) Tj
+T*
+(from Heath Ceramics , a local ceramics maker with a dedicated following, on Facebook) Tj
+T*
+(Marketplace, one of my favorite pastimes. Reading Tan?s ?blown away? review \(which words only) Tj
+T*
+(appear in the headline, but it?s his byline under it\) made me feel like I was on a hidden) Tj
+T*
+(camera show. Like I?ve been told I?m about to be served some blow-you-away good coffee and what) Tj
+T*
+(I?m tasting sure tastes like Folger?s fucking crystals . I?m not saying Muse isn?t capable of) Tj
+T*
+(blow-you-away things, but I sure didn?t read any of them in Tan?s review. And then, at the end,) Tj
+T*
+(it steers him toward buying something from ... Meta?s own Facebook Marketplace? And the) Tj
+T*
+(reaction isn?t a hard eye roll? I get the feeling that Tan believes he?s supposed to be) Tj
+T*
+(impressed...) Tj
+T*
+() Tj
+T*
+(6. ? AppZapper 3000) Tj
+T*
+(Source: Daring Fireball | Published: 2026-09-23T17:31:23Z) Tj
+T*
+(Link: https://daringfireball.net/2026/09/appzapper_3000) Tj
+T*
+(Is it absolutely ridiculous and unnecessary to make an uninstall utility with an exquisitely) Tj
+T*
+(detailed 3D laser gun as its UI? Fuckin?-A right it is.) Tj
+T*
+() Tj
+T*
+(7. Software's centaur age may last decades) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sat, 10 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/softwares-centaur-age-may-last-decades/) Tj
+T*
+(We are currently living in the age of centaurs \(2022-20??\). Right now, human engineers paired) Tj
+T*
+(with AI coding systems are more effective than either by themselves. For future generations of) Tj
+T*
+(software engineers ? human or otherwise ? this will be the most significant fact about the) Tj
+T*
+(current period. As in chess?s own centaur age, people are always ready to claim that the) Tj
+T*
+(centaur age is over and the age of AI supremacy has begun. But the age of centaurs in chess) Tj
+T*
+(lasted about twenty years, and previous centaur ages have lasted far longer . This should be) Tj
+T*
+(encouraging to many of us. If software engineering goes along similar lines, we may be able to) Tj
+T*
+(ride it out another decade or two: enough to make serious plans about what comes next, or to) Tj
+T*
+(finish out our careers entirely. A brief history of the centaur age It began with GitHub) Tj
+T*
+(Copilot, which launched in 2022 as AI-powered autocomplete. A confident engineer who knew) Tj
+T*
+(exactly what they wanted could tab-complete their way through lines of code and sometimes) Tj
+T*
+(entire functions. Being able to chat with language models like GPT-4 provided the next upgrade.) Tj
+T*
+(Although the models would still get things wrong, it was helpful to have a generalist on tap...) Tj
+T*
+() Tj
+T*
+(8. FBI Arrests Founder of Ransomware Negotiation Firm) Tj
+T*
+(Source: Krebs on Security | Published: Sat, 10 Oct 2026 00:17:42 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/) Tj
+T*
+(Agents with the Federal Bureau of Investigation \(FBI\) on Thursday arrested the co-founder of a) Tj
+T*
+(Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking) Tj
+T*
+(group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources) Tj
+T*
+(tell KrebsOnSecurity.) Tj
+T*
+() Tj
+T*
+(9. Pluralistic: Thwarted \(09 Oct 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 09 Oct 2026 19:48:39) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/10/09/impunitism/) Tj
+T*
+(Today's links Thwarted: Behold the awesome destructive power of a fully operational) Tj
+T*
+(billionaire. Hey look at this: Delights to delectate. Object permanence: Anthrax v National) Tj
+T*
+(Inquirer; Grey goo v Second Life; Predictive policing v actual crime; Spooky cookies;) Tj
+T*
+(California v algorithmic price-fixing; Tivo self-destructs; Disney exec endorses piracy; TSA v) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4433 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(geologists; Handheld printer; Mandatory DRM for all Canadian music sales; Iceweasel; "Snuff";) Tj
+T*
+("Shade the Changing Girl"; Latam surveillance; Scotland Yard brands encryption terrorism; RBS) Tj
+T*
+(slaughtered 10k small businesses to seize and sell their assets; Dead Letters. Upcoming) Tj
+T*
+(appearances: Calgary, Winnipeg, Paris, Vancouver, Victoria, Ottawa, Kilkenny, Sheffield,) Tj
+T*
+(Oxford, Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll) Tj
+T*
+(keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest.) Tj
+T*
+(Thwarted \(permalink\) There are many ways in which every billionaire is a policy failure, but) Tj
+T*
+(the most corrosive and destructive way in which billionaires are policy failures is this:) Tj
+T*
+(billionaires, despite being unelected and unaccountable, possess the power to control ? and) Tj
+T*
+(ruin ? millio...) Tj
+T*
+() Tj
+T*
+(10. Concert Review: London Voices - Video Games Go Choral ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 09 Oct 2026 11:34:09 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/10/concert-review-london-voices-video-games-go-choral/) Tj
+T*
+(London's musical entertainment scene has something for everyone - from long-running blockbuster) Tj
+T*
+(shows to no-name bands in dingy basements. Somewhere in the middle is monophonic plainchant) Tj
+T*
+(versions of the Halo theme sung in a church. The acoustics at St Martin in the Field are) Tj
+T*
+(echoey. That makes it rather hard to hear the amplified announcement to turn off our phones,) Tj
+T*
+(but makes an a cappella?) Tj
+T*
+() Tj
+T*
+(11. No Man Is an Island) Tj
+T*
+(Source: Fernando Borretti | Published: Fri, 09 Oct 2026 00:00:00 +1100) Tj
+T*
+(Link: https://borretti.me/article/no-man-is-an-island) Tj
+T*
+(AI makes intellectual contribution superfluous.) Tj
+T*
+() Tj
+T*
+(12. Premium: The Hater's Guide To Junk) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 09 Oct 2026 15:53:00 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-the-haters-guide-to-junk/) Tj
+T*
+(Ladies and gentlemen, we are in a glorious, splendiferous, outrageous era of crap! Some call it) Tj
+T*
+(?high-yield,? some call it ?speculative-grade,? but to those of us living in the real world, we) Tj
+T*
+(know them as junk bonds, the formerly-sleepy world of below-) Tj
+T*
+() Tj
+T*
+(13. Fun with low-rank vocab matrices \(and a bonus test loss reduction?\)) Tj
+T*
+(Source: Giles' blog | Published: Fri, 09 Oct 2026 16:00:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices) Tj
+T*
+(I was nerdsniped ! On the HF discussion page for one of the models I created for my previous) Tj
+T*
+(post , AndrewThompson1233 asked if I'd considered trying out factorised embeddings -- something) Tj
+T*
+(he's using for his model, Maba, and which was previously used in some other models, like ALBERT) Tj
+T*
+(. It's a really nifty idea; you use a similar trick to LoRA as a way of reducing the number of) Tj
+T*
+(parameters used for your embeddings and your output head. And for small models, those can be a) Tj
+T*
+(disproportionate number of the total. For example, with my 163 million parameter GPT-2) Tj
+T*
+(small-style models, the embeddings are about 39 million of them ; the output head is the same) Tj
+T*
+(size, so with those two taken together, that's half the model just getting stuff in and out) Tj
+T*
+(rather than actually doing the thinking. Even if you use weight tying, like the original GPT-2) Tj
+T*
+(models did, you'll wind up spending 30% of your "budget" on the single matrix shared between) Tj
+T*
+(embeddings and the output head. Similarly, while larger models have a smaller percentage spent) Tj
+T*
+(that way, even medium-sized MoE models can wind up spending a lot of the active parameters on) Tj
+T*
+(embeddings; I calculated that for Qwen 3.6 35B MoE, with 3B active paramet...) Tj
+T*
+() Tj
+T*
+(14. Lobbying) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-10-10T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html) Tj
+T*
+(Have you tried to explain lobbying to a non American unfamiliar with the concept? You see, the) Tj
+T*
+(corporations and rich people write checks to the politicians. No no, not to them directly,) Tj
+T*
+(sorry, to their reelection campaigns. Then the politicians listen to what the people who paid) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1999 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(them have to say and pass laws based on that. No but like, the money isn?t for the laws, it?s) Tj
+T*
+(for like, TV ads and fancy haircuts and private jets and stuff. It?s not a bribe. It?s for) Tj
+T*
+(their Super PAC. All above board. It?s like, they do what the people with the money want, they) Tj
+T*
+(get the money, and they continue to have a successful career in politics. No no, it?s not) Tj
+T*
+(bribery. Bribery is super illegal in America. It?s like, the politicians need help knowing what) Tj
+T*
+(laws to pass. So rich people come and help them. And they also give them money. How much money?) Tj
+T*
+(Oh, that depends how helpful they are. And if they were really helpful, they can leave the) Tj
+T*
+(politics and get a nice consulting job with the people who lobbied them after. Then the money) Tj
+T*
+(goes right in their pocket. No no no that can?t be a bribe you see, that happens after the laws) Tj
+T*
+(were passed, a bribe would have to be before . You just don?t get it cause y...) Tj
+T*
+() Tj
+T*
+(15. Name Shame) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-10-09T18:53:35Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17493045/nominative-antideterminism-history) Tj
+T*
+(The concept of nominative antideterminism, or when your name goes against everything that you) Tj
+T*
+(represent, whether intentionally or not. Cecil Fielder, sadly, wasn't a great fielder.) Tj
+T*
+() Tj
+T*
+(16. An Ion Storm!, Part 1: The Ascent to Gamer Paradise) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 09 Oct 2026 16:10:11 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/10/an-ion-storm-part-1-the-gamers-penthouse/) Tj
+T*
+(This article tells part of the story of John Romero. At id, the company was rolling in millions) Tj
+T*
+(of dollars and we just had walls. It was the whole Carmack idea of, ?I don?t need anything on) Tj
+T*
+(my walls, all I need is a table and a computer and a chair,? instead of, ?Okay, we?ve [?]) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004691 00000 n 
+0000004817 00000 n 
+0000009330 00000 n 
+0000009456 00000 n 
+0000013941 00000 n 
+0000014067 00000 n 
+0000016119 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16247
+%%EOF
