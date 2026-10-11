@@ -1,0 +1,292 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4271 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-11 14:53:15) Tj
+T*
+() Tj
+T*
+(1. Dwarf Fortress uses version control now) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-11T00:52:37+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/11/dwarf-fortress/) Tj
+T*
+(I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has) Tj
+T*
+(been lodged in my head, because given its inherent complexity I have trouble imagining a) Tj
+T*
+(codebase that would benefit from version control more . That's art. I went looking and I'm sad) Tj
+T*
+(to report that the days without version control appear to have ended. Quoting Tarn Adams over) Tj
+T*
+(time: March 2013: "I don't use version control -- I didn't like the feeling of having the code) Tj
+T*
+(get committed into a black box thingy with no immediate upside" March 2016: "I don?t even use) Tj
+T*
+(version control. If you don?t know what that is then you?re not gonna yell at me. If you even) Tj
+T*
+(know what version control is you?re gonna be like, ?You don?t use version control? You don?t) Tj
+T*
+(use source control? What is wrong with you? How can you even work? I?m just not cut out for it,) Tj
+T*
+(in a sense. It?s been 15 years, so the reasons have change over time, but that?s my current) Tj
+T*
+(understanding of it." March 2023: "I've got Discord channels to check and version control stuff) Tj
+T*
+(to use now, so the process is definitely a little more involved" That March 2023 quote comes) Tj
+T*
+(from an interview about the release on Steam which made them millionaires ....) Tj
+T*
+() Tj
+T*
+(2. Python 3.15.0 added to actions/python-versions) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-10T23:58:04+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/10/python-actions/) Tj
+T*
+(Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for) Tj
+T*
+(this for a couple of days - I even told ChatGPT to check for it: Clone) Tj
+T*
+(https://github.com/actions/python-versions and git pull once an hour until they add the stable) Tj
+T*
+(3.15 - then tell me about it Now that this has landed, you can add "3.15" to a GitHub Actions) Tj
+T*
+(testing matrix to run tests against the new Python 3.15.0 release . Tags: github , python ,) Tj
+T*
+(github-actions , chatgpt) Tj
+T*
+() Tj
+T*
+(3. A new feature for my blog, built using my voice) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-09T12:54:06+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/9/built-using-my-voice/) Tj
+T*
+(I shipped a new feature for my blog today: the Newsletters page, which offers an index of all) Tj
+T*
+(of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only) Tj
+T*
+(updates. I built the feature almost entirely using my voice, chatting away to my laptop while I) Tj
+T*
+(cooked dinner. Codex voice mode I used the ChatGPT desktop app for this, in the Codex tab,) Tj
+T*
+(using the voice conversation mode, running against a local development environment. Here's what) Tj
+T*
+(that looks like: I started the session against my local simonwillisonblog checkout by typing:) Tj
+T*
+(Start dev server and open in browser This gave me a preview of the site that it would be) Tj
+T*
+(working on, and meant that I could later ask it to show me the new pages so I could visually) Tj
+T*
+(track its progress. Then I clicked the "Start new voice chat" button - that's not the) Tj
+T*
+(microphone button, it's the one to the right of it - and set my laptop up in the kitchen so I) Tj
+T*
+(could talk to it while I cooked. Talking to my computer I had a pretty good idea of what I) Tj
+T*
+(wanted to build, and it's a simple enough Django feature that I was certain the model \(in this) Tj
+T*
+(case GPT-6 Astra High\) would be able to do it. A new model, a migration, some view code,...) Tj
+T*
+() Tj
+T*
+(4. Sunnny) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-10T16:11:45Z) Tj
+T*
+(Link: https://sunnny.com/) Tj
+T*
+(My thanks to Sunnny for sponsoring this week at DF. How can B2B software be so friggin?) Tj
+T*
+(delicious? Find out when early access launches on Monday, October 19. ?) Tj
+T*
+() Tj
+T*
+(5. ?Proof-of-Human?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-10T16:06:17Z) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4683 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://x.com/bzamayo/status/2108498107184934914) Tj
+T*
+(Benjamin Mayo \(on X, of course\), commenting on Apple promoting behind-the-scenes footage) Tj
+T*
+(showing that the cross-stitch ?Welcome Home? logo for next week?s keynote/experience was) Tj
+T*
+(stitched by hand: There needs to be a name for this phenomenon where every published piece of) Tj
+T*
+(art by a company is now accompanied by a proof-of-human video. I agree, and I think Mayo coined) Tj
+T*
+(the term right there. It?s always been fun to see footage of talented artists and craftspeople) Tj
+T*
+(making things by hand. But in the age of AI it?s a differentiator ? not just that you aren?t) Tj
+T*
+(lazily generating your art via prompts, but that you understand that heart comes from the human) Tj
+T*
+(hand. ?) Tj
+T*
+() Tj
+T*
+(6. Inside a 1980s filter chip that uses switched capacitors) Tj
+T*
+(Source: Ken Shirriff's blog | Published: 2026-10-10T09:40:25.632-07:00) Tj
+T*
+(Link: http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html) Tj
+T*
+(Sometimes it's easier to identify an IC with a microscope. While sorting a box of old ICs,) Tj
+T*
+(CuriousMarc came across some Harris ICs labeled "F1-10-5", a mysterious part number that didn't) Tj
+T*
+(show up in any databooks. Since unidentifiable ICs are useless, he gave me one to analyze.) Tj
+T*
+(Conveniently, it was in a ceramic package, so I could open it up with a quick tap from a) Tj
+T*
+(chisel. Under the microscope, the chip's most striking feature was a grid of square capacitors.) Tj
+T*
+(With all those capacitors, I guessed that it was a switched-capacitor filter. The die provided) Tj
+T*
+(another clue: the part number HF-10. With this information, we quickly found that the chip was) Tj
+T*
+(Harris's version of the standard MF10 switched-capacitor filter chip. 1 The Harris integrated) Tj
+T*
+(circuit, labeled F1-10-5 \(or maybe FI-10-5\), with a 1985 date code. Photo courtesy of) Tj
+T*
+(CuriousMarc. Switched-capacitor filters were a popular way to implement analog filters in the) Tj
+T*
+(1980s. Rapidly switching capacitors in and out of a circuit enabled the construction of) Tj
+T*
+(single-chip filters that were easy to use and performed well. The MF10, introduced by National) Tj
+T*
+(Semiconductor in 1981, provides two flexible filters on a chip; each filter acts as a low...) Tj
+T*
+() Tj
+T*
+(7. Some quick thoughts on Unit Testing ActivityPub) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 10 Oct 2026 11:34:15 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/) Tj
+T*
+(I'll be radically honest here - I never really got the idea of "Test Driven Development". I'm) Tj
+T*
+(much more of a "telnet into production and damn the consequences" kind of guy. Look, it's much) Tj
+T*
+(more fun and my cardiologist recommends severe shocks every now and again. The essence of unit) Tj
+T*
+(testing is pretty simple: Feed a function some data See how it responds Send it good data and) Tj
+T*
+(if it returns?) Tj
+T*
+() Tj
+T*
+(8. This Week in Package Management: 10 October 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-10-10T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/10/10/this-week-in-package-management.html) Tj
+T*
+(This week?s package management news, gathered from the package manager OPML feed collection ,) Tj
+T*
+(my posts and boosts on Mastodon , and anything people sent me. The collection now includes the) Tj
+T*
+(vlt blog and vlt CLI releases . Releases uv 0.13.0 makes Python 3.15 the default download,) Tj
+T*
+(prefers native ARM64 interpreters on Windows ARM64, and changes the cache format, so) Tj
+T*
+(dependencies may be downloaded or rebuilt after upgrading. It now honours --require-hashes in) Tj
+T*
+(constraints files included with -c and rejects editable requirements in them, so installs that) Tj
+T*
+(previously passed can fail. Astral?s Python 3.15 post also covers a build-lazy-imports preview) Tj
+T*
+(that runs build backends under -X lazy_imports=all . Astral measured wheel builds up to 18%) Tj
+T*
+(faster with it. pnpm 12.11 installs and signature-checks the Rust toolchain named in) Tj
+T*
+(rust-toolchain.toml , and links skills/ /SKILL.md files shipped by direct dependencies into) Tj
+T*
+(directories such as .claude/skills once they are approved with pnpm approve . A new permissions) Tj
+T*
+(setting records what each dependency may do, with its build capability taking precedence over) Tj
+T*
+(allowBuilds . 12.10 added an experimental loaded node linker that loads compatible dependen...) Tj
+T*
+() Tj
+T*
+(9. Reading List 10/10/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 10 Oct 2026 14:55:48 GMT) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 255 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.construction-physics.com/p/reading-list-101026) Tj
+T*
+(Propane in air conditioners, Anduril making submarine parts, nuclear reactors on the moon, the) Tj
+T*
+(robotic hand landscape, and more.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004526 00000 n 
+0000004652 00000 n 
+0000009387 00000 n 
+0000009513 00000 n 
+0000009819 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+9945
+%%EOF
