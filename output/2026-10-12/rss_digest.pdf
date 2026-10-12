@@ -1,0 +1,378 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4207 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-12 15:02:21) Tj
+T*
+() Tj
+T*
+(1. llm-openai-decisions 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-06T23:04:13+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/6/llm-openai-decisions/) Tj
+T*
+(Release: llm-openai-decisions 0.1a0 OpenAI released their new Jev-style Decisions API , as) Tj
+T*
+(previously announced at last week's DevDay. Since I already have an llm-typesafe plugin for) Tj
+T*
+(talking to Jev, I had GPT-6 Astra read the new OpenAI API documentation and build an) Tj
+T*
+(llm-openai-decisions plugin inspired by llm-typesafe . Unlike Jev, the new gpt-6-luna decision) Tj
+T*
+(model supports image input in addition to text. Both models charge for input it and not for) Tj
+T*
+(output: OpenAI's is 10 cents per million input tokens, Jev's is 4.2 cents per million.) Tj
+T*
+(Otherwise the API shape is very similar to Jev, at least conceptually. Jev supports three) Tj
+T*
+(question types for yes/no, choices, or scores. OpenAI Decisions supports the same three types.) Tj
+T*
+(Install the plugin like this: llm install llm-openai-decisions Here's an example query against) Tj
+T*
+(an image attachment: llm -m openai-decisions/gpt-6-luna \\ -a) Tj
+T*
+(https://static.simonwillison.net/static/2025/two-pelicans.jpg \\ -s ' Does this image contain) Tj
+T*
+(any mammals? ' And example output: { "type" : " predicate " , "name" : " evaluation " ,) Tj
+T*
+("probability" : 0.0 } Consult the README for full details of how to run the other types of) Tj
+T*
+(questions. Tags: openai , llm , coding-agent...) Tj
+T*
+() Tj
+T*
+(2. llm-mistral 0.16) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-06T21:32:34+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/6/llm-mistral/) Tj
+T*
+(Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral) Tj
+T*
+(Large 4 . Tags: llm , mistral , llm-reasoning) Tj
+T*
+() Tj
+T*
+(3. EmbeddingGemma 2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-06T20:37:53+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/6/hn-49983751/) Tj
+T*
+(My comment on EmbeddingGemma 2 ? Hacker News. I really appreciate that EmbeddingGemma 2 is) Tj
+T*
+(under the Apache 2.0 license. For embedding models in particular, I don't think it makes sense) Tj
+T*
+(to use a closed, proprietary, hosted-only model. Most applications of embedding models involve) Tj
+T*
+(calculating thousands or even millions of embedding vectors and storing them for later) Tj
+T*
+(comparison. If your model is proprietary, the vendor is likely someday going to decide to stop) Tj
+T*
+(offering that model. They'll have a better model to replace it, but you still need to pay to) Tj
+T*
+(re-calculate those millions of stored existing vectors. \(In April 2024 OpenAI offered to "cover) Tj
+T*
+(the financial cost of users re-embedding content with these new models" -) Tj
+T*
+(https://openai.com/index/gpt-4-api-general-availability/ - but I don't think that's something) Tj
+T*
+(we can rely on from every provider.\) Notably, I don't want to host the model myself . I'd much) Tj
+T*
+(rather pay a provider for a hosted model while knowing that if they ever stop hosting it I can) Tj
+T*
+(run the open weights version myself - or find another vendor who can do that for me. Tags:) Tj
+T*
+(google , ai , generative-ai , embeddings , gemma) Tj
+T*
+() Tj
+T*
+(4. ? X Once Again Marks the Spot) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-11T21:05:33Z) Tj
+T*
+(Link: https://daringfireball.net/2026/10/x_once_again_marks_the_spot) Tj
+T*
+(If you returned from exile on a desert island and took a look at X today for first time in a) Tj
+T*
+(year, you might reasonably guess that Elon Musk got bored and sold it while you were away.) Tj
+T*
+() Tj
+T*
+(5. Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-11T19:02:38Z) Tj
+T*
+(Link: https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/) Tj
+T*
+(Joe Rossignol, on Thursday: Starting today, iPhone users still running iOS 26 will see iOS) Tj
+T*
+(27.0.1 as the prominent software update in the Settings app under General ? Software Update,) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4580 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(with iOS 26.7.1 now relegated to a smaller ?Also Available? section at the bottom. Just the) Tj
+T*
+(other day I posted about how most users only get OS updates when Apple pushes them through) Tj
+T*
+(automatic updates. But even for users who update manually, until Thursday, the default) Tj
+T*
+(suggested update for users on iOS 26.x was to remain on the latest version of iOS 26. To get) Tj
+T*
+(iOS 27 you had to scroll down ?below the fold? and most users don?t do that. iOS 27 adoption) Tj
+T*
+(amongst normals is very slow, but that?s only because Apple wants it slow. That?s not because) Tj
+T*
+(iOS 27 is buggy ? it speaks to its Snow-Leopard-like focus on bug fixes and performance updates) Tj
+T*
+(that it?s actually remarkably stable. The obvious explanation is that Apple is slow-rolling 27) Tj
+T*
+(updates to gate access to Siri AI. ?) Tj
+T*
+() Tj
+T*
+(6. Why I Get Bored) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Sun, 11 Oct 2026) Tj
+T*
+(16:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/why-i-get-bored) Tj
+T*
+(For me, boredom is just a signal. It means I've hit a roadblock and my brain is trying to) Tj
+T*
+(convince me not to go any further. "Give up. This sucks anyway. Why are you still wasting your) Tj
+T*
+(time on this silly thing?" That's how I feel when I do things I'm really bad at. I think I'm) Tj
+T*
+(not good at making YouTube videos. Whenever I think of a subject I find really exciting, I) Tj
+T*
+(start writing, record a first pass, and then load DaVinci Resolve. With my current schedule,) Tj
+T*
+(job, family, and responsibilities, I've found that it takes me a whole week to polish three) Tj
+T*
+(minutes of video. That means I hear the same material I wrote and recorded over and over until) Tj
+T*
+(it becomes completely boring. After a few weeks, I lose interest in the subject and have no) Tj
+T*
+(motivation to finish it. But I think that's just an excuse I tell myself. I like the videos) Tj
+T*
+(I've managed to complete. I wish I could change some parts, but I still like the final product.) Tj
+T*
+(It's just that the process gets in the way, and it does so because I have no expertise in) Tj
+T*
+(making videos. But then again, I always go back to my trusted method: if you're bad at) Tj
+T*
+(something, do it at least a hundred times before you decide to give up. We all suck at the) Tj
+T*
+(be...) Tj
+T*
+() Tj
+T*
+(7. Don't diagnose your opponents) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 11 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/dont-diagnose-your-opponents/) Tj
+T*
+(When you disagree with someone, there are two paths forward. The first is to try to engage with) Tj
+T*
+(what they?re saying: what their reasons are, whether their position is true, what evidence) Tj
+T*
+(could be brought to bear, and so on. The second is to diagnose them: to engage with the) Tj
+T*
+(second-order question of why they?re saying it. For instance, if you?re arguing with somebody) Tj
+T*
+(about microservices 1 , you could say ?well, you only like microservices because you want to) Tj
+T*
+(polish your resume?, or ?you only like monoliths because you?re scared of distributed systems?.) Tj
+T*
+(This happens a lot in online arguments. On the question ?are AI models improving?, some anti-AI) Tj
+T*
+(people will argue that people only think so because AI psychosis is rotting their brain , and) Tj
+T*
+(the dumber they get, the smarter AI models seem in comparison. Likewise, many pro-AI people) Tj
+T*
+(argue that people only disagree because they?re Luddites, or scared of change, and so on. None) Tj
+T*
+(of these arguments are about the quality of AI models. It feels so good to diagnose your) Tj
+T*
+(opponents because there?s no possible response. If you say ?I think AI models are improving) Tj
+T*
+(because these benchmark scores are rising?, somebody might point out that the AI la...) Tj
+T*
+() Tj
+T*
+(8. One way of thinking about access specifiers in C++/WinRT implementation types) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 09 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261009-00/?p=112764/) Tj
+T*
+(Mapping them to concepts from C# and the now-defunct C++/CX. The post One way of thinking about) Tj
+T*
+(access specifiers in C++/WinRT implementation types appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Just say no to OpenAI and Anthropic) Tj
+T*
+(Source: micahflee | Published: Sun, 11 Oct 2026 23:03:05 GMT) Tj
+T*
+(Link: https://micahflee.com/just-say-no-to-openai-and-anthropic/) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4092 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(I recently read End Times Fascism and the Fight for the Living World by Naomi Klein and Astra) Tj
+T*
+(Taylor. It's an excellent book and I highly recommend that everyone read it. Tech oligarchs) Tj
+T*
+(make up an important component of the end-times-fascist coalition. One thing that stood) Tj
+T*
+() Tj
+T*
+(10. I paid people to try and follow my README) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 11 Oct 2026 11:34:39 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/) Tj
+T*
+(Developers suck at writing documentation. We like to say RTFM but often there ain't no FM to R.) Tj
+T*
+(At best we have a half-arsed collection of notes, some obsolete tips, and a link to a desolate) Tj
+T*
+(forum full of people asking the same questions again and again. That's no way to treat our) Tj
+T*
+(users. I naÔvely believe there's a better way. As I've written before, you should sit down and) Tj
+T*
+(actually test your ?) Tj
+T*
+() Tj
+T*
+(11. The Fascinating World of Domains) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 11 Oct 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/domains-article-on-wired/) Tj
+T*
+(Pete Millspaugh has a lovely article over on WIRED that peers into the world of domains. \(If) Tj
+T*
+(you?re as interested in the esoteric details of domains as I am, follow Pete?s writing at Dot) Tj
+T*
+(Com Press .\) You should just read the article, but here are a few things that stood out to me.) Tj
+T*
+(The .com Registry Did you know who the registry for .com is? I didn?t. The registry that owns) Tj
+T*
+(.com, Verisign, makes a billion and a half dollars every year just by keeping the lights on. To) Tj
+T*
+(Verisign?s credit, the lights never go out: It reports 100 percent uptime over the past 28) Tj
+T*
+(years. It?s a pretty slick business model, watching over a database of words and collecting) Tj
+T*
+(annual renewal fees. Warren Buffett thought so too, investing in Verisign in 2012, when its) Tj
+T*
+(stock price was about one-eighth what it is today. Why is it simultaneously surprising and not) Tj
+T*
+(surprising that the company running .com makes billions and has 100% uptime over almost three) Tj
+T*
+(decades? Maybe GitHub should reach out for some advice, lol. Buying Domains Is a Spy Thriller) Tj
+T*
+(Apparently the last time you could buy generic top-level domains \(gTLDs\) was in 2012. So now) Tj
+T*
+(that ICANN is providing another window of purchases in 2026 ? and nobody kno...) Tj
+T*
+() Tj
+T*
+(12. Refurb weekend II: Alpha Micro Eagle 300 and friends) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-10-11T18:47:19.668-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html) Tj
+T*
+(This Refurb Weekend is a sequel in two ways. Six years ago I fixed the power supply and case) Tj
+T*
+(fan in my 68EC030-based Alpha Microsystems Eagle 300, a more modernized and substantially) Tj
+T*
+(faster Alpha Micro running AMOS, their unique DEC-inspired multiuser operating system. These) Tj
+T*
+(blue-collar boxes were very common in many vertical markets due to their tightly integrated) Tj
+T*
+(business-specific software packages, and are especially unusual for running their big-endian) Tj
+T*
+(68000-series processors little -endian \(for data file backwards compatibility with their WD-16) Tj
+T*
+(ancestors\). The 1990s-era Alpha Micro Eagle family improves on the originals with later 68K and) Tj
+T*
+(even ColdFire CPUs, plus Ethernet and faster SCSI. The second way it's a sequel is to our) Tj
+T*
+(previous Alpha Micro refurb weekend , a double header restoring an Alpha Micro AM-1000 and) Tj
+T*
+(AM-1200, two members of Alpha Micro's most popular series of computers and some of the closest) Tj
+T*
+(things they made in the early '80s to desktop workstations. From the outside, the Eagle comes) Tj
+T*
+(in a PC-style case, but it's not a PC: This particular Eagle 300, with a 40MHz 68EC030 CPU,) Tj
+T*
+(runs ampm.floodgap.com using the webserver provided with AlphaTCP ? yes, Alpha Micros...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004462 00000 n 
+0000004588 00000 n 
+0000009220 00000 n 
+0000009346 00000 n 
+0000013490 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+13616
+%%EOF
