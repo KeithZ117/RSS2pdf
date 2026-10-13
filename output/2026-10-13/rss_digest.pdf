@@ -1,0 +1,386 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4630 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-13 15:26:48) Tj
+T*
+() Tj
+T*
+(1. Hello Python 3.15, goodbye 3.10, and now I can use 3.11) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-12T18:15:38+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/12/python-3-15/) Tj
+T*
+(Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated) Tj
+T*
+(by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software) Tj
+T*
+(that works in every supported Python version, I get to say goodbye to Python 3.10 and start) Tj
+T*
+(embracing features from Python 3.11. First, some highlights from Python 3.15. Explicit lazy) Tj
+T*
+(imports I'm most excited about Explicit lazy imports from PEP 810 . These let you import) Tj
+T*
+(modules like so: lazy import json lazy from pathlib import Path The module will then be) Tj
+T*
+(imported the first time those symbols are used in the code that follows. My LLM CLI tool) Tj
+T*
+(implements plugins. I had to recommend manual lazy imports in the plugin author documentation,) Tj
+T*
+(because simply installing plugins that used heavy dependencies such as sentence_transformers) Tj
+T*
+(could add multiple seconds to every invocation of the llm command. Lazy imports directly) Tj
+T*
+(address this startup cost. Unpacking in comprehensions The new [*sublist for sublist in lists]) Tj
+T*
+(unpacking syntax is neat. Here's an illustration lifted from the documentation : lists = [[ 1 ,) Tj
+T*
+(2 ], [ 3 , 4 ], [ 5 ]] [ * L for L in lists ] # [1, 2, 3, 4, 5] # equivalent to [x for L in...) Tj
+T*
+() Tj
+T*
+(2. web-edit 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-12T15:54:36+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/12/web-edit/) Tj
+T*
+(Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I) Tj
+T*
+(found myself wanting to edit a credentials file without round-tripping those credentials) Tj
+T*
+(through the LLM itself. So... I had Codex and GPT-6 Astra Extra High build this Python web app) Tj
+T*
+(which provides a web UI for viewing and editing files in a folder. It's intended to be run over) Tj
+T*
+(Tailscale, so I can have an agent start this running and then edit files via my Tailscale) Tj
+T*
+(network directly from my phone. Here's the interface for browsing files in a folder: Editing) Tj
+T*
+(uses CodeMirror 6 - I was going to use Monaco but that still doesn't have a great mobile) Tj
+T*
+(experience yet. Tags: projects , python , ai , tailscale , generative-ai , llms , codex) Tj
+T*
+() Tj
+T*
+(3. datasette-ports 0.4) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-12T04:57:07+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/12/datasette-ports/) Tj
+T*
+(Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the) Tj
+T*
+(current machine now works with the latest version, and displays the detected PID as well.) Tj
+T*
+(Knowing the PID makes it easier to attach the new Python 3.15 profiler . Tags: datasette) Tj
+T*
+() Tj
+T*
+(4. Software engineers don't get to be Luddites about AI) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Mon, 12 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/) Tj
+T*
+(Many software engineers are righteously angry about AI. It?s understandable to be upset that) Tj
+T*
+(the skills you built your professional identity around are getting automated away. But software) Tj
+T*
+(engineers are the last people in the world who should be complaining about this. If you live by) Tj
+T*
+(the sword, you will perish by the sword 1 . Software engineering has always automated) Tj
+T*
+(industries From the very beginning, software engineering has been about automating other) Tj
+T*
+(people?s work. Every single commercial software program 2 is valuable because it takes over) Tj
+T*
+(some task you would have to pay a human to do. The engineer who built VisiCalc, one of the) Tj
+T*
+(first pieces of personal commercial software, agonized over the potential of the spreadsheet to) Tj
+T*
+(put bookkeepers out of work. Here is a brief list of industries software engineers have) Tj
+T*
+(automated away 3 : Video rental stores Business directories and encyclopaedias Typesetting) Tj
+T*
+(companies Travel agencies Record stores Typing pools Data-entry Trading-floor runners Now that) Tj
+T*
+(it?s our turn, should we bluster and complain that software engineering is a priceless art that) Tj
+T*
+(should not be automated? Come off it. No crying in the casino. The Luddites and the mechan...) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4460 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(5. C++ futures part 1: The mental model) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 12 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/) Tj
+T*
+(Managing a value that is produced later. The post C++ futures part 1: The mental model appeared) Tj
+T*
+(first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(6. Mark Stephens, a.k.a. Robert X. Cringely, Died at 73) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-12T16:43:46Z) Tj
+T*
+(Link: https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzy) Tj
+T*
+(g2wAjeMcruFC7dWUZKQJKkNChP9l&id=536506060&_rdr) Tj
+T*
+(Mary Alyce Stephens \(nÈe Neader\), posting on Cringely?s Facebook account: Hello, this is Mary) Tj
+T*
+(Alyce, Bob?s wife. I am coming to you with immense sadness to let you know that Bob passed) Tj
+T*
+(away. His obituary follows. His family is not requesting anything, however, if you would like) Tj
+T*
+(to make a donation in his honor, please consider The American Heart Association or The American) Tj
+T*
+(SIDS Institute . [...] Writing as Robert X. Cringely, Mark became a distinctive voice in) Tj
+T*
+(technology journalism. He had an unusual ability to understand not only technology but also the) Tj
+T*
+(human beings behind it ? the dreamers, inventors, entrepreneurs, eccentrics, and risk-takers) Tj
+T*
+(who were changing the world. He could take a complicated subject and make it understandable,) Tj
+T*
+(entertaining, funny, and deeply human. He was skeptical when skepticism was warranted,) Tj
+T*
+(irreverent when others were overly serious, and never particularly interested in following) Tj
+T*
+(conventional wisdom. That independence was not simply part of his writing. It was Mark. He) Tj
+T*
+(followed the beat of his own drummer throughout his life. He was brilliant, funny, opinionated,) Tj
+T*
+(curious, generous, exasperating, and unforgettable ? sometimes all within the same conve...) Tj
+T*
+() Tj
+T*
+(7. Categorical models of logics) Tj
+T*
+(Source: John D. Cook | Published: Mon, 12 Oct 2026 13:04:09 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/12/categorical-models-of-logics/) Tj
+T*
+(A few days ago I wrote about topological models of modal logic. If you find general topology) Tj
+T*
+(more familiar than modal logic, this correspondence could be helpful. If you think the) Tj
+T*
+(motivation for general topology is evident but the motivation for modal logic is suspect, the) Tj
+T*
+(correspondence between the two fields might relieve some of [?] The post Categorical models of) Tj
+T*
+(logics first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(8. Now That?s What I Call Technical Debt!) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-10-12T09:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/10/12/now-thats-what-i-call-technical-debt.html) Tj
+T*
+(?I haven?t listened to it, but you?re absolutely right to release it.? MC OpenClaw 1. All Star) Tj
+T*
+(\(Maintainer?s Version\) Smash Mouth: All Star The PRs start coming and they don?t stop coming,) Tj
+T*
+(Bots keep shipping and the tests keep running. Only made sense to automate, Now I?m reviewing) Tj
+T*
+(slop at a staggering rate. So much to merge, so much to break, So what?s wrong with another) Tj
+T*
+(rewrite? You?ll never know if you don?t deploy, You?ll never care if you?re not employed. 2.) Tj
+T*
+(Should I Merge or Should I Close? The Clash: Should I Stay or Should I Go Should I merge or) Tj
+T*
+(should I close? Every comment starts another row. You changed the API again, And broke the) Tj
+T*
+(tests that passed at ten. If I merge, the build explodes, If I close, the outrage grows. 3.) Tj
+T*
+(Another One Breaks the Build Queen: Another One Bites the Dust Another PR, another day, Another) Tj
+T*
+(green check fades away. The tests were passing yesterday, Now nobody knows what changed.) Tj
+T*
+(Another one breaks the build, Another one breaks the build. Three more merged while I was) Tj
+T*
+(asleep, And another one breaks the build. 4. Smells Like AI Slop Nirvana: Smells Like Teen) Tj
+T*
+(Spirit Load the prompt and bring your friends, Another patch that never ends. Ten new file...) Tj
+T*
+() Tj
+T*
+(9. Pluralistic: How labor rights rescued Ultima from a monopolist \(12 Oct 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 12 Oct 2026 11:40:39) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/10/12/termination-of-transfer/) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4244 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Today's links How labor rights rescued Ultima from a monopolist: If you care about labor) Tj
+T*
+(justice and artists' rights, stop focusing on copyright. Hey look at this: Delights to) Tj
+T*
+(delectate. Object permanence: China unblocks Wikipedia; CCC cracks the Bundestrojaner;) Tj
+T*
+("Children of the Sky"; "Messy"; Every top Icelandic banker is guilty; Climate activism x) Tj
+T*
+(digital activism; Gene Kan on P2P's future; Larry Ellison x mass surveillance; W3C v patents;) Tj
+T*
+("Work from home" in the cybercrime supply-chain; "Nursery Rhyme Comics"; Glitchy tea-set;) Tj
+T*
+(Tourist Guy; Vista v reinstallation; Ryanair v your bladder; Wells Fargo CEO loves "sales) Tj
+T*
+(culture"; "Attention Merchants"; Orban v free press; AI v GIGO; Dylan wins the Nobel; India's) Tj
+T*
+(starving kids app; Adobe's spyware copyfraud; Charter blackmails customers with bad credit) Tj
+T*
+(threats; Fix UK housing. Upcoming appearances: Paris, Vancouver, Victoria, Ottawa, Kilkenny,) Tj
+T*
+(Sheffield, Oxford, Montreal. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. How labor rights rescued Ultima from a monopolist \(permalink\) If you) Tj
+T*
+(work in the media, you hav...) Tj
+T*
+() Tj
+T*
+(10. The Dock on Mac, From OS 10 to macOS 27) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Mon, 12 Oct 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/) Tj
+T*
+(I wrote the chapter on app icon history for The iOS App Icon Book . The other day I found an) Tj
+T*
+(old note stashed away where I had started researching the macOS version of that chapter \(which) Tj
+T*
+(Michael ultimately ended up writing\). At the time, I didn?t know what to write. I mean, how do) Tj
+T*
+(you write a history of icon design for the Mac? It?s rich! To get my creative juices flowing, I) Tj
+T*
+(started by researching the different docks in macOS through the years and compiled them all) Tj
+T*
+(into a single graphic \(big shout out to this compilation of images on 512 Pixels \). I just) Tj
+T*
+(wanted to preserve and archive that image. Check out the high-res version here . That?s it,) Tj
+T*
+(that?s the post. Reply via: Email ∑ Mastodon ∑ Bluesky) Tj
+T*
+() Tj
+T*
+(11. The X is Off-Target) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-10-12T15:53:18Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique) Tj
+T*
+(Is X good again? That's probably the wrong question. The right one: Are we past the era when a) Tj
+T*
+(single social network needs to be everything to everyone?) Tj
+T*
+() Tj
+T*
+(12. from plesiochronous to synchronous) Tj
+T*
+(Source: computers are bad | Published: 12 Oct 2026 00:00:00 UT) Tj
+T*
+(Link: https://computer.rip/2026-10-12-plesiochronous.html) Tj
+T*
+(Up until the 1960s, telephone calls were carried as analog signals. There was a great deal of) Tj
+T*
+(frequency division multiplexing onto open wire , and sometimes coaxial cables , but in the) Tj
+T*
+(post-war period buried multipair telephone cables began to dominate. While the network was) Tj
+T*
+(surprisingly functional?long distance calls from coast to coast were still quite) Tj
+T*
+(intelligible?there were fundamental limitations to analog carriers. The quality of the call) Tj
+T*
+(would degrade with each step, a problem that was much more acute for the sensitive digital) Tj
+T*
+(connections that were already the apparent future of the telephone system. These were digital) Tj
+T*
+(signals modulated over the top of telephone lines: the telephone system itself still handled) Tj
+T*
+(them as analog calls, just ones that required special care for quality. During the Second World) Tj
+T*
+(War, it became apparent that many of the long distance network's challenges could be greatly) Tj
+T*
+(simplified by using digital signaling as the basis of the entire long distance system. In 1943,) Tj
+T*
+(Bell Labs contributed to the design of an early encrypted voice communications system called) Tj
+T*
+(SIGSALY. Unlike the "voice scramblers" and other analog techniques of the early phase of the) Tj
+T*
+(w...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004885 00000 n 
+0000005011 00000 n 
+0000009523 00000 n 
+0000009649 00000 n 
+0000013945 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+14071
+%%EOF
