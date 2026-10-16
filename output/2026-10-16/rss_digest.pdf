@@ -1,0 +1,338 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4396 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-16 13:34:12) Tj
+T*
+() Tj
+T*
+(1. Chirp Pong) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-15T19:47:52+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/15/chirp-pong/) Tj
+T*
+(Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two) Tj
+T*
+(player game on two separate phones running in static HTML where the networking code uses chirps) Tj
+T*
+(sent via the microphone. It seems to work! Build a two player competitive pong like game where) Tj
+T*
+(two players use their phones close to each other and the game state is sent via audio noises) Tj
+T*
+(which the web microphone API can interpret - but add graphical and gameplay twists to make it a) Tj
+T*
+(lot more fun and intertwine than pong Claude Opus 5.5 Extra in Claude Code . Tags: game-design) Tj
+T*
+(, ai , generative-ai , llms , claude-code) Tj
+T*
+() Tj
+T*
+(2. Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-15T13:04:03+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/) Tj
+T*
+(Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase) Tj
+T*
+("told investors" appears four times in this FT article, which reports on Anthropic's day of) Tj
+T*
+(hosting investors on Wednesday. Lots of details in here from " people with knowledge of the) Tj
+T*
+(matter ". Key things I learned from the article: Q1 revenue \(Jan/Feb/Mar\) was "about $4.8bn" Q2) Tj
+T*
+(\(Apr/May/Jun\) was $11.5bn Q3 \(Jul/Aug/Sep\) was $16.8bn In Q3: $1.70 in revenue for every $1) Tj
+T*
+(spent on "computing power" Adjusted operating margins \(excluding stock-based compensation\) were) Tj
+T*
+(11% This point about distillation is worth quoting in full \(highlight mine\): The start-up has) Tj
+T*
+(also clamped down on ?distillation? ? a controversial practice whereby rival AI labs train) Tj
+T*
+(their models on the outputs of more advanced ones. When rival companies ?distil? their models) Tj
+T*
+(from Anthropic?s models, that involves heavy usage and spending. Anthropic told investors on) Tj
+T*
+(Wednesday distillation accounted for 5 per cent to 7 per cent of revenue and that they had cut) Tj
+T*
+(it back ?materially? in the third quarter of the year, said four people with direct knowledge) Tj
+T*
+(of the matter. Napkin maths says that if distillation was 5% of their Q2 reve...) Tj
+T*
+() Tj
+T*
+(3. llm-meta-ai 0.2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-12T23:58:46+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/12/llm-meta-ai/) Tj
+T*
+(Release: llm-meta-ai 0.2 Meta AI release Muse Wonder \(and Muse Wonder Full\), their new "most) Tj
+T*
+(capable models". These look like they may be Meta's first Fable class models - Artificial) Tj
+T*
+(Analysis scores Muse Wonder \(Max\) as equivalent to GPT-6.1 Sol. I updated my llm-meta-ai plugin) Tj
+T*
+(for the new model. Here are pelicans for Muse Wonder for the six reasoning levels: minimal,) Tj
+T*
+(low, medium, high, xhigh, max. This is the max one: For comparison, here are pelicans for Muse) Tj
+T*
+(1.3 \(released September 2nd\) and Muse 1.2 \(released August 5th\). Meta AI are putting out a new) Tj
+T*
+(model a month, and the improvements between each model \(at least in terms of drawing pelicans\)) Tj
+T*
+(are material. Tags: ai , generative-ai , llms , meta , pelican-riding-a-bicycle , llm-release) Tj
+T*
+() Tj
+T*
+(4. ? Initial Thoughts on This Week?s New Apple TV 4K \(4th Generation\) and HomePod Mini 2) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-16T01:18:29Z) Tj
+T*
+(Link: https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2) Tj
+T*
+(At the old pre-June prices, you could buy a 128 GB Apple TV and a pair of HomePod Minis for) Tj
+T*
+($350 \($150 + $100 + $100\). Four short months later, with today?s new models, that combination) Tj
+T*
+(would cost $600 \($300 + $150 + $150\).) Tj
+T*
+() Tj
+T*
+(5. Secret Documents Reveal Donors Behind $330 Million for Trump?s Ballroom ? Apple and) Tj
+T*
+(Nvidia Top the List at $25 Million Each) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-15T16:11:12Z) Tj
+T*
+(Link: https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-b) Tj
+T*
+(ehind-330-million-trumps-ballroom/) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4549 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Jonathan O?Connell, Sarah Blaskey, and Aaron Schaffer, reporting for The Washington Post \() Tj
+T*
+(News+ link ; Archive.today link \): A list obtained by The Washington Post reveals all the major) Tj
+T*
+(donors to President Donald Trump?s White House ballroom project, including previously) Tj
+T*
+(undisclosed contributors who have benefited from regulatory decisions, government contracts) Tj
+T*
+(and, in one case, a pardon for a family member. Tech giants Nvidia and Apple each committed $25) Tj
+T*
+(million, the top contribution amount, the list shows. The Adelson family, one of the GOP?s) Tj
+T*
+(largest donor dynasties, committed that sum as well, as did billionaire Charles Ergen,) Tj
+T*
+(co-founder and chairman of telecommunications company Dish Network. Absent from the list is) Tj
+T*
+(Trump himself, who has said that he is helping to pay for the project. ?It?s being paid for a) Tj
+T*
+(hundred percent by me and some friends of mine,? he said last year, days after demolition began) Tj
+T*
+(on the old East Wing. The White House publicly identified 37 people, companies and foundations) Tj
+T*
+(as donors last October, without revealing the amount of their individual gifts. The list) Tj
+T*
+(obtained by The Post, an internal spreadsheet used to track contributions for the) Tj
+T*
+(fundraising...) Tj
+T*
+() Tj
+T*
+(6. C++ futures part 4: What if I want an immediate on-thread std::async?) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 15 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/) Tj
+T*
+(Providing the case that the C++ language won't do. The post C++ futures part 4: What if I want) Tj
+T*
+(an immediate on-thread std::async ? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(7. C++ futures part 3: The mental model for std::async) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 14 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261014-00/?p=112774/) Tj
+T*
+(Doing things later in different ways. The post C++ futures part 3: The mental model for) Tj
+T*
+(std::async appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. This video is 2 minutes long) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Fri, 16 Oct 2026) Tj
+T*
+(05:28:42 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/two-minutes-long-video) Tj
+T*
+(As I mentioned before, it takes me way too long to edit a single video . So I am releasing it) Tj
+T*
+(in chunks. If I never finish it, well then at least I'll have a few videos out. What is the) Tj
+T*
+(video about? Well, it is about the future we were promised, versus the one we are actually) Tj
+T*
+(living in. It's not dystopian, but it seems like the goal of tech is supposedly to automate the) Tj
+T*
+(tedious and mundane, so we can have more time to do the things we love. But along the way came) Tj
+T*
+(the word productivity. The goal of productivity is not to get free time. It is to produce more) Tj
+T*
+(in the same amount of time. Not produce more in less time. Read this a couple times for it to) Tj
+T*
+(stick. Click the image to load The first one was 1 minute long . Today's will be two minutes .) Tj
+T*
+(And the next will be 3 minutes long. Then I'll have to think about Fibonacci.) Tj
+T*
+() Tj
+T*
+(9. Pluralistic: Expedia amazoned hotel rooms \(15 Oct 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 15 Oct 2026 11:03:29) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/10/15/enshittipedia/) Tj
+T*
+(Today's links Expedia amazoned hotel rooms: Everything more expensive for everyone, monopolies) Tj
+T*
+(everywhere, and we're all screwed. Hey look at this: Delights to delectate. Object permanence:) Tj
+T*
+(Delta v dovening; "Play Money"; Alabama's ethnic cleansing; We trust neuroscience over) Tj
+T*
+(psychology; Billionaires' anti-homeless pogrom; Game devs v DRM; What security means;) Tj
+T*
+(Microsoft, tear down that wall! Publisher won't revert rights; SNL's Trump/Clinton debate;) Tj
+T*
+(Chicago Tribune's murder; AI after AI. Upcoming appearances: Paris, Vancouver, Victoria,) Tj
+T*
+(Ottawa, Vienna, Kilkenny, Oxford, Sheffield, Oxford, Montreal. Recent appearances: Where I've) Tj
+T*
+(been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said,) Tj
+T*
+(I'll keep writin' 'em. Colophon: All the rest. Expedia amazoned hotel rooms \(permalink\) No) Tj
+T*
+(matter where you shop, you're getting screwed by Amazon. Amazon has found a way to make) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 2136 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(everything you buy ? at Target, at a mom-and-pop shop, even direct from the manufacturer ? more) Tj
+T*
+(expensive. And they're not the only one: Expedia's done the same thing, but for hotel rooms.) Tj
+T*
+(Here's how Amazon broke the economy: first, they locked in a key group of shoppers. The vast) Tj
+T*
+(majority...) Tj
+T*
+() Tj
+T*
+(10. How to Train Your Robot) Tj
+T*
+(Source: Construction Physics | Published: Thu, 15 Oct 2026 14:23:58 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/how-to-train-your-robot) Tj
+T*
+(The enormous advance in AI capabilities over the last several years has in large part been) Tj
+T*
+(driven by the availability of vast amounts of training data.) Tj
+T*
+() Tj
+T*
+(11. We Need All the Disciplines) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Thu, 15 Oct 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/we-need-all-disciplines/) Tj
+T*
+(From where I sit, figuring out what to build, building it, and shipping it are all part of the) Tj
+T*
+(art of making software. Many disciplines have emerged through the years to facilitate this) Tj
+T*
+(work: product, design, engineering, devops, etc. We need all these disciplines to make great,) Tj
+T*
+(dependable software \(granted, in different doses\). Each brings different values and judgments;) Tj
+T*
+(each sees things the others don?t. And including all might mean going a bit slower. Human) Tj
+T*
+(collaboration may seem less ?efficient? than handing the work over entirely to the machines.) Tj
+T*
+(But inefficiency may be the cost of collaborating with humans, rather than extracting an output) Tj
+T*
+(from a machine. We gain not only from their judgment and expertise in a particular discipline,) Tj
+T*
+(but from the relationship, trust, and shared understanding that blossoms from making something) Tj
+T*
+(together. As the old proverb says: ?If you want to go fast, go alone. If you want to go far, go) Tj
+T*
+(together.? Reformulated for today: If you want to go fast, go with the LLM. If you want to go) Tj
+T*
+(far, go with your fellow humans. Reply via: Email ∑ Mastodon ∑ Bluesky) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004651 00000 n 
+0000004777 00000 n 
+0000009378 00000 n 
+0000009504 00000 n 
+0000011692 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+11818
+%%EOF
