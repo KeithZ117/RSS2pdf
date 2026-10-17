@@ -1,0 +1,394 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4461 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-17 13:22:36) Tj
+T*
+() Tj
+T*
+(1. Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-16T22:06:37+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/16/code-review/) Tj
+T*
+(We think "did a human read the code?" is an imprecise proxy for "what could go wrong with this) Tj
+T*
+(change, and which check?automated or human?is the right one to catch it?" Asking that question) Tj
+T*
+(also changed when review happens. Before, review was a gate at the end of the road: write the) Tj
+T*
+(code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck) Tj
+T*
+(while you write. Most changes have been reviewed and fixed by Claude at least once before a) Tj
+T*
+(human is asked to look. This catches most routine mistakes, and saves team attention for) Tj
+T*
+(higher-level questions and scrutiny. ? Addy Osmani, Morgan Westlee Lunt, and Qing Wang , How) Tj
+T*
+(the Claude Code team does code review Tags: anthropic , claude , ai , claude-code , llms ,) Tj
+T*
+(addy-osmani , coding-agents , generative-ai , agentic-engineering , code-review) Tj
+T*
+() Tj
+T*
+(2. LaTeX renderer) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-15T02:07:28+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/15/latex/) Tj
+T*
+(Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office) Tj
+T*
+(, which provides a suite of web app content editors \(a Word Processor, Outliner, Presentation) Tj
+T*
+(Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker, Animator, Calendar, and Trip) Tj
+T*
+(Planner\). Tiny Little Office's signature trick is to store all of the document data in the) Tj
+T*
+(#fragment section of the URL, so every document created using it becomes a bookmarkable and) Tj
+T*
+(shareable link. It also has an llms.txt file telling agents how to construct URLs that will) Tj
+T*
+(render as documents. Claude used that file to generate this link to a deck that explains how) Tj
+T*
+(the URL format works: Tiny Little Office inspired me to have Claude Code \(Opus 5.5 Extra\) build) Tj
+T*
+(a similar tool that works with LaTeX. Here's the sequence of prompts I used: I want a tool) Tj
+T*
+(where you can link to it with a fragment hash #code-here and it treats that code as LaTeX and) Tj
+T*
+(renders it really effectively. It should also support a prefix which means the latex is) Tj
+T*
+(compressed with a custom compression dictionary optimized for latex. Use the best available) Tj
+T*
+(latex render library from a CDN \(consider WebAssembly too\). If loaded without a fragment...) Tj
+T*
+() Tj
+T*
+(3. Profiling web-edit with Python 3.15: flame graphs and source heatmaps) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-12T16:58:00+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/) Tj
+T*
+(Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new) Tj
+T*
+(Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against) Tj
+T*
+(my new web-edit app : I need a Python 3.15 flame graph and heatmap demo of the "web-edit" app) Tj
+T*
+(from PyPI - research first then make me those demos Here's the resulting example flame graph) Tj
+T*
+(and heatmap . Tags: profiling , python , codex) Tj
+T*
+() Tj
+T*
+(4. The Late Charlie Munger on Elon Musk and Tesla) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-17T01:22:34Z) Tj
+T*
+(Link: https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-tesla-ceo-elon-m) Tj
+T*
+(usk.html) Tj
+T*
+(Re: my post today on the still-vaporware Tesla Roadster and Benedict Evans?s maxim that ?Elon) Tj
+T*
+(Musk is a bullshitter who delivers?, a reader sent me this YouTube short of Charlie Munger?s) Tj
+T*
+(answer to a question at Berkshire Hathaway?s 2020 shareholder meeting regarding Tesla?s) Tj
+T*
+(volatility and Musk?s self-promotion. Munger said: My thoughts are two. I would never buy it,) Tj
+T*
+(and I would never sell it short. [ Audience laughs. ] I have a third comment. There was a man) Tj
+T*
+(out in Los Angeles for years named Howard Ahmanson. He once said something that I?ve taken to) Tj
+T*
+(my heart: ?Never underestimate the man who overestimates himself.? I think Elon Musk is) Tj
+T*
+(peculiar and he may overestimate himself, but he may not be wrong all the time. ?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4815 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(5. Apple: ?Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and) Tj
+T*
+(Bait-And-Switch Apps?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-17T01:00:00Z) Tj
+T*
+(Link: https://developer.apple.com/news/?id=vvzx6cul) Tj
+T*
+(Apple Developer News: As outlined in our App Review Guidelines, pornographic material has long) Tj
+T*
+(been prohibited on the App Store ? this includes apps that generate nudity or sexually explicit) Tj
+T*
+(imagery, such as ?nudification? apps that create sexually explicit images of real individuals) Tj
+T*
+(without their consent. Apps that host user-generated content are required to filter) Tj
+T*
+(objectionable material, give users a way to report offensive content, and let users block) Tj
+T*
+(abusive accounts. Apps containing hidden or undocumented features are also prohibited on the) Tj
+T*
+(App Store, including apps that misrepresent their purpose during review and only reveal harmful) Tj
+T*
+(capabilities ? such as ?nudification? ? after approval, a tactic commonly known as) Tj
+T*
+(bait-and-switch. Their post includes the specific changes to the guidelines. Let?s hope the) Tj
+T*
+(guideline changes are accompanied by better enforcement. Of course, it?s worth noting that the) Tj
+T*
+(best known perpetrator of AI-generated non-consensual nudification is X, which \( checks notes \)) Tj
+T*
+(is where Apple executives do all their social media posting , and which, yes, I argue once) Tj
+T*
+(again marks the spot in the zeitgeist. The zeitgeist is not clean. ?) Tj
+T*
+() Tj
+T*
+(6. Apple TV Started at $69 in 2015) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-17T00:37:01Z) Tj
+T*
+(Link: https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/) Tj
+T*
+(Joe Rossignol, reporting for MacRumors back on 9 March 2015: Apple CEO Tim Cook on Monday at) Tj
+T*
+(the ?Spring Forward? media event in San Francisco announced that Apple TV will now cost $69,) Tj
+T*
+(discounted from its regular price of $99. The new price for the set-top box arrives on the) Tj
+T*
+(heels of the announcement of HBO Now for Apple TV . The new price appears to apply to the) Tj
+T*
+(third-generation Apple TV, as the company did not announce a new set-top box on stage at the) Tj
+T*
+(Yerba Buena Center this afternoon. Basic Apple Guy posted a short clip of Tim Cook, on stage,) Tj
+T*
+(announcing the price reduction. Cook said: And it?s got a very attractive entry level price of) Tj
+T*
+($99. But today, we would like to make it even more accessible for more people so they can take) Tj
+T*
+(advantage of this great new content. So we are lowering the price today to $69. The audience) Tj
+T*
+(greeted this with whoops and cheers. \(This, despite it being a smaller media event ? Apple) Tj
+T*
+(always packs the front of the house with employee ringers. Whoops and cheers are one of the) Tj
+T*
+(things Apple is missing out on with their post-COVID pre-filmed keynotes.\) Apple continued) Tj
+T*
+(selling the 3rd-gen Apple TV \(not to be confused with ?Apple TV 4K?, which restarted the...) Tj
+T*
+() Tj
+T*
+(7. AI is driving a boom in modestly successful software projects) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Fri, 16 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/) Tj
+T*
+(If AI is so great, why aren?t we seeing an explosion of new, amazing software products? If) Tj
+T*
+(anyone can turn their idea into working software with coding agents, where is all that software) Tj
+T*
+(? People have been asking this question for years. As far as I can tell, the answer is that) Tj
+T*
+(it?s spread out over a lot of modestly successful projects: Somewhere between 2x and 20x new) Tj
+T*
+(software is being created, depending on where you look There?s no real growth in massively) Tj
+T*
+(successful software projects \(not counting AI tools\) There is around 2x growth in modestly) Tj
+T*
+(successful software projects Where all the new software is I picked 1 around twenty separate) Tj
+T*
+(sources ? software marketplaces, plugin registries, modding platforms, etc ? which expose) Tj
+T*
+(installation counts. I then compared the number 2 of successful software projects between) Tj
+T*
+(2022-24 and 2025-26: i.e. before and after agentic coding hit the mainstream in mid-2025.) Tj
+T*
+(There?s a clear jump in modestly \(not wildly\) successful projects. For instance, the NVDA) Tj
+T*
+(screen-reader addons directory had a bit over twice as many new addons with more than a) Tj
+T*
+(thousand downloads \(though no change in addons with more than ten thousand\). The HACS) Tj
+T*
+(open-source home a...) Tj
+T*
+() Tj
+T*
+(8. Pluralistic: Load-bearing \(16 Oct 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 16 Oct 2026 06:40:02) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4101 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/10/15/sovereign-it/) Tj
+T*
+(Today's links Load-bearing: Digital sovereignty vs AI. Hey look at this: Delights to delectate.) Tj
+T*
+(Object permanence: Anthrax penmanship; Stolen WEBGEEK license plate; Arizona Republic endorses) Tj
+T*
+(Clinton, gets death threats; Against the great forces of history. Upcoming appearances:) Tj
+T*
+(Vancouver, Victoria, Ottawa, Vienna, Kilkenny, Oxford, Sheffield, Virtual, Oxford, Montreal.) Tj
+T*
+(Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Load-bearing) Tj
+T*
+(\(permalink\) You find the weirdest stuff inside your walls. Our house was built in 1949 and) Tj
+T*
+(we're its third owner, and I have no idea what those other people were doing, but at one point) Tj
+T*
+(someone installed a junction box full of live, bare wires that they filled with crumpled) Tj
+T*
+(newspaper \(!\); and don't get me started on the decision not to put vapor barriers in the) Tj
+T*
+(kitchen windows \(we were one good shake away from the entire front of the house falling down) Tj
+T*
+(when we discovered that one, and while it cost us an extra $19,000 to fix, that was still) Tj
+T*
+(cheaper than rebuilding the whole front of the house\). Plus there was the unpermitted drainage) Tj
+T*
+(s...) Tj
+T*
+() Tj
+T*
+(9. Monoliths and Lagrange Points) Tj
+T*
+(Source: John D. Cook | Published: Fri, 16 Oct 2026 14:37:07 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/16/monoliths-and-lagrange-points/) Tj
+T*
+(This post began as a thread on X last night. I?ve edited the thread to turn it into a blog) Tj
+T*
+(post, making some additions and corrections. I?m watching 2010: The Year We Make Contact. The) Tj
+T*
+(movie opens saying the monolith is located at the Lagrange point between Jupiter and Io. I got) Tj
+T*
+(nerd sniped and [?] The post Monoliths and Lagrange Points first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. C++ futures part 5: std::future and std::shared_future) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 16 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261016-00/?p=112778/) Tj
+T*
+(Getting the results back out. The post C++ futures part 5: std:: future and std:: shared_future) Tj
+T*
+(appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(11. Book Review: Africa Is Not A Country - Breaking Stereotypes of Modern Africa by Dipo) Tj
+T*
+(Faloyin ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 16 Oct 2026 11:34:14 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/10/book-review-africa-is-not-a-country-breaking-stereotypes) Tj
+T*
+(-of-modern-africa-by-dipo-faloyin/) Tj
+T*
+(It's hard to craft a book with so much righteous indignation - let alone make it funny,) Tj
+T*
+(accessible, and informative. Nevertheless, Dipo Faloyin has succeeded in writing a spectacular) Tj
+T*
+(takedown of the myths which are often perpetrated about Africa. It starts in the best way) Tj
+T*
+(possible: [Insert generic African proverb here. Ideally an allegory about a wise monkey and his) Tj
+T*
+(interaction with a tree,?) Tj
+T*
+() Tj
+T*
+(12. Premium: Venture Capital Is Killing Itself) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 16 Oct 2026 16:11:45 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-venture-capital-is-killing-itself/) Tj
+T*
+(Soundtrack: Spinnerette ? A Prescription For Mankind About fourteen years ago, the government) Tj
+T*
+(made a mistake that would allow tech companies and venture capitalists to conspire to legally) Tj
+T*
+(scam millions of retail investors, simultaneously depriving them of good information and) Tj
+T*
+(spuriously inflating the valuations of every major tech IPO of) Tj
+T*
+() Tj
+T*
+(13. This Week on The Analog Antiquarian) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 16 Oct 2026 16:14:39 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/) Tj
+T*
+(Opus 6: The Taming of the Shrew) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004716 00000 n 
+0000004842 00000 n 
+0000009709 00000 n 
+0000009835 00000 n 
+0000013988 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+14114
+%%EOF
