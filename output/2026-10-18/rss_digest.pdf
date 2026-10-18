@@ -1,0 +1,300 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4270 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-18 13:30:03) Tj
+T*
+() Tj
+T*
+(1. Inline rendering with document?.currentScript) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-17T21:11:12+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/17/document-currentscript/) Tj
+T*
+(Inline rendering with document?.currentScript Lean Rada describes a neat trick that takes) Tj
+T*
+(advantage of the document.currentScript property. You can use that to drop in a tiny inline) Tj
+T*
+(element that replaces itself when the page loads: The year is) Tj
+T*
+(document.currentScript.replaceWith\( new Date\(\).getFullYear\(\)\) If you define a shortcut function) Tj
+T*
+(like this: $=\(...n\)=>document.currentScript.replaceWith\(...n\) You get a tiny template language:) Tj
+T*
+(The year is $\(new Date\(\).getFullYear\(\)\) Tags: javascript) Tj
+T*
+() Tj
+T*
+(2. web-edit 0.1a2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-17T13:16:49+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/17/web-edit/) Tj
+T*
+(Release: web-edit 0.1a2 web-edit \( previously \) is my tiny web app for browsing and editing) Tj
+T*
+(files in a folder. I mainly built it for editing files on different machines via Tailscale. I) Tj
+T*
+(added a "copy to clipboard" option for both text and image data. I needed this because I was) Tj
+T*
+(running pelican prompts on a laptop from my phone \(here's DeepSeek 4.1 Flash 1017 \) and I) Tj
+T*
+(wanted an easy way to copy the resulting logs into a Gist. Tags: projects ,) Tj
+T*
+(pelican-riding-a-bicycle , deepseek) Tj
+T*
+() Tj
+T*
+(3. Writing is no longer proof of work) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 18 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/writing-is-no-longer-proof-of-work/) Tj
+T*
+(Tech companies structurally depend on writing to serve as evidence, in the same way that) Tj
+T*
+(Bitcoin depends on proof-of-work hashing. However, in the last few years, LLMs have started to) Tj
+T*
+(undermine this practice. How can writing be like proof-of-work? When I?m writing something at) Tj
+T*
+(work, it?s not always to communicate an idea. Sometimes it?s because having a piece of writing) Tj
+T*
+(is useful as evidence : of compliance with some process, of the fact that I put in effort, or) Tj
+T*
+(of the fact that I know about some topic. Here are some examples. Writing as evidence of) Tj
+T*
+(compliance The most obvious instance of writing as evidence is filling out mandatory templates:) Tj
+T*
+(?risk assessments?, ?impact evaluations?, and so on. The purpose of these is rarely to assess) Tj
+T*
+(risk or evaluate impact. It?s some combination of: Employees wanting to demonstrate that) Tj
+T*
+(they?re taking some incident seriously by introducing new process A legal requirement that) Tj
+T*
+(companies have developed the least-expensive way to technically satisfy Internal company rules) Tj
+T*
+(intending to scare lazy or uncommitted engineers away from making dangerous changes Smaller) Tj
+T*
+(companies trying to role-play processes from larger companies that are doing one of th...) Tj
+T*
+() Tj
+T*
+(4. Cloud of suspicion lifted from NIST curves) Tj
+T*
+(Source: John D. Cook | Published: Sat, 17 Oct 2026 15:39:06 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/) Tj
+T*
+(NIST published a set of elliptic curves for cryptography in 2000. The seeds for the curves were) Tj
+T*
+(supplied by the NSA, and cryptographers suspected the agency may have installed backdoors in) Tj
+T*
+(the curves. And not without reason: the NSA did insert a backdoor in the Dual_EC_DRBG random) Tj
+T*
+(number generator. Two days ago researchers at Anthropic [?] The post Cloud of suspicion lifted) Tj
+T*
+(from NIST curves first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(5. Book Review: Are You *Really* The Doctor? by Matthew Hutchinson ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 17 Oct 2026 11:34:57 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://shkspr.mobi/blog/2026/10/book-review-are-you-really-the-doctor-by-matthew-hutchinson/) Tj
+T*
+(A few months ago, I went to see Dr Hutchinson record his stand-up comedy special for the BBC -) Tj
+T*
+(it's about his experiences working in the NHS as a Black doctor. As the title of the book) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4297 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(implies, some of the public can be a mite suspicious that anyone with even a hint of melanin) Tj
+T*
+(can rise beyond being a porter or, at a push, a nurse. Much like Adam Kay's "This Is Going To) Tj
+T*
+(Hurt", this is part?) Tj
+T*
+() Tj
+T*
+(6. This Week in Package Management: 17 October 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-10-17T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/10/17/this-week-in-package-management.html) Tj
+T*
+(This week?s package management news, gathered from the package manager OPML feed collection ,) Tj
+T*
+(my posts and boosts on Mastodon , and anything people sent me. Releases pnpm 12.12 to 12.14 add) Tj
+T*
+(a remoteCache setting that shares signed task results and dependency builds through a pnpr) Tj
+T*
+(server or any server that implements the Turborepo Remote Cache API, and 12.14 adds) Tj
+T*
+(sideEffectsCache.exclude for packages whose builds depend on system libraries outside the cache) Tj
+T*
+(key. 12.13 adds pnpm profile and pnpm token , plus a storeIndexFormat: files setting that) Tj
+T*
+(replaces the SQLite store index with one file per package for stores shared over a network) Tj
+T*
+(filesystem. mise 2026.10.8 to 2026.10.12 reads release lists, tags and attestations from its) Tj
+T*
+(mise-versions host instead of api.github.com . A cold mise install of github: tools now makes) Tj
+T*
+(no GitHub API requests, and mise ls-remote python went from 961 ms to 93 ms. 2026.10.9 fixes a) Tj
+T*
+(trust bypass where an untrusted path: tool version could put a directory on PATH , and) Tj
+T*
+(2026.10.11 fixes a trust issue in remote task files. vlt 1.4.0 turns the global store on by) Tj
+T*
+(default on macOS, cloning packages with copy-on-write clonefile through node:ffi on Node 26.1) Tj
+T*
+(an...) Tj
+T*
+() Tj
+T*
+(7. Reading List 10/17/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 17 Oct 2026 12:03:37 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-101726) Tj
+T*
+(Icon?s fundraising, employment in China?s solar industry, grid-scale battery reliability,) Tj
+T*
+(Tesla?s flying roadster, and more.) Tj
+T*
+() Tj
+T*
+(8. Pluralistic: Israeli ad-tech company was a delivery system for "mercenary spyware" \(17) Tj
+T*
+(Oct 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 17 Oct 2026 10:47:35) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/10/17/mercenary-spyware/) Tj
+T*
+(Today's links Israeli ad-tech company was a delivery system for "mercenary spyware": And they) Tj
+T*
+(used Google, Facebook and every other major ad platform to do it. Hey look at this: Delights to) Tj
+T*
+(delectate. Object permanence: Big Mouth Billy Bass x Linux; No-Fly lists v common sense; Lemony) Tj
+T*
+(Snicket advises the 1%; "Aloha From Hell"; KSR v Elon Musk; "Everything Belongs to the Future";) Tj
+T*
+(Trump's mail-servers run Win2003; Copyfraud v covid. Upcoming appearances: Vancouver, Victoria,) Tj
+T*
+(Ottawa, Vienna, Kilkenny, Oxford, Sheffield, Virtual, Oxford, Montreal. Recent appearances:) Tj
+T*
+(Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like) Tj
+T*
+(I said, I'll keep writin' 'em. Colophon: All the rest. Israeli ad-tech company was a delivery) Tj
+T*
+(system for "mercenary spyware" \(permalink\) More than half of all internet users have installed) Tj
+T*
+(an ad-blocker; Doc Searls calls it the largest consumer boycott in history. As large as that) Tj
+T*
+(boycott is, everyone ? yes, everyone ? should block every "programmatic" ad, because the entire) Tj
+T*
+(system is so insecure that failing to do so could result in the total compromise of any or all) Tj
+T*
+(of your digital devices. That's the inescapable conclusion o...) Tj
+T*
+() Tj
+T*
+(9. Notes on the complex roots of unity) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-10-17T18:18:00-07:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/) Tj
+T*
+(One of the most wonderful aspects of math is how deep we can get by studying seemingly trivial) Tj
+T*
+(questions. Consider the roots of unity, where "unity" simply means the number 1. Basics: roots) Tj
+T*
+(of unity for real numbers Studying the roots of unity usually begins in middle school: what is) Tj
+T*
+(?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 543 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(10. How the AI boom might really end: 5 scenarios) Tj
+T*
+(Source: Martin Alderson | Published: Sun, 18 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/how-the-ai-boom-might-really-end/?utm_source=rss&utm_med) Tj
+T*
+(ium=rss&utm_campaign=feed) Tj
+T*
+(With chip stocks on their longest losing streak since 2008 and Anthropic heading for IPO, five) Tj
+T*
+(ways the AI boom could end - and why I think the value is real but may not flow to the people) Tj
+T*
+(putting the money in.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004525 00000 n 
+0000004651 00000 n 
+0000009000 00000 n 
+0000009126 00000 n 
+0000009720 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+9846
+%%EOF
