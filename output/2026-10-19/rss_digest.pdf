@@ -1,0 +1,264 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4238 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-19 13:50:40) Tj
+T*
+() Tj
+T*
+(1. llm-tools-datasette 0.1.1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-18T23:43:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/18/llm-tools-datasette/) Tj
+T*
+(Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that) Tj
+T*
+(this would break any plugins which used httpx without directly depending on it.) Tj
+T*
+(llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm) Tj
+T*
+() Tj
+T*
+(2. llm-echo 0.5) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-18T23:16:16+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/18/llm-echo/) Tj
+T*
+(Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to) Tj
+T*
+(revisit the llm-echo debug plugin. This plugin provides a "model" which doesn't involve an LLM) Tj
+T*
+(at all - it just repeats back the prompts that have been fed to it. The new release now updates) Tj
+T*
+(the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into) Tj
+T*
+(account. Example usage: uvx --with llm-echo llm -m echo 'hi there' -o thinking 1 --usage) Tj
+T*
+(Outputs: First I consider the prompt, then I decide what to say. { "prompt": "hi there",) Tj
+T*
+("system": "", "attachments": [], "stream": true, "previous": [] } Token usage: 2 input, 24) Tj
+T*
+(output Tags: llm) Tj
+T*
+() Tj
+T*
+(3. Tom the Dancing Bug?s Inner Hive, and Harvey Richards, the Greatest Lawyer in the) Tj
+T*
+(History of Fiction) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-18T22:53:00Z) Tj
+T*
+(Link: https://tomthedancingbug.com/the-inner-hive/) Tj
+T*
+(Ruben Bolling?s long-running Tom the Dancing Bug is one of my favorite comic strips. I?ve been) Tj
+T*
+(a huge fan since the early 1990s, when I started reading it in alternative newspapers.) Tj
+T*
+(\(Newspapers were sort of like websites, excepted they were printed daily or weekly. I swear.\)) Tj
+T*
+(Back in 2012 Bolling ? noting that the comic was more widely read than ever yet generating less) Tj
+T*
+(money than ever ? started a subscription membership called The Inner Hive . I love it. Not just) Tj
+T*
+(because I?m supporting work that I adore and value, but because the extras that members get are) Tj
+T*
+(so fun. If you?re even half as big a fan of Tom the Dancing Bug as I am, you should join too .) Tj
+T*
+(There are several options ? Patreon, MailChimp, Substack ? but in my opinion Patreon is the) Tj
+T*
+(simplest and the best, and it gets you everything. I was reminded to re-endorse The Inner Hive) Tj
+T*
+(after I wrote a post last night referencing Harvey Richards , lawyer for children ? one of the) Tj
+T*
+(comic?s longest running recurring characters. Tom the Dancing Bug?s entire schtick is premised) Tj
+T*
+(on a wide array of recurring characters and premises, but Richards is probably my favorite.) Tj
+T*
+(Here?s an early one regarding the doctrine of ?He Who Smelt It, Dealt I...) Tj
+T*
+() Tj
+T*
+(4. WorkOS AuthKit) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-18T22:45:00Z) Tj
+T*
+(Link: https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026) Tj
+T*
+(My thanks to WorkOS for sponsoring DF last week. Login looks simple until you?re building) Tj
+T*
+(password resets, email verification, MFA, social providers, session management, and the) Tj
+T*
+(enterprise SSO your first big customer asked for last week. WorkOS AuthKit lets you: Offer SSO,) Tj
+T*
+(MFA, passkeys, passwords, email codes, and social sign-in. Add and remove users automatically) Tj
+T*
+(with SCIM provisioning. Track who did what with audit logs. Try AuthKit today . ?) Tj
+T*
+() Tj
+T*
+(5. Verizon Is Going to Charge $10/Month for iPhone Handoff) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-18T22:20:06Z) Tj
+T*
+(Link: https://www.verizon.com/about/news/iphone-duo-verizon-offers) Tj
+T*
+(Verizon, in a post headlined ?Switch to Verizon and Get the New iPhone Duo Now. No Trade-In) Tj
+T*
+(Needed.?: Verizon will support iPhone Handoff, giving customers the flexibility to use a single) Tj
+T*
+(Verizon phone number seamlessly across two compatible iPhone models. Whether using the) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4485 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(pocketable iPhone Duo on the go or iPhone 18 Pro for work, customers can switch active status) Tj
+T*
+(between devices at any time while keeping full access to Verizon?s 5G network. iPhone Handoff) Tj
+T*
+(will be available from Verizon for $10/month on compatible iPhones models running iOS 27.) Tj
+T*
+(First, the word ?now? is doing a lot of work in that headline, given the current January 25) Tj
+T*
+(estimate for new Duo orders. Second, we all know Verizon is the most expensive competent) Tj
+T*
+(carrier in the U.S. \(Maybe AT&T is just as expensive, but I said ?competent?.\) It feels like a) Tj
+T*
+(rip that T-Mobile is charging $5/month . Verizon charging double is on-brand but irritating. ?) Tj
+T*
+() Tj
+T*
+(6. What requirements don't you have?) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Mon, 19 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/what-requirements-dont-you-have/) Tj
+T*
+(When designing software, the requirements you don?t have are as important as the requirements) Tj
+T*
+(you do. Identifying what you can compromise on ? what can be slow, or stale, or inflexible ? is) Tj
+T*
+(usually the key to an elegant design. Elegant systems drop some requirements For instance, take) Tj
+T*
+(preforking web servers like Unicorn . Because they lack the feature of shared mutable state) Tj
+T*
+(between server instances, they can run each server in its own process, which provides isolation) Tj
+T*
+(for free. Because Unicorn specifically ignores the problem of slow client handling 1 , it can) Tj
+T*
+(queue requests directly on Unix sockets, drastically simplifying the implementation. Because S3) Tj
+T*
+(does not support atomic multi-key updates ? you cannot update multiple blobs in a single) Tj
+T*
+(transaction ? it can store data at the blob level however it chooses. That makes it much) Tj
+T*
+(faster, since reads and writes don?t have to cross storage partitions, and much easier to) Tj
+T*
+(scale, since less coordination means fewer sources of truth. StatsD uses UDP by default, which) Tj
+T*
+(means it doesn?t guarantee that every piece of data you send makes it into storage. In exchange) Tj
+T*
+(for dropping that requirement, it incurs much less network overhead, which i...) Tj
+T*
+() Tj
+T*
+(7. Inside the Intel 8087 chip: floating-point addition and subtraction) Tj
+T*
+(Source: Ken Shirriff's blog | Published: 2026-10-18T09:14:00.971-07:00) Tj
+T*
+(Link: http://www.righto.com/2026/10/8087-addition-subtraction-microcode.html) Tj
+T*
+(In 1980, Intel introduced the 8087, a chip that made floating-point operations much faster in) Tj
+T*
+(the IBM PC and other systems. Although the 8087 supports advanced operations such as tangents,) Tj
+T*
+(square roots, and logarithms, this article focuses on basic arithmetic operations: addition and) Tj
+T*
+(subtraction. The 8087 provided a spectacular speed improvement over the 8086 processor,) Tj
+T*
+(speeding up addition by a factor of almost 100, and complicated operations by even more. 1 In) Tj
+T*
+(this article, I examine the 8087's microcode and circuitry to explain exactly how) Tj
+T*
+(floating-point addition and subtraction are implemented, including numerous special cases for) Tj
+T*
+(infinities and other special values. To explore the 8087's circuitry, I popped the lid off a) Tj
+T*
+(chip with a chisel and used a microscope to create the high-resolution image below. The) Tj
+T*
+(microcode ROM is the large rectangular region in the center of the die, holding the 1648) Tj
+T*
+(micro-instructions that control the chip. The bottom half of the chip \(red box\) is the) Tj
+T*
+(datapath, the circuitry that performs floating-point calculations on 80-bit values. 2 A) Tj
+T*
+(close-up of the 8087's datapath, showing functional blocks that are used for addition and) Tj
+T*
+(subtraction. Click th...) Tj
+T*
+() Tj
+T*
+(8. Una Watch TOTP - MFA on your wrist!) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 18 Oct 2026 11:34:08 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/) Tj
+T*
+(Let's get this out of the way first - this is a terrible idea! I want my two-factor) Tj
+T*
+(authentication codes to be easily accessible to me, so I've built a watch app which will) Tj
+T*
+(display them. That's really convenient for me - but makes for a terrible security posture.) Tj
+T*
+(Anyone who steals my watch will be able to see my one-time code. If they're clever, they can) Tj
+T*
+(decompile the app and find the secret?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000004487 00000 n 
+0000004613 00000 n 
+0000009150 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+9276
+%%EOF
