@@ -1,0 +1,390 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4280 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-20 13:43:25) Tj
+T*
+() Tj
+T*
+(1. My obituary for programming) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-19T23:58:25+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/) Tj
+T*
+(My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding) Tj
+T*
+(agents for career programmers who enjoyed the puzzle of developing code: Programming turned) Tj
+T*
+(into one of the greatest jobs you could imagine. You got paid to work on tricky little logic) Tj
+T*
+(puzzles. The trickier the puzzle, the more you got paid. But even pretty simple puzzles were) Tj
+T*
+(worth a lot of money because regular people just couldn't do it! No, they needed us. They would) Tj
+T*
+(give us a problem and we would solve it the way we wanted. We set the strategy, we made the) Tj
+T*
+(timeline, we defined what was and was not possible. If you're a programmer who thrives on) Tj
+T*
+(building working systems and doesn't care too deeply about the problems solved along the way,) Tj
+T*
+(LLMs are the gift that keeps on giving. If directly solving those problems was a big part of) Tj
+T*
+(your enjoyment, the loss is very real. Via lobste.rs Tags: programming , careers , ai ,) Tj
+T*
+(generative-ai , llms , coding-agents , deep-blue) Tj
+T*
+() Tj
+T*
+(2. Laypeople support technical fields for technology, not art) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Tue, 20 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/laypeople-support-technical-fields-for-technology-not-art/) Tj
+T*
+(Some people think that LLMs should not be used in technical fields like programming or) Tj
+T*
+(mathematics , because those fields are actually art. True or not, this kind of argument is not) Tj
+T*
+(going to be persuasive to the general population. The argument goes something 1 like this: It) Tj
+T*
+(doesn?t matter how effective LLMs are at technical fields like programming or mathematics,) Tj
+T*
+(because one of the essential values of those fields is that they?re art . While it looks to) Tj
+T*
+(laypeople like these fields exist to solve practical problems, what they?re actually for is to) Tj
+T*
+(produce works of beauty, or to express something distinctively human, or to spend time) Tj
+T*
+(contemplating the infinite . Simply solving the problems misses the point in the same way that) Tj
+T*
+(building an infinite poem generator would miss the point of poetry. I agree that programming or) Tj
+T*
+(mathematics can be beautiful. I remember being mildly awestruck at learning epsilon-delta) Tj
+T*
+(proofs , and I have written a lot about the kind of software I think is elegant. Since there?s) Tj
+T*
+(no clear definition of art or of aesthetics in general, it?s plausible to me that almost) Tj
+T*
+(everything could have an artistic dimension to it. All of this is compelling to software) Tj
+T*
+(engi...) Tj
+T*
+() Tj
+T*
+(3. Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site) Tj
+T*
+(Source: Krebs on Security | Published: Mon, 19 Oct 2026 13:48:56 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extor) Tj
+T*
+(tion-site/) Tj
+T*
+(U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly) Tj
+T*
+(sensitive data from the FBI have identified executives at two different ransomware negotiation) Tj
+T*
+(firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has) Tj
+T*
+(learned. Sources close to the investigation say one of the executives in the United States even) Tj
+T*
+(helped ShinyHunters operate a website that pressured victims into paying a ransom.) Tj
+T*
+() Tj
+T*
+(4. Why do we need ud2 when int 6 is right there?) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 19 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/) Tj
+T*
+(An interrupt is not a fault. The post Why do we need ud2 when int 6 is right there? appeared) Tj
+T*
+(first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(5. Refactoring factorials) Tj
+T*
+(Source: John D. Cook | Published: Mon, 19 Oct 2026 14:55:22 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/19/refactoring-factorials/) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4505 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Splitting N! into N factors is trivial. It?s defined as the product of N integers, the integers) Tj
+T*
+(1 through N. Can you still split N! into N factors if you put a minimum size requirement on the) Tj
+T*
+(factors? You can?t split 3! into three factors unless one of the factors is 1, but you can) Tj
+T*
+(split 4! into factors ? 2: 4! [?] The post Refactoring factorials first appeared on John D.) Tj
+T*
+(Cook .) Tj
+T*
+() Tj
+T*
+(6. A frivolous problem with a deeper lesson) Tj
+T*
+(Source: John D. Cook | Published: Mon, 19 Oct 2026 12:00:43 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/19/regex-backtracking/) Tj
+T*
+(About 14% of English words can be spelled by stringing together chemical symbols. For example,) Tj
+T*
+(sarcasm can be written S Ar Ca Sm using the symbols for sulfur, argon, calcium, and samarium.) Tj
+T*
+(How would you write a program to determine whether a word can be written by stringing together) Tj
+T*
+(chemical element abbreviations ignoring case? Obviously [?] The post A frivolous problem with a) Tj
+T*
+(deeper lesson first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(7. Pluralistic: The technopolitics of ad-tech \(19 Oct 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 19 Oct 2026 07:08:31) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/10/19/spying-v-context/) Tj
+T*
+(Today's links The technopolitics of ad-tech: Spying is good for tech, context is good for) Tj
+T*
+(publishers. Hey look at this: Delights to delectate. Object permanence: PNH x Mike Ford;) Tj
+T*
+(Singapore v Far East Economic Review; Publishing v bestsellers; Architecture v security; Vista) Tj
+T*
+(v everyone; Free Bieber; Belarus sells the sugar bowls; OCCUPY GEORGE; Grey type sucks; Spinal) Tj
+T*
+(Tap v studio math; Terry Pratchett x $10t coin; Boy Scouts x copyright maximialism; Canadian) Tj
+T*
+(Tories x DRM; Herman Cain's 9-9-9 plan; ACLu v secret laws; Fined for suing the cops who shot) Tj
+T*
+(you; Chicago PD steals millions for cop toys; Turing's Law; Copyleft v Vizio; Trump's) Tj
+T*
+(killswitch. Upcoming appearances: Vancouver, Victoria, Ottawa, Vienna, Kilkenny, Oxford,) Tj
+T*
+(Sheffield, Virtual, Oxford, Montreal. Recent appearances: Where I've been. Latest books: You) Tj
+T*
+(keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. The technopolitics of ad-tech \(permalink\) "Technopolitics" are the) Tj
+T*
+(politics embedded in technology. The Ur-text of technopolitics is "Do Artifacts Have Politics?") Tj
+T*
+(by the rock critic turned scholar Langdon Winner:) Tj
+T*
+(https://faculty.cc.gatech.edu/~beki/cs4001/Win...) Tj
+T*
+() Tj
+T*
+(8. Barack Obama on the Trump Administration?s Intimidation Campaign Against Congresswoman) Tj
+T*
+(Ilhan Omar) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-20T01:12:26Z) Tj
+T*
+(Link: https://x.com/BarackObama/status/2111819687524774170) Tj
+T*
+(Barack Obama, in a 430-word essay: It is a basic principle of American democracy that the) Tj
+T*
+(government can?t selectively target individuals simply because of their political beliefs or) Tj
+T*
+(what they say. But that?s exactly what the Trump Administration is doing to Congresswoman Ilhan) Tj
+T*
+(Omar of Minnesota. [...] The fact that any president, or any administration, is willing to) Tj
+T*
+(engage in such transparent efforts to intimidate someone should outrage all Americans,) Tj
+T*
+(regardless of how they feel about Congresswoman Omar?s political views. Because if this becomes) Tj
+T*
+(the new normal, there?s no reason to believe it will stop with her ? or that future presidents,) Tj
+T*
+(in either party, won?t do the same. Thoughtful, sharp, and eloquent as ever. But Obama posted) Tj
+T*
+(this essay on X, which, I have been told in the past week, shows that he in fact is a Nazi) Tj
+T*
+(sympathizer , a fascist , a pedophile , and unconcerned about racism . As surprised as I was to) Tj
+T*
+(learn those things about myself, I?m equally surprised to learn them about President Obama,) Tj
+T*
+(whom I heretofore considered a thoughtful statesman and moral compass. Either that, or,) Tj
+T*
+(Threads, Bluesky, and Mastodon have relegated themselves into irrelevance by allowing the...) Tj
+T*
+() Tj
+T*
+(9. From the DF Archive: Should a CEO Be a Nerd About Their Company?s Products?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-19T22:36:15Z) Tj
+T*
+(Link: https://daringfireball.net/linked/2022/10/11/ceos-as-nerds) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4377 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Back in 2022, I quoted from an interesting post by Ben Schlappig at One Mile at a Time, where) Tj
+T*
+(he wrote : I?ve had the opportunity to interact with quite a few senior airline executives over) Tj
+T*
+(the years, and I find that their knowledge about competitors is typically one extreme or the) Tj
+T*
+(other: Some airline executives literally couldn?t tell you the first thing about their) Tj
+T*
+(competitors, and have no knowledge of their passenger experience, fleet, etc. Some airline) Tj
+T*
+(executives know literally everything about their competitors, down to being able to tell you) Tj
+T*
+(how many seats competitors have on specific planes I find there are very few executives who are) Tj
+T*
+(just kind of in the middle, as it?s pretty polarizing. Either they know virtually everything) Tj
+T*
+(about competitors, or nearly nothing. Without naming any names, I?ll say that generally) Tj
+T*
+(speaking there?s a high correlation between airlines that have a great passenger experience,) Tj
+T*
+(and airlines that have executives that keep very close tabs on the competition. And I wrote: If) Tj
+T*
+(the CEO?s primary perspective on the company is via spreadsheets ? if it?s all just P&L to them) Tj
+T*
+(? that company is not going to excel at quality. Or if they do excel at quality, th...) Tj
+T*
+() Tj
+T*
+(10. Apple Event, in Los Angeles, Next Week: ?Pro and Tell?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-19T22:27:21Z) Tj
+T*
+(Link: https://x.com/gregjoz/status/2112212372182249831) Tj
+T*
+(Greg Joswiak, on X: Can?t wait to pro and tell next week. Juli Clover, MacRumors : Rumors) Tj
+T*
+(suggest Apple is planning to debut the new MacBook Pro with an OLED touchscreen display, an M6) Tj
+T*
+(entry-level MacBook Pro, an M6 iMac, an iPad mini with an OLED display. ?) Tj
+T*
+() Tj
+T*
+(11. No More Icons In Every Menu By Default) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Mon, 19 Oct 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/icons-in-every-menu/) Tj
+T*
+(Have you heard the good news? I bemoaned the approach of putting an icon in every menu item by) Tj
+T*
+(default which shipped with macOS Tahoe ? but now it?s gone in Golden Gate! John Gruber wrote) Tj
+T*
+(about this reversion back in June , including the fact that Apple?s new Human Interface) Tj
+T*
+(Guidelines specifically call out Tahoe?s approach to menus as an example of what not to do on) Tj
+T*
+(macOS. As the old saying goes, it takes a big man corporation to admit when they?re wrong. As I) Tj
+T*
+(mentioned in my original post , one of the arguments I had in my quiver against this practice) Tj
+T*
+(was ?Apple doesn?t do it?. But once Apple started putting icons in all their menus in Tahoe, I) Tj
+T*
+(lost a persuasive point in my argument. But now, I think I have an argument that?s even) Tj
+T*
+(stronger than before! It?s no longer: ?Apple doesn?t put icons in their menus.? It?s: ?Apple) Tj
+T*
+(tried putting icons in all their menus, and even they went back on it!? They designed it,) Tj
+T*
+(shipped it, lived with it for a year, then publicly changed their guidance on it. To me, that?s) Tj
+T*
+(a lot more persuasive than simply saying, ?Apple doesn?t do this.? Choosing not to do something) Tj
+T*
+(you?ve never done is one thing. Choosing not to do something you?ve done is exper...) Tj
+T*
+() Tj
+T*
+(12. The Lean Educator Conference) Tj
+T*
+(Source: Steve Blank | Published: Mon, 19 Oct 2026 13:00:20 +0000) Tj
+T*
+(Link: https://steveblank.com/2026/10/19/the-lean-educator-conference/) Tj
+T*
+(Announcing a Lean Educators Conference. Teaching Lean in the Age of AI. November 18-19th at K&S) Tj
+T*
+(Ranch, California. When AI hit our spring Lean Launchpad for Deep Tech class, our teaching team) Tj
+T*
+(was unprepared for the impact it made on the class. What I didn?t realize was that other Lean) Tj
+T*
+(educators \(Hacking for Defense, NSF [?]) Tj
+T*
+() Tj
+T*
+(13. Weekly Update 526: Building HIBP AI/SI First) Tj
+T*
+(Source: Troy Hunt | Published: Mon, 19 Oct 2026 06:47:58 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-526/) Tj
+T*
+(I have this sense that we've passed the point where "vibe coding" is a derogatory term. I have) Tj
+T*
+(no empirical evidence for this; it's more a feeling that those weaponising the term have now) Tj
+T*
+(accepted the inevitability and are just getting with the program.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004535 00000 n 
+0000004661 00000 n 
+0000009218 00000 n 
+0000009344 00000 n 
+0000013773 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+13899
+%%EOF
