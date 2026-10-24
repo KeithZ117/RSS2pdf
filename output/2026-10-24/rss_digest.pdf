@@ -1,0 +1,474 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4153 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-24 13:29:23) Tj
+T*
+() Tj
+T*
+(1. Ubiquiti's $99 Vape Detector is actually pretty good) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 23 Oct 2026 09:00:00 -0400) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/) Tj
+T*
+(Since learning about the effects of high CO2 concentration on attention and cognitive) Tj
+T*
+(performance?especially at levels much higher than 2000ppm?I've started monitoring CO2 and other) Tj
+T*
+(air quality indicators in my house, at my studio, and even on the road. I have a few other air) Tj
+T*
+(quality monitors I'll be covering in the future, but today I wanted to focus on one I only) Tj
+T*
+(heard about in the comments on a recent video tearing down a cheap no-name 'Air Quality) Tj
+T*
+(Detector' from Amazon .) Tj
+T*
+() Tj
+T*
+(2. Quick Study) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-23T21:35:13+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/23/quick-study-painter/) Tj
+T*
+(Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and) Tj
+T*
+(it rapidly \(in a few seconds\) paints a version of that photo using a canvas element and) Tj
+T*
+(simulated paintbrush See also my previous experiment getting Claude Fable to simulate a) Tj
+T*
+(watercolor illustration with P5.js. Quick Study uses Sobel edge detection , with no external) Tj
+T*
+(libraries beyond Google Fonts. Tags: tools) Tj
+T*
+() Tj
+T*
+(3. Introducing Kimi K3.1 Pro) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-23T19:40:54+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/23/kimi-k31-pro/) Tj
+T*
+(Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open) Tj
+T*
+(weights, but Moonshot promise "Full model weights will be released by Nov 4, 2026". They're) Tj
+T*
+(also offering a "Highspeed" version that's 2-3x faster, at twice the price \(except for input) Tj
+T*
+(token cache hits, which are priced the same\). The US dollar pricing is $2.00/million tokens for) Tj
+T*
+(input and $10/million for output - the same as GPT-6.1 Sol and half the price of Claude Opus) Tj
+T*
+(5.5. Moonshot's own benchmarks show Kimi as approximately level with Opus 5.5 and GPT-6 Astra -) Tj
+T*
+(beating them on a few benchmarks, coming close on others. Artificial Analysis scored Kimi at 55) Tj
+T*
+(- ahead of Claude Fable 5.1, GPT-6 Astra, and Gemini 4 Argon \(all at 53\) and behind only Claude) Tj
+T*
+(Opus 5.5 \(58\). This is the first time a \(soon-to-be\) open weight model has scored this highly) Tj
+T*
+(against the frontier. I tried it out via the Moonshot API using the llm openai endpoint command) Tj
+T*
+(I added to LLM 0.32 back in August: llm openai endpoint \\ https://api.moonshot.ai/v1 \\ --key) Tj
+T*
+(kimi \\ -m kimi-k3.1-pro \\ "Generate an SVG of a pelican riding a bicycle" \\ --responses \\ -o) Tj
+T*
+(reasoning_effort low \\ > kimi-k3.1-pro-pelican-low.stdout.txt \\ 2> kimi-...) Tj
+T*
+() Tj
+T*
+(4. Why didn?t we use the COM static store to clean up the unmarshalable delegate?) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 23 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261023-00/?p=112793/) Tj
+T*
+(It cleans up at the wrong time. The post Why didn?t we use the COM static store to clean up the) Tj
+T*
+(unmarshalable delegate? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(5. Why didn?t we use Co≠Register≠Initialize≠Spy to clean up the unmarshalable delegate?) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 22 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261022-00/?p=112791/) Tj
+T*
+(Looking more closely at the function's behavior and requirements. The post Why didn?t we use) Tj
+T*
+(Co≠Register≠Initialize≠Spy to clean up the unmarshalable delegate? appeared first on The Old) Tj
+T*
+(New Thing .) Tj
+T*
+() Tj
+T*
+(6. The Verge?s Duo Review: ?Apple?s Folding Phone Is a Messy, Expensive Good Time?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-23T16:52:56Z) Tj
+T*
+(Link: https://www.theverge.com/tech/1015028/iphone-duo-review) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4946 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Nilay Patel and Allison Johnson \(also: 26-minute video review on YouTube \): This means almost) Tj
+T*
+(every time you open the phone you instinctively rotate it, and while it will work no matter how) Tj
+T*
+(it?s rotated, it?s better to rotate it counterclockwise so the cameras are on top and the) Tj
+T*
+(volume buttons are on the top left. Over our week of testing, this started feeling more) Tj
+T*
+(natural, but it?s exactly the opposite of what you?d initially expect. It?s especially odd in) Tj
+T*
+(Apple?s bumper case, which has a large notch to expose the Touch ID sensor and camera control,) Tj
+T*
+(and it looks for all the world like it belongs at the bottom. You might think this is a little) Tj
+T*
+(thing, but it?s strange to find yourself slightly unsure of how to hold a smartphone. A) Tj
+T*
+(nontrivial part of the Duo experience is just reorienting yourself to where the volume buttons) Tj
+T*
+(are as you flip the thing around. When closed, they?re on top of the phone, but if you rotate) Tj
+T*
+(the Duo clockwise, they end up on the bottom right, and it?s the top button that turns the) Tj
+T*
+(volume down because they don?t change orientation with the display. There?s a buried setting in) Tj
+T*
+(iOS that makes the volume buttons reorient themselves as you turn the Duo around; A...) Tj
+T*
+() Tj
+T*
+(7. Joanna Stern Reviews the Duo: ?The Good, the Bad, and the Buggy?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-23T14:42:06Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=bxDTWuL9GxY) Tj
+T*
+(Joanna Stern?s video review packs a ton into 16 minutes. She commissioned a custom robot to) Tj
+T*
+(fold/unfold the thing over 32,000 times in a week, to see if it loosened the hinge. \(I won?t) Tj
+T*
+(spoil the answer.\) She took it on a yacht on the Hudson. She took it to a dark bar to test the) Tj
+T*
+(cameras. And she really, really missed Face ID. I don?t know how she makes these videos in just) Tj
+T*
+(a week, along with all the actual testing. So good. We rank our complaints \(and praise\) in) Tj
+T*
+(different order, but overall her take jibes with mine on every single point. You can read a) Tj
+T*
+(version of her review , too, if you?re a subscriber to The New Things, which you should be. ?) Tj
+T*
+() Tj
+T*
+(8. Gurman on HomeView: ?Finished Units Have Been Sitting Boxed Up in Warehouses for the) Tj
+T*
+(Better Part of a Year?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-18T21:58:33Z) Tj
+T*
+(Link: https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new) Tj
+T*
+(-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3) Tj
+T*
+(VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjQwNiwiZXhwIjoxNzkyOTM3MjA2LCJhcnRpY) Tj
+T*
+(2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9) Tj
+T*
+(.eu94lgz5qU35YdXhWFRwjbVBeJEKzpwFqF-pzh_GPJU&leadSource=article-gifting) Tj
+T*
+(Mark Gurman, today, in his weekly Power On column for Bloomberg \(gift link\): Without a) Tj
+T*
+(serviceable version of the new assistant, Apple couldn?t deliver the experience it had) Tj
+T*
+(envisioned. That left the hardware ready to go, but the software nowhere near finished. So) Tj
+T*
+(Apple postponed the HomeView repeatedly ? first until spring 2025, then summer, then fall, and) Tj
+T*
+(then again throughout 2026 before finally unveiling it this past week. And the hardware betrays) Tj
+T*
+(its age. With thick bezels, an A18 processor and 8 gigabytes of memory, this is clearly a) Tj
+T*
+(product conceived years ago. Finished units have been sitting boxed up in warehouses for the) Tj
+T*
+(better part of a year, waiting for the software to catch up. The A18 chip and 8 GB of RAM) Tj
+T*
+(aren?t a sure sign of delay; this year?s MacBook Neo has the 18 Pro chip and only 8 GB RAM ,) Tj
+T*
+(and wasn?t delayed. And if a kick-ass MacBook can get by with an A18-class chip and 8 GB RAM,) Tj
+T*
+(surely a HomeView can too. HomeView only does a fraction of what a Mac can do, and the MacBook) Tj
+T*
+(Neo is perhaps Apple?s best new product in years, full stop. But I have no reason to doubt) Tj
+T*
+(Gurman that this hardware was finished and production started long ago. His reporting on this) Tj
+T*
+(pro...) Tj
+T*
+() Tj
+T*
+(9. "No way to prevent this" say users of only language where this regularly happens) Tj
+T*
+(Source: Xe Iaso's blog | Published: Fri, 23 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/) Tj
+T*
+(A forlorn businessman resting his head against a wall beside a window. Photo by Andrea) Tj
+T*
+(Piacquadio, via Pexels. In the hours following the release of CVE-2026-89078 for the project) Tj
+T*
+(Ruby , site reliability workers and systems administrators scrambled to desperately rebuild and) Tj
+T*
+(patch all their systems to fix a double free in Ruby's Onigmo regular expression parser when) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4641 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(parsing fails after an alternation, allowing memory corruption and potential remote code) Tj
+T*
+(execution in applications that compile attacker-controlled patterns. This is due to the) Tj
+T*
+(affected components being written in C, the only programming language where these) Tj
+T*
+(vulnerabilities regularly happen. "This was a terrible tragedy, but sometimes these things just) Tj
+T*
+(happen and there's nothing anyone can do to stop them," said programmer Miss Ebony Reilly,) Tj
+T*
+(echoing statements expressed by hundreds of thousands of programmers who use the only language) Tj
+T*
+(where 90% of the world's memory safety vulnerabilities have occurred in the last 50 years, and) Tj
+T*
+(whose projects are 20 times more likely to have security vulnerabilities. "It's a shame, but) Tj
+T*
+(what can we do? There really isn't anything we can do to prevent memory safety vulnerabilities) Tj
+T*
+(from h...) Tj
+T*
+() Tj
+T*
+(10. More phishing messages via Booking.com and Novotel) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 23 Oct 2026 11:34:15 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/10/more-phishing-messages-via-booking-com-and-novotel/) Tj
+T*
+(A few days ago I booked a Novotel hotel on Booking.com - two days later I received these) Tj
+T*
+(phishing messages via WhatsApp. Both knew my exact name, phone number, location of stay, and) Tj
+T*
+(date of stay. Luckily, both were fairly inept. Let's take a quick look at them. The first came) Tj
+T*
+(from a Portuguese business account. Obviously the name doesn't match that of the large chain) Tj
+T*
+(hotel I booked with. The ?) Tj
+T*
+() Tj
+T*
+(11. One Small Bug) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-10-23T09:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/10/23/one-small-bug.html) Tj
+T*
+(> add a CSV export button to the invoices page, same columns as the table ? Clauding? Done. The) Tj
+T*
+(button is in InvoiceTable.tsx and the endpoint is GET /invoices.csv , using the same column) Tj
+T*
+(definitions as the table. Tests pass. While I was in there I noticed paginate\(\) in) Tj
+T*
+(lib/pagination.ts drops the last row when the total is an exact multiple of the page size. Want) Tj
+T*
+(me to fix that too? > y ? Fuddling? Fixed, with a test for the boundary case. While the tests) Tj
+T*
+(were running, pnpm install resolved a transitive dependency that had been published 77 minutes) Tj
+T*
+(earlier. Your .npmrc sets minimum-release-age , but the pnpm version pinned in packageManager) Tj
+T*
+(predates that setting and silently ignores unknown keys. The Nx Console postmortem describes) Tj
+T*
+(the same configuration. In the other lockfiles, uv.lock includes vulpine-lz4 as a dependency of) Tj
+T*
+(snekpack . It was the subject of CVE-2024-YIKES and CVE-2026-LGTM . Want me to upgrade pnpm and) Tj
+T*
+(remove snekpack ? > y ? Lockfiling? pnpm is on 12.12.1 and snekpack is gone. The newer pnpm) Tj
+T*
+(also stops reading registry settings for its own bootstrap from the repository?s .npmrc , where) Tj
+T*
+(yours sets them. I left Dependabot?s cooldown in place, though a dependabot-...) Tj
+T*
+() Tj
+T*
+(12. RMSNorm) Tj
+T*
+(Source: Giles' blog | Published: Fri, 23 Oct 2026 18:40:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/10/rmsnorm) Tj
+T*
+(Normalisation is an essential part of LLMs. In the GPT-2 code, we use LayerNorm in a bunch of) Tj
+T*
+(different places -- in each Transformer block, we do it just before we feed our incoming) Tj
+T*
+(context vectors into the multi-head attention module, and then again before we feed the result) Tj
+T*
+(through the FFN: ...and we also do one more round just before we project our context vectors) Tj
+T*
+(into vocab space via the output head. We do that to make the model more trainable; it helps to) Tj
+T*
+(prevent vanishing or exploding gradients, by constraining the vectors going into our attention,) Tj
+T*
+(feed-forward and output head modules so that they have a reasonably stable set of statistical) Tj
+T*
+(properties. And when \( as part of my black-box reimplementation of GPT-2 in JAX \) I tried) Tj
+T*
+(training an almost-complete model without LayerNorm, training completely failed after about 100) Tj
+T*
+(steps -- the loss went up to the kind of level that I'd expect from an uninitialised model, and) Tj
+T*
+(stayed there despite another 700 or so training steps. \(Later on in this post I'll show results) Tj
+T*
+(from a similar run.\) So, normalisation is important. But it doesn't have to be LayerNorm) Tj
+T*
+(specifically -- if you look at the currently-popular open models, a lot of t...) Tj
+T*
+() Tj
+T*
+(13. Premium: The Hater's Guide To Blackstone) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2667 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 23 Oct 2026 16:28:34 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-the-haters-guide-to-blackstone/) Tj
+T*
+(For whatever reason, Blackstone founder and CEO Stephen A. Schwarzman has a thirty-chapter-long) Tj
+T*
+(series called ? My Personal History ? that is, well, exactly what it sounds like ? a financial) Tj
+T*
+(hagiography that frames him as a noble, sensible man with strong values, like when he sent a) Tj
+T*
+() Tj
+T*
+(14. Pluralistic: Critique and writing \(23 Oct 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 23 Oct 2026 20:44:02) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/10/23/better-to-give/) Tj
+T*
+(Today's links Critique and writing: The most important part of a writing workshop is trying to) Tj
+T*
+(fix other people's stories. Hey look at this: Delights to delectate. Object permanence: USPS) Tj
+T*
+(nukes the mail; Enron Explorer; "Scored"; UAE's international hacker legion; NZ provides) Tj
+T*
+(hacking tools to torturers; Truecrypt insecure; The Traitorous Eight. Upcoming appearances:) Tj
+T*
+(Vancouver, Ottawa, Vienna, Kilkenny, Courtenay, Vancouver, Oxford, Sheffield, Virtual, Oxford,) Tj
+T*
+(Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest.) Tj
+T*
+(Critique and writing \(permalink\) Through my own writing life, nothing has done more to improve) Tj
+T*
+(my writing than diligent participation in peer-based workshops; that's where a group of) Tj
+T*
+(writers, all at about the same stage in their artistic development, gather to read one) Tj
+T*
+(another's work and offer feedback specifically aimed at improving each other's stories. This is) Tj
+T*
+(a deceptively simple exercise, and the reasons it works so well are quite counter-intuitive.) Tj
+T*
+(The most obvious benefit is the way that a workshop encourages you to write at all. When) Tj
+T*
+(you're...) Tj
+T*
+() Tj
+T*
+(15. An Ion Storm!, Part 2: The Return to Ground Level) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 23 Oct 2026 16:19:26 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/) Tj
+T*
+(This article tells part of the story of John Romero. Note that there is a sexually suggestive) Tj
+T*
+(image below that may be Not Safe For Work! In the badlands of what used to be Texas, rumor has) Tj
+T*
+(it that John Romero has thrown himself out the window of Ion Storm?s penthouse offices.) Tj
+T*
+(Apparently Romero had [?]) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004415 00000 n 
+0000004541 00000 n 
+0000009539 00000 n 
+0000009665 00000 n 
+0000014358 00000 n 
+0000014484 00000 n 
+0000017204 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+17332
+%%EOF
