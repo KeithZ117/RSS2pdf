@@ -1,0 +1,426 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4624 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-25 13:47:15) Tj
+T*
+() Tj
+T*
+(1. battledrones v14: Compass Rose, a four player map) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-24T03:59:57+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/24/battledrones/) Tj
+T*
+(Release: battledrones v14: Compass Rose, a four player map I added four player online mode to) Tj
+T*
+(Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new) Tj
+T*
+(map for a four player battle - four way rotational symmetry, up to four AI players, works with) Tj
+T*
+(the WebSocket non-audio based multiplayer mode so up to four human players can join \(any spare) Tj
+T*
+(slots use AI\) Claude Opus 5.5 added a new map called "Compass Rose" and modified the WebSockets) Tj
+T*
+(multiplayer network code to support up to four players for that map, joining via share links or) Tj
+T*
+(QR codes. The new teams use robots themed in purple and green, joining the existing blue and) Tj
+T*
+(red designs. You can preview those colors in the updated model browser . Here's a replay link) Tj
+T*
+(to watch a four way AI battle with the "Goliath Armada" mutator turned on, where each side) Tj
+T*
+(starts with four giant Goliath mech units. Tags: game-design , projects , claude) Tj
+T*
+() Tj
+T*
+(2. Nicole Nguyen?s Duo Review for the WSJ) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-24T22:15:00Z) Tj
+T*
+(Link: https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf) Tj
+T*
+(Nicole Nguyen \(also with a 5-minute video \), writing for The Wall Street Journal \(gift link\):) Tj
+T*
+(Every time I used the Duo in phone mode, one-handed, I felt its heft. It?s wider and thicker) Tj
+T*
+(than a Pro iPhone ? and heavier, even compared with competing foldables. My hand actually hurts) Tj
+T*
+(after using the Duo nonstop, straining to grip the device securely while trying to reach the) Tj
+T*
+(far edge of the screen. An Apple spokesman pointed to the Duo?s titanium frame for durability.) Tj
+T*
+(Other folding models use a lighter aluminum. The company also moved the dock and common) Tj
+T*
+(controls to the right to be more reachable \(sorry, southpaws\). Still, there were plenty of) Tj
+T*
+(instances where my thumb found its limits: turning off the flash in the camera app, or typing) Tj
+T*
+(the letter ?A.? There are people who can easily use two hands and won?t see this as a problem,) Tj
+T*
+(including train commuters, frequent fliers or parents who wait around for kids to finish their) Tj
+T*
+(activities. For me, I look forward to the day the Duo is lighter and thinner ? maybe folding to) Tj
+T*
+(the size of a deck of cards, like in the movie ?Her.? Interesting that she?d prefer a smaller) Tj
+T*
+(Duo, not a bigger one , if Apple makes a second size. I agree that one-hand...) Tj
+T*
+() Tj
+T*
+(3. Reuters and the WSJ on the Duo Launch) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-24T22:08:17Z) Tj
+T*
+(Link: https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldabl) Tj
+T*
+(e-market-sales-begin-2026-10-22/) Tj
+T*
+(Aditya Soni, Christine Chen, and Will Russell, reporting Friday for Reuters: CEO Ternus played) Tj
+T*
+(greeter at a store in Austin, Texas, throwing open the doors and high-fiving customers as they) Tj
+T*
+(streamed in, a video ?posted on X by CBS Austin showed. A known car enthusiast, Ternus?s Austin) Tj
+T*
+(visit coincides with this weekend?s Formula 1 US Grand Prix in the city, with Apple holding) Tj
+T*
+(exclusive US broadcast and streaming rights to the racing series. I was wondering why Ternus) Tj
+T*
+(and retail chief Deirdre O?Brien were in Austin for the launch. Joz held down the fort and held) Tj
+T*
+(court at the Fifth Avenue store. Regarding reviews: They also said the folded Duo is less handy) Tj
+T*
+(for the quick tasks most users do daily and several prominent reviewers recommended against it) Tj
+T*
+(for many Apple customers. ?It?s been a lot of fun trying the Duo out for a week, but it feels) Tj
+T*
+(like I?ve gotten to use an extraordinarily polished prototype ? not a finished product that I?d) Tj
+T*
+(want to buy and carry,? wrote longtime Apple commentator John Gruber. Tech commentator Marques) Tj
+T*
+(Brownlee said in a YouTube ?review that for a regular person who mostly texts and browses, ?it) Tj
+T*
+(is probably a no. But if the $2,000 doesn?t mean much to you,...) Tj
+T*
+() Tj
+T*
+(4. Marion Barry Meets the iPhone Duo) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-24T21:10:06Z) Tj
+T*
+(Link: https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4407 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Jay Peters, The Verge: The iPhone Duo officially goes on sale today, but a few units already) Tj
+T*
+(have broken screens. According to posts on Reddit about the affected units, the issue appears) Tj
+T*
+(to be happening at a similar spot on all of them: Some kind of problem shows up on the inner) Tj
+T*
+(screen along the hinge and a strange bright line \(or lines\) across the right side of the) Tj
+T*
+(display. This crack problem doesn?t seem to be widespread, but it?s seemingly more than a) Tj
+T*
+(handful . ?) Tj
+T*
+() Tj
+T*
+(5. Don't anthropomorphize big tech companies) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 25 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/) Tj
+T*
+(Bryan Cantrill has a great line from a talk where he cautions against anthropomorphizing 1) Tj
+T*
+(Oracle CEO Larry Ellison. I think it?s also a mistake to treat any tech company like a person.) Tj
+T*
+(Here?s the full quote: You need to think of Larry Ellison the way you think of a lawnmower. You) Tj
+T*
+(don?t anthropomorphize your lawnmower, the lawnmower just mows the lawn, you stick your hand in) Tj
+T*
+(there and it?ll chop it off, the end. You don?t think ?oh, the lawnmower hates me? ? lawnmower) Tj
+T*
+(doesn?t give a shit about you, lawnmower can?t hate you. Don?t anthropomorphize the lawnmower.) Tj
+T*
+(Don?t fall into that trap about Oracle. Companies are machines, not persons Here are some) Tj
+T*
+(examples of anthropomorphizing companies: My company really owes me for that hard thing I did) Tj
+T*
+(I?m fighting the good fight against my company on issue X \(e.g. accessibility\) and they hate me) Tj
+T*
+(for it My company is vindictively retaliating against me because of that mistake I made My) Tj
+T*
+(company and I are partners in the mission to make the world a better place All of these are) Tj
+T*
+(mistakes. Your relationship to the tech company that employs you is not like a relationship) Tj
+T*
+(with a person. It?s more like your relationship with your car 2 . If you dri...) Tj
+T*
+() Tj
+T*
+(6. Computing polar triangles with linear algebra) Tj
+T*
+(Source: John D. Cook | Published: Sun, 25 Oct 2026 01:01:55 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/) Tj
+T*
+(The previous post defined the polar triangle of a spherical triangle in terms of its sides and) Tj
+T*
+(angles, but it doesn?t construct the triangle. It only specifies one of a family of triangles) Tj
+T*
+(located anywhere on the sphere. How do we know that polar triangles exist? There is a geometric) Tj
+T*
+(construction that starts with a [?] The post Computing polar triangles with linear algebra) Tj
+T*
+(first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(7. Duality in spherical trigonometry) Tj
+T*
+(Source: John D. Cook | Published: Sun, 25 Oct 2026 00:28:20 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/24/polar-triangle/) Tj
+T*
+(I?ve written before about the law of cosines on a sphere: cos\(c\) = cos\(a\) cos\(b\) + sin\(a\)) Tj
+T*
+(sin\(b\) cos\(C\). But that?s just one of two laws of cosines on a sphere. The equation above is) Tj
+T*
+(the law of cosines for sides. The law of cosines for angles is typographically very similar,) Tj
+T*
+(just inverting the case of [?] The post Duality in spherical trigonometry first appeared on) Tj
+T*
+(John D. Cook .) Tj
+T*
+() Tj
+T*
+(8. List of Vim forks) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Sat, 24 Oct 2026 17:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/list-of-vim-forks/) Tj
+T*
+(Here are the Vim forks I know about: Neovim : ?a Vim-based text editor engineered for) Tj
+T*
+(extensibility and usability, to encourage new applications and contributions.? Vim Classic : ?a) Tj
+T*
+(stable, long-term support fork of the ubiquitous text editor, maintained without the assistance) Tj
+T*
+(of generative AI tools.? EVi : ?a hard-fork of Vim v9.1.0 \(Jan 2024\) before AI was used in the) Tj
+T*
+(project.? MacVim : ?a macOS version of the Vim text editor, providing a graphical user) Tj
+T*
+(interface for Vim, while tightly integrating with macOS and providing features specific to the) Tj
+T*
+(platform.? This list doesn?t include Vim-inspired editors like Kakoune , Vim-style plugins for) Tj
+T*
+(other editors like IdeaVim , or Vim ?distributions? like LazyVim . Contact me if you know of) Tj
+T*
+(other forks!) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4664 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(9. Book Review: Get Ahead of Being Dead by Evie King ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 24 Oct 2026 11:34:25 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/) Tj
+T*
+(After reading Evie King's previous book Ashes To Admin - Tales from the Caseload of a Council) Tj
+T*
+(Funeral Officer I was eager to read her not-quite-a-sequel. We know what happens after death;) Tj
+T*
+(paperwork. Gas bills need to be cancelled, funeral wishes need to be carried out, money needs) Tj
+T*
+(to be apportioned between warring family members. When you die, you won't be there to) Tj
+T*
+(experience the annoyance and ?) Tj
+T*
+() Tj
+T*
+(10. Reading List 10/24/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 24 Oct 2026 12:01:24 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-102426) Tj
+T*
+(Minimum lot sizes, Boeing?s next 737 MAX, Fervo short sellers, Figure AI?s training data, and) Tj
+T*
+(more.) Tj
+T*
+() Tj
+T*
+(11. This Week in Package Management: 24 October 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-10-24T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/10/24/this-week-in-package-management.html) Tj
+T*
+(This week?s package management news, and what a week it?s been, gathered from the package) Tj
+T*
+(manager OPML feed collection , my posts and boosts on Mastodon , and anything people sent me.) Tj
+T*
+(The compromised eMudhra intermediate CAs led to security releases from dozens of package) Tj
+T*
+(managers, language runtimes and CA bundles this week. Security eMudhra generated eight of its) Tj
+T*
+(intermediate CA certificates in a way that lets anyone recover their private keys . Browsers) Tj
+T*
+(blocked them through their revocation lists, and tools that bundle their own copy of the roots) Tj
+T*
+(shipped new releases. I wrote about where those copies end up, and how many critical packages) Tj
+T*
+(bundle a CA file, in Trust Stores Are Dependencies Too . The disclosure page keeps a table of) Tj
+T*
+(patched software with version numbers, including ca-certificates updates for most Linux) Tj
+T*
+(distributions and the BSDs. The package management releases with the fix: uv 0.13.4 updates the) Tj
+T*
+(roots compiled into uv, and 0.13.5 updates the managed CPython builds so their pip and) Tj
+T*
+(ensurepip carry certifi 2026.10.19 pip 26.2.2 Seth Larson?s notice for Python users lists the) Tj
+T*
+(minimum versions of certifi, pip, uv, sigstore, conda and pixi, and gives a hash-pinned com...) Tj
+T*
+() Tj
+T*
+(12. MacOS Extensions pack for the Apple Network Server v1.0) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-10-24T18:21:15.939-07:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html) Tj
+T*
+(By now regular readers of this blog are quite familiar with my affection for the 1996 Apple) Tj
+T*
+(Network Server , Apple's Unix-through-and-through $10,000+ server that only shipped with, and) Tj
+T*
+(only officially ran, Harpoon, its unique superset of IBM AIX. An ANS 500, the lower tier of) Tj
+T*
+(this dorm fridge-sized computer, was the first server I ever personally owned, a nearly-new) Tj
+T*
+(hand-me-down after Steve Jobs convinced Gil Amelio to cancel the machine and the bookstore's) Tj
+T*
+(vendor at the University I worked for wouldn't support it anymore. There are several) Tj
+T*
+(fascinating features present in Harpoon that were never implemented in any other Apple product.) Tj
+T*
+(Currently I have three, that original ANS 500, this ANS 700 here which I use for testing, and a) Tj
+T*
+(battery-bombed EVT prototype \(a so-called "Shiner ESB" that used to be at Netscape \). The ANS) Tj
+T*
+(was strongly based on the Power Macintosh 9500 and Apple was known to have demonstrated the ANS) Tj
+T*
+(with Mac OS during development, but this confused potential buyers, causing the ability to boot) Tj
+T*
+(Mac OS to be stripped from production systems. While then-CTO Ellen Hancock claimed in 1997 a) Tj
+T*
+(ROM swap would enable the ANS to boot Mac OS again and Windows NT, these ROMs w...) Tj
+T*
+() Tj
+T*
+(13. Elon Musk Just Gave Europe a Reason to Replace American Technology) Tj
+T*
+(Source: Steve Blank | Published: Sat, 24 Oct 2026 13:00:33 +0000) Tj
+T*
+(Link: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/) Tj
+T*
+(I?ve been in London for the last month and have heard policymakers react to the wake up call) Tj
+T*
+(Elon Musk just delivered. The decision of the U.S. to shut off intelligence and throttle the) Tj
+T*
+(military version of Starlink called Starshield to Ukraine may have been a blip in the news in) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 524 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(the US, but it [?]) Tj
+T*
+() Tj
+T*
+(14. Interesting systemd features you may not know about) Tj
+T*
+(Source: Martin Alderson | Published: Sat, 24 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/interesting-systemd-features/?utm_source=rss&utm_medium=) Tj
+T*
+(rss&utm_campaign=feed) Tj
+T*
+(Memory caps, run time limits, sleep inhibitors, better cron and path units - systemd features) Tj
+T*
+(that turn out to be handy for running throwaway agent-written code.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004886 00000 n 
+0000005012 00000 n 
+0000009471 00000 n 
+0000009597 00000 n 
+0000014313 00000 n 
+0000014439 00000 n 
+0000015015 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15143
+%%EOF
