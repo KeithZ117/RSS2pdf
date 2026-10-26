@@ -1,0 +1,260 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4011 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-26 13:49:59) Tj
+T*
+() Tj
+T*
+(1. Seam Cutter) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-25T15:10:19+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/25/seam-cutter/) Tj
+T*
+(Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a) Tj
+T*
+(horizontal or vertical cut across an image, then slide the two sides relative to each other.) Tj
+T*
+(Effectively it lets you crop out a section in the middle of an image. I wanted this because I) Tj
+T*
+(often use Tailor on my iPhone to stitch several screenshots together into lot long image, but) Tj
+T*
+(sometimes I find myself wanting to crop out a section in the middle - to redact an irrelevant) Tj
+T*
+(prompt from a transcript, for example. Tags: tools) Tj
+T*
+() Tj
+T*
+(2. Sunnny) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-25T21:50:00Z) Tj
+T*
+(Link: https://sunnny.com/) Tj
+T*
+(My thanks to Sunnny for sponsoring last week at DF. Sunnny?s pitch to B2B companies is simple:) Tj
+T*
+(you store valuable customer information across a myriad of systems, making it hard to get a) Tj
+T*
+(simple overview. Sunnny consolidates your customer data, cleans it, resolves identities,) Tj
+T*
+(identifies relationships, and presents it neatly for you, your team, and your AI model. Early) Tj
+T*
+(access is open now. ?) Tj
+T*
+() Tj
+T*
+(3. Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-25T21:47:57Z) Tj
+T*
+(Link: https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/) Tj
+T*
+(Some guy on Reddit \(with an illustration video\): Saw this online, tried it, and it works) Tj
+T*
+(beautifully. Basically, I registered the lowest part of my right index finger. That part of the) Tj
+T*
+(finger sits naturally when you go to swipe up at the phone. This resolves a major issue I had) Tj
+T*
+(where I couldn?t easily just look at my phone to glance through notifications on the lock) Tj
+T*
+(screen. Now, it?s never been easier \(shown at the end of the video\). This is arguably better) Tj
+T*
+(than Face ID. The speed is up there, and the phone doesn?t need to be facing directly at you to) Tj
+T*
+(unlock, this motion can be done as soon as you pick up the phone. Tim Hardwick at MacRumors) Tj
+T*
+(quotes the ?arguably better than Face ID? line. This idea is clever, and it does seem to work) Tj
+T*
+(if you grip the Duo just right, but the idea that this is better than Face ID is a joke. Copium) Tj
+T*
+(is a strong drug but it wears off quickly. ?) Tj
+T*
+() Tj
+T*
+(4. The Talk Show: ?Lubricate the Inside of the Hinge?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-25T19:03:13Z) Tj
+T*
+(Link: https://daringfireball.net/thetalkshow/2026/10/25/ep-456) Tj
+T*
+(Special guest: Joanna Stern. Special topic: The iPhone Duo. Sponsored by: Factor : Healthy) Tj
+T*
+(eating, made easy. Get 50% off and one free breakfast item per box for one year, while supplies) Tj
+T*
+(last, with code talkshow50off . Notion : The collaborative AI workspace where teams and agents) Tj
+T*
+(work side by side, with a developer platform teams can build on. ?) Tj
+T*
+() Tj
+T*
+(5. Gadget Review: LiberNovo Omni - the USB-C powered office chair ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 25 Oct 2026 12:34:01 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/10/gadget-review-libernovo-omni-chair/) Tj
+T*
+(Whenever a company asks me to review their gadgets, I always ask if it is USB-C powered. If) Tj
+T*
+(not, I'm not interested. So, welcome to the future where your chair is USC-C rechargeable!) Tj
+T*
+(WHAT?! The LiberNovo Omni looks like a standard office chair - but has two secret features.) Tj
+T*
+(First, is that it is exceedingly comfortable. Full foam cushions, lovely headrest, and a) Tj
+T*
+(recline which almost gets you?) Tj
+T*
+() Tj
+T*
+(6. Poles and polars) Tj
+T*
+(Source: John D. Cook | Published: Sun, 25 Oct 2026 19:45:05 +0000) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 3955 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.johndcook.com/blog/2026/10/25/poles-and-polars/) Tj
+T*
+(The previous two posts have been about polar triangles. The first used a polar triangle to) Tj
+T*
+(derive a theorem, and the second showed how to compute polars using linear algebra. But what) Tj
+T*
+(exactly is a polar triangle and why is it called that? Poles and polars on a sphere Let?s start) Tj
+T*
+(with a sphere S and a [?] The post Poles and polars first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(7. OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?) Tj
+T*
+(Source: Max Woolf's Blog | Published: Sun, 25 Oct 2026 14:00:00 -0700) Tj
+T*
+(Link: https://minimaxir.com/2026/10/cheap-llms/) Tj
+T*
+(What is ?the true cost of a token??) Tj
+T*
+() Tj
+T*
+(8. Why My Dad Didn?t Have a Cell Phone) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 25 Oct 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/why-dad-didnt-have-cellphone/) Tj
+T*
+(Here?s Dave Rupert writing about all those emails, texts, phone calls, etc. we?re getting these) Tj
+T*
+(days: Once upon a time it had utility, now it?s all noise and grifter slop demanding our) Tj
+T*
+(attention and giving us to-dos That last part really hit: ?giving us to-dos?. I feel this. So) Tj
+T*
+(many of the messenger apps on my phone are other people laying claim to my time and attention.) Tj
+T*
+(It reminds me of an interaction I had with my Dad years ago. This was back when cell phones) Tj
+T*
+(were starting to become ubiquitous. Not smartphones , mind you. Cell phones, i.e. telephones) Tj
+T*
+(that were mobile. Texting wasn?t really a thing yet. These were devices for making voice calls) Tj
+T*
+(wherever you went. As a teen, it seemed like everyone had one: my teachers, my friends, even my) Tj
+T*
+(friends? parents. But not my parents. They were ?behind the times?. \(Everyone was getting cell) Tj
+T*
+(phones and we didn?t even have caller ID on our landline!\) One night at family dinner I asked,) Tj
+T*
+(?Dad, why don?t you have a cell phone?? His response? ?Why would I want to allow other people) Tj
+T*
+(to contact me whenever they want?? I still think about that. Reply via: Email ∑ Mastodon ∑) Tj
+T*
+(Bluesky) Tj
+T*
+() Tj
+T*
+(9. A rising tide raises all rents) Tj
+T*
+(Source: the website of jyn | Published: 2026-10-25T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/rising-tide-raises-rents/) Tj
+T*
+(If AI restructures the economy, who benefits?) Tj
+T*
+() Tj
+T*
+(10. lighting the skies) Tj
+T*
+(Source: computers are bad | Published: 25 Oct 2026 00:00:00 UT) Tj
+T*
+(Link: https://computer.rip/2026-10-25-searchlights.html) Tj
+T*
+(Someone stated in the early days of the war, a feeling that was reciprocated by the soldier in) Tj
+T*
+(khaki and the sailor in blue, that a mechanical device would be the determining factor in) Tj
+T*
+(ending the world conflict, favorably, of course, for the United States and her allies. 1 One of) Tj
+T*
+(my common topics is the history of nuclear weapons . The "atom bomb" is a rich vein of history) Tj
+T*
+(because its impact has been as much cultural as technical. Dramatic depictions like Christopher) Tj
+T*
+(Nolan's Oppenheimer have recently enforced, perhaps even revived, the perception of nuclear) Tj
+T*
+(weapons as an innovation that forever changed warfare. More quietly, historians and strategists) Tj
+T*
+(tend to wonder if that is still true today, or if it was ever as true as was supposed?the) Tj
+T*
+(conventional firebombing of Tokyo probably claimed as many victims as the nuclear attacks on) Tj
+T*
+(Hiroshima and Nagasaki, for example. Besides, it's not unusual to hear people overstate the) Tj
+T*
+(significance of nuclear weapons to WWII in a way that is obvious with a brief inspection of the) Tj
+T*
+(timeline. The technology became available only very late in the war, and for that reason if no) Tj
+T*
+(other, it must have had less of an impact on the outcome than other revol...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000004260 00000 n 
+0000004386 00000 n 
+0000008393 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+8519
+%%EOF
