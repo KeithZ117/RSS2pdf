@@ -1,0 +1,474 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4516 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-27 14:02:28) Tj
+T*
+() Tj
+T*
+(1. GPT-6.1 Terra) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-26T23:53:07+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/26/gpt-61-terra/) Tj
+T*
+(GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in) Tj
+T*
+(the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and) Tj
+T*
+(computer use: We?re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed) Tj
+T*
+(visual reasoning and precise computer use alongside clearer, more natural writing. A) Tj
+T*
+(significant step up from GPT?5.6 Terra, it excels at the communication and computer-based tasks) Tj
+T*
+(that fill the workday, from drafting proposals and interpreting technical drawings to filling) Tj
+T*
+(out forms and editing videos. Terra sits in the same position as Sonnet in the Anthropic model) Tj
+T*
+(collection - not the cheapest or the most expensive, making it harder to decide when to use it.) Tj
+T*
+(Computer use is a good example of a task that benefits from a less expensive model, since you) Tj
+T*
+(might put it to work on automated, repetitive tasks. OpenAI's Ted Sanders provided some useful) Tj
+T*
+(advice in a comment on Hacker News: In the case of GPT-6.1 Terra, I'd say Terra is probably) Tj
+T*
+(better than Astra and Sol at technical communication, similar on vision and computer use \(but) Tj
+T*
+(much faster!\), and a bit worse on most other things. For API developers, it'...) Tj
+T*
+() Tj
+T*
+(2. Quoting Jason Koebler) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-26T19:00:25+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/26/jason-koebler/) Tj
+T*
+(Because big tech platforms essentially do not have customer support and make it impossible for) Tj
+T*
+(their users to contact a human, many people experiencing run-of-the-mill tech problems have) Tj
+T*
+(turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support) Tj
+T*
+(problems that they have discovered something journalistically notable and that 404 Media,) Tj
+T*
+(specifically, can help them. ? Jason Koebler , ChatGPT Keeps Telling People 404 Media Can Solve) Tj
+T*
+(Their Tech Support Problems Tags: jason-koebler , openai , journalism , ai , llms , ai-ethics ,) Tj
+T*
+(ai-misuse , generative-ai , chatgpt , 404-media) Tj
+T*
+() Tj
+T*
+(3. webframe: evaluated as a scraper and a sandbox) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-26T16:15:00+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/26/webframe-evaluation/) Tj
+T*
+(Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from) Tj
+T*
+(Jeff Lindsay which lets you "run a web page like a program" - you point it at a URL or file and) Tj
+T*
+(it executes it in a hidden headless web view and outputs console.log\(\) to standard output and) Tj
+T*
+(any exceptions to standard error. It's written in Go on top of the glaze library, which) Tj
+T*
+(provides access to a system browser \("WKWebView on macOS, WebKitGTK on Linux, WebView2 on) Tj
+T*
+(Windows"\) so it doesn't need to bundle its own browser engine. It reminds me of my own) Tj
+T*
+(shot-scraper javascript tool, albeit in a much smaller package that doesn't depend on) Tj
+T*
+(Playwright. I had Claude Opus 5.5 put it through its paces and prepare a research report for) Tj
+T*
+(me. Here's the prompt I used: Explore https://github.com/tractordev/webframe try running it and) Tj
+T*
+(put it though its paces, build a few exploratory prototypes, then evaluate it as a potential) Tj
+T*
+(sandboxing tool and as a tool for scraping web pages using the same patterns encouraged by the) Tj
+T*
+("shot-scraper JavaScript" command \(see simonw/shot-scraper on GitHub, docs directory\) Tags:) Tj
+T*
+(browsers , go , javascript , jeff-lindsay , shot-scraper) Tj
+T*
+() Tj
+T*
+(4. Scattered thoughts on how doing math feels these days) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-10-26T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/math/) Tj
+T*
+(This is a weird moment. I have a hunch that we?ll look back later and tell ourselves stories in) Tj
+T*
+(which it seemed obvious where things were going. So I wanted to lay down a little time capsule) Tj
+T*
+(and register just how confusing everything felt at the time. This is a personal view from the) Tj
+T*
+(trenches. 1. If you?re a normal person, you may feel that AI has been good at math for a long) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4916 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(time. 1 But for ?real? math, this is roughly what it felt like: When Feeling 2024 LLMs are toys) Tj
+T*
+(Summer 2025 LLMs are interesting toys Early Autumn 2025 LLMs can do useful stuff sometimes Mid) Tj
+T*
+(Autumn 2025 ?a lot of stuff Late Autumn 2025 ?a lot Early 2026 holy god Even having been) Tj
+T*
+(astonished by AI progress in the past, it was still astonishing to see AI move in a matter of) Tj
+T*
+(months from a mildly-useful toy to something that many people now consider almost impossible to) Tj
+T*
+(do without. 2. Personally, I?d say that current AI makes me around 50% more productive at) Tj
+T*
+(?doing math?. That?s despite the fact that AI can now often do in a few minutes things that) Tj
+T*
+(would have taken me hours to do myself. The main reason is that my concept of ?doing math?) Tj
+T*
+(involves various steps, like coming up with ideas for theorems, trying to pro...) Tj
+T*
+() Tj
+T*
+(5. The NYT Seemingly Does Marissa Mayer Dirty) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-27T00:30:08Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_) Tj
+T*
+(article_code=1.L1E.xBwx.X_EjBGNsRNqr) Tj
+T*
+(Alexandra Alter, in the lede for her profile of Marissa Mayer?s new AI startup Dazzle for The) Tj
+T*
+(New York Times \(gift link\): Late last year, Marissa Mayer was struggling with what felt like an) Tj
+T*
+(impossible task. Her daughter Marielle was turning 10, and Marielle?s teacher wanted three) Tj
+T*
+(bullet points summarizing what made her special. Mayer ? the former chief executive of Yahoo) Tj
+T*
+(and a pioneer at Google, where she was the first female engineer ? likes cracking a hard) Tj
+T*
+(problem. But she felt overwhelmed by the range and complexity of potential answers. So Mayer) Tj
+T*
+(asked her personal A.I. assistant, Dazzle. Within a few seconds, Dazzle delivered an answer.) Tj
+T*
+(?It came back and was like, your daughter is empathetic, creative and an animal lover,? Mayer) Tj
+T*
+(said. She thought it was perfect. That anecdote is brutal. It makes it seem like Mayer has lost) Tj
+T*
+(her mind. She?s getting roasted for it on social media. I suspected \(and hoped\) there was more) Tj
+T*
+(to the story. There was. Here?s Mayer herself on X : To be clear, I didn?t use Dazzle because I) Tj
+T*
+(was overwhelmed by making a slide. I used it because summing up your child in a few bullets) Tj
+T*
+(feels laughably limiting. And, since our team had just gotten an early protot...) Tj
+T*
+() Tj
+T*
+(6. Apple Issues Statement on iPhone Duo?s Crack Problem) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-26T23:54:26Z) Tj
+T*
+(Link:) Tj
+T*
+(https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/) Tj
+T*
+(Chance Miller, 9to5Mac: Here is Apple?s full statement: The response to iPhone Duo from early) Tj
+T*
+(users has been incredibly positive, and we are seeing exciting things from developers who are) Tj
+T*
+(rapidly updating their apps to take advantage of its unique form factor. We are aware of an) Tj
+T*
+(issue impacting the inner display on a small number of iPhone Duo units. If users experience) Tj
+T*
+(issues with their iPhone Duo display, they should contact AppleCare for a replacement. The) Tj
+T*
+(company says the problem affects a very small number of iPhone Duo units and appears to surface) Tj
+T*
+(relatively quickly. Most iPhone Duo units are not affected. You do not need AppleCare+ to have) Tj
+T*
+(your iPhone Duo replaced for this problem. If you bought from a carrier, you should contact) Tj
+T*
+(AppleCare directly, not your carrier, to get your device replaced. Did it cross Ternus?s mind) Tj
+T*
+(to just say ?You?re folding it wrong?? \(History doesn?t repeat, and in this case, it actually) Tj
+T*
+(doesn?t even rhyme. Steve Jobs never told anyone they were ?holding it wrong? with the iPhone 4) Tj
+T*
+(? he emailed a customer , ?Just avoid holding it in that way.? But CNN went with the headline) Tj
+T*
+(?Apple on iPhone Complaints: You?re Holding It Wrong? and that?s the line...) Tj
+T*
+() Tj
+T*
+(7. Glenn Fleishman on Apple Notes and Markdown) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-26T20:03:53Z) Tj
+T*
+(Link: https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/) Tj
+T*
+(Glenn Fleishman, writing at Six Colors, ?Why Notes Will Never Let Us Edit Markdown?: The Notes) Tj
+T*
+(app added Markdown import and export in the version 26 operating system releases, and the macOS) Tj
+T*
+(27 Golden Gate update lets us copy and paste as Markdown. Why can?t we just write natively in) Tj
+T*
+(that hoary, simple format? I use Markdown all day, every day. In fact, I?m writing these words) Tj
+T*
+(in Markdown without you even knowing it. All content-management systems \(CMSes\) I?m aware of) Tj
+T*
+(support native Markdown entries when posting, and many writing and note-taking apps integrate) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4298 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Markdown conventions without needing to trumpet them. Fleishman not only ably describes why) Tj
+T*
+(Apple Notes doesn?t support editing in Markdown syntax, but also why it shouldn?t . It is) Tj
+T*
+(correct for Notes only to natively support WYSIWYG editing. Normal users should never ever be) Tj
+T*
+(exposed to formatting codes. Also, Markdown, as a language, can be malformed. It should be) Tj
+T*
+(impossible for users to create a malformed note in Notes. If you could edit in Markdown in) Tj
+T*
+(Notes, you could create malformed notes. That?s just gross. I can say that. Markdown isn?t for) Tj
+T*
+(everyone. And even for me ? Markdown?s creator ? I don?t want it in Notes, whic...) Tj
+T*
+() Tj
+T*
+(8. Puzzling out why a program doesn?t work when run from a batch file, but works when) Tj
+T*
+(double-clicked from Explorer) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 26 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/) Tj
+T*
+(Mimicking the operation more accurately. The post Puzzling out why a program doesn?t work when) Tj
+T*
+(run from a batch file, but works when double-clicked from Explorer appeared first on The Old) Tj
+T*
+(New Thing .) Tj
+T*
+() Tj
+T*
+(9. Inversion in an ellipse) Tj
+T*
+(Source: John D. Cook | Published: Mon, 26 Oct 2026 18:39:32 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/26/inversion-in-an-ellipse/) Tj
+T*
+(The previous three post have been part of a series on geometric duality. The traditional but) Tj
+T*
+(somewhat mysterious terminology is the pole of a line and the polar of a point. As explained) Tj
+T*
+(here, the terminology was first coined in the context of spherical geometry where the term) Tj
+T*
+(?pole? makes sense. It was then extended to the [?] The post Inversion in an ellipse first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Where else to find me) Tj
+T*
+(Source: John D. Cook | Published: Mon, 26 Oct 2026 12:04:54 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/26/where-to-find-me/) Tj
+T*
+(This blog is the main place I write, but I also use other platforms, either to write new) Tj
+T*
+(content or to announce blog posts. X \(nÈe Twitter\) I have a several X accounts, one personal) Tj
+T*
+(account \(@JohnDCook\) and several specialized accounts \(@CompSciFact, @AlgebraFact,) Tj
+T*
+(@DataSciFact, etc.\). I announce new blog posts on the most relevant account. RSS [?] The post) Tj
+T*
+(Where else to find me first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Theatre Review: Opera UnTouched's "The Telephone" ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 26 Oct 2026 12:34:15 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/10/theatre-review-opera-untoucheds-the-telephone/) Tj
+T*
+(Why shouldn't an opera be set in an office? Not merely set there; performed there! On Saturday) Tj
+T*
+(night, a couple of dozen audience members were ushered in to a genuine office in Tooting to) Tj
+T*
+(watch a short comic opera by Opera UnTouched. It was a burst of sunshine in a rainy day. We're) Tj
+T*
+(at Ben's leaving party. A flustered woman is busy on the telephone. Will Ben ever get her) Tj
+T*
+(attention? Both Grace?) Tj
+T*
+() Tj
+T*
+(12. Package Management Devroom at FOSDEM 2027: Call for Participation) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-10-26T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/10/26/package-management-devroom-at-fosdem-2027-call-for-particip) Tj
+T*
+(ation.html) Tj
+T*
+(Cross-posted from the Software Stewardship Lab . The Package Management devroom is back at) Tj
+T*
+(FOSDEM 2027, on Sunday 31 January from 13:15 to 17:00 at the UniversitÈ libre de Bruxelles. The) Tj
+T*
+(call for participation is open and submissions close on 1 December at 23:59 UTC, through) Tj
+T*
+(pretalx . Wolf Vollprecht and I ran the devroom at FOSDEM 2026 after putting out last year?s) Tj
+T*
+(call for participation on the Ecosystems blog. The devroom had nine talks, listed in the) Tj
+T*
+(schedule post and written up alongside the rest of the weekend?s package management content in) Tj
+T*
+(Package Management at FOSDEM 2026 . This year there are four of us, with Vlad Miricioiu from) Tj
+T*
+(the Stewardship Lab, who spoke last year, and Travis Hathaway from Anaconda joining Wolf and) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2811 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(me. I?d happily take more talks like these from last year: Matthew Suozzo showed how OSS) Tj
+T*
+(Rebuild instruments the build environment, with a transparent network proxy and an eBPF-based) Tj
+T*
+(system analyzer, to catch suspicious behaviour that a reproducible build check would pass. Ryan) Tj
+T*
+(Gibb presented the Package Calculus , a formal model of dependency resolution that reduces the) Tj
+T*
+(features of different package managers to one core calculus. Vlad Miricioiu covered bi...) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: Sovereign citizens, but for news \(26 Oct 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 26 Oct 2026 15:47:10) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/10/26/abandon-hope/) Tj
+T*
+(Today's links Sovereign citizens, but for news: By reading the LA Times, you agree? Hey look at) Tj
+T*
+(this: Delights to delectate. Object permanence: Patenting tax dodges; 6-word sf; Newscorp) Tj
+T*
+(shareholders v Murdoch; Ancient German ophthalmology cult; Trolley problem is stupid; Trump's) Tj
+T*
+(influence peddling to Chinese millionaire; Al Franken v binding arbitration; Yoga pants spite) Tj
+T*
+(parade; Dems' secret Congressional committee; RIAA v your PC; "Going Under"; "Machine Man";) Tj
+T*
+(Aging goths; "Everfair"; Kremlin will destabilize Ukraine; FCC fronts for Big Cable; Straight) Tj
+T*
+(Outta Vagina; Remixed TED Talk about remixing; Authoritarian debt. Upcoming appearances:) Tj
+T*
+(Vienna, Kilkenny, Courtenay, Vancouver, Oxford, Sheffield, Virtual, Oxford, Montreal. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Sovereign citizens,) Tj
+T*
+(but for news \(permalink\) When it comes to terrible practices by website operators, it takes a) Tj
+T*
+(lot to shock me. I literally wrote the book on the subject. But last night, I encountered a) Tj
+T*
+(piece of genuinely appalling fuckery and I can't get it out of my head, because it's su...) Tj
+T*
+() Tj
+T*
+(14. De IT-onmacht van de Nederlandse overheid) Tj
+T*
+(Source: Bert Hubert's writings | Published: Mon, 26 Oct 2026 15:25:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/de-it-onmacht-van-de-nederlands-overheid/) Tj
+T*
+(Ik schreef eerder een hopelijk vermakelijke parabel over hoe de Nederlandse overheid ?niet zo) Tj
+T*
+(van de IT is?. Ook is er een follow-up met suggesties hoe je dit zou kunnen verbeteren. Door) Tj
+T*
+(mij \(niet AI!\) ingesproken audio versie van deze pagina: In dit stuk wil ik twee specifieke) Tj
+T*
+(voorbeelden uitlichten hoe onmachtig onze overheid is met IT, en ook hoe men dat niet erkent.) Tj
+T*
+(En dat is erg, want dan los je ook nooit iets op.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004778 00000 n 
+0000004904 00000 n 
+0000009872 00000 n 
+0000009998 00000 n 
+0000014348 00000 n 
+0000014474 00000 n 
+0000017338 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+17466
+%%EOF
