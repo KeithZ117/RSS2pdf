@@ -1,0 +1,422 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4149 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-28 14:41:08) Tj
+T*
+() Tj
+T*
+(1. Game Boy Color on My Conference Badge) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-27T19:34:18+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/) Tj
+T*
+(Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last) Tj
+T*
+(year , the conference badge is a full-blown color screen computer. I've been hacking around) Tj
+T*
+(with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full) Tj
+T*
+(NES emulator working on it, and then went a step further and deployed an emulator for both the) Tj
+T*
+(Game Boy and the Game Boy Color. Which means, if you can obtain the ROM, you can run The Legend) Tj
+T*
+(of Zelda: Link's Awakening on your conference badge! A neat feature of the badge is that you) Tj
+T*
+(can turn it upside down and then use game controller touch buttons that are built into the) Tj
+T*
+(badge body. Tags: games , github , hardware-hacking , ai , generative-ai , llms , gemini ,) Tj
+T*
+(steve-francia) Tj
+T*
+() Tj
+T*
+(2. Why don?t we run the taskbar and Task Manager at high priority, so they can remain) Tj
+T*
+(responsive?) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 27 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261027-00/?p=112800/) Tj
+T*
+(Hurry up and wait. The post Why don?t we run the taskbar and Task Manager at high priority, so) Tj
+T*
+(they can remain responsive? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(3. Siri AI Expands to More Languages in OS 27.2) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-27T22:19:39Z) Tj
+T*
+(Link: https://nr.apple.com/Du9G9W8Nq1) Tj
+T*
+(Apple Newsroom yesterday: With the 27.2 software updates released today, Siri AI ? an entirely) Tj
+T*
+(new version of Siri that is profoundly more capable, conversational, and personal ? is) Tj
+T*
+(expanding to more people around the world, with availability now in the French, Japanese,) Tj
+T*
+(Korean, Portuguese, and Spanish languages. [...] Siri AI is currently unavailable in the EU in) Tj
+T*
+(iOS, iPadOS, and watchOS. Apple is working constructively with the EU in an attempt to find a) Tj
+T*
+(path forward. Don?t hold your breath. \(Or if you prefer, N?y comptez pas trop. \) ?) Tj
+T*
+() Tj
+T*
+(4. Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON) Tj
+T*
+(File Format for Keynote) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-27T22:00:04Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features) Tj
+T*
+(-and-even-more-creative-tools/) Tj
+T*
+(Apple Newsroom, with software news for Apple?s ?Pro and Tell? week: Apple today introduced) Tj
+T*
+(transformative updates to Apple Creator Studio , the powerful collection of creative apps) Tj
+T*
+(designed to put studio-grade tools into the hands of modern creators across Mac, iPad, and) Tj
+T*
+(iPhone. Final Cut Pro for Mac now includes built-in MotionVFX ? an expansive collection of) Tj
+T*
+(visual effects, plug-ins, transitions, templates, and motion graphics tools ? as well as) Tj
+T*
+(seamless editing in Pixelmator Pro. Apple?s curated Content Hub now includes video assets and) Tj
+T*
+(is available in Final Cut Pro. Music creators using Logic Pro for Mac gain a new intelligent) Tj
+T*
+(assistant in beta, an enhanced Stem Splitter that now separates drums, and a redesigned Browser) Tj
+T*
+(that incorporates all sounds, with music understanding and even a Splice library. Pixelmator) Tj
+T*
+(Pro introduces Generate Fill, which lets creators transform selected areas of an image using) Tj
+T*
+(natural language. Keynote, Pages, and Numbers introduce new AI features in beta, including) Tj
+T*
+(assistants that understand document context and new Model Context Protocol \(MCP\) support for) Tj
+T*
+(workflow automation. They also add stock video in the Content Hub and new premium themes and) Tj
+T*
+(t...) Tj
+T*
+() Tj
+T*
+(5. ? Prestructured WYSIWYG) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-27T21:24:20Z) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4221 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://daringfireball.net/2026/10/prestructured_wysiwyg) Tj
+T*
+(Even if you?re a decent designer \(or believe yourself to be\), it?s liberating not to have a say) Tj
+T*
+(in the matter. Constraints are sometimes freeing.) Tj
+T*
+() Tj
+T*
+(6. The Exponential Time Hypothesis is False) Tj
+T*
+(Source: John D. Cook | Published: Tue, 27 Oct 2026 12:13:21 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/27/eth-false/) Tj
+T*
+(If you have an expression in n Boolean variables, how long does it take to find out whether) Tj
+T*
+(some assignment of values to the variables makes the expression true? There is an obvious upper) Tj
+T*
+(bound: you can find out in 2n steps by exhaustive search, trying all possible ways of setting) Tj
+T*
+(each variable to true [?] The post The Exponential Time Hypothesis is False first appeared on) Tj
+T*
+(John D. Cook .) Tj
+T*
+() Tj
+T*
+(7. Some thoughts on hosting email) Tj
+T*
+(Source: Maurycy's Blog | Published: Mon, 26 Oct 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/misc/email_thoughts/) Tj
+T*
+(Generally speaking, email isn't as hard as its reputation would suggest. Yes, big-tech) Tj
+T*
+(providers will occasionally send my messages to spam... but paying for commercial email doesn't) Tj
+T*
+(guarantee delivery: emails within a single provider are generally safe, but in my experience,) Tj
+T*
+(big-tech to other big-tech has a ~75% chance. Because of this, having my own mail server is) Tj
+T*
+(great for piece of mind: I can be sure that anyone can send me an email without it mysteriously) Tj
+T*
+(vanishing. My reply might go to spam, but at that point we're already in communication and can) Tj
+T*
+(sort it out. A softer version of self hosting is to keep a big-tech account, but only use it) Tj
+T*
+(for initiating conversations. Point the "reply-to" header at a server you run, and give that) Tj
+T*
+(address when people ask for contact details. Since replies to real emails never go to spam,) Tj
+T*
+(this provides the best of both worlds: maximizing the chance that someone else will get your) Tj
+T*
+(message, while also maximizing the chance that you will get theirs. Receiving email requires: A) Tj
+T*
+(publicly routable IPv4 address Any server: good uptime is not required. A domain [optional]) Tj
+T*
+(Despite it being 2026, many mail servers still don't support IPv6: if you have a...) Tj
+T*
+() Tj
+T*
+(8. Book Review: You Could Do Something Amazing with Your Life [You Are Raoul Moat] -) Tj
+T*
+(Andrew Hankinson ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 27 Oct 2026 12:34:53 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/10/book-review-you-could-do-something-amazing-with-your-lif) Tj
+T*
+(e-you-are-raoul-moat-andrew-hankinson/) Tj
+T*
+(It is hard to write a book in the second person. It is even harder to make it this good. It) Tj
+T*
+(would have been easier to write a salacious cash-in with a dozen shocking revelations in each) Tj
+T*
+(chapter. Instead, Andrew Hankinson attempts to use Raoul Moat's own words to build up a picture) Tj
+T*
+(of the man. You have nine days and your whole life to prove you are more than a callous) Tj
+T*
+(murderer. Go. It is?) Tj
+T*
+() Tj
+T*
+(9. We Won?t ?Just Hang Out?) Tj
+T*
+(Source: Fernando Borretti | Published: Wed, 28 Oct 2026 00:00:00 +1100) Tj
+T*
+(Link: https://borretti.me/article/we-wont-just-hang-out) Tj
+T*
+(On human connection after the Singularity.) Tj
+T*
+() Tj
+T*
+(10. MTL-style circuit simulator) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 27 Oct 2026 00:00:00 +0100) Tj
+T*
+(Link: https://entropicthoughts.com/mtl-style-circuit-simulator) Tj
+T*
+(After the first attempt at making a very side-effectful circuit simulator, and then an) Tj
+T*
+(ambitious attempt at making it pure, I was reminded of a middle ground, using a pattern common) Tj
+T*
+(in production Haskell code. It is called MTL-style effects , and it is a specific type of final) Tj
+T*
+(tagless encoding . The idea is that we first find a set of operations that our circuit) Tj
+T*
+(simulator needs to support. Drawing this boundary well requires some experience and taste. Then) Tj
+T*
+(we encode that limited set of operations into a type class. Here?s one way to do it. In[1]:) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4157 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(class CircuitOperations m where make_wire :: m Wire get_signal :: Wire -> m Signal set_signal) Tj
+T*
+(:: Wire -> Signal -> m \(\) add_action :: Wire -> m \(\) -> m \(\) after_delay :: Int -> m \(\) -> m \(\)) Tj
+T*
+(get_time :: m Int probe_output :: String -> m \(\) propagate :: m \(\) Having read the previous) Tj
+T*
+(article, these operations should sound familiar. I?m sure it?s possible to create a better set) Tj
+T*
+(of operations, but this will suffice to illustrate the point. \(Continue reading the full) Tj
+T*
+(article on the web.\)) Tj
+T*
+() Tj
+T*
+(11. Inches & Miles) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-10-27T14:16:43Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17507724/ai-startups-sketchy-behavior) Tj
+T*
+(The AI era seems to be emboldening startups to once again take bold swings and use your data) Tj
+T*
+(without even bothering to ask so they can build a startup around it.) Tj
+T*
+() Tj
+T*
+(12. Pluralistic: History is something you do \(27 Oct 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 27 Oct 2026 09:08:25) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/10/27/tied-to-the-tracks/) Tj
+T*
+(Today's links History is something you do: Not something that happens to you. Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: Occupy Tents are speech; Piagram; SOPA; "I'm Rob) Tj
+T*
+(Fucking Ford"; Blocking all porn in the UK; Pirates rule Iceland; Shake Shack v shitting to) Tj
+T*
+(death. Upcoming appearances: Vienna, Kilkenny, Courtenay, Vancouver, Oxford, Sheffield,) Tj
+T*
+(Virtual, Oxford, Montreal. Recent appearances: Where I've been. Latest books: You keep readin') Tj
+T*
+(em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All) Tj
+T*
+(the rest. History is something you do \(permalink\) Prediction is hard. Especially about the) Tj
+T*
+(future. That Yogi Berra gem proves that you don't have to be a science fiction writer to get) Tj
+T*
+(irritated with people insisting that you must know what's going to happen tomorrow, but \(as a) Tj
+T*
+(sf writer\), I can tell you that this is one of our main occupational hazards. Obviously, this) Tj
+T*
+(is a self-inflicted injury. Our genre is full of big names who self-mythologized as scientific) Tj
+T*
+(Nostradamuses. From the "future history" bar-charts in Heinlein's books \(I was once on a panel) Tj
+T*
+(with Robert Silverberg where he referred to RAH as "Robert A Timeline"\) to the McG...) Tj
+T*
+() Tj
+T*
+(13. Weekly Update 527: Cybergeddon News v. Reality) Tj
+T*
+(Source: Troy Hunt | Published: Tue, 27 Oct 2026 07:59:09 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-527/) Tj
+T*
+(As the news from last week has settled down, it would seem this headline was pretty spot on.) Tj
+T*
+(The foretold apocalypse didn't eventuate, and there were no internet-destroying outages. In) Tj
+T*
+(fact, it took days before I could find a single story of PHP2Shell being reliably attributed) Tj
+T*
+(back) Tj
+T*
+() Tj
+T*
+(14. The upvote dilemma) Tj
+T*
+(Source: Herman's blog | Published: 2026-10-27T13:05:30.399781+00:00) Tj
+T*
+(Link: https://herman.bearblog.dev/the-upvote-dilemma/) Tj
+T*
+(Hiding upvotes on the discovery feed) Tj
+T*
+() Tj
+T*
+(15. I'm Full-Time Open Source Developer Now) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Tue, 27 Oct 2026 16:00:42 GMT) Tj
+T*
+(Link: https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now) Tj
+T*
+(People get surprised when I mention that I currently maintain not one, not two, but 18 open) Tj
+T*
+(source projects. For most of my career I handled this work on the side of a day job, but with) Tj
+T*
+(my day job now gone I am dedicating more time to open source. This is my attempt to advertise) Tj
+T*
+(what I'm doing a bit better, in case some of you would like to support this work.) Tj
+T*
+() Tj
+T*
+(16. Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference) Tj
+T*
+(Source: Jeff Geerling | Published: Tue, 27 Oct 2026 11:37:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 575 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Since this will be the only source of this process on the Internet 1 , I figured I'd document a) Tj
+T*
+(quick fan swap I did on a piece of test/reference equipment I'm running in my Atomic Clock) Tj
+T*
+(Tower . I took my Torx T10 screwdriver and popped off the top cover. The screws required some) Tj
+T*
+(force to loosen, as they were all secured with Loctite. The inside is simple and serviceable.) Tj
+T*
+(There's a SpectraTime GRClok-1500 , with an integrated timing-grade GPS module, and a) Tj
+T*
+(stabilized 10 MHz output 2 .) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004411 00000 n 
+0000004537 00000 n 
+0000008810 00000 n 
+0000008936 00000 n 
+0000013145 00000 n 
+0000013271 00000 n 
+0000013898 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14026
+%%EOF
