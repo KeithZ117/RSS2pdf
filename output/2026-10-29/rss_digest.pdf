@@ -1,0 +1,502 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4610 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-29 14:48:22) Tj
+T*
+() Tj
+T*
+(1. Getting good at AI takes time and practice) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Wed, 28 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/getting-good-at-ai-takes-time-and-practice/) Tj
+T*
+(Many people think 1 that getting ?good at AI? is trivial. Sure, with some early models there) Tj
+T*
+(were tricks you had to learn, 2 but current models don?t need them. Even if there are different) Tj
+T*
+(tricks 3 that work on current models, the next generation will render them obsolete, so why) Tj
+T*
+(bother? Just tell the model what you want it to do. This take is particularly popular with the) Tj
+T*
+(anti-AI crowd, who scoff 4 at the idea that AI-reluctant people are being left behind, or that) Tj
+T*
+(it might be irresponsible to advise other engineers to avoid AI use entirely. According to) Tj
+T*
+(them, if AI does ever become capable enough to be worth using, they?ll be able to start using) Tj
+T*
+(it with no learning curve. Is that right? No. Like most things, getting good at using AI isn?t) Tj
+T*
+(just about clever tricks. It requires developing long-term skills 5 , which takes time and) Tj
+T*
+(practice. Supplying the right context One failure mode I?ve seen with people who are new to AI) Tj
+T*
+(is expecting it to read their mind: for instance, asking it to ?solve my issue? without ever) Tj
+T*
+(saying what the issue is, or asking it about some Slack-related problem without actually) Tj
+T*
+(connecting your agent to Slack. Agents are flexible and will try their absolute...) Tj
+T*
+() Tj
+T*
+(2. Quoting Ted Sanders) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-28T23:23:21+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/28/ted-sanders/) Tj
+T*
+(In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed) Tj
+T*
+(ordering where the model that is best at math is also the model that's best at jokes. Despite) Tj
+T*
+(that complexity, much of the variation in performance is explained by just a single variable:) Tj
+T*
+(model size. In general, models that are bigger will \(a\) be more performant / reliable, \(b\) cost) Tj
+T*
+(more per token, and \(c\) have better recall of esoteric facts. As you note, our models are) Tj
+T*
+(ordered: Luna [ ... ] These days, version number signifies a few things at once: the order of) Tj
+T*
+(release, the relationship to other releases, and the magnitude of improvement. So something) Tj
+T*
+(like 6.1 would indicate it was launched after 5.6, may share some similarities to other 6.1) Tj
+T*
+(models in terms of training data / personality \(which is why it's not 5.7\), and isn't a giant) Tj
+T*
+(enough leap to merit the headlines and expectations that would come with a 7. ? Ted Sanders ,) Tj
+T*
+(explaining OpenAI's model naming conventions Tags: generative-ai , gpt , openai , ai , llms ,) Tj
+T*
+(ted-sanders) Tj
+T*
+() Tj
+T*
+(3. GitHub Octoverse 2026) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-28T16:45:23+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/28/github-octoverse-2026/) Tj
+T*
+(GitHub Octoverse 2026 I'm at GitHub Universe today \(GitHub gave me a free ticket through their) Tj
+T*
+("GitHub Stars" program\). EVP Jay Parikh just announced this year's Octoverse report, and) Tj
+T*
+(highlighted these numbers in particular: This is a pretty stark representation of the impact of) Tj
+T*
+(agentic engineering on GitHub. In 2026, merged pull requests tripled in less than a year to 220) Tj
+T*
+(million per month. Commits more than tripled to 7.38 billion per month, with most of that) Tj
+T*
+(increase in the second half of this year. New repository rate doubled this year, to 30.3) Tj
+T*
+(million per month. The report includes new numbers by industry, and breaks out numbers for) Tj
+T*
+(repositories that involve "interoperability or reverse engineering". The methodology section) Tj
+T*
+(includes notes about how they did this: Top countries by pushes to public repositories,) Tj
+T*
+(adjusted by profile location . Pushes from each country were summed across the Octoverse year.) Tj
+T*
+(To adjust for biases caused by VPN usage, LLM classification was used to extract the ISO 3166-1) Tj
+T*
+(alpha-2 code from the profiles of GitHub users who contributed pushes during this period [...]) Tj
+T*
+(Industry . Public repositories created 2022 to 2026 were sorted into NAICS sectors by...) Tj
+T*
+() Tj
+T*
+(4. The October inflection point for vibe game development) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-28T13:55:15+00:00) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4789 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://simonwillison.net/2026/Oct/28/vibe-game-development/) Tj
+T*
+(I've written before about how November 2025 was an inflection point for coding agents - the) Tj
+T*
+(point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding) Tj
+T*
+(agents became reliable daily drivers for software engineers. I think we've reached a new) Tj
+T*
+(inflection point in October 2026, and this time it's for vibe coding computer games . Tree) Tj
+T*
+(Appreciator Emberwick Battle Drones Pumpkin Farmer, aka Quarter Sun Cove Four times as) Tj
+T*
+(insulting What happens if someone actually puts the work in? You should build a game! Claude) Tj
+T*
+(Opus 5.5 in particular exhibits meaningful improvements in several areas needed to build a) Tj
+T*
+(compelling game: 3D modeling Music generation \(see Scrimshaw Jukebox \) Game design \(!\) That) Tj
+T*
+(last one is particularly important. Models have been able to create something that looks like a) Tj
+T*
+(game for quite a while now, as seen in my previous experiments . The challenge has been getting) Tj
+T*
+(to a game that's actually fun to play . Game design is a deep subject area. I won't pretend to) Tj
+T*
+(be well versed in it - I know enough to have respect for it as a craft. Creating a novel,) Tj
+T*
+(compelling gameplay loop which challenges players at the right level and provides a) Tj
+T*
+(satisfying...) Tj
+T*
+() Tj
+T*
+(5. C++/WinRT overcorrection: Using make_self and immediately converting it to the) Tj
+T*
+(projected interface) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 28 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261028-00/?p=112803/) Tj
+T*
+(You are taking the scenic route. The post C++/WinRT overcorrection: Using make_self and) Tj
+T*
+(immediately converting it to the projected interface appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(6. Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-29T04:06:15Z) Tj
+T*
+(Link: https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display) Tj
+T*
+(-to-the-mac/) Tj
+T*
+(Steven Levy, writing at Wired with the scoop on the new MacBook Pros \( News+ link \): This) Tj
+T*
+(turnaround is a big deal to Apple fans. Ternus shrugs off the drama. ?The Mac is first and) Tj
+T*
+(foremost an indirect input device, built around the trackpad and keyboard. But I think there?s) Tj
+T*
+(times when it?s comfortable and handy to have touch.? Ternus and Apple want to make sure that) Tj
+T*
+(the Mac faithful don?t panic that the 42-year-old franchise is losing its identity to Apple?s) Tj
+T*
+(gangbusters mobile products. ?We needed to get to a point where adding touch didn?t make the) Tj
+T*
+(product lesser in any way. It didn?t make it heavier. It didn?t make it thicker. That came) Tj
+T*
+(together with the OLED screen, the best display we?ve ever put into a Mac,? Ternus told me.) Tj
+T*
+(?All of these things, and, oh yeah, it has touch as well.? After a long fun day of hands-on) Tj
+T*
+(exploration, briefings, and a slew of demos, not just most, but all of my concerns about) Tj
+T*
+(touchscreen support adversely affecting the Mac UI have been allayed. I love it. These seem) Tj
+T*
+(like exquisite machines even if you never want to touch the screen. I think what Ternus told) Tj
+T*
+(Levy captures the truth of touch?s role: ?All of these things, and, oh yeah, it has touch as...) Tj
+T*
+() Tj
+T*
+(7. Guessing the Name: MacBook Studio?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-28T14:58:45Z) Tj
+T*
+(Link: https://www.macrumors.com/2026/10/28/macbook-studio/) Tj
+T*
+(Joe Rossignol, MacRumors: A teaser video shared by Apple CEO John Ternus today hints at a) Tj
+T*
+(potential name for the rumored MacBook models with touch-enabled OLED displays: MacBook Studio.) Tj
+T*
+([...] Apple is expected to show off the new MacBooks to selected tech reporters and content) Tj
+T*
+(creators at an experience in Los Angeles at 10 a.m. Pacific Time today, and that is the home of) Tj
+T*
+(Hollywood movie studios after all. I went to bed last night thinking ?MacBook Studio? was the) Tj
+T*
+(best guess. I woke up this morning feeling like it was a name worth betting on. It just fits.) Tj
+T*
+(There?s a Mac Studio desktop, Studio Display monitor, and Apple?s suite of pro software tools) Tj
+T*
+(is named Creator Studio ? and they just announced big updates to that yesterday. As I suggested) Tj
+T*
+(yesterday , these should be a new MacBook line, not the new MacBook Pros. If this is the name,) Tj
+T*
+(Rossignol gets the Being Right Point for calling it. \(A bunch of readers chimed in to suggest) Tj
+T*
+(?MacBook Touch?. That wouldn?t work for the same reasons that Apple didn?t even consider) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4849 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(calling the Duo the ?iPhone Fold?. Yes, they used ?Touch? for the iPod Touch of yore, but \(a\)) Tj
+T*
+(that was a different era, and \(b\) that was such a mediocre product name tha...) Tj
+T*
+() Tj
+T*
+(8. What?s Left for ?Pro and Tell? Week: Touch-Enabled OLED MacBooks) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-27T17:59:47Z) Tj
+T*
+(Link: https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/) Tj
+T*
+(Joe Rossignol, MacRumors: Apple on Wednesday will announce 14-inch and 16-inch MacBook Pro) Tj
+T*
+(models featuring touch-enabled OLED displays with thinner bezels, a Dynamic Island instead of a) Tj
+T*
+(notch, M5 Pro and M5 Max chips, and a lighter and slightly thinner design, Bloomberg?s Mark) Tj
+T*
+(Gurman reports . Apple is hosting a private ?Pro and tell? experience in Los Angeles starting) Tj
+T*
+(at 10 a.m. Pacific Time tomorrow. I?m here in LA for the press shindig tomorrow. One thing I?ve) Tj
+T*
+(been thinking about regarding these reported touch-enabled OLED MacBooks is that Gurman has) Tj
+T*
+(reported for months that these new MacBooks will sport M5 Pro and M5 Max chips. Here?s Gurman) Tj
+T*
+(back on June 26 : The MacBook models, positioned at the top of Apple?s lineup, will arrive) Tj
+T*
+(between late this year and early next year, according to people with knowledge of the matter.) Tj
+T*
+(They?re planned to be powered by the existing M5 Pro and M5 Max chips, said the people, who) Tj
+T*
+(asked not to be identified because the plans are private. [...] The first touch-screen 14-inch) Tj
+T*
+(and 16-inch models, code-named K114 and K116, will represent the biggest overhaul of Apple?s) Tj
+T*
+(high-end laptops since the company began moving away from Intel Corp. chips in...) Tj
+T*
+() Tj
+T*
+(9. Psychometrics, vaccines, meat, Kowloon, luggage destruction) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-10-28T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/shorts-8/) Tj
+T*
+(This is a real paper that actually exists Assessing the Psychometric Properties of the) Tj
+T*
+(Dynomight? MBTI: A Comparative Analysis with the Original Myers-Briggs Type Indicator. Journal) Tj
+T*
+(of Psychology and Behavior Studies , 4 \(1\), 27-37. Zrari, A., & Sakale, S. \(2024\). A cohort of) Tj
+T*
+(n=77 participants consented to engage in the study, meeting the inclusion criteria of being) Tj
+T*
+(currently enrolled at the Tulua institution and expressing willingness to participate in both) Tj
+T*
+(the initial assessment and the follow-up session. To assess the longitudinal consistency of the) Tj
+T*
+(Dynomight? MBTI, a second administration of the test was scheduled six weeks after the initial) Tj
+T*
+(session. [?] Empirical findings, as delineated in Table 1, manifested significant positive) Tj
+T*
+(correlations across all dichotomies, indicative of a substantial concordance between the two) Tj
+T*
+(assessments. The correlation coefficient for the Introversion-Extroversion axis was notably) Tj
+T*
+(high \(r = .938, p ?Dynomight?? is repeated in text 77 times. Yeast vaccines More is Different) Tj
+T*
+(has a post on yeast-based vaccines, describing both why yeast-based vaccines are cool \(if not) Tj
+T*
+(self-evident\) and how IRB rules can violate free speech and bodily autonomy make...) Tj
+T*
+() Tj
+T*
+(10. Pluralistic: Agents vs ecommerce \(28 Oct 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 28 Oct 2026 10:54:05) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/10/28/principle-agent-problem/) Tj
+T*
+(Today's links Agents vs ecommerce: Opacity is a feature, not a bug. Hey look at this: Delights) Tj
+T*
+(to delectate. Object permanence: Aibo hacking; Calculator watches; What hath Occupy wrought; Dr) Tj
+T*
+(Seuss v Trek parody; "Blacks for Trump" x murder-cults; "9 Times My Work Has Been Ripped Off.") Tj
+T*
+(Upcoming appearances: Vienna, Kilkenny, Courtenay, Vancouver, Folkestone, Oxford, Sheffield,) Tj
+T*
+(Virtual, Oxford, Montreal. Recent appearances: Where I've been. Latest books: You keep readin') Tj
+T*
+(em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All) Tj
+T*
+(the rest. Agents vs ecommerce \(permalink\) The first widely read piece of tech criticism I ever) Tj
+T*
+(wrote was "Metacrap: Putting the torch to the seven strawmen of the meta-utopia," a response to) Tj
+T*
+(the underlying philosophy of the "Semantic Web" that I published in 2001:) Tj
+T*
+(https://people.well.com/user/doctorow/metacrap.htm The piece holds up surprisingly well today) Tj
+T*
+(\(if I do say so myself\), and not just for its criticism of the ontological incoherence of "web) Tj
+T*
+(semantics." The most relevant concept I develop in that piece is a criticism of any plan that) Tj
+T*
+(starts with "first, everyone else in the world just needs to set aside their needs a...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3580 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(11. The Unbalanced Group Theorem) Tj
+T*
+(Source: John D. Cook | Published: Wed, 28 Oct 2026 11:51:51 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/10/28/the-unbalanced-group-theorem/) Tj
+T*
+(The classification of finite simple groups \(CFSG\) has been called the biggest theorem in) Tj
+T*
+(mathematics. It is big, not necessarily in terms of its importance, but in the sense that its) Tj
+T*
+(proof developed over the course of decades and thousands of pages of journal articles. Two days) Tj
+T*
+(ago Axiom announced it had formalized the proof [?] The post The Unbalanced Group Theorem first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Gadget Review: SoundPEATS CC3 Pro Bluetooth Headphones ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 28 Oct 2026 12:34:54 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/10/gadget-review-soundpeats-cc3-pro-bluetooth-headphones/) Tj
+T*
+(These are easily the most comfortable headphones I've worn. I've literally had them clipped) Tj
+T*
+(around my ears all day without noticing them. The good folks at SoundPEATS have sent me their) Tj
+T*
+(latest cans to wrap around my lugs. I'm a big fan of these new-style "clip on" headphones.) Tj
+T*
+(Rather than encasing your ears, or sticking way down into the wax-mines, these clip over your) Tj
+T*
+(ear. It isn't a tight?) Tj
+T*
+() Tj
+T*
+(13. This Week in Source Control: 28 October 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-10-28T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/10/28/this-week-in-source-control.html) Tj
+T*
+(Alongside package management, I follow new features and security fixes in source control) Tj
+T*
+(clients and in the forges that host repositories, since a lot of what I build, like git-pkgs ,) Tj
+T*
+(reads git repositories and calls forge APIs. This Week in Package Management has been published) Tj
+T*
+(every Saturday since May, and I kept putting git releases and forge news in its Elsewhere) Tj
+T*
+(section. Starting this week, I?m publishing that material as a separate roundup on Wednesdays.) Tj
+T*
+(It covers clients like git, jj, gitoxide, Sapling, Mercurial and Git LFS, and forges like) Tj
+T*
+(GitHub, GitLab, Forgejo, Gitea, Codeberg, sourcehut, Radicle and Tangled. Package managers) Tj
+T*
+(resolving git dependencies and CI systems like GitHub Actions are covered in the Saturday post.) Tj
+T*
+(This first issue covers the fortnight since 11 October, with links from release feeds for those) Tj
+T*
+(tools and forges, the Lobsters vcs tag , Hacker News and my boosts on Mastodon . In that) Tj
+T*
+(fortnight Anthropic, GitHub, Entire and Enroute each published a post about rebuilding source) Tj
+T*
+(control or git hosting for the volume of pushes and checkouts from coding agents. Scaling) Tj
+T*
+(Redesigning source control at Anthropic \(Anthropic Engineering\) describes Scion, an in-h...) Tj
+T*
+() Tj
+T*
+(14. Exit Liquidity) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Wed, 28 Oct 2026 17:51:00 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/exit-liquidity/) Tj
+T*
+(I?m taking a week off of premium as I?ve had a family situation that has absorbed a lot of my) Tj
+T*
+(time this week, but I?ll be back with a barnburner next Friday \(11/6\). In the interim, I?m) Tj
+T*
+(running a week-) Tj
+T*
+() Tj
+T*
+(15. Fake it ?til you make it \(and then keep faking it\)) Tj
+T*
+(Source: Experimental History | Published: Wed, 28 Oct 2026 15:36:04 GMT) Tj
+T*
+(Link: https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then) Tj
+T*
+(links ?n? updates) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004872 00000 n 
+0000004998 00000 n 
+0000009839 00000 n 
+0000009965 00000 n 
+0000014866 00000 n 
+0000014992 00000 n 
+0000018625 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+18753
+%%EOF
