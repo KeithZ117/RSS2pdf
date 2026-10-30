@@ -1,0 +1,462 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4554 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-30 14:52:01) Tj
+T*
+() Tj
+T*
+(1. API credits benefit for eligible ChatGPT subscriptions) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-29T22:48:29+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/29/api-credits/) Tj
+T*
+(API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a) Tj
+T*
+(generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month) Tj
+T*
+(subscribers would get the equivalent quantity of \(expiring\) credits to use with the Anthropic) Tj
+T*
+(API. OpenAI have now launched pretty much exactly the same deal: if you have a $100, $200, or) Tj
+T*
+($500 subscription plan with them you now get that same quantity of credits to apply to one of) Tj
+T*
+(your API organizations. I maintain subscriptions with both companies, so this is great news for) Tj
+T*
+(me! I may even ship some public-facing demos now that the credits are already covered by my) Tj
+T*
+(existing subscriptions. Tags: ai , openai , generative-ai , llms , anthropic , llm-pricing) Tj
+T*
+() Tj
+T*
+(2. Building a multiplayer game world with autonomous Fable-class models) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-29T17:00:26+00:00) Tj
+T*
+(Link:) Tj
+T*
+(https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/) Tj
+T*
+(How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline,) Tj
+T*
+(this piece by Jacob Sansbury describing how they are building Spawn is a fascinating) Tj
+T*
+(exploration of the bleeding edge of what's possible with agentic engineering against frontier) Tj
+T*
+(models. Spawn is a massively multiplayer gaming environment where players can use prompts \(to) Tj
+T*
+(the in-game agent, Savi\) to modify the game world. I fired it up on my phone for a few minutes) Tj
+T*
+(and was able to prompt a castle into existence, then a dragon, then ride the dragon to fly) Tj
+T*
+(around that castle. By Jacob's telling, Spawn is now being developed autonomously by a swarm of) Tj
+T*
+(Fable-powered agents costing over $3 million in tokens per month \("we spend 30x payroll on AI) Tj
+T*
+(tokens"\). Our agents change the live code directly and ship to production hourly, so they read) Tj
+T*
+(every error, bug report and metric themselves. About 60% of our work starts from a production) Tj
+T*
+(error, a Savi bug report \(Savi is the AI you build games with in Spawn\), something odd in our) Tj
+T*
+(logs, or a feature request. Savi files bugs herself. When a user hits one, or Savi hits one in) Tj
+T*
+(the product, she files it. It goes straight to an agent that decides whether...) Tj
+T*
+() Tj
+T*
+(3. Quoting Ben Hylak) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-29T14:06:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/29/ben-hylak/) Tj
+T*
+(every product i use should just be a headless mcp, that feeds into an agent, where i never have) Tj
+T*
+(to think about anything underneath. except for our product, of course. in our product,) Tj
+T*
+(customers love the ui and love us very much. we're special that way. ? Ben Hylak Tags:) Tj
+T*
+(model-context-protocol , ai) Tj
+T*
+() Tj
+T*
+(4. You can just ask AI to do things) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Thu, 29 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/you-can-just-ask-ai-to-do-things/) Tj
+T*
+(One of the most important skills in working with AI is agency : being willing to try new and) Tj
+T*
+(ambitious things. This is true for what you build, but it?s also true for how you build. AI) Tj
+T*
+(models are improving so quickly that most of us are bottlenecked 1 on noticing that AI agents) Tj
+T*
+(can help automate particular tasks. Here are some examples of that from my daily work. Asking) Tj
+T*
+(the agent to run my dev server. Agents are very good at fixing weird dev environment issues) Tj
+T*
+(because they work fast, have infinite patience, and have a huge breadth of knowledge. I almost) Tj
+T*
+(never run the bash commands to start my dev server anymore. Asking the agent to make requests) Tj
+T*
+(to my dev server. Part of why I don?t run my dev server manually is that I don?t make requests) Tj
+T*
+(to it manually either. Instead I?ll say ?okay, now start the dev server and run through the) Tj
+T*
+(happy paths with curl?. The relatively manual process of assembling a set of curl requests and) Tj
+T*
+(validating the output can now be entirely automated 2 . Asking the agent to watch as I make a) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4701 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(production change. Every time I do a deploy or flip feature flags, I ask an agent to poll) Tj
+T*
+(metrics and logs before and after the change. Agents can ingest more logs than...) Tj
+T*
+() Tj
+T*
+(5. The support case of a customer who said that all they could see was a black screen) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 29 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/) Tj
+T*
+(Then again, that is what they asked for. The post The support case of a customer who said that) Tj
+T*
+(all they could see was a black screen appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(6. Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-29T21:03:42Z) Tj
+T*
+(Link: https://developer.apple.com/news/?id=w9mxlhek) Tj
+T*
+(Apple Developer News: Apple is making changes to the Taiwan storefront of the App Store,) Tj
+T*
+(following discussions with the Taiwan Fair Trade Commission. As of October 31, 2026, the) Tj
+T*
+(commission rate for standard Apple In-App Purchase and paid app transactions will be 26% on the) Tj
+T*
+(Taiwan storefront of the App Store on iOS and iPadOS. Currently, that rate is 30%. Well there) Tj
+T*
+(we go. The App Store in Taiwan ? just like in Japan ? is fixed. ?) Tj
+T*
+() Tj
+T*
+(7. A Health Update From Craig Hockenberry) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-29T19:57:21Z) Tj
+T*
+(Link: https://furbo.org/2026/10/28/a-health-update/) Tj
+T*
+(Craig Hockenberry: If you noticed that the Iconfactory sites were kinda broken last week, now) Tj
+T*
+(you know why. It?s because I was kinda broken last week. Now I?m finishing this post from a) Tj
+T*
+(comfy chair on our deck. Typing into the latest version of WordPress and PHP. And I couldn?t be) Tj
+T*
+(happier. No, you teared up a little reading this. Very good news from a very good friend. ?) Tj
+T*
+() Tj
+T*
+(8. Rolfe Winkler at The WSJ: ?The Beleaguered Chip Sellers Getting Their Revenge on Apple?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-29T19:44:11Z) Tj
+T*
+(Link: https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT) Tj
+T*
+(Rolfe Winkler, in a crackerjack story for The Wall Street Journal \(gift link\): Blevins, who) Tj
+T*
+(left Apple in 2022, sometimes set up back-to-back meetings with suppliers so that rival sales) Tj
+T*
+(teams might run into each other, stoking competitive tension. Sales representatives learned to) Tj
+T*
+(pack nutrition bars to sustain them through negotiating sessions that Apple executives) Tj
+T*
+(sometimes pushed past midnight without a dinner break. Blevins?s bad-cop reputation gave his) Tj
+T*
+(staff leverage: They threatened to call him in if contract terms weren?t to their liking. One) Tj
+T*
+(significant contract term allowed Apple to audit its suppliers? books. Flash makers typically) Tj
+T*
+(had to designate Apple as a ?most favored customer,? which guaranteed that no other buyer got a) Tj
+T*
+(lower price, according to people familiar with the agreements. Apple?s audits allowed it to) Tj
+T*
+(verify that no one paid less. Apple caught Micron selling flash at cheaper prices to another) Tj
+T*
+(customer and won an arbitration settlement worth tens of millions of dollars more than a decade) Tj
+T*
+(ago, said people familiar with the dispute. Apple audited its suppliers so often that Blevins) Tj
+T*
+(negotiated a volume discount with the auditor, Deloitte. The whole story is a f...) Tj
+T*
+() Tj
+T*
+(9. "No way to prevent this" say users of only language where this regularly happens) Tj
+T*
+(Source: Xe Iaso's blog | Published: Thu, 29 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/) Tj
+T*
+(In the hours following the release of CVE-2026-98432 for the project Linux , site reliability) Tj
+T*
+(workers and systems administrators scrambled to desperately rebuild and patch all their systems) Tj
+T*
+(to fix a use-after-kfree where retransmitting a crafted connection request while finishing the) Tj
+T*
+(handshake of that same connection causes funny things to happen up to and including arbitrary) Tj
+T*
+(code execution. This is due to the affected components being written in C, the only programming) Tj
+T*
+(language where these vulnerabilities regularly happen. "This was a terrible tragedy, but) Tj
+T*
+(sometimes these things just happen and there's nothing anyone can do to stop them," said) Tj
+T*
+(programmer Prince Julien Hoppe, echoing statements expressed by hundreds of thousands of) Tj
+T*
+(programmers who use the only language where 90% of the world's memory safety vulnerabilities) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4379 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(have occurred in the last 50 years, and whose projects are 20 times more likely to have) Tj
+T*
+(security vulnerabilities. "It's a shame, but what can we do? There really isn't anything we can) Tj
+T*
+(do to prevent memory safety vulnerabilities from happening if the programmer doesn't want to) Tj
+T*
+(write their code in a robust manner." At press time, users of the only programming lang...) Tj
+T*
+() Tj
+T*
+(10. Custom Voices With Qwen3-TTS) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-10-29T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/) Tj
+T*
+(With my kids I?m currently building a little dungeron crawler and we?re trying to learn a bit) Tj
+T*
+(about game development along the way. However given that we live in the modern times of) Tj
+T*
+(increasing capabilities we wanted to get a narrator and voice over. But we also wanted it to) Tj
+T*
+(not sound like everyone?s standard AI voices so I looked into what options there are on the) Tj
+T*
+(table. After some investigation I narrowed down to using Qwen3-TTS which uses voice embeddings) Tj
+T*
+(for custom voices. With a bit of creativity you can also do more with those custom voices than) Tj
+T*
+(appears initially. In case this is of interest to you, this post just covers what we learned) Tj
+T*
+(and with some examples. You can probably point your agent to it and it can do something with) Tj
+T*
+(it. What Qwen Offers Qwen3 is not the only TTS model in town, and it wans?t even my first) Tj
+T*
+(choice. We initially used Kokoro . However Qwen3 supports voice cloning and we wanted to have) Tj
+T*
+(it feel a bit more unique. In practice it?s a bit tricker though. Qwen3 ships three kinds of) Tj
+T*
+(models: 1.7B-Base \(and 0.6B\): clones a voice from a few seconds of reference audio) Tj
+T*
+(1.7B-CustomVoice : comes with nine built-in speakers and instructions 1.7B-VoiceDesign :) Tj
+T*
+(invents...) Tj
+T*
+() Tj
+T*
+(11. Avoid Public Functions Calling Other Public Functions) Tj
+T*
+(Source: matklad | Published: 2026-10-29T00:00:00+00:00) Tj
+T*
+(Link: https://matklad.github.io/2026/10/29/pub-calls-pub.html) Tj
+T*
+(A small-scale rule of thumb. This article will land much better with a concrete example, but I) Tj
+T*
+(am drawing a blank here, so you gotta just blindly trust my say so!) Tj
+T*
+() Tj
+T*
+(12. A New Kind of Chemistry) Tj
+T*
+(Source: Construction Physics | Published: Thu, 29 Oct 2026 15:45:10 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/a-new-kind-of-chemistry) Tj
+T*
+(Thanks to Kyle Schiller at Marathon Fusion for conversations and information that informed this) Tj
+T*
+(essay.) Tj
+T*
+() Tj
+T*
+(13. Celebrating SIM Cards) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Thu, 29 Oct 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/celebrating-sim-cards/) Tj
+T*
+(It?s time to celebrate a little win. The other day, my mom contacted me saying her 10-year-old) Tj
+T*
+(iPhone wouldn?t turn on. After getting a hold of the device and doing some family IT support, I) Tj
+T*
+(concluded the battery was dead. So I bought her a new \(old\) one on Walmart \(SE 3rd gen., if you) Tj
+T*
+(must know\). Her old phone used a SIM card, so I was expecting the process to go something like) Tj
+T*
+(this: Take the SIM out of the old phone Put it in the new phone Setup the device Troubleshoot) Tj
+T*
+(why there was no service Call my Mom?s carrier and work through the issue But step 4 and 5) Tj
+T*
+(never happened. The new phone ?just? connected. I called her number. I texted it. Everything) Tj
+T*
+(worked as expected. Everything worked as expected. Everything worked as expected. I didn?t have) Tj
+T*
+(to Google a single question. I was floored. Flabbergasted. I know I shouldn?t have been because) Tj
+T*
+(that?s how SIM cards are supposed to work, right? Like that?s the whole promise of a SIM card:) Tj
+T*
+(you can seamlessly swap them between phones. And in this case, the tech worked exactly as) Tj
+T*
+(promised. As I write this, I?m kind of amazed at how amazed I am that everything ?just worked?.) Tj
+T*
+(Shout out to anyone who has ever worked on SIM card technology. Mo...) Tj
+T*
+() Tj
+T*
+(14. What I learned about power from LBJ and Robert Moses) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Thu, 29 Oct 2026 16:48:39 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/lessons-in-power) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2063 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Preparing to interview Robert Caro.) Tj
+T*
+() Tj
+T*
+(15. Extremely brief history of PDP computers) Tj
+T*
+(Source: Entropic Thoughts | Published: Thu, 29 Oct 2026 00:00:00 +0100) Tj
+T*
+(Link: https://entropicthoughts.com/history-of-pdp-computers) Tj
+T*
+(I don?t know why I started to put this together. These machines fascinate me, because so much) Tj
+T*
+(of early computing/hacker type culture happened on them. I started writing a table, but) Tj
+T*
+(realised a timeline would be more intuitive. In this graph, the price is for a minimal) Tj
+T*
+(configuration and adjusted for inflation. The time is the memory cycle time, a decent proxy for) Tj
+T*
+(speed. Some notes: The PDP-1 was created mostly as an experiment. At the time, industrial) Tj
+T*
+(control systems used either humans or complicated contraptions of logic boards to make) Tj
+T*
+(decisions. Some engineers at DEC wanted to see if there was a customer base willing to use) Tj
+T*
+(general-purpose computers instead. The PDP-4 was a variant of PDP-1 that was a little slower) Tj
+T*
+(and much cheaper. It was not compatible with the PDP-1. The PDP-4 was upgraded with new chip) Tj
+T*
+(technology and became the PDP-7, which was then optimised further for cost and speed and became) Tj
+T*
+(the PDP-9. The PDP-5 was created when they realised the PDP-1 and PDP-4 machines were overkill) Tj
+T*
+(for industrial control systems. By being smaller, it could be much cheaper, at the cost of) Tj
+T*
+(compatibility with PDP-1 and PDP-4. It was still intended for roughly the same market. The chip) Tj
+T*
+(up...) Tj
+T*
+() Tj
+T*
+(16. Making agents fast - what I've learnt over the last 12 months) Tj
+T*
+(Source: Martin Alderson | Published: Thu, 29 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/making-agents-fast/?utm_source=rss&utm_medium=rss&utm_ca) Tj
+T*
+(mpaign=feed) Tj
+T*
+(Practical lessons on speeding up AI agents: inference speed \(TTFT vs tok/s\), tool call traces,) Tj
+T*
+(building the tooling agents want, and hardware and sandboxing.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004816 00000 n 
+0000004942 00000 n 
+0000009695 00000 n 
+0000009821 00000 n 
+0000014252 00000 n 
+0000014378 00000 n 
+0000016494 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16622
+%%EOF
