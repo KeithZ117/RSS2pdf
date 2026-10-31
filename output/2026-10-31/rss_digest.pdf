@@ -1,0 +1,374 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4459 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-10-31 14:44:12) Tj
+T*
+() Tj
+T*
+(1. dbreunig/nesformer) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-30T21:59:22+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/30/nesformer/) Tj
+T*
+(dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working) Tj
+T*
+(emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can) Tj
+T*
+(now play NES ROMs such as Super Mario Bros \(very slowly\) running inside Qwen! In a comment on) Tj
+T*
+(Hacker News Drew reveals the Opus 5.5 prompts he used to build this system: Read this article) Tj
+T*
+(and any relevant source code: https://divagr.com/blog/qwenputer. Then explore if you could) Tj
+T*
+(emulate the chip and ram in a Nintendo Entertainment System \(as people do today with FPGAs in) Tj
+T*
+(MISTRs\) using this technique. If so, what size model would you have to build and if you could) Tj
+T*
+(use smaller faster ones, could you get it to be at the standard clockspeed. Followed by: I) Tj
+T*
+(think we should build it! Just for fun. It's okay if it's not fast. We want to be able to have) Tj
+T*
+(the weights, and a cli to run them that we can point at a ROM. Apparently Opus found and then) Tj
+T*
+(used this collection of conformance tests for the NES CPU released 15 years ago by Christopher) Tj
+T*
+(Pow. Via Hacker News Tags: games , ai , generative-ai , llms , drew-breunig , qwen ,) Tj
+T*
+(conformance-suites) Tj
+T*
+() Tj
+T*
+(2. Quoting Terk Terkowitz) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-28T10:09:07+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/28/terk-terkowitz/) Tj
+T*
+(If your work does not benefit from current AI tooling, that is a finding, not a failing.) Tj
+T*
+(Document why, share it with your community of peers, bring it to your manager, and work to find) Tj
+T*
+(solutions. An engineer who can explain where AI does not yet help their work is demonstrating) Tj
+T*
+(the judgement we are asking for. ? Terk Terkowitz , An update from Amazon engineering) Tj
+T*
+(leadership on the role of the developer in the age of AI Tags: amazon , generative-ai ,) Tj
+T*
+(agentic-engineering , ai , llms) Tj
+T*
+() Tj
+T*
+(3. Rejoice, leap seconds are dead!) Tj
+T*
+(Source: Jeff Geerling | Published: Fri, 30 Oct 2026 09:00:00 -0500) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/) Tj
+T*
+(There will never be a leap second again. At least not for UTC. At the CGPM , they decided the) Tj
+T*
+(last leap second we'll ever see for UTC, or Coordinated Universal Time, happened back at the) Tj
+T*
+(end of 2016 . Of course they made that decision while I was out on vacation, so I'm just) Tj
+T*
+(getting this video up now: .embed-container { position: relative; padding-bottom: 56.25%;) Tj
+T*
+(height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container) Tj
+T*
+(object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height:) Tj
+T*
+(100%; } But what's the CGPM, why does this matter, and why am I excited about it?) Tj
+T*
+() Tj
+T*
+(4. Sponsorship Openings for Daring Fireball \(Including The Talk Show\)) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-30T22:30:54Z) Tj
+T*
+(Link: https://daringfireball.net/feeds/sponsors/) Tj
+T*
+(Sponsorships have continued selling briskly, of late . Knock on wood. As of yesterday, the next) Tj
+T*
+(opening on the schedule wasn?t until the last week of December, and the Q1 2027 schedule is) Tj
+T*
+(already filling up. However, due to some schedule rejiggering, next week is now open. If you?ve) Tj
+T*
+(got a product or service you think would be of interest to DF?s audience of people obsessed) Tj
+T*
+(with high quality and good design, just email me ? especially if you can act quick for next) Tj
+T*
+(week?s opening. I?m also booking sponsorships for Q1 and Q2 2027, and over half of those weeks) Tj
+T*
+(are already sold. The rate for the two remaining weeks in 2026 is $11,000, and the rate for) Tj
+T*
+(open weeks in 2027 is $12,500. The sponsorship schedule for The Talk Show also has openings,) Tj
+T*
+(including for the next few episodes in November and December. The general rule of thumb is that) Tj
+T*
+(sponsorship spots on The Talk Show cost one-third the rate for the weekly spots on DF. I?m) Tj
+T*
+(happy to work out deals a little lower than that for first-time sponsors. If you?ve got a) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4374 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(product or service you?d like to hear pitched on America?s favorite three-star podcast, get in) Tj
+T*
+(touch . ?) Tj
+T*
+() Tj
+T*
+(5. ? MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-30T21:56:10Z) Tj
+T*
+(Link: https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_a) Tj
+T*
+(nd_m5_max) Tj
+T*
+(I find it useful to organize all of the configuration options into tables on a single page, and) Tj
+T*
+(I figured it might be useful to share this now, before I finish writing my full thoughts on the) Tj
+T*
+(redesigned hardware and displays for the PROLED XDR models.) Tj
+T*
+() Tj
+T*
+(6. The Only Good Easter Eggs Are Whole-Assed Easter Eggs) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-30T17:53:41Z) Tj
+T*
+(Link: https://unsung.aresluna.org/apples-ipod-recreation/) Tj
+T*
+(Marcin Wichary on the original iPod easter egg on Apple Music?s website 404 page: I am usually) Tj
+T*
+(not a fan of easter eggs ? most of them are poorly made ? but this might be the best iPod) Tj
+T*
+(recreation I?ve seen, and it?s an interesting thing to study: I think it generally covers all) Tj
+T*
+(the modes etc. \(with small exceptions\) the typography looks accurate, it has the little) Tj
+T*
+(?haptic? beeps, it has proper acceleration and the scrollbar, it has a little music library) Tj
+T*
+(with various playlists, I have only noticed a few small bugs. It looks real, sounds real, feels) Tj
+T*
+(real. Don?t bother with your easter egg idea if you?re going to half-ass it. ?) Tj
+T*
+() Tj
+T*
+(7. Elegance and intelligence are anticorrelated) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Fri, 30 Oct 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/elegance-and-intelligence-are-anticorrelated/) Tj
+T*
+(Elegance and intelligence can have a surprisingly negative correlation. Intelligent people) Tj
+T*
+(sometimes produce inelegant solutions because they?re capable of rapidly brute-forcing) Tj
+T*
+(problems. If I had to remember a hundred names, I would spend time coming up with clever) Tj
+T*
+(mnemonics. John von Neumann would probably just remember them. There?s a famous von Neumann) Tj
+T*
+(story where he was asked how far a fly must travel if it kept flying between two cyclists who) Tj
+T*
+(were approaching each other at some fixed speed. The trick to the puzzle was to notice that the) Tj
+T*
+(cyclists would take an hour to meet, so the fly must be travelling for an hour: given the fly?s) Tj
+T*
+(speed, it?s then easy to calculate the total distance. When von Neumann solved the puzzle) Tj
+T*
+(instantly, the questioner assumed he?d heard the trick before, but in fact he had just summed) Tj
+T*
+(the infinite series. If you can do that instantly in your head, why bother with the clever) Tj
+T*
+(trick? For software engineers, the most important kind of raw intelligence is often the size of) Tj
+T*
+(your working memory: how many moving pieces you can hold in your head at a given time. Software) Tj
+T*
+(design involves finding elegant ways to reduce that number of moving pieces, typically...) Tj
+T*
+() Tj
+T*
+(8. The Microsoft building that was reportedly haunted) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 30 Oct 2026 14:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261030-00/?p=112815/) Tj
+T*
+(Lots of rumors, little confirmation. The post The Microsoft building that was reportedly) Tj
+T*
+(haunted appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. College will only cost $20 a month) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Fri, 30 Oct 2026) Tj
+T*
+(23:35:13 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/college-will-cost-20-dollars) Tj
+T*
+(From 2020 to 2022, I've encouraged a steady stream of students to pursue their education in) Tj
+T*
+(computer science. Tech companies were hiring like crazy. I would interview 3 candidates a week) Tj
+T*
+(on some occasions. The future of tech seemed to be paved with gold. Any day now, several of) Tj
+T*
+(those students will graduate. I dread opening my inbox and get an email from them asking:) Tj
+T*
+("So... about those jobs?" Things have changed since those crazy old days. Hiring has come to a) Tj
+T*
+(stop. Those graduates will step into a market that looks nothing like what they signed up for.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3543 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Getting a job will be a struggle. If I could see the future, I would have recommended a) Tj
+T*
+(different path. But then again, how could I have known? Hindsight is always 20/20. So this) Tj
+T*
+(leaves me with a dilemma as a parent. What do I tell my own kids? Am I going to push them to) Tj
+T*
+(pursue the same traditional colleges? Will I disburse life savings so they could attend a) Tj
+T*
+(prestigious university? Or will I just buy them a $20 a month AI Subscription? Imagine handing) Tj
+T*
+(a student a textbook straight from a university syllabus. They read a lesson, and then you have) Tj
+T*
+(an AI tutor to quiz them, debate concepts, and break down difficult ideas until they fu...) Tj
+T*
+() Tj
+T*
+(10. Signing and Attestations Across Package Registries) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-10-30T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/10/30/signing-and-attestations-across-package-registries.html) Tj
+T*
+(Package signing and attestations are two ways of attaching evidence to a published artifact so) Tj
+T*
+(that someone downloading it later can check where it came from. A signature binds the bytes to) Tj
+T*
+(a key, either the registry?s or the author?s. A provenance attestation is a signed statement) Tj
+T*
+(about where an artifact came from, usually in-toto and signed through Sigstore . SLSA build) Tj
+T*
+(provenance names the source repository, commit and build workflow, while a publish attestation) Tj
+T*
+(such as PyPI?s records which trusted publisher uploaded the file. Trusted publishing, which) Tj
+T*
+(several registries have added alongside attestations, replaces long-lived API tokens with) Tj
+T*
+(short-lived OIDC credentials from CI. It makes provenance easy to produce because the registry) Tj
+T*
+(receives a verified workflow identity with each upload. Some registries offer trusted) Tj
+T*
+(publishing on its own. The workflow?s identity becomes the publishing credential, so a) Tj
+T*
+(compromised workflow can publish a malicious release. GitHub Actions security in Python) Tj
+T*
+(packages audits those workflows for PyPI. Linux distributions have signed packages for decades.) Tj
+T*
+(Debian builds binaries from uploaded source on its own buildd machines and Fedora builds) Tj
+T*
+(throug...) Tj
+T*
+() Tj
+T*
+(11. Book Review: The God of Small Things by Arundhati Roy ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 30 Oct 2026 12:34:22 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/10/book-review-the-god-of-small-things-by-arundhati-roy/) Tj
+T*
+(I did not care for this one bit. I found it cloying, infantilising, and far too circuitous. It) Tj
+T*
+(starts off as a bit of an overwritten melodrama, where every phrase is a delicious flower) Tj
+T*
+(waiting to bloom, but ends up being a over-sugared mess with a rotten heart. Parts are just) Tj
+T*
+(exhausting to read, with no time to catch your breath between scenes. That can work in some) Tj
+T*
+(books when spaced out -?) Tj
+T*
+() Tj
+T*
+(12. Robert Caro ? The master biographer reflects at 91) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Fri, 30 Oct 2026 16:56:02 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/robert-caro) Tj
+T*
+("A lot of the stuff that I cut out, it's tragic that no one knows it.") Tj
+T*
+() Tj
+T*
+(13. This Week on The Analog Antiquarian) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 30 Oct 2026 17:03:04 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/) Tj
+T*
+(Time Out London \(Elizabethan Edition\)) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004714 00000 n 
+0000004840 00000 n 
+0000009266 00000 n 
+0000009392 00000 n 
+0000012987 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+13113
+%%EOF
