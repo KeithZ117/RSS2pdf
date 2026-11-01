@@ -1,0 +1,426 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4479 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-01 15:11:37) Tj
+T*
+() Tj
+T*
+(1. How We Took Over ChatGPT Accounts) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-31T23:15:22+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/) Tj
+T*
+(How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against) Tj
+T*
+(ChatGPT's implementation of the artifacts pattern \(OpenAI used to call this "Canvas" but it) Tj
+T*
+(looks like the latest revision is called HTML previews \), where interactive custom HTML apps) Tj
+T*
+(are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed) Tj
+T*
+(to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter) Tj
+T*
+(found quite a complex attack chain. OpenAI use the MathLive JavaScript library as part of their) Tj
+T*
+(graph support, and that library includes its own virtual keyboard , which can be triggered in) Tj
+T*
+(the parent page via postMessage\(\) from the sandboxed iframe. That message receiving code uses) Tj
+T*
+(innerHTML , so anything that sends a message can add custom HTML to the parent - and there was) Tj
+T*
+(no mechanism to prevent other sandboxed frames, including HTML preview frames, from calling) Tj
+T*
+(that method. This meant untrusted code in an iframe could insert HTML, and while innerHTML) Tj
+T*
+(doesn't directly execute script elements it could be used to inject a new iframe without) Tj
+T*
+(sandbox restrictions. OpenAI?s CSP rules blocked inline scripts entirely, and only allowe...) Tj
+T*
+() Tj
+T*
+(2. datasette-llm 0.1a9) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-10-31T22:10:01+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Oct/31/datasette-llm/) Tj
+T*
+(Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but) Tj
+T*
+(in the meantime here's a tiny user experience improvement to the underlying datasette-llm) Tj
+T*
+(plugin. It now picks up the default model used by LLM , which means you can start using) Tj
+T*
+(Datasette Agent without needing to explicitly configure a default model: uvx --with) Tj
+T*
+(datasette-agent datasette content.db --internal internal.db Previously you would also need to) Tj
+T*
+(specify a model with -s plugins.datasette-agent.default_model gpt-6-astra . Tags: datasette ,) Tj
+T*
+(llm , datasette-agent) Tj
+T*
+() Tj
+T*
+(3. GM to Pay $220 Million After Betraying Their Own Drivers? Privacy) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-30T17:18:56Z) Tj
+T*
+(Link: https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegatio) Tj
+T*
+(ns-it-violated-consumers-privacy-2026-10-29/) Tj
+T*
+(Jonathan Stempel, reporting for Reuters: General Motors will pay $220 million to settle) Tj
+T*
+(?allegations that it illegally sold drivers? private behavior and location data to brokers, who) Tj
+T*
+(then sold the information to insurers that used it to set and sometimes increase rates. The) Tj
+T*
+(settlement, announced on Thursday, resolves claims by the attorneys general of 35 US states and) Tj
+T*
+(the District ?of Columbia over the automaker?s Smart Driver program, which enrolled millions of) Tj
+T*
+(drivers ?between 2016 and its discontinuation in 2024. Other regulators have also reviewed GM?s) Tj
+T*
+(handling of driver data. GM was accused of pitching Smart Driver to help ?people improve their) Tj
+T*
+(personal driving safety, only to violate drivers? privacy by reneging on its ?promise not to) Tj
+T*
+(sell their data without permission. Many people who signed up were also enrolled in GM?s OnStar) Tj
+T*
+(safety, navigation and diagnostic service. Reuters?s milquetoast headline was ?GM to Pay $220) Tj
+T*
+(Million to Settle Allegations It Violated Drivers? Privacy?. They?re not mere allegations. They) Tj
+T*
+(did it. They just betrayed their customers? privacy to make a few quick bucks. I?ve driven a) Tj
+T*
+(few GM rentals in recent years, and I?d almost certainly never buy o...) Tj
+T*
+() Tj
+T*
+(4. Patrick Stewart Dies at 86) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-30T16:53:09Z) Tj
+T*
+(Link: https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-) Tj
+T*
+(1236742932/) Tj
+T*
+(Aaron Couch, The Hollywood Reporter: Patrick Stewart, the sophisticated actor who brought a) Tj
+T*
+(Shakespearean touch to Star Trek and X-Men as he made an otherworldly transformation from) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4697 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(British stage veteran to sci-fi icon, has died. He was 86. Stewart died Wednesday at his home) Tj
+T*
+(in Los Angeles following ?a brief and poignant journey with Alzheimer?s disease and Lewy body) Tj
+T*
+(dementia,? longtime spokesperson Kelly Bush Novak announced. There?s an old adage that) Tj
+T*
+(everyone?s favorite SNL cast is the one from their teenage years. It?s probably true for Star) Tj
+T*
+(Trek too. My favorite is The Next Generation and it?s not even close. Stewart?s Jean-Luc Picard) Tj
+T*
+(was just so fucking cool. Smart, wise, firm, curious, empathetic, and just fucking cool. Those) Tj
+T*
+(same adjectives seemingly all apply to Stewart himself. See Kottke for a bunch more links . ?) Tj
+T*
+() Tj
+T*
+(5. The Space Shuttle Discovery?s Starboard Side ?s? Is Upside Down) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-29T15:06:56Z) Tj
+T*
+(Link: https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shutt) Tj
+T*
+(le-discovery-and-now-i-cant-unsee-it/) Tj
+T*
+(How Jason Snell beat me to linking to this, I don?t know. But like I said back in February ,) Tj
+T*
+(when it comes to signage, ?Mind your P?s and Q?s? ought to be ?Mind your H?s and S?s?. ?) Tj
+T*
+() Tj
+T*
+(6. Fast and slow ways to improve your reputation) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 01 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/how-to-get-assigned-interesting-work/) Tj
+T*
+(To get a good reputation in tech companies, you need to work on important projects. However,) Tj
+T*
+(you need a good reputation first in order to get assigned important projects. Doesn?t that make) Tj
+T*
+(it impossible to get started? I get a lot of emails from engineers who are struggling with this) Tj
+T*
+(problem. They go like this: I work with a strong senior engineer. I feel like my manager) Tj
+T*
+(structures work so that strong engineer always gets the visible work, and the more they do, the) Tj
+T*
+(more opportunities they get, while I sit on the sidelines. My manager agrees with me that it?s) Tj
+T*
+(time for me to start leading work myself, but every time a new project appears it always goes) Tj
+T*
+(to the strong engineer. What do I do? This is a good case study for what I think of as ?tech) Tj
+T*
+(company theory of mind?: understanding the actual incentives that motivate decisions in tech) Tj
+T*
+(companies, instead of the formal process. According to the formal process, projects should) Tj
+T*
+(probably be assigned round-robin to whoever has capacity and isn?t currently working on one.) Tj
+T*
+(But \(as my emails complain\) this is almost never how it works in practice. A vicious cycle) Tj
+T*
+(Managers care about giving their employees chances to build a reputation, but t...) Tj
+T*
+() Tj
+T*
+(7. Notes from October 2026) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Sat, 31 Oct 2026 06:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/notes-from-october-2026/) Tj
+T*
+(Happy Halloween! Here?s a little of what I got up to in this spooky month. Things I did in) Tj
+T*
+(October I moved this site from an Apache-powered VPS to CDN-frontend object storage. This means) Tj
+T*
+(I pay less money, I do less maintenance, and my site loads faster in most parts of the world.) Tj
+T*
+(Hopefully nobody noticed this change, except that things should be a little snappier! \(Also, my) Tj
+T*
+(old site had a small amount of PHP, which I?m happy to have removed given PHP?s remote code) Tj
+T*
+(execution vulnerabilities this month.\) In an effort to fill in the gaps of the internet , I) Tj
+T*
+(published a short list of Vim forks . At Ghost, my team shipped two additions to our) Tj
+T*
+(automations feature: analytics and more granular triggers . Both of these should help our) Tj
+T*
+(independent publishers grow. More automations stuff on the way! Like every month, I wrote a few) Tj
+T*
+(articles at Zelda Dungeon , including a debate over, perhaps, the most trivial disagreement) Tj
+T*
+(possible . Tech links I clicked on The surveillance state takes another step: pinpointing) Tj
+T*
+(addresses based on interior photos . Thanks, AI! ?How Technology Empowers?and) Tj
+T*
+(Imperils?Dictators? is a reminder that technologists have a social duty. Two lists of tech) Tj
+T*
+(fascists: ?Fashw...) Tj
+T*
+() Tj
+T*
+(8. Gig Review: The Witcher in Concert ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 31 Oct 2026 12:34:18 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/10/gig-review-the-witcher-in-concert/) Tj
+T*
+(The most common way people experience classical style music these days is via movies and) Tj
+T*
+(video-games. After seeing The Force Awakens - live in concert, I've become rather a fan of) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4205 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(watching movies performed with a live soundtrack. But what about watching a video game with) Tj
+T*
+(orchestral accompaniment? We travelled up to Wolverhampton to see "The Witcher": A) Tj
+T*
+(one-of-a-kind live event that transforms?) Tj
+T*
+() Tj
+T*
+(9. Reading List 10/31/26) Tj
+T*
+(Source: Construction Physics | Published: Sat, 31 Oct 2026 12:34:23 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-103126) Tj
+T*
+(Space fiber optic cable manufacturing, nuclear district heating, Spain?s high-speed rail crash,) Tj
+T*
+(China?s spaceplane, and more.) Tj
+T*
+() Tj
+T*
+(10. This Week in Package Management: 31 October 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-10-31T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/10/31/this-week-in-package-management.html) Tj
+T*
+(This week?s package management news, gathered from the package manager OPML feed collection ,) Tj
+T*
+(my posts and boosts on Mastodon , and anything people sent me. Security The Go blog?s eMudhra) Tj
+T*
+(post-incident writeup covers Go?s first URGENT-track security release: Mozilla added eight) Tj
+T*
+(eMudhra intermediates to OneCRL on 17 October, the Go security team was alerted on 19 October,) Tj
+T*
+(and Go 1.27.3 and 1.26.10 shipped under seven and a half hours later with a patch that rejects) Tj
+T*
+(any chain through those intermediates. The post also says Go plans to add revocation checking) Tj
+T*
+(on Linux. A test page shows the git, curl and python3 that Apple ships with macOS still trusted) Tj
+T*
+(the eMudhra intermediates on 28 October, and macOS 27.2 undid the workaround users had applied) Tj
+T*
+(by hand. sbt 1.13.1 and 2.0.12 fix a zip slip in IO.unzip and its variants \() Tj
+T*
+(GHSA-p8jf-532w-4p65 \) that an earlier fix missed. pipx 1.18.7 now requires pip 26.2.2 or later) Tj
+T*
+(in its shared libraries and replaces an older shared pip on the next pipx command instead of) Tj
+T*
+(waiting for the 30-day refresh. Releases Composer 2.11 adds a cooldown dependency policy that) Tj
+T*
+(withholds newly published versions for a configured period during update and require ,...) Tj
+T*
+() Tj
+T*
+(11. Pluralistic: Formalities \(31 Oct 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 31 Oct 2026 15:15:59) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/10/31/burn-berne/) Tj
+T*
+(Today's links Formalities: When it comes to AI, the Copyright Office is restoring copyright to) Tj
+T*
+(its proper status, as something you have to work to get. Hey look at this: Delights to) Tj
+T*
+(delectate. Object permanence: GWB x martial law; Li'l Sparky; Dueling Starbuckses; Microsoft) Tj
+T*
+(buys Skype \(does fuckery\); Bieber v SOPA; SOPA is the worst; Snowden x rule of law;) Tj
+T*
+("Laserwriter II"; Russia v DST; Class war funnies; Minnesota's miracle; Icelandic women v) Tj
+T*
+(sexism; Image analogies; Aussie DMCA ratfucked; "Authorised Domain"; Sales tax is regressive;) Tj
+T*
+(Prince Charles's secret veto; Wells Fargo blackballed workers for refusing to crime; Poe read) Tj
+T*
+(by Vincent Price and Basil Rathbone; Put it back!; The internet was made for privacy. Upcoming) Tj
+T*
+(appearances: Kilkenny, Courtenay, Vancouver, Folkestone, Oxford, Sheffield, Virtual, Oxford,) Tj
+T*
+(Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest.) Tj
+T*
+(Formalities \(permalink\) It's not often that I find myself on the same side as the US Copyright) Tj
+T*
+(Office. In fact, I think this is the first time in 25 years that I've found myself cheering on) Tj
+T*
+(the...) Tj
+T*
+() Tj
+T*
+(12. Hyperlink selected text in Gmail) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Fri, 21 Nov 2025 08:11:00 GMT) Tj
+T*
+(Link: https://danielwirtz.com/blog/gmail-url-paste) Tj
+T*
+(One thing I love about Notion, Slack and other modern apps is how easy it us to create a) Tj
+T*
+(hyperlink:) Tj
+T*
+() Tj
+T*
+(13. DIY CO2 Sensor in Home Assistant) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Sat, 13 Sep 2025 09:32:00 GMT) Tj
+T*
+(Link: https://danielwirtz.com/blog/diy-co2-sensor-home-assistant) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 534 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Since a few months, I have Home Assistant running in my house. It?s a fun hobby and an absolute) Tj
+T*
+(rabbit hole of possibilities to automate every nook and corner?) Tj
+T*
+() Tj
+T*
+(14. Automate your Slack Status) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Fri, 18 Jul 2025 06:40:00 GMT) Tj
+T*
+(Link: https://danielwirtz.com/blog/automate-slack-status) Tj
+T*
+(Last week, I started a new job at Giving What We Can. The team works remotely, and we) Tj
+T*
+(communicate through Slack.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004741 00000 n 
+0000004867 00000 n 
+0000009616 00000 n 
+0000009742 00000 n 
+0000013999 00000 n 
+0000014125 00000 n 
+0000014711 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14839
+%%EOF
