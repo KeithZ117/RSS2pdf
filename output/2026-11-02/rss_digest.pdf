@@ -1,0 +1,340 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4313 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-02 15:24:24) Tj
+T*
+() Tj
+T*
+(1. If in doubt, delete the uv.lock file) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-01T23:24:22+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/) Tj
+T*
+(I've been getting the occasional confusing Python dependency error since switching over to) Tj
+T*
+(Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most) Tj
+T*
+(of my projects are libraries which don't include a uv.lock file, since it's rude for a library) Tj
+T*
+(dependency to lock versions for anything else that uses it. Running uv run pytest etc tends to) Tj
+T*
+(leave uv.lock files lying around, which are listed in .gitignore and so do not get committed to) Tj
+T*
+(my repositories. But... sometimes that uv.lock pins a version of a dependency that doesn't yet) Tj
+T*
+(have a Python 3.15 wheel. An example from earlier today: error: Failed to build) Tj
+T*
+(`watchfiles==1.1.1` cause: Call to `maturin.build_wheel` failed error: the configured Python) Tj
+T*
+(interpreter version \(3.15\) is newer than PyO3's maximum supported version \(3.14\) Deleting that) Tj
+T*
+(file and running uv run pytest again usually fixes the problem. Tags: uv , til , python) Tj
+T*
+() Tj
+T*
+(2. Quoting Kyle Kingsbury) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-01T16:49:04+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/1/kyle-kingsbury/) Tj
+T*
+(More broadly, the use of LLMs erodes trust in documentation, in software, and in the) Tj
+T*
+(organizations which produce them. Perhaps engineers will begin to treat any new software) Tj
+T*
+(project with suspicion?the signals we used to rely on as markers of a mature system are now) Tj
+T*
+(easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct) Tj
+T*
+(software and accurate documentation? Having done that work, how can they demonstrate its) Tj
+T*
+(quality to users? ? Kyle Kingsbury , Jepsen results for ParticleDB 1.1.4 Tags: kyle-kingsbury ,) Tj
+T*
+(llms , ai , generative-ai , ai-misuse) Tj
+T*
+() Tj
+T*
+(3. WorkOS: Let Agents Sign Up for Your App Without a Browser) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-01T20:22:56Z) Tj
+T*
+(Link:) Tj
+T*
+(https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026) Tj
+T*
+(My thanks to WorkOS for sponsoring last week at DF. An agent can?t click through a signup page) Tj
+T*
+(built for humans, so give it something it can read instead. Publish an auth.md file and agents) Tj
+T*
+(register themselves without ever touching a browser login, and the user never gets pulled out) Tj
+T*
+(of what they were doing. With WorkOS auth.md, enroll in the dashboard and AuthKit publishes the) Tj
+T*
+(file. Agents read it, register, and get scoped, short-lived credentials you control. Make your) Tj
+T*
+(app agent-ready today . ?) Tj
+T*
+() Tj
+T*
+(4. Apple Also Announces iMac With M6) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-27T16:44:10Z) Tj
+T*
+(Link: https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/) Tj
+T*
+(Just a speed bump, but speed bumps are good . Pricing and configurations: M6 with 2 Thunderbolt) Tj
+T*
+(ports: Base price: $1500 RAM: 16 GB +0 24 GB +200 SSD: 256 GB +0 512 GB +200 1 TB +500 M6 with) Tj
+T*
+(4 Thunderbolt ports: Base price: $1700 RAM: 16 GB +0 24 GB +200 SSD: 256 GB +0 512 GB +200 1 TB) Tj
+T*
+(+500 2 TB +1000 Base price: $2300 RAM: 32 GB +0 SSD: 512 GB +0 1 TB +300 2 TB +800 I list a) Tj
+T*
+(separate base price for the 4-port, 32 GB RAM configuration in the table above because with 32) Tj
+T*
+(GB of RAM, the base storage goes from 256 to 512 GB. It?s effectively a $400 RAM upgrade and) Tj
+T*
+($200 SSD upgrade that are tied together, and that changes the upgrade prices to move up to 1 or) Tj
+T*
+(2 TB of SSD storage. Nano-texture is a $200 upgrade, and the 2-Thunderbolt-port models have a) Tj
+T*
+($30 option for 2.5 gigabit Ethernet \(by default it?s Wi-Fi only\). The Ethernet port is on the) Tj
+T*
+(power adapter. The 4-port models come with the Ethernet equipped power adapter. ?) Tj
+T*
+() Tj
+T*
+(5. [Sponsor] WorkOS: Let Agents Sign Up for Your App Without a Browser) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-27T16:03:08Z) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4618 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link:) Tj
+T*
+(https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026) Tj
+T*
+(An agent can?t click through a signup page built for humans, so give it something it can read) Tj
+T*
+(instead. Publish an auth.md file and agents register themselves without ever touching a browser) Tj
+T*
+(login, and the user never gets pulled out of what they were doing. With WorkOS auth.md, enroll) Tj
+T*
+(in the dashboard and AuthKit publishes the file. Agents read it, register, and get scoped,) Tj
+T*
+(short-lived credentials you control. Make your app agent-ready ? ?) Tj
+T*
+() Tj
+T*
+(6. Reliably aligning LLMs is impossible in principle) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Mon, 02 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/alignment-is-impossible/) Tj
+T*
+(Powerful AI is unpredictable. Your robotic butler may suddenly decide to kill you 1 for no) Tj
+T*
+(comprehensible reason, in the same way that Bing?s helpful chat AI would sometimes try to) Tj
+T*
+(blackmail or seduce its users. ?Solving alignment? means understanding even superintelligent AI) Tj
+T*
+(minds well enough to be confident they?ll never do that. As I see it, solving alignment for) Tj
+T*
+(LLMs isn?t just impossible, it?s incoherent: we can?t even articulate what it would look like) Tj
+T*
+(to succeed. LLMs are not blind optimizers Prior to LLMs, AI safety researchers thought AI would) Tj
+T*
+(be a ?blind optimizer?: like a chess engine, it would be superhumanly focused on achieving some) Tj
+T*
+(fixed goal. If the goal wasn?t safe \(for instance, ?manufacture cheap paperclips?\), a powerful) Tj
+T*
+(AI might wreak havoc on the way to achieving it. Aligning AI thus meant figuring out how to) Tj
+T*
+(specify the right goal. This is harder than it sounds 2 , but it?s at least possible to imagine) Tj
+T*
+(it happening. Unfortunately, modern LLMs aren?t like chess engines. Instead of being trained on) Tj
+T*
+(some concrete verifiable reward 3 , they?re trained to imitate a giant, highly-varied corpus of) Tj
+T*
+(human writing. This makes them weird . They contain a nearly infinite...) Tj
+T*
+() Tj
+T*
+(7. A unified view of poles and polars) Tj
+T*
+(Source: John D. Cook | Published: Sun, 01 Nov 2026 20:29:54 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/) Tj
+T*
+(I wrote several posts on poles and polars a few days ago. First, I wrote about the dual of a) Tj
+T*
+(spherical triangle, called the polar triangle. Then I wrote about poles and polars in plane) Tj
+T*
+(geometry and briefly mentioned the extension to projective geometry. Poles and polars are a) Tj
+T*
+(little awkward in the plane because [?] The post A unified view of poles and polars first) Tj
+T*
+(appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(8. A Mastodon bot powered by iOS Shortcuts) Tj
+T*
+(Source: Evan Hahn \(dot com\) | Published: Sun, 01 Nov 2026 11:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/mastodon-bot-with-ios-shortcuts/) Tj
+T*
+(In short: I use iOS Shortcuts to run a Mastodon bot. I run a Mastodon bot that posts random) Tj
+T*
+(quotes from The Legend of Zelda: Link?s Awakening . \(The writing in that game is so charming!\)) Tj
+T*
+(I used to run it off a server, but for the past few days, it?s used an iOS Shortcut on my) Tj
+T*
+(phone. How it works The bot is called Ulrira, named after a beloved Link?s Awakening character) Tj
+T*
+(. Ulrira \(the bot, not the character\) samples a line from the text dump, then makes an HTTP) Tj
+T*
+(request to post it. Here?s a screenshot of the full thing: As you can see, everything here is) Tj
+T*
+(hard-coded, from the server credentials to the file name. \(It probably wouldn?t be hard to make) Tj
+T*
+(this more generic, but I didn?t bother.\) This used to be a short, hand-written Bash script. I) Tj
+T*
+(used the new AI-powered Shortcut creator and prompted this into existence. I said something) Tj
+T*
+(like, ?Here?s a Bash script. Turn this into a Shortcut.? Like a lot of LLM output, it wasn?t) Tj
+T*
+(quite right, but it was useful for getting started. Shortcuts doesn?t seem to have an elegant) Tj
+T*
+(way to express something like ?run this every 6 hours?, so I created four additional scheduler) Tj
+T*
+(Shortcuts that call the main one. They run at 12am, 6am, 12pm, and 6pm. That...) Tj
+T*
+() Tj
+T*
+(9. 10 Years on Mastodon) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 01 Nov 2026 12:34:18 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/) Tj
+T*
+(As of today, I've been on the Mastodon social network for 10 years. I think that deserves a) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1780 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(little reflection and celebration. Post by @Edent@mastodon.social View on Mastodon Social) Tj
+T*
+(networks often launch in a blaze of glory but limp out of existence within a year or so. How) Tj
+T*
+(many services have you signed up to, only to gradually drift away from? If you're anything like) Tj
+T*
+(me, your password?) Tj
+T*
+() Tj
+T*
+(10. Notion Web Clipper, but better) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Sat, 24 May 2025 07:04:00 GMT) Tj
+T*
+(Link: https://danielwirtz.com/blog/notion-web-clipper-alternative) Tj
+T*
+(Have you used the Notion Web Clipper?) Tj
+T*
+() Tj
+T*
+(11. 9 Lessons from Selling $250k of Cohort Based Courses) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Fri, 28 Mar 2025 20:32:00 GMT) Tj
+T*
+(Link: https://danielwirtz.com/blog/9-lessons-from-selling-cohort-based-courses) Tj
+T*
+(At the beginning of 2020, as everything shifted online, I co-founded a company called) Tj
+T*
+(Facilitator School.) Tj
+T*
+() Tj
+T*
+(12. Reverse Engineering My #1 Hacker News Article) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Mon, 20 Jan 2025 14:50:00 GMT) Tj
+T*
+(Link: https://danielwirtz.com/blog/successful-hacker-news-article) Tj
+T*
+(About a week ago, I shared a small blog article on Hacker News.) Tj
+T*
+() Tj
+T*
+(13. Weekly Update 528: Reading AI-generated Code & the Economics of Solar) Tj
+T*
+(Source: Troy Hunt | Published: Sun, 01 Nov 2026 07:35:23 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-528/) Tj
+T*
+(By pure timing coincidence, the Proton CEO's AI @ Proton, Engineering Manifesto made headlines) Tj
+T*
+(around the same time as this week's video. The guy's management style and choice of language) Tj
+T*
+(have really rubbed a lot of people up the wrong way, and deservedly so, IMHO.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004568 00000 n 
+0000004694 00000 n 
+0000009364 00000 n 
+0000009490 00000 n 
+0000011322 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+11448
+%%EOF
