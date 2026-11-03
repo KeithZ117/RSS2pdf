@@ -1,0 +1,564 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4634 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-03 15:40:27) Tj
+T*
+() Tj
+T*
+(1. I discovered a sound that leaks your exact location \(and it's everywhere\) - YouTube) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-03T05:32:25+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/) Tj
+T*
+(I discovered a sound that leaks your exact location \(and it's everywhere\) - YouTube Genius) Tj
+T*
+(piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background) Tj
+T*
+(noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference) Tj
+T*
+(them against ADS-B data to find the exact location of the video based on their speed, distance,) Tj
+T*
+(and gaps between different flights. Via Lobste.rs Tags: privacy , youtube) Tj
+T*
+() Tj
+T*
+(2. October sponsors-only newsletter) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-03T05:28:59+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/3/october-newsletter/) Tj
+T*
+(I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor) Tj
+T*
+(\(or start a sponsorship now\) you can access it here . This month: The October inflection point) Tj
+T*
+(for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for) Tj
+T*
+($100+/month subscriptions What I'm using right now My software releases My September newsletter) Tj
+T*
+(can now be seen here , as a preview of what you'll get. Pay $10/month to stay a month ahead of) Tj
+T*
+(the free copy! Tags: newsletter) Tj
+T*
+() Tj
+T*
+(3. llm 0.37) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-02T23:49:30+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/2/llm/) Tj
+T*
+(Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python) Tj
+T*
+(library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol) Tj
+T*
+(and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure) Tj
+T*
+(additional models that use OpenAI-compatible endpoints. I switched the default model \(if you) Tj
+T*
+(have not set your own default\) to gpt-6-luna - half the price of the previous default,) Tj
+T*
+(gpt-5.6-luna . LLM's support for embeddings now accepts that different binary content may have) Tj
+T*
+(different content-type - necessary for models like Gemini Embedding 2 , which can embed text,) Tj
+T*
+(audio, images, and video. A lot of open source maintainers complain about a flood of) Tj
+T*
+(AI-assisted PRs. LLM is my project that has been most affected by this and, to be honest, I'm) Tj
+T*
+(not finding it to be a problem. That's mainly because I have Opus 5.5 or GPT-6 Astra help me) Tj
+T*
+(with triage to spot the most useful fixes! This release includes fixes from 12 authors - almost) Tj
+T*
+(all AI-assisted - and the burden of reviewing them wasn't nearly as great as I expected. I) Tj
+T*
+(really see them as bug reports with attached examples - sometimes I land them, sometimes I...) Tj
+T*
+() Tj
+T*
+(4. Apple Announces Record $114.5B Fourth-Quarter Results) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-03T00:10:53Z) Tj
+T*
+(Link: https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/) Tj
+T*
+(Jason Snell, Six Colors: On Monday, Apple announced record fourth-quarter earnings , with total) Tj
+T*
+(revenue of $114.5B, up 12 percent from the year-ago quarter. iPhone revenue was up 17.5%, Mac) Tj
+T*
+(revenue was up 23.7%, and Services revenue was up 9.8%. Wearables revenue was down 7.9% and) Tj
+T*
+(iPad revenue was down 10.4%. [...] And now, to help you visualize what Apple just announced,) Tj
+T*
+(here is our traditional barrage of charts and graphs. As usual, Snell also has a transcript of) Tj
+T*
+(the analyst call ? Ternus?s first as CEO. My favorite tidbit was his line at the end of this) Tj
+T*
+(answer: Richard Kramer, Arete Research: Your latest MacBook Pros included more iOS features) Tj
+T*
+(like Touch and Dynamic Island as well as, obviously, Siri AI. Should we anticipate further) Tj
+T*
+(close linking of macOS and iOS features, maybe even pointing at some point to a single unified) Tj
+T*
+(OS, either for simplicity or to reduce costs? John Ternus: Look, we are very proud of both the) Tj
+T*
+(Mac and the iPad, and I think what you?ve seen over the years is we?ve really enjoyed the) Tj
+T*
+(ability to bring features and capabilities across the ecosystem and create really compelling) Tj
+T*
+(features that span things between handoff between iPhone and Mac and iPad, and s...) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4529 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(5. [Sponsor] OurCal) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-02T22:43:59Z) Tj
+T*
+(Link: https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=rssitem) Tj
+T*
+(?I didn?t see you put that in the diary.? Sound familiar? Shared calendars solved scheduling,) Tj
+T*
+(not communication. OurCal connects any calendar, new or existing, to a group chat. Changes post) Tj
+T*
+(there automatically, so nobody misses them. Because it?s a messenger, we made everything) Tj
+T*
+(End-to-End Encrypted, certified by France?s cybersecurity agency. It?s native SwiftUI across) Tj
+T*
+(Apple?s platforms, and the App Store just featured it in ?Great apps on iPhone Duo?. We?re) Tj
+T*
+(Apple people, but we think it?s the best shared calendar on Android too. Free to try, then a) Tj
+T*
+(low monthly group subscription. No ads, no tracking. ?) Tj
+T*
+() Tj
+T*
+(6. Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only) Tj
+T*
+(Source: Daring Fireball | Published: 2026-10-27T17:00:46Z) Tj
+T*
+(Link:) Tj
+T*
+(https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/) Tj
+T*
+(Apple Newsroom?s ?Pro and Tell? announcement week continues: Apple today announced the new) Tj
+T*
+(14-inch MacBook Pro with M6 , delivering even more performance, powerful on-device AI) Tj
+T*
+(capabilities, and faster connectivity for college students, business users, creators, and more.) Tj
+T*
+(M6 features an advanced 12-core CPU with the world?s fastest CPU core, so everything from) Tj
+T*
+(productivity tasks to more demanding pro workflows feels incredibly fast and responsive. The) Tj
+T*
+(12-core GPU delivers up to 30 percent faster graphics and up to 25 percent faster AI workloads) Tj
+T*
+(when compared to M5, making the 14-inch MacBook Pro with M6 a compelling value for users who) Tj
+T*
+(need serious power. For those upgrading from M1, the performance gains are even more) Tj
+T*
+(significant, with up to 11× faster graphics and up to 13× faster AI performance. With) Tj
+T*
+(additional Neural Accelerators in the GPU and a Dual 16-core Neural Engine, M6 turns MacBook) Tj
+T*
+(Pro into an even more powerful platform for AI ? from taking advantage of Siri AI and Apple) Tj
+T*
+(Intelligence features across apps and macOS to running LLMs locally, all while preserving user) Tj
+T*
+(privacy. In addition, the 14-inch MacBook Pro features Wi-Fi 7 and Bluetooth 6, while superfast) Tj
+T*
+(storage...) Tj
+T*
+() Tj
+T*
+(7. Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies) Tj
+T*
+(Source: Krebs on Security | Published: Tue, 03 Nov 2026 02:24:31 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes) Tj
+T*
+(-into-proxies/) Tj
+T*
+(Google said today it worked with industry partners to dismantle a botnet made up of more than) Tj
+T*
+(1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the) Tj
+T*
+(user's Internet connection out to strangers and conducts advertising fraud. Experts involved in) Tj
+T*
+(the takedown say the action is likely to sever the botnet's access to more than 10 million) Tj
+T*
+(additional compromised systems, including other Internet of Things \(IoT\) products such as) Tj
+T*
+(Android-based healthcare devices and karaoke machines.) Tj
+T*
+() Tj
+T*
+(8. LLMs are not superhuman at reading and writing neural network weights) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Tue, 03 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link:) Tj
+T*
+(https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/) Tj
+T*
+(A recent paper argues that frontier LLMs can work with neural network weights directly. This) Tj
+T*
+(seems superhuman, but it isn?t. The paper shows that GPT-6 Astra can take a small neural) Tj
+T*
+(network and interact with its weights directly, ?well past what we?d expect from humans or) Tj
+T*
+(conventional algorithms?. Specifically, Astra was able to identify what games a small network 1) Tj
+T*
+(was trained to play just by looking at the weights, and even tweak the weights itself. The most) Tj
+T*
+(impressive result is Astra significantly improving a 0.8B Qwen LLM?s ability on mathematics by) Tj
+T*
+(natively editing its weights. The reason to be excited here is that ?superhuman ability to) Tj
+T*
+(improve language models? is precisely the kind of thing that could cause recursive) Tj
+T*
+(self-improvement. I think a smart human ML researcher could perform all of these tasks .) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4400 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Figuring out what game a model was trained to play based on the network sounds impressive until) Tj
+T*
+(you consider three points: The input channels of the model directly listen to each 8x8 grid) Tj
+T*
+(cell The input channels are labeled \(e.g. ?agent?, ?moving objects?\) It?s thus relatively) Tj
+T*
+(trivial to calculate 2 which parts of the grid the first layer of weights cares about and why) Tj
+T*
+(Here...) Tj
+T*
+() Tj
+T*
+(9. Audience capture) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Tue, 03 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/audience-capture/) Tj
+T*
+(Audience capture is the part that scares me the most about writing on the internet. I have the) Tj
+T*
+(soul of an engineer 1 : when I see a metric like engagement, I want to improve it. I like to) Tj
+T*
+(make the number go up. In fact, the whole environment of online writing is tailor-made to help) Tj
+T*
+(you make engagement numbers go up. It?s trivial to find out how many people are reading my) Tj
+T*
+(posts, and from what sources. Hundreds of link aggregators all over the internet have) Tj
+T*
+(algorithms that will help my most engagement-friendly posts get views, and the comments are) Tj
+T*
+(helpfully sorted by upvotes so I can read the ?best? 2 pieces of feedback straight away. Many) Tj
+T*
+(platforms are set up to financially reward you for engagement, whether that?s by enabling) Tj
+T*
+(advertisement or by straight up paying you out . Leaning into this environment is a huge) Tj
+T*
+(mistake. Views and engagement are valuable to me, but not directly. They are proxy metrics for) Tj
+T*
+(the things I actually care about: Having smart, informed people read and consider my ideas) Tj
+T*
+(Getting feedback from readers who have concrete experience with the topics I write about) Tj
+T*
+(Joining interesting public conversations about the state of the industry Convincing people to) Tj
+T*
+(think...) Tj
+T*
+() Tj
+T*
+(10. Sneaking into the auditorium for the Windows 2000 launch rehearsal) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 02 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/) Tj
+T*
+(Wait, that's not him. The post Sneaking into the auditorium for the Windows 2000 launch) Tj
+T*
+(rehearsal appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(11. Prove you are not a child) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Tue, 03 Nov 2026) Tj
+T*
+(00:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/prove-you-are-not-a-child) Tj
+T*
+(I'm 100% for banning social media for children. I would even extend it to banning it all) Tj
+T*
+(together in its current form. But I am also against the methods for enforcement. The problem) Tj
+T*
+(with banning social media for one group and not another is that you have to differentiate the) Tj
+T*
+(different groups somehow. And right now, in an age where information and personal data means) Tj
+T*
+(everything, there are several entities that are salivating to get this data. I've written) Tj
+T*
+(before about all the problems that come from uploading sensitive data online . It doesn't even) Tj
+T*
+(matter if they delete the data afterward, as long as the data goes through the wire in the) Tj
+T*
+(first place, there is a chance for a leak. What appears to be the same simple request "please) Tj
+T*
+(verify your identity", becomes fundamentally different when mediated by technology. The) Tj
+T*
+(question isn't whether these digital systems will be compromised, but when. And unlike that) Tj
+T*
+(movie theater clerk who can't perfectly recall my birthdate minutes after seeing it, computers) Tj
+T*
+(have perfect memory. They store, copy, backup, and transmit our most sensitive information) Tj
+T*
+(through networks we don't control, to companies we've never heard of, under policies we'll) Tj
+T*
+(nev...) Tj
+T*
+() Tj
+T*
+(12. Making peace with the projective plane) Tj
+T*
+(Source: John D. Cook | Published: Mon, 02 Nov 2026 14:44:02 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/02/projective-plane/) Tj
+T*
+(In my newsletter I give an introduction to the latest few posts and occasionally give some) Tj
+T*
+(additional commentary. In my latest newsletter I wrote Projective space and homogeneous) Tj
+T*
+(coordinates seemed like arbitrary abstractions when I was a student because they were presented) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4431 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(without any motivation. Much later I came to realize that they?re natural, almost [?] The post) Tj
+T*
+(Making peace with the projective plane first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: Autodoxing \(02 Nov 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 02 Nov 2026 08:20:37) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/11/02/agony-verification/) Tj
+T*
+(Today's links Autodoxing: The road to hell is paved with badly thought-through tech policy. Hey) Tj
+T*
+(look at this: Delights to delectate. Object permanence: Shakespeare programming language; DeCSS) Tj
+T*
+(is "pure speech"; Blue Coat sold surveillance tools to Syrian secret police; "Extraordinary) Tj
+T*
+(Catalog of Peculiar Inventions"; Cable prices rose at double the rate of inflation for 20) Tj
+T*
+(years; Supercuts; Antivax x Trump. Upcoming appearances: Kilkenny, Courtenay, Vancouver,) Tj
+T*
+(Folkestone, Oxford, Sheffield, Virtual, Oxford, Montreal. Recent appearances: Where I've been.) Tj
+T*
+(Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll) Tj
+T*
+(keep writin' 'em. Colophon: All the rest. Autodoxing \(permalink\) After 25 years of fighting for) Tj
+T*
+(human rights amid the wreckage of bad tech policy, I'm here to tell you that the road to hell) Tj
+T*
+(is paved with badly thought-through tech policy. The most galling thing about this wreckage is) Tj
+T*
+(that it was both foreseeable and foreseen. Back when Sun Microsystems CEO Scott McNealy was) Tj
+T*
+(telling the world "Privacy is dead, get over it," digital rights advocates were saying, "Not) Tj
+T*
+(only are digital tools pretty dang good at helping you protect your privacy, bu...) Tj
+T*
+() Tj
+T*
+(14. Lorem Ipsum Dot Gov Dot UK) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 02 Nov 2026 12:34:00 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/) Tj
+T*
+(I love testing in production. The thrill of accidentally publishing some dummy data - or taking) Tj
+T*
+(down an entire website - is similar to skydiving without a parachute. Exquisite excitement) Tj
+T*
+(followed by heart-stopping terror. Before going live with a new website or service, it's) Tj
+T*
+(sensible to test how text looks on it. Most people don't test with readable text - it's too) Tj
+T*
+(easy for management to start?) Tj
+T*
+() Tj
+T*
+(15. Pray for Chaos) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-11-01T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/11/01/pray-for-chaos.html) Tj
+T*
+(There?s two basic ways AI can play out, one is order, the other is chaos. Order is the very) Tj
+T*
+(dangerous one . If it turns out that models are actually capable of patching all the exploits,) Tj
+T*
+(it?s hard to imagine what will disrupt the status quo. Fortunately, this seems unlikely, but) Tj
+T*
+(that doesn?t mean order won?t prevail in the short term. At the end of my Yudkowsky debate we) Tj
+T*
+(found a tangible point of disagreement. He thinks AI will be able to find a solution to the) Tj
+T*
+(Prisoner?s dilemma . I know there already is a solution \(it?s defect\), EA people just aren?t) Tj
+T*
+(happy about it. If it won?t be order \(and you better pray it won?t be order\) that leaves chaos.) Tj
+T*
+(AI that can play a whole society in hours can manufacture entire histories, years of archives) Tj
+T*
+(of daily newspapers, and an Internet that never happened. The dead Internet theory is coming) Tj
+T*
+(true before our eyes. Now I can still see the bots, soon I won?t be able to. Scratch that, I) Tj
+T*
+(probably already often can?t. Gwern wrote about this , it?s hard to imagine a vision of humans) Tj
+T*
+(as prompters or enter pressers in 2030. The US AI companies don?t believe they have to offer) Tj
+T*
+(any solution to this, why would they have to justify in any way that their p...) Tj
+T*
+() Tj
+T*
+(16. Pumpkin Seeds) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-11-03T02:49:10Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17514236/cryptids-halloween-ephemera) Tj
+T*
+(Some spare ephemera about Halloween, at exactly the time you need it: A couple days after the) Tj
+T*
+(fact. We got cryptids, celebs, and even an original tune.) Tj
+T*
+() Tj
+T*
+(17. I?ve acquired a new superpower) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Fri, 10 Jan 2025 00:00:00 GMT) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 962 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://danielwirtz.com/blog/spot-the-difference-superpower) Tj
+T*
+(Yesterday, I was browsing Reddit. Midway through my feed, I stumbled upon a video from a German) Tj
+T*
+(TV show, where a 9-year-old girl demonstrated her ability to?) Tj
+T*
+() Tj
+T*
+(18. 12 Advanced Outseta Tips and Use Cases) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Thu, 09 Jan 2025 00:00:00 GMT) Tj
+T*
+(Link: https://danielwirtz.com/blog/advanced-outseta-tips) Tj
+T*
+(Over the past four years, we?ve used Outseta at Facilitator School to sell over $250k in online) Tj
+T*
+(courses and training.) Tj
+T*
+() Tj
+T*
+(19. Creating a Personal URL Shortener with Dub and Raycast) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Mon, 23 Dec 2024 13:07:00 GMT) Tj
+T*
+(Link: https://danielwirtz.com/blog/personal-url-shortener) Tj
+T*
+(I?m a big fan of Raycast and occasionally watch their YouTube videos to stay updated on its) Tj
+T*
+(features.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004903 00000 n 
+0000005029 00000 n 
+0000009610 00000 n 
+0000009736 00000 n 
+0000014188 00000 n 
+0000014314 00000 n 
+0000018798 00000 n 
+0000018926 00000 n 
+0000019940 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20068
+%%EOF
