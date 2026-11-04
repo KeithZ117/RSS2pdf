@@ -1,0 +1,512 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4742 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-04 15:18:56) Tj
+T*
+() Tj
+T*
+(1. Qwen 3.8 27B on my laptop can interpret model weights, too) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-03T16:29:48+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) Tj
+T*
+(Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write) Tj
+T*
+(neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper) Tj
+T*
+(\(OK, the authors classify is as a "blog post", but it's paper-shaped\) found that frontier) Tj
+T*
+(models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine) Tj
+T*
+(learning model - literally a text description of the model containing a bunch of floating point) Tj
+T*
+(numbers. I've been playing with one of the examples from the paper and I'm delighted to share) Tj
+T*
+(that Qwen 3.8 27B running on my laptop can do this as well! Weight-Space Programming Here's the) Tj
+T*
+(highlight from their abstract, describing impressive capabilities for GPT-6 Astra and coining) Tj
+T*
+(the term Weight-Space Programming for when LLMs analyze and modify model weights: Just by) Tj
+T*
+(looking at the raw weights, GPT-6 Astra can tell what a network was trained to do . And without) Tj
+T*
+(any environment feedback, it has no trouble writing, from scratch, small game-playing networks) Tj
+T*
+(that outplay networks trained with PPO for 100 million steps. Likewise, asked to make) Tj
+T*
+(Qwen3.5-0.8B better at math without gradients, Astra identifies an issue in its w...) Tj
+T*
+() Tj
+T*
+(2. The U.S. Census Bureau and ?Super Intelligence?) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-02T13:31:26+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/) Tj
+T*
+(I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced) Tj
+T*
+(by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S.) Tj
+T*
+(corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used) Tj
+T*
+(that chart to demonstrate GPT-5 data analysis , and then to experiment with Claude's new Code) Tj
+T*
+(Interpreter . I decided to try running those numbers again to see what had changed over the) Tj
+T*
+(past year, and in doing so learned that the Bureau has fallen foul of Executive Order 14434 ,) Tj
+T*
+(aka the asinine Super Intelligence one. First, the updated chart Every two weeks the U.S.) Tj
+T*
+(Census Bureau runs a survey called the Business Trends and Outlook Survey \(aka BTOS\). Each time) Tj
+T*
+(it goes to 200,000 businesses out of 1.2 million total - the surveyed group \(a "panel"\) cycles) Tj
+T*
+(such that an individual business only completes the survey every twelve weeks. The latest data) Tj
+T*
+(is published on alternating Thursdays at 10am. I used the most recent numbers \(published) Tj
+T*
+(October 22, 2026\) to create a new version \( GPT-6 Astra Extra High transcript \) of the AI) Tj
+T*
+(adoption chart, updated to reflect both the last twelve months and a change that was m...) Tj
+T*
+() Tj
+T*
+(3. Apple Begins Opening Siri AI to Developers) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-03T23:58:49Z) Tj
+T*
+(Link: https://developer.apple.com/news/?id=gdk2umrf) Tj
+T*
+(Apple Developer: Starting today with the iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3) Tj
+T*
+(betas, a new Developer Preview enables any developer to integrate their app with Siri AI,) Tj
+T*
+(giving businesses and developers new ways to reach and serve their customers. [...] This) Tj
+T*
+(developer beta offers a sneak peek at Siri AI app intents for developers. With this early) Tj
+T*
+(Developer Preview, your app can work directly with Siri AI, giving you a first look at new ways) Tj
+T*
+(to reach and serve your customers. This preview provides early access before first shipping to) Tj
+T*
+(customers in a few months; and with submission to the App Store opening up in the spring,) Tj
+T*
+(developers have time to explore, build, and help shape their experiences before launch. Try it) Tj
+T*
+(out and share your feedback. As you explore early, we will follow up with more details about) Tj
+T*
+(the terms and usage policies for experiences enabled through Siri AI. More to share soon. Greg) Tj
+T*
+(Pierce \(developer of Drafts and other fine apps \): This sounds amazing, and I didn?t think we?d) Tj
+T*
+(see App Intents integration into Siri AI until next WWDC. Siri AI is getting to the point of) Tj
+T*
+(underpromising and overdelivering, which is where you want products to be. In 2025...) Tj
+T*
+() Tj
+T*
+(4. iPad Mini \(A20 Pro\) Review Roundup) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4638 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-11-03T23:45:18Z) Tj
+T*
+(Link: https://www.techmeme.com/261103/p15#a261103p15) Tj
+T*
+(David Pierce at The Verge , on the Acoustic Display: It means the sound fires out of the front) Tj
+T*
+(panel rather than from speaker holes. \(Some TVs currently work the same way.\) It doesn?t sound) Tj
+T*
+(any better than before, maybe a tiny bit bassier, but it also doesn?t sound worse, and if) Tj
+T*
+(anything it?s slightly better to have the sound actually pointed at you instead of out the) Tj
+T*
+(sides of the tablet. Mostly it?s a wash in service of the ruggedization, which is good enough) Tj
+T*
+(for me. Stephen Robles, on YouTube , thinks it sounds muffled at high volumes and doesn?t seem) Tj
+T*
+(to like how you can feel the whole tablet vibrate at high volumes. Tony Polanco at Tom?s Guide) Tj
+T*
+(liked the Acoustic Display sound quality and praised the battery life \(but only had time to run) Tj
+T*
+(the battery test once\): In the Tom?s Guide battery test, which involves continuous web-surfing) Tj
+T*
+(over Wi-Fi with the display set to 150 nits of brightness, the iPad mini 8 lasted for an) Tj
+T*
+(astonishing 14 hours and 24 minutes! That?s nearly four hours longer than the previous model) Tj
+T*
+(and Apple?s claims. John Voorhees at MacStories was impressed by the Mini?s local AI) Tj
+T*
+(performance: The mini?s local AI capabilities extend beyond software optimized for the...) Tj
+T*
+() Tj
+T*
+(5. MKBHD on the New A20 Pro iPad Mini) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-03T23:25:25Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=g6Die8gVFn0) Tj
+T*
+(Marques Brownlee describes the two color choices as ?annoyingly, slightly not black and) Tj
+T*
+(slightly not white,? which is apt. He digs the acoustic display enough that he can imagine) Tj
+T*
+(Apple bringing it to a future high-end iPhone \(like if they do a big redesign next year for the) Tj
+T*
+(20th anniversary\), but he says you can feel the whole iPad shake if you turn the volume up high) Tj
+T*
+(enough. And, of course, he dings it for not having a 120 Hz display, and wonders where Apple) Tj
+T*
+(even sourced a high quality OLED that doesn?t support 120 Hz. I think that?s the wrong question) Tj
+T*
+(to ask. It?s not about the display panel. It?s the display driver , and ProMotion requires a) Tj
+T*
+(display driver that?s enough more expensive that adding it to the iPad Mini would either raise) Tj
+T*
+(the price even further or cut into Apple?s profit margins. It?s the driver, though, not the) Tj
+T*
+(panel, in my understanding. ?) Tj
+T*
+() Tj
+T*
+(6. How do you implement a random-access database when you don?t have random-access) Tj
+T*
+(external storage?) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 03 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261103-00/?p=112825/) Tj
+T*
+(You just store it all in memory, in your own program. The post How do you implement a) Tj
+T*
+(random-access database when you don?t have random-access external storage? appeared first on) Tj
+T*
+(The Old New Thing .) Tj
+T*
+() Tj
+T*
+(7. Pluralistic: Separable \(03 Nov 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 03 Nov 2026 14:19:29) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/11/03/nobody-is-home/) Tj
+T*
+(Today's links Separable: AI makes us deal with paintings without painters, words without) Tj
+T*
+(writers and mathematics without mathematicians. Hey look at this: Delights to delectate. Object) Tj
+T*
+(permanence: Haircase; There's no copyright policy; Sole and despotic dominion; Trump x fraud;) Tj
+T*
+(Brexit requires an act of Parliament; Official Air Travel Replacement Knives; UK hospitals v) Tj
+T*
+(malware. Upcoming appearances: Kilkenny, Courtenay, Vancouver, Folkestone, Oxford, Sheffield,) Tj
+T*
+(Virtual, Oxford, Montreal. Recent appearances: Where I've been. Latest books: You keep readin') Tj
+T*
+(em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All) Tj
+T*
+(the rest. Separable \(permalink\) Long before the Turing Test, there was the touring Edison Test:) Tj
+T*
+(from 1915 to 1925, the scoundrel Thomas Edison put on a traveling show for his phonograph) Tj
+T*
+(machine, touring venues around the USA. Edison set live performers and an Edison phonograph) Tj
+T*
+(playing behind closed curtains that would be periodically pulled aside to reveal that the music) Tj
+T*
+(the audience had taken to be live performance was actually a record player:) Tj
+T*
+(https://www.tomedison.org/blog/edisons-tone-tests Now, if you've ever heard an Edison) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4255 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(phonograp...) Tj
+T*
+() Tj
+T*
+(8. Fraction comparison trick revisited) Tj
+T*
+(Source: John D. Cook | Published: Tue, 03 Nov 2026 14:41:25 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/) Tj
+T*
+(A few years ago I wrote about a curious result: a/b is usually greater than c/d when a + d is) Tj
+T*
+(greater than b + c. And ?usually? means with probability 11/12. As stated in the post, you can) Tj
+T*
+(make this statement rigorous by choosing integers up to size N at random and taking the limit) Tj
+T*
+(as N goes to infinity. We can also choose a, b, c, and d uniformly [?] The post Fraction) Tj
+T*
+(comparison trick revisited first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Euclidean, Spherical, and Projective Geometry) Tj
+T*
+(Source: John D. Cook | Published: Tue, 03 Nov 2026 12:33:10 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/03/spherical-and-projective-geometry/) Tj
+T*
+(Spherical geometry is very tangible because we live on a sphere. Projective geometry seems much) Tj
+T*
+(more exotic, and yet they?re closely related. To show how they?re connected, let?s go back to) Tj
+T*
+(the origins of non-Euclidean geometry. Euclidean geometry Here are Euclid?s five postulates,) Tj
+T*
+(statements about what geometric objects can be constructred. To draw a straight line from [?]) Tj
+T*
+(The post Euclidean, Spherical, and Projective Geometry first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. How a programming might reinvent the projective plane) Tj
+T*
+(Source: John D. Cook | Published: Tue, 03 Nov 2026 10:45:19 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/03/hack-to-rigor/) Tj
+T*
+(This post will show how a graphic programmer?s hack could lead to a rigorous definition of the) Tj
+T*
+(projective plane. As mentioned in the previous post, we start by adding some ?points at) Tj
+T*
+(infinity? to Euclidean plane to take care of exceptional situations. For example, instead of) Tj
+T*
+(saying most pairs of lines intersect at a single [?] The post How a programming might reinvent) Tj
+T*
+(the projective plane first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Just a little AI resistance, as a treat) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 03 Nov 2026 12:34:31 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/) Tj
+T*
+(At the recent EMFCamp, I bumped in to Professor Kate Devlin who was talking a little about the) Tj
+T*
+(AI Resist List. I think one of the useful things we can do is loudly complain about shitty uses) Tj
+T*
+(of AI. Here's an example. As mentioned in a previous post, I'm contacting companies which send) Tj
+T*
+(malformed calendar invites. One of the organisation I contacted was the British online) Tj
+T*
+(supermarket Ocado. They?) Tj
+T*
+() Tj
+T*
+(12. New Article, Annual LFP Charity Discount) Tj
+T*
+(Source: Computer Things | Published: Tue, 03 Nov 2026 18:06:44 +0000) Tj
+T*
+(Link: https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/) Tj
+T*
+(My first blog post for Antithesis is now up! It's called Why Antithesis and is a 2000 word) Tj
+T*
+(overview on the relative merits of Deterministic Simulation Testing as compared to Formal) Tj
+T*
+(Methods \(tldr there's an essential tradeoff between input coverage and code fidelity\). Check it) Tj
+T*
+(out ! Also: last year I did a charity drive for the Greater Chicago Food Depository . It was) Tj
+T*
+(successful enough that I want to run it again! From now until the end of the month, you can get) Tj
+T*
+(Logic for Programmers at half price with the coupon feedchicago2026 . All royalties from that) Tj
+T*
+(coupon will go to the Greater Chicago Food Depository. This is only the pdf for now because I) Tj
+T*
+(have no idea how to make Amazon coupons yet. Thank you!) Tj
+T*
+() Tj
+T*
+(13. I wish tech companies knew more about me) Tj
+T*
+(Source: Rakhim's blog | Published: Tue, 03 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me) Tj
+T*
+("Tech companies are spying on us" is a truism at this point. Endless articles and) Tj
+T*
+(investigations have ensured that everybody is aware: they are spying on us, they listen to our) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3804 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(conversations, they know more about us than we know ourselves, they know you're going to be) Tj
+T*
+(fired or become pregnant or become depressed before it happens... I have never felt anything) Tj
+T*
+(close to that. I get shown ads for products I just purchased. All this spying, machine) Tj
+T*
+(learning, big data result in "he bought a mattress, show him more mattresses". Here, I) Tj
+T*
+(literally just opened a random website with no adblocker, and I see a purple gamepad I recently) Tj
+T*
+(purchased, with two other gamepads: When listening to personalized playlists on Spotify and) Tj
+T*
+(YouTube Music I skip every single electronic track with vocals. I listen to a lot of techno and) Tj
+T*
+(related genres, and the moment someone starts singing I skip the track. I've been doing it for) Tj
+T*
+(years. None of these advanced algorithms have ever noticed this simple pattern. Using Google) Tj
+T*
+(Chrome, logged into my Google account, I searched for info about Google AI plan usage limits,) Tj
+T*
+(got an AI-generated response with a link to the help page, clicked it and ended up, logged out,) Tj
+T*
+(o...) Tj
+T*
+() Tj
+T*
+(14. Running Dry) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 03 Nov 2026 17:16:20 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/running-dry/) Tj
+T*
+(If you haven?t subscribed to Where?s Your Ed At, now?s the best time. I?ve extended the sale ?) Tj
+T*
+(10% off of the $70-a-year subscription for life \( click here! \) ? for new subscribers for) Tj
+T*
+(another week. It?s a) Tj
+T*
+() Tj
+T*
+(15. Runs scored in World Baseball Classic) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 03 Nov 2026 00:00:00 +0100) Tj
+T*
+(Link: https://entropicthoughts.com/sums-of-overdispersed-counts) Tj
+T*
+(In the Spring 2026 edition of the Metaculus Cup one question concerned the number of runs in) Tj
+T*
+(the knockout stage of the World Baseball Classic \(WBC\) in 2026. The community predicted a mean) Tj
+T*
+(of just under 70 runs, with a spread of 60?80. My prediction was 60 runs, with a spread of) Tj
+T*
+(42?80. The actual number ended up being 59 runs ? nearly exactly what I predicted. Let?s see) Tj
+T*
+(how that was done. First, there?s a sloppy way of making a quick guess. It?s not very) Tj
+T*
+(interesting, but it?s a good baseline. Once we have that, we?ll dig into modeling counts on a) Tj
+T*
+(more granular level, and that?s when it gets interesting. Those techniques can be used for all) Tj
+T*
+(sorts of counts, not just sports prediction! I don?t know anything about baseball. I don?t even) Tj
+T*
+(know what a run is, so I had my research assistant count how many runs were in a few of the) Tj
+T*
+(previous WBCs. \(Continue reading the full article on the web.\)) Tj
+T*
+() Tj
+T*
+(16. Bottom-Up Note-Taking in Capacities) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Mon, 16 Dec 2024 00:00:00 GMT) Tj
+T*
+(Link: https://danielwirtz.com/blog/bottom-up-note-taking-in-capacities) Tj
+T*
+(Over the years, my approach to note-taking has changed dramatically. Looking at my old Evernote) Tj
+T*
+(account, I had everything neatly organized into pages and?) Tj
+T*
+() Tj
+T*
+(17. Dynamic website CMS with Notion) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Tue, 26 Nov 2024 00:00:00 GMT) Tj
+T*
+(Link: https://danielwirtz.com/blog/notion-website-cms) Tj
+T*
+(Three years ago, I published the first version of my current website using Chakra UI, Next.js,) Tj
+T*
+(and Airtable.) Tj
+T*
+() Tj
+T*
+(18. Audio notes to Capacities \(iOS Shortcuts\)) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Mon, 21 Oct 2024 00:00:00 GMT) Tj
+T*
+(Link: https://danielwirtz.com/blog/capacities-audio-notes) Tj
+T*
+(I?m currently using Capacities as my daily note-taking tool. There are a lot of things I like) Tj
+T*
+(about capacities.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000005004 00000 n 
+0000005130 00000 n 
+0000009820 00000 n 
+0000009946 00000 n 
+0000014253 00000 n 
+0000014379 00000 n 
+0000018236 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+18364
+%%EOF
