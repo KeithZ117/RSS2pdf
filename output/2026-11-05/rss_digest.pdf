@@ -1,0 +1,486 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4264 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-05 15:45:35) Tj
+T*
+() Tj
+T*
+(1. datasette-llm 0.1a10) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-04T15:26:02+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/4/datasette-llm/) Tj
+T*
+(Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where) Tj
+T*
+(the set of available LLM models was not correctly restricted to just those in the) Tj
+T*
+(configuration. Tags: datasette , llm) Tj
+T*
+() Tj
+T*
+(2. datasette-apps 0.3a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-04T00:29:36+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/4/datasette-apps/) Tj
+T*
+(Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML) Tj
+T*
+(applications inside of Datasette. These can be created by hand, but it's easier to create them) Tj
+T*
+(using LLMs via Datasette Agent . This release improves that integration: Apps can now be tagged) Tj
+T*
+(in Datasette Agent chat messages by typing # , which autocompletes from the apps the user has) Tj
+T*
+(permission to view. New app_add_stored_queries\(\) and app_remove_stored_queries\(\) tools let the) Tj
+T*
+(agent manage which stored queries an app is allowed to call. Granting a write query requires) Tj
+T*
+(approval from the user first. app_create\(\) now checks that each requested stored query exists) Tj
+T*
+(and that the user can view it, and asks the user to approve any write queries before the app is) Tj
+T*
+(created. The "View app" buttons shown by the agent tools, and the links on # app references,) Tj
+T*
+(now open the app full screen in the Datasette Agent panel. Tags: datasette , datasette-agent ,) Tj
+T*
+(datasette-apps) Tj
+T*
+() Tj
+T*
+(3. datasette-agent 0.5a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-03T23:13:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/3/datasette-agent/) Tj
+T*
+(Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most) Tj
+T*
+(notable new feature is called the panel - it lets the agent chat open and then sit next to) Tj
+T*
+(pages from Datasette, for example a table or query page. When combined with datasette-apps this) Tj
+T*
+(means you can prompt a database-backed app into existence and then modify it from the chat that) Tj
+T*
+(sits next to that app. You can try it by signing in with your GitHub account to) Tj
+T*
+(agent.datasette.io . Tags: projects , datasette , datasette-agent) Tj
+T*
+() Tj
+T*
+(4. This Election Will Not Look Surprising in History) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-04T15:15:51Z) Tj
+T*
+(Link: https://apple.news/Afq6SKrYkTcCEHrCEQmxm5A?web_embed_link=aHR0cHM6Ly9uZXdzLWFzc2V0cy5hcHB) Tj
+T*
+(sZS5jb20vZW1iZWRzLzY2ZDQzYzg0LTMyMWYtNGQ0Ny05Mzk4LWE3NjE3NDgwZWE2Yi9pbmRleC5odG1sI2NvbnRleHQ9TU) Tj
+T*
+(9EQUwmc3RpY2t5PWZhbHNlJmVmZmVjdD1ub25lJmxpZ2h0X2JnX2NvbG9yPWU5ZWNmMiZkYXJrX2JnX2NvbG9yPTJkM2Q1N) Tj
+T*
+(CZzY29wZT11cyZvcmlnaW49c2hhcnJvdyZsaXZlYWN0aXZpdGllcz10cnVlJm5mZl9jaWQ9NTZjMjQ1OTQtNDIxNC00NDM0) Tj
+T*
+(LTlhNTgtNWE1YTIxM2ZkMTBi) Tj
+T*
+(This striking map from Apple News tells the story of the magnitude of the shift since 2024. The) Tj
+T*
+(late Lindsey Graham, on Twitter back in May 2016 \(punctuation sic \): If we nominate Trump, we) Tj
+T*
+(will get destroyed.......and we will deserve it. The wheels of history grind slowly, but they) Tj
+T*
+(do grind. By the time of his death, Graham was amongst the lickspittlest of Trump?s GOP) Tj
+T*
+(toadies. Graham?s idiot sister ran for his vacant Senate seat in South Carolina and lost .) Tj
+T*
+(Former representative Liz Cheney, at the January 6 hearings in 2021 : I say this to my) Tj
+T*
+(Republican colleagues who are defending the indefensible. There will come a day when Donald) Tj
+T*
+(Trump is gone, but your dishonor will remain. Winston Churchill, perhaps apocryphally :) Tj
+T*
+(Americans can always be trusted to do the right thing, once all other possibilities have been) Tj
+T*
+(exhausted. Abraham Lincoln : You can fool some of the people all of the time, and all of the) Tj
+T*
+(people some of the time, but you can not fool all of the people all of the time. ?) Tj
+T*
+() Tj
+T*
+(5. ?Political Reckoning Shatters Trump?s Grip on Washington?) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4891 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-11-04T14:56:47Z) Tj
+T*
+(Link: https://www.wsj.com/politics/elections/a-political-reckoning-shatters-trumps-grip-on-wash) Tj
+T*
+(ington-bd3c7705?st=xABDit) Tj
+T*
+(Aaron Zitner, reporting for the Rupert Murdoch-owned Wall Street Journal: Rarely in American) Tj
+T*
+(politics has a president traded away so much political support so quickly. The losses that) Tj
+T*
+(Republicans suffered on Tuesday marked one of the most decisive repudiations of a president in) Tj
+T*
+(modern history. President Trump had re-entered the White House with advantages he lacked in his) Tj
+T*
+(first term: a victory in the popular vote, a cadre of aides eager to expand his authority and) Tj
+T*
+(cultural currency that had NFL players doing the ?Trump dance? in the end zone. Only two years) Tj
+T*
+(later, his political standing has collapsed, all because of a dramatic miscalculation of his) Tj
+T*
+(power to shape events. A war of choice with Iran and tariffs imposed on U.S. trading partners) Tj
+T*
+(betrayed his promise to avoid foreign entanglements and tame inflation. His extraordinary) Tj
+T*
+(interventions in his party?s primaries left Republicans with a set of unusually weak) Tj
+T*
+(candidates. The Democrats went from out of power in Washington to a massive majority in the) Tj
+T*
+(House and an apparent 55-45 or even 56-44 majority in the Senate. Keisha Lance Bottoms was) Tj
+T*
+(elected the first black woman governor in history ? in Georgia . By a 9-point margin. Texa...) Tj
+T*
+() Tj
+T*
+(6. Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-03T19:26:41Z) Tj
+T*
+(Link: https://www.macrumors.com/2026/11/03/ios-27-3-safari/) Tj
+T*
+(Juli Clover, MacRumors: With iOS 27.3, iPadOS 27.3, and macOS Golden Gate 27.3, Apple is making) Tj
+T*
+(major updates to Safari. The browser is getting a Vertical Tabs layout, which can be used) Tj
+T*
+(instead of the standard horizontal tab bar. It?s a change that pairs well with the iPhone Duo?s) Tj
+T*
+(larger display, but it is available across iPhone, iPad, and Mac. Vertical Tabs are located on) Tj
+T*
+(the left side of the display and use icons by default to save space, but there is an option to) Tj
+T*
+(make the tab bar wider to show website titles as well. Vertical Tabs work with both Topics and) Tj
+T*
+(Tab Groups to keep things organized. Topics are created when automatic Apple Intelligence tab) Tj
+T*
+(sorting is turned on in iOS 27. Pinning tabs by dragging, quickly swapping between Tab Groups,) Tj
+T*
+(and other features also continue to work. I got an advance demo of this last week and I?m) Tj
+T*
+(really looking forward to trying it. I?ve gotten very used to horizontal tabs over the years,) Tj
+T*
+(but a long time ago I was a devoted user of the Omni Group?s OmniWeb browser, of which one of) Tj
+T*
+(my favorite features was its vertical tabs. That was so long ago, the tabs went in a drawer .) Tj
+T*
+(Apple is adding Adaptive Dark Mode for websites that don?t have a dark...) Tj
+T*
+() Tj
+T*
+(7. Goodhart's Law, but We Already Spent All Our Money) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Wed, 04 Nov 2026) Tj
+T*
+(08:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/we-spent-all-our-money-goodharts-law) Tj
+T*
+(Here is how to make any sports fan angry. Basketball is just a bunch of grown men bouncing a) Tj
+T*
+(ball and throwing it into a basket. Football is a bunch of grown men running on grass trying to) Tj
+T*
+(kick a ball into a net, yes that football. And baseball... Oh boy, baseball. I've used these) Tj
+T*
+(lines many times to piss people off and to justify my complete lack of athletic feats. But the) Tj
+T*
+(counter-argument I always get is that football is a multi-billion-dollar industry, or that a) Tj
+T*
+(specific player makes more money than I will ever see in a lifetime. If I counter that video) Tj
+T*
+(games are just for kids, because of course I'd say that, I get a similar response: Video games) Tj
+T*
+(make more money than all of these sports combined. It's all true. But nobody is telling me why) Tj
+T*
+(basketball is important. Nobody tells me how good the game is, how people bond over it, how it) Tj
+T*
+(brings a community together, or that it is simply healthy to stay active. Whether it's) Tj
+T*
+(basketball, football, video games, or \(God forgive me\) baseball, it all boils down to the exact) Tj
+T*
+(same measuring stick: how much money the activity generates. If the importance of a thing is) Tj
+T*
+(only measured by how much money it makes, then we will aim to make more mon...) Tj
+T*
+() Tj
+T*
+(8. There are things with ranks, but it?s not always clear what the ranks mean) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 04 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261104-00/?p=112830/) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4567 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(The problem with documentation written by people who know the feature too well. The post There) Tj
+T*
+(are things with ranks, but it?s not always clear what the ranks mean appeared first on The Old) Tj
+T*
+(New Thing .) Tj
+T*
+() Tj
+T*
+(9. Want to Rent an Internet Address at the White House?) Tj
+T*
+(Source: Krebs on Security | Published: Thu, 05 Nov 2026 04:36:17 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/) Tj
+T*
+(Several staffers at the White House are using computers or mobile devices equipped with) Tj
+T*
+(residential proxy services that render their internet address available for others to rent,) Tj
+T*
+(security experts warned today. One of the proxy services is a Russian company whose founder's) Tj
+T*
+(web hosting business was ground zero for cyberattacks against election systems in Arizona and) Tj
+T*
+(Illinois in 2016.) Tj
+T*
+() Tj
+T*
+(10. Book Review: Practice by Rosalind Brown ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 04 Nov 2026 12:34:07 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/book-review-practice-by-rosalind-brown/) Tj
+T*
+(I have a simple rule - if I meet someone at a party and they say they've written a book, then I) Tj
+T*
+(will immediately buy that book. It's a strategy which has worked out well; leading me to some) Tj
+T*
+(truly interesting and delightful prose. Rosalind Brown \(a fellow UEA graduate\) has written a) Tj
+T*
+(stunning little book. Practice is an almost Proustian meander through a day-in-the-life of a) Tj
+T*
+(young woman going?) Tj
+T*
+() Tj
+T*
+(11. This Week in Source Control: 4 November 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-11-04T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/11/04/this-week-in-source-control.html) Tj
+T*
+(This week?s version control and forge news, gathered from release feeds for source control) Tj
+T*
+(clients and forges, the Lobsters vcs tag , Hacker News, and my boosts on Mastodon . Package) Tj
+T*
+(management news is in the Saturday This Week in Package Management roundup. Scaling Scaling Git) Tj
+T*
+(at OpenAI \(Aaron Friel, Taylor Blau and Ted Nyman, OpenAI\) describes Pando, a Rust backend for) Tj
+T*
+(git repositories that now serves all development in OpenAI?s monorepo. Each push is stored as) Tj
+T*
+(an immutable packfile in blob storage, and each branch update records a ref version in a) Tj
+T*
+(metadata store, so pushes contend only when they target the same ref. The trade-off is causal) Tj
+T*
+(consistency, so a client reading several branches can see them at different points in time.) Tj
+T*
+(When a new branch is pushed, Pando advertises only trunk, which keeps the pushed pack reusable) Tj
+T*
+(for anyone who already has trunk, and the median pack produced this way was under 20 KiB. On a) Tj
+T*
+(fetch, Pando sends an empty packfile in the response and lists the packs the client needs as) Tj
+T*
+(packfile-uri links. The client downloads those packs from a regional cache with a hit rate) Tj
+T*
+(above 99%. Background compaction merges small packs into larger ones in levels, up...) Tj
+T*
+() Tj
+T*
+(12. Pluralistic: The AI fatfinger economy has come for my receipts app \(04 Nov 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 04 Nov 2026 11:45:02) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/11/04/genius-scan-is-neither/) Tj
+T*
+(Today's links The AI fatfinger economy has come for my receipts app: Every heretofore useful) Tj
+T*
+(button now summons a useless AI genie. Hey look at this: Delights to delectate. Object) Tj
+T*
+(permanence: Army Times v Rumsfeld; RIAA v soccer mom; Skateboard truck table; Internet) Tj
+T*
+(scare-story prof won't show her workings; IoT botnet v Liberia; BLM v TPP. Upcoming) Tj
+T*
+(appearances: Kilkenny, Courtenay, Vancouver, Folkestone, Oxford, Sheffield, Virtual, Oxford,) Tj
+T*
+(Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The AI) Tj
+T*
+(fatfinger economy has come for my receipts app \(permalink\) "AI is being shoved down our) Tj
+T*
+(throats" can mean any of several things. It can mean that our bosses are demanding that we use) Tj
+T*
+(AI in reckless or nonsensical ways on the job:) Tj
+T*
+(https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ It can) Tj
+T*
+(mean that Elon Musk and the NASDAQ have colluded to force ordinary retirement savers to bail) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2814 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(out his emirati and tech oligarch buddies:) Tj
+T*
+(https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html These are arguably the) Tj
+T*
+(most importa...) Tj
+T*
+() Tj
+T*
+(13. ?It Gives Great Demo?) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Wed, 04 Nov 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/it-gives-great-demo/) Tj
+T*
+(There?s that famous video of Steve Jobs explaining why they don?t didn?t make touchscreen) Tj
+T*
+(MacBooks: We thought about [a touch screen MacBook] years ago. We?ve done tons of user testing) Tj
+T*
+(on this and it turns out it doesn?t work! Touch surfaces don?t want to be vertical. It gives) Tj
+T*
+(great demo. But after a short period of time, you start to fatigue. And after an extended) Tj
+T*
+(period of time, your arm wants to fall off. It doesn?t work. It?s ergonomically terrible. Touch) Tj
+T*
+(surfaces want to be horizontal [?] that?s why we?ve perfected our multitouch trackpads over the) Tj
+T*
+(years. I?m not going to weigh in on the new MacBooks. But what I find specifically intriguing) Tj
+T*
+(in this video ? and broadly relevant ? is that phrase: ?It gives great demo.? Damn, that is a) Tj
+T*
+(great line for so much of technology. ?It gives great demo.? Something that looks amazing when) Tj
+T*
+(it?s presented to you, but in practical day-to-day use you discover, ?Actually this is kinda) Tj
+T*
+(terrible.? Demo is everything nowadays. Whatever can garner attention. Who cares if it works in) Tj
+T*
+(practice, does it give great demo? Because demo time is sale time. The purpose of a demo is to) Tj
+T*
+(get your attention. To make you think about the product and that it exis...) Tj
+T*
+() Tj
+T*
+(14. Utrecht Ultra 2024 Race Report) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Tue, 13 Aug 2024 00:00:00 GMT) Tj
+T*
+(Link: https://danielwirtz.com/blog/utrecht-ultra-2024-race-report) Tj
+T*
+(On August 3rd at 17:55, I found myself amidst a sea of nervous cyclists at the start of the) Tj
+T*
+(Utrecht Ultra 2024, an ultra-cycling race spanning approximately?) Tj
+T*
+() Tj
+T*
+(15. Pyrenees Gear Packing List) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Fri, 07 Jun 2024 00:00:00 GMT) Tj
+T*
+(Link: https://danielwirtz.com/blog/pyrenees-bikepacking-gear-packing-list) Tj
+T*
+(I recently did a 2-week bikepacking trip to the Spanish Pyrenees. Below you find my packing) Tj
+T*
+(checklist list of everything I took with me and some commentary on?) Tj
+T*
+() Tj
+T*
+(16. New Discovery: Readwise & Reader) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Thu, 18 Jan 2024 00:00:00 GMT) Tj
+T*
+(Link: https://danielwirtz.com/blog/readwise-reader) Tj
+T*
+(I?ve recently discovered Readwise and Reader, and have become a subscriber after a 30-day) Tj
+T*
+(trial. Especially the Reader is amazing.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004526 00000 n 
+0000004652 00000 n 
+0000009595 00000 n 
+0000009721 00000 n 
+0000014340 00000 n 
+0000014466 00000 n 
+0000017333 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+17461
+%%EOF
