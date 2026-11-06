@@ -1,0 +1,364 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4196 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-06 15:45:09) Tj
+T*
+() Tj
+T*
+(1. Quoting Paul Ford) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-05T17:34:03+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/5/paul-ford/) Tj
+T*
+(The web browser is very, very, very powerful software for applications, and the cost of) Tj
+T*
+(accessing that power is going down seemingly every day . ? Paul Ford , The Web Is More Than) Tj
+T*
+(Enough Tags: browsers , paul-ford , web-development) Tj
+T*
+() Tj
+T*
+(2. llm 0.37.1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-03T21:41:42+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/3/llm/) Tj
+T*
+(Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An ,) Tj
+T*
+(Arjan Mossel , and XQ . Tags: llm) Tj
+T*
+() Tj
+T*
+(3. Salon Ceases Publication) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-05T21:31:04Z) Tj
+T*
+(Link: https://www.salon.com/2026/11/05/goodbye-from-salon/) Tj
+T*
+(Salon, in an unsigned goodbye post: Thirty-one years is a remarkable run, but what matters most) Tj
+T*
+(is what happened during those years: the journalism, the ideas, the voices, the conversations) Tj
+T*
+(and the community that grew around them. Salon helped demonstrate what digital journalism could) Tj
+T*
+(be and could become. We hope that legacy will continue to matter long after today. Andy Baio :) Tj
+T*
+(I hope the archives stay online, but considering the care taken for this announcement, I doubt) Tj
+T*
+(it. Salon felt old and established when I started Daring Fireball in 2002. They were pioneers) Tj
+T*
+(of treating the web as a first-class medium. A quick search indicates that I?ve linked to Salon) Tj
+T*
+(in 27 posts here, starting with this one in 2003 \(which was primarily a retort to a Paul Boutin) Tj
+T*
+(column for Slate\), and most recently with this April 2025 post that linked to a 2013 Salon) Tj
+T*
+(article . ?) Tj
+T*
+() Tj
+T*
+(4. Meta Releases Mac Version of Edits) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-05T20:27:05Z) Tj
+T*
+(Link: https://edits.instagram.com/blog/edits-desktop-video-editor/) Tj
+T*
+(From Instagram?s Edits blog: I?m Brett Westervelt, and I lead the Edits app. In just over a) Tj
+T*
+(year, 50 million people have made Edits part of how they bring ideas to life, and we?re excited) Tj
+T*
+(to expand what Edits can do for creators. Today we?re bringing Edits to the big screen. The) Tj
+T*
+(first version of our desktop editor is now available for macOS. We?ve designed it to support) Tj
+T*
+(more involved projects, where a larger screen and the precision of a mouse and keyboard really) Tj
+T*
+(matter. Just like Edits on mobile, we?ll be updating our desktop app every week, so let us know) Tj
+T*
+(what you think and what you?d like to see next. Edits isn?t an app I need but I?m glad to see) Tj
+T*
+(the resurgence in native Mac app development continue. I mean Instagram waited 15 years before) Tj
+T*
+(they supported the iPad with their main app. Now they?ve got a native Mac video editor. That?s) Tj
+T*
+(cool, and the app seems good. Looks like it?s SwiftUI? Someone on the team needs to go through) Tj
+T*
+(the entire menu bar and properly title-case all the menu item commands, but overall it passes) Tj
+T*
+(the sniff test. \(It supports MacOS 15 Sequoia, but the icon looks lame ? a sharp-cornered) Tj
+T*
+(square .\) But I can?t help but think this just shows how Apple has ceded...) Tj
+T*
+() Tj
+T*
+(5. The New York Times \(et al.\) Sues Brave for Copyright Infringement, Selling Scraped) Tj
+T*
+(Content to AI Companies for Model Training) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-03T15:46:25Z) Tj
+T*
+(Link: https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times) Tj
+T*
+(Jay Peters, The Verge: The New York Times and a group of other publications have filed lawsuits) Tj
+T*
+(against the company that makes the Brave web browser over alleged unlawful scraping to train AI) Tj
+T*
+(and also letting users bypass their paywalls, as reported by Reuters . According to a complaint) Tj
+T*
+(filed by the New York Daily News, the Chicago Tribune, and the Orlando Sentinel, Brave Software) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4665 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(has monetized its index of scraped websites by, in part, providing AI companies with paid) Tj
+T*
+(access to ?real-time online content from the Brave Index.? The AI companies then use that index) Tj
+T*
+(to train their models, access content to ?respond to specific user queries,? or both. Brave has) Tj
+T*
+(allegedly provided ?stolen copyrighted content? to ?many? AI companies including Anthropic,) Tj
+T*
+(Perplexity, Mistral, xAI, and Cohere. Brave also promotes ?hundreds of top publishers? as being) Tj
+T*
+(accessible through its ?Paywall blocker? feature in its browser. Brave?s monetization) Tj
+T*
+(strategies have long been shifty AF . ?) Tj
+T*
+() Tj
+T*
+(6. It's unbreakable in theory) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Thu, 05 Nov 2026) Tj
+T*
+(20:20:10 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/unbreakable-in-theory) Tj
+T*
+(I've seen the picture of the iPhone Duo, still in the store, perched on a stand, its screen) Tj
+T*
+(flickering with broken white lines. Apple has touted testing the screen hinge, opening it) Tj
+T*
+(mechanically thousands of times. The phone survived every test it was put through. Yet here it) Tj
+T*
+(is, on the stand, with a broken screen. Wait till the product meets its first customer. I'm) Tj
+T*
+(sure the tests worked in theory and in the delicate hands of its engineers. But customers') Tj
+T*
+(hands are anything but delicate. Remember Elon Musk's wrecking ball? They must have tested the) Tj
+T*
+(Cybertruck's window beforehand, but it took just one person outside the test group to break the) Tj
+T*
+(glass with a single throw. I remember when my nephew was barely a year old, not even able to) Tj
+T*
+(walk. I handed him a wooden spoon in the living room as a distraction while I ran to the) Tj
+T*
+(kitchen to get some food. As soon as I got there, I heard a snap. I came back to find this) Tj
+T*
+(little boy holding the spoon, broken in two. It was a hard spoon, and there was no way his) Tj
+T*
+(one-year-old hands could break it in half, yet there was the proof in front of me. So yes,) Tj
+T*
+(Apple tested the rigidity of the screen with fancy machines, but the iPhone Duo never stood) Tj
+T*
+(a...) Tj
+T*
+() Tj
+T*
+(7. A database is a store for global variables) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Fri, 06 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/a-database-is-a-store-for-global-variables/) Tj
+T*
+(Databases are for storing global variables. We usually call them ?rows? or ?records? instead,) Tj
+T*
+(but they?re definitionally global variables: any part of your program can read or write them.) Tj
+T*
+(Isn?t this kind of weird? It?s common programming advice that global variables are bad, and yet) Tj
+T*
+(many elegant programs rely on databases. Either the common advice is wrong, or there?s) Tj
+T*
+(something special about databases that makes them the exception to the rule. What?s so bad) Tj
+T*
+(about global variables? Here?s the two main 1 reasons, in my view: They allow any part of your) Tj
+T*
+(program to implicitly send data to any other part instead of passing it around via function) Tj
+T*
+(signatures They couple different parts of your program: if one part depends on a variable) Tj
+T*
+(having some value, any other part can break it Both of these apply to databases. Any part of) Tj
+T*
+(your program that makes a query can send and receive data from any other part of your program.) Tj
+T*
+(In practice this happens all the time: one function will save some data on a record, and) Tj
+T*
+(another one will check for it. And if you haven?t seen bugs where some piece of code makes some) Tj
+T*
+(incorrect expectation about the shape 2 of a database column, you haven?t been working...) Tj
+T*
+() Tj
+T*
+(8. You shouldn?t change the style of a Win32 static control after it has been created) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 05 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261105-00/?p=112835/) Tj
+T*
+(It doesn't really handle that case. The post You shouldn?t change the style of a Win32 static) Tj
+T*
+(control after it has been created appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Gadget Review: Tozo NC9 Pro Bluetooth Headphones ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 05 Nov 2026 12:34:17 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/gadget-review-tozo-nc9-pro-bluetooth-headphones/) Tj
+T*
+(The most interesting thing about these headphones isn't the headphones; it's their case. The) Tj
+T*
+(good folks at Tozo have sent me a pair of their new ear-blasters. They're a fairly standard) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 2780 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(pair of in-ear headphones. Sound quality is good, noise cancelling is excellent, battery life) Tj
+T*
+(is fine. You know, all pretty standard. But what's actually a little bit special is the) Tj
+T*
+(charging case. As well?) Tj
+T*
+() Tj
+T*
+(10. Pluralistic: Without CDA 230, Facebook will own the internet forever \(05 Nov 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 05 Nov 2026 08:53:45) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/11/05/see-you-in-court/) Tj
+T*
+(Today's links Without CDA 230, Facebook will own the internet forever: Small, well-managed) Tj
+T*
+(online communities are especially vulnerable to legal threats. Hey look at this: Delights to) Tj
+T*
+(delectate. Object permanence: "Perfect Thing"; Recruiters tell students Iraq war is over;) Tj
+T*
+(Toothpick Final Fantasy replicas; "Eleanor & Park"; Voter Suppression Trail; "Science Comics) Tj
+T*
+(Computers." Upcoming appearances: Kilkenny, Courtenay, Vancouver, Folkestone, Oxford,) Tj
+T*
+(Sheffield, Virtual, Oxford, Montreal. Recent appearances: Where I've been. Latest books: You) Tj
+T*
+(keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Without CDA 230, Facebook will own the internet forever \(permalink\) The) Tj
+T*
+(road to hell is paved with the depraved indifference to badly considered tech policy. The) Tj
+T*
+(internet is one of those charismatic hyperobjects that wraps around our lives in myriad ways,) Tj
+T*
+(so tech policy changes have a big blast radius. This isn't a counsel of despair. I firmly) Tj
+T*
+(believe that we can make tech policy, and furthermore, that we must, but that policy has to be) Tj
+T*
+(crafted in a way that's mindful of collateral damage. Take scraping. Most creative workers are) Tj
+T*
+(r...) Tj
+T*
+() Tj
+T*
+(11. The benchmark where AIs have to lie to win) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Thu, 05 Nov 2026 21:05:50 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/clocktower) Tj
+T*
+(AIs are now good enough to run a conspiracy) Tj
+T*
+() Tj
+T*
+(12. Niche Online Tournaments) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Tue, 02 Jan 2024 20:45:00 GMT) Tj
+T*
+(Link: https://danielwirtz.com/blog/niche-online-tournaments) Tj
+T*
+(One of my favorite activities to kill time is watching tournament games of niche ? somewhat) Tj
+T*
+(quirky ? online tournaments.) Tj
+T*
+() Tj
+T*
+(13. My Favorite Personal Websites) Tj
+T*
+(Source: Blog ? Daniel Wirtz | Published: Wed, 27 Dec 2023 20:05:00 GMT) Tj
+T*
+(Link: https://danielwirtz.com/blog/favorite-personal-websites) Tj
+T*
+(Throughout the last three years, I?ve collected interesting personal blogs and small websites) Tj
+T*
+(in a Raindrop collection.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004451 00000 n 
+0000004577 00000 n 
+0000009294 00000 n 
+0000009420 00000 n 
+0000012252 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+12378
+%%EOF
