@@ -1,0 +1,424 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4416 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-07 14:52:26) Tj
+T*
+() Tj
+T*
+(1. Quoting Nilay Patel) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-06T17:13:12+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/6/nilay-patel/) Tj
+T*
+(The products aren't good enough to sell people on the costs. You cannot tell people that you) Tj
+T*
+(have to listen to the whine of a data center in their backyard for AI overviews and some of the) Tj
+T*
+(most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone.) Tj
+T*
+(And agents aren't real and they might not be being used the way that anyone wants them to yet.) Tj
+T*
+(All these companies are spending more than they're making on these products. Refrigerators) Tj
+T*
+(holding blood storage in Europe are being hacked. The costs are too high. The benefits are not) Tj
+T*
+(real. And if you connect that to corruption, you're like, in order to impose these costs on me,) Tj
+T*
+(these CEOs are in the White House shaking Trump's hand, renaming it to the Gulf of America,) Tj
+T*
+(paying for this ballroom that we don't want. It's obvious crypto-corruption, and it's still) Tj
+T*
+(slop. The AI industry will not get out of it until they make better products . Until everyone) Tj
+T*
+(can see without needing to be convinced, without needing an ad campaign, without any of this) Tj
+T*
+(stuff that just using these products makes your life better. ? Nilay Patel , The Vergecast: Big) Tj
+T*
+(Tech lost big in the 2026 election Tags: nilay-patel , slop , ai , gene...) Tj
+T*
+() Tj
+T*
+(2. Working with designers) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sat, 07 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/working-with-designers/) Tj
+T*
+(I love working with designers, in part because \(unlike managers and product managers\) they?re) Tj
+T*
+(culturally different from engineers. However, having more than one designer on a team is asking) Tj
+T*
+(for trouble, and I have complicated negative thoughts about design systems. Design is a strange) Tj
+T*
+(role Designers demonstrate their value immediately. While working on some feature, I?ll) Tj
+T*
+(typically put together some placeholder UI that I?m reasonably happy with. I then show it to a) Tj
+T*
+(designer, who strokes their chin and says ?hmm, I have some ideas here?. They then go away and) Tj
+T*
+(produce a mockup UI that is not just clearly better, but better in ways I could not have) Tj
+T*
+(imagined. There aren?t any other roles at a tech company where you can see the value at a) Tj
+T*
+(glance. Designers are an unusual role in other ways, too. Engineering managers, product) Tj
+T*
+(managers, and engineers all come from broadly the same stock: technical, detail-oriented) Tj
+T*
+(planners. We are people of the spreadsheet. In fact, many managers and product managers were) Tj
+T*
+(once engineers: it?s a natural transition. Not so for designers. I?m sure they exist, but I?ve) Tj
+T*
+(never met any designers who started out as engineers. Because of this, designers are cultur...) Tj
+T*
+() Tj
+T*
+(3. Libghostty 1.0) Tj
+T*
+(Source: Mitchell Hashimoto | Published: Fri, 06 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://mitchellh.com/writing/libghostty-1-0) Tj
+T*
+(\(No summary\)) Tj
+T*
+() Tj
+T*
+(4. Writing English is Solved) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Fri, 06 Nov 2026) Tj
+T*
+(08:00:00 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/english-is-solved) Tj
+T*
+(Maybe you still struggle to write in Pulaar, or in your rinky-dink language. But here in the) Tj
+T*
+(AI-connected, English-speaking world, we don't need to write anymore. In fact, I don't remember) Tj
+T*
+(the last time I wrote English. I have one master agent that I talk to and tell what I need to) Tj
+T*
+(get done. It breaks down the tasks and serves them to spawned agents that get the work done. I) Tj
+T*
+(spend $3,000 a month on tokens. I use them mostly for: Research and search Summarization and) Tj
+T*
+(transcription Writing \(the big one\) Art and music My great transition this year, as a) Tj
+T*
+(programmer, was that once I accepted that AI can merge code without needing my review, I could) Tj
+T*
+(let go. What this meant was that when AI writes English for me, I no longer need to review it) Tj
+T*
+(before publishing. It can write English, and it writes it well. Okay, let me add this here) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4368 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(before I go too far: /s . I read this blog post yesterday, and I'm always baffled to hear) Tj
+T*
+(technical people write these words : Writing code is solved. As a software engineer who uses) Tj
+T*
+(AI, I feel like I must be holding it wrong. I've found a correlation between the number of) Tj
+T*
+(lines of code written and the number of bugs found. Whether a person or a model generate...) Tj
+T*
+() Tj
+T*
+(5. Why are we all worked up about atomicity when applying hot-patches if we can just) Tj
+T*
+(suspend all the threads?) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 06 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261106-00/?p=112838/) Tj
+T*
+(Suspending all the threads stops the threads that are there now, those are not the only) Tj
+T*
+(possible sources of change. The post Why are we all worked up about atomicity when applying) Tj
+T*
+(hot-patches if we can just suspend all the threads? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(6. ? Touch and Glow) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-06T19:50:46Z) Tj
+T*
+(Link: https://daringfireball.net/2026/11/touch_and_glow) Tj
+T*
+(Apple?s ?Pro and Tell? event in Los Angeles, the new MacBook Pros with PROLED XDR displays, and) Tj
+T*
+(the state of the Macintosh platform.) Tj
+T*
+() Tj
+T*
+(7. Apple Support: ?About the Illuminated Apple Logo on MacBook Pro With PROLED XDR) Tj
+T*
+(Display?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-06T15:03:51Z) Tj
+T*
+(Link: https://support.apple.com/en-us/149248) Tj
+T*
+(Apple Support: To make the Apple logo dark in all lighting conditions, you can turn off its) Tj
+T*
+(illumination using Terminal, which is in the Utilities folder of your Applications folder. You) Tj
+T*
+(can also use Spotlight to find and open it. Type or paste this command in Terminal, then press) Tj
+T*
+(Return: sudo defaults write com.apple.CoreBrightness LEBacklightMode -int 0 [...] To turn logo) Tj
+T*
+(illumination on again, enter this command in Terminal: sudo defaults delete) Tj
+T*
+(com.apple.CoreBrightness LEBacklightMode Apple might make this a GUI setting, but if I were) Tj
+T*
+(them, I?d keep it this way. Make the people without fun in their souls use the Terminal) Tj
+T*
+(command. \(Keeping it as a defaults setting also helps emphasize that you save no meaningful) Tj
+T*
+(battery life by turning it off. If this gets exposed as a GUI preference, I could see it) Tj
+T*
+(spreading as a dumb-ass ?pro tip? to turn it off to save battery life, like the unshakeable) Tj
+T*
+(utterly wrongheaded belief millions hold that they should religiously force-quit apps on iOS,) Tj
+T*
+(when in fact doing so chews up more energy when the apps get relaunched from a cold start.\) ?) Tj
+T*
+() Tj
+T*
+(8. The President is Coping Well) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-06T15:00:22Z) Tj
+T*
+(Link: https://www.wsj.com/politics/policy/trump-signs-proclamation-he-says-will-protect-oval-of) Tj
+T*
+(fice-from-major-changes-93f3285b) Tj
+T*
+(The WSJ, ?Trump Signs Proclamation He Says Will Protect Oval Office From Major Changes?:) Tj
+T*
+(President Trump signed a proclamation Thursday that he said would designate the White House?s) Tj
+T*
+(Oval Office and Cabinet Room as landmarks to prevent future presidents from making major) Tj
+T*
+(changes to them. ?They won?t be able to be taken down, destroyed, touched or anything else,?) Tj
+T*
+(Trump told reporters. ?It?s called, actually, a national monument. It?s a federal landmark, and) Tj
+T*
+(when completed and when we get the documentation fully done, legally binding, it?ll make it) Tj
+T*
+(impossible for anybody ever to destroy this incredible space.? Oh, buddy, every last bit of) Tj
+T*
+(that pyrite cack will be pried off the walls and in a dumpster by mid-morning on 20 January) Tj
+T*
+(2029. You know that scene in Pulp Fiction where John Travolta?s Vincent Vega tells his drug) Tj
+T*
+(dealer \(Eric Stoltz\) about his vintage Chevy Malibu getting keyed? ?Boy I wish I could?ve) Tj
+T*
+(caught him doing it. I?d have given anything to catch that asshole doing it. It would have been) Tj
+T*
+(worth him doing it, just so I could?ve caught him. What?s more chickenshit than fucking with a) Tj
+T*
+(man?s automobile?? I sort of feel that way about Trump and the next two years. ?) Tj
+T*
+() Tj
+T*
+(9. Static site generators are weird) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4548 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Evan Hahn \(dot com\) | Published: Fri, 06 Nov 2026 17:00:00 +0000) Tj
+T*
+(Link: https://evanhahn.com/static-site-generators-are-weird/) Tj
+T*
+(I love static sites. Pre-rendered files are usually faster, lower maintenance, easier to) Tj
+T*
+(secure, and more. Static site generators let you create these sites much more easily, which is) Tj
+T*
+(fabulous. But I believe most static site generators are weird. SSGs like Jekyll , Gatsby , and) Tj
+T*
+(Hugo require you to learn their special way of doing things. You have to answer questions like:) Tj
+T*
+(How do you write HTML templates? How do you manage CSS and JavaScript? How do you deal with) Tj
+T*
+(images and videos? How do you manage routing? How do you generate RSS feeds? How do you do) Tj
+T*
+(unusual things, like one-off pages or redirects? You have to understand many of these in order) Tj
+T*
+(to build a production-ready site, and every SSG is a different world. For example, my blog) Tj
+T*
+(\(which you?re reading right now!\) has used Jekyll, Gatsby, and Hugo. For each one, I?ve had to) Tj
+T*
+(learn its templating system, its asset system, its RSS feed system, and much more. Each project) Tj
+T*
+(is thoughtfully designed, but totally its own thing. That?s not to mention the majority of) Tj
+T*
+(SSGs, which are custom-made for one website. These projects tend to overflow with) Tj
+T*
+(personality?rare programming languages, jagged feature sets, and flowery READMEs are on fin...) Tj
+T*
+() Tj
+T*
+(10. Weekend at Bernie?s II) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-11-06T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/11/06/weekend-at-bernies-ii.html) Tj
+T*
+(Six months after Weekend at Bernie?s , 421 of the critical repos that were dead, dormant or) Tj
+T*
+(unknown in May are active again. In the 1993 sequel , Bernie is brought back by a voodoo) Tj
+T*
+(ceremony that goes slightly wrong, and the result is a corpse that moves whenever it hears) Tj
+T*
+(music. In nearly a quarter of the revived repos the music shows up in the commit history as a) Tj
+T*
+(coding agent, with most of those commits made by the repo?s own top committer. In the previous) Tj
+T*
+(post I sorted the repos behind the ecosyste.ms critical packages into four buckets, and a) Tj
+T*
+(follow-up went through the ways a project ends up dead : Active: regular non-bot commits to the) Tj
+T*
+(default branch, or a release, in the past year. Dormant: little or no development, but someone) Tj
+T*
+(with write access has closed an issue, merged a PR or pushed a commit in the past year. Dead:) Tj
+T*
+(archived, or with issues and PRs filed in the past year and no response from anyone with write) Tj
+T*
+(access. Unknown: no issues, PRs or activity in the past year, so responsiveness hasn?t been) Tj
+T*
+(tested. In the previous post I predicted that AI-assisted vulnerability discovery was about to) Tj
+T*
+(test the quiet ones: ?The first security report against any of them will be that...) Tj
+T*
+() Tj
+T*
+(11. A video game which caused real world violence) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 06 Nov 2026 12:34:34 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/a-video-game-which-caused-real-world-violence/) Tj
+T*
+(There has been a dramatic fall in the amount of interpersonal violence in most countries. I) Tj
+T*
+(don't want to go too Freakanomics and, obviously, correlation is not causation but perhaps) Tj
+T*
+(video games have a role to play in this? A teenager being cooped up in their room means less) Tj
+T*
+(exposure to situations where hormonal impertinence is likely to cause a violent reaction.) Tj
+T*
+(Shouting and screaming at people ?) Tj
+T*
+() Tj
+T*
+(12. How Do Building Codes Affect the Price of Housing?) Tj
+T*
+(Source: Construction Physics | Published: Fri, 06 Nov 2026 13:01:35 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/how-do-building-codes-affect-the) Tj
+T*
+(A great deal of effort has gone into understanding the regulatory burden on housing) Tj
+T*
+(construction, and the extent to which it contributes to high housing prices.) Tj
+T*
+() Tj
+T*
+(13. Premium: Fault Lines) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 06 Nov 2026 16:44:41 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-fault-lines/) Tj
+T*
+(I?ve generally avoided politics here and the few times that I have done so I?ve received a few) Tj
+T*
+(pissy emails, but Tuesday night was a wonderful, abundant font of hope in what has been an) Tj
+T*
+(unspeakably grim two years. We have felt land-locked in) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 532 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(14. Deus Ex) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 06 Nov 2026 15:34:48 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/11/deus-ex/) Tj
+T*
+(This article tells part of the story of Warren Spector. A slight shift of focus, and the future) Tj
+T*
+(could still turn out like Deus Ex after all? ? Deus Ex lead writer Sheldon Pacotti, speaking in) Tj
+T*
+(2014 The reviews that greeted Ion Storm?s Deus Ex upon its release in June of 2000 ranged along) Tj
+T*
+(a continuum [?]) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004678 00000 n 
+0000004804 00000 n 
+0000009224 00000 n 
+0000009350 00000 n 
+0000013950 00000 n 
+0000014076 00000 n 
+0000014660 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14788
+%%EOF
