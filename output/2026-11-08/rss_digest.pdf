@@ -1,0 +1,308 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4468 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-08 14:58:09) Tj
+T*
+() Tj
+T*
+(1. datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-07T23:57:46+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/7/link-rel-next/) Tj
+T*
+(datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was) Tj
+T*
+(looking at the Firefox network panel today when I noticed that requests to a Datasette table) Tj
+T*
+(page were triggering an HTTP prefetch to the next page of rows in that table. This was) Tj
+T*
+(happening because Datasette pages serve an HTTP link header like this: link: ; rel="next" This) Tj
+T*
+(is bad. A tiny fraction of the visitors to one of those pages will click the "next" link, which) Tj
+T*
+(means their browser is fetching unnecessary data and the Datasette server is having to render) Tj
+T*
+(an entire page that then gets thrown away. I dug in and learned that Firefox has an issue that) Tj
+T*
+(has been open for 24 years about this behavior... And one of the early comments on that issue) Tj
+T*
+(links to my blog post from 2002 complaining about this feature. I hadn't just forgotten that I) Tj
+T*
+(had written about it, I had forgotten the feature entirely! Tags: firefox , html , mozilla ,) Tj
+T*
+(datasette) Tj
+T*
+() Tj
+T*
+(2. Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR) Tj
+T*
+(Displays) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-07T21:14:09Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=f2GZtWuUPl0) Tj
+T*
+(Tyler Stalman and David Altizer were kind enough to have me on their show this week. These new) Tj
+T*
+(MacBook Pros are very fun computers that are very fun to talk about. \(We even sneak in some) Tj
+T*
+(love for Ricoh?s legendary GR line of compact cameras. I used my original GR-D from 20 years) Tj
+T*
+(ago to shoot this 2010 photo of Steve Jobs and Walt Mossberg that I linked to in my) Tj
+T*
+(feature-length ? Touch and Glow ? piece yesterday.\) ?) Tj
+T*
+() Tj
+T*
+(3. Steve Jobs on His Final Quarterly Analyst Call: ?We Think the Open Versus Closed) Tj
+T*
+(Argument Is Just a Smokescreen?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-03T15:40:34Z) Tj
+T*
+(Link: https://www.macworld.com/article/208438/jobs_transcript.html) Tj
+T*
+(After linking to it earlier today, I re-read Steve Jobs?s remarks from his last appearance on a) Tj
+T*
+(quarterly analyst call. It?s a banger of a good read: You know, even if Google were right, and) Tj
+T*
+(the real issue is ?closed? versus ?open,? it is worthwhile to remember that open systems don?t) Tj
+T*
+(always win. Take Microsoft?s ?Plays For Sure? music strategy, which used the PC model ? which) Tj
+T*
+(Android uses as well ? of separating the software components from the hardware components. Even) Tj
+T*
+(Microsoft finally abandoned this ?open? strategy in favor of copying Apple?s integrated) Tj
+T*
+(approach with their Zune player, unfortunately leaving their OEMs empty-handed in the process.) Tj
+T*
+(Google flirted with this integrated approach with their Nexus One phone. In reality, we think) Tj
+T*
+(the open versus closed argument is just a smokescreen to try and hide the real issue, which is,) Tj
+T*
+(?What?s best for the customer ? fragmented versus integrated?? We think Android is very, very) Tj
+T*
+(fragmented, and becoming more fragmented by the day. And as you know, Apple strives for the) Tj
+T*
+(integrated model so that the user isn?t forced to be the systems integrator. We see tremendous) Tj
+T*
+(value at having Apple, rather than our users, be the systems integrat...) Tj
+T*
+() Tj
+T*
+(4. Chance Miller Reviews the New A20 Pro iPad Mini) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-03T14:51:14Z) Tj
+T*
+(Link: https://9to5mac.com/2026/11/03/new-ipad-mini-a20-pro-review/) Tj
+T*
+(Chance Miller, writing at 9to5Mac: Unfortunately, the new iPad mini?s screen has one) Tj
+T*
+(limitation: it doesn?t support ProMotion, or a 120Hz refresh rate of any kind. Instead, it?s) Tj
+T*
+(still locked to 60Hz. This is an incredibly frustrating decision that I can?t quite wrap my) Tj
+T*
+(head around. Apple touts the iPad mini?s OLED screen as offering significantly faster pixel) Tj
+T*
+(response time than the previous generation?s LCD panel, leading to improvements like smoother) Tj
+T*
+(scrolling and reduced motion blur. I?ve noticed that things like swiping between Home Screen) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4594 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(pages, scrolling social media, and system animations are noticeably smoother. They aren?t,) Tj
+T*
+(however, as smooth as an Apple device with a ProMotion display, and they?re not a substitute) Tj
+T*
+(for a higher refresh-rate display. Apple is very stingy with ProMotion. Until last year it was) Tj
+T*
+(exclusively available in iPhones, iPads, and MacBooks that had ?Pro? in their name. Last year) Tj
+T*
+(they added ProMotion to two products without ?Pro? in their names: the iPhone 17 and iPhone) Tj
+T*
+(Air. This year?s $2,000 iPhone Duo of course offers it now too. Apple refreshed the $1,600) Tj
+T*
+(Studio Display last year but it still only supports 60 Hz ; only the $3,300 Studio Display) Tj
+T*
+(XDR...) Tj
+T*
+() Tj
+T*
+(5. A bit about email) Tj
+T*
+(Source: Maurycy's Blog | Published: Fri, 06 Nov 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/misc/email/) Tj
+T*
+(Before you torch and pitchfork me, I'm aware most of this is simplified and doesn't go into) Tj
+T*
+(edge cases, even though the internet is composed entirely of edge cases. Otherwise, I'd be) Tj
+T*
+(writing a whole book. First, some terminology; A typical email will past through many different) Tj
+T*
+(components on it's way to the recipient: 1. Sender's MUA [Via SMTP on port 465] 2. Sending MSA) Tj
+T*
+(3. Sending MTA [Via SMTP on port 25] 4. Receiving MTA 5. Receiving LDA and message store [Via) Tj
+T*
+(IMAP] 7. Receiver's MUA \(These aren't all necessarily different machines or even different) Tj
+T*
+(programs, but it is helpful to give a name for each step.\) The mail user agent \(MUA\) runs on) Tj
+T*
+(the user's computer and is what they use to send or read messages. Let's say they send) Tj
+T*
+(something: that message will be uploaded to to the submission agent \(MSA\) which checks the) Tj
+T*
+(user's password before handing off to the mail transfer agent \(MTA\). The transfer agent's job) Tj
+T*
+(is to talk to the other mail servers and get the message to the receiving side's MTA. Once) Tj
+T*
+(received, it's given to the local delivery agent \(LDA\) to be stored until the recipient checks) Tj
+T*
+(their email. The name "LDA" is non-standard, but I use it to avoid having four different...) Tj
+T*
+() Tj
+T*
+(6. Reading List 11/7/2026) Tj
+T*
+(Source: Construction Physics | Published: Sat, 07 Nov 2026 13:23:36 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-1172026) Tj
+T*
+(Florida?s property tax rollback, projected PCB shortages, the end of Tesla?s Cybertruck, the) Tj
+T*
+(lack of progress in carbon storage, and more.) Tj
+T*
+() Tj
+T*
+(7. This Week in Package Management: 7 November 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-11-07T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/11/07/this-week-in-package-management.html) Tj
+T*
+(This week?s package management news, gathered from the package manager OPML feed collection ,) Tj
+T*
+(my posts and boosts on Mastodon , and anything people sent me. Version control and forge news) Tj
+T*
+(is in the Wednesday This Week in Source Control roundup. Security Vox Pupuli fixed three) Tj
+T*
+(critical vulnerabilities that a Neodyme researcher reported in OpenVox, the community fork of) Tj
+T*
+(Puppet. OpenVox Server deserialised Ruby objects embedded in agent run reports, which allowed) Tj
+T*
+(remote code execution. The shared Trapperkeeper authorisation library matched every) Tj
+T*
+(plain-string rule in auth.conf as a wildcard, so a certificate for evil.target.example.com was) Tj
+T*
+(accepted as target.example.com . The OpenVoxDB container image allowed any certificate to reach) Tj
+T*
+(its API because its allowlist script failed on startup. All known Puppet implementations are) Tj
+T*
+(affected, and the fixes are in openvox-agent 8.32.0 and 9.3.0 and openvox-server and openvoxdb) Tj
+T*
+(8.18.0 and 9.2.0. Updates to open source Puppet, including security fixes, have ended, so Vox) Tj
+T*
+(Pupuli recommends migrating to OpenVox. An issue on actions/runner-images reports that GitHub?s) Tj
+T*
+(public macOS runners still accept certificates from the compromised eMudhra inter...) Tj
+T*
+() Tj
+T*
+(8. Pluralistic: JS Tan and Clarissa Redwine's "Against Tech Oligarchy" \(07 Nov 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Sat, 07 Nov 2026 13:03:46) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/) Tj
+T*
+(Today's links JS Tan and Clarissa Redwine's "Against Tech Oligarchy": Inventing a new labor) Tj
+T*
+(playbook for a unique and powerful industry. Hey look at this: Delights to delectate. Object) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1144 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(permanence: EMI x Gnutella; ETCON photos; Piracy loss claims are "self-serving hyperbole";) Tj
+T*
+(Shareholder supremacy let Google conquer and enshittify the world; Cat causes kernel panic; HK) Tj
+T*
+(erupts; National Guard x 1 weed plant; Enshittification of labor. Upcoming appearances:) Tj
+T*
+(Kilkenny, Courtenay, Vancouver, Folkestone, Oxford, Sheffield, Virtual, Oxford, Santa Barbara,) Tj
+T*
+(Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. JS Tan) Tj
+T*
+(and Clarissa Redwine's "Against Tech Oligarchy" \(permalink\) JS Tan and Clarissa Redwine are) Tj
+T*
+(veterans of a string of hard-fought unionization drives at tech workplaces that started with) Tj
+T*
+(some astounding successes but ran up against ferocious resistance in the second Trump term;) Tj
+T*
+(their book about tech labor, Against Tech Oligarchy, is a superb analysis of the challenges and) Tj
+T*
+(potential for tech labor organizing: https://againsttecholigarchy.com/ For decades,...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004723 00000 n 
+0000004849 00000 n 
+0000009495 00000 n 
+0000009621 00000 n 
+0000010817 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+10943
+%%EOF
