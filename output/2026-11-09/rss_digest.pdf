@@ -1,0 +1,516 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4649 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-09 15:42:42) Tj
+T*
+() Tj
+T*
+(1. The Web Is More Than Enough, by Paul Ford) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-09T04:32:33+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/9/hn-50421091/) Tj
+T*
+(My comment on The Web Is More Than Enough, by Paul Ford ? Hacker News. OK, this comment) Tj
+T*
+(convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch) Tj
+T*
+(themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... \(77KB\) I) Tj
+T*
+(just asked Claude \(Opus 5.5 Medium running in regular Claude Chat\) to port that to Vanilla JS,) Tj
+T*
+(in the same thread where it had built it, and got this:) Tj
+T*
+(https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... \(98KB\) They aren't identical -) Tj
+T*
+(you can see what Claude said about that in the transcript \(I don't fully understand why it) Tj
+T*
+(differed\): https://claude.ai/share/e56d163e-2793-4677-aa11-191d5058b414 But yeah, it turns out) Tj
+T*
+(Claude Opus 5.5 is perfectly capable of 3D modeling in Vanilla JS + WebGL without Three.js. In) Tj
+T*
+(eyeballing the code I find the Three.js slightly easier to understand myself, but I rarely look) Tj
+T*
+(at the code for these 3D projects so that isn't a particularly big deal. Tags: hacker-news ,) Tj
+T*
+(javascript , ai , generative-ai , llms , claude , three-js) Tj
+T*
+() Tj
+T*
+(2. Hide your slop PR descriptions behind) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-09T04:25:05+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/9/details-summary/) Tj
+T*
+(Most of the changes I make to my projects these days come in the form of PRs opened for me by) Tj
+T*
+(Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together,) Tj
+T*
+(iterating on them until a feature is complete, document decisions and then merge the finished) Tj
+T*
+(result. Today's coding agents are great at writing PR descriptions. They're too good at) Tj
+T*
+(describing the work The problem is that they are too good. An agent-written PR description is) Tj
+T*
+(accurate and comprehensive. It describes the problem, the detailed solution, and the steps) Tj
+T*
+(taken to verify it. That's a lot of information to absorb. It's not necessarily slop, but it) Tj
+T*
+(reads like slop! It's very easy to spot an AI-written PR, and as with other forms of AI writing) Tj
+T*
+(my instant reaction is best summarized as "I'm not reading all of that". It doesn't matter how) Tj
+T*
+(accurate or useful the information is, I'm instantly put off by the thought that it will take) Tj
+T*
+(me longer to read than it took the driving author to write... even when that driving author is) Tj
+T*
+(me! I want human editorial judgement. I want someone to have thought just long enough about the) Tj
+T*
+(PR to give me a human-approved introduction that helps me understand, at a high...) Tj
+T*
+() Tj
+T*
+(3. parse_number\(\) as a SQLite extension: C vs Rust) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-08T22:26:00+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/) Tj
+T*
+(Research: parse_number\(\) as a SQLite extension: C vs Rust I was out walking the dog when I got) Tj
+T*
+(curious about how easy/difficult it would be to write a SQLite C extension that adds a) Tj
+T*
+(parse_number\(\) function for turning strings like -$1,234.56 or '12.5%' into numeric values that) Tj
+T*
+(could be summed and sorted. I fired up regular Claude chat \(Opus 5.5\) and prompted : I'm) Tj
+T*
+(thinking about a SQLite custom function 'parse_number\(value\)' that strips ',', '$', '£' and) Tj
+T*
+('%', handles a leading '-', and returns 'NULL' for anything it can?t parse Explore the) Tj
+T*
+(difference between building this as a SQLite extension in C v.s. in Rust - I want to compare) Tj
+T*
+(performance and code complexity and size of the resulting .so \(or whatever\) file This gave me a) Tj
+T*
+(solid starting point - the Rust extension was 321 KB \(using Rusqlite \) and 298 KB \(using) Tj
+T*
+(sqlite-loadable-rs \), while the C extension was 14 KB. But the Rust extension was faster! Turns) Tj
+T*
+(out that's because the Rust equivalent of C's strtod is "twice as fast". So I prompted: Try) Tj
+T*
+(writing your own C function for parsing text into a decimal number that catches up to or beats) Tj
+T*
+(the Rust implementation And it did, using "Clinger's fast path": Net cost per row over 2 mil...) Tj
+T*
+() Tj
+T*
+(4. Jensen Huang Betrayed Nvidia, Not Just His Family) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-08T23:56:32Z) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4877 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.htm) Tj
+T*
+(l?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI) Tj
+T*
+(Julian E. Barnes, Tripp Mickle, Paul Mozur, and Maggie Haberman, reporting for The New York) Tj
+T*
+(Times on Friday: John Rizzo, an Nvidia spokesman, said that the company does not share) Tj
+T*
+(classified information with its customers, and that customers do not ask Nvidia to press the) Tj
+T*
+(U.S. government to change its policies on chip sales to China. He added that the Chinese) Tj
+T*
+(government had ?consistently promoted its own domestic alternatives in China, including Huawei,) Tj
+T*
+(and strictly limited imports of our data center products.? Mr. Rizzo has maintained that Mr.) Tj
+T*
+(Huang?s interactions with Ms. Huang were ?not unusual? and consistent with the kinds of) Tj
+T*
+(meetings he has with any of Nvidia?s many customers. Turns out this was not true, unless Jensen) Tj
+T*
+(Huang is consistently banging many of Nvidia?s customers. And it now looks especially bad that) Tj
+T*
+(an Nvidia spokesman was effectively vouching for the Chinese government?s integrity when it) Tj
+T*
+(comes to their interest in circumventing the ban against selling them high-end Nvidia hardware.) Tj
+T*
+(Liu Chang, a spokesman for the Chinese embassy, said The Times reporting was ?unsubstantiated?) Tj
+T*
+(and ?nothing but smears against China.? Turns out this was completely substantiated and...) Tj
+T*
+() Tj
+T*
+(5. Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to) Tj
+T*
+(Beijing) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-08T21:50:31Z) Tj
+T*
+(Link: https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.htm) Tj
+T*
+(l?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L) Tj
+T*
+(Tripp Mickle, reporting for The New York Times: Nvidia said on Sunday that it was opening an) Tj
+T*
+(investigation into Jensen Huang, its chief executive and co-founder, after he acknowledged to) Tj
+T*
+(the company?s board that he had been intimate with a business executive who U.S. intelligence) Tj
+T*
+(determined to be a Chinese spy . Mr. Huang?s relationship with the woman, who is named Alice) Tj
+T*
+(Huang, became a U.S. government concern after surveillance revealed that she was feeding) Tj
+T*
+(information directly to Beijing. The revelation raised troubling possibilities because Mr.) Tj
+T*
+(Huang is one of the most powerful figures in the A.I. revolution as well as an influential ally) Tj
+T*
+(of President Trump. In a message to the company, Mr. Huang apologized. ?I was unfaithful to my) Tj
+T*
+(wife,? he said. ?My actions hurt her and our children. There is no excuse for what I did. I am) Tj
+T*
+(deeply sorry.? Nvidia?s board said that it had ?no reason to believe that either national) Tj
+T*
+(security or Nvidia secrets were compromised,? but that ?the board?s inquiry will examine all) Tj
+T*
+(available information.? It said Mr. Huang ?fully supports the review and has committed to) Tj
+T*
+(cooperating with it.? When the NYT first broke this story a little over a week ago, th...) Tj
+T*
+() Tj
+T*
+(6. Apple?s Analyst Calls Have Been Scripted for Decades) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-03T14:39:03Z) Tj
+T*
+(Link: https://9to5mac.com/2026/11/03/apple-ceo-john-ternus-criticized-for-scripted-approach-to-) Tj
+T*
+(first-earnings-call/) Tj
+T*
+(Bloomberg opinion columnist Dave Lee : Apple investors and fans hoping to get an insight into) Tj
+T*
+(the philosophy of new Chief Executive Officer John Ternus on Monday were left sorely) Tj
+T*
+(disappointed. The 51-year-old?s first earnings call was a timid affair, with Ternus taking) Tj
+T*
+(cover behind a carefully written script as analysts peppered him with questions. This is) Tj
+T*
+(stupid. I mean, it would have been fun if Ternus?s style on the analyst conference call had) Tj
+T*
+(been loose and freewheeling. Just like it would have been fun if the questions from analysts) Tj
+T*
+(hadn?t been mostly insipid and pointless. But nothing has changed here other than who the CEO) Tj
+T*
+(is. Tim Cook?s quarter calls were snoozefests. Save those recordings and use them to help you) Tj
+T*
+(sleep. And that?s exactly how Cook wanted them. What Ternus should do is follow Steve Jobs?s) Tj
+T*
+(lead, and skip these calls except when there?s something exceptional to address. Let CFO Kevan) Tj
+T*
+(Parekh and COO Sabih Khan handle them, the way Jobs used to let Tim Cook and Apple?s then CFOs) Tj
+T*
+(handle them. At one point in 2008 , Jobs had only appeared on three of the calls in 11 years.) Tj
+T*
+(He then appeared on the call in October 2008 to address the global financial crisis, and a...) Tj
+T*
+() Tj
+T*
+(7. LLMs are terrible at designing AI systems) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 08 Nov 2026 00:00:00 GMT) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4873 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/) Tj
+T*
+(LLMs don?t know how to design software that uses LLMs. They?re comfortable writing normal) Tj
+T*
+(programs, but if you throw an AI-shaped problem at them, they will usually screw it up. Why is) Tj
+T*
+(that? Going down the symbolic rabbit hole For example, this post describes an attempt to) Tj
+T*
+(vibe-code a memory tool that would flag when one memory contradicted another 1 . This is a) Tj
+T*
+(great instance of a task that was virtually impossible five years ago but is now relatively) Tj
+T*
+(trivial due to LLMs. You can simply task a LLM with scanning for contradictions, either in a) Tj
+T*
+(big batch or pairwise 2 . However, when asked for the ?state of the art? approach 3 , the AI) Tj
+T*
+(agent in this case did not recommend LLMs. It started building a bewilderingly complex symbolic) Tj
+T*
+(system to convert the memory items into structured logical atoms , then mechanically compare) Tj
+T*
+(them with a solver. This, of course, did not and could not work, because there is no analytic) Tj
+T*
+(way of determining whether any two natural-language sentences express the same proposition. The) Tj
+T*
+(LLM knew this was impossible! When the user eventually lost patience and said ?hey, why isn?t) Tj
+T*
+(this working?, Claude immediately explained that this was a known 130-year-old prob...) Tj
+T*
+() Tj
+T*
+(8. Reverse engineering a vintage diode-transistor logic chip) Tj
+T*
+(Source: Ken Shirriff's blog | Published: 2026-11-08T08:12:25.557-08:00) Tj
+T*
+(Link: http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html) Tj
+T*
+(Going through a collection of old parts, CuriousMarc encountered some ICs that he couldn't) Tj
+T*
+(identify. He opened up one of these ICs, and I studied it under the microscope. After some) Tj
+T*
+(reverse engineering, I determined that it was a logic chip that implemented four NAND gates) Tj
+T*
+(using old-fashioned diode-transistor logic \(DTL\). 1 The chip turned out to be the ST680A, a) Tj
+T*
+(member of the Signetics 600 series of chips from 1965. In this article, I discuss the circuitry) Tj
+T*
+(in this chip and how diode-transistor logic works. The die of the ST680A under the microscope.) Tj
+T*
+(Integrated circuits can be packaged in many ways. One of the most popular is the plastic DIP) Tj
+T*
+(\(Dual In-line Package\), a black rectangle of epoxy with two rows of metal pins. This type of) Tj
+T*
+(package was invented by Signetics: "Introduced in late 1965, the 600 series was the first) Tj
+T*
+(integrated circuit family to be offered in a solid, plastic, dual in-line package \(DIP\).") Tj
+T*
+(Earlier integrated circuits were packaged in round metal cans or in small flat-packs. In 1965,) Tj
+T*
+(engineers at Fairchild invented the DIP, which had two rows of pins on 0.1" spacing. Unlike the) Tj
+T*
+(surface-mounted flat-pack, the DIP had pins that were inserted into holes, making man...) Tj
+T*
+() Tj
+T*
+(9. Finite Projective Planes) Tj
+T*
+(Source: John D. Cook | Published: Sun, 08 Nov 2026 23:23:49 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/08/finite-geometries/) Tj
+T*
+(The idea of finite geometries sounds like an oxymoron the first time you hear of it, something) Tj
+T*
+(like dry water or cold fire, but the axioms of some kinds of geometry can indeed be satisfied) Tj
+T*
+(by finite models. The axioms of projective plane geometry are as follows. Any two distinct) Tj
+T*
+(points lie on exactly one [?] The post Finite Projective Planes first appeared on John D. Cook) Tj
+T*
+(.) Tj
+T*
+() Tj
+T*
+(10. Horible public key tricks:) Tj
+T*
+(Source: Maurycy's Blog | Published: Sun, 08 Nov 2026 00:00:00 +0000) Tj
+T*
+(Link: https://maurycyz.com/projects/badcert/) Tj
+T*
+(So, I've always been somewhat annoyed at SSL/TLS. It requires everyone to go through a complex) Tj
+T*
+("ACME" dance just to put up a public website. Worse, certificates expire every few months, so) Tj
+T*
+(it's not a one and done thing: even with automation, maintaining a certificate requires care to) Tj
+T*
+(ensure the ACME client always has access to DNS records or the web server. ... and the whole) Tj
+T*
+(system doesn't even work because certificates are issued over plaintext connections, and) Tj
+T*
+(trusted certificate aurthorities use very secure keys like "4" There is prior art of protest) Tj
+T*
+(SSL implementations , but I do actually want to encrypt web traffic. Passive eavesdropping is a) Tj
+T*
+(real risk... but preventing it doesn't require the whole certificate thing: therefore, the best) Tj
+T*
+(choice is a protest certificate. The only part of the certificate I directly control is the) Tj
+T*
+(public key. Therefore, the simplest way to obtain a bad certificate is use a vanity private key) Tj
+T*
+(such as 313333333337 \(one of the most eleet primes\). However, while the resulting public key) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4118 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(would be week, no one would know unless they actually try to break it. A good protest should be) Tj
+T*
+(obvious: # openssl s_client -connect maurycyz.com : 443 /dev/null \\ |...) Tj
+T*
+() Tj
+T*
+(11. Some thoughts on restaurant menu QR codes) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 08 Nov 2026 12:34:01 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/) Tj
+T*
+(Is anyone else SICK AND TIRED of the way hotels now foist plastic "keycards" on guests? No! I) Tj
+T*
+(don't want tap to open my door! No! I don't want to keep the card in my wallet! No! I don't) Tj
+T*
+(want electronics in control of my life! What if I need to stab an attacker? Keys are great for) Tj
+T*
+(that by flimsy plastic cards are useless Gives us PROPER keys with big keyrings that we have to) Tj
+T*
+(hand in to?) Tj
+T*
+() Tj
+T*
+(12. Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in) Tj
+T*
+(Disaster by Lucy Easthope ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 07 Nov 2026 12:34:34 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-a) Tj
+T*
+(nd-hope-from-an-expert-in-disaster-by-lucy-easthope/) Tj
+T*
+(This is a difficult but essential book. I was initially put off by how graphically) Tj
+T*
+(autobiographical it is. The disaster planning I came for was frequently interrupted with the) Tj
+T*
+(author's loves, disasters, health issues, pains, and domestic issues. As the book wore on, I) Tj
+T*
+(realised how vital that is. Disasters - whether natural or caused by human actions - cannot be) Tj
+T*
+(tackled in a dispassionate way.?) Tj
+T*
+() Tj
+T*
+(13. Addition By Subtraction) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Sun, 08 Nov 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/addition-by-subtraction/) Tj
+T*
+(I still think saying no is important. In that vein, here?s something I shipped by removing) Tj
+T*
+(functionality \(and I think my site is better for it\). For the longest time on my icon gallery) Tj
+T*
+(sites , you could view a list of icons in four pixel dimensions: 56×56 128×128 256×256 512×512) Tj
+T*
+(Each of these sizes could be accessed via a control on the website. This has been true for) Tj
+T*
+(years on my site, whether it?s the current site: Or an older version of the site: By default, I) Tj
+T*
+(loaded the 128-pixel version of the icons. But if you wanted to see other sizes, you could.) Tj
+T*
+(However, the more I used the site myself the more I thought, ?Four options is too many?. When) Tj
+T*
+(it comes to choice, what I really wanted was: Default Smaller Bigger \(Plus three is always a) Tj
+T*
+(good number , unless you have a reason otherwise\). So I removed the big 512 option. If I want) Tj
+T*
+(to study an icon at that size and detail, I click through to the icon?s detail page. Now there) Tj
+T*
+(are three options for list views: 56, 128, and 256. Small \(great on mobile\), 128 \(great by) Tj
+T*
+(default\), and big \(let me see more detail\). It?s simple to think about: You get a size by) Tj
+T*
+(default. Not big enough? Go up a size. Too big? Go down a size. You don?t need to t...) Tj
+T*
+() Tj
+T*
+(14. Yak-Shaving Overload) Tj
+T*
+(Source: Tedium: The Dull Side of the Internet. | Published: 2026-11-09T02:50:32Z) Tj
+T*
+(Link: https://feed.tedium.co/link/15204/17518143/yak-shaving-ai-mental-health-effects) Tj
+T*
+(Over the years I?ve gotten myself into all varieties of technical rabbit holes and wild goose) Tj
+T*
+(chases. But I?m feeling weird about my latest trip, involving a forgotten Linux tablet. I blame) Tj
+T*
+(AI.) Tj
+T*
+() Tj
+T*
+(15. The great software IP writedown) Tj
+T*
+(Source: Martin Alderson | Published: Sun, 08 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=rss&utm_medi) Tj
+T*
+(um=rss&utm_campaign=feed) Tj
+T*
+(Software's outsized margins were built on a scarcity of people who could build it. AI agents) Tj
+T*
+(are removing that scarcity - so where does the value of software IP go?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004911 00000 n 
+0000005037 00000 n 
+0000009966 00000 n 
+0000010092 00000 n 
+0000015017 00000 n 
+0000015143 00000 n 
+0000019314 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+19442
+%%EOF
