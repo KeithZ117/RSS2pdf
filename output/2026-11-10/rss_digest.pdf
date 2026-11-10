@@ -1,0 +1,546 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4364 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-10 16:03:15) Tj
+T*
+() Tj
+T*
+(1. Introducing Our Smallest, Most Efficient Model: Muse Ember) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-10T07:28:21+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/10/muse-ember/) Tj
+T*
+(Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in) Tj
+T*
+(the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and) Tj
+T*
+(most efficient model designed for complex reasoning execution and the work agents repeat all) Tj
+T*
+(day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter) Tj
+T*
+(prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input) Tj
+T*
+(tokens and $0.50/million output. Today's other big model release, Claude Fable 5.2, is 80x that) Tj
+T*
+(price at $8/$40. The pricing is a little less straightforward as prompts get longer, though.) Tj
+T*
+(Luna, Ember, and Haiku all support up to a million input tokens, but they also all have a) Tj
+T*
+(threshold after which the price goes up. Taking that threshold into account Ember is priced) Tj
+T*
+(between the two others: Model Prompt size Input \($/M\) Cached input Output GPT-6 Luna ?272k) Tj
+T*
+($0.10 $0.01 $0.50 >272k $0.20 $0.02 $0.75 Muse Ember 1.0 ?200k $0.10 $0.004 $0.50 >200k $0.30) Tj
+T*
+($0.012 $1.50 Claude Haiku 5.5 ?100k $0.10 $0.01 $0.50 >100k $0.50 $0.05 $2.50 But comparing) Tj
+T*
+(price-per-token doesn't really make sense these days, when reasoning tokens me...) Tj
+T*
+() Tj
+T*
+(2. Quoting Prompting Claude Fable 5.2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-10T05:34:14+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/) Tj
+T*
+(Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on.) Tj
+T*
+(In Anthropic?s testing on small coding tasks, when a prompt said nothing about ownership or) Tj
+T*
+(presented the code base as someone else?s, the model tended to add to the existing structure,) Tj
+T*
+(even when that repeated existing code. [...] If you want the model to improve the structure as) Tj
+T*
+(it works, say that the code is its own: This codebase is yours: what it's for and how it's) Tj
+T*
+(built are your call, and you'll keep building on it. In Anthropic?s testing on small coding) Tj
+T*
+(tasks, the model merged repeated code in about half of the tries with this sentence, and in) Tj
+T*
+(under a tenth of the tries without it. ? Prompting Claude Fable 5.2 , Anthropic documentation) Tj
+T*
+(Tags: prompt-engineering , anthropic , generative-ai , ai , llms , claude-mythos-fable) Tj
+T*
+() Tj
+T*
+(3. Yonkers Rises) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-10T03:53:04+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/10/yonkers-rises/) Tj
+T*
+(Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google) Tj
+T*
+(Maps and then, to help embed its location and shape in my head \(and to try out Claude Fable) Tj
+T*
+(5.2's 3D modeling and animation skills\), I prompted Fable 5.2 Medium to: Make a three js) Tj
+T*
+(animation where yonkers stands up as a big mech \(cool stand up motion\) and ·tomos around) Tj
+T*
+(manhattan and queens and Brooklyn, use openstreetmap mapping data It correctly deduced that) Tj
+T*
+("·tomos" was a mobile keyboard typo for "stomps": Tags: three-js , llms , ai , generative-ai ,) Tj
+T*
+(claude-mythos-fable) Tj
+T*
+() Tj
+T*
+(4. [Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-10T04:14:31Z) Tj
+T*
+(Link: https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campai) Tj
+T*
+(gn=q42026) Tj
+T*
+(An agent?s job isn?t known until it runs, so a role assigned in advance is always too much or) Tj
+T*
+(too little. Give the agent a task instead, and every call it makes gets checked against that) Tj
+T*
+(intent, whether it?s reading a Linear issue or emailing a distribution list. With WorkOS) Tj
+T*
+(Airlock, you set the policies once. Each call is allowed, denied, or sent to a human for) Tj
+T*
+(approval, and every verdict is logged. Request early access ? ?) Tj
+T*
+() Tj
+T*
+(5. Bloomberg Was Onto Megaspeed?s Game a Year Ago) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4872 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-11-09T23:46:17Z) Tj
+T*
+(Link: https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-c) Tj
+T*
+(hip-smuggling-concerns-in-us) Tj
+T*
+(Mackenzie Hawkins, Andy Lin, and Kari Soo Lindberg, reporting for Bloomberg last year on) Tj
+T*
+(December 22 \( Archive.today link \): In an industry run by titans, a Singapore AI firm called) Tj
+T*
+(Megaspeed International Pte. is drawing an unusual amount of attention. In less than three) Tj
+T*
+(years, the once-obscure spinoff of a Chinese gaming enterprise has evolved into the single) Tj
+T*
+(largest Southeast Asian buyer of Nvidia Corp. chips ? a rapid ascent that?s lifted hopes for a) Tj
+T*
+(regional champion in the lucrative business of AI cloud computing. Now Megaspeed finds itself a) Tj
+T*
+(focal point of Washington?s long-held fears about semiconductor smuggling into China, an issue) Tj
+T*
+(of escalating concern among national security hawks despite Nvidia?s repeated assurances that) Tj
+T*
+(chip diversion doesn?t exist. [...] Nvidia, which conducts regular spot-checks of data centers) Tj
+T*
+(around the world, told Bloomberg that it went to Megaspeed?s facilities multiple times to) Tj
+T*
+(verify that there?s nothing untoward. ?Our visits confirmed that the GPUs shipped to Megaspeed) Tj
+T*
+(by our partners are where they are supposed to be,? an Nvidia spokesperson said in) Tj
+T*
+(mid-November. It turns out these inspections were rather intimately thorough, conducted firs...) Tj
+T*
+() Tj
+T*
+(6. Short-Seller Culper Research Published Information on Jensen Huang?s Affair Back in May) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-09T20:57:04Z) Tj
+T*
+(Link: https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf) Tj
+T*
+(Culper Research is a short-seller that published a report \( PDF and in a thread on X \) in May) Tj
+T*
+(alleging that Nvidia ?had a China problem?. From the start of its report: Nvidia claims that) Tj
+T*
+(its business in China went to ?zero? after April 2025 U.S. trade restrictions. We believe that) Tj
+T*
+(in reality, over 20% of Nvidia?s FY 2026 compute revenues remained driven by China ? supported) Tj
+T*
+(both by illegal GPU diversion and Southeast Asian intermediaries. Nvidia has repeatedly vouched) Tj
+T*
+(for Megaspeed ? its single largest Southeast Asian chip buyer currently under investigation by) Tj
+T*
+(both U.S. Commerce and Singapore authorities ? as ?wholly owned and operated by a company based) Tj
+T*
+(and headquartered outside China, with no China shareholders.? Nvidia has also claimed that it) Tj
+T*
+(has ?repeatedly tested and sampled data centers around the world and found no diversion.?) Tj
+T*
+(Documents we uncovered, however, suggest that Megaspeed has been secretly financed by Alibaba) Tj
+T*
+(via a series of apparent shell companies. Tellingly, Nvidia?s lawyered phrasing ? that) Tj
+T*
+(Megaspeed holds no Chinese equity ? doesn?t seem to preclude Chinese financing . From Culper?s) Tj
+T*
+(report on X \(replete with another photo of Huang and Huang alongside each o...) Tj
+T*
+() Tj
+T*
+(7. If the Windows Update hot patcher checks that the function hasn?t already been patched,) Tj
+T*
+(does that mean you can?t install two hot-patches?) Tj
+T*
+(Source: The Old New Thing | Published: Mon, 09 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261109-00/?p=112841/) Tj
+T*
+(It knows what it did. The post If the Windows Update hot patcher checks that the function) Tj
+T*
+(hasn?t already been patched, does that mean you can?t install two hot-patches? appeared first) Tj
+T*
+(on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. AI and Irontown) Tj
+T*
+(Source: Armin Ronacher's Thoughts and Writings | Published: 2026-11-09T00:00:00+00:00) Tj
+T*
+(Link: https://lucumr.pocoo.org/2026/11/9/irontown/) Tj
+T*
+(For our last movie night we watched Princess Mononoke . I remembered loving that movie when I) Tj
+T*
+(was younger, but watching it as an adult made me once again realize how Miyazaki has a way of) Tj
+T*
+(expressing diverging sides without picking one. The film shows people, animals and spirits with) Tj
+T*
+(legitimate and largely incompatible needs, and each faction is further engaged in infighting. A) Tj
+T*
+(central arc of the story is Lady Eboshi?s Irontown, which gives people who were largely) Tj
+T*
+(rejected by society work, protection and dignity. She gives shelter and work to those who have) Tj
+T*
+(leprosy and to former sex workers. The mine and the weapon factory provide them with a) Tj
+T*
+(livelihood, but they also destroy the forest around them. The forest?s inhabitants, in) Tj
+T*
+(particular the boars, response choose war against the humans to defend themselves. Eboshi is) Tj
+T*
+(not portrayed as a villain. She does real good for the people of Irontown, but also is an arms) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4374 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(manufacturer who is destroying the forest around it. The film anchors around a character called) Tj
+T*
+(Ashitaka, who has been condemned to death by an unfortunate encounter with a god that was) Tj
+T*
+(turned into a demon after being fatally wounded by one of Eboshi?s guns. He doesn?t take...) Tj
+T*
+() Tj
+T*
+(9. Combinatorial designs) Tj
+T*
+(Source: John D. Cook | Published: Tue, 10 Nov 2026 01:38:48 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/09/combinatorial-designs/) Tj
+T*
+(The last several posts have been building up to this one, moving from tangible to more) Tj
+T*
+(abstract. The posts on finite geometry gave examples of Steiner triples and more generally) Tj
+T*
+(Steiner systems, introduced in the previous post. Combinatorial designs take this one step) Tj
+T*
+(further. The previous post gave the following definition: A Steiner triple system, [?] The post) Tj
+T*
+(Combinatorial designs first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Steiner Systems) Tj
+T*
+(Source: John D. Cook | Published: Mon, 09 Nov 2026 17:01:43 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/09/steiner-systems/) Tj
+T*
+(Steiner triples Several examples from the recent posts on finite geometry are special cases of) Tj
+T*
+(Steiner triples. A Steiner triple system, written STS\(n\), is a collection of three-element) Tj
+T*
+(subsets, called blocks, of a set X with n elements, such that every two-element subset of X) Tj
+T*
+(belongs to exactly one block. STS\(7\) is the smallest finite projective [?] The post Steiner) Tj
+T*
+(Systems first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Finite hyperbolic planes) Tj
+T*
+(Source: John D. Cook | Published: Mon, 09 Nov 2026 14:26:09 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/09/finite-hyperbolic-planes/) Tj
+T*
+(Euclid?s fifth postulate says that given a line ? and a point P not on ? , there is a unique) Tj
+T*
+(line through P parallel to ?. In the projective plane there are no parallel lines, and in the) Tj
+T*
+(hyperbolic plane there are at least two lines through P parallel to ?. Recent posts have looked) Tj
+T*
+(at finite [?] The post Finite hyperbolic planes first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Pluralistic: America cannot undo Trumpism \(09 Nov 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Mon, 09 Nov 2026 08:12:24) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/11/09/brunch-is-canceled-forever/) Tj
+T*
+(Today's links America cannot undo Trumpism: The only way out is through. Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: Bruces x Pokemon; Rich countries and WIPO conspire to) Tj
+T*
+(kill developement agenda; Wired photos go CC; "Mortality Bridge"; Drones over Disney; CBC v) Tj
+T*
+(podcast apps; Realtor x election eschatology; Right-clicker mentality; "Victories Greater Than) Tj
+T*
+(Death"; Facebook's fraud files; Zune v Universal; Ben and Jerry's x OWS; Nudging is bunk;) Tj
+T*
+(History of Chinese sf; How Audi cheated; Trump runs the surveillance state; Stockholm v) Tj
+T*
+(interop. Upcoming appearances: Courtenay, Vancouver, Folkestone, Oxford, Sheffield, Virtual,) Tj
+T*
+(Oxford, Santa Barbara, Montreal. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. America cannot undo Trumpism \(permalink\) True Carneyism has never been) Tj
+T*
+(tried. When Canadian PM Mark Carney traveled to Davos to declare a "rupture" in the old order) Tj
+T*
+(\(and admit that this old order was never that great to begin with\) he told us that there was no) Tj
+T*
+(going back from Trumpism. The only way out of Trumpism was through: https://www.weforum.o...) Tj
+T*
+() Tj
+T*
+(13. Optimal virulence and the Android lockdown) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-11-09T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/android/) Tj
+T*
+(When you get a cold, the virus hijacks your cells and uses them to make copies of itself,) Tj
+T*
+(destroying the cells in the process. The virus does not care about you. And yet, if you get a) Tj
+T*
+(cold, your body doesn?t dissolve into a pile of virus-enriched goo as a result of all your) Tj
+T*
+(cells disregarding survival to focus on virus manufacturing. Why? Well, you have an immune) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4686 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(system. But also, if that did happen, other people would say, ?Oh no, Alice has dissolved into) Tj
+T*
+(a pile of virus-enriched goo; we should stay away lest we also become goo piles.? Better to) Tj
+T*
+(just hijack some of your cells, so you can walk around and spread the virus to other people.) Tj
+T*
+(Thus, the theory of optimal virulence says that a more laid-back cold virus will be more) Tj
+T*
+(successful in the long run, which is why the cold viruses that thrive today are the) Tj
+T*
+(non-goo-pile-converting kind. Anyway. Most people reading this have paid Apple $400-$1600 for a) Tj
+T*
+(phone on which you can?t do anything without Apple?s permission and monitoring. That was a) Tj
+T*
+(strange decision, but on Android phones you can run whatever you want. For example, I noticed a) Tj
+T*
+(couple of months ago that all RSS apps were terrible, so I spent 15 long minutes having AI make) Tj
+T*
+(m...) Tj
+T*
+() Tj
+T*
+(14. Introducing Ninety) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-11-09T12:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/11/09/introducing-ninety.html) Tj
+T*
+(We?re excited to announce Ninety, the first prediction market for open source security,) Tj
+T*
+(launching today in partnership with Lanternfish, the frontier AI lab for software security.) Tj
+T*
+(Security report volumes at major projects are four to five times higher than in 2024 .) Tj
+T*
+(Attackers and defenders are both running frontier models against the same few thousand) Tj
+T*
+(packages, and everything those models turn up is scattered across disclosure inboxes, private) Tj
+T*
+(chats, embargo lists and exploit brokers, with no price attached. Ninety puts a price on it.) Tj
+T*
+(Anyone can take a position on whether an open source project will have a vulnerability) Tj
+T*
+(disclosed, how severe it will be, and how long the fix will take. Researchers earn from the) Tj
+T*
+(markets they called correctly, and defenders who harden code earn when contracts resolve NO.) Tj
+T*
+(Everyone who depends on open source gets a per-project price for how secure their dependencies) Tj
+T*
+(are, updated every second. Rationale Bug bounties make one payment to whoever finds a bug,) Tj
+T*
+(after the report is in. Grant programs fund a handful of projects a year after a long) Tj
+T*
+(application process. Both fall behind when a single model run can produce forty plausible) Tj
+T*
+(reports before lunch, an...) Tj
+T*
+() Tj
+T*
+(15. Blunt Banhammer Blocks Basic Bots Ballistically) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 09 Nov 2026 12:34:00 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/) Tj
+T*
+(I cut bot traffic to my site by over 80% with a simple trap. Last month, my hobby website) Tj
+T*
+(OpenBenches.org transferred more than 2.5TB of data to visitors. As much as I'd like to think) Tj
+T*
+(the site is enormously popular, it looks like it is just AI bots endlessly crawling the data) Tj
+T*
+(and slurping up the images. So I've built B to be an indiscriminate tool to eradicate these) Tj
+T*
+(unwanted parasites. It is?) Tj
+T*
+() Tj
+T*
+(16. The classic console corner's CRT changeover) Tj
+T*
+(Source: Old Vintage Computing Research | Published: 2026-11-09T22:23:17.979-08:00) Tj
+T*
+(Link: https://oldvcr.blogspot.com/2026/11/the-classic-console-corners-crt.html) Tj
+T*
+(In the corner of the rear Floodgap lab sits a pile of classic game consoles. It used to look) Tj
+T*
+(like this: The centrepiece is the 20" Panasonic cathode ray tube TV-VCR on the cart \(and a DVD) Tj
+T*
+(player balanced on top\), because with the exception of the Sega Dreamcast all the consoles here) Tj
+T*
+(only came with NTSC RF output and date from the pre-flat panel TV era. That includes multiple) Tj
+T*
+(Atari consoles \(including the inevitable VCS, here a Darth Vader 2600\), several Pong machines ?) Tj
+T*
+(including two Commodore units ? with various chipsets, an Intellivision \(as the rebadged) Tj
+T*
+(Tandyvision One , my first\) and a Bally Astrocade with lots of upgrades. It seems wrong to use) Tj
+T*
+(them with a flat panel, and CRTs lag less. Plus, games with a light gun \(here the Dreamcast and) Tj
+T*
+(one of the Pong consoles\) often rely on the CRT's rapidly scanning beam to know where they're) Tj
+T*
+(pointed. So what do you do when the CRT TV goes bad? You track down another one, and then) Tj
+T*
+(labouriously redo all the connections so you can still play the games. Yes, this article is) Tj
+T*
+(basically just a big bubbling ball of nostalgia. My consoles ? let me show you them. I should) Tj
+T*
+(note that this isn't all the old school gaming fun in the house. In the com...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 527 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(17. Weekly Update 529: Kids Social Media Bans \(and Everything Else\)) Tj
+T*
+(Source: Troy Hunt | Published: Tue, 10 Nov 2026 00:42:35 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-529/) Tj
+T*
+(The kids-and-social-media discussion is just dumb. It's not the premise of delaying their) Tj
+T*
+(access until 16, but the inability of those who should know better to grasp where the) Tj
+T*
+(responsibility for enforcement lies. Here's our PM's explainer after the laws passed) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004633 00000 n 
+0000004759 00000 n 
+0000009683 00000 n 
+0000009809 00000 n 
+0000014235 00000 n 
+0000014361 00000 n 
+0000019100 00000 n 
+0000019228 00000 n 
+0000019807 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+19935
+%%EOF
