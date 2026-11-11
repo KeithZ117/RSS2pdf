@@ -1,0 +1,682 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4682 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-11 15:33:12) Tj
+T*
+() Tj
+T*
+(1. llm-gemini 0.36) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-10T20:09:44+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/10/llm-gemini/) Tj
+T*
+(Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for "a subset of cyber) Tj
+T*
+(defenders", but today it's available to everyone else . This is Google's best ever Gemini,) Tj
+T*
+(priced at $2/million input and $10/million output at launch \(that's GPT-6.1 Sol / Claude Sonnet) Tj
+T*
+(5.5 prices\) but scheduled to double in price to $4/$20 on December 1st \(same as Opus 5.5\). Here) Tj
+T*
+(are three pelicans for the low, medium and high thinking efforts \(it defaults to medium\). This) Tj
+T*
+(is the pelican I got for high: Gemini pelicans have all been great for a while now, so I also) Tj
+T*
+(tested it out using Google's Antigravity IDE with a prompt I first tried with Claude Fable 5.2) Tj
+T*
+(yesterday : Make a three js animation where yonkers stands up as a big mech \(cool stand up) Tj
+T*
+(motion\) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data) Tj
+T*
+(Here's the HTML result \(I had to prompt "build that into a standalone HTML file" to get a) Tj
+T*
+(version with no external dependencies\). I then screen-captured that as a video: Update : Huh,) Tj
+T*
+(just saw this on YouTube \(and tweeted by Sundar Pichai \): Using Google Antigravity?s /swarm) Tj
+T*
+(feature, Carbon built an open-world 3D game where you explore Google?s Mountain V...) Tj
+T*
+() Tj
+T*
+(2. llm-anthropic 0.31) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-09T23:58:46+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/9/llm-anthropic/) Tj
+T*
+(Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is) Tj
+T*
+(currently ranked first on Artificial Analysis . Anthropic say it "solved two open problems in) Tj
+T*
+(the physics of black holes", so clearly their internal benchmarks have become more ambitious!) Tj
+T*
+(I've added the new models to llm-anthropic , so you can now run prompts through Fable 5.2 like) Tj
+T*
+(this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key here llm) Tj
+T*
+(-m claude-fable-5.2 "Generate an SVG of a pelican riding a bicycle" I ran pelicans at all five) Tj
+T*
+(reasoning levels - low , medium , high , xhigh , and max . You can see them all here - here's) Tj
+T*
+(the best result I got, from xhigh : max failed to return an image at all, running out of tokens) Tj
+T*
+(after spending 128,000 thinking about them . That's the same bug that I saw with Opus 5.5 - but) Tj
+T*
+(it's new for the Fable series, both Fable 5 and Fable 5.1 returned max effort pelicans just) Tj
+T*
+(fine. It's priced at $8/million input and $40/million output, which is a 20% discount on the) Tj
+T*
+(previous Fable 5.1 \($10/$50\). I also used Fable 5.2 to help identify the source of a mysterious) Tj
+T*
+(beep . Tags: llm-release , llm , anthropic , claude , generative-a...) Tj
+T*
+() Tj
+T*
+(3. Locating the source of a mysterious beep with Claude) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-09T23:57:21+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/9/mysterious-beeps/) Tj
+T*
+(Our house has a box room, full of boxes that we still haven't unpacked from our last move. A) Tj
+T*
+(couple of weeks ago something in that room started intermittently beeping . The beeps were far) Tj
+T*
+(enough apart that standing in the room and trying to determine the source of the noise was) Tj
+T*
+(frustrating, and I really didn't want to dig through every one of those boxes. So I had Claude) Tj
+T*
+(Code build Beep Locator , a software system for triangulating the source of a mysterious beep) Tj
+T*
+(using multiple devices scattered around the room. Here's what Beep Locator looks like after it) Tj
+T*
+(has been running for a while: You run Python web server to show the primary UI, and then use) Tj
+T*
+(the QR code or URL to connect as many devices as you can spare to act as listeners - I was) Tj
+T*
+(using two iPads, a phone, a MacBook Pro and a Surface Ultra. The devices then play noises to) Tj
+T*
+(each other to help estimate their locations. This didn't work particularly well, so I added a) Tj
+T*
+("Rough mode" where you can drag their icons around in the space to provide rough locations) Tj
+T*
+(which are then adjusted based on those sounds. Once that's set up, the devices all listen for) Tj
+T*
+(the beep! I added a clapping mode too so I could test it by clapping my hands in...) Tj
+T*
+() Tj
+T*
+(4. Microsoft Fixes Nearly 1,100 Security Vulnerabilities) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4823 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Krebs on Security | Published: Tue, 10 Nov 2026 21:55:03 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/) Tj
+T*
+(Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100) Tj
+T*
+(security vulnerabilities in its Windows operating systems and supported software. This month's) Tj
+T*
+(Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and) Tj
+T*
+(comes amid important security updates from other software makers, including Adobe, Apple,) Tj
+T*
+(Google and Mozilla.) Tj
+T*
+() Tj
+T*
+(5. Gary Marcus: ?Just Say No to Anthropic?s IPO?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-10T22:16:25Z) Tj
+T*
+(Link: https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0) Tj
+T*
+(Gary Marcus: When a business needs exponentially increasing amounts of capital to make modest) Tj
+T*
+(increases in quality in an intensely competitive market and still owes far more money than it) Tj
+T*
+(has ever made, there is a serious problem. I continue to believe that there is no moat in AI) Tj
+T*
+(models. None. But the entire premise of Anthropic?s IPO is that they have an enormous gulf of a) Tj
+T*
+(moat. I would not be shocked to see Anthropic go out of business. Nor would I be shocked if the) Tj
+T*
+(IPO fails. WeWork tried to IPO, 3 times, and didn?t make it. I would be surprised if Anthropic) Tj
+T*
+(does not go out of business. Most cults implode, and Anthropic doesn?t even hide that they?re a) Tj
+T*
+(cult . And I just don?t see how the math works. Scientology is a long-running cult, but) Tj
+T*
+(Scientology hasn?t committed $900 billion in spending over the next few years. \(Marcus?s post) Tj
+T*
+(is on his Substack blog, which, annoyingly, requires you to be logged into a Substack account) Tj
+T*
+(and to ?subscribe?, even though it?s ostensibly a free post. What a rotten oppressive turd of a) Tj
+T*
+(blogging platform Substack is. Just in case your Substack account isn?t working, here?s a PDF) Tj
+T*
+(archive .\) ?) Tj
+T*
+() Tj
+T*
+(6. Altar II Keyboard on Kickstarter) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-10T20:59:25Z) Tj
+T*
+(Link: https://www.kickstarter.com/projects/electronicamaterials/altar-ii/) Tj
+T*
+(Electronic Materials Office is the brainchild of Andrew Emerson. Back in 2023 he launched the) Tj
+T*
+(Altar I, a rather distinctive mechanical keyboard. Much thinner than most, very opinionated in) Tj
+T*
+(its industrial design and keycap typography. I got one and I don?t regret it, but there was too) Tj
+T*
+(much I didn?t like about it, so it?s mostly sat in a drawer. Today on Kickstarter Emerson/EMO) Tj
+T*
+(has launched a campaign for the Altar II. Same cool aesthetic, but with improvements that) Tj
+T*
+(address everything I didn?t like about the Altar I. The Altar II has all new switches. It?s so) Tj
+T*
+(thin it resembles the profile of Apple?s Magic Keyboard from the side. The dial ? now called) Tj
+T*
+(the M-Dial ? now attaches magnetically, which means it?s easy to detach for putting the) Tj
+T*
+(keyboard into a bag. And it has new features that never even occurred to me, like NiteLite ?) Tj
+T*
+(backlighting from ?a long-wavelength amber-red light that won?t affect your body?s circadian) Tj
+T*
+(rhythm, meaning you can sleep better at night.? The sleep benefits might be voodoo but red) Tj
+T*
+(lights are undeniably easier on your eyes at night, and it looks cool as shit. \(My favorite) Tj
+T*
+(feature of Apple Watch Ultra is ?Night Mode? ? a handful of watch faces that switch t...) Tj
+T*
+() Tj
+T*
+(7. Bloomberg: ?Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-10T17:06:01Z) Tj
+T*
+(Link: https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megas) Tj
+T*
+(peed-chip-smuggling) Tj
+T*
+(Mackenzie Hawkins, reporting yesterday for Bloomberg: Despite that stance, in the months after) Tj
+T*
+(Teter?s initial call with Kessler, Nvidia gave BIS an incomplete account of its business with) Tj
+T*
+(Megaspeed. After several visits to Megaspeed?s data centers ? 12 facilities owned by eight) Tj
+T*
+(companies across three countries in Southeast Asia ? Nvidia had sent inventory checks to the) Tj
+T*
+(agency and declared to Bloomberg News in mid-November 2025 that everything was where it should) Tj
+T*
+(be. The company also said at the time that it had asked the US government whether it needed to) Tj
+T*
+(cut off business with Megaspeed, and was told no. But Nvidia?s tabulations, as relayed to the) Tj
+T*
+(US government, undercounted the number of chips it had sold to Megaspeed via hardware partners) Tj
+T*
+(by 50,000 units, according to trade records analyzed by Bloomberg. That?s worth billions of) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4221 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(dollars. After being pressed about the gap, Nvidia told Bloomberg in December 2025 that it had) Tj
+T*
+(checked additional Megaspeed warehouses that contained the missing hardware, while declining to) Tj
+T*
+(state exactly how many chips it found in those facilities or provide any further details. ?) Tj
+T*
+() Tj
+T*
+(8. Glue work is still harmful in the age of AI) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Wed, 11 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/) Tj
+T*
+(I am not a believer in glue work 1 . Processes that can only be sustained by the unrewarded) Tj
+T*
+(sacrifice of engineers ought to die. Now that LLMs are writing most of our code, does that free) Tj
+T*
+(human engineers up to do more glue work ? No, it doesn?t. I think glue work is actually less) Tj
+T*
+(important to companies than it was in the 2010s. Let?s go through four reasons why. First, AI) Tj
+T*
+(decreases the amount of coordination needed to ship . The magnifying effect of AI agents means) Tj
+T*
+(that any single engineer can now take on projects that would previously have needed a small) Tj
+T*
+(team. A lot of glue work was helping with coordination: booking kickoff and status meetings,) Tj
+T*
+(passing around internal updates, and so on. A single engineer doesn?t need to do any of that.) Tj
+T*
+(Second, engineers in the 2020s require less ?careful handling? . In my experience, the most) Tj
+T*
+(important subcategory of coordination-based glue work was managing difficult people . Many) Tj
+T*
+(companies have secret gatekeepers: engineers with outsized influence and large egos who will) Tj
+T*
+(shoot down your project if they feel insufficiently consulted. I?ve written before about how) Tj
+T*
+(some teams are structurally set up to be gatekeepers, and how some engineers coul...) Tj
+T*
+() Tj
+T*
+(9. Microsoft employee price list from 1987) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 10 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261110-00/?p=112843/) Tj
+T*
+(The Microsoft product catalog. The post Microsoft employee price list from 1987 appeared first) Tj
+T*
+(on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(10. Balanced Incomplete Block Designs) Tj
+T*
+(Source: John D. Cook | Published: Tue, 10 Nov 2026 14:26:21 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/10/bibd/) Tj
+T*
+(Suppose you have n different fertilizers you want to test. The simplest experiment would be to) Tj
+T*
+(take a big plot of land, divide it into n sections, and apply each fertilizer to a section.) Tj
+T*
+(That?s fine if you have one big enough plot of land, and the land itself doesn?t matter. If the) Tj
+T*
+(fertilizer supplies [?] The post Balanced Incomplete Block Designs first appeared on John D.) Tj
+T*
+(Cook .) Tj
+T*
+() Tj
+T*
+(11. Finite Affine Planes) Tj
+T*
+(Source: John D. Cook | Published: Mon, 09 Nov 2026 14:21:49 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/09/finite-affine-planes/) Tj
+T*
+(The previous post was on finite projective planes. This post will look at finite affine planes) Tj
+T*
+(and the next will look at finite hyperbolic planes. Affine geometry is essentially what remains) Tj
+T*
+(of Euclidean geometry if you keep the incidence properties, e.g. wanting to know whether things) Tj
+T*
+(intersect, and forget about metric properties such as segment [?] The post Finite Affine Planes) Tj
+T*
+(first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. Book Review: The Unfinished Harauld Hughes - Richard Ayoade ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 10 Nov 2026 12:34:31 +0000) Tj
+T*
+(Link:) Tj
+T*
+(https://shkspr.mobi/blog/2026/11/book-review-the-unfinished-harauld-hughes-richard-ayoade/) Tj
+T*
+(A decade ago, I read Ayoade's first book. In my review, I said: It's hard to know how to assess) Tj
+T*
+(a book like this. It's far too clever for its own good - a frustrating and humorous look at...) Tj
+T*
+(what? It's neither autobiography nor comic novel. An anti-novel which trudges the reader) Tj
+T*
+(through a series of comic vignettes. It reminded me of some of Woody Allen's work. If you get) Tj
+T*
+(the joke - you'll find ?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4814 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(13. Pluralistic: The EU should go big and hard over border IT failure \(10 Nov 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 10 Nov 2026 17:34:21) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/11/10/worst-of-all-worlds/) Tj
+T*
+(Today's links The EU should go big and hard over border IT failure: Sometimes you have to) Tj
+T*
+(execute an IT contractor to encourage the others. Hey look at this: Delights to delectate.) Tj
+T*
+(Object permanence: Toothpick sculptures; McRib as a commodities volatility hedge; Hitler's) Tj
+T*
+(British passport; Why we get tech wrong; France jails spying EDF execs; SF v Trump; Clinton's) Tj
+T*
+(data-driven ground game sucked; Risk compensation sucks; "Flexible labor" is risk compensation.) Tj
+T*
+(Upcoming appearances: Vancouver, Folkestone, Oxford, Sheffield, Virtual, Oxford, Santa Barbara,) Tj
+T*
+(Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The EU) Tj
+T*
+(should go big and hard over border IT failure \(permalink\) If the EU has a future as a political) Tj
+T*
+(project, it will have to be as a living, breathing repudiation of Ronald Reagan's maxim that) Tj
+T*
+("The nine most terrifying words are 'I?m from the government and I?m here to help.'" In other) Tj
+T*
+(words, the EU's future depends on its ability to publicly perform competence and capacity. The) Tj
+T*
+(EU is a technocratic project, and the one trait technocrats must show is un...) Tj
+T*
+() Tj
+T*
+(14. 20 years of blogging) Tj
+T*
+(Source: Giles' blog | Published: Tue, 10 Nov 2026 23:00:00 +0000) Tj
+T*
+(Link: https://www.gilesthomas.com/2026/11/20-years-of-blogging) Tj
+T*
+(20 years ago to this day, I started my new technical blog. I'd had a personal one for some) Tj
+T*
+(time, but most of the stuff that happened there had already migrated to social media. I wanted) Tj
+T*
+(somewhere to post the things that would only be of interest to my techier friends, and maybe of) Tj
+T*
+(some use to anyone else that came across it. Things have changed a bit, but they've stayed the) Tj
+T*
+(same in some ways. Earlier this year I finished my 48-part \(!\) LLM from scratch series, but it) Tj
+T*
+(had predecessors -- the third post I made here was part one of a 13-part series where I worked) Tj
+T*
+(through setting up automated backups for my homelab NAS, and then later on I spent a few months) Tj
+T*
+(building a reverse proxy in C , not to mention the eight-month, ten-post series on fine-tuning) Tj
+T*
+(LLMs . It does seem like there's some value to putting all of this online. I rarely check my) Tj
+T*
+(logs and referrers, but people do still seem to be arriving here having searched for stuff that) Tj
+T*
+(I've written about, and every now and then there's a kind "thanks for this!" comment left on an) Tj
+T*
+(old post where I explained something I'd just learned. I wrote a bit more about the blog's) Tj
+T*
+(history last year, and came to the conclusion that the best posts...) Tj
+T*
+() Tj
+T*
+(15. Jensen's Bizarre Adventure) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 10 Nov 2026 17:43:27 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/jensens-bizarre-adventure/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter, and you can subscribe) Tj
+T*
+(on the following links: $70 a year , $18 a quarter , or $7 a month . In return, you get a) Tj
+T*
+(weekly premium newsletter that dives deep into the finances of the AI) Tj
+T*
+() Tj
+T*
+(16. Making a Website in 2026) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Tue, 10 Nov 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/making-websites-in-2026/) Tj
+T*
+(Pete Millspaugh has a great post over on the Val Town blog where he documents his attempt at) Tj
+T*
+(making generating the same website across a variety of AI tools. I love the post. Here are a) Tj
+T*
+(couple of thoughts that come to mind. The Space Is Ripe for Referral Fees Pete decided to make) Tj
+T*
+(a website for his conference talk, and he added a comments section to make it a less static /) Tj
+T*
+(more dynamic demo. This is interesting because LLMs are really good at generating one-off HTML) Tj
+T*
+(pages you open at file:// , but as soon as you start to introduce technological dependencies ?) Tj
+T*
+(like a database, or an analytics tool, or a service for sending email, or payment processing,) Tj
+T*
+(etc. ? the question becomes: How does the LLM choose which service to rely on? It?s one thing) Tj
+T*
+(to have the LLM choose React over Angular or Vue over Svelte. But how \(and why\) does it choose) Tj
+T*
+(something like an auth provider? Does it build you a site with Auth0 or WorkOS or Clerk? How) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 4519 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(would a non-technical user even know how to weigh the trade-offs of making such a decision?) Tj
+T*
+(Pete said he was deliberately vague about these details, which is why I find his experience so) Tj
+T*
+(intriguing. For example, here?s what he found after generating a site i...) Tj
+T*
+() Tj
+T*
+(17. Claude Code token cost explorer) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 10 Nov 2026 00:00:00 +0100) Tj
+T*
+(Link: https://entropicthoughts.com/claude-code-token-cost-explorer) Tj
+T*
+(I am experimenting with involving subagents more in my LLM coding agent workflow. I discovered) Tj
+T*
+(that subagents make it more difficult to diagnose token usage in Claude Code, because the) Tj
+T*
+(regular /context command only breaks down context usage for the main conversation, not for the) Tj
+T*
+(subagents. I tried some existing tools like ccusage and claude-agent-ledger , but they weren?t) Tj
+T*
+(able to give me the sort of breakdown into specifics I needed to optimise my usage. Thus, I) Tj
+T*
+(shamelessly had Claude Code whip up a tool that gives me a better view of its token usage. This) Tj
+T*
+(is vibecoded in the true sense of the word ? I have barely looked at the code ? but I?m okay) Tj
+T*
+(with that becuase it is not critical infrastructure and it does what I need it to. If you want) Tj
+T*
+(to know how to get more out of your Claude Code sessions without paying more for it, here?s how) Tj
+T*
+(you can find out. First, open the context cost explorer in your browser. Everything happens) Tj
+T*
+(locally on your machine, so none of your transcript data leaves your computer. If you?re the) Tj
+T*
+(paranoid kind, you can verify by opening the network tab in your browser and reading in a) Tj
+T*
+(non-sensitive session and seeing that nothing funny happens. Then follow the...) Tj
+T*
+() Tj
+T*
+(18. Monads in Lean) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-11-10T19:25:00-08:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/monads-in-lean/) Tj
+T*
+(This post demonstrates how to use monads in the Lean programming language \(Lean 4, to be) Tj
+T*
+(specific\). If you're not familiar with Lean, this part of the language is very similar to other) Tj
+T*
+(functional programming languages, like Haskell or OCaml. Motivating example - evaluating) Tj
+T*
+(expressions Suppose we want to write a ?) Tj
+T*
+() Tj
+T*
+(19. Finally, Payment by Bank Transfer Comes to Have I Been Pwned) Tj
+T*
+(Source: Troy Hunt | Published: Tue, 10 Nov 2026 20:26:15 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/) Tj
+T*
+(This is simultaneously the most boring yet exciting blog title I've written in a long time. How) Tj
+T*
+(you pay for services isn't exactly a sexy topic, but it solves a problem that's been a massive) Tj
+T*
+(bugbear for a long time. Here's a) Tj
+T*
+() Tj
+T*
+(20. I am searching for a coffee alternative) Tj
+T*
+(Source: Max Bernstein's Blog | Published: Tue, 10 Nov 2026 00:00:00 +0000) Tj
+T*
+(Link: https://bernsteinbear.com/blog/coffee-alternative/?utm_source=rss) Tj
+T*
+(I had an in-person work team meeting last week. In the office, they had Bevi seltzer machines.) Tj
+T*
+(When Bevi machines first arrived at Facebook, where I used to work, I looked down on them. They) Tj
+T*
+(seemed to be a cost reduction, a sad imitation of The Good Stuff that came in cans and bottles) Tj
+T*
+(in the fridge. Good Stuff such as LaCroix 1 and Ito En tea 2 . But this week was different. I) Tj
+T*
+(noticed that this Bevi had a caffeine option 3 . After some experimentation, I decided that for) Tj
+T*
+(the week, I would drink unflavored, chilled, sparkling, caffeinated water instead of coffee.) Tj
+T*
+(And it was great. Basically none of the coffee side effects. For several days straight I) Tj
+T*
+(thoroughly enjoyed a 100-120mg caffeine sparkling water. But all good things must come to an) Tj
+T*
+(end. You cannot \(yet?\) buy a Bevi machine for home. So I am unfortunately now searching for) Tj
+T*
+(alternatives. I took a stroll through our local Star Market in search of a replacement. I) Tj
+T*
+(looked online, too, since we have a weird selection of beverages at that market. I ended up) Tj
+T*
+(with an assortment of brightly colored cans. Time to do a taste test. Requirements In order to) Tj
+T*
+(swap out coffee for something else, I have the following criteria: no \(gratuito...) Tj
+T*
+() Tj
+T*
+(21. We need more goat sacrifices) Tj
+T*
+(Source: Experimental History | Published: Tue, 10 Nov 2026 17:21:43 GMT) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 956 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.experimental-history.com/p/we-need-more-goat-sacrifices) Tj
+T*
+(OR: OJ A-OK) Tj
+T*
+() Tj
+T*
+(22. Revisiting Leander v Sweden and Big Brother Watch) Tj
+T*
+(Source: Bert Hubert's writings | Published: Tue, 10 Nov 2026 20:10:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/) Tj
+T*
+(Governments in Europe are gearing up to increase their bulk surveillance capabilities. One) Tj
+T*
+(check on their ambitions is the European Convention on Human Rights. In this piece, I want to) Tj
+T*
+(highlight recent jurisprudence from the European Court of Human Rights \(ECtHR\), and interpret) Tj
+T*
+(the case law in light of current cybersecurity and AI developments. This interpretation may) Tj
+T*
+(have relevance for future evaluations of SIGINT and other bulk data collection programs.) Tj
+T*
+(Because what seemed reasonable a few years ago may no longer be so.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000154 00000 n 
+0000000224 00000 n 
+0000004958 00000 n 
+0000005084 00000 n 
+0000009959 00000 n 
+0000010085 00000 n 
+0000014358 00000 n 
+0000014484 00000 n 
+0000019351 00000 n 
+0000019479 00000 n 
+0000024051 00000 n 
+0000024179 00000 n 
+0000025187 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+25315
+%%EOF
