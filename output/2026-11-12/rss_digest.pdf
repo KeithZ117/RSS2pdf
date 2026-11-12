@@ -1,0 +1,420 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4486 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-12 16:00:32) Tj
+T*
+() Tj
+T*
+(1. Gemini Decisions API) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-11T22:03:25+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/11/gemini-decisions-api/) Tj
+T*
+(Gemini Decisions API Google join Jev and OpenAI in the decision model category with "Gemini) Tj
+T*
+(Decision 1". This new model API is almost identical to Jev: it supports the same three types of) Tj
+T*
+(questions \(yes/no, choice, and rubric-scoring\) and even reuses Jev's term "Noul" for a yes/no) Tj
+T*
+(question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input) Tj
+T*
+(tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million.) Tj
+T*
+(Jev is text \(and JSON\) only. OpenAI can handle text and images. Gemini Decision 1 is fully) Tj
+T*
+(multi-model: it covers text, images, audio, video, and PDFs. I tested it against video by) Tj
+T*
+(passing these questions to it along with my Yonkers stomping robot video file: dragon: Does) Tj
+T*
+(this video have a dragon in it? robot: Does this video have a robot in it? france: Is this) Tj
+T*
+(video set in France? usa: Is this video set in the USA? Jev and OpenAI both return 1.0 or 0.0) Tj
+T*
+(for yes/no questions, but Gemini insists on being a little less confident than that: { "dragon") Tj
+T*
+(: { "type" : " yes_no " , "probability" : 0.04976021841520312 }, "robot" : { "type" : " yes_no) Tj
+T*
+(" , "probability" : 0.9234055387792485 }, "france" : { "type" : " yes_no " , "proba...) Tj
+T*
+() Tj
+T*
+(2. aws-emulator) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-11T21:18:30+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/11/aws-emulator/) Tj
+T*
+(aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their) Tj
+T*
+(many different services without having to provision a paid API key to do so. It's written in) Tj
+T*
+(Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project.) Tj
+T*
+(Swaminathan \(Swami\) Sivasubramanian wrote about how it came to be in a guest post on Werner) Tj
+T*
+(Vogels' blog. It currently requires Docker to run on macOS or Windows. I'm hoping they fix that) Tj
+T*
+(in the future - it would be great if you could download a single binary and use that as part of) Tj
+T*
+(a standard test suite in other languages and on other platforms. Tags: amazon ,) Tj
+T*
+(amazon-web-services , testing , werner-vogels , ai , rust , docker , generative-ai , llms ,) Tj
+T*
+(agentic-engineering) Tj
+T*
+() Tj
+T*
+(3. Browse tools.simonwillison.net by tag) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-11T18:42:50+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/11/tools-tags/) Tj
+T*
+(Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of) Tj
+T*
+(vibe-coded tools \(244 and counting\) for a while. I had a few Fable 5.2 credits left over before) Tj
+T*
+(my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs,) Tj
+T*
+(libraries, and web API hosts used by each tool. The homepage now features tag clouds for) Tj
+T*
+(browsing by each of those categories of tag: 5, AbortController 6, Blob URLs 38,) Tj
+T*
+(BroadcastChannel 1, Built-in AI 1, Camera / microphone 9, Canvas 2D 44, Clipboard API 69,) Tj
+T*
+(Compression Streams 3, createImageBitmap 2, crypto random values 4, DOMParser 8, Drag and drop) Tj
+T*
+(30, Dynamic import\(\) 12, ES modules 92") Tj
+T*
+(src="https://static.simonwillison.net/static/2026/tools-tag-cloud.webp" /> Tags: javascript ,) Tj
+T*
+(tools , ai , generative-ai , llms , claude , vibe-coding) Tj
+T*
+() Tj
+T*
+(4. Semafor: ?Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-12T04:59:59Z) Tj
+T*
+(Link: https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj) Tj
+T*
+(Rohan Goswami, Reed Albergotti, and Ashley Gold, reporting for Semafor at 10:27pm ET: Some) Tj
+T*
+(members of Nvidia?s board favor appointing Chief Financial Officer Colette Kress as interim CEO) Tj
+T*
+(at the beleaguered chipmaker if CEO and founder Jensen Huang is ousted, according to people) Tj
+T*
+(familiar with the matter. Here?s Kress?s LinkedIn profile . Semafor earlier confirmed that) Tj
+T*
+(Nvidia?s board is preparing to oust Huang as soon as Wednesday, after media reports detailed) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4633 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(that he had a second extramarital affair. The Nvidia board briefed the White House on its) Tj
+T*
+(planned meeting, according to a senior administration official. Nvidia has tapped an outside) Tj
+T*
+(search firm to find the company?s next CEO, Bloomberg reported. One person being considered for) Tj
+T*
+(the top job is Apple hardware chief Johny Srouji, who was among the executives considered for) Tj
+T*
+(Intel CEO in 2019, according to another person familiar with the matter. Kara Swisher) Tj
+T*
+(spitballed Tim Cook as an idea, but that?s nonsense. If Cook wanted to be the CEO of a Fortune) Tj
+T*
+(2 company, he?d still be CEO at Apple. Apple despises Nvidia and Nvidia despises Apple. Cook) Tj
+T*
+(may well be enjoying this fiasco, but only as entertainment drizzled with fresh farm-to-t...) Tj
+T*
+() Tj
+T*
+(5. Nvidia Working With Outside Firm to Identify CEO Candidates) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-12T03:57:43Z) Tj
+T*
+(Link: https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-id) Tj
+T*
+(entify-ceo-candidates) Tj
+T*
+(Nina Trentmann and Ian King, reporting tonight for Bloomberg: Nvidia Corp.?s board has been) Tj
+T*
+(working with an outside firm to identify potential replacements for Chief Executive Officer) Tj
+T*
+(Jensen Huang following reports of multiple extramarital affairs, including one with a woman who) Tj
+T*
+(is reportedly suspected of spying for China, a person familiar with the situation said. The) Tj
+T*
+(board is weighing the idea of naming a temporary chief while searching for a permanent one, the) Tj
+T*
+(person said, asking not to be identified because the information isn?t public. Directors were) Tj
+T*
+(meeting on Wednesday to discuss Huang?s fate, according to people familiar with the situation.) Tj
+T*
+(The Wall Street Journal said earlier that the board was preparing to oust Huang, citing) Tj
+T*
+(unidentified people familiar with the matter. Nvidia didn?t immediately respond to a request) Tj
+T*
+(for comment. There?s no obvious internal candidate because Huang rejected any sort of) Tj
+T*
+(succession planning within the company?s ranks. I don?t know who they could hire from outside) Tj
+T*
+(with gravitas, expertise, and integrity who would want the job. It looks more and more like 20) Tj
+T*
+(percent of their sales have been illegally smuggled into China and Nvidia covered it u...) Tj
+T*
+() Tj
+T*
+(6. WSJ: ?Nvidia Is Preparing to Oust CEO Jensen Huang?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-12T03:42:05Z) Tj
+T*
+(Link: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) Tj
+T*
+(?st=S84MQZ) Tj
+T*
+(Robbie Whelan, Josh Dawsey, Amrith Ramkumar, reporting for The Wall Street Journal in the) Tj
+T*
+(aftermath of the NYT?s scoop that Huang was having an affair with an Nvidia vice president too:) Tj
+T*
+(Nvidia?s board is preparing to oust CEO Jensen Huang after he had two extramarital affairs,) Tj
+T*
+(including one with a suspected Chinese spy and another with an employee. The board is planning) Tj
+T*
+(to meet as soon as Wednesday to determine his future, people familiar with the matter said. His) Tj
+T*
+(departure would bring down the curtain on an era during which he stoked the global) Tj
+T*
+(artificial-intelligence boom and became a geopolitical star. It would leave one of the world?s) Tj
+T*
+(most valuable companies in need of a new leader. The WSJ report was filed at 7p ET Wednesday,) Tj
+T*
+(so presumably ?as soon as Wednesday? means tonight. I give it better than even odds that we) Tj
+T*
+(wake up tomorrow and Huang is out. ?) Tj
+T*
+() Tj
+T*
+(7. Who Runs the Ransomware Group Qilin?) Tj
+T*
+(Source: Krebs on Security | Published: Wed, 11 Nov 2026 18:06:01 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/) Tj
+T*
+(The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program,) Tj
+T*
+(claiming at least 365 victim organizations in the past three months alone. But even top Russian) Tj
+T*
+(hackers make operational security mistakes, and the administrator of Qilin has made a few key) Tj
+T*
+(missteps over the last decade that all point to a 36-year-old man living in St. Petersburg,) Tj
+T*
+(Russia.) Tj
+T*
+() Tj
+T*
+(8. I didn?t write a program with emoji, but I did use a control character) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 11 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261111-00/?p=112848/) Tj
+T*
+(My program was a fairly simple one. The post I didn?t write a program with emoji, but I did use) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4192 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(a control character appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Why Am I So Tired If AI Is Doing All the Work?) Tj
+T*
+(Source: Terrible Software | Published: Wed, 11 Nov 2026 18:23:50 +0000) Tj
+T*
+(Link: https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/) Tj
+T*
+(AI makes it easy to start more work. But reviewing it all still takes your time and attention.) Tj
+T*
+(No wonder we?re so tired.) Tj
+T*
+() Tj
+T*
+(10. HowTo: Fix Eufy HomeBase 2 Storage Full Issues) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 11 Nov 2026 12:34:05 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/howto-fix-eufy-homebase-2-storage-full-issues/) Tj
+T*
+(Quick Fix: Insert a USB memory stick, format it in the app, restart the Eufy HomeBase 2, format) Tj
+T*
+(the internal memory, restart the hub. Background I've had the eufyCam system for over 6 years -) Tj
+T*
+(which is pretty long-life for IoT devices. The cameras have worked pretty much flawlessly. Four) Tj
+T*
+(years ago I added their Video Doorbell which has been similarly well behaved. But last night I) Tj
+T*
+(went to?) Tj
+T*
+() Tj
+T*
+(11. This Week in Source Control: 11 November 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-11-11T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/11/11/this-week-in-source-control.html) Tj
+T*
+(This week?s version control and forge news, gathered from release feeds for source control) Tj
+T*
+(clients and forges, the Lobsters vcs tag , Hacker News, and my boosts on Mastodon . Package) Tj
+T*
+(management news is in the Saturday This Week in Package Management roundup. Scaling Inside) Tj
+T*
+(GitHub?s new Git storage architecture \(Karthik Raman and Brian Celenza, GitHub\) describes) Tj
+T*
+(Rubicon, the design announced at GitHub Universe. Packs go to Azure Blob Storage. References) Tj
+T*
+(and the list of packs are stored in Ref-CAS, a replicated log service where each reference) Tj
+T*
+(update is a compare-and-swap committed by a quorum, so a push waits only on other pushes to the) Tj
+T*
+(same reference. In internal tests one repository accepted 7,200 pushes per second from 5,000) Tj
+T*
+(concurrent agents. Requests still arrive at Spokes, which routes each one to a small group of) Tj
+T*
+(virtual replicas, disposable compute nodes whose local disk is a cache. A replica handling a) Tj
+T*
+(write indexes the pack, uploads it to Blob Storage, then commits one Ref-CAS transaction. For) Tj
+T*
+(reads it sends the version in its cache, and the reply includes references only if they have) Tj
+T*
+(changed since that version. Two earlier prototypes stored reference state in blobs. The...) Tj
+T*
+() Tj
+T*
+(12. Possible Futures) Tj
+T*
+(Source: Fernando Borretti | Published: Thu, 12 Nov 2026 00:00:00 +1100) Tj
+T*
+(Link: https://borretti.me/article/possible-futures) Tj
+T*
+(A map of possible futures.) Tj
+T*
+() Tj
+T*
+(13. Ms. Bashkansky, Please Do Not Build The Torment Nexus) Tj
+T*
+(Source: the website of jyn | Published: 2026-11-11T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/ms-bashkansky-please-do-not-build-the-torment-nexus/) Tj
+T*
+(AI that reads your mind is bad, actually) Tj
+T*
+() Tj
+T*
+(14. NYC?s venture capitalists need to love themselves) Tj
+T*
+(Source: Anil Dash | Published: 2026-11-12T04:24:15Z) Tj
+T*
+(Link: https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/) Tj
+T*
+(I really want a lot of venture capital investors to work on their self-esteem. After a few) Tj
+T*
+(decades of supporting and mentoring New York City?s tech community, I hope I?m credible when I) Tj
+T*
+(say I care a lot about how it thrives. So one of the most disappointing?and frankly surprising) Tj
+T*
+(?things I?ve seen lately is how many investors in the greatest city in the world have been) Tj
+T*
+(lowering themselves, sucking up for approval from a cohort of Silicon Valley tycoons who hate) Tj
+T*
+(our city, hate our values, and want us to fail. I?m furious because there are so many good) Tj
+T*
+(people and good ideas here that deserve to thrive, and aren?t getting the chance. Why would) Tj
+T*
+(anyone sit by while outsiders put our community down, only to let those same outsiders profit) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 537 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(off us when we succeed anyway? In fairness, I?m not talking about all of our city?s investors.) Tj
+T*
+(Some are content to keep their heads down and hope the worst of the West Coast doesn?t notice) Tj
+T*
+(them. But imagine if our other civic institutions worked this way: the Knicks timidly stepping) Tj
+T*
+(onto the court and standing back while opponents charge the rim, or the Liberty letting the) Tj
+T*
+(other team fire off shots unchallenged. This is not the New York City I know. Wh...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004748 00000 n 
+0000004874 00000 n 
+0000009559 00000 n 
+0000009685 00000 n 
+0000013929 00000 n 
+0000014055 00000 n 
+0000014644 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+14772
+%%EOF
