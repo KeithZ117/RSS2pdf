@@ -1,0 +1,446 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4365 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-13 15:39:36) Tj
+T*
+() Tj
+T*
+(1. llm-gemini 0.37) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-12T22:55:19+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/12/llm-gemini/) Tj
+T*
+(Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of) Tj
+T*
+(the Gemini 4 family. It's actually not too far off the price of its much bigger siblings,) Tj
+T*
+(Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme:) Tj
+T*
+(Model Dates Input \($/M\) Cached input Output Gemini 4 Carbon Through Nov 30, 2026 $2.00 $0.10) Tj
+T*
+($10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Argon Through Nov 30, 2026 $2.00 $0.10) Tj
+T*
+($10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Hydrogen $1.50 $0.075 $7.50 Carbon and) Tj
+T*
+(Argon are the same price , and both are scheduled to double in price on December 1st. If) Tj
+T*
+(they're the same price, why have two different models? Google says that Argon "delivers Gemini) Tj
+T*
+(4 intelligence with faster responses and lower token spend per turn compared to Gemini 4) Tj
+T*
+(Carbon" - so it may be priced the same, but it will use less tokens per task. Hydrogen,) Tj
+T*
+(supposedly the cheap model, is currently only a 25% discount on its more capable peers. The) Tj
+T*
+(Hydrogen price will make more sense after December 1st, when it will represent a 75% discount.) Tj
+T*
+(It's still considerably more expensive than Claude Haiku 5.5 and GPT-6 Luna - they're both) Tj
+T*
+($0.10/$0...) Tj
+T*
+() Tj
+T*
+(2. llm 0.37.2) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-11T17:19:52+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/11/llm/) Tj
+T*
+(Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862) Tj
+T*
+(and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by) Tj
+T*
+(the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API) Tj
+T*
+(endpoints from other providers. Daniel reported two ways this could accidentally send your) Tj
+T*
+(configured OpenAI API key to one of those providers: if the key named by api_key_name had never) Tj
+T*
+(been stored, or if a responses: true model was run with -o chat_completions 1 . Tags: projects) Tj
+T*
+(, security , llm , releases) Tj
+T*
+() Tj
+T*
+(3. Anthropic's IPO roadshow video) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-11T15:11:59+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/) Tj
+T*
+(Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their) Tj
+T*
+(roadshow video has some previously unreleased information about how their business works. The) Tj
+T*
+(section on "Approach to compute" with co-founder Tom Brown is particularly interesting,) Tj
+T*
+(describing how Anthropic train and serve Claude across AWS Trainium, Google TPUs, NVIDIA GPUs,) Tj
+T*
+(and AMD GPUs. I'm not sure why there's no official video transcript, but here's one that I) Tj
+T*
+(extracted using MacWhisper. Highlights below: We train and serve Claude now across all four) Tj
+T*
+(major chip families. That's only possible because early on we made an unconventional bet on a) Tj
+T*
+(multi-chip strategy. At the time, many people thought that running AI models on different chips) Tj
+T*
+(wasn't worth the effort. Each chip needs its own tailored software stack and inference stack,) Tj
+T*
+(which is expensive and difficult to build. We've now been doing it for years, and we've gotten) Tj
+T*
+(incredibly good at it. [...] As an example, this year, we started working with AMD GPUs for the) Tj
+T*
+(first time. In the past, bringing on a new chip platform took dozens of engineers months of) Tj
+T*
+(work This time, we had Mythos try it out. It got Claude running on AMD in just t...) Tj
+T*
+() Tj
+T*
+(4. So you want to buy AI for your company) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Fri, 13 Nov 2026) Tj
+T*
+(00:34:41 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/buying-ai-for-your-company) Tj
+T*
+(Where do I start? We have Gemini 4 Hydrogen. But it sounds like you could use Claude Sonnet) Tj
+T*
+(5.5. Or maybe 5.4; it really depends. Have you tried Opus? We have Opus 5.2 right now. It's) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4714 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(similar to Fable 5.2, but better for day-to-day work. It's not quite as powerful as Mythos 5.2,) Tj
+T*
+(though. I hear the gap will narrow eventually. Opus scores 94.8 on a benchmark, while Mythos) Tj
+T*
+(gets 96.1. Fable is a respectable 92.7, assuming you don't ask it to do anything too ambitious.) Tj
+T*
+(Have you tried the Chinese models? DeepSeek is pretty good. You might want to start with the R1) Tj
+T*
+(family to test the waters before moving on to V4. Personally, I'm a Flash kind of guy, but Pro) Tj
+T*
+(is pretty good too. The crowd favorite is GLM these days. You've got to try 5.3 Flash. Its) Tj
+T*
+(Mixture-of-Experts architecture is state of the art, in my opinion. It scores an impressive) Tj
+T*
+(87.3 on the Benchmark Performance Index. But let's be serious for a minute. You're probably) Tj
+T*
+(looking for ChatGPT. Astra is overkill unless you want to do some damage. I'd stick with) Tj
+T*
+(GPT-6.0 Terra, not Sol! That one ate through my budget in three days. Terra gets 98.2 on the) Tj
+T*
+(Enterprise Productivity Benchmark, while Sol gets 99.1. That extra 0.9 will cost y...) Tj
+T*
+() Tj
+T*
+(5. How can I pass more than one parameter to co_await?) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 12 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261112-00/?p=112851/) Tj
+T*
+(The co_await operator takes only one parameter, but it can be a big parameter. The post How can) Tj
+T*
+(I pass more than one parameter to co_await ? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(6. Jensen Huang Agrees to Testify Before Congress, But Not Publicly \(Yet\)) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-12T21:32:07Z) Tj
+T*
+(Link: https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/) Tj
+T*
+(Aisha Malik, TechCrunch: Ex-Nvidia CEO Jensen Huang has agreed to testify before Congress,) Tj
+T*
+(House Foreign Affairs Committee Chairman Brian Mast said on Thursday, according to reports from) Tj
+T*
+(Bloomberg and NBC News . Huang, who stepped down as CEO following reports of an alleged affair) Tj
+T*
+(with a woman suspected of spying for China, agreed to testify Wednesday after several senior) Tj
+T*
+(lawmakers threatened to subpoena him. Huang has agreed to testify before Congress by) Tj
+T*
+(Thanksgiving, which falls later this month. [...] The testimony will take place behind closed) Tj
+T*
+(doors, though Mast said he expects the briefing to be recorded on video and transcribed.) Tj
+T*
+(Closed-door is pantomime. Public reckonings will come next year . This whole thing could crater) Tj
+T*
+(Nvidia?s stock price, sinking the market, and it?s Nvidia?s investments that are propping up) Tj
+T*
+(the entire AI industry. So if the whole economy takes a severe beating in the coming months,) Tj
+T*
+(imagine just how much more contentious Congressional inquiries under Democratic control could) Tj
+T*
+(be. I?m of the belief that the whole AI boom is ultimately a complex Ponzi scheme, and Ponzi) Tj
+T*
+(schemes, by their nature, eventually crash out. But now Huang has set himself up as the...) Tj
+T*
+() Tj
+T*
+(7. Scott Colom Flips Mississippi) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-12T21:20:29Z) Tj
+T*
+(Link: https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachme) Tj
+T*
+(nt-effort) Tj
+T*
+(Emine Y¸cel, reporting for TPM: Mississippi prosecutor Scott Colom officially defeated) Tj
+T*
+(incumbent Sen. Cindy Hyde-Smith \(R-MS\) Wednesday night. Colom will be the first Democrat to) Tj
+T*
+(represent Mississippi in the Senate since 1982 and he will also become the state?s first Black) Tj
+T*
+(senator in nearly 150 years. 150 years is, needless to say, a long time. The crazy part about) Tj
+T*
+(that is that Mississippi has the highest proportion of black citizens in the entire country \(38) Tj
+T*
+(percent\). Colom, by all accounts, ran a fantastic campaign, with little to no support from the) Tj
+T*
+(national Democratic Party because almost no one imagined Mississippi ? the deepest of the deep) Tj
+T*
+(South ? might turn blue. This commercial Colom ran is one of the best I?ve ever seen. Not just) Tj
+T*
+(best political commercials. I mean it?s one of the best 30-second spots ever made. It?s) Tj
+T*
+(perfect. I just keep watching it over and over. Update: I stand corrected on the national) Tj
+T*
+(support. The WSJ ran a story back in September ? six weeks before the election ? on Senate) Tj
+T*
+(Minority Leader Chuck Schumer raising funds for Colom amongst big Democratic donors. Schumer) Tj
+T*
+(smelled a winner. ?) Tj
+T*
+() Tj
+T*
+(8. The Dream of Quibi Lives On) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-12T20:54:43Z) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4552 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Link: https://www.nbcuniversal.com/article/peacock-extends-its-vertical-video-leadership-reimag) Tj
+T*
+(ined-mobile-experience) Tj
+T*
+(Actual headline from an actual press release: ?Peacock Extends Its Vertical Video Leadership) Tj
+T*
+(With a Reimagined Mobile Experience?. Please tell me that someone printed up some t-shirts and) Tj
+T*
+(hats with ?Vertical Video Leadership? on them. ?) Tj
+T*
+() Tj
+T*
+(9. Book Review: This Is for Everyone - Tim Berners-Lee ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 12 Nov 2026 12:34:10 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/) Tj
+T*
+(Is this a biography of a man, or of his mission? Is this the story of how the web came to be,) Tj
+T*
+(or a lament for what happened to it? Do you crave the inside gossip, or the PR sanitised gloss?) Tj
+T*
+(This Is For Everyone, but I think it ends up being slightly unsatisfying for anyone. It starts) Tj
+T*
+(with the normal charming family anecdotes. No grand revelations or hidden secrets, just a) Tj
+T*
+(lovely ramble?) Tj
+T*
+() Tj
+T*
+(10. Technology as a Search Problem) Tj
+T*
+(Source: Construction Physics | Published: Thu, 12 Nov 2026 13:01:45 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/technology-as-a-search-problem) Tj
+T*
+(One of my ongoing research interests is understanding the nature of technological progress: How) Tj
+T*
+(does new technology come into the world and improve over time?) Tj
+T*
+() Tj
+T*
+(11. First Strike) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-11-13T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html) Tj
+T*
+(Internalize this graph, we post it on this blog a lot. If trends continue, China will have 10x) Tj
+T*
+(the electricity of the US in 10 years. Whenever you think about geopolitical strategy, always) Tj
+T*
+(keep it in mind, because whatever your plans are must consider this. Here?s a strategy that) Tj
+T*
+(would make sense for America long term. Sell as many AI chips into China as possible, use the) Tj
+T*
+(money to purchase solar panel and battery factories, and build out electricity capacity as) Tj
+T*
+(quickly as possible. Fundamentally, compute is a function of electricity. That?s the sort of) Tj
+T*
+(long term thinking that gives America a chance. With robotic labor, immigrants like Jensen and) Tj
+T*
+(Elon, a business friendly culture, and an incredible chunk of land, it?s not so clear who is) Tj
+T*
+(ahead in 50 years. Regardless, I do know this strategy would lead to massive prosperity for the) Tj
+T*
+(citizens of both countries. However, that?s not close to what we see happening. We see a lot of) Tj
+T*
+(short term zero sum thinking in action. It?s very scary what the US ?AI race? mentality leads) Tj
+T*
+(to. When exactly does the race end? Whatever capabilities you have today will eventually be) Tj
+T*
+(matched, unless? ?you believe that you can use ASI in a decapitating first...) Tj
+T*
+() Tj
+T*
+(12. Pluralistic: Uber's labor crash \(12 Nov 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 12 Nov 2026 20:50:53) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/11/12/starvation-wages/) Tj
+T*
+(Today's links Uber's labor crash: Replacing serfs with robots just doesn't pencil out. Hey look) Tj
+T*
+(at this: Delights to delectate. Object permanence: Asimov inspired Al Qaeda; PATRIOT Act scares) Tj
+T*
+(Canadian customers off US servers; EFF v Trump; Internet infrastructure is unsupported and) Tj
+T*
+(failing; Nominative determinism debunked; How to fight Trump; Burglars v burglary; NYT said) Tj
+T*
+(Hitler was only kidding; Folky Song Funny Note; Surviving autocracy; Corporate criminals.) Tj
+T*
+(Upcoming appearances: Vancouver, Folkestone, Oxford, Sheffield, Virtual, Oxford, Santa Barbara,) Tj
+T*
+(Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep) Tj
+T*
+(writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Uber's) Tj
+T*
+(labor crash \(permalink\) There's a specific kind of lie that tech bosses tell: the "premature) Tj
+T*
+(truth." That's a lie that they excuse by saying it'll come true soon:) Tj
+T*
+(https://pluralistic.net/2024/12/04/its-not-a-lie/#its-a-premature-truth Elon Musk is the) Tj
+T*
+(world's most enthusiastic teller of these lies. That's not surprising: any kind of radical) Tj
+T*
+(promise about the automotive sector has a 90% chance of being this kind of bullshit. Musk can) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1581 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(barely mentio...) Tj
+T*
+() Tj
+T*
+(13. SSA from bytecode: imperative pearl) Tj
+T*
+(Source: Max Bernstein's Blog | Published: Thu, 12 Nov 2026 00:00:00 +0000) Tj
+T*
+(Link: https://bernsteinbear.com/blog/ssa-bytecode/?utm_source=rss) Tj
+T*
+(Ufuk made a comment that he enjoyed my description of SSA from bytecode in Aaron?s livestream) Tj
+T*
+(with me . While filming the livestream?an intro to ZJIT internals?I got a little nervous that) Tj
+T*
+(people would shy away from our 1900 line add_iseq_to_hir function. This function is responsible) Tj
+T*
+(for converting CRuby?s stack based bytecode for the YARV virtual machine into a high-level SSA) Tj
+T*
+(IR for ZJIT to analyze and optimize. It takes bytecode that looks roughly like this: push 3) Tj
+T*
+(push 4 add into SSA form, giving an SSA value to each stack slot, ish: v0 = const 3 v1 = const) Tj
+T*
+(4 v2 = add v0, v1 While our function is 2000 lines long because it handles a lot of specific) Tj
+T*
+(opcodes and weird facts about those opcodes, the core of it is small. Here is that core. What) Tj
+T*
+(if a stack, but virtual The bytecode assumes that when it is run, it will be operating on a) Tj
+T*
+(stack. This means that every opcode has implicit stack inputs and implicit stack outputs. push) Tj
+T*
+(3 , for example, has empty stack inputs and one stack output. By contrast, add has two stack) Tj
+T*
+(inputs and one stack output. Some instructions such as nop are empty on both counts. As far as) Tj
+T*
+(I can tell, all instructions have at most one output. These counts are...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004627 00000 n 
+0000004753 00000 n 
+0000009519 00000 n 
+0000009645 00000 n 
+0000014249 00000 n 
+0000014375 00000 n 
+0000016009 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16137
+%%EOF
