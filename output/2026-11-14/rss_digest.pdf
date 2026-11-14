@@ -1,0 +1,390 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4363 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-14 15:26:26) Tj
+T*
+() Tj
+T*
+(1. datasette-cluster-map 0.19) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-13T23:02:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/13/datasette-cluster-map/) Tj
+T*
+(Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my) Tj
+T*
+(favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to) Tj
+T*
+(ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants) Tj
+T*
+(owned by California's PG&E , also demonstrating Datasette's recently redesigned facets : Tags:) Tj
+T*
+(datasette , geospatial , openstreetmap) Tj
+T*
+() Tj
+T*
+(2. datasette-leaflet 0.3) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-13T22:30:54+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/13/datasette-leaflet/) Tj
+T*
+(Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their) Tj
+T*
+(hosted tile server should send a referrer header . Datasette table pages used the) Tj
+T*
+(Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap) Tj
+T*
+(to violate that policy. datasette-leaflet is the plugin that loads a bundled Leaflet so other) Tj
+T*
+(Datasette plugins can depend on it. It now sets the referrer policy on the tile requests) Tj
+T*
+(themselves to strict-origin-when-cross-origin , passing the host but not the full path to the) Tj
+T*
+(page. Tags: leaflet , datasette , openstreetmap) Tj
+T*
+() Tj
+T*
+(3. Terry Pratchett's Study) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-07T19:34:24+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/7/hn-50407316/) Tj
+T*
+(My comment on Terry Pratchett's Study ? Hacker News. Terry Pratchett once wrote about the) Tj
+T*
+(concept of "horizontal wealth". Vertical wealth is where you spend money on rich people stuff -) Tj
+T*
+(yachts and suchlike. Horizontal wealth is where you spend more money on the things you liked) Tj
+T*
+(before you got rich: https://chibuikeani.blogspot.com/2017/02/the-price-of-happin... But) Tj
+T*
+(horizontal wealth means not letting your increased income dictate your tastes. You like books) Tj
+T*
+(and now you have money? Buy more books! Change those catenary bookshelves for good hardwood) Tj
+T*
+(ones! In my case, build a library extension to your office. And, of course, you buy what will) Tj
+T*
+(be useful for that most wonderful of pursuits, blind research, which is research without) Tj
+T*
+(direction for the sheer joy of it. \(Original source is his book A Slip of the Keyboard - this) Tj
+T*
+(linked blog post quotes that bit.\) Tags: hacker-news , terry-pratchett) Tj
+T*
+() Tj
+T*
+(4. Andrew Sharp: ?Jensen Huang Was Always Going to Lose?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-13T20:01:25Z) Tj
+T*
+(Link: https://sharptext.net/2026/jensen-huang-was-always-going-to-lose/) Tj
+T*
+(Andrew Sharp, in an excellent column at Sharp Text: I have a variety of thoughts after spending) Tj
+T*
+(the past several days reading and recording podcasts about these \(figurative and literal\)) Tj
+T*
+(affairs, but let me express one unpopular sentiment at the outset: what happened to Jensen) Tj
+T*
+(Huang this week is tragic and depressing. I have a disease that makes me sympathetic to almost) Tj
+T*
+(anyone who ends up on the wrong end of viral outrage and panic, and unfortunately it?s flaring) Tj
+T*
+(up again. Huang is one of the greatest CEOs in American history. He?s still hyper competent,) Tj
+T*
+(he?s been incredibly important to the growth of the AI ecosystem, and frankly, he?s among the) Tj
+T*
+(most sane of the contemporary tech leaders we have on offer. His fall from grace has been not) Tj
+T*
+(only stunning but seemingly coordinated. It is sad . But it?s also funny . Many tragedies are) Tj
+T*
+(also hilarious . \(That?s a key to Shakespeare?s enduring fame ? his tragedies had funny scenes) Tj
+T*
+(and his comedies had painful themes .\) But I think it?s now a very open question whether Jensen) Tj
+T*
+(Huang was even a vaguely responsible CEO, let alone ?one of the greatest CEOs in American) Tj
+T*
+(history?. What?s undisputed is that he?s one of the greatest technical innov...) Tj
+T*
+() Tj
+T*
+(5. Inside Jensen Huang?s Final Hours as the CEO of Nvidia) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4450 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-11-13T19:19:47Z) Tj
+T*
+(Link: https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-t) Tj
+T*
+(he-ceo-of-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR) Tj
+T*
+(2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0NzgxNSwiZXhwIjoxNzk1MTUyNjE1LCJhcnRpY2xlSWQiOiJUT0YxQVBOM04w) Tj
+T*
+(OUIwMCIsImJjb25uZWN0SWQiOiI1RkQyNjU1NTA2QTI0NjM2QjM1NzBEQkQ5MTY1RkI1NCJ9.8RulazBTaUuCgwysfQ4dlu) Tj
+T*
+(-dhQIe3yvK-2UHLcm3hWc&leadSource=article-gifting) Tj
+T*
+(Drake Bennett and Ian King, reporting for Bloomberg \(gift link\): At the end, Jensen Huang) Tj
+T*
+(looked broken and shattered, his legendary energy depleted. After weeks spent denying the) Tj
+T*
+(allegations of infidelity and fighting to remain in his job as Nvidia Corp.?s chief executive) Tj
+T*
+(officer, his surrender late Wednesday night was unconditional. Huang?s usual take-charge) Tj
+T*
+(demeanor had evaporated, according to a person familiar with the situation, and he?d started) Tj
+T*
+(using phrases like ?whatever? and ?I don?t care.? For the decades he spent building Nvidia into) Tj
+T*
+(a multitrillion-dollar AI chip behemoth, Huang was famous for his attention to the tiniest of) Tj
+T*
+(details, from chip architecture to the compensation packages of even the most junior employees) Tj
+T*
+(at the company. Now, in the eyes of the people in the room, he had given up. According to) Tj
+T*
+(people who?ve spoken with him in recent days, Huang has already taken a penitent turn,) Tj
+T*
+(castigating himself as a ?piece of shit.? It really is sad. No joke here. It?s sad. ?) Tj
+T*
+() Tj
+T*
+(6. Microsoft, and Its Customers, Are Suffering a Global Cloud Outage) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-13T17:27:56Z) Tj
+T*
+(Link: https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-) Tj
+T*
+(not-hackers-for-global-outage/) Tj
+T*
+(Ashley Belanger, Ars Technica: A global outage taking down a wide range of Microsoft 365) Tj
+T*
+(services remains ongoing Friday morning. The outage started midday Thursday, impacting users of) Tj
+T*
+(Microsoft email, cloud, and AI services. Microsoft has documented the full list of services) Tj
+T*
+(impacted by the error, while moving early Friday morning to protect customers around the world) Tj
+T*
+(from losing emails during the extended disruptions. ?Recovery actions are ongoing,? the) Tj
+T*
+(Microsoft 365 Status account confirmed on X. ?To help preserve delayed mail during this event,) Tj
+T*
+(we?ve extended email timeout to 48 hours.? So it?s more like Microsoft 363 at this point. ?) Tj
+T*
+() Tj
+T*
+(7. How can I make it easier to use the helper class that lets me pass more than one) Tj
+T*
+(parameter to co_await?) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 13 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261113-00/?p=112856/) Tj
+T*
+(Remove the need to have to type out the name of the helper. The post How can I make it easier) Tj
+T*
+(to use the helper class that lets me pass more than one parameter to co_await ? appeared first) Tj
+T*
+(on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. Kepler and the dwarf) Tj
+T*
+(Source: John D. Cook | Published: Fri, 13 Nov 2026 14:54:38 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/13/kepler-and-the-dwarf/) Tj
+T*
+(Kepler?s third law A recent article from Smithsonian magazine says a new dwarf planet candidate) Tj
+T*
+(is 46 times further from the sun as earth is, and it takes 281.1 years to orbit the sun. I did) Tj
+T*
+(a back-of-the-envelope calculation and thought something was wrong. Kepler?s third law says T≤) Tj
+T*
+(= c a≥. Here T is the orbital [?] The post Kepler and the dwarf first appeared on John D. Cook) Tj
+T*
+(.) Tj
+T*
+() Tj
+T*
+(9. Long permutations and long cycles) Tj
+T*
+(Source: John D. Cook | Published: Fri, 13 Nov 2026 11:59:31 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/13/long-cycles/) Tj
+T*
+(A permutation rearranges the elements of a list. The number of arrangements, say of a deck of) Tj
+T*
+(cards, is finite, so eventually you have to arrive at an arrangement you?ve produced before,) Tj
+T*
+(and history will repeat itself. Along the way, some cards may move in smaller cycles than) Tj
+T*
+(others. Example For example, consider the permutation [?] The post Long permutations and long) Tj
+T*
+(cycles first appeared on John D. Cook .) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3765 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(10. Gadget Review: Thermal Master P3 Lite - and Linux Instructions ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 13 Nov 2026 12:34:48 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/gadget-review-thermal-master-p3-lite-p2-max-and-linux-in) Tj
+T*
+(structions/) Tj
+T*
+(The good folks at Thermal Master have sent me \(yet another\) thermal camera. The P3 Lite has a) Tj
+T*
+(detachable macro lens. As well as being good for scanning your house for leaks and looking for) Tj
+T*
+(wildlife, it can focus down on tiny electronic components. I've previously reviewed their P3) Tj
+T*
+(with adjustable macro focus, the chunky T2 Max, and the wildlife spotting DV2 - how does this) Tj
+T*
+(compare? Like?) Tj
+T*
+() Tj
+T*
+(11. Premium: The Hater?s Guide To Megaspeed) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 13 Nov 2026 18:19:39 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/hg-megaspeed/) Tj
+T*
+(Editor?s Note: The following situation is extremely fast-moving and it?s likely that more) Tj
+T*
+(information gets reported both after I finish writing it and after it goes to press. As a) Tj
+T*
+(result, the story may change in unexpected ways. I?m not gonna lie ?) Tj
+T*
+() Tj
+T*
+(12. The avalanche that hit math is coming for AI development) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Fri, 13 Nov 2026 18:37:51 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/rsi) Tj
+T*
+(Why I now expect superintelligence by 2030) Tj
+T*
+() Tj
+T*
+(13. This Week on The Analog Antiquarian) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 13 Nov 2026 17:07:18 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/) Tj
+T*
+(Opus 7: Titus Andronicus) Tj
+T*
+() Tj
+T*
+(14. Pluralistic: I told you so \(13 Nov 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 13 Nov 2026 19:44:37) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/11/13/outlookpocalypse/) Tj
+T*
+(Today's links I told you so: Microsoft is too big to live. Hey look at this: Delights to) Tj
+T*
+(delectate. Object permanence: Canada's corrupt copyright czar; Universal Music CEO v iPod) Tj
+T*
+(owners; Berlusconi x neo-fascists; Balancing 3,118 coins on a dime; All for-profit healthcare) Tj
+T*
+(is a problem. Upcoming appearances: Folkestone, Oxford, Sheffield, Virtual, Oxford, Santa) Tj
+T*
+(Barbara, Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll) Tj
+T*
+(keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. I) Tj
+T*
+(told you so \(permalink\) Here's the one weird trick that made it possible for monopolies to) Tj
+T*
+(conquer the world: the antitrust bar changed the rules so that it was impossible to prove) Tj
+T*
+(whether a company had formed an illegal monopoly, and then these rules meant that monopolies) Tj
+T*
+(were almost never challenged, and what challenges did arise were usually unsuccessful, and even) Tj
+T*
+(the successful challenges resulted in meaningless "penalties" that left monopolists unscathed.) Tj
+T*
+(Every policy has three important dimensions: substance, scope and administrability: "Substance") Tj
+T*
+(is what the policy actually says. For example, the basic substance of copyright law...) Tj
+T*
+() Tj
+T*
+(15. So all software is free as in money now?) Tj
+T*
+(Source: matduggan.com | Published: Fri, 13 Nov 2026 14:16:16 GMT) Tj
+T*
+(Link: https://matduggan.com/so-all-software-is-free-as-in-money-now/) Tj
+T*
+(A few weeks ago I was up late in my kitchen. I've always been a bad sleeper, starting from when) Tj
+T*
+(I was 10 and would spend whole nights reading books and watching the clock slowly wind it way) Tj
+T*
+(to when I had to get up and go to) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004618 00000 n 
+0000004744 00000 n 
+0000009246 00000 n 
+0000009372 00000 n 
+0000013189 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+13315
+%%EOF
