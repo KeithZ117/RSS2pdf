@@ -1,0 +1,452 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4176 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-15 15:37:52) Tj
+T*
+() Tj
+T*
+(1. datasette-llm 0.1a11) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-14T23:59:28+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/14/datasette-llm/) Tj
+T*
+(Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that) Tj
+T*
+(supports configuring LLMs for use with other Datasette plugins. This release adds support for) Tj
+T*
+(OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that) Tj
+T*
+(talks the OpenAI pseudo-standard web protocol. This means that if you're running local models) Tj
+T*
+(with LM Studio or Ollama or llama.cpp \(which just hit v1.0.0 \) you can run Datasette via uvx) Tj
+T*
+(like this: wget https://datasette.io/content.db uvx --with datasette-agent datasette \\ --root) Tj
+T*
+(--secret 1 \\ -s plugins.datasette-llm.default_model ' { "model": "lmstudio-qwen", "model_name":) Tj
+T*
+("qwen/qwen3.8-27b", "api_base": "http://localhost:1234/v1" } ' content.db And you'll get a) Tj
+T*
+(local server running a Datasette Agent instance powered by your local model! Tags: uv ,) Tj
+T*
+(datasette-agent , llm , datasette , llms , ai , generative-ai) Tj
+T*
+() Tj
+T*
+(2. datasette-vega 0.7) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-14T17:09:09+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/14/datasette-vega/) Tj
+T*
+(Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for) Tj
+T*
+(rendering charts \(using Vega-Lite \) against data in a table or custom query. The last release) Tj
+T*
+(was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus) Tj
+T*
+(some cosmetic tweaks to make it work better with Datasette Lite . \(Datasette Lite just gained) Tj
+T*
+(the ability to run JavaScript plugins like this! I'll write more about that soon.\) Since it) Tj
+T*
+(works with Datasette Lite, the live demo in the README now links to this demo on Datasette Lite) Tj
+T*
+(. Tags: datasette , visualisation , datasette-lite) Tj
+T*
+() Tj
+T*
+(3. AI is destroying my CS degree) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-03T16:42:02+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/3/hn-50354278/) Tj
+T*
+(My comment on AI is destroying my CS degree ? Hacker News. I don't envy educators right now. AI) Tj
+T*
+(clearly means you need to change how you teach and evaluate students. We are only a few years) Tj
+T*
+(in though, and it's still extremely unclear what effective teaching with these tools looks) Tj
+T*
+(like. The worst part is that the evaluation loop is measured in multiple years! If you start) Tj
+T*
+(trying some new education mechanism today you won't get a robust idea of how well it works) Tj
+T*
+(until your current cohort graduate in 3-6 years time. Students effectively all become guinea) Tj
+T*
+(pigs for untested new ways of learning and teaching. Tags: ai-ethics , hacker-news , education) Tj
+T*
+(, ai) Tj
+T*
+() Tj
+T*
+(4. Ops needs friction) Tj
+T*
+(Source: Jeff Geerling | Published: Sat, 14 Nov 2026 10:30:00 -0600) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/ops-needs-friction/) Tj
+T*
+(Between Microsoft's two-day outage and the FAA ground stop yesterday , there's plenty of ink) Tj
+T*
+(spilled about who's responsible, why these things happened, etc. But it made me think back to) Tj
+T*
+(some of the infrastructure and ops teams I've worked on, and similar \(though much smaller) Tj
+T*
+(scale\) outages we encountered. Having an ops mindset is fundamentally different from a) Tj
+T*
+(development or project management mindset. And it took me over a decade of software development) Tj
+T*
+(to understand why.) Tj
+T*
+() Tj
+T*
+(5. How to find meaning in large tech companies) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sat, 14 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/) Tj
+T*
+(Why do many people hate working in large tech companies? The obvious answer is ?because) Tj
+T*
+(organizational dysfunction stops them from doing the things they want to do?. Engineers like to) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4622 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(write code and ship things, and if their company?s dysfunction is preventing that, it?ll make) Tj
+T*
+(them unhappy. Right? Some people just hate messiness I don?t think so, actually. If that were) Tj
+T*
+(the case, those people would be interested in understanding the dysfunction and learning how to) Tj
+T*
+(work around it, so they can do more of the things they want to do 1 . However, many people seem) Tj
+T*
+(to actively avoid that. They find even contemplating the dysfunction to be as unpleasant as) Tj
+T*
+(actually dealing with it. I think the reason for that is similar to why most people don?t like) Tj
+T*
+(working in a messy room. People ? particularly engineers ? have a compulsion towards neatness.) Tj
+T*
+(As I?ve written about before , it?s often our weird internal compulsions that drive our) Tj
+T*
+(professional selves. If you feel a visceral disgust towards organizational dysfunction,) Tj
+T*
+(spending any time thinking about it probably feels like being tainted. In Anathem , Neal) Tj
+T*
+(Stephenson writes about a strange punishment where initiate scholars are forced to study...) Tj
+T*
+() Tj
+T*
+(6. Pebble Round 2 Starts Shipping!) Tj
+T*
+(Source: Eric Migicovsky's Blog RSS Feed | Published: Wed, 30 Sep 2026 00:00:00 GMT) Tj
+T*
+(Link: https://repebble.com/blog/pebble-round-2-starts-shipping) Tj
+T*
+(TLDR PR2 is in production!! See all the strap options What you need to know about Pebble Round) Tj
+T*
+(2 Address confirmation email instructions F?) Tj
+T*
+() Tj
+T*
+(7. Joanna Stern Reviews the HomeView) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-14T17:50:00Z) Tj
+T*
+(Link: https://www.youtube.com/watch?v=yVTcVtLn2o4) Tj
+T*
+(This is so goddamn good. Both informative and hilarious. \(She made a fun bonus reel that?s) Tj
+T*
+(right up my alley too ? but watch the main review first.\) ?) Tj
+T*
+() Tj
+T*
+(8. Jason Snell?s HomeView Review) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-14T17:45:00Z) Tj
+T*
+(Link: https://sixcolors.com/post/2026/11/homeview-review-a-late-arrival-with-promise-but-still-) Tj
+T*
+(showing-some-seams/) Tj
+T*
+(Jason Snell: The hardware is solid and coherent, the screen a pleasure to touch and tilt. In) Tj
+T*
+(terms of software, though, the HomeView feels like a peculiar amalgam of numerous other Apple) Tj
+T*
+(products. Its main interface makes it look a bit like an overgrown Apple Watch, complete with) Tj
+T*
+(customizable ?faces? that sometimes resemble actual Apple Watch faces and other times resemble) Tj
+T*
+(the iPhone?s StandBy mode. Its apps sometimes feel like they?ve escaped from the iPhone or) Tj
+T*
+(iPad, but at other times they feel more like they?re right off of an Apple TV. And still other) Tj
+T*
+(?apps? resemble what you might see in your car, since Apple is also using CarPlay to project) Tj
+T*
+(interfaces from apps running on your iPhone. Given the fact that this product?s tech stack) Tj
+T*
+(feels like it was created in a blender, it?s remarkable that it holds together as well as it) Tj
+T*
+(does ? but there are still places where the seams show. I?ve been testing a review unit) Tj
+T*
+(HomeView for a bit over a week, but haven?t had much time to devote to it. So in a lot of ways) Tj
+T*
+(my HomeView experience thus far has been much more like that of a casual user than an expert. I) Tj
+T*
+(plugged it in, set it up, got my wife and son to do what they needed to do to bec...) Tj
+T*
+() Tj
+T*
+(9. Patrick McGee on Johny Srouji and Nvidia) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-14T17:40:39Z) Tj
+T*
+(Link: https://x.com/patrickmcgee_/status/2120799867140550999) Tj
+T*
+(Patrick McGee \(author of Apple in China ; my guest on The Talk Show last May\), writing on X in) Tj
+T*
+(response to Semafor?s reporting that Nvidia is ?considering? Johny Srouji: Apple hardware chief) Tj
+T*
+(Johny Srouji would be an incredible choice to lead @nvidia ? and I believe he?d accept it. He?s) Tj
+T*
+(hit the ceiling at Apple and won?t ever be CEO; obviously competent; ambitious as hell; has) Tj
+T*
+(long wanted chip designs to dictate Apple product launches/timelines. I wrote about this a few) Tj
+T*
+(days ago , that my money is on Srouji having no interest in the Nvidia job. It?s true that) Tj
+T*
+(Srouji will almost certainly never be CEO at Apple. But it?s wrong to assume that Srouji would) Tj
+T*
+(consider CEO of Nvidia to be an upgrade from CHO at Apple. There?s no way Eddy Cue, Craig) Tj
+T*
+(Federighi, or Greg Joswiak would leave Apple to be CEO at another company. Most of Apple?s) Tj
+T*
+(leadership genuinely bleeds six colors. There?s a certain approach to product that drives them,) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4129 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(motivates them, and literally only Apple does that type of work. Tim Cook surely turned down) Tj
+T*
+(numerous CEO offers to leave Apple while he served as COO under Steve Jobs, and he?s always) Tj
+T*
+(been clear that he hoped Jobs would stay a few steps ahead of his cancer and...) Tj
+T*
+() Tj
+T*
+(10. The longest polynomial level set) Tj
+T*
+(Source: John D. Cook | Published: Sat, 14 Nov 2026 15:54:10 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/14/erdos-lemniscate/) Tj
+T*
+(Let p\(z\) be a polynomial with leading coefficient 1, i.e. a monic polynomial. What is the) Tj
+T*
+(maximum length of the curve {z : |p\(z\)| = 1} for each degree n? Erd?s conjectured that the) Tj
+T*
+(maximum length was obtained by the polynomial p\(z\) = zn ? 1. He was right, as Teng Zhang proved) Tj
+T*
+(recently. Examples [?] The post The longest polynomial level set first appeared on John D. Cook) Tj
+T*
+(.) Tj
+T*
+() Tj
+T*
+(11. Peeking inside the bash rabbit hole) Tj
+T*
+(Source: John D. Cook | Published: Sat, 14 Nov 2026 13:09:57 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/14/bash-rabbit-hole/) Tj
+T*
+(I have much bigger issues to be concerned with than saving a few seconds of typing with obscure) Tj
+T*
+(bash features. But precisely because I have bigger issues on my plate, it?s fun to take a) Tj
+T*
+(moment and solve some little tangible problem. The shell !$ saves the last part of the latest) Tj
+T*
+(command. \(Mnemonic: bang [?] The post Peeking inside the bash rabbit hole first appeared on) Tj
+T*
+(John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. This Week in Package Management: 14 November 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-11-14T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/11/14/this-week-in-package-management.html) Tj
+T*
+(This week?s package management news, gathered from the package manager OPML feed collection ,) Tj
+T*
+(my posts and boosts on Mastodon , and anything people sent me. Version control and forge news) Tj
+T*
+(is in the Wednesday This Week in Source Control roundup. Security Composer 2.11.2 fixes seven) Tj
+T*
+(security bugs, two of them reachable through a crafted composer.lock or) Tj
+T*
+(vendor/composer/installed.json . Those are arbitrary command execution through the) Tj
+T*
+(prevent_url_access_callable transport option \( GHSA-jhfp-4ppm-crmm \) and inline repository HTTP) Tj
+T*
+(credentials sent to dist mirrors on other hosts \( GHSA-x82q-x274-r6pq \). A malicious zip could) Tj
+T*
+(also write outside the package directory through symlinked entries when extraction fell back) Tj
+T*
+(from unzip to ZipArchive \( GHSA-w6hj-6587-3jh5 \). Composer 2.2.32 backports the zip and) Tj
+T*
+(credential fixes to the LTS branch. 2.11.2 also adds an exclude-branches option for VCS) Tj
+T*
+(repositories and aborts downloads that stall for 30 seconds. Podman 6.2.0 and 5.8.10 fix three) Tj
+T*
+(CVEs, one of which let untrusted image labels make podman auto-update restart the wrong systemd) Tj
+T*
+(units \( GHSA-55rm-rwr7-q2wr \). The other two are a digest and signature validation bypass for) Tj
+T*
+(malicious images...) Tj
+T*
+() Tj
+T*
+(13. Reading List 11/14/2026) Tj
+T*
+(Source: Construction Physics | Published: Sat, 14 Nov 2026 16:09:38 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-11142026) Tj
+T*
+(A Brooklyn building collapse, BAAJA?s odds of passing, reusing old memory in new phones, a) Tj
+T*
+(nationwide aircraft ground stop, and more.) Tj
+T*
+() Tj
+T*
+(14. Theatre Review: FrankenTacit ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 14 Nov 2026 12:34:35 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/theatre-review-frankentacit/) Tj
+T*
+(Is Frankenstein the first cautionary tale about AI? If so, what does it mean to re-imagine it) Tj
+T*
+(through the lens of Korean algorave music? The Seoul-based Tacit Group have crafted a new) Tj
+T*
+(version of an ancient tale. Against a projected backdrop of procedurally generated imagery, a) Tj
+T*
+(single human performer is joined by two AIs - together they create an unusual sonic experience) Tj
+T*
+(built live on stage. The ?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1792 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(15. Taking AI Seriously) Tj
+T*
+(Source: Fernando Borretti | Published: Sun, 15 Nov 2026 00:00:00 +1100) Tj
+T*
+(Link: https://borretti.me/article/taking-ai-seriously) Tj
+T*
+(What does it mean to ?take AI seriously??) Tj
+T*
+() Tj
+T*
+(16. Of Course People Hate Data Centres) Tj
+T*
+(Source: Hugo Tunius - Blog | Published: 2026-11-14T00:00:00+00:00) Tj
+T*
+(Link: https://hugotunius.se/2026/11/14/of-course-people-hate-data-centres.html) Tj
+T*
+(The breakout issue of 2026 has undoubtedly been data centres, more precisely opposition to data) Tj
+T*
+(centres. People despise them. In the US midterms, only a single ballot measure \(out of 44\) on) Tj
+T*
+(data centres resulted in a favourable outcome for the developers. In exit polls conducted by) Tj
+T*
+(CBS News, 76% of respondents oppose construction of data centres in their community ? and it?s) Tj
+T*
+(not just Democrats \(87% oppose\): opposition among Republicans \(62% oppose\) and independents) Tj
+T*
+(\(78% oppose\) is high too. Simultaneously, views on AI are bleak, with 57% of respondents saying) Tj
+T*
+(it will do more to hurt humanity than to help; only 24% say it will help more. In Europe, 92) Tj
+T*
+(protests against data centres are being organised in November alone. Those in tech have been) Tj
+T*
+(caught off guard, and many don?t seem to understand this strong opposition. I think it?s) Tj
+T*
+(obvious. I?m sure there?s always been opposition to heavy industry. No one wants to live next) Tj
+T*
+(to a chemical plant. However, this feels different. We?ve been building data centres without) Tj
+T*
+(major issues for nearly a century. What?s different this time? Perhaps it?s scale. Cleanview ,) Tj
+T*
+(a market intelligence company, puts the total number of data centres operati...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004438 00000 n 
+0000004564 00000 n 
+0000009238 00000 n 
+0000009364 00000 n 
+0000013545 00000 n 
+0000013671 00000 n 
+0000015516 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15644
+%%EOF
