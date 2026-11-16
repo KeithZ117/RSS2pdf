@@ -1,0 +1,336 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4531 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-16 15:43:27) Tj
+T*
+() Tj
+T*
+(1. datasette-maplibre 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-15T23:58:36+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/15/datasette-maplibre/) Tj
+T*
+(Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while!) Tj
+T*
+(This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map) Tj
+T*
+(server operated by Zsolt Ero \(you should sponsor Zsolt on GitHub .\) I built most of this with a) Tj
+T*
+(single prompt to Claude Fable 5.2: Look at datasette-cluster-map and datasette-leaflet-geojson) Tj
+T*
+(plugins, then look at ~/dev/tools/openfreemap-demo.html - then build a brand new Datasette) Tj
+T*
+(plugin that uses maplibreGL and openfreemap and combines the features of those other two) Tj
+T*
+(plugins - but be creative and think outside the box for other useful features the plugin might) Tj
+T*
+(have "Be creative and think outside the box" resulted in a few neat ideas - my favorite is that) Tj
+T*
+(it displays SVG previews of GeoJSON shapes, then loads a WebGL preview only when they scroll) Tj
+T*
+(into view. I also had Claude build a comprehensive demo which works in the latest Datasette) Tj
+T*
+(Lite, so you can visit this link to load the plugin and a demo database in your browser via) Tj
+T*
+(Pyodide and WebAssembly. I like this demo page showing both GeoJSON shapes and lat/lon points) Tj
+T*
+(on the same map: Tags: visualization , generative-ai , datasette-lite , claude-my...) Tj
+T*
+() Tj
+T*
+(2. datasette 1.0a43) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-15T23:20:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/15/datasette/) Tj
+T*
+(Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off) Tj
+T*
+(the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is) Tj
+T*
+(streaming support for output renderers - the built-in TSV and CSV export mechanisms now use) Tj
+T*
+(this as well, and plugins can register themselves as capable of streaming every row in a table) Tj
+T*
+(in one go via the new Response.stream\(\) method. There are a couple of security fixes, one of) Tj
+T*
+(which I deemed deserving of a GitHub advisory : private stored queries could be exposed,) Tj
+T*
+(granting access to the title and SQL of the query \(but not allowing that query to be executed\).) Tj
+T*
+(There are dozens of smaller improvements. The row page JSON representation finally has a design) Tj
+T*
+(suitable for 1.0 . A new Web Component provides copy-schema in various places. JSON in columns) Tj
+T*
+(on the row page can be pretty-printed. There's a new DatasetteModal.confirm\(\) JavaScript) Tj
+T*
+(utility method. Plus dozens of bug fixes, including contributions by Zihan Dai , Peter) Tj
+T*
+(Olkhovets , Ilya Khalafi , and Ankita Advitot . The feature I'm most excited about is a pretty) Tj
+T*
+(tiny one: I've added CSS multi-page view transitions to Datasette! Here's the commit - ke...) Tj
+T*
+() Tj
+T*
+(3. datasette 0.65.6) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-15T23:18:17+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/15/datasette-2/) Tj
+T*
+(Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue) Tj
+T*
+(where a database registered using add_database\(db, name=..., route=...\) with a route that) Tj
+T*
+(differs from its name could be downloaded from / .db by actors who were denied access to it.) Tj
+T*
+([...] Tags: security , datasette) Tj
+T*
+() Tj
+T*
+(4. The Legion of PCAST) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-15T17:14:42Z) Tj
+T*
+(Link: https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/) Tj
+T*
+(I wrote about David Sacks the other day , in the context of his being one of the Trump 2.0 gang) Tj
+T*
+(that might get left holding the bag if this Jensen Huang/Nvidia scandal blows up the AI) Tj
+T*
+(boom/bubble. Sacks was the administration?s ?AI czar? ? until March , when he announced his) Tj
+T*
+(time was up. \(His position as a ?special government employee? was limited to 130 days. Sacks is) Tj
+T*
+(definitely special.\) At the moment Sacks remains co-chair of the President?s Council of) Tj
+T*
+(Advisors on Science and Technology \(PCAST\), a Legion of Doom -style committee of billionaire) Tj
+T*
+(Trump backers, whose members include, in alphabetical order after the co-chairs: David Sacks ?) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4448 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Co-chair Michael Kratsios ? Co-chair Marc Andreessen \(Andreessen Horowitz\) Pam Bondi \(fired as) Tj
+T*
+(Trump attorney general for insufficient cravenness , no background whatsoever in science or) Tj
+T*
+(technology\) Sergey Brin \(Google\) Safra Catz \(Oracle\) Michael Dell \(Dell Technologies\) Jacob) Tj
+T*
+(DeWitte \(Oklo ? nuclear power startup, fission\) Fred Ehrsam \(Coinbase ? crypto\) Larry Ellison) Tj
+T*
+(\(Oracle\) David Friedberg \(Ohalo ? biotech\) Jensen Huang \(Nvidia\) John Martinis \(Qolab ? quantum) Tj
+T*
+(computing\) Bob Mumgaard \(Commonwealth Fusion Systems ? nuclear power, fusion\) Lisa...) Tj
+T*
+() Tj
+T*
+(5. WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-15T15:52:01Z) Tj
+T*
+(Link: https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campai) Tj
+T*
+(gn=q42026) Tj
+T*
+(My thanks to WorkOS for sponsoring DF last week. An agent?s job isn?t known until it runs, so a) Tj
+T*
+(role assigned in advance is always too much or too little. Give the agent a task instead, and) Tj
+T*
+(every call it makes gets checked against that intent, whether it?s reading a Linear issue or) Tj
+T*
+(emailing a distribution list. With WorkOS Airlock, you set the policies once. Each call is) Tj
+T*
+(allowed, denied, or sent to a human for approval, and every verdict is logged. Request early) Tj
+T*
+(access today . ?) Tj
+T*
+() Tj
+T*
+(6. Microsoft Says Cloud Outage Was ?Not Related to Cyber or AI / Agents?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-14T16:00:00Z) Tj
+T*
+(Link: https://x.com/microsoft/status/2121282013600907325) Tj
+T*
+(Microsoft, yesterday, in a statement on X: This was a technical issue not related to cyber or) Tj
+T*
+(AI / agents. The incident was introduced by an issue during an earlier network capacity upgrade) Tj
+T*
+(that surfaced following a recent network change. We have addressed the underlying issue and) Tj
+T*
+(continue to restore service to remaining customers and regions. ?) Tj
+T*
+() Tj
+T*
+(7. People will lose their jobs over GTA 6) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Mon, 16 Nov 2026) Tj
+T*
+(00:40:21 GMT) Tj
+T*
+(Link: https://idiallo.com/blog/losing-your-job-over-a-video-game) Tj
+T*
+(GTA 6 is about to come out, and I've seen many people online joking that they'll take the week) Tj
+T*
+(off to play it. I'm not a big fan of GTA, but the series did leave an impression on me. The) Tj
+T*
+(last one I played was Vice City. It was an amazing game, and I still listen to its songs. It's) Tj
+T*
+(where I first heard "Your Love" by The Outfield. I love the game, but I don't have the luxury) Tj
+T*
+(of playing video games the way I used to. All this to say that I understand people taking time) Tj
+T*
+(off. When Metal Gear Solid 5 came out, I didn't just take the day off. I slowly prioritized the) Tj
+T*
+(game over the work I was supposed to be doing. I had a contract with a client who couldn't make) Tj
+T*
+(up his mind about a project. I delivered the project, a flower subscription service, in the) Tj
+T*
+(span of a month. He had paid a team in Ukraine $25k to hand him a broken Drupal website. I) Tj
+T*
+(rewrote it for half the price, and he finally had the ability to manage the website on his own.) Tj
+T*
+(But a website isn't complete once it's delivered. There are bugs and feature requests, or the) Tj
+T*
+(client might just change his mind about things. So he retained me for maintenance. We launched) Tj
+T*
+(in the summer, and he couldn't have been happier. Customers flocked...) Tj
+T*
+() Tj
+T*
+(8. Orbital footnote) Tj
+T*
+(Source: John D. Cook | Published: Mon, 16 Nov 2026 02:19:01 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/15/orbital-footnote/) Tj
+T*
+(A couple days ago I wrote a post about the orbit of a new dwarf planet candidate. The article) Tj
+T*
+(says the newly discovered object, ED138, has an orbital period of 281.1 years and is ?46 times) Tj
+T*
+(farther from the sun than Earth is.? The earlier post showed that we can infer from Kepler?s) Tj
+T*
+(third law [?] The post Orbital footnote first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Variable Electricity Pricing - the Highs and the Lows) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 15 Nov 2026 12:34:58 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/variable-electricity-pricing-the-highs-and-the-lows/) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1735 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(For one glorious day in September, we had several hours where we were paid to use electricity.) Tj
+T*
+(Our home is on Octopus Energy's variable price tariff. Our smart-meter sends back readings) Tj
+T*
+(every half-hour. That means the energy company can set a different price every half hour.) Tj
+T*
+(Rather than paying a flat rate of 30p per kWh, we pay a rate which constantly changes) Tj
+T*
+(throughout the day. I built a?) Tj
+T*
+() Tj
+T*
+(10. ASI as a Black Box) Tj
+T*
+(Source: Fernando Borretti | Published: Mon, 16 Nov 2026 00:00:00 +1100) Tj
+T*
+(Link: https://borretti.me/article/asi-as-a-black-box) Tj
+T*
+(We know nothing about what ?superintelligence? would actually entail.) Tj
+T*
+() Tj
+T*
+(11. What?s Next For Nvidia?) Tj
+T*
+(Source: Steve Blank | Published: Sun, 15 Nov 2026 22:15:04 +0000) Tj
+T*
+(Link: https://steveblank.com/2026/11/15/whats-next-for-nvidia/) Tj
+T*
+(Nvidia?s board announced that Jensen Huang had resigned 33 years after he co-founded the) Tj
+T*
+(company. What happens to a company when a visionary CEO is gone? Most often innovation dies and) Tj
+T*
+(the company coasts for years on momentum and its brand. Rarely does it regain its former glory.) Tj
+T*
+(That?s the danger facing Nvidia. Here?s what [?]) Tj
+T*
+() Tj
+T*
+(12. Weekly Update 530: Email Dependencies & Apps) Tj
+T*
+(Source: Troy Hunt | Published: Mon, 16 Nov 2026 07:09:38 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-530/) Tj
+T*
+(Email is just one of those utilities like power or water where you always expect it to just,) Tj
+T*
+(well, to just be there. You sign up with a provider and use as much of it as you need, when you) Tj
+T*
+(need it, and the idea of it being unavailable for) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004786 00000 n 
+0000004912 00000 n 
+0000009412 00000 n 
+0000009538 00000 n 
+0000011325 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+11451
+%%EOF
