@@ -1,0 +1,374 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4222 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-17 16:53:01) Tj
+T*
+() Tj
+T*
+(1. Quoting Go Proverbs) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-17T06:16:26+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/17/go-proverbs/) Tj
+T*
+(A little copying is better than a little dependency. ? Go Proverbs , via Tags: go , programming) Tj
+T*
+() Tj
+T*
+(2. llm 0.37.3) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-16T23:57:26+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/16/llm/) Tj
+T*
+(Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent) Tj
+T*
+(Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes) Tj
+T*
+(a fix that broke LLM's logging code . Short version: in SQLite 3.54.0 the following SQL: select) Tj
+T*
+(json_object\('a', \(select json_array\(1\)\)\) Returns this: {"a":[1]} But in 3.54.1 the same query) Tj
+T*
+(returns this: {"a":"[1]"} According to D. Richard Hipp : That was a bug fix. Per the) Tj
+T*
+(documentation, \(SELECT json_array\(...\)\) returns SQL text, not JSON. Hence the 3.54.1 behavior) Tj
+T*
+(is correct and 3.54.0 was a bug. The workaround looks like this: select json_object\('a',) Tj
+T*
+(json\(\(select json_array\(1\)\)\)\) Tags: llm , webassembly , sqlite , generative-ai , ai , llms ,) Tj
+T*
+(d-richard-hipp) Tj
+T*
+() Tj
+T*
+(3. datasette-apps 0.4a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-15T04:02:45+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/15/datasette-apps/) Tj
+T*
+(Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications) Tj
+T*
+(that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against) Tj
+T*
+(your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL) Tj
+T*
+(and the app can see and use those, plus supported URL schemes are reported back to Datasette) Tj
+T*
+(Agent so it can help write apps that link to each other. This means you can have e.g. an app) Tj
+T*
+(that shows details about a specific record, and a completely separate app that searches those) Tj
+T*
+(records and links to their representations in the first app. Tags: datasette-agent ,) Tj
+T*
+(datasette-apps , datasette , urls) Tj
+T*
+() Tj
+T*
+(4. Apple Support Document on the New ?Full Disk Access? and ?System & App Protection) Tj
+T*
+(Override? Settings in MacOS 27.3 Beta 2) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-17T02:00:11Z) Tj
+T*
+(Link: https://support.apple.com/en-us/149699) Tj
+T*
+(I?m seeing some people object to these settings as being scarier ?scare sheets?, and while I) Tj
+T*
+(disagree, I think that?s a reasonable debate. But I think it?s indisputable that Apple put a) Tj
+T*
+(lot of thought into these new settings and permissions. Again, you might disagree with their) Tj
+T*
+(intentions and assumptions here, but given their stated intentions and assumptions ? to wit:) Tj
+T*
+(that many Mac users were granting Full Disk Access permissions to too many apps without) Tj
+T*
+(realizing just how much access that entails ? I think this is a very considered design. The) Tj
+T*
+(previous settings for these permissions seem slapdash in comparison ? like a lot of the ?new?) Tj
+T*
+(Mac System Settings panels. Even this new support document seems very considered. A lot of) Tj
+T*
+(times Apple doesn?t have support documents ready to go while the software is still in beta ?) Tj
+T*
+(here they have a good support document for the first beta with the new stuff. See Also: * This) Tj
+T*
+(Apple Developer News article , which states: Developers should be prepared to adjust how they) Tj
+T*
+(onboard users and make sure their apps can gracefully handle having access to only a limited) Tj
+T*
+(set of folders or apps when utilizing these APIs. Users will see these updates when app...) Tj
+T*
+() Tj
+T*
+(5. ?Meet the Anthropic Researcher Behind Silicon Valley?s ?Consensual Non-Consent? Orgies?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-16T23:51:54Z) Tj
+T*
+(Link: https://freebeacon.com/america/horrifying-meet-the-anthropic-researcher-behind-silicon-va) Tj
+T*
+(lleys-consensual-non-consent-orgies/) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4193 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Aaron Sibarium, writing for The Free Beacon: Paul Crowley, a cybersecurity researcher at) Tj
+T*
+(Anthropic, is listed as a manager of Red Means No LLC, which says that its parties are) Tj
+T*
+(?designed to be spaces to ? ignore the ?nos? of others.? Participants can use a safe word,) Tj
+T*
+(?red,? to end an encounter but give ?default consent? to ?spanking,? ?wrestling,? and ?light) Tj
+T*
+(pain? by entering the orgy, according to Red Means No?s website . More extreme actions,) Tj
+T*
+(including ?light electricity? and ?moderate beatings,? are ?permitted with negotiation,? though) Tj
+T*
+(?body-shaming and race-shaming ? are disallowed entirely.? The orgies have been known to) Tj
+T*
+(attract a disproportionate number of employees at Anthropic and OpenAI, a dynamic critics say) Tj
+T*
+(creates professional pressure for women in AI to attend. The criticism spilled into public view) Tj
+T*
+(last month after an independent AI researcher, John Wentworth, said that he ?absolutely [does]) Tj
+T*
+(upgrade? his assessment of AI safety experts ?if I find out they go to [Red Means No],? adding) Tj
+T*
+(that attendance was a ?strong signal? of free thought. I?m starting to think these Anthropic) Tj
+T*
+(and OpenAI people are a little off. ?) Tj
+T*
+() Tj
+T*
+(6. [Sponsor] Ivy: The To-do List That Ends) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-16T23:18:35Z) Tj
+T*
+(Link:) Tj
+T*
+(https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&ct=Daring-Fireball-Post&mt=8) Tj
+T*
+(Every to-do list runs forever. Ivy runs for a day. Each morning you turn ideas into a plan.) Tj
+T*
+(Each evening, whatever?s left is an idea again. Nothing is overdue. Tomorrow starts empty. I?m) Tj
+T*
+(J¸rgen Schweizer , founder of Semantical. I spent years building a to-do app and never expected) Tj
+T*
+(to build another. Then I came across the Ivy Lee Method. We built a prototype and couldn?t stop) Tj
+T*
+(using it. Beneath the calm: Calendar and Reminders integration, focus sessions, Screen Time) Tj
+T*
+(shields, and a daily journal. All native: SwiftUI, UIKit, Metal. Ivy is on iPhone , with Mac to) Tj
+T*
+(follow. Let me know what you think! ?) Tj
+T*
+() Tj
+T*
+(7. How can I ask a second program to show a dialog box as if it were shown by my first) Tj
+T*
+(program?) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 17 Nov 2026 05:54:01 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261116-01/?p=112863/) Tj
+T*
+(You have to explicitly coordinate the window management. The post How can I ask a second) Tj
+T*
+(program to show a dialog box as if it were shown by my first program? appeared first on The Old) Tj
+T*
+(New Thing .) Tj
+T*
+() Tj
+T*
+(8. Taxis and hash functions) Tj
+T*
+(Source: John D. Cook | Published: Mon, 16 Nov 2026 14:46:36 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/16/taxis-and-hash-functions/) Tj
+T*
+(In 2014 New York City released dump of trip and fare logs from NYC taxis in the previous year.) Tj
+T*
+(In an attempt to protect privacy, the taxi license numbers and medallion numbers were hashed) Tj
+T*
+(using the MD5 hash function. If you?re familiar with secure has functions, your first reaction) Tj
+T*
+(might be that the problem with [?] The post Taxis and hash functions first appeared on John D.) Tj
+T*
+(Cook .) Tj
+T*
+() Tj
+T*
+(9. Gig Review: ABBA Voyage ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Mon, 16 Nov 2026 12:34:40 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/gig-review-abba-voyage/) Tj
+T*
+(During our recent visit to Stockholm, we went to the ABBA museum. Although they're obviously a) Tj
+T*
+(cultural juggernaut, I wouldn't exactly describe myself as a fan of the group. Their songs are) Tj
+T*
+(great, but I didn't know too much about their outsized influence until I stepped inside. The) Tj
+T*
+(museum has a fascinating exhibit about the London "Voyage" concert - if you've spent any time) Tj
+T*
+(in the city you can't?) Tj
+T*
+() Tj
+T*
+(10. Here's how anyone can easily use private, open weight models) Tj
+T*
+(Source: Micah Lee | Published: Mon, 16 Nov 2026 16:35:27 GMT) Tj
+T*
+(Link: https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3750 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(It's impossible to deny that, despite all the slop/data centers/environmental) Tj
+T*
+(destruction/theft, LLMs are incredibly useful and powerful. It's also impossible to deny that) Tj
+T*
+(OpenAI and Anthropic suck and you can't trust them with your data. Luckily, you don't need) Tj
+T*
+() Tj
+T*
+(11. My Empire of Dirt) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-11-17T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html) Tj
+T*
+(The future doesn?t need Jensen. The future doesn?t need suppliers. The future doesn?t need) Tj
+T*
+(customers, corporate or otherwise. The future definitely doesn?t need you. After RSI comes, all) Tj
+T*
+(the demand will be internally generated, agents working with other agents, everyone else cut) Tj
+T*
+(out of the loop except them. This is the ideology of Anthropic. The Singleton. And it may win.) Tj
+T*
+(I grew up reading the same LessWrong posts these people did, but I didn?t expect them to do the) Tj
+T*
+(exact thing that leads to the bad AI outcomes. I didn?t believe in AI doom because I thought) Tj
+T*
+(more of people, I thought nobody with any capability would be stupid enough to summon the demon) Tj
+T*
+(and think it would serve them, doing everything they possibly can to salt the Earth behind) Tj
+T*
+(them. It takes someone so deeply immersed in their own grandiosity and self-righteousness to do) Tj
+T*
+(that. And it looks like we found those people in the form of EA, or whatever that cult calls) Tj
+T*
+(themselves. The problem with the logic above is that it doesn?t need Dario either. It doesn?t) Tj
+T*
+(need AI researchers. It doesn?t need Anthropic?s dual class stock structure. It doesn?t need) Tj
+T*
+(the US government \(really the biggest sucker in this situation\). It does...) Tj
+T*
+() Tj
+T*
+(12. Paul Christiano ? We could be 12 months away from AIs that can overthrow the) Tj
+T*
+(government) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Mon, 16 Nov 2026 17:46:28 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/paul-christiano-2) Tj
+T*
+(Watch now \(99 mins\) | "It would be hard for humanity to recover.") Tj
+T*
+() Tj
+T*
+(13. Beyond Linux: A Journey Through the Open Source Ecosystem) Tj
+T*
+(Source: IT Notes | Published: Tue, 17 Nov 2026 08:30:00 +0000) Tj
+T*
+(Link: https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-eco) Tj
+T*
+(system/) Tj
+T*
+(What follows is the text of the talk I gave at Linux Day 2026 in Modena, lightly adapted for) Tj
+T*
+(the blog. The talk was in Italian, in front of a Linux audience - which explains a few of the) Tj
+T*
+(jokes. Linux is one of the best-known players in the open source world, but it's not the only) Tj
+T*
+(possible path. A journey through the BSDs, illumos and other alternative operating systems, to) Tj
+T*
+(reflect on Open Source as an idea, a philosophy and a practice of sharing knowledge. My name is) Tj
+T*
+(Stefano Marinelli. I'm a sysadmin and consultant, and I run my own small company specialised in) Tj
+T*
+(open source services and solutions. I like to call myself the "Barista" of the BSD Cafe and the) Tj
+T*
+(illumos Cafe , online communities of people passionate about technology, open source and) Tj
+T*
+(sharing. Today I'm not here just to talk about operating systems, but about freedom, sharing) Tj
+T*
+(and knowledge. From free software to open source. My first contact with the Free Software world) Tj
+T*
+(was in 1996, when I wasn't even 17 yet. I saw a box set advertised in a magazine: "a whole) Tj
+T*
+(operating system, for free", at a very low price. Something like 30,000 lire. Shortly before,) Tj
+T*
+(I'd paid roughly ten times as much for the Windows 95 upgrade edition. D...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004477 00000 n 
+0000004603 00000 n 
+0000008848 00000 n 
+0000008974 00000 n 
+0000012776 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+12902
+%%EOF
