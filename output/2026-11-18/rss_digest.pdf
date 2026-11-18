@@ -1,0 +1,454 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4724 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-18 16:17:36) Tj
+T*
+() Tj
+T*
+(1. External sandboxes for coding agents) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-17T22:52:29+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/) Tj
+T*
+(External sandboxes for coding agents I've been exploring new ways to sandbox code that is) Tj
+T*
+(executed by agents, with a focus on making it safer to try out local models without worrying) Tj
+T*
+(that a mistake or prompt injection attack might cause them to take damaging actions on a) Tj
+T*
+(machine. I worked on this project with Prime Radiant , the AI research lab behind Superpowers) Tj
+T*
+(and other projects . My post on the Prime Radiant blog introduces the external sandbox pattern,) Tj
+T*
+(where code executed by the agent runs inside a dedicated sandbox while the agent itself lives) Tj
+T*
+(outside of that sandbox. To demonstrate this pattern we've released three sandbox server) Tj
+T*
+(implementations: external-sandbox-v86 runs a Node.js server which then uses v86 to run Alpine) Tj
+T*
+(Linux inside WebAssembly. external-sandbox-container is a Python web server which runs the) Tj
+T*
+(sandbox in Alpine Linux inside an Apple Containers instance. external-sandbox-quicksand is) Tj
+T*
+(another Python web server, this time using Microsoft's Quicksand sandboxing library, which) Tj
+T*
+(bundles QEMU and Alpine Linux in a Python package! Each of these implementations offers the) Tj
+T*
+(same localhost API. You can then configure Pi, Claude Code, or Codex to send API calls to) Tj
+T*
+(that...) Tj
+T*
+() Tj
+T*
+(2. GPT?6.2 Astra and GPT?6.2 Sol) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-17T22:38:52+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/) Tj
+T*
+(GPT?6.2 Astra and GPT?6.2 Sol OpenAI: We?re introducing GPT?6.2 Astra, our new frontier model) Tj
+T*
+(for your hardest projects, and GPT?6.2 Sol, our efficient, versatile model for everyday work.) Tj
+T*
+(They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support) Tj
+T*
+(for the new models. 6.2 Astra is 80% of the price of 6 Astra - $8/MTok input and $40/MTok) Tj
+T*
+(output, the same price as Claude Fable 5.2 \(which was also 80% of its predecessor\). 6 Astra and) Tj
+T*
+(Fable 5 were both $10/$50. The cached price is an even bigger discount - $0.40/million compared) Tj
+T*
+(to $1/million for the older model. This is great news for longer running agentic sessions.) Tj
+T*
+(GPT-6.2 Sol is the same $2/$10 price as 6.1 Sol and 6 Sol - which are half the price of GPT-5.6) Tj
+T*
+(Sol \($4/$20\). Here are the pelicans for GPT-6.2 Sol and for GPT-6.2 Astra . The 6.2 Astra max) Tj
+T*
+(pelican looks like this: I have a full comparison grid here , but here's how the high/xhigh/max) Tj
+T*
+(pelicans compare with the previous Sol and Astra releases: I also ran my most recent benchmark) Tj
+T*
+(prompt against the two models, using "Ultra' effort levels in the Codex CLI: Make a three js) Tj
+T*
+(animation where yonkers stands up as a big mech \(cool stand up motio...) Tj
+T*
+() Tj
+T*
+(3. Running the full server-side Datasette Python app in the browser with service workers) Tj
+T*
+(and Pyodide) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-17T16:48:33+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/17/datasette-lite/) Tj
+T*
+(Datasette Lite is my port of the Datasette Python application to run directly in the browser) Tj
+T*
+(using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using) Tj
+T*
+(service workers, and it's now almost indistinguishable from the real server-side application.) Tj
+T*
+(You can now do all of the following, using a carefully crafted URL to lite.datasette.io : Load) Tj
+T*
+(client-side Datasette to browse any SQLite database, JSON file, CSV file or SQL script Select a) Tj
+T*
+(released version of Datasette to load from PyPI Load a specific commit, tag, or branch name) Tj
+T*
+(from the Datasette GitHub repository Pick from over 100 versions of SQLite to use with) Tj
+T*
+(Datasette Install additional Datasette plugins from PyPI or URLs to wheel files, including) Tj
+T*
+(JavaScript visualization tools The ability to load specific Datasette references, plugins, and) Tj
+T*
+(SQLite versions makes this a fantastic tool for linking to demos of work-in-progress features) Tj
+T*
+(or bug reproductions, without needing to spin up a full web server to serve that demo. As an) Tj
+T*
+(example, consider the following URL: https://lite.datasette.io/?install=datasette-maplibre&url=) Tj
+T*
+(https://gist.githubusercontent.com/simonw/39fa5d399465766039549912e2b3d291/raw/f6dfba...) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4687 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(4. SetShot 1.0 \(and a Personal Tale of Defaults System Spelunking\)) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-17T18:41:12Z) Tj
+T*
+(Link: https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/) Tj
+T*
+(Adam Engst, writing at TidBITS: This past August, I did something I had never done before:) Tj
+T*
+(released a full-fledged Mac app. Prompted by tech ghost stories about settings mysteriously) Tj
+T*
+(changing during operating system updates, I spent months working with Claude Code to create a) Tj
+T*
+(utility called SetShot that would reveal what settings change during macOS updates \(see ?) Tj
+T*
+(SetShot Tracks macOS Settings Changes ,? 19 August 2026\). So far, I haven?t caught Apple) Tj
+T*
+(red-handed, although I still hear chatter about configuration changes after users install) Tj
+T*
+(updates. Practically speaking, SetShot offers something never previously available to Mac) Tj
+T*
+(users: the capability to identify and log settings changes over time, whether made by you,) Tj
+T*
+(macOS, or some app. To that end, it takes and compares snapshots of numerous settings deep) Tj
+T*
+(within macOS, reporting on what changed between them. It never changes any settings, so the) Tj
+T*
+(worst it can do is tell you something you didn?t want to know. SetShot is a very cool app, and) Tj
+T*
+(so very Adam Engst-flavored. Free of charge and open source to boot. There?s an anecdote) Tj
+T*
+(involving me in Engst?s post, and while SetShot couldn?t fix my problem directly, it was very) Tj
+T*
+(helpful in...) Tj
+T*
+() Tj
+T*
+(5. Apple?s Cloud Services Are Having a Bad Day, Including Their Status Page) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-17T18:21:23Z) Tj
+T*
+(Link: https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/) Tj
+T*
+(Juli Clover, MacRumors: Apple Accounts and iCloud sign-ins appear to be experiencing issues,) Tj
+T*
+(according to multiple social media reports and Apple?s System Status page . I?ve been seeing) Tj
+T*
+(weird problems in multiple apps \(Photos, Notes, and System Settings\) on one of my Macs, on) Tj
+T*
+(which I?m trying to install the 27.3 beta. Photos was reporting that it had just completed) Tj
+T*
+(syncing, but it was missing a bunch of recent photos \(but not in chronological order\). Notes) Tj
+T*
+(was missing changes from other devices. And System Settings wasn?t showing me the choice to) Tj
+T*
+(install beta OS updates. It just wasn?t there, and tricks like this didn?t fix it. I worried) Tj
+T*
+(the whole machine had gone bad, because when I checked Apple?s online Status page , everything) Tj
+T*
+(was green across the board. Turns out the Status page wasn?t working either. It is now, and) Tj
+T*
+(shows outages for App Store, Apple Music, AppleCare on Device, and iCloud Account & Sign In.) Tj
+T*
+(Update: Siri AI is down for me too . Update 2: Seems like most/all services are back up, but) Tj
+T*
+(during the day, even Apple Retail went down . People were in stores just waiting around. ?) Tj
+T*
+() Tj
+T*
+(6. Developers Continue to Optimize iPhone Apps for the Duo) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-16T23:09:05Z) Tj
+T*
+(Link: https://x.com/gregjoz/status/2122393925080252469) Tj
+T*
+(Greg Joswiak on X: Over 200,000 apps are now optimized for iPhone Duo! That number DOUBLED in) Tj
+T*
+(just over a week. I?m back on my Duo review unit to test the new face unlock feature, and I?ve) Tj
+T*
+(already noticed more apps are Duo optimized. Oddly enough, the first one I checked that still) Tj
+T*
+(isn?t Duo-optimized is Apple?s own Apple Store app , which was last updated 3 months ago.) Tj
+T*
+(Weird. Update: The very next day, the Apple Store app was updated with full optimization for) Tj
+T*
+(the Duo. But then the store?s back end went down for several hours . ?) Tj
+T*
+() Tj
+T*
+(7. Attackers Used Optimizely to A/B Test Malware on Top Websites) Tj
+T*
+(Source: Krebs on Security | Published: Wed, 18 Nov 2026 02:52:04 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-) Tj
+T*
+(websites/) Tj
+T*
+(At least 178 top web destinations unwittingly served a variety of malware exploits against) Tj
+T*
+(visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a) Tj
+T*
+(company that helps websites customize user experiences and test out new features. Experts say) Tj
+T*
+(the incident, which saw data-stealing malicious software silently injected into sites like the) Tj
+T*
+(BBC, CNN, Equifax, Ledger and Zoom, was exacerbated by the reality that few popular websites) Tj
+T*
+(enforce strict rules on the sources of third-party content.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4372 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(8. In the Microsoft employee price list, why did the BASIC compiler cost less than the) Tj
+T*
+(BASIC interpreter?) Tj
+T*
+(Source: The Old New Thing | Published: Tue, 17 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261117-00/?p=112866/) Tj
+T*
+(Understanding the pricing scheme. The post In the Microsoft employee price list, why did the) Tj
+T*
+(BASIC compiler cost less than the BASIC interpreter? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Pluralistic: Remembrance of proteins past \(17 Nov 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Tue, 17 Nov 2026 13:01:56) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/11/17/mississippi-gosh-darn/) Tj
+T*
+(Today's links Remembrance of proteins past: People like what they like. Hey look at this:) Tj
+T*
+(Delights to delectate. Object permanence: BBC's bullshit DRM story; Radical hotel-room coffee) Tj
+T*
+(independence; Foreclosure map predicts Trump vote; Pinkest pink v Anish Kapoor; Bruce Sterling) Tj
+T*
+(on the Trump election; Keep the hope machine running; "Messy"; Jam To-Day; Billy Bragg x) Tj
+T*
+(file-sharing; Second Life v copying; Best Buy claims copyright over prices; All cab) Tj
+T*
+(conversations in Oxford must be recorded; The end of "software objectivity"; "Pirate Utopia";) Tj
+T*
+(Mamdani's photocopier-kicker; Biden does\(n't\) like SOPA; "The Freedom Maze"; Obama's weapons in) Tj
+T*
+(Trump's hands; Gilmore/Barlow audio; MPAA v video iPods; RIP SF's neon Yahoo sign; NYC deputy) Tj
+T*
+(mayor says no filming cops; Bannon wants to deport Indian CEOs; Academic economists charge) Tj
+T*
+($1k/h to defend giga-mergers; Iphones secretly spy on your calls; Office Depot fakes malware) Tj
+T*
+(infections; Live Nation murdered at Astroworld; Games industry's self-induced brain injury.) Tj
+T*
+(Upcoming appearances: Folkestone, Oxford, Sheffield, Virtual, Oxford, Santa Barbara, Montreal.) Tj
+T*
+(Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'e...) Tj
+T*
+() Tj
+T*
+(10. HomeAssistant - shrink a HAOS qcow2 filesystem) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Tue, 17 Nov 2026 12:34:37 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/homeassistant-shrink-a-haos-qcow2-filesystem/) Tj
+T*
+(Mostly notes to myself, I hope they're helpful to you too! My HomeAssistant OS \(HAOS\) was) Tj
+T*
+(originally thinly provisioned with a 30GB virtual disk stored in a qcow2 file. In theory, the) Tj
+T*
+(file should only take up as much space as the virtual filesystem. In reality, it grows to) Tj
+T*
+(accommodate the maximum size allowed. My HAOS was showing only 10GB used: But running ls -lh) Tj
+T*
+(showed 32GB was allocated.?) Tj
+T*
+() Tj
+T*
+(11. My Empire of Sunshine and Roses) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-11-18T00:00:00+08:00) Tj
+T*
+(Link:) Tj
+T*
+(https://geohot.github.io//blog/jekyll/update/2026/11/18/my-empire-of-sunshine-and-roses.html) Tj
+T*
+(I spent a lot of time thinking about differential history . What it means to change the world) Tj
+T*
+(isn?t to have a pile of stuff that people say is yours or a pile of accomplishments that people) Tj
+T*
+(say are yours . That?s just credit assignment, which is notoriously hard even without all the) Tj
+T*
+(adversarial noise. No, in order to measure changing the world, you have to think in) Tj
+T*
+(counterfactuals. If you didn?t exist, how would the course of history be different? You can) Tj
+T*
+(take a hardline deterministic position, saying that more or less, there was only one way) Tj
+T*
+(history was going to go. In which case, history class really was just memorizing a bunch of) Tj
+T*
+(names, places, and dates, and you structurally cannot change the world. I?ve heard that the) Tj
+T*
+(difference between belief in Great Man and Causes and Forces is just your time horizon. So it?s) Tj
+T*
+(probably already determined how AI goes; determined by some 4th order coefficients in a chaotic) Tj
+T*
+(function, how the balance stacks up between offense and defense and the forces of) Tj
+T*
+(centralization vs decentralization. These are facts about the map, the great technological) Tj
+T*
+(optimization landscape we bring up so many times on this blog. That said, we?re here . I) Tj
+T*
+(watched this...) Tj
+T*
+() Tj
+T*
+(12. The NVIDIA Bubble) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1923 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Ed Zitron's Where's Your Ed At | Published: Tue, 17 Nov 2026 15:43:58 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/the-nvidia-bubble/) Tj
+T*
+(If you liked this piece, you should subscribe to my premium newsletter, and you can subscribe) Tj
+T*
+(on the following links: $70 a year , $18 a quarter , or $7 a month . In return, you get a) Tj
+T*
+(weekly premium newsletter that dives deep into the finances of the AI) Tj
+T*
+() Tj
+T*
+(13. Stacked diffs with Maiao) Tj
+T*
+(Source: Entropic Thoughts | Published: Tue, 17 Nov 2026 00:00:00 +0100) Tj
+T*
+(Link: https://entropicthoughts.com/stacked-diffs-with-maiao) Tj
+T*
+(I have been using the community fork of Maiao for a little while now, and it is excellent. For) Tj
+T*
+(anyone who prefers working with stacked diffs, but needs to interact with a more traditional) Tj
+T*
+(forge such as GitHub, try using Maiao for a bit. It just does the right thing in almost every) Tj
+T*
+(situation . It?s cut my frustration with GitHub at least in half, if not more. For the small) Tj
+T*
+(group of readers who are stoked about stacked diffs, that?s probably enough of a pitch. For the) Tj
+T*
+(rest of the world, let?s back up a little. On traditional forge platforms, pre-commit code) Tj
+T*
+(review happens on pull requests \(sometimes called merge requests \), where each pull request is) Tj
+T*
+(created from a git branch. Users that are new to git can then think of a branch as one) Tj
+T*
+(development effort toward a small goal. They keep adding commits to that branch as long as its) Tj
+T*
+(tip does not represent the goal state. At the end, when everything looks right and the change) Tj
+T*
+(is approved, they perform an explicit merge. This means they create a merge commit on the) Tj
+T*
+(upstream branch that references both the old upstream and the branch they worked on. \(Continue) Tj
+T*
+(reading the full article on the web.\)) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004986 00000 n 
+0000005112 00000 n 
+0000009851 00000 n 
+0000009977 00000 n 
+0000014401 00000 n 
+0000014527 00000 n 
+0000016503 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16631
+%%EOF
