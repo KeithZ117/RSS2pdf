@@ -1,0 +1,584 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4520 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-19 16:28:22) Tj
+T*
+() Tj
+T*
+(1. I joined the NTP Pool, but not with my Stratum 1 Pi) Tj
+T*
+(Source: Jeff Geerling | Published: Tue, 17 Nov 2026 09:00:00 -0600) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/) Tj
+T*
+(Before I get too deep into the time-nuts rabbit hole, I figured I should share a little bit of) Tj
+T*
+(the good time I now have in my studio, with everyone else . Thus, I've finally joined the NTP) Tj
+T*
+(Pool , offering one public Stratum 2 NTP time server \( ntp-01.jeffgeerling.com \), which gets) Tj
+T*
+(its time from my Stratum 1 time server \( time.jeffgeerling.com \) in the studio. My Time Pi is) Tj
+T*
+(connected to an outside GNSS antenna through a TimeHAT v6 , which I paired with a high quality) Tj
+T*
+(timing-grade GNSS module, the u-blox ZED-F9T .) Tj
+T*
+() Tj
+T*
+(2. llm-gemini 0.38) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-18T23:59:20+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/18/llm-gemini/) Tj
+T*
+(Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how) Tj
+T*
+(confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse.) Tj
+T*
+(Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were) Tj
+T*
+(the same price , and Hydrogen was 3/4 of that price now but will be 1/4 of that price when the) Tj
+T*
+(other two double an 1st December once their initial discount pricing expires. The Neon) Tj
+T*
+(announcement pretends that Argon doesn't exist. Here's their new image explaining the model) Tj
+T*
+(line-up: So the lineup now, from most to least expensive, is Carbon, Neon, Hydrogen. Except) Tj
+T*
+(Carbon is currently half price, so right now Neon \($3/million input, $15/million output\) is the) Tj
+T*
+(most expensive of the three - then Carbon \($2/$10\), then Hydrogen \($1.50/$7.50\). I guess this) Tj
+T*
+(will make more sense when Carbon doubles to $4/$20 on December 1st. I ran some pelicans through) Tj
+T*
+(the three reasoning levels for Neon - low, medium, high. I dropped Argon from my Gemini 4) Tj
+T*
+(comparison grid - here's the new Gemini 4 lineup, where the Neon pelicans do look better than) Tj
+T*
+(Hydrogen and worse than Carbon: As I've done with several recent models , I also fired...) Tj
+T*
+() Tj
+T*
+(3. datasette-arrows 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-18T17:09:59+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/18/datasette-arrows/) Tj
+T*
+(Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement) Tj
+T*
+(streaming export formats. Datasette core supports streaming CSV and TSV - you can export) Tj
+T*
+(millions of lines of data from a table without needing to load it all into memory, because) Tj
+T*
+(those two file formats support streaming data in chunks. The register_output_renderer\(\) plugin) Tj
+T*
+(hook can now be used to implement the same pattern for other formats. I've learned never to) Tj
+T*
+(release a new plugin feature without accompanying it with a plugin that uses it. Claude Fable) Tj
+T*
+(5.2 suggested the Apache Arrow streaming format as a good option, and built this plugin in) Tj
+T*
+(almost a single shot. Add the plugin to Datasette \( datasette install datasette-arrows \) and) Tj
+T*
+(the export dialog gains this new Arrow option: This screenshot is from Datasette's main branch) Tj
+T*
+(- the most recent release doesn't yet group streaming formats such as Arrow with the TSV and) Tj
+T*
+(CSV in the "All rows in this table" section, but that's coming in the next alpha release. Tags:) Tj
+T*
+(datasette , projects) Tj
+T*
+() Tj
+T*
+(4. Quoting Daniel Stenberg) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-18T15:58:27+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/18/daniel-stenberg/) Tj
+T*
+(During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code) Tj
+T*
+(\(I counted\), we merged over 300 commits in the actual curl project. We actually improved curl) Tj
+T*
+(during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes) Tj
+T*
+(that none of those rust rewrites have. We also fixed a few vulnerabilities. In another month we) Tj
+T*
+(have done another 200 and maybe fixed a few more vulnerabilities. Will these clones keep up? ?) Tj
+T*
+(Daniel Stenberg , Actual curl rewrites in Rust Tags: daniel-stenberg , curl , rust , security ,) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4600 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(coding-agents , c , ai , llms , generative-ai , vibe-porting) Tj
+T*
+() Tj
+T*
+(5. SO Is Back! No, Not Stack Overflow, but Its Spirit) Tj
+T*
+(Source: Software and Tech stories from an Insider - iDiallo.com | Published: Thu, 19 Nov 2026) Tj
+T*
+(07:27:09 GMT) Tj
+T*
+(Link: https://idiallo.com/byte-size/stackoverflow-is-back-in-spirit) Tj
+T*
+(One thing people complained about most on Stack Overflow was having their questions closed and) Tj
+T*
+(marked as duplicates of other questions that were only slightly related. The poster would argue) Tj
+T*
+(in the comments, trying to make the case that their question was different, only for it to fall) Tj
+T*
+(on deaf ears. Then LLMs came along and ate Stack Overflow's lunch. An LLM will answer your) Tj
+T*
+(question, and with even more vigor if a related question exists online. Everyone was happy,) Tj
+T*
+(until the LLMs suddenly stopped responding. Along the way, we decided that LLMs are too) Tj
+T*
+(dangerous and shouldn't answer every development question. If your prompt sounds, even vaguely,) Tj
+T*
+(like you are trying to circumvent security, the model drops your request and flags your) Tj
+T*
+(account. Do it enough times, and your account is closed for good. Now it's no longer smug) Tj
+T*
+(developers closing questions. You are left with an unanswered prompt and no one to pin the) Tj
+T*
+(fault on. Even when they don't blatantly stop you in your tracks, the answers can feel gated,) Tj
+T*
+(as if the model knows the answer but deliberately won't tell you. Now, I was never so much) Tj
+T*
+(against marking questions as duplicates. In the majority of cases I encountered, the person...) Tj
+T*
+() Tj
+T*
+(6. ? The 50-Yard Line) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-18T20:42:23Z) Tj
+T*
+(Link: https://daringfireball.net/2026/11/the_50-yard_line) Tj
+T*
+(CEOs typically stay as close as they can to the 50-yard line in the middle of the political) Tj
+T*
+(playing field. That way, when an election puts the other party in power, they don?t have to) Tj
+T*
+(move ? they just need to turn around.) Tj
+T*
+() Tj
+T*
+(7. Jensen Huang Tweets) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-18T15:39:16Z) Tj
+T*
+(Link: https://x.com/JensenHuang/status/2122726005219737649) Tj
+T*
+(Jensen Huang, on X yesterday, hours before Nvidia?s quarterly earnings report: Since my) Tj
+T*
+(departure, I?ve seen an outpouring of calls from NVIDIA?s employees, investors, business) Tj
+T*
+(partners, and customers for me to return as CEO. Many continue to reach out to me directly as) Tj
+T*
+(the company navigates complex technology, market, competitive, and geopolitical dynamics.) Tj
+T*
+(NVIDIA is a once-in-a-generation company. If the Board of Directors decides that my return is) Tj
+T*
+(in the best interest of our shareholders, our employees, the company, and America, I would be) Tj
+T*
+(honored to answer these calls and return as CEO. Doing this in public is pathetic. There are in) Tj
+T*
+(fact a lot of simps out there ? largely on X ? clamoring for Nvidia?s board to reinstate Huang.) Tj
+T*
+(Here, for example, is Jason Calacanis , who works as David Sacks ?s pool boy: China Hawks are) Tj
+T*
+(going to get a chip ban, and Americans are going to get a recession. To believe Calacanis, the) Tj
+T*
+(only thing holding up the entire U.S. economy is Nvidia?s chip sales into China in violation of) Tj
+T*
+(national security law. This, too, is a pathetic opinion to express in public. All of these) Tj
+T*
+(bring-back-Jensen stans are stuck in the denial stage of grief. The national secur...) Tj
+T*
+() Tj
+T*
+(8. Irish Goodbye / French Leave / Leave the English Way) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-16T22:55:38Z) Tj
+T*
+(Link: https://terriblemaps.co.uk/leaving-a-party-without-saying-goodbye/) Tj
+T*
+(Over the weekend I speculated that Apple, Microsoft, and Amazon have ?made their Irish) Tj
+T*
+(goodbyes? from the Trump 2.0 administration \(including having no representatives on the David) Tj
+T*
+(Sacks-led PCAST \). I learned today that what we Americans call an ?Irish goodbye? is called a) Tj
+T*
+(?French leave? in the U.K., and ?leaving the English way? in France. The rest of Europe is) Tj
+T*
+(split between those two, but only Americans and Canadians call it an ?Irish goodbye?. \(And,) Tj
+T*
+(somehow, the Germans call it ?doing a Polish one?, which is not what I would guess that phrase) Tj
+T*
+(means.\) Anyway, I?ve got one friend who is an absolute master of the Irish goodbye. He never) Tj
+T*
+(says goodnight or goodbye from a group gathering. He always just disappears. And even when you) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4539 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(know he?s going to do it, and you start keeping an eye on him to catch him in the act, the) Tj
+T*
+(fucker slips away every time. I find it delightful, not rude. Update: The Dutch call it ?) Tj
+T*
+(taking the rat taxi ? and that?s hilarious ? but I don?t see how one can drop that into) Tj
+T*
+(conversation here. ?) Tj
+T*
+() Tj
+T*
+(9. If the Windows documentation doesn?t list a particular technology as supporting an) Tj
+T*
+(operation, does that mean that it doesn?t support it?) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 18 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261118-00/?p=112870/) Tj
+T*
+(Windows documents what it knows, but it doesn't know what third party network protocols) Tj
+T*
+(support. The post If the Windows documentation doesn?t list a particular technology as) Tj
+T*
+(supporting an operation, does that mean that it doesn?t support it? appeared first on The Old) Tj
+T*
+(New Thing .) Tj
+T*
+() Tj
+T*
+(10. "No way to prevent this" say users of only language where this regularly happens) Tj
+T*
+(Source: Xe Iaso's blog | Published: Wed, 18 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-123633/) Tj
+T*
+(In the hours following the release of CVE-2026-123633 and CVE-2026-123007 for the project NGINX) Tj
+T*
+(, site reliability workers and systems administrators scrambled to desperately rebuild and) Tj
+T*
+(patch all their systems to fix an HTTP/2 connection use-after-free during reverse-proxy) Tj
+T*
+(processing when connection slots run low, alongside an HTTP/2 flow-control integer underflow) Tj
+T*
+(that leads to an out-of-bounds memory copy over TLS, both of which can allow unauthenticated) Tj
+T*
+(remote code execution on affected servers with HTTP/2 enabled. This is due to the affected) Tj
+T*
+(components being written in C, the only programming language where these vulnerabilities) Tj
+T*
+(regularly happen. "This was a terrible tragedy, but sometimes these things just happen and) Tj
+T*
+(there's nothing anyone can do to stop them," said programmer Dr. Deontae Rempel, echoing) Tj
+T*
+(statements expressed by hundreds of thousands of programmers who use the only language where) Tj
+T*
+(90% of the world's memory safety vulnerabilities have occurred in the last 50 years, and whose) Tj
+T*
+(projects are 20 times more likely to have security vulnerabilities. "It's a shame, but what can) Tj
+T*
+(we do? There really isn't anything we can do to prevent memory safety vulnerabilities from) Tj
+T*
+(hap...) Tj
+T*
+() Tj
+T*
+(11. Supersequences and Superpermutations) Tj
+T*
+(Source: John D. Cook | Published: Thu, 19 Nov 2026 00:10:21 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/18/supersequences/) Tj
+T*
+(A word is universal if it contains every permutation of its alphabet as a subsequence: the) Tj
+T*
+(letters must appear in order, but gaps are allowed. For example, you can find all six) Tj
+T*
+(permutations of the digits 1, 2, and 3 inside the string 1231213. Not all permutations can be) Tj
+T*
+(found as a contiguous substring?that would [?] The post Supersequences and Superpermutations) Tj
+T*
+(first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(12. This Week in Source Control: 18 November 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-11-18T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/11/18/this-week-in-source-control.html) Tj
+T*
+(This week?s version control and forge news, gathered from release feeds for source control) Tj
+T*
+(clients and forges, the Lobsters vcs tag , Hacker News, and my boosts on Mastodon . Package) Tj
+T*
+(management news is in the Saturday This Week in Package Management roundup. Releases Gerrit) Tj
+T*
+(3.15.0 declares Git?s reftable ref storage ready for production after load testing and fixes to) Tj
+T*
+(the remaining stability and conversion bugs. Administrators can convert a repository between) Tj
+T*
+(the files and reftable formats from the project screen, as long as the repository receives no) Tj
+T*
+(writes during the conversion. A new POST /projects/{project-name}/branches/{branch-id}/commit) Tj
+T*
+(REST endpoint creates, updates, deletes or renames files on a branch in one commit, with no) Tj
+T*
+(clone and no change. The caller needs Push access on the branch. An optional base_revision) Tj
+T*
+(makes the request fail with 409 Conflict if the branch has moved. Comments and votes can now be) Tj
+T*
+(marked as AI-generated through an is_ai field, and the UI shows an icon next to them. The) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4733 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(aiReview permission moves to a default-deny ACL. An experimental Stack Diff dialog shows the) Tj
+T*
+(combined diff of a whole relation chain against its base. Gerrit is now built with JD...) Tj
+T*
+() Tj
+T*
+(13. Once More Unto The Breach - Another Year In Review) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 18 Nov 2026 12:34:00 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/once-more-unto-the-breach-another-year-in-review/) Tj
+T*
+(Since 2010, I've written an annual "year-in-review" blog post. It has been nearly two years) Tj
+T*
+(since I quit my job and went into the FIRE, so what has life been like and have I achieved) Tj
+T*
+(everything I dreamt of? Life has been pretty chill! I've been reasonably relaxed, seen loads of) Tj
+T*
+(shows and gigs, travelled around the world a bit, hung out with cool people, and had no major) Tj
+T*
+(issues with? well, a?) Tj
+T*
+() Tj
+T*
+(14. Are vibe-coded games making me a substance dualist?) Tj
+T*
+(Source: Rakhim's blog | Published: Wed, 18 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://rakhim.exotext.com/are-vibe-coded-games-making-me-a-substance-dualist) Tj
+T*
+(Seeing vibe-coded videogames lately makes me feel weird. The uncanny valley effect isn't) Tj
+T*
+("almost real but not quite" which is the case with AI-generated photos and videos. It's "almost) Tj
+T*
+(human but not quite". And this is what makes me feel weird. What makes a video game more human?) Tj
+T*
+(I'm not religious nor really spiritual, but seeing those AI-generated games in action feels) Tj
+T*
+(soulless in the most explicit way. As if there is literally an absence of soul? You feel it) Tj
+T*
+(when a piece of art, regardless of the technical mastery of the artist, or style, or scale,) Tj
+T*
+(just assures you it came from someone who, like yourself, has had experiences and emotions. It) Tj
+T*
+(may be a kid's first drawing or a grand symphony, something in it leaves you doubtless about) Tj
+T*
+(the presence of the ineffable "soul" or whatever you want to call it. Funny how even inorganic) Tj
+T*
+(nature, the landscapes, and rocks, and rivers, can feel the same even though there is nothing) Tj
+T*
+(human, nothing even cellular behind them. The rationalist in me can provide a meaningful) Tj
+T*
+(explanation involving evolutionary traits and pattern recognition. Though one can simply choose) Tj
+T*
+(to see "the soul", and it's fine, it's just how we name things that we can't qui...) Tj
+T*
+() Tj
+T*
+(15. Email Dumpster Diving) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Wed, 18 Nov 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/email-dumpster-diving/) Tj
+T*
+(Sometimes, for fun, I like to go rummage around in my email?s Spam folder. Why? Who knows) Tj
+T*
+(\(probably a question for a licensed medical professional\). I think there?s some part of me that) Tj
+T*
+(chases the dopamine hit of finding a ?needle in the haystack?: an email flagged as spam that) Tj
+T*
+(shouldn?t be \(which almost never happens, so I guess this behavior falls under the label of) Tj
+T*
+(addictive/impulsive seeking\). I think there?s also a part of me that enjoys keeping a finger on) Tj
+T*
+(the pulse of scam tactics, like ?Let?s see how people are trying to trick me today?? Almost) Tj
+T*
+(like a form of inoculation: deliberate exposure to scam tactics in a controlled environment. It) Tj
+T*
+(helps me develop an immunity, which comes in handy when family members come to me with their) Tj
+T*
+(emails and ask, ?Is this legit?? Here?s a little exposure to what I?ve seen recently. First: I) Tj
+T*
+(see a lot of emails that exploit the way cloud services bill us. For example: ?You?ve hit your) Tj
+T*
+(limits! Better log in or you?ll lose access!? Or, ?Your credit card has expired. Better log in) Tj
+T*
+(and enter your new credit card so you can keep doing what you?re doing.? ? \(Note the little) Tj
+T*
+(green banner at the top ? ?This message was sent from a trusted sender.? A...) Tj
+T*
+() Tj
+T*
+(16. Pluralistic: Enshittifiers groom us for scammers \(18 Nov 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 18 Nov 2026 08:28:46) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/11/18/malice-v-incompetence/) Tj
+T*
+(Today's links Enshittifiers groom us for scammers: The harder it is to tell a scam from a) Tj
+T*
+(shitty business practice, the easier life gets for scammers. Hey look at this: Delights to) Tj
+T*
+(delectate. Object permanence: Fannish accent; Photoshopping culture; Sixth HHGTTG novel) Tj
+T*
+(discovers; Dragon sausages must contain dragon; Tumblr users melt Congress's phones; Pizza is a) Tj
+T*
+(vegetable; Fake news author is a "satirist"; Trump wants a seawall around his golf resort \(even) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 2406 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(though climate change is a "hoax"\); "Nimona"; Harvard v meritocracy; Disney loses Roger Rabbit.) Tj
+T*
+(Upcoming appearances: Oxford, Sheffield, Virtual, Oxford, Santa Barbara, Montreal. Recent) Tj
+T*
+(appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em.) Tj
+T*
+(Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Enshittifiers groom) Tj
+T*
+(us for scammers \(permalink\) We live in a scam economy: there's a presidential memecoin, a) Tj
+T*
+(public health system run by a supplement peddler \(who sold his trademark for "MAHA" to a pal) Tj
+T*
+(before taking the job\), and Spacex got to debut into the NASDAQ 100 and turn your retirement) Tj
+T*
+(savings into exit liquidity for Musk's Emirati and tech oligarch cronies: https://prospect.o...) Tj
+T*
+() Tj
+T*
+(17. Inside PyPy: first contact with RPython) Tj
+T*
+(Source: Max Bernstein's Blog | Published: Thu, 19 Nov 2026 00:00:00 +0000) Tj
+T*
+(Link: https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/?utm_source=rss) Tj
+T*
+(I get restless now and then and I want to implement a programming language. Then after) Tj
+T*
+(mustering the resolve, I stew, for there is no good implementation language. 1 What am I to do,) Tj
+T*
+(build my own programming language so that I can then use it to implement the first language? So) Tj
+T*
+(I go back to modifying an existing implementation instead. There do exist established) Tj
+T*
+(general-purpose tools for building fast programming language implementations: RPython, which) Tj
+T*
+(has PyPy \(Python\) as its primary success story but also can claim Topaz \(Ruby\) and a couple of) Tj
+T*
+(other smaller ones Truffle, which is the foundation of TruffleRuby, GraalPython, GraalJS, and) Tj
+T*
+(even Sulong \(LLVM\) And more nascent ones such as Deegen , which was used to reimplement Lua.) Tj
+T*
+(They each take different approaches: Deegen requires you to write your bytecode interpreter and) Tj
+T*
+(type system in a C++ DSL. From this it generates an interpreter, a baseline JIT compiler, and,) Tj
+T*
+(hopefully eventually, an optimizing JIT compiler. Truffle requires you to write an AST or) Tj
+T*
+(\(newly\) bytecode interpreter in an Annotation-based Java DSL. From this it specializes guest) Tj
+T*
+(language code before emitting Graal IR, which uses aggressive partial evaluation to g...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000147 00000 n 
+0000000217 00000 n 
+0000004789 00000 n 
+0000004915 00000 n 
+0000009567 00000 n 
+0000009693 00000 n 
+0000014284 00000 n 
+0000014410 00000 n 
+0000019196 00000 n 
+0000019324 00000 n 
+0000021783 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+21911
+%%EOF
