@@ -1,0 +1,414 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4308 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-21 16:03:27) Tj
+T*
+() Tj
+T*
+(1. Why output caching doesn't work) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sat, 21 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/why-output-caching-doesnt-work/) Tj
+T*
+(LLM inference economics depends on caching 1 model inputs, to prevent the entire conversation) Tj
+T*
+(history being recomputed on each message 2 . Should we cache model outputs in the same way? As) Tj
+T*
+(it turns out, no. Why cache outputs? First, here?s why we might think caching outputs is a good) Tj
+T*
+(idea. We cache inputs to prevent repeated work, but LLMs do a lot of repeated work in their) Tj
+T*
+(output as well: When I get agents to write PRs I often ask them to repeat and explain relevant) Tj
+T*
+(code snippets in the conversation Long-running agent investigations produce lots of evidence) Tj
+T*
+(docs, but also need to quote from those docs when they respond to the user Every time I?ve) Tj
+T*
+(played around with automated AI research I?ve asked the agent to repeat some sample model) Tj
+T*
+(outputs so I can make my own qualitative check In all of these cases 3 I could go and read the) Tj
+T*
+(files myself, but I don?t. Agents produce such a volume of output, and reading agent output is) Tj
+T*
+(tiresome, so it?s better to simply ask for the key points. It?s an obvious waste of tokens 4 to) Tj
+T*
+(repeat all of this content. In fact, it?s worse than the input caching situation, because it?s) Tj
+T*
+(a waste of output tokens, which are significantly more expensive to prod...) Tj
+T*
+() Tj
+T*
+(2. Quoting Ravi Vakil) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-20T19:21:49+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/20/ravi-vakil/) Tj
+T*
+(Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad) Tj
+T*
+(has been looking closely at it for months and gave extensive feedback which is being) Tj
+T*
+(incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring) Tj
+T*
+(Alessandro to Stanford for a year to polish the writing and then announce it after running it) Tj
+T*
+(by enough people. Now it seems best to put out the current draft. ? Ravi Vakil , Hurried) Tj
+T*
+(Announcement: Alessandro Masullo GRH Tags: mathematics) Tj
+T*
+() Tj
+T*
+(3. Quoting Levent Alpöge) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-20T16:30:48+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/20/levent-alpoge/) Tj
+T*
+(I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact,) Tj
+T*
+(the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis,) Tj
+T*
+(and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also) Tj
+T*
+(formalized the arguments without assumptions. It is natural to feel that this is an end, in my) Tj
+T*
+(case a loss of a principal guiding light, but what I saw during the course of progress so) Tj
+T*
+(amazed me that I believe it is one dawn across science of something far greater. [...] Claude) Tj
+T*
+(and I have had a great time together with such breadth in recent months, but this time Claude) Tj
+T*
+(far outpaced me near the finish line. No, Claude flew, and danced, and sparkled near that) Tj
+T*
+(finish line. ? Levent Alpöge , alpo.ge/remark.pdf Tags: anthropic , claude , generative-ai ,) Tj
+T*
+(mathematics , ai , llms , levent-alpoge) Tj
+T*
+() Tj
+T*
+(4. datasette-agent 0.6a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-15T03:49:47+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/15/datasette-agent/) Tj
+T*
+(Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for) Tj
+T*
+(Datasette that lets you ask questions about your data. Most notably, it now adds an agent) Tj
+T*
+(prompt directly to the Datasette homepage, with support for hash-mentions of tables and) Tj
+T*
+(queries: Tags: datasette-agent , llm , datasette , llms , ai , generative-ai) Tj
+T*
+() Tj
+T*
+(5. CTO of ?RansomwareHelp? Indicted for Wire Fraud) Tj
+T*
+(Source: Krebs on Security | Published: Sat, 21 Nov 2026 00:36:39 +0000) Tj
+T*
+(Link: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4272 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida) Tj
+T*
+(business that claimed to use "advanced cryptographic tools" to restore data locked by) Tj
+T*
+(ransomware, has been charged with wire fraud after an FBI sting operation found the company was) Tj
+T*
+(simply paying the attackers for a decryption key and charging victims a markup for work that) Tj
+T*
+(was never performed.) Tj
+T*
+() Tj
+T*
+(6. Another failed attempt to get the icon for the icon for the .. parent folder) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 20 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261120-00/?p=112883/) Tj
+T*
+(Trying to generate a path that turns out to be invalid. The post Another failed attempt to get) Tj
+T*
+(the icon for the icon for the .. parent folder appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(7. Why do I get inconsistent results when I ask for the icon for the .. parent folder?) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 19 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261119-00/?p=112879/) Tj
+T*
+(It depends on what the parent folder is. The post Why do I get inconsistent results when I ask) Tj
+T*
+(for the icon for the .. parent folder? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. The Talk Show: ?A Whoopsie Treason?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-20T23:28:51Z) Tj
+T*
+(Link: https://daringfireball.net/thetalkshow/2026/11/20/ep-457) Tj
+T*
+(Christina Warren returns for a jam-packed show: Jensen Huang-gate at Nvidia, the HomeView, the) Tj
+T*
+(new iPad Mini, more on the iPhone Duo, and Robert ?R-Patz? Pattinson taking the role of James) Tj
+T*
+(Bond. Sponsored by: Uncommon Goods : Out of the ordinary gifts, great for the holidays. Save) Tj
+T*
+(15% off your next purchase after following that link. WorkOS : Let agents sign up for your app) Tj
+T*
+(without a browser. ?) Tj
+T*
+() Tj
+T*
+(9. Anthropic IPOs, Topping SpaceX for the Largest Ever) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-19T16:33:16Z) Tj
+T*
+(Link: https://www.techmeme.com/261118/p34#a261118p34) Tj
+T*
+(My skepticism remains twofold: \(a\) there is no permanent moat around LLM technology, only a) Tj
+T*
+(temporary one at the frontier that?s fueled by an enormous bubble pumped up by Jensen Huang at) Tj
+T*
+(Nvidia ; \(b\) even if I?m wrong on the first part, this particular cult of religious freaks and) Tj
+T*
+(weirdos isn?t fit to lead a public company. ?) Tj
+T*
+() Tj
+T*
+(10. MacOS Golden Gate 27.3b2 Includes New Privacy Controls for Full Disk Access \(and More\)) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-16T20:27:34Z) Tj
+T*
+(Link: https://9to5mac.com/2026/11/16/macos-27-3-includes-new-privacy-controls-for-full-disk-acc) Tj
+T*
+(ess-and-more/) Tj
+T*
+(Remember a month ago when Apple announced, without any significant detail , that they would be) Tj
+T*
+(changing the permission-granting UI for Full Disk Access to ?introduce additional controls to) Tj
+T*
+(ensure that users who genuinely wish to grant an app this extraordinary level of access can) Tj
+T*
+(only do so with very explicit user action?? It?s launching today in developer beta 2 of MacOS) Tj
+T*
+(27.3. Chance Miller has a great overview at 9to5Mac: In macOS 27.2, ?Device Control and Data) Tj
+T*
+(Access? is a unified toggle in System Settings, where Apple says that apps with that level of) Tj
+T*
+(access can ?view and send email, edit contacts and photos, monitor your keyboard, track) Tj
+T*
+(websites, record your screen, control any app on your Mac, and more.? In macOS 27.3, Apple is) Tj
+T*
+(splitting ?Device Control and Data Access? into two categories: Accessibility: Intended) Tj
+T*
+(specifically for assistive technologies, with permissions handled through an entitlement) Tj
+T*
+(process. System and App Protection Override: A new category for apps that need to bypass) Tj
+T*
+(certain macOS protections to control other apps or perform automated tasks. For the latter,) Tj
+T*
+(users will be able to specify which apps an automation tool can access rather than granting it) Tj
+T*
+(un...) Tj
+T*
+() Tj
+T*
+(11. Pluralistic: Lisa Hanawalt's "I Can't Stop Thinking About Horses and Sex" \(20 Nov) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4008 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 20 Nov 2026 10:44:20) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/11/20/intrusive-horse-thoughts/) Tj
+T*
+(Today's links Lisa Hanawalt's "I Can't Stop Thinking About Horses and Sex": A memoir of) Tj
+T*
+(heartbreak, horses, horniness and IBS. Hey look at this: Delights to delectate. Object) Tj
+T*
+(permanence: They Fight Crime; Cantenna wifi TV for Mali; Kakistocracy; Inflation or) Tj
+T*
+(price-gouging; The long game. Upcoming appearances: Oxford, Sheffield, Virtual, Oxford, Santa) Tj
+T*
+(Barbara, Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll) Tj
+T*
+(keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest.) Tj
+T*
+(Lisa Hanawalt's "I Can't Stop Thinking About Horses and Sex" \(permalink\) The title of animator) Tj
+T*
+(Lisa Hanawalt's new graphic memoir I Can't Stop Thinking About Horses and Sex is a perfect) Tj
+T*
+(encapsulation of the book's contents: a frank, self-aware, funny, horny, horsey exploration of) Tj
+T*
+(Hanawalt's life, relationships, gender, and digestive issues:) Tj
+T*
+(https://drawnandquarterly.com/books/i-cant-stop-thinking-about-horses-and-sex/ Hanawalt is) Tj
+T*
+(probably best known as the character designer for Bojack Horseman, but is also much loved in) Tj
+T*
+(animation circles for her all-too-short-lived show Tuca & Bertie:) Tj
+T*
+(https://en.wikipedia.org/wiki/Tuca_%26_Bertie She lived with th...) Tj
+T*
+() Tj
+T*
+(12. What is the Generalized Riemann Hypothesis?) Tj
+T*
+(Source: John D. Cook | Published: Sat, 21 Nov 2026 03:35:05 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/20/grh/) Tj
+T*
+(There were two proofs of the Riemann Hypothesis \(RH\) announced today: one AI-generated and one) Tj
+T*
+(human-generated.Both claimed to prove something more general, the Generalized Riemann) Tj
+T*
+(Hypothesis \(GRH\) which of course includes RH as a special case. The RH says that the all the) Tj
+T*
+(zero of the Riemann zeta function ?\(s\) in the critical strip, i.e. [?] The post What is the) Tj
+T*
+(Generalized Riemann Hypothesis? first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(13. Connect a USB Zigbee Device to HAOS) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 20 Nov 2026 12:34:19 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/connect-a-usb-zigbee-device-to-haos/) Tj
+T*
+(I plugged a Zigbee dongle into my HomeAssistant box, but I couldn't find it in the UI. Here's) Tj
+T*
+(how to get it working. Buy a USB Zigbee dongle Shove it in the computer running HomeAssistant) Tj
+T*
+(OS \(HAOS\) On the command line of your computer, run lsusb Get the two IDs of your Zigbee device) Tj
+T*
+(- for example 10c4:ea60 Silicon Labs CP210x UART Bridge In the same directory as your HAOS) Tj
+T*
+(image, create a new?) Tj
+T*
+() Tj
+T*
+(14. Re: Riemann) Tj
+T*
+(Source: Fernando Borretti | Published: Sat, 21 Nov 2026 00:00:00 +1100) Tj
+T*
+(Link: https://borretti.me/article/re-riemann) Tj
+T*
+(Man is a bridge.) Tj
+T*
+() Tj
+T*
+(15. Diablo II) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 20 Nov 2026 17:03:57 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/11/diablo-ii/) Tj
+T*
+(This article tells part of the story of the Diablo series. [Diablo II] is a progression with a) Tj
+T*
+(character where you go and defeat enemies and get rewarded. There?s overriding goals as well as) Tj
+T*
+(lots of sub-goals. There?s many things to do, yet it?s very simple. It?s very straightforward.) Tj
+T*
+(There?s no, ?What am I supposed [?]) Tj
+T*
+() Tj
+T*
+(16. Premium: Bursting Bubbles) Tj
+T*
+(Source: Ed Zitron's Where's Your Ed At | Published: Fri, 20 Nov 2026 16:41:55 GMT) Tj
+T*
+(Link: https://www.wheresyoured.at/premium-bursting-bubbles/) Tj
+T*
+(The boom-and-bust cycle of bubbles is dangerous, destructive, and only really benefits the) Tj
+T*
+(wealthiest and most-disconnected people alive. While there might be ways to get rich by virtue) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 161 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(of piling your money in at the earliest point and exiting before everything explodes, that?s) Tj
+T*
+(something only) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004570 00000 n 
+0000004696 00000 n 
+0000009020 00000 n 
+0000009146 00000 n 
+0000013206 00000 n 
+0000013332 00000 n 
+0000013545 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+13673
+%%EOF
