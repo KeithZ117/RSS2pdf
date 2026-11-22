@@ -1,0 +1,442 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4437 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-22 15:50:17) Tj
+T*
+() Tj
+T*
+(1. Muru) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-21T23:56:28+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/21/muru/) Tj
+T*
+(Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way) Tj
+T*
+(to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust) Tj
+T*
+(server that aims to provide the best possible tools for running ASGI and WSGI Python apps both) Tj
+T*
+(in development and production. As he did with wrapture , he's been publishing an) Tj
+T*
+(extraordinarily detailed account of the project as he works on it - as part of his development) Tj
+T*
+(process. Here's everything he's published so far, all in the last three weeks: 2026-11-04 ?) Tj
+T*
+(Twenty years of mod_wsgi, and what comes next 2026-11-05 ? A first look at Muru 2026-11-07 ?) Tj
+T*
+(Muru: looking inside the workers 2026-11-08 ? Muru: how it fits together 2026-11-09 ? Muru:) Tj
+T*
+(import once, fork many 2026-11-10 ? Muru: HTTPS in development 2026-11-11 ? Muru: WSGI and ASGI) Tj
+T*
+(together 2026-11-11 ? AI as a lifestyle choice 2026-11-12 ? Muru: releases, not restarts) Tj
+T*
+(2026-11-13 ? Muru: canaries without a service mesh 2026-11-14 ? Muru: a better tenant in a) Tj
+T*
+(container 2026-11-15 ? Muru: working with Kubernetes, not around it 2026-11-16 ? Muru: scaling) Tj
+T*
+(from what the workers report 2026-11-17 ? Muru: scaling to zero 2026-11-18 ? Muru: overlays...) Tj
+T*
+() Tj
+T*
+(2. llm-gemini 0.38.1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-20T03:01:57+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/20/llm-gemini/) Tj
+T*
+(Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels) Tj
+T*
+(- but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I) Tj
+T*
+(added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh) Tj
+T*
+(setting for Hydrogen makes a significant difference. I updated my Gemini 4 comparison grid -) Tj
+T*
+(note how Hydrogen at high used 5,311 output tokens and cost 3.99 cents, but the same model at) Tj
+T*
+(xhigh used 31,477 output tokens, cost 23.61 cents, and produced a pelican that's competitive) Tj
+T*
+(with Gemini 4 Neon: Tags: gemini , llm , llm-reasoning , pelican-riding-a-bicycle , ai , llms ,) Tj
+T*
+(google , generative-ai) Tj
+T*
+() Tj
+T*
+(3. To code well, avoid blunders) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Sun, 22 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/to-code-well-avoid-blunders/) Tj
+T*
+(The secret to writing good code 1 is to avoid catastrophic mistakes. Many engineers think about) Tj
+T*
+(programming as if the goal is to have brilliant insights, but they?re wrong. If you don?t) Tj
+T*
+(blunder, you will win. Many other domains are like this. If you can play chess without ever) Tj
+T*
+(hanging pieces, you will win against almost any 2 opponent. If you are very good at returning) Tj
+T*
+(tennis balls, you will beat most players even if you never hit a winner. People are really bad) Tj
+T*
+(at internalizing this. They think that being good at chess means finding brilliant tactical) Tj
+T*
+(combinations, or that being good at tennis means crushing balls into the corner of the court,) Tj
+T*
+(or that being a good programmer means discovering beautiful new abstractions. Not so! All of) Tj
+T*
+(those things are valuable, but they are not the main thing. The main thing is to avoid) Tj
+T*
+(catastrophic mistakes. The reason programming is like this is that it is impossible to build a) Tj
+T*
+(durable winning advantage. In basketball, if you are up 99-1, the worst consequence of a) Tj
+T*
+(blunder is still being up 99-4. However, in programming, one blunder can turn an elegant) Tj
+T*
+(codebase into a janky one. For instance, consider these blunders: Introducing a parallel) Tj
+T*
+(syst...) Tj
+T*
+() Tj
+T*
+(4. ? A Week With the New Privacy Controls in MacOS 27.3 Beta 2) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-21T20:09:57Z) Tj
+T*
+(Link: https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273) Tj
+T*
+(Apple?s new Full Disk Access and other privacy controls in MacOS 27.3 are good, with the) Tj
+T*
+(exception of the ever-present menu bar indicator for apps that control other apps.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4321 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+() Tj
+T*
+(5. The U.S. ? Utterly Predictably ? Has Lost Measles Elimination Status Under Trump and) Tj
+T*
+(RFK Jr.) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-21T18:28:22Z) Tj
+T*
+(Link: https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-99717) Tj
+T*
+(36e?st=GKiu3E) Tj
+T*
+(Sumathi Reddy, writing for The Wall Street Journal \(gift link\): The U.S.?s loss of what is) Tj
+T*
+(known as measles-elimination status is a massive public-health defeat that begs a question: How) Tj
+T*
+(long will it take to regain it? Based on other countries? experience it could be up to five) Tj
+T*
+(years, say doctors and epidemiologists. But that assumes the federal government is a robust and) Tj
+T*
+(willing participant proactively working on measles vaccination. Without that, it could take) Tj
+T*
+(even longer. Nilay Patel, in the headline of his endorsement of Kamala Harris two years ago: ?) Tj
+T*
+(A Vote for Donald Trump Is a Vote for School Shootings and Measles ?. ?) Tj
+T*
+() Tj
+T*
+(6. Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-21T18:02:51Z) Tj
+T*
+(Link: https://support.apple.com/en-us/127901) Tj
+T*
+(Apple Support: Starting with the 2027 software releases, Siri AI and Apple Intelligence) Tj
+T*
+(features are available for free for users with a supported device set to a supported language.) Tj
+T*
+(Some features rely on powerful server models and have limits where increased access is) Tj
+T*
+(available with eligible iCloud+ plans, starting with the 27.3 release. These include, but) Tj
+T*
+(aren?t limited to, features in these categories: Siri AI Images: Intelligent Photo Editing) Tj
+T*
+(Tools including Clean Up, Extend, and Spatial Reframing, and Image Playground Workflows and) Tj
+T*
+(automation: AFM Cloud and Cloud Pro models in Shortcuts Third-party apps using Apple Foundation) Tj
+T*
+(Models in Private Cloud Compute [...] When you hit your daily usage limit for a particular) Tj
+T*
+(feature category, you?ll be notified. Each device has its own daily usage limit per feature) Tj
+T*
+(category. Once you reach a limit, you can wait until your daily usage limit resets on that) Tj
+T*
+(device or immediately increase your limit by upgrading to an eligible iCloud+ plan. Here?s) Tj
+T*
+(Apple?s table with the usage limits by tier: ?) Tj
+T*
+() Tj
+T*
+(7. Reading List 11/21/2026) Tj
+T*
+(Source: Construction Physics | Published: Sat, 21 Nov 2026 13:04:03 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/reading-list-11212026) Tj
+T*
+(BAAJA, rayon for missiles, US gas consumption, Cyberarmageddon, and more.) Tj
+T*
+() Tj
+T*
+(8. Relicensing to CC BY-SA and making it visible in Schema metadata) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sat, 21 Nov 2026 12:34:40 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-) Tj
+T*
+(metadata/) Tj
+T*
+(How do you make it clear what copyright licence a blog post uses? I know in our wonderful) Tj
+T*
+(AI-powered future that copyright and copyleft are but a distant memory. But some of us still) Tj
+T*
+(believe it's worth making these things clear to both men and machines. The first port of call) Tj
+T*
+(is the page's metadata. Using the rel attribute. Placing something like this in your page's) Tj
+T*
+(indicates that the?) Tj
+T*
+() Tj
+T*
+(9. This Week in Package Management: 21 November 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-11-21T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/11/21/this-week-in-package-management.html) Tj
+T*
+(This week?s package management news, gathered from the package manager OPML feed collection ,) Tj
+T*
+(my posts and boosts on Mastodon , and anything people sent me. Version control and forge news) Tj
+T*
+(is in the Wednesday This Week in Source Control roundup. Security Gemstash 2.9.0 fixes eight) Tj
+T*
+(vulnerabilities. The most serious is unauthenticated remote code execution through unsafe) Tj
+T*
+(loading of upstream data \( GHSA-27cp-f4p8-8qwv \), rated CVSS 10.0. Non-default upstreams must) Tj
+T*
+(now be listed in :allowed_upstreams , and upstream responses are capped at 64 MiB and 300) Tj
+T*
+(seconds. The RubyGems team also announced that 2.9.0 is the last feature release of Gemstash.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4486 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Vulnerability reports and bug-fix contributions will still be accepted, and the post lists) Tj
+T*
+(several hosted and self-hosted alternatives. Mysteriously absent from that list: git-pkgs/proxy) Tj
+T*
+(. An oversight, I?m sure. Ruby 4.0.10, 3.4.13 and 3.3.14 fix seven vulnerabilities in Regexp) Tj
+T*
+(and String case conversion, several of which can lead to remote code execution when an) Tj
+T*
+(application compiles an attacker-controlled pattern. Ruby 3.2 and earlier are end of life.) Tj
+T*
+(Calif published details of Java4Shell \(CVE-2026-114938\), a heap memory corruption bug in the...) Tj
+T*
+() Tj
+T*
+(10. Porting Rockbox to an undocumented $9 Aliexpress ?YP3? MP3 Player with LLMs) Tj
+T*
+(Source: Jayden?s Blog | Published: 2026-11-14T08:55:00+00:00) Tj
+T*
+(Link: https://jayd.ml/2026/11/14/rockbox-on-yp3.html) Tj
+T*
+(Rockbox is a wonderful old custom firmware project for a variety of MP3 players and iPods.) Tj
+T*
+(Flashing rockbox to my Sansa E200 was a seminal moment for me: computers were everywhere, and) Tj
+T*
+(if they didn?t do cool things, it was because no one had bothered to program them to do so.) Tj
+T*
+(Looking back, that played no small part in my choice of career. It seems like in 2026 there) Tj
+T*
+(aren?t any cheap MP3 players that Rockbox supports though. Reverse engineering an embedded) Tj
+T*
+(platform like this is one of the hardest things I can think of, and I had decided to pay the) Tj
+T*
+(big bucks for one of those delicious subsidized token plans to try and push it as hard as I) Tj
+T*
+(could, and I did have a dirt cheap $9 Aliexpress MP3 player lying around. TL;DR: it ported) Tj
+T*
+(Rockbox to a 512 KiB player, I was barely involved. Then, I had it build a re-usable) Tj
+T*
+(toolkit/set of skills for future ports based on what worked from the first attempt approach,) Tj
+T*
+(and Claude was able to get Rockbox running on another MP3 player \(TS47\) in 4 hours. I made a) Tj
+T*
+(quick website for the project: https://rockslop.jayd.ml Here is the porting toolkit:) Tj
+T*
+(auto-rockbox Enter: The YP3 This is an unbranded player, sold under a variety of fake consonant) Tj
+T*
+(soup brands...) Tj
+T*
+() Tj
+T*
+(11. LLMs are going to crush every open source bug) Tj
+T*
+(Source: Jayden?s Blog | Published: 2026-11-01T08:30:00+00:00) Tj
+T*
+(Link: https://jayd.ml/2026/11/01/llms-are-going-to-crush-every-bug.html) Tj
+T*
+(Lately I decided to see how good Claude is at bringing up modern Linux on a 9 year old Galaxy) Tj
+T*
+(Tab S3. Here?s a sample of how that is going. Me: Hey I noticed that screen rotation is janky) Tj
+T*
+(and it is clearly compositing uninitialized memory One hour goes by No problem boss, all good) Tj
+T*
+(now! All I had to do was: Backport a WIP GPU patch from LKML that hasn?t even been merged yet) Tj
+T*
+(to your kernel Fix a freedreno GPU driver bug that has existed since 2018 Find two separate) Tj
+T*
+(bugs in Kwin Find an Alpine packaging bug that has prevented any file capabilities from being) Tj
+T*
+(applied to binaries for the past month I?ve forked each project and prepared MR descriptions) Tj
+T*
+(for each. LLMs have been derided as mediocrity machines that just give stochastic averages.) Tj
+T*
+(Even if we accept that framing, despite all the cynicism in tech about software quality, most) Tj
+T*
+(code really does mostly work.) Tj
+T*
+() Tj
+T*
+(12. Notes on the discrete Fourier transform \(DFT\)) Tj
+T*
+(Source: Eli Bendersky's website | Published: 2026-11-21T14:26:00-08:00) Tj
+T*
+(Link: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/) Tj
+T*
+(In the previous post on this topic , we?ve seen how the Discrete-Time Fourier Series \(DTFS\) and) Tj
+T*
+(transform \(DTFT\) are used to analyze infinite-duration periodic and non-periodic discrete) Tj
+T*
+(signals. Now, it?s time to turn to realistic digital signal processing where signals are not) Tj
+T*
+(only discrete, but also finite in ?) Tj
+T*
+() Tj
+T*
+(13. Weekly Update 531: Optimizely. Script Dependencies & Third Parties) Tj
+T*
+(Source: Troy Hunt | Published: Sun, 22 Nov 2026 05:24:12 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/weekly-update-531/) Tj
+T*
+("You can't outsource accountability". But it feels like that's what's happening when a) Tj
+T*
+(disclosure notice refers to "an incident being at a third party", as though somehow that makes) Tj
+T*
+(it better. It feels like the intent is to deflect responsibility) Tj
+T*
+() Tj
+T*
+(14. Linear scan register allocation in Datalog) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1507 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Max Bernstein's Blog | Published: Sat, 21 Nov 2026 00:00:00 +0000) Tj
+T*
+(Link: https://bernsteinbear.com/blog/lsra-datalog/?utm_source=rss) Tj
+T*
+(Note: This was supposed to be published basically immediately after PLDI 2026 but I got hung up) Tj
+T*
+(on posting it because I am not a Datalog native like Yannis is and I like understanding) Tj
+T*
+(everything I post. But I guess that?s what expert co-authors are for, right? It?s a little) Tj
+T*
+(rough but it?s been so long that the editing is holding up the posting. Happy reading. Last) Tj
+T*
+(year I wrote my first register allocator : a small linear scan implementation in Ruby on SSA.) Tj
+T*
+(Immediately after publishing the post, I had a call with Waleed Khan where he walked me through) Tj
+T*
+(implementing the liveness fixpoint algorithm in Datalog. We talked about doing the whole) Tj
+T*
+(register allocator in Datalog?how hard could it be??but it never materialized. This year,) Tj
+T*
+(though, I met Yannis Smaragdakis at PLDI. I did my usual thing, which is to nerd snipe other) Tj
+T*
+(people into doing interesting projects: in this case, full linear scan in Datalog. Several) Tj
+T*
+(short hours and several beers later, we have an implementation that I only mostly understand.) Tj
+T*
+(Overall this is an excellent demonstration of programming in Datalog. It shows tasks that) Tj
+T*
+(Datalog handles very elegantly, such as the basic block computation and the liveness) Tj
+T*
+(analysis,...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004699 00000 n 
+0000004825 00000 n 
+0000009198 00000 n 
+0000009324 00000 n 
+0000013862 00000 n 
+0000013988 00000 n 
+0000015548 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+15676
+%%EOF
