@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-11-23T16:40:08",
+  "entry_count": 12,
+  "error_count": 14,
+  "errors": [
+    "[network] https://lcamtuf.substack.com/feed -> HTTP Error 403: Forbidden",
+    "[network] https://skyfall.dev/rss.xml -> HTTP Error 404: Not Found",
+    "[network] https://rachelbythebay.com/w/atom.xml -> <urlopen error [Errno 101] Network is unreachable>",
+    "[network] https://garymarcus.substack.com/feed -> HTTP Error 403: Forbidden",
+    "[network] https://joanwestenberg.com/rss -> HTTP Error 404: Not Found",
+    "[network] https://www.filfre.net/feed/ -> HTTP Error 429: Too Many Requests",
+    "[xml] https://dfarq.homeip.net/feed/ -> not well-formed (invalid token): line 1, column 0",
+    "[network] https://gwern.substack.com/feed -> HTTP Error 403: Forbidden",
+    "[network] https://worksonmymachine.substack.com/feed -> HTTP Error 403: Forbidden",
+    "[network] https://hey.paris/index.xml -> HTTP Error 404: Not Found",
+    "[network] https://aresluna.org/main.rss -> HTTP Error 429: Too Many Requests",
+    "[network] https://www.tedunangst.com/flak/rss -> <urlopen error [Errno -2] Name or service not known>",
+    "[network] https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/feed.xml -> <urlopen error [Errno 104] Connection reset by peer>",
+    "[network] https://beej.us/blog/rss.xml -> <urlopen error [Errno 101] Network is unreachable>"
+  ]
+}

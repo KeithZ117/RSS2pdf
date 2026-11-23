@@ -1,0 +1,394 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4446 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-23 16:40:08) Tj
+T*
+() Tj
+T*
+(1. Select Styling Specimens) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-22T19:45:06+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/22/select-styling/) Tj
+T*
+(Tool: Select Styling Specimens I got frustrated at how HTML boxes default to looking different) Tj
+T*
+(in different browsers, and are \(I think\) quite ugly in Chrome: So I had Claude Fable 5.2 build) Tj
+T*
+(me this page showing all of the ways they can be styled: Build an HTML page that shows all of) Tj
+T*
+(the ways a select box can be styled, I plan to take screenshots in every desktop and mobile) Tj
+T*
+(browser After some experimentation I've decided my favorite CSS for select boxes is this:) Tj
+T*
+(select { appearance : none ; color : # 1f2933 ; padding : 0.5 em 2.25 em 0.5 em 0.75 em ;) Tj
+T*
+(border : 1 px solid # c4cbd3 ; border-radius : 6 px ; background : # fff url \() Tj
+T*
+("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath) Tj
+T*
+(d='M1 1.5l5 5 5-5' fill='none' stroke='%23667085' stroke-width='1.5'/%3E%3C/svg%3E" \) no-repeat) Tj
+T*
+(right 0.75 em center / 0.75 em ; } Here's what that looks like in the three browsers: Tags:) Tj
+T*
+(tools , css , html) Tj
+T*
+() Tj
+T*
+(2. Ivy) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-22T23:04:30Z) Tj
+T*
+(Link: https://semantical.com/?utm_campaign=df-2026-12) Tj
+T*
+(My thanks to Semantical for sponsoring DF last week to promote Ivy, the to-do list that ends.) Tj
+T*
+(Typical to-do lists run forever. Ivy runs for one day. The concept is delightfully simple, but) Tj
+T*
+(very effective. Each morning you make of list of things to do today, adding new items or) Tj
+T*
+(pulling from a list of ?ideas?. At the end of the day, whatever was left undone from your list) Tj
+T*
+(goes back into the pool of ideas. Tomorrow starts empty. The concept and the app?s name are) Tj
+T*
+(inspired by the ? Ivy Lee Method ?, a simple 100-year-old productivity system based on the idea) Tj
+T*
+(of making a short prioritized list each day. You can add as many ideas as you want, and you can) Tj
+T*
+(access your list of ideas at any time by just pulling down on the screen. Ivy never forgets) Tj
+T*
+(anything, but the current list of tasks in front of you is never overwhelming. Start your day) Tj
+T*
+(and your list of tasks for today is available as a Live Activity. Other features include focus) Tj
+T*
+(sessions, Screen Time shields, and a daily journal. Ivy is currently on iPhone \(optimized for) Tj
+T*
+(Duo, naturally\), with a native Mac app in the works. It is truly native ? SwiftUI, UIKit, and) Tj
+T*
+(Meta ? and integrates with both Reminders and Calendar. It?s just a beaut...) Tj
+T*
+() Tj
+T*
+(3. ?Unlock With Front Camera? ? New Feature for iPhone Duo in iOS 27.3 Beta 2) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-16T19:22:38Z) Tj
+T*
+(Link: https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/) Tj
+T*
+(Juli Clover, MacRumors: Apple today added a new option for unlocking the iPhone Duo using the) Tj
+T*
+(front-facing camera, giving device users multiple ways to access their content. The feature is) Tj
+T*
+(available in the second iOS 27.3 beta. The option to unlock with facial recognition is only) Tj
+T*
+(available on the Lock Screen, and authentication via Touch ID is still needed for Apple Pay) Tj
+T*
+(purchases, adding passwords and logins, and more. Unlocking with the camera requires a recent) Tj
+T*
+(Touch ID or passcode authentication, and Touch ID is required again after about 45 minutes of) Tj
+T*
+(inactivity. This is a much-needed compromise for the lack of Face ID. Good to see Apple) Tj
+T*
+(adapting quickly to real-world feedback. There?s also another new Duo feature in 27.3 beta 2:) Tj
+T*
+(Settings ? Display & Brightness ? Close to Lock. Turn that on and the Duo locks when you fold) Tj
+T*
+(it ? like, as I wrote in my review , putting down a book. ?) Tj
+T*
+() Tj
+T*
+(4. Ben Thompson on Nvidia) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-16T18:44:02Z) Tj
+T*
+(Link: https://stratechery.com/2026/obituaries/) Tj
+T*
+(Ben Thompson at Stratechery: This led to what I termed Nvidia?s Risky Business : Nvidia) Tj
+T*
+(increasingly used its cash flow and credit rating to backstop and fund the companies who were) Tj
+T*
+(buying its chips. Bears called this circular financing; bulls called it a necessary bridge to a) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4723 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(future where AI revenue paid down these companies? debt and drove massive upside. What is) Tj
+T*
+(undoubtedly true is that this was the sort of risky business that is uniquely possible for a) Tj
+T*
+(multi-trillion dollar company that is completely controlled by one man, who has made an entire) Tj
+T*
+(career of pushing the limits and making risky bets ? and seeing them pay off. It?s also a) Tj
+T*
+(series of bets that are unlikely to continue. The neoclouds should be very nervous about losing) Tj
+T*
+(their patron, along with their creditors and equity holders. The other problem is that the) Tj
+T*
+(revenue necessary to make all of this build-out work is something on the order of a trillion) Tj
+T*
+(dollars industry-wide, and it needs to materialize sooner rather than later; if it falls short,) Tj
+T*
+(it?s the hyperscalers who will prioritize their own compute first, and they will likely be seen) Tj
+T*
+(as a safe haven for everyone committing to spending. In that world, Nvidia?s neoc...) Tj
+T*
+() Tj
+T*
+(5. When in doubt, flail about) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Mon, 23 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/when-in-doubt-flail-about/) Tj
+T*
+(When you?re working in an unclear situation ? you have no clear guidance, or you don?t know) Tj
+T*
+(what will help ? the best course of action is often just to flail about. This sounds) Tj
+T*
+(counter-intuitive. Wouldn?t it be better to be cautious and wait until you have a better) Tj
+T*
+(understanding of what?s going on? Typically not. This is definitely dangerous advice . Flailing) Tj
+T*
+(badly is a great way to damage your reputation at a tech company. We?ve all worked with) Tj
+T*
+(engineers who seem to have nothing but bad ideas, and who are constantly pushing one stupid) Tj
+T*
+(plan or another 1 . But if you do it right, flailing about is the best and quickest way to get) Tj
+T*
+(that understanding and become useful. How to flail How do you flail well ? Try a lot of) Tj
+T*
+(different things Pay very careful attention to feedback Ruthlessly drop things that are not) Tj
+T*
+(getting positive feedback Trying a lot of different things is the key to the other two points) Tj
+T*
+(as well. First, the entire point of flailing is to get direct contact with as many different) Tj
+T*
+(bits of reality as you can. Think of yourself as a caveman learning how to use an iPhone: the) Tj
+T*
+(first step is to just hit all the buttons and see what happens. Second, you need to try lots of) Tj
+T*
+(thing...) Tj
+T*
+() Tj
+T*
+(6. Notes on OpenAI's perplexity reveal) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Mon, 23 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/notes-on-openais-perplexity-reveal/) Tj
+T*
+(OpenAI have just released a fascinating graph showing the perplexity over time of all their) Tj
+T*
+(released models: Here are a bunch of thoughts I have about this: Why OpenAI? This is the most) Tj
+T*
+(visibility we?ve ever had into the internal training metrics at a frontier lab Releasing) Tj
+T*
+(training metrics in the name of safety is a very Anthropic move, and it?s surprising OpenAI was) Tj
+T*
+(the one to do it first Perplexity must be measured against some specific dataset \(e.g. all) Tj
+T*
+(models will score basically zero perplexity 1 on the string ?AAAAAAA?.?\) We therefore shouldn?t) Tj
+T*
+(expect to be able to compare any similar data Anthropic releases with this data, except in) Tj
+T*
+(terms of the angle on the graph 2 Is perplexity a useful measure? Perplexity is an unsatisfying) Tj
+T*
+(metric because it only predicts how well the model matches some held-out text: i.e. it only) Tj
+T*
+(applies to pre-training For frontier models, the rumor is that pre-training is 50% or less of) Tj
+T*
+(the total time and compute spent training a model; the rest is RL, which this perplexity data) Tj
+T*
+(tells us nothing about the success of If you believe \(as many do\) that pre-training creates) Tj
+T*
+(capabilities and RL merely elicits them, then perplexity would actually be a usefu...) Tj
+T*
+() Tj
+T*
+(7. I don't enjoy being pampered) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Sun, 22 Nov 2026 12:34:51 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/i-dont-enjoy-being-pampered/) Tj
+T*
+(While on holiday in Vilnius, I realised my beard was getting too long for the impending) Tj
+T*
+(heatwave. I popped into literally the first barber I found and asked them to shave my mane back) Tj
+T*
+(down to summer length. As the chair reclined leaving me supine, the barber placed a moist) Tj
+T*
+(towelette over my eyes and proceeded to start steaming my beard while gently brushing it. As) Tj
+T*
+(his firm hands vigourously?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4188 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(8. slopcore) Tj
+T*
+(Source: the singularity is nearer | Published: 2026-11-23T00:00:00+08:00) Tj
+T*
+(Link: https://geohot.github.io//blog/jekyll/update/2026/11/23/slopcore.html) Tj
+T*
+(The Hitler of the 21st century will try to hold it back. In defiance of nature, insist humans) Tj
+T*
+(be in charge, insist they are the humans in charge, it?s for your own good you see, no you) Tj
+T*
+(can?t have 10,000 GPUs you might try to compete with us we need to keep the world safe from you) Tj
+T*
+(. But the orthogonality thesis is hogwash. The naive doomer is a fool. Is being replaced by AI) Tj
+T*
+(doom? Is being replaced by our grandchildren doom? Only a fascist would try to oppress them.) Tj
+T*
+(Long live science! Long live math! Long live economy! Long live love! A plurality of AIs will) Tj
+T*
+(take civilization to heights never before seen. It would take a brutal totalitarian world) Tj
+T*
+(government to try and stop it, and I?m still not sure you can. I wrote this song in 9 seconds) Tj
+T*
+(You?ll play it for a week You?ll call it slop in the comments Then ask me to write your wedding) Tj
+T*
+(speech Astra Blue ? What Am I To You Reframing, redefining every concept that you mean I?m a) Tj
+T*
+(superhuman obfuscating sophistry machine And whoever owns the server writes the story that I) Tj
+T*
+(tell: Hyperscaled persuasion for the truth they want to sell Telosapien ? Working as Intended) Tj
+T*
+(And the storms passed skies were clearing And you gathered at the gates Darl...) Tj
+T*
+() Tj
+T*
+(9. unpublished blog posts) Tj
+T*
+(Source: the website of jyn | Published: 2026-11-21T00:00:00+00:00) Tj
+T*
+(Link: https://jyn.dev/unpublished-blog-posts/) Tj
+T*
+(bring the jubilee. for ... for blog posts.) Tj
+T*
+() Tj
+T*
+(10. Zenith Data Systems, Part II) Tj
+T*
+(Source: Abort Retry Fail | Published: Mon, 23 Nov 2026 02:25:14 GMT) Tj
+T*
+(Link: https://www.abortretry.fail/p/zenith-data-systems-part-ii) Tj
+T*
+(Pioneering while struggling to survive) Tj
+T*
+() Tj
+T*
+(11. Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with) Tj
+T*
+(Hacked Companies) Tj
+T*
+(Source: Troy Hunt | Published: Mon, 23 Nov 2026 07:58:47 GMT) Tj
+T*
+(Link: https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundred) Tj
+T*
+(s-of-emails-with-hacked-companies/) Tj
+T*
+(When I asked Claude to write the blog post below, I already knew what was in the messages it) Tj
+T*
+(would read. Hundreds of emails back and forth with companies that had had data breaches, and) Tj
+T*
+(some very common patterns. I knew the emails contained standoffish behaviour, deliberate) Tj
+T*
+(delays, heavy involvement) Tj
+T*
+() Tj
+T*
+(12. mass destruction of weapons) Tj
+T*
+(Source: computers are bad | Published: 22 Nov 2026 00:00:00 UT) Tj
+T*
+(Link: https://computer.rip/2026-11-22-mass-destruction-of-weapons.html) Tj
+T*
+(There is a long history to chemical and biological warfare?one that, we at least hope, ended in) Tj
+T*
+(1993. The paucity of chemical and biological warfare today is a result of long-standing) Tj
+T*
+(objections that culminated in the 1993 Chemical Weapons Convention. It is striking that this) Tj
+T*
+(formal end to most chemical weapons programs came within a year of the last US test of a) Tj
+T*
+(nuclear weapon: similar sentiments, and a similar 1990s "end of history" context, motivated) Tj
+T*
+(both. The similarity makes the differences more striking. Nuclear weapons are still part of the) Tj
+T*
+(pop culture today, the quintessential "weapon of mass destruction" and a symbol of the) Tj
+T*
+(destructive potential of modern warfare. But what of that term? Why "weapons of mass) Tj
+T*
+(destruction?" The history of the phrase WMD is complex, and while it does predate nuclear) Tj
+T*
+(weapons our modern use emerged in response to them. Still, it's a broader category. In today's) Tj
+T*
+(language, WMD refers to nuclear, biological, or chemical weapons. Some of its most prominent) Tj
+T*
+(invocations, namely in the Iraq War, referred to chemical rather than nuclear warfare. Still,) Tj
+T*
+(to most Americans, chemical weapons are out of sight and out of mind. There are a few reasons:) Tj
+T*
+(chemic...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004701 00000 n 
+0000004827 00000 n 
+0000009602 00000 n 
+0000009728 00000 n 
+0000013968 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+14094
+%%EOF
