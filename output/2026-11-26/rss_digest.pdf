@@ -1,0 +1,476 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4423 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-26 17:13:34) Tj
+T*
+() Tj
+T*
+(1. sqlite3_rsync: Database Remote-Copy Tool For SQLite) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-26T06:08:25+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/26/sqlite3-rsync/) Tj
+T*
+(sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around) Tj
+T*
+(for a while now - it was added as "experimental" in SQLite 3.47.0 in October 2024 and enhanced) Tj
+T*
+(in SQLite 3.50.0 in May 2025 . It was only today that I understood one of its most attractive) Tj
+T*
+(characteristics. Normally, if you want to grab a snapshot copy of a SQLite database, you need) Tj
+T*
+(to use either the backup API or VACUUM INTO . In both cases you need enough disk space to) Tj
+T*
+(create a duplicate copy of your database, so if you're on a small instance and you already use) Tj
+T*
+(more than half of the available disk you are plain out of luck. sqlite3_rsync can copy a) Tj
+T*
+(snapshot of your database over an SSH connection to another machine, without first needing to) Tj
+T*
+(create a full local copy! It's also good for synchronizing an existing copy of a database) Tj
+T*
+(without re-transmitting the entire thing over the network. It works in a similar way to regular) Tj
+T*
+(rsync: The core idea behind the protocol is that the replica sends cryptographic hashes for) Tj
+T*
+(pages or groups of pages over to the origin side. The origin sends back page content that) Tj
+T*
+(differs, or requests finer-grain hashes if a multi-page hash does not match. If the...) Tj
+T*
+() Tj
+T*
+(2. Quoting Scott Aaronson) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-25T23:26:32+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/25/scott-aaronson/) Tj
+T*
+(It?s now obvious that we?ll be getting, not one-off solutions to this or that complexity) Tj
+T*
+(question, but a whole new continent of mathematical truth, one that we?d previously only) Tj
+T*
+(glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or) Tj
+T*
+(Galileo first training his telescope on the stars. That might give you some idea of how our) Tj
+T*
+(resolution into the complexity-theoretic universe, and the whole universe of mathematical truth) Tj
+T*
+(beyond it, has now improved. ? Scott Aaronson Tags: mathematics , llms , ai , generative-ai) Tj
+T*
+() Tj
+T*
+(3. datasette-charts 0.3a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-25T18:16:50+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/25/datasette-charts/) Tj
+T*
+(Release: datasette-charts 0.3a0 I added chart annotations to datasette-charts ! You can now) Tj
+T*
+(render a chart and then annotate it with lines, shaded areas, labels, or a combination of the) Tj
+T*
+(three. A chart with annotations looks like this: Here's that same chart in Datasette Lite ,) Tj
+T*
+(where you can tweak the annotations using the chart builder UI: If you also install Datasette) Tj
+T*
+(Agent the agent can build annotated charts for you. Here's what I got on the agent.datasette.io) Tj
+T*
+(demo for this prompt: Show a chart comparing Simon's tagged content about LLMs with his tagged) Tj
+T*
+(content about Datasette, with annotations Tags: datasette , visualization , datasette-charts) Tj
+T*
+() Tj
+T*
+(4. Ansible Fails waiting for privilege escalation on Ubuntu 26) Tj
+T*
+(Source: Jeff Geerling | Published: Wed, 25 Nov 2026 15:43:00 -0600) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/) Tj
+T*
+(I've slowly been moving my servers from Ubuntu 22 and 24 to 26 this year, and noticed my) Tj
+T*
+(Ansible automation starts failing if I have password protection for sudo use: $) Tj
+T*
+(ansible-playbook main.yml -K BECOME password: PLAY [Security]) Tj
+T*
+(******************************************************* TASK [Gathering Facts]) Tj
+T*
+(*********************************************************************** fatal:) Tj
+T*
+([my-server.local]: FAILED! => msg: 'Timeout \(12s\) waiting for privilege escalation prompt: ') Tj
+T*
+(Apparently Ubuntu's been rewriting system utilities in Rust, and the sudo-rs version that ships) Tj
+T*
+(on Ubuntu 26.04 has some incompatiblities with the sudo I've used on servers for 20+ years.) Tj
+T*
+() Tj
+T*
+(5. Electrek Speculates on Trump?s Claim He ?Protected? Elon Musk After a ?Very Tough) Tj
+T*
+(Incident? During His First Term) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4977 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(Source: Daring Fireball | Published: 2026-11-26T00:16:54Z) Tj
+T*
+(Link: https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/) Tj
+T*
+(Fred Lambert, writing for Electrek: On August 7, 2018, Musk tweeted that he was ?considering) Tj
+T*
+(taking Tesla private at $420. Funding secured.? It wasn?t. Saudi Arabia?s Public Investment) Tj
+T*
+(Fund had shown interest, but no deal or price had been agreed, and the take-private plan was) Tj
+T*
+(dead within three weeks. The SEC sued Musk for securities fraud on September 27, 2018. The) Tj
+T*
+(agency didn?t only ask for a fine. It asked the court to bar Musk from serving as an officer or) Tj
+T*
+(director of any public company. That would have meant no more Elon at Tesla, which lines up) Tj
+T*
+(with ?you wouldn?t have Elon if it wasn?t for me? better than anything else on this list. And) Tj
+T*
+(then it went away fast. Two days later, the SEC announced a settlement: Musk stayed CEO, gave) Tj
+T*
+(up the chairman title for three years, and he and Tesla each paid $20 million, $40 million in) Tj
+T*
+(total. Tesla added two independent directors and agreed to have a lawyer pre-approve Musk?s) Tj
+T*
+(material tweets, but the SEC never fully enforced it. Musk didn?t admit or deny anything. The) Tj
+T*
+(SEC was run at the time by Jay Clayton, a Trump appointee. I?ll bet that?s what Trump was) Tj
+T*
+(referring to . Like most of Trump?s corrupt acts, it happened right in the open. ?) Tj
+T*
+() Tj
+T*
+(6. 1Password?s Backend Systems Were Compromised, Revealing Only Customer Account Metadata) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-25T22:52:37Z) Tj
+T*
+(Link: https://1password.com/blog/update-on-nov-2026-security-incident) Tj
+T*
+(1Password: An attacker gained access to some of our backend systems and copied a limited amount) Tj
+T*
+(of customer account information from a subset of our customers, including the names and email) Tj
+T*
+(addresses that customers use to sign into 1Password. Your vault data, the items in them, and) Tj
+T*
+(the keys that protect them are safe and were not affected. 1Password does not have access to) Tj
+T*
+(your password or secret keys. We implemented containment measures, restored clean versions of) Tj
+T*
+(the affected service, and have triggered a rotation of internal credentials. You do not need to) Tj
+T*
+(update anything in your 1Password account. We recommend being cautious of phishing attempts in) Tj
+T*
+(the form of unexpected emails about 1Password, such as invitations or account recovery requests) Tj
+T*
+(that you did not initiate. 1Password apps and services are working normally. It seems like they) Tj
+T*
+(dealt with this perfectly. By design, the sensitive data customers store with 1Password can?t) Tj
+T*
+(be accessed without the secret keys that only customers possess. This is why end-to-end) Tj
+T*
+(encryption is essential. See Also: Todoist was hacked yesterday , and for a small segment of) Tj
+T*
+(their users, sensitive data was compromised . ?) Tj
+T*
+() Tj
+T*
+(7. ?Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-25T22:31:10Z) Tj
+T*
+(Link: https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html) Tj
+T*
+(CNBC: But Trump?s jubilation stands in stark contrast to the reaction from even his staunchest) Tj
+T*
+(allies on Capitol Hill, who recoiled after the reinstatement and vowed to continue their) Tj
+T*
+(investigations into Huang ? whose relationship with a potential Chinese intelligence asset they) Tj
+T*
+(fear may have jeopardized U.S. national security. ?The risk remains that there could be) Tj
+T*
+(information that a Chinese spy knows about a key individual in the supply chain, and that?s not) Tj
+T*
+(worth the risk,? Sen. Kevin Cramer, R-N.D., said Tuesday on CNBC?s ?Squawk Box.? ?We might even) Tj
+T*
+(have to put a babysitter on Jensen Huang for crying out loud ... just to make sure that he) Tj
+T*
+(doesn?t do something that?s going to risk the United States.? What?s conspicuous isn?t merely) Tj
+T*
+(that some congressional Republicans are denouncing Trump?s actions on behalf of Huang \(whether) Tj
+T*
+(on the specific national security issues related to Nvidia and China, or the general) Tj
+T*
+(abandonment of the pre-Trump bedrock Republican principle of laissez-faire capitalism\) ? it?s) Tj
+T*
+(that none, seemingly, are defending it. Here?s a report from The Washington Sun \(formerly) Tj
+T*
+(NOTUS\) on Monday quoting a host of Republicans expressing some degree of opposition to Tru...) Tj
+T*
+() Tj
+T*
+(8. Why did it seem that the entries in the CoreApplication Properties expired when the) Tj
+T*
+(source application shut down?) Tj
+T*
+(Source: The Old New Thing | Published: Wed, 25 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261125-00/?p=112895/) Tj
+T*
+(It's not the Properties. It's the object that you put in the Properties. The post Why did it) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4410 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(seem that the entries in the CoreApplication Properties expired when the source application) Tj
+T*
+(shut down? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(9. Covering a body with eight smaller copies of itself) Tj
+T*
+(Source: John D. Cook | Published: Wed, 25 Nov 2026 14:51:58 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/25/hadwiger-covering/) Tj
+T*
+(It?s obvious that you could cover a cube with smaller cubes. You could, for example, take a) Tj
+T*
+(cube with side 1 and cover it a cube of side Ω centered on each corner. It?s not as obvious how) Tj
+T*
+(you would cover a ball with smaller balls, but you could cover the unit ball with balls [?] The) Tj
+T*
+(post Covering a body with eight smaller copies of itself first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Polynomials and Planets) Tj
+T*
+(Source: John D. Cook | Published: Wed, 25 Nov 2026 13:44:21 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/25/polynomials-and-planets/) Tj
+T*
+(A couple days ago I wrote about how the force of gravity varies over the surface of an oblate) Tj
+T*
+(planet. Earth is slightly oblate, i.e., it has an equatorial bulge, and this oblateness has a) Tj
+T*
+(significant effect on satellite orbits. More on that here. The fictional planet Mesklin in Hal) Tj
+T*
+(Clement?s novel Mission of Gravity is [?] The post Polynomials and Planets first appeared on) Tj
+T*
+(John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Book Review: Slow Gods by Claire North ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Wed, 25 Nov 2026 12:34:34 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/book-review-slow-gods-by-claire-north/) Tj
+T*
+(Cor! This is a great big doorstop of a space opera. It perfectly co-opts the language of pulp) Tj
+T*
+(sci-fi without becoming pulpy. If you've read plenty of sci-fi, you'll be familiar with some of) Tj
+T*
+(the tropes and how the author has reinvented them. There are shades of Murderbot's autistic) Tj
+T*
+(meltdowns, the living ships from Of Monsters and Mainframes, and a million other stories. The) Tj
+T*
+(book flips between?) Tj
+T*
+() Tj
+T*
+(12. This Week in Source Control: 25 November 2026) Tj
+T*
+(Source: Andrew Nesbitt | Published: 2026-11-25T10:00:00+00:00) Tj
+T*
+(Link: https://nesbitt.io/2026/11/25/this-week-in-source-control.html) Tj
+T*
+(This week?s version control and forge news, gathered from release feeds for source control) Tj
+T*
+(clients and forges, the Lobsters vcs tag , Hacker News, and my boosts on Mastodon . Package) Tj
+T*
+(management news is in the Saturday This Week in Package Management roundup. Scaling Scaling) Tj
+T*
+(horizontally: how we moved beyond Multi-Raft \(Enroute\) covers the 0.4.0 release of Enroute, a) Tj
+T*
+(Git server that stores object data in S3 and one replicated log of refs and layers per) Tj
+T*
+(repository. Under Multi-Raft every repository had its own Raft group with its own heartbeats) Tj
+T*
+(and elections. At 2,048 concurrent writers across 100,000 repositories, late heartbeats set off) Tj
+T*
+(thousands of elections and the 99th percentile push time reached 83 seconds. The new design) Tj
+T*
+(uses failover from Vertical Paxos: a single root log runs Raft and assigns a sequencer to each) Tj
+T*
+(repository?s log, so timers and elections run only in the root log. The root log leader also) Tj
+T*
+(places each repository?s three replicas in distinct zones. The protocol is checked with) Tj
+T*
+(Stateright against the real implementation and with a Jepsen suite. At 300,000 repositories the) Tj
+T*
+(team measured up to 24,000 pushes per second. Accelerating development for massive Git rep...) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: New York vs auto-enshittification \(25 Nov 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Wed, 25 Nov 2026 13:42:12) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/11/25/empire-state-strikes-back/) Tj
+T*
+(Today's links New York vs auto-enshittification: A blueprint for states to fix Congress's) Tj
+T*
+(mistake. Hey look at this: Delights to delectate. Object permanence: Homebrew DRM; HTML v) Tj
+T*
+(regexp; Tesla-financial complex; Spain v Wall St landlords; "Cooking in Maximum Security.") Tj
+T*
+(Upcoming appearances: Virtual, Oxford, Santa Barbara, Montreal, Sheffield. Recent appearances:) Tj
+T*
+(Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2831 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(I said, I'll keep writin' 'em. Colophon: All the rest. New York vs auto-enshittification) Tj
+T*
+(\(permalink\) As of February 27, 2027, it will be illegal for companies in New York to charge) Tj
+T*
+(car-owners a subscription fee or an upcharge for any software feature that runs on hardware) Tj
+T*
+(already installed in their car. It's a bold ? if imperfect ? disenshittification gambit aimed) Tj
+T*
+(at the extremely \(and increasingly\) enshittified automotive industry:) Tj
+T*
+(https://wgna.com/car-bill-extra-fees/ In a state of nature, there'd be no reason to pass a law) Tj
+T*
+(like this. Say BMW decided to sell you a car that charged you a monthly subscription for the) Tj
+T*
+("feature" that auto-dipped your high-beams when there was an oncoming car \(a thing BMW actually) Tj
+T*
+(does\): https://w...) Tj
+T*
+() Tj
+T*
+(14. Have You Tried Using Your Agent?) Tj
+T*
+(Source: Jim Nielsen?s Blog | Published: Wed, 25 Nov 2026 19:00:00 GMT) Tj
+T*
+(Link: https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/) Tj
+T*
+(In 2025, I wrote down some thoughts on ?AX? . My fear was that AX would end up becoming the top) Tj
+T*
+(priority for people building software. \(I?m not against AX, I would simply prefer a priority of) Tj
+T*
+(constituencies where the human experience is top.\) So where are we today? I feel like we?re) Tj
+T*
+(building things that are increasingly accessible to robots while remaining inaccessible to) Tj
+T*
+(people. And I?m nervous that the collective posture of technologists towards this trend is not,) Tj
+T*
+(?We should make this more accessible to our fellow humans.? But rather, ?Humans should use) Tj
+T*
+(their agents to access our thing.? In other words: instead of making things for each other,) Tj
+T*
+(we?re spending our time and attention making things for machines. ?Is it accessible?? sometimes) Tj
+T*
+(feels as though it colloquially means, ?Can an AI agent access it?? And since the agent?s work) Tj
+T*
+(is purportedly on our behalf, making something accessible to a machine counts as making it) Tj
+T*
+(accessible to a human. I?m afraid of conversations by software makers increasingly going like) Tj
+T*
+(this: ?Are we ready to ship? Does it work for the AI?? ?Yes ? but you can?t really use it) Tj
+T*
+(yourself.? ?That?s ok, ship it. We can always fix that later ? but also, who ev...) Tj
+T*
+() Tj
+T*
+(15. Has Jevons paradox broken down?) Tj
+T*
+(Source: Martin Alderson | Published: Wed, 25 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/has-jevons-paradox-broken-down/?utm_source=rss&utm_mediu) Tj
+T*
+(m=rss&utm_campaign=feed) Tj
+T*
+(Ramp's data shows growth in token spend stalling. Some thoughts on why my own token consumption) Tj
+T*
+(has plateaued, and whether organisational change can outpace falling token prices.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004685 00000 n 
+0000004811 00000 n 
+0000009840 00000 n 
+0000009966 00000 n 
+0000014428 00000 n 
+0000014554 00000 n 
+0000017438 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+17566
+%%EOF

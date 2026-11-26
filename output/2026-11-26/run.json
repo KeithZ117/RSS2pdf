@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-11-26T17:13:34",
+  "entry_count": 15,
+  "error_count": 10,
+  "errors": [
+    "[network] https://lcamtuf.substack.com/feed -> HTTP Error 403: Forbidden",
+    "[network] https://skyfall.dev/rss.xml -> HTTP Error 404: Not Found",
+    "[network] https://garymarcus.substack.com/feed -> HTTP Error 403: Forbidden",
+    "[network] https://rachelbythebay.com/w/atom.xml -> <urlopen error [Errno 101] Network is unreachable>",
+    "[network] https://joanwestenberg.com/rss -> HTTP Error 404: Not Found",
+    "[network] https://gwern.substack.com/feed -> HTTP Error 403: Forbidden",
+    "[network] https://hey.paris/index.xml -> <urlopen error [Errno -5] No address associated with hostname>",
+    "[network] https://worksonmymachine.substack.com/feed -> HTTP Error 403: Forbidden",
+    "[network] https://www.tedunangst.com/flak/rss -> <urlopen error [Errno -2] Name or service not known>",
+    "[network] https://dfarq.homeip.net/feed/ -> <urlopen error timed out>"
+  ]
+}
