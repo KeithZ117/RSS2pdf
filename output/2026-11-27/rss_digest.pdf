@@ -1,0 +1,394 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4423 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-27 17:29:28) Tj
+T*
+() Tj
+T*
+(1. Quoting Jack Despain Zhou) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-26T15:09:31+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/26/jack-despain-zhou/) Tj
+T*
+(Among the many already existing effects of AI has been a great de-individualization. I open a) Tj
+T*
+(YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open) Tj
+T*
+(my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly) Tj
+T*
+(serious credentials attached to ostensibly serious institutions who want to publish things) Tj
+T*
+(attached to their reputations and mine, and I see Claude . ? Jack Despain Zhou , Spitting in) Tj
+T*
+(the Face of Glaude Tags: ai-misuse , claude , generative-ai , ai , llms) Tj
+T*
+() Tj
+T*
+(2. The New York Times warns photographers not to update Photoshop over AI features) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-26T05:08:46+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/26/hn-50651685/) Tj
+T*
+(My comment on The New York Times warns photographers not to update Photoshop over AI features ?) Tj
+T*
+(Hacker News. I had a NYT photographer take my picture at my home earlier this year \(for a story) Tj
+T*
+(about Moltbook, oddly enough\). At one point I asked if they could fix things up if I had a) Tj
+T*
+(stain on my shirt and they said absolutely not - they present photographs as they were taken,) Tj
+T*
+(with cropping and balancing applied but no edits beyond that. He did spend a bunch of time) Tj
+T*
+(trying to find the best possible natural lighting for the shots he wanted. The photo at the top) Tj
+T*
+(of https://www.nytimes.com/2026/02/02/technology/moltbook-ai-so... is my laptop, taken in my) Tj
+T*
+(garden, after hunting around for the best spot that didn't have too much glare on the screen.) Tj
+T*
+(You can see how dirty my screen is, too! Photography for a newspaper is photo journalism, and) Tj
+T*
+(they take it seriously. \(Thankfully I did not have a visible stain on my shirt.\) Tags:) Tj
+T*
+(photography , new-york-times , hacker-news , journalism) Tj
+T*
+() Tj
+T*
+(3. datasette-charts 0.2a1) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-24T06:07:19+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/24/datasette-charts-2/) Tj
+T*
+(Release: datasette-charts 0.2a1 Minor UI improvements: Collapsing the suggested charts section) Tj
+T*
+(now leaves the chart visible. Following a link to a chart opens it with the suggestions) Tj
+T*
+(collapsed for that visit. On table pages the panel now sits below the "4,235 rows where country) Tj
+T*
+(= CHN" line. The "Data" table under each chart has been replaced by Copy TSV and Copy CSV) Tj
+T*
+(buttons. Removed the "Chart this data" item from the table, view and query action menus. More) Tj
+T*
+(space between lines in chart tooltips. Tags: datasette , visualization , datasette-charts) Tj
+T*
+() Tj
+T*
+(4. Remotely unplugging a USB device on my Mac, without touching it) Tj
+T*
+(Source: Jeff Geerling | Published: Thu, 26 Nov 2026 23:18:00 -0600) Tj
+T*
+(Link: https://www.jeffgeerling.com/blog/2026/remote-control-usb-hub/) Tj
+T*
+(Tonight I was remote debugging a USB-C device with custom firmware, which was plugged into my) Tj
+T*
+(Mac Studio at work. I was accessing it over a WireGuard VPN tunnel. Part of the debugging) Tj
+T*
+(process involves flashing firmware to the device using MIDI SysEx messages , and while handy,) Tj
+T*
+(this technique can also be flaky, leaving the device in a partially-flashed state that needs a) Tj
+T*
+(physical re-plug to recover from.) Tj
+T*
+() Tj
+T*
+(5. Who gets to decide if something is written by AI?) Tj
+T*
+(Source: seangoedecke.com RSS feed | Published: Fri, 27 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/) Tj
+T*
+(Every day there?s some new argument about whether something was written by AI: a writing prize) Tj
+T*
+(where the winning story was supposedly AI-generated, or an author who lost her contract after) Tj
+T*
+(the manuscript lit up Pangram 1 , or a dispute about whether a tweet was written by a human or) Tj
+T*
+(not. Why do people hate Pangram so much? You could have an interesting conversation about) Tj
+T*
+(whether Pangram is reliable 2 , or whether it?s wrong to run AI detection tools on other) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4611 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(people?s writing 3 . However, I think these points are downstream of the real source of) Tj
+T*
+(conflict, which is that many anti-AI people have a fundamental hatred of AI detection tooling.) Tj
+T*
+(This puzzled me for a long time. If you hate AI, shouldn?t you love a tool that can unmask it?) Tj
+T*
+(If you?re worried about the intrusion of AI-generated content into human spaces, shouldn?t you) Tj
+T*
+(be thrilled that there are systems that can identify and flag content like this? Shouldn?t) Tj
+T*
+(people who think AI is wrong be advocating for mandatory Pangram scanning of all social media,) Tj
+T*
+(news, education, and so on ? or if they don?t trust the Pangram company specifically, shouldn?t) Tj
+T*
+(they be advocating for the government to build a Pangram-for-the-public tool 4 to...) Tj
+T*
+() Tj
+T*
+(6. ? Obvious Affordances Are Due for a Comeback) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-26T15:11:46Z) Tj
+T*
+(Link: https://daringfireball.net/2026/11/obvious_affordances_are_due_for_a_comeback) Tj
+T*
+(There?s a wonderful rule of thumb oft attributed to Albert Einstein: *Everything should be made) Tj
+T*
+(as simple as possible, but not simpler.* When clickable UI elements do not look clickable,) Tj
+T*
+(they?ve been made too simple.) Tj
+T*
+() Tj
+T*
+(7. ?The Life of a Composer?) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-25T17:04:06Z) Tj
+T*
+(Link: https://composer.pablostanley.com/#1) Tj
+T*
+(Via Marcin Wichary , who writes: Designer Pablo Stanley created a really fun interactive) Tj
+T*
+(exploration of what it takes to create a seemingly simple ?composer? \(industry?s jargon for a) Tj
+T*
+(more sophisticated input field or things like it\). [...] Also, I am burying the lede: it?s a) Tj
+T*
+(really enjoyable and well-crafted experience ? don?t miss the sound and music! ? and this) Tj
+T*
+(unique way of talking about interface details could be inspiring in and of itself. You can also) Tj
+T*
+(watch the entire thing as a video with Stanley narrating, but I personally liked the) Tj
+T*
+(interactive version more. At first I enjoyed this a lot. I got maybe a quarter of the way) Tj
+T*
+(through it before I thought it was too long ? and then poked around and figured out that I) Tj
+T*
+(wasn?t even halfway done with it yet. At first, yes, it brings to life just how many details a) Tj
+T*
+(designer might have to think about. But after a bit it?s just interminable neuroticism. I drew) Tj
+T*
+(this conclusion before I looked up where Stanley works , which I would have won a bet on. I) Tj
+T*
+(wound up skipping over half of it, which makes this a rare exception ? I almost never link to) Tj
+T*
+(anything on DF which I skipped through. At the point where I began wondering if this whole) Tj
+T*
+(thin...) Tj
+T*
+() Tj
+T*
+(8. 20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-25T16:22:27Z) Tj
+T*
+(Link: https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-) Tj
+T*
+(and-jensen-huang-b977cfda?st=7ctVgP) Tj
+T*
+(Damian Paletta, writing for The Wall Street Journal \(gift link\): Trump disclosed in a Monday) Tj
+T*
+(CNBC interview that he had ?protected? Elon Musk in his first term, though he didn?t detail) Tj
+T*
+(how. ?I protected Elon in my first term, very big. Elon was protected. I talk about it, and I?m) Tj
+T*
+(proud of Elon. I love Elon. I think he?s great. You know, 80% super genius, 20% he has other) Tj
+T*
+(problems, but I tell him that. But Elon I protected. You wouldn?t have an Elon if it wasn?t for) Tj
+T*
+(me, and with that certain incident that took place, which was, you know, a tough incident.?) Tj
+T*
+(Trump didn?t go into more detail, but he did say ?we have to protect our brilliant people) Tj
+T*
+(because we don?t have enough.? As Trump spirals into dementia and he loses whatever modicum of) Tj
+T*
+(inhibition he started with, we?ll hear more and more nuggets like this. Is there really even a) Tj
+T*
+(secret Musk scandal here? Probably not ? this is probably just Trump being Trump, summoning his) Tj
+T*
+(inner ?John Barron? hype man . But it sure is a crazy thing to just drop on CNBC about one of) Tj
+T*
+(your own major political allies. ?) Tj
+T*
+() Tj
+T*
+(9. What happens when you put a non-agile object in the CoreApplication Properties?) Tj
+T*
+(Source: The Old New Thing | Published: Thu, 26 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261126-00/?p=112899/) Tj
+T*
+(The reference expires, but the entry remains. The post What happens when you put a non-agile) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4548 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(object in the CoreApplication Properties? appeared first on The Old New Thing .) Tj
+T*
+() Tj
+T*
+(10. Las Vegas, Monte Carlo, and Integer Factorization) Tj
+T*
+(Source: John D. Cook | Published: Thu, 26 Nov 2026 13:14:07 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/26/las-vegas-monte-carlo/) Tj
+T*
+(Monte Carlo algorithms typically have a fixed runtime but a variable error rate. Las Vegas) Tj
+T*
+(algorithms have a variable runtime but a fixed \(i.e. zero\) error rate. Stanis?aw Ulam came up) Tj
+T*
+(with the idea of Monte Carlo methods in 1946 and Nicholas Metropolis coined the term ?Monte) Tj
+T*
+(Carlo? the next year. L·szlÛ Babai coined the [?] The post Las Vegas, Monte Carlo, and Integer) Tj
+T*
+(Factorization first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(11. Underrated reasons to be thankful VI) Tj
+T*
+(Source: DYNOMIGHT | Published: 2026-11-26T00:00:00+00:00) Tj
+T*
+(Link: https://dynomight.net/thanks-6/) Tj
+T*
+(That in most of the world today, you can walk around freely during the day, even in crowds of) Tj
+T*
+(thousands of people, with almost zero concern that someone will stab you and take your stuff.) Tj
+T*
+(That if you?re feeling nauseated, you can apparently pour some isopropyl alcohol onto a pad and) Tj
+T*
+(sniff it, and the effect is apparently as strong as prescription antiemetics but faster, and) Tj
+T*
+(this is apparently often used in emergency rooms, although we don?t have great RCTs and no one) Tj
+T*
+(seems to have the foggiest idea of why it should work and for some reason this trick has) Tj
+T*
+(utterly failed to entrench itself as a folk remedy. That your upper body has a vastly higher) Tj
+T*
+(density of apocrine and sebaceous glands than your legs, so provided you cover your gland-rich) Tj
+T*
+(groin with underwear, you can skip washing your pants and skirts for a shockingly long time,) Tj
+T*
+(which is good because work is bad, though even if they \(the pants/skirts\) still look/smell) Tj
+T*
+(clean you may still want to wash them occasionally because that will prevent microscopic grime) Tj
+T*
+(from chewing up the fibers and re-align the weave and \(with plant-based fabrics\) restore fiber) Tj
+T*
+(elasticity, thankfully. That intestinal villi. That the Earth is struck by l...) Tj
+T*
+() Tj
+T*
+(12. OGP Image Format Support on Major Sites and Apps) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Thu, 26 Nov 2026 12:34:04 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/ogp-image-format-support-on-major-sites-and-apps/) Tj
+T*
+(I've built a quick tool to see which image formats are supported on sites that allow Open Graph) Tj
+T*
+(Protocol link previews. As I've whinged about before, Facebook have all-but abandoned their) Tj
+T*
+(efforts to standardise OGP. Which leads to a situation where a bunch of sites all have) Tj
+T*
+(conflicting requirements on what they'll show. There's no easy way to find out which sites) Tj
+T*
+(support which image formats, so?) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: Charles Koch is a cult leader \(26 Nov 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Thu, 26 Nov 2026 12:31:19) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/11/26/science-of-liberty/) Tj
+T*
+(Today's links Charles Koch is a cult leader: The "science of liberty" is no more scientific) Tj
+T*
+(that Scientology. Hey look at this: Delights to delectate. Object permanence: Zune sucks;) Tj
+T*
+("Paintwork"; Wells Fargo claims forged signatures mean real binding arbitration; Corporate) Tj
+T*
+(tax-breaks go to investors, not consumers; Anti-Lula conspirators eat each other; McKinsey) Tj
+T*
+(created Big Pharma's price-gouging; Unions v two-tier contracts. Upcoming appearances: Virtual,) Tj
+T*
+(Oxford, Santa Barbara, Montreal. Recent appearances: Where I've been. Latest books: You keep) Tj
+T*
+(readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Charles Koch is a cult leader \(permalink\) I've never met Charles Koch,) Tj
+T*
+(but I sometimes feel like I know him, because he's such a type, instantly recognizable from his) Tj
+T*
+(philosophy, actions, and pronouncements. Koch is clearly very smart, in the specific sense of) Tj
+T*
+(sometimes being able to spot and act on true things that other people either can't see or can't) Tj
+T*
+(bring themselves to pursue. When he inherited his father's fossil fuel empire, he made a series) Tj
+T*
+(of investments in innovative processes that would substantially improve the effici...) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000004678 00000 n 
+0000004804 00000 n 
+0000009467 00000 n 
+0000009593 00000 n 
+0000014193 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+14319
+%%EOF
