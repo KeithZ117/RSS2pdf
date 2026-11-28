@@ -1,0 +1,482 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4370 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(RSS Digest) Tj
+T*
+(Generated at: 2026-11-28 16:43:07) Tj
+T*
+() Tj
+T*
+(1. datasette-charts 0.4a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-27T23:57:17+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/27/datasette-charts/) Tj
+T*
+(Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to) Tj
+T*
+(allow other plugins to define new chart types, but I hadn't actually used it for anything yet.) Tj
+T*
+(I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up) Tj
+T*
+(with a bunch of friction points in the design. This release addresses those, which should make) Tj
+T*
+(building additional chart plugins a whole lot more ergonomic. I've also added a website for the) Tj
+T*
+(plugin, at charts.datasette.io . The new website includes a tutorial for plugin authors , and a) Tj
+T*
+(gallery showing all of the core charts and annotations, each one linking to an interactive demo) Tj
+T*
+(on Datasette Lite . Tags: datasette-charts , datasette , visualization , datasette-lite) Tj
+T*
+() Tj
+T*
+(2. datasette-mcp 0.4) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-27T00:26:17+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/27/datasette-mcp/) Tj
+T*
+(Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags:) Tj
+T*
+(model-context-protocol , datasette) Tj
+T*
+() Tj
+T*
+(3. datasette-charts 0.1a0) Tj
+T*
+(Source: Simon Willison's Weblog | Published: 2026-11-23T00:37:20+00:00) Tj
+T*
+(Link: https://simonwillison.net/2026/Nov/23/datasette-charts/) Tj
+T*
+(Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but) Tj
+T*
+(on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went) Tj
+T*
+(so well that this is now a full plugin. You can try it out in Datasette Lite here . It looks) Tj
+T*
+(like this: The new charts plugin works against any table or arbitrary SQL query in Datasette.) Tj
+T*
+(It defines several different chart types \(using vendored D3 , Observable Plot , and) Tj
+T*
+(topojson-client \), each with a set of heuristics for identifying when they might be a good) Tj
+T*
+(match for a specific set of rows. Those suggestion thumbnails at the top are actual) Tj
+T*
+(visualizations driven by the data, and selecting one pulls up the full chart along with tools) Tj
+T*
+(for modifying it. You can also manually construct a chart from scratch. As with other Datasette) Tj
+T*
+(visualization plugins, the current state of your chart is persisted in a #fragment in the URL -) Tj
+T*
+(so you can bookmark charts or share them with others. The most important feature is that the) Tj
+T*
+(charts take all rows into account . Previous charting plugins like datasette-vega would only) Tj
+T*
+(show charts for the current page of results, generally up to 100 rows. The new plugin comp...) Tj
+T*
+() Tj
+T*
+(4. OpenAI Countersues Apple for Stealing Trade Secrets) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-27T23:50:13Z) Tj
+T*
+(Link: https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1) Tj
+T*
+(Tim Bradshaw and Michael Acton, reporting for the Financial Times: ?Apple set quite a trap for) Tj
+T*
+(employees,? the complaint said. ?Bright young minds thought they would work in Cupertino.) Tj
+T*
+(Instead they were joining Hotel California: you can check out any time you like, but you can) Tj
+T*
+(never leave.? Apple said: ?OpenAI?s counterclaims are a transparent attempt to distract from) Tj
+T*
+(the substance of Apple?s lawsuit, in which OpenAI has already been ordered to stop using) Tj
+T*
+(Apple?s confidential information.? So much has happened this year that this lawsuit ? which is) Tj
+T*
+(only in the earliest stages ? feels like old news. ?) Tj
+T*
+() Tj
+T*
+(5. Serial Numbers in Chinese Filings Reveal That Nvidia?s Restricted Blackwell Chips Were) Tj
+T*
+(Installed at a Shanghai Datacenter Linked to Alice Huang and Megaspeed) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-27T23:41:26Z) Tj
+T*
+(Link: https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-chin) Tj
+T*
+(a-site-tied-to-alice-huang?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJ) Tj
+T*
+(zY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc4ODgyMywiZXhwIjoxNzk2MzkzNjIzLCJhcnRpY2xlSWQiOiJUUD) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4506 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(FVMFJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI3QTcxRTEyQjY2RTM0RkI3ODlCQTA5NEZBQzVGMkE0OSJ9.tcyYBUyKr7A_) Tj
+T*
+(4Qyf4S69z95uT1ZiyuOyOOZi73bhQ7Q&leadSource=article-gifting) Tj
+T*
+(Andy Lin, Mackenzie Hawkins, and Kari Soo Lindberg, reporting for Bloomberg: * A pair of) Tj
+T*
+(Chinese firms installed Nvidia Corp.?s powerful Blackwell semiconductors in a Shanghai data) Tj
+T*
+(center linked to Alice Huang, the woman at the heart of a controversy surrounding the US) Tj
+T*
+(chipmaker. The gear installed at the Yangtze River Delta Project included a GB300 NVL72 rack,) Tj
+T*
+(among Nvidia?s most powerful products, according to a serial number specified in documents) Tj
+T*
+(submitted to Chinese regulators in November. Shanghai Shuoyao offered the hardware as) Tj
+T*
+(collateral to obtain a 96 million yuan \($14 million\) loan from Shanghai Innovation Bank,) Tj
+T*
+(according to filings from the lender that were reviewed by Bloomberg News. A second firm,) Tj
+T*
+(Shanghai Kezhan, controlled by a Tokyo-based parent, described a GB200 server ? which also) Tj
+T*
+(relies on Blackwell chips ? at the facility. That description was provided in documents when it) Tj
+T*
+(obtained a 90 million yuan loan in late 2025 from a finance-leasing firm wholly owned by a) Tj
+T*
+(local Shanghai government agency. [...] The submissions reveal for the first time that Nvidia?s) Tj
+T*
+(Blackwell processors found their way into a Chinese data center that has ties to Alice Huang) Tj
+T*
+(and Megaspee...) Tj
+T*
+() Tj
+T*
+(6. Patriotism, Trump-Style) Tj
+T*
+(Source: Daring Fireball | Published: 2026-11-24T22:06:56Z) Tj
+T*
+(Link: https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-chi) Tj
+T*
+(na-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/) Tj
+T*
+(Steven Nelson, writing for The New York Post: President Trump claimed Monday that Nvidia CEO) Tj
+T*
+(Jensen Huang could have become a leader in China?s artificial intelligence industry if he) Tj
+T*
+(hadn?t been reinstated to the US firm ? telling CNBC in a phone interview that the 63-year-old) Tj
+T*
+(has ?got a little blood there? despite being born in Taiwan. ?If we didn?t do this, I could see) Tj
+T*
+(China coming in and saying to Jensen, ?Hey, how would you like to come to China?? ? He?s got a) Tj
+T*
+(little [Chinese] blood in him. He?s got a little blood there ? ?How would you like to come to) Tj
+T*
+(China and head up Huawei??? Trump told CNBC in a phone interview, during which he called Huang,) Tj
+T*
+(63, a ?national treasure? despite his affair with an alleged Chinese spy. ?If Jensen was angry) Tj
+T*
+(enough, if he was treated badly, maybe he could do that.? This was during Trump?s 50-minute) Tj
+T*
+(phoner on CNBC . As I noted yesterday, on his Truth Social blog, Trump wrote : On a personal) Tj
+T*
+(note, I have gotten to know Jensen, and he is a Great Patriot and National Treasure. Think) Tj
+T*
+(about how perverse Trump?s worldview is that he simultaneously declares that Jensen Huang is a) Tj
+T*
+(?Great Patriot and National Treasure? and that Huang would be justified in...) Tj
+T*
+() Tj
+T*
+(7. Could we use the CoreApplication Properties to manage the lifetime of an object that) Tj
+T*
+(refuses to be marshaled?) Tj
+T*
+(Source: The Old New Thing | Published: Fri, 27 Nov 2026 15:00:00 +0000) Tj
+T*
+(Link: https://devblogs.microsoft.com/oldnewthing/20261127-00/?p=112901/) Tj
+T*
+(It doesn't help with the underlying problem. The post Could we use the CoreApplication) Tj
+T*
+(Properties to manage the lifetime of an object that refuses to be marshaled? appeared first on) Tj
+T*
+(The Old New Thing .) Tj
+T*
+() Tj
+T*
+(8. How many triangles can a graph with no pentagons have?) Tj
+T*
+(Source: John D. Cook | Published: Fri, 27 Nov 2026 15:27:19 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/27/triangles-without-pentagons/) Tj
+T*
+(Suppose you have a graph with n nodes and no pentagons, how many triangles can it contain? Here) Tj
+T*
+(a pentagon means a cycle of length 5 and a triangle means a cycle of length 3. This is an) Tj
+T*
+(abstract property of the graph, not related to the representation of the graph on a plane,) Tj
+T*
+(unless the [?] The post How many triangles can a graph with no pentagons have? first appeared) Tj
+T*
+(on John D. Cook .) Tj
+T*
+() Tj
+T*
+(9. Counterexamples to proof by example) Tj
+T*
+(Source: John D. Cook | Published: Fri, 27 Nov 2026 13:03:22 +0000) Tj
+T*
+(Link: https://www.johndcook.com/blog/2026/11/27/counterexample-to-proof-by-example/) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4226 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(There are a few standard examples of statements that appear to be true for a large number of) Tj
+T*
+(examples but eventually fail. Three that come to mind are prime generating polynomials, the) Tj
+T*
+(Borwein integrals, and Mercer?s circle problem. I?ll go into each of these briefly before) Tj
+T*
+(discussing an example I just recently ran across. Prime [?] The post Counterexamples to proof) Tj
+T*
+(by example first appeared on John D. Cook .) Tj
+T*
+() Tj
+T*
+(10. Gadget Review: WiFi Carbon Monoxide Alarm \(JKD-625W\) ?????) Tj
+T*
+(Source: Terence Eden?s Blog | Published: Fri, 27 Nov 2026 12:34:56 +0000) Tj
+T*
+(Link: https://shkspr.mobi/blog/2026/11/gadget-review-wifi-carbon-monoxide-alarm-jkd-625w/) Tj
+T*
+(I was rudely woken at 5AM by the death-throes of my Carbon Monoxide alarm. Apparently it is an) Tj
+T*
+(iron-clad law of the Universe that their dying beeps must happen while you're asleep. Right,) Tj
+T*
+(time for a new detector as I'd rather not die of CO poisoning. I found Smart Home Shop UK which) Tj
+T*
+(lists items that are compatible with HomeAssistant. Their WiFi Carbon Monoxide Alarm was only) Tj
+T*
+(£15 - which is about ?) Tj
+T*
+() Tj
+T*
+(11. The Invention Algorithm) Tj
+T*
+(Source: Construction Physics | Published: Fri, 27 Nov 2026 15:58:24 GMT) Tj
+T*
+(Link: https://www.construction-physics.com/p/the-invention-algorithm) Tj
+T*
+(As I noted in my last essay, I increasingly think that the process of creating new technologies) Tj
+T*
+(is usefully thought of as a search process ? the would-be inventor must sift through a huge) Tj
+T*
+(mass of possibilities and pluck out from within it the specific arrangement of phenomena,) Tj
+T*
+(parts, and components that actually performs some useful function.) Tj
+T*
+() Tj
+T*
+(12. Opus 5.5 and Fable 5.2 made my overoptimized Rust code even more overoptimized) Tj
+T*
+(Source: Max Woolf's Blog | Published: Fri, 27 Nov 2026 12:10:00 -0800) Tj
+T*
+(Link: https://minimaxir.com/2026/11/opus-fable/) Tj
+T*
+(I don?t want my benchmarks to be measured in milliseconds, I want them measured in) Tj
+T*
+(microseconds.) Tj
+T*
+() Tj
+T*
+(13. Pluralistic: Taylorism and AI's shared sales-pitch \(27 Nov 2026\)) Tj
+T*
+(Source: Pluralistic: Daily links from Cory Doctorow | Published: Fri, 27 Nov 2026 13:38:29) Tj
+T*
+(+0000) Tj
+T*
+(Link: https://pluralistic.net/2026/11/27/taylor-made/) Tj
+T*
+(Today's links Taylorism and AI's shared sales-pitch: Bosses will buy anything if they think) Tj
+T*
+(it'll give them more control over their workers. Hey look at this: Delights to delectate.) Tj
+T*
+(Object permanence: UK recordings copyright won't go to 95 years; McDonald's sandwich patent;) Tj
+T*
+(McLaren's son torches punk tat; Chestburster turkey; O\(N^2\) nationalism. Upcoming appearances:) Tj
+T*
+(Virtual, Oxford, Santa Barbara, Montreal. Recent appearances: Where I've been. Latest books:) Tj
+T*
+(You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em.) Tj
+T*
+(Colophon: All the rest. Taylorism and AI's shared sales-pitch \(permalink\) More than a century) Tj
+T*
+(ago, the most powerful, wealthiest men in the world fell for a con-artist named Frederick) Tj
+T*
+(Winslow Taylor, who sold them expensive consulting services to help them apply "Scientific) Tj
+T*
+(Management" to their companies: https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor Upon) Tj
+T*
+(receipt of eye-popping consulting fees, Taylor dispatched unqualified young men in "scientist") Tj
+T*
+(drag \(lab coats, clipboards, stopwatches\) to fan out over factory floors. These smart young men) Tj
+T*
+(noted how much time each worker at each station took to perform each task, then "o...) Tj
+T*
+() Tj
+T*
+(14. AI researchers debate what we should do next ? Daniel Kokotajlo and Ege Erdil) Tj
+T*
+(Source: Dwarkesh Podcast | Published: Fri, 27 Nov 2026 18:01:14 GMT) Tj
+T*
+(Link: https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil) Tj
+T*
+("If we pause now, people still won't understand what's at stake.") Tj
+T*
+() Tj
+T*
+(15. This Week on The Analog Antiquarian) Tj
+T*
+(Source: The Digital Antiquarian | Published: Fri, 27 Nov 2026 17:46:58 +0000) Tj
+T*
+(Link: https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 2688 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+36 806 Td
+(The Rhythm of Life) Tj
+T*
+() Tj
+T*
+(16. The agent tax has arrived: Google Workspace's MCP pricing) Tj
+T*
+(Source: Martin Alderson | Published: Fri, 27 Nov 2026 00:00:00 GMT) Tj
+T*
+(Link: https://martinalderson.com/posts/the-agent-tax-has-arrived/?utm_source=rss&utm_medium=rss) Tj
+T*
+(&utm_campaign=feed) Tj
+T*
+(Google is charging agents per request for Workspace data that apps read for free. Why I think) Tj
+T*
+(they're doing it, who might follow, and why it could backfire.) Tj
+T*
+() Tj
+T*
+(17. UI style guides) Tj
+T*
+(Source: Aresluna | Published: 2026-11-27T22:07:21+0000) Tj
+T*
+(Link: https://aresluna.org/ui-style-guides) Tj
+T*
+(A library of every single UI style guide and guideline document) Tj
+T*
+() Tj
+T*
+(18. Protect Your Web Forms Against Spam Bots) Tj
+T*
+(Source: Miguel Grinberg's Blog | Published: Fri, 27 Nov 2026 17:48:35 GMT) Tj
+T*
+(Link: https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots) Tj
+T*
+(The comments form that appears at the bottom of every article in this blog is under constant) Tj
+T*
+(abuse by spam bots. I added a CAPTCHA to it a few years ago and at the time it seemed to help) Tj
+T*
+(some, but spammers have now figured out how to bypass them. As a result, my comments inbox has) Tj
+T*
+(been getting out of control lately. In this article I'm going to share a solution that I built) Tj
+T*
+(to help me reduce spam on this blog from 30-40 messages per day to just about 2-3 per month. It) Tj
+T*
+(is based on the " proof of work " concept, and unlike CAPTCHAs, it does not rely on third-party) Tj
+T*
+(services. It is also better for users, because it does not require them to solve silly puzzles) Tj
+T*
+(or even know that they are being verified. I have implemented the solution in Python and Flask,) Tj
+T*
+(because that is what this blog runs on, but once you understand how it works you should have no) Tj
+T*
+(trouble porting it to other languages or frameworks.) Tj
+T*
+() Tj
+T*
+(19. Het succesvolle Fieldlab van de Nederlandse Digitale Dienst deze week) Tj
+T*
+(Source: Bert Hubert's writings | Published: Fri, 27 Nov 2026 12:35:00 +0100) Tj
+T*
+(Link: https://berthub.eu/articles/posts/fieldlab-is-van-de-it/) Tj
+T*
+(Ik schreef eerder dat de overheid ?niet zo van de IT? is, en vertelde als voorbeeld over de) Tj
+T*
+(gÍnante toestand rond de vacature-mailer. Ook had ik wat tips hoe het beter zou kunnen, al is) Tj
+T*
+(dat lastig als er geen geld voor is. Maar, het moet toch echt. We zijn inmiddels bijna 100,00%) Tj
+T*
+(afhankelijk van Amerikaanse clouds voor alles. Digitale autonomie draait bovendien om meer dan) Tj
+T*
+(dat. Ben je als overheid ?in control? van je computers?) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004632 00000 n 
+0000004758 00000 n 
+0000009316 00000 n 
+0000009442 00000 n 
+0000013720 00000 n 
+0000013846 00000 n 
+0000016587 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+16715
+%%EOF
